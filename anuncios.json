@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498212584",
-    "titulo": "Vendo Xbox séries s",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1498212682",
+    "titulo": "Vendo ps3 com defeito ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "11:29",
+    "detectado": "11:30",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-xbox-series-s-1498212584",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/vendo-ps3-com-defeito-1498212682",
+    "fotoUrl": "https://img.olx.com.br/images/38/382603756979599.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/382603756979599.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777559408
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:29",
     "fotoUrl": "https://img.olx.com.br/images/94/948630637755503.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/948630637755503.jpg",
       "https://img.olx.com.br/images/95/958659156692135.jpg",
       "https://img.olx.com.br/images/95/958668159622465.jpg"
     ],
-    "defeito": false,
+    "id": "1498212584",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-xbox-series-s-1498212584",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Vendo Xbox séries s",
     "ts": 1777559393
   },
   {
