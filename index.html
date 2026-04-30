@@ -1,0 +1,593 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta name="theme-color" content="#080c14">
+<title>OLX Dashboard</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+
+:root {
+  --bg: #080c14;
+  --s1: #0d1220;
+  --s2: #111827;
+  --border: #1e2d45;
+  --green: #00e5a0;
+  --blue: #0ea5e9;
+  --red: #ef4444;
+  --yellow: #f59e0b;
+  --text: #e2e8f0;
+  --muted: #64748b;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bot: env(safe-area-inset-bottom, 0px);
+}
+
+html { background: var(--bg); }
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  min-height: 100dvh;
+  overflow-x: hidden;
+}
+
+/* ── Header ── */
+.header {
+  position: sticky; top: 0; z-index: 100;
+  background: rgba(13,18,32,.95);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--border);
+  padding: calc(var(--safe-top) + 12px) 16px 12px;
+}
+.header-top { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+.logo { font-size: 16px; font-weight: 700; background: linear-gradient(135deg, var(--green), var(--blue)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+.header-actions { display: flex; gap: 8px; align-items: center; }
+.btn-icon { background: var(--s2); border: 1px solid var(--border); border-radius: 8px; color: var(--muted); width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; font-size: 15px; cursor: pointer; transition: all .15s; }
+.btn-icon:active { background: var(--s1); transform: scale(.95); }
+.badge-count { background: var(--green); color: #0a1628; font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 20px; font-family: 'JetBrains Mono', monospace; }
+
+/* ── Search ── */
+.search-wrap { position: relative; }
+.search-input {
+  width: 100%; background: var(--s2); border: 1px solid var(--border);
+  border-radius: 10px; color: var(--text); padding: 9px 12px 9px 36px;
+  font-family: 'Space Grotesk', sans-serif; font-size: 14px; outline: none;
+}
+.search-input::placeholder { color: var(--muted); }
+.search-icon { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); font-size: 14px; color: var(--muted); pointer-events: none; }
+
+/* ── Filtros ── */
+.filters-wrap { overflow-x: auto; padding: 10px 16px 0; display: flex; gap: 7px; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+.filters-wrap::-webkit-scrollbar { display: none; }
+.filter-btn {
+  flex-shrink: 0; padding: 5px 12px; border-radius: 20px;
+  border: 1px solid var(--border); background: transparent;
+  color: var(--muted); font-size: 12px; font-family: 'Space Grotesk', sans-serif;
+  font-weight: 500; cursor: pointer; white-space: nowrap; transition: all .15s;
+  display: flex; align-items: center; gap: 5px;
+}
+.filter-btn.active { background: rgba(0,229,160,.12); border-color: var(--green); color: var(--green); }
+.filter-btn:active { transform: scale(.95); }
+
+/* ── Sort bar ── */
+.sort-wrap { padding: 8px 16px; display: flex; gap: 6px; border-bottom: 1px solid var(--border); }
+.sort-btn { padding: 4px 10px; border-radius: 6px; border: 1px solid var(--border); background: transparent; color: var(--muted); font-size: 11px; font-family: 'JetBrains Mono', monospace; cursor: pointer; transition: all .15s; }
+.sort-btn.active { background: rgba(14,165,233,.12); border-color: var(--blue); color: var(--blue); }
+
+/* ── Grid ── */
+.grid-wrap { padding: 12px 12px calc(var(--safe-bot) + 80px); }
+.grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
+@media (min-width: 500px) { .grid { grid-template-columns: repeat(3, 1fr); } }
+
+/* ── Card ── */
+.card {
+  background: var(--s1); border: 1px solid var(--border);
+  border-radius: 12px; overflow: hidden; cursor: pointer;
+  transition: transform .15s, box-shadow .15s;
+  animation: fadeUp .3s ease both;
+}
+.card:active { transform: scale(.97); }
+@keyframes fadeUp { from { opacity:0; transform: translateY(10px); } to { opacity:1; transform: translateY(0); } }
+
+.card-img-wrap { position: relative; width: 100%; padding-bottom: 100%; background: var(--s2); overflow: hidden; }
+.card-img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; }
+.card-no-img { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-size: 30px; color: var(--muted); }
+.card-badge { position: absolute; top: 6px; left: 6px; font-size: 9px; padding: 2px 6px; border-radius: 10px; background: rgba(239,68,68,.85); color: #fff; font-weight: 700; font-family: 'JetBrains Mono', monospace; }
+.foto-nav { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,.55); border: none; color: #fff; width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 11px; cursor: pointer; z-index: 2; }
+.foto-nav:active { background: rgba(0,229,160,.6); }
+.foto-prev { left: 5px; } .foto-next { right: 5px; }
+.foto-dots { position: absolute; bottom: 5px; left: 50%; transform: translateX(-50%); display: flex; gap: 3px; }
+.dot { width: 4px; height: 4px; border-radius: 50%; background: rgba(255,255,255,.4); }
+.dot.active { background: #fff; }
+
+.card-body { padding: 8px 10px 10px; }
+.card-cat { font-size: 9px; color: var(--muted); font-family: 'JetBrains Mono', monospace; text-transform: uppercase; letter-spacing: .5px; margin-bottom: 3px; }
+.card-title { font-size: 12px; font-weight: 600; line-height: 1.3; margin-bottom: 5px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.card-price { font-size: 13px; font-weight: 700; color: var(--green); font-family: 'JetBrains Mono', monospace; }
+
+/* ── Bottom sheet modal ── */
+.sheet-overlay { position: fixed; inset: 0; background: rgba(0,0,0,.7); z-index: 200; opacity: 0; pointer-events: none; transition: opacity .25s; }
+.sheet-overlay.open { opacity: 1; pointer-events: all; }
+.sheet {
+  position: fixed; bottom: 0; left: 0; right: 0; z-index: 201;
+  background: var(--s1); border-radius: 20px 20px 0 0;
+  max-height: 92dvh; overflow-y: auto;
+  transform: translateY(100%); transition: transform .3s cubic-bezier(.32,.72,0,1);
+  padding-bottom: calc(var(--safe-bot) + 16px);
+}
+.sheet.open { transform: translateY(0); }
+.sheet-handle { width: 36px; height: 4px; background: var(--border); border-radius: 2px; margin: 12px auto 16px; }
+.sheet-img { width: 100%; max-height: 240px; object-fit: cover; }
+.sheet-img-wrap { position: relative; background: var(--s2); }
+.sheet-nav { position: absolute; top: 50%; transform: translateY(-50%); background: rgba(0,0,0,.6); border: none; color: #fff; width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 16px; cursor: pointer; }
+.sheet-nav:active { background: rgba(0,229,160,.6); }
+#sheetPrev { left: 10px; } #sheetNext { right: 10px; }
+.sheet-dots { position: absolute; bottom: 8px; left: 50%; transform: translateX(-50%); display: flex; gap: 5px; }
+.sheet-body { padding: 16px; }
+.sheet-cat { font-size: 10px; color: var(--muted); font-family: 'JetBrains Mono', monospace; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 4px; }
+.sheet-title { font-size: 18px; font-weight: 700; line-height: 1.2; margin-bottom: 8px; }
+.sheet-price { font-size: 24px; font-weight: 700; color: var(--green); font-family: 'JetBrains Mono', monospace; margin-bottom: 10px; }
+.sheet-meta { font-size: 11px; color: var(--muted); font-family: 'JetBrains Mono', monospace; margin-bottom: 12px; line-height: 1.8; }
+.sheet-desc { font-size: 13px; color: #94a3b8; line-height: 1.7; margin-bottom: 16px; white-space: pre-wrap; }
+.btn-row { display: flex; flex-direction: column; gap: 8px; }
+.btn-open { display: block; text-align: center; padding: 13px; background: rgba(0,229,160,.1); border: 1px solid rgba(0,229,160,.3); border-radius: 12px; color: var(--green); font-size: 14px; font-weight: 700; text-decoration: none; }
+.btn-open:active { background: rgba(0,229,160,.2); }
+.btn-buy { display: block; text-align: center; padding: 13px; background: linear-gradient(135deg, var(--green), #00c484); border-radius: 12px; color: #0a1628; font-size: 14px; font-weight: 700; text-decoration: none; }
+.btn-buy:active { opacity: .85; }
+
+/* ── Empty/Loading ── */
+.state-box { text-align: center; padding: 60px 20px; color: var(--muted); }
+.state-icon { font-size: 48px; margin-bottom: 16px; opacity: .4; }
+.state-title { font-size: 16px; font-weight: 700; margin-bottom: 6px; color: var(--text); }
+.state-sub { font-size: 12px; font-family: 'JetBrains Mono', monospace; line-height: 1.6; }
+.spinner { width: 36px; height: 36px; border: 3px solid var(--border); border-top-color: var(--green); border-radius: 50%; animation: spin .8s linear infinite; margin: 0 auto 16px; }
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ── Toast ── */
+.toast {
+  position: fixed; bottom: calc(var(--safe-bot) + 16px); left: 50%; transform: translateX(-50%) translateY(80px);
+  background: var(--s1); border: 1px solid var(--green); border-radius: 10px;
+  padding: 10px 16px; font-size: 13px; color: var(--green);
+  font-family: 'JetBrains Mono', monospace; z-index: 300;
+  transition: transform .3s cubic-bezier(.32,.72,0,1); white-space: nowrap;
+}
+.toast.show { transform: translateX(-50%) translateY(0); }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="header-top">
+    <span class="logo">🎮 OLX Dashboard</span>
+    <div class="header-actions">
+      <span class="badge-count" id="totalCount">0</span>
+      <button class="btn-icon" id="btnSync" title="Sincronizar">⟳</button>
+    </div>
+  </div>
+  <div class="search-wrap">
+    <span class="search-icon">🔍</span>
+    <input class="search-input" id="searchInput" placeholder="Buscar anúncio...">
+  </div>
+</div>
+
+<!-- Filtros de categoria -->
+<div class="filters-wrap" id="filtersWrap"></div>
+
+<!-- Sort -->
+<div class="sort-wrap">
+  <button class="sort-btn active" data-sort="recente">↓ Recente</button>
+  <button class="sort-btn" data-sort="menor">↑ Menor preço</button>
+  <button class="sort-btn" data-sort="maior">↓ Maior preço</button>
+</div>
+
+<!-- Grid -->
+<div class="grid-wrap">
+  <div class="grid" id="grid">
+    <div class="state-box" style="grid-column:1/-1">
+      <div class="spinner"></div>
+      <div class="state-title">Carregando...</div>
+    </div>
+  </div>
+</div>
+
+<!-- Bottom sheet (modal mobile) -->
+<div class="sheet-overlay" id="sheetOverlay"></div>
+<div class="sheet" id="sheet">
+  <div class="sheet-handle"></div>
+  <div class="sheet-img-wrap" id="sheetImgWrap">
+    <img class="sheet-img" id="sheetImg" src="" alt="" style="display:none">
+    <button class="sheet-nav" id="sheetPrev" style="display:none">❮</button>
+    <button class="sheet-nav" id="sheetNext" style="display:none">❯</button>
+    <div class="sheet-dots" id="sheetDots"></div>
+  </div>
+  <div class="sheet-body">
+    <div class="sheet-cat"   id="sheetCat"></div>
+    <div class="sheet-title" id="sheetTitle"></div>
+    <div class="sheet-price" id="sheetPrice"></div>
+    <div class="sheet-meta"  id="sheetMeta"></div>
+    <div class="sheet-desc"  id="sheetDesc"></div>
+    <div class="btn-row">
+      <a class="btn-open" id="sheetLink" href="#" target="_blank">🔗 Abrir anúncio na OLX</a>
+      <a class="btn-buy"  id="sheetBuy"  href="#" target="_blank">🛒 Comprar com segurança</a>
+    </div>
+  </div>
+</div>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<script>
+// ── Config ───────────────────────────────────────────────────────────────────
+const TOKEN  = "8743925044:AAFW77vuKQSUDGOVNGutcOsibymTYA2-tfI";
+const CHATID = "1668140565";
+
+const CATEGORIAS = [
+  { id:"todos",  nome:"Todos",    icon:"🎮" },
+  { id:"ps5",    nome:"PS5",      icon:"🎮", palavras:["ps5","playstation 5"] },
+  { id:"ps4",    nome:"PS4",      icon:"🎮", palavras:["ps4","playstation 4"] },
+  { id:"ps3",    nome:"PS3",      icon:"🎮", palavras:["ps3","playstation 3"] },
+  { id:"xbox",   nome:"Xbox",     icon:"🟩", palavras:["xbox","series s","series x"] },
+  { id:"switch", nome:"Switch",   icon:"🔴", palavras:["nintendo","switch"] },
+  { id:"iphone", nome:"iPhones",  icon:"📱", palavras:["iphone"] },
+  { id:"outros", nome:"Outros",   icon:"📦" },
+];
+
+// ── Estado ───────────────────────────────────────────────────────────────────
+var anuncios   = [];
+var filtro     = "todos";
+var ordem      = "recente";
+var busca      = "";
+var fotoIdx    = {};
+var sheetFotos = [];
+var sheetFotoIdx = 0;
+var syncing    = false;
+
+// ── Telegram Web App ──────────────────────────────────────────────────────────
+const tg = window.Telegram?.WebApp;
+if (tg) {
+  tg.ready();
+  tg.expand();
+  tg.setHeaderColor('#080c14');
+  tg.setBackgroundColor('#080c14');
+}
+
+// ── LocalStorage ─────────────────────────────────────────────────────────────
+function salvar() {
+  try { localStorage.setItem('olx_ads', JSON.stringify(anuncios.slice(0,500))); } catch(e){}
+}
+function carregar() {
+  try {
+    const d = localStorage.getItem('olx_ads');
+    if (d) anuncios = JSON.parse(d);
+  } catch(e){}
+}
+
+// ── Telegram API ─────────────────────────────────────────────────────────────
+async function fetchTg(method, params) {
+  let url = `https://api.telegram.org/bot${TOKEN}/${method}`;
+  if (params) url += '?' + new URLSearchParams(params);
+  const r = await fetch(url);
+  return r.json();
+}
+
+async function getFileUrl(fileId) {
+  try {
+    const d = await fetchTg('getFile', { file_id: fileId });
+    if (d.ok) return `https://api.telegram.org/file/bot${TOKEN}/${d.result.file_path}`;
+  } catch(e){}
+  return null;
+}
+
+// ── Parse mensagem ────────────────────────────────────────────────────────────
+function detectarCat(txt) {
+  const t = txt.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+  for (let i=1;i<CATEGORIAS.length-1;i++) {
+    const c = CATEGORIAS[i];
+    if (c.palavras && c.palavras.some(p => t.includes(p))) return c.id;
+  }
+  return "outros";
+}
+
+function parseMensagem(msg) {
+  const text = msg.text || msg.caption || "";
+  if (!text) return null;
+  const ehAnuncio = text.includes("NOVO") || text.includes("Abrir na OLX") || text.includes("Ver na OLX") || /^\d+\.\s/.test(text);
+  if (!ehAnuncio) return null;
+
+  let titulo = "";
+  const mT = text.match(/📌\s*(?:<b>)?([^\n<]+)/) || text.match(/^\d+\.\s*📌?\s*(?:<b>)?([^\n<]+)/m);
+  if (mT) titulo = mT[1].replace(/<[^>]+>/g,"").trim();
+  if (!titulo || titulo.length < 3) return null;
+
+  let preco = null, precoRaw = "";
+  const mP = text.match(/💰\s*(?:<b>)?R\$\s*([\d.,]+)/);
+  if (mP) {
+    precoRaw = "R$ " + mP[1];
+    preco = parseFloat(mP[1].replace(/\./g,"").replace(",",".")) || null;
+  }
+
+  let publicado = "", detectado = "", tempoOlx = "";
+  const mPub = text.match(/📅[^:]*:\s*(?:<b>)?([^\n<(]+)/);
+  if (mPub) publicado = mPub[1].replace(/<[^>]+>/g,"").trim();
+  const mDet = text.match(/🔍[^:]*:\s*(?:<b>)?([^\n<]+)/);
+  if (mDet) detectado = mDet[1].replace(/<[^>]+>/g,"").trim();
+  const mOlx = text.match(/🏪\s*(Na OLX desde[^\n<]+)/);
+  if (mOlx) tempoOlx = mOlx[1].trim();
+
+  let descricao = "";
+  const mD = text.match(/📝[^:]*:\n([\s\S]{5,500}?)(?:\n────|$)/);
+  if (mD) descricao = mD[1].replace(/<[^>]+>/g,"").trim();
+
+  let link = "";
+  const mL = text.match(/href="([^"]+)"/) || text.match(/(https?:\/\/(?:www\.)?olx\.com\.br\/[^\s)>"]+)/);
+  if (mL) link = mL[1];
+
+  let fotosIds = [];
+  if (msg.photo && msg.photo.length) fotosIds.push(msg.photo[msg.photo.length-1].file_id);
+
+  // Defeito com negação
+  const PDEF = ["com defeito","tem defeito","apresenta defeito","com problema","não funciona","nao funciona","não liga","nao liga","queimado","pifou","para peça","sucata","estragado"];
+  const NDEF = ["sem","não tem","nao tem","nunca","funcionando"];
+  const txt2 = (titulo+" "+descricao).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+  let defeito = false;
+  for (const p of PDEF) {
+    const pN = p.normalize("NFD").replace(/[\u0300-\u036f]/g,"");
+    const idx = txt2.indexOf(pN);
+    if (idx < 0) continue;
+    const antes = txt2.slice(Math.max(0,idx-30),idx);
+    if (!NDEF.some(n => antes.includes(n.normalize("NFD").replace(/[\u0300-\u036f]/g,"")))) { defeito = true; break; }
+  }
+
+  return {
+    id: String(msg.message_id),
+    titulo, preco, precoRaw: precoRaw||"Sob consulta",
+    categoria: detectarCat(titulo+" "+text),
+    publicado, detectado, tempoOlx, descricao, link,
+    fotosIds, fotosUrls: [], fotoUrl: null,
+    ts: msg.date || 0, defeito
+  };
+}
+
+// ── Sincronizar ───────────────────────────────────────────────────────────────
+async function sincronizar() {
+  if (syncing) return;
+  syncing = true;
+  document.getElementById("btnSync").textContent = "⏳";
+
+  try {
+    const data = await fetchTg("getUpdates", { limit: 100, allowed_updates: ["message","channel_post"] });
+    if (!data.ok) throw new Error(data.description);
+
+    const seen = new Set(anuncios.map(a => a.id));
+    let novos = [];
+    const mediaGroups = {};
+
+    for (const upd of (data.result||[])) {
+      const msg = upd.message || upd.channel_post;
+      if (!msg) continue;
+      if (msg.media_group_id && msg.photo && !msg.text && !msg.caption) {
+        if (mediaGroups[msg.media_group_id]) mediaGroups[msg.media_group_id].fotosIds.push(msg.photo[msg.photo.length-1].file_id);
+        continue;
+      }
+      if (seen.has(String(msg.message_id))) continue;
+      const a = parseMensagem(msg);
+      if (a) { novos.push(a); seen.add(a.id); if (a.fotosIds.length && msg.media_group_id) mediaGroups[msg.media_group_id] = a; }
+    }
+
+    // Busca fotos em paralelo (máx 5 ao mesmo tempo)
+    const chunks = [];
+    for (let i=0;i<novos.length;i+=5) chunks.push(novos.slice(i,i+5));
+    for (const chunk of chunks) {
+      await Promise.all(chunk.map(async a => {
+        if (a.fotosIds.length) {
+          const url = await getFileUrl(a.fotosIds[0]);
+          if (url) { a.fotoUrl = url; a.fotosUrls = [url]; }
+        }
+      }));
+    }
+
+    anuncios = [...anuncios, ...novos]
+      .filter((a,i,arr) => arr.findIndex(b => b.id===a.id)===i)
+      .sort((a,b) => b.ts-a.ts)
+      .slice(0,500);
+
+    salvar();
+    renderizar();
+    if (novos.length) mostrarToast("+" + novos.length + " anúncios");
+    else mostrarToast("Atualizado!");
+
+  } catch(e) {
+    mostrarToast("Erro: " + e.message.slice(0,30));
+  }
+
+  document.getElementById("btnSync").textContent = "⟳";
+  syncing = false;
+}
+
+// ── Filtros ───────────────────────────────────────────────────────────────────
+function buildFiltros() {
+  const counts = {};
+  CATEGORIAS.forEach(c => counts[c.id] = 0);
+  counts.todos = anuncios.length;
+  anuncios.forEach(a => { if (counts[a.categoria]!==undefined) counts[a.categoria]++; else counts.outros++; });
+
+  document.getElementById("filtersWrap").innerHTML = CATEGORIAS.map(c =>
+    `<button class="filter-btn${filtro===c.id?" active":""}" data-cat="${c.id}">${c.icon} ${c.nome} <span style="opacity:.6;font-family:'JetBrains Mono',monospace;font-size:10px">${counts[c.id]||0}</span></button>`
+  ).join("");
+
+  document.querySelectorAll(".filter-btn").forEach(btn => {
+    btn.addEventListener("click", () => { filtro = btn.dataset.cat; renderizar(); });
+  });
+}
+
+// ── Grid ──────────────────────────────────────────────────────────────────────
+function anunciosFiltrados() {
+  let lista = anuncios.slice();
+  if (filtro !== "todos") lista = lista.filter(a => a.categoria === filtro);
+  if (busca.trim()) { const q = busca.toLowerCase(); lista = lista.filter(a => (a.titulo||"").toLowerCase().includes(q)||(a.descricao||"").toLowerCase().includes(q)); }
+  if (ordem==="menor") lista.sort((a,b)=>(a.preco||999999)-(b.preco||999999));
+  else if (ordem==="maior") lista.sort((a,b)=>(b.preco||0)-(a.preco||0));
+  else lista.sort((a,b)=>b.ts-a.ts);
+  return lista;
+}
+
+function renderizar() {
+  buildFiltros();
+  document.getElementById("totalCount").textContent = anuncios.length;
+  const lista = anunciosFiltrados();
+  const grid = document.getElementById("grid");
+
+  if (!lista.length) {
+    grid.innerHTML = `<div class="state-box" style="grid-column:1/-1"><div class="state-icon">🔍</div><div class="state-title">Nenhum anúncio</div><div class="state-sub">Tente outro filtro</div></div>`;
+    return;
+  }
+
+  grid.innerHTML = lista.map((a, i) => {
+    const delay = Math.min(i*20,200);
+    const fotos = a.fotosUrls?.length ? a.fotosUrls : (a.fotoUrl ? [a.fotoUrl] : []);
+    const curIdx = fotoIdx[a.id] || 0;
+    const imgHtml = fotos.length
+      ? `<img class="card-img" src="${fotos[curIdx]}" alt="" loading="lazy" onerror="this.style.display='none'">`
+      : `<div class="card-no-img">🎮</div>`;
+    const setasHtml = fotos.length>1
+      ? `<button class="foto-nav foto-prev" data-id="${a.id}" data-d="-1">❮</button><button class="foto-nav foto-next" data-id="${a.id}" data-d="1">❯</button><div class="foto-dots">${fotos.map((_,j)=>`<span class="dot${j===curIdx?" active":""}"></span>`).join("")}</div>`
+      : "";
+
+    return `<div class="card" data-id="${a.id}" style="animation-delay:${delay}ms">
+      <div class="card-img-wrap">${imgHtml}${a.defeito?'<div class="card-badge">⚠️ DEFEITO</div>':''}${setasHtml}</div>
+      <div class="card-body">
+        <div class="card-cat">${(CATEGORIAS.find(c=>c.id===a.categoria)||{nome:""}).nome}</div>
+        <div class="card-title">${esc(a.titulo)}</div>
+        <div class="card-price">${esc(a.precoRaw)}</div>
+      </div>
+    </div>`;
+  }).join("");
+
+  // Listeners
+  document.querySelectorAll(".foto-nav").forEach(btn => {
+    btn.addEventListener("click", e => {
+      e.stopPropagation();
+      const id = btn.dataset.id;
+      const a = anuncios.find(x=>x.id===id);
+      if (!a) return;
+      const fotos = a.fotosUrls?.length ? a.fotosUrls : (a.fotoUrl?[a.fotoUrl]:[]);
+      let idx = (fotoIdx[id]||0) + parseInt(btn.dataset.d);
+      if (idx<0) idx=fotos.length-1; if (idx>=fotos.length) idx=0;
+      fotoIdx[id] = idx;
+      const img = document.querySelector(`.card[data-id="${id}"] .card-img`);
+      const dots = document.querySelector(`.card[data-id="${id}"] .foto-dots`);
+      if (img) img.src = fotos[idx];
+      if (dots) dots.innerHTML = fotos.map((_,j)=>`<span class="dot${j===idx?" active":""}"></span>`).join("");
+    });
+  });
+
+  document.querySelectorAll(".card").forEach(el => {
+    el.addEventListener("click", e => {
+      if (e.target.closest(".foto-nav")) return;
+      const a = anuncios.find(x=>x.id===el.dataset.id);
+      if (a) abrirSheet(a);
+    });
+  });
+}
+
+// ── Bottom Sheet ──────────────────────────────────────────────────────────────
+function abrirSheet(a) {
+  sheetFotos = a.fotosUrls?.length ? a.fotosUrls : (a.fotoUrl?[a.fotoUrl]:[]);
+  sheetFotoIdx = fotoIdx[a.id] || 0;
+  atualizarSheetFoto();
+
+  document.getElementById("sheetCat").textContent = (CATEGORIAS.find(c=>c.id===a.categoria)||{nome:""}).nome;
+  document.getElementById("sheetTitle").textContent = a.titulo;
+  document.getElementById("sheetPrice").textContent = a.precoRaw || "Sob consulta";
+
+  const meta = [];
+  if (a.publicado) meta.push("📅 Publicado: " + a.publicado);
+  if (a.detectado) meta.push("🔍 Detectado: " + a.detectado);
+  if (a.tempoOlx)  meta.push("🏪 " + a.tempoOlx);
+  document.getElementById("sheetMeta").textContent = meta.join("\n");
+  document.getElementById("sheetDesc").textContent = a.descricao || "Sem descrição.";
+
+  const link = document.getElementById("sheetLink");
+  const buy  = document.getElementById("sheetBuy");
+  link.href = a.link || "#"; link.style.display = a.link ? "block" : "none";
+  const listIdM = (a.link||"").match(/-(\d{7,})(?:[?#]|$)/);
+  buy.href = listIdM ? `https://comprasegura.olx.com.br/?listId=${listIdM[1]}&source=ADVIEW` : "#";
+  buy.style.display = listIdM ? "block" : "none";
+
+  document.getElementById("sheetPrev").style.display = sheetFotos.length>1?"flex":"none";
+  document.getElementById("sheetNext").style.display = sheetFotos.length>1?"flex":"none";
+
+  document.getElementById("sheetOverlay").classList.add("open");
+  document.getElementById("sheet").classList.add("open");
+
+  if (tg) tg.BackButton.show();
+}
+
+function atualizarSheetFoto() {
+  const img  = document.getElementById("sheetImg");
+  const dots = document.getElementById("sheetDots");
+  img.src = sheetFotos[sheetFotoIdx] || "";
+  img.style.display = sheetFotos.length ? "block" : "none";
+  dots.innerHTML = sheetFotos.map((_,i)=>`<span class="dot${i===sheetFotoIdx?" active":""}"></span>`).join("");
+}
+
+function fecharSheet() {
+  document.getElementById("sheetOverlay").classList.remove("open");
+  document.getElementById("sheet").classList.remove("open");
+  if (tg) tg.BackButton.hide();
+}
+
+// ── Utils ─────────────────────────────────────────────────────────────────────
+function esc(s) { return String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;"); }
+function mostrarToast(msg) {
+  const t = document.getElementById("toast");
+  t.textContent = msg; t.classList.add("show");
+  setTimeout(() => t.classList.remove("show"), 2500);
+}
+
+// ── Init ──────────────────────────────────────────────────────────────────────
+document.getElementById("btnSync").addEventListener("click", sincronizar);
+
+document.getElementById("searchInput").addEventListener("input", function() {
+  busca = this.value; renderizar();
+});
+
+document.querySelectorAll(".sort-btn").forEach(btn => {
+  btn.addEventListener("click", () => {
+    document.querySelectorAll(".sort-btn").forEach(b=>b.classList.remove("active"));
+    btn.classList.add("active"); ordem = btn.dataset.sort; renderizar();
+  });
+});
+
+document.getElementById("sheetPrev").addEventListener("click", () => {
+  sheetFotoIdx = sheetFotoIdx>0 ? sheetFotoIdx-1 : sheetFotos.length-1;
+  atualizarSheetFoto();
+});
+document.getElementById("sheetNext").addEventListener("click", () => {
+  sheetFotoIdx = sheetFotoIdx<sheetFotos.length-1 ? sheetFotoIdx+1 : 0;
+  atualizarSheetFoto();
+});
+document.getElementById("sheetOverlay").addEventListener("click", fecharSheet);
+
+// Botão voltar do Telegram
+if (tg) tg.BackButton.onClick(fecharSheet);
+
+// Swipe para fechar sheet
+let startY = 0;
+document.getElementById("sheet").addEventListener("touchstart", e => startY = e.touches[0].clientY, { passive:true });
+document.getElementById("sheet").addEventListener("touchend", e => {
+  if (e.changedTouches[0].clientY - startY > 80) fecharSheet();
+}, { passive:true });
+
+// Carrega cache e sincroniza
+carregar();
+renderizar();
+sincronizar();
+</script>
+</body>
+</html>
