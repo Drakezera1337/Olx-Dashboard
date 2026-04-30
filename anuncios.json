@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498222287",
-    "titulo": "PlayStation 4",
-    "preco": 990,
-    "precoRaw": "R$ 990",
-    "categoria": "ps4",
+    "id": "1498245875",
+    "titulo": "IPHONE XR 128 DE MEMÓRIA",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "13:51",
     "tempoOlx": "",
+    "descricao": "iPhone XR com 128GB de armazenamento. Perfeito para fotos, vídeos e aplicativos. Desempenho incrível e design moderno.",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-128-de-memoria-1498245875",
+    "fotoUrl": "https://img.olx.com.br/images/31/310689518242738.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/310689518242738.jpg",
+      "https://img.olx.com.br/images/31/315611879189925.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777567904
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
     "descricao": "PlayStation 4, Mergulhe em jogos incríveis, explore mundos virtuais e divirta-se com amigos. Uma experiência de jogo imersiva espera por você.\nVem com Conectores e jogos.\nGTA 5 e the Crew 2",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-4-1498222287",
+    "detectado": "13:51",
     "fotoUrl": "https://img.olx.com.br/images/63/639638030994971.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/639638030994971.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/65/651684632696824.jpg",
       "https://img.olx.com.br/images/66/663625150223123.jpg"
     ],
-    "defeito": false,
+    "id": "1498222287",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-4-1498222287",
+    "preco": 990,
+    "precoRaw": "R$ 990",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PlayStation 4",
     "ts": 1777567880
   },
   {
