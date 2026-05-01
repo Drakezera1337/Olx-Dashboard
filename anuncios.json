@@ -1,5 +1,46 @@
 [
   {
+    "id": "1498463464",
+    "titulo": "iPhone 7 32GB",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "iphone",
+    "publicado": "",
+    "detectado": "19:40",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-32gb-1498463464",
+    "fotoUrl": "https://img.olx.com.br/images/35/353660645814963.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/353660645814963.jpg",
+      "https://img.olx.com.br/images/37/379638640679183.jpg",
+      "https://img.olx.com.br/images/39/392659048727894.jpg",
+      "https://img.olx.com.br/images/41/416638527324392.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777675222
+  },
+  {
+    "id": "1498461951",
+    "titulo": "iPhone 7 Plus 256GB",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "iphone",
+    "publicado": "",
+    "detectado": "19:40",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-plus-256gb-1498461951",
+    "fotoUrl": "https://img.olx.com.br/images/23/233678642582840.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/233678642582840.jpg",
+      "https://img.olx.com.br/images/25/256619405473290.jpg",
+      "https://img.olx.com.br/images/27/271641523987058.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777675222
+  },
+  {
     "id": "1498160544",
     "titulo": "Jogo ps4",
     "preco": 90,
@@ -9869,46 +9910,5 @@
     "tempoOlx": "",
     "titulo": "Guitarra com dongle PS3 Guitar Hero Clone Hero",
     "ts": 1777652235
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "Experimente o poder do XBOX ONE X, o console mais potente já criado. Com gráficos em 4K, HDR e áudio imersivo Dolby Atmos, mergulhe em mundos incríveis e viva seus jogos como nunca antes. Inclui disco Blu-ray e compatibilidade total com os jogos do Xbox One.",
-    "detectado": "13:17",
-    "fotoUrl": "https://img.olx.com.br/images/27/273648280418825.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/273648280418825.jpg",
-      "https://img.olx.com.br/images/27/272626641041158.jpg",
-      "https://img.olx.com.br/images/27/277610763703678.jpg"
-    ],
-    "id": "1498479136",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/console-xbox-one-x-1498479136",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Console XBOX one X",
-    "ts": 1777652232
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "Funcionado perfeitamente \n\nObs: ele está com algumas marcas ( conforme na foto 04 )na tela pois foi usado sem película \n\nConsole bloqueado \nNão tem caixa\n\nVai a case e o carregador",
-    "detectado": "13:17",
-    "fotoUrl": "https://img.olx.com.br/images/73/734632030662479.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/734632030662479.jpg",
-      "https://img.olx.com.br/images/75/759699274562786.jpg",
-      "https://img.olx.com.br/images/76/768697751515426.jpg",
-      "https://img.olx.com.br/images/78/780628153244703.jpg"
-    ],
-    "id": "1494558567",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/nintendo-switch-lite-1494558567",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo switch lite ",
-    "ts": 1777652226
   }
 ]
