@@ -1,21 +1,41 @@
 [
   {
-    "id": "1497989789",
-    "titulo": "Jogo Playstation 4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1481002696",
+    "titulo": "Injustice 2 Legendary Edition - Ps4/Ps5 Mídia Física ",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:20",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "19:21",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-playstation-4-1497989789",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/injustice-2-legendary-edition-ps4-ps5-midia-fisica-1481002696",
+    "fotoUrl": "https://img.olx.com.br/images/10/103602253190174.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/103602253190174.jpg",
+      "https://img.olx.com.br/images/11/119698497609997.jpg",
+      "https://img.olx.com.br/images/13/135676619605524.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777674067
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:20",
     "fotoUrl": "https://img.olx.com.br/images/93/934647395575505.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/934647395575505.jpg",
       "https://img.olx.com.br/images/94/946647511105888.jpg"
     ],
-    "defeito": false,
+    "id": "1497989789",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-playstation-4-1497989789",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Jogo Playstation 4",
     "ts": 1777674058
   },
   {
@@ -9886,27 +9906,5 @@
     "tempoOlx": "",
     "titulo": "Ps1 baby leitor 70% funcionando perfeitamente só o console ",
     "ts": 1777638968
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:35",
-    "fotoUrl": "https://img.olx.com.br/images/64/645637273280373.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/645637273280373.jpg",
-      "https://img.olx.com.br/images/65/654641396095874.jpg",
-      "https://img.olx.com.br/images/66/669625393981708.jpg",
-      "https://img.olx.com.br/images/67/673637754632925.jpg",
-      "https://img.olx.com.br/images/69/691662635667745.jpg"
-    ],
-    "id": "1496767787",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/start-wars-1496767787",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Start Wars ",
-    "ts": 1777638930
   }
 ]
