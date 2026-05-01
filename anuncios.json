@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498332800",
-    "titulo": "Nintendo switch com defeito na carcaça ",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "switch",
+    "id": "1498588722",
+    "titulo": "PlayStation 4 ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:18",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/nintendo-switch-com-defeito-na-carcaca-1498332800",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-1498588722",
+    "fotoUrl": "https://img.olx.com.br/images/18/186686524364077.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/186686524364077.jpg",
+      "https://img.olx.com.br/images/20/204676405719014.jpg",
+      "https://img.olx.com.br/images/22/222696520455719.jpg",
+      "https://img.olx.com.br/images/25/258602529005239.jpg",
+      "https://img.olx.com.br/images/26/264655884048032.jpg",
+      "https://img.olx.com.br/images/27/275658284873432.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777677521
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:18",
     "fotoUrl": "https://img.olx.com.br/images/31/317617272826423.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/317617272826423.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/33/335600271363929.jpg",
       "https://img.olx.com.br/images/35/350698398569951.jpg"
     ],
-    "defeito": false,
+    "id": "1498332800",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/nintendo-switch-com-defeito-na-carcaca-1498332800",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Nintendo switch com defeito na carcaça ",
     "ts": 1777677512
   },
   {
@@ -9939,27 +9962,5 @@
     "tempoOlx": "",
     "titulo": "FIFA 22 Ps4",
     "ts": 1777652400
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "The Crew 2 para PS4 é um jogo de corrida que te leva para uma jornada épica pelos Estados Unidos. Explore o mundo aberto com uma variedade de veículos, incluindo carros, motos, barcos e aviões. Com gráficos impressionantes e jogabilidade viciante, The Crew 2 é uma experiência de corrida inesquecível.",
-    "detectado": "13:19",
-    "fotoUrl": "https://img.olx.com.br/images/44/442589875034326.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/442589875034326.jpg",
-      "https://img.olx.com.br/images/45/453565393304976.jpg",
-      "https://img.olx.com.br/images/45/454597275481779.jpg",
-      "https://img.olx.com.br/images/44/446564635800155.jpg",
-      "https://img.olx.com.br/images/45/455535637150288.jpg"
-    ],
-    "id": "1392541670",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/the-crew-2-ps4-jogo-de-corrida-1392541670",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "The Crew 2 - PS4 - Jogo de Corrida",
-    "ts": 1777652397
   }
 ]
