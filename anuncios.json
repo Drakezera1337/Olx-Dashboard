@@ -1,34 +1,51 @@
 [
   {
-    "id": "1498333832",
-    "titulo": "Playstation 3 Slim (retirada de peças)",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "ps3",
+    "id": "1498362680",
+    "titulo": "Game Strik 4k Ultra HD",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:07",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/playstation-3-slim-retirada-de-pecas-1498333832",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/game-strik-4k-ultra-hd-1498362680",
+    "fotoUrl": "https://img.olx.com.br/images/69/694649519934064.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/694649519934064.jpg",
+      "https://img.olx.com.br/images/71/715607152646393.jpg",
+      "https://img.olx.com.br/images/23/230607278372364.jpg",
+      "https://img.olx.com.br/images/25/251661391309963.jpg",
+      "https://img.olx.com.br/images/27/270664150188276.jpg",
+      "https://img.olx.com.br/images/30/308661391577386.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777673253
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:07",
     "fotoUrl": "https://img.olx.com.br/images/79/793614637882831.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/793614637882831.jpg",
       "https://img.olx.com.br/images/83/839693751552666.jpg"
     ],
-    "defeito": false,
+    "id": "1498333832",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/playstation-3-slim-retirada-de-pecas-1498333832",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Playstation 3 Slim (retirada de peças)",
     "ts": 1777673239
   },
   {
-    "id": "1498317175",
-    "titulo": "PS3 SUPER SLIM COM DEFEITO + 3 CONTROLES COM DEFEITO [CAIXA DE PS3]",
-    "preco": 350,
-    "precoRaw": "R$ 350",
     "categoria": "ps3",
-    "publicado": "",
-    "detectado": "19:07",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-super-slim-com-defeito-3-controles-com-defeito-caixa-de-ps3-1498317175",
+    "detectado": "19:07",
     "fotoUrl": "https://img.olx.com.br/images/98/989623751358639.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/989623751358639.jpg",
@@ -38,7 +55,13 @@
       "https://img.olx.com.br/images/13/133628639574112.jpg",
       "https://img.olx.com.br/images/14/141672038184969.jpg"
     ],
-    "defeito": false,
+    "id": "1498317175",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-super-slim-com-defeito-3-controles-com-defeito-caixa-de-ps3-1498317175",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PS3 SUPER SLIM COM DEFEITO + 3 CONTROLES COM DEFEITO [CAIXA DE PS3]",
     "ts": 1777673239
   },
   {
@@ -9888,26 +9911,5 @@
     "tempoOlx": "",
     "titulo": "Ps3 desbloqueado ",
     "ts": 1777606690
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Domine o campo com PES 2016 para PlayStation 4! Reviva a emoção do futebol com gráficos incríveis e jogabilidade envolvente. Leve sua experiência de jogo para o próximo nível!",
-    "detectado": "00:38",
-    "fotoUrl": "https://img.olx.com.br/images/27/270653047416743.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/270653047416743.jpg",
-      "https://img.olx.com.br/images/29/297667644793099.jpg",
-      "https://img.olx.com.br/images/31/312668527009394.jpg",
-      "https://img.olx.com.br/images/33/334653407097235.jpg"
-    ],
-    "id": "1498388909",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/pes-2016-ps4-faco-olx-pay-1498388909",
-    "preco": 95,
-    "precoRaw": "R$ 95",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PES 2016 PS4 faço Olx pay ",
-    "ts": 1777606687
   }
 ]
