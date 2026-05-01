@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498511985",
-    "titulo": "Ps4 ",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "ps4",
+    "id": "1498511746",
+    "titulo": "Wolf Amongus ",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:39",
     "tempoOlx": "",
+    "descricao": "Explore o sombrio mundo de The Wolf Among Us, uma aventura narrativa envolvente baseada nos quadrinhos Fables. Desvende mistérios e tome decisões cruciais neste jogo aclamado pela crítica.",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/wolf-amongus-1498511746",
+    "fotoUrl": "https://img.olx.com.br/images/93/934699521448832.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/934699521448832.jpg",
+      "https://img.olx.com.br/images/96/962649764867489.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777653588
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
     "descricao": "Ps4 está em ótima perfeição, está completo, com 4 jogos 2 controle !",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-1498511985",
+    "detectado": "13:39",
     "fotoUrl": "https://img.olx.com.br/images/80/806611406505605.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/806611406505605.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/84/849679288918266.jpg",
       "https://img.olx.com.br/images/86/862638882923529.jpg"
     ],
-    "defeito": false,
+    "id": "1498511985",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-1498511985",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 ",
     "ts": 1777653585
   },
   {
@@ -10078,25 +10097,5 @@
     "tempoOlx": "",
     "titulo": "Vendo PS4 Slim",
     "ts": 1777558980
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:22",
-    "fotoUrl": "https://img.olx.com.br/images/75/754527266368343.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/754527266368343.jpg",
-      "https://img.olx.com.br/images/75/757571382792776.jpg",
-      "https://img.olx.com.br/images/75/759515626900781.jpg"
-    ],
-    "id": "1387972305",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/controle-sem-fio-ps4-camuflagem-playstation-1387972305",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Controle sem fio Ps4 camuflagem Playstation",
-    "ts": 1777558966
   }
 ]
