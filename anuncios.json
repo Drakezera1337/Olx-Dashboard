@@ -1,15 +1,30 @@
 [
   {
-    "id": "1498592121",
-    "titulo": "ps3",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1498592498",
+    "titulo": "Xbox séries S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "20:46",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "detectado": "20:47",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-1498592121",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498592498",
+    "fotoUrl": "https://img.olx.com.br/images/88/883670521275261.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/883670521275261.jpg",
+      "https://img.olx.com.br/images/89/895637524447856.jpg",
+      "https://img.olx.com.br/images/91/918629528595658.jpg",
+      "https://img.olx.com.br/images/92/921673763956095.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777679276
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:46",
     "fotoUrl": "https://img.olx.com.br/images/21/212638646650494.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/212638646650494.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/24/248623768428009.jpg",
       "https://img.olx.com.br/images/25/259688884883043.jpg"
     ],
-    "defeito": false,
+    "id": "1498592121",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-1498592121",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "ps3",
     "ts": 1777679187
   },
   {
@@ -9939,25 +9960,5 @@
     "tempoOlx": "",
     "titulo": "CRASH BANDICOON TRILOGY PS4",
     "ts": 1777655838
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Reviva a emoção dos combates com Street Fighter V para PS4! Mergulhe em um universo de lutadores icônicos, movimentos especiais devastadores e batalhas épicas. Este clássico da luta oferece horas de diversão e desafios para todos os fãs do gênero. Prepare-se para testar suas habilidades e dominar cada personagem!",
-    "detectado": "14:17",
-    "fotoUrl": "https://img.olx.com.br/images/52/529637404296647.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/529637404296647.jpg",
-      "https://img.olx.com.br/images/54/546688762885074.jpg",
-      "https://img.olx.com.br/images/56/562619285528182.jpg"
-    ],
-    "id": "1498520167",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/street-fighter-v-5-ps4-midia-fisica-em-portugues-1498520167",
-    "preco": 58,
-    "precoRaw": "R$ 58",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Street Fighter V 5 ps4 mídia física em português ",
-    "ts": 1777655834
   }
 ]
