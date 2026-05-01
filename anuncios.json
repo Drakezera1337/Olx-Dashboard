@@ -1,15 +1,9 @@
 [
   {
-    "id": "1498077934",
-    "titulo": "Xbox séries S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
-    "publicado": "",
-    "detectado": "18:27",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-series-s-1498077934",
+    "detectado": "18:27",
     "fotoUrl": "https://img.olx.com.br/images/61/611611390160297.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/611611390160297.jpg",
@@ -18,7 +12,13 @@
       "https://img.olx.com.br/images/65/656611035401794.jpg",
       "https://img.olx.com.br/images/67/673644399738768.jpg"
     ],
-    "defeito": false,
+    "id": "1498077934",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-series-s-1498077934",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox séries S",
     "ts": 1777670843
   },
   {
