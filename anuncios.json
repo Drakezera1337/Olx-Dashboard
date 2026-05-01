@@ -1,5 +1,23 @@
 [
   {
+    "id": "1498455534",
+    "titulo": "Vendo ps5 slim ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
+    "publicado": "",
+    "detectado": "19:40",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/vendo-ps5-slim-1498455534",
+    "fotoUrl": "https://img.olx.com.br/images/14/147689643477209.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/147689643477209.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777675236
+  },
+  {
     "categoria": "ps5",
     "defeito": false,
     "descricao": "",
@@ -38,16 +56,10 @@
     "ts": 1777675222
   },
   {
-    "id": "1498463464",
-    "titulo": "iPhone 7 32GB",
-    "preco": 350,
-    "precoRaw": "R$ 350",
     "categoria": "iphone",
-    "publicado": "",
-    "detectado": "19:40",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-32gb-1498463464",
+    "detectado": "19:40",
     "fotoUrl": "https://img.olx.com.br/images/35/353660645814963.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/353660645814963.jpg",
@@ -55,27 +67,33 @@
       "https://img.olx.com.br/images/39/392659048727894.jpg",
       "https://img.olx.com.br/images/41/416638527324392.jpg"
     ],
-    "defeito": false,
+    "id": "1498463464",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-32gb-1498463464",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 7 32GB",
     "ts": 1777675222
   },
   {
-    "id": "1498461951",
-    "titulo": "iPhone 7 Plus 256GB",
-    "preco": 750,
-    "precoRaw": "R$ 750",
     "categoria": "iphone",
-    "publicado": "",
-    "detectado": "19:40",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-plus-256gb-1498461951",
+    "detectado": "19:40",
     "fotoUrl": "https://img.olx.com.br/images/23/233678642582840.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/233678642582840.jpg",
       "https://img.olx.com.br/images/25/256619405473290.jpg",
       "https://img.olx.com.br/images/27/271641523987058.jpg"
     ],
-    "defeito": false,
+    "id": "1498461951",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-plus-256gb-1498461951",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 7 Plus 256GB",
     "ts": 1777675222
   },
   {
@@ -9888,25 +9906,5 @@
     "tempoOlx": "",
     "titulo": "Donkey Kong Tropical Freeze Nintendo Switch",
     "ts": 1777652245
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "vendo controle original do PS4 e esses dois jogos tudo junto só tem três meses de uso zerado valor 220 reais 9.99492374",
-    "detectado": "13:17",
-    "fotoUrl": "https://img.olx.com.br/images/57/575620166613681.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/575620166613681.jpg",
-      "https://img.olx.com.br/images/60/609651281290792.jpg",
-      "https://img.olx.com.br/images/63/634665288539146.jpg"
-    ],
-    "id": "1498468086",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/vendo-controle-original-e-jogos-1498468086",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "vendo controle original e jogos ",
-    "ts": 1777652242
   }
 ]
