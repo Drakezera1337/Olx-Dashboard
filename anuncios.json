@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498160400",
+    "id": "1498160544",
     "titulo": "Jogo ps4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:39",
     "tempoOlx": "Na OLX desde junho de 2017",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-picos-e-floriano/games/jogos-de-video-game/jogo-ps4-1498160400",
+    "link": "https://pi.olx.com.br/regiao-de-picos-e-floriano/games/jogos-de-video-game/jogo-ps4-1498160544",
+    "fotoUrl": "https://img.olx.com.br/images/13/135603150636855.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/135603150636855.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777675183
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:39",
     "fotoUrl": "https://img.olx.com.br/images/29/294655150139238.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/294655150139238.jpg"
     ],
-    "defeito": false,
+    "id": "1498160400",
+    "link": "https://pi.olx.com.br/regiao-de-picos-e-floriano/games/jogos-de-video-game/jogo-ps4-1498160400",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2017",
+    "titulo": "Jogo ps4",
     "ts": 1777675173
   },
   {
@@ -9892,28 +9910,5 @@
     "tempoOlx": "",
     "titulo": "Nintendo switch lite ",
     "ts": 1777652226
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "Não aceito ofertas!\n\nCarcaça, botões e analógicos em perfeito estado\n\nTela possui alguns risquinhos (possíveis ver em uma das fotos quando a tela esta apagada) com a tela ligada é dificil notal\n\nVai completo com tudo que vem na caixa (caixa tbm esta em um excelente estado)\n\nAcompanha tbm os protetores de analógico",
-    "detectado": "13:17",
-    "fotoUrl": "https://img.olx.com.br/images/81/819621164391122.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/819621164391122.jpg",
-      "https://img.olx.com.br/images/83/834601642841077.jpg",
-      "https://img.olx.com.br/images/84/841687646283711.jpg",
-      "https://img.olx.com.br/images/86/863661761076515.jpg",
-      "https://img.olx.com.br/images/88/881690885813642.jpg",
-      "https://img.olx.com.br/images/90/903658525337000.jpg"
-    ],
-    "id": "1498455586",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/nintendo-switch-lite-1498455586",
-    "preco": 880,
-    "precoRaw": "R$ 880",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Lite",
-    "ts": 1777652225
   }
 ]
