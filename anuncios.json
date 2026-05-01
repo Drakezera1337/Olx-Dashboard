@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498507116",
-    "titulo": "Ps4 slim",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1498507792",
+    "titulo": "FIFA 20",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "13:21",
     "tempoOlx": "",
+    "descricao": "Reviva a emoção do futebol com FIFA 20 para PlayStation 4! Jogue com seus times e jogadores favoritos, domine as táticas e celebre cada gol. Uma experiência completa para os amantes do esporte.",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-20-1498507792",
+    "fotoUrl": "https://img.olx.com.br/images/42/421630282500812.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/421630282500812.jpg",
+      "https://img.olx.com.br/images/43/432676401306539.jpg",
+      "https://img.olx.com.br/images/45/452681527850127.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777652485
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
     "descricao": "Experimente horas de diversão com este console PlayStation 4 Slim. Jogue seus títulos favoritos com gráficos incríveis e desempenho otimizado. Uma porta de entrada para um mundo de entretenimento.",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-slim-1498507116",
+    "detectado": "13:21",
     "fotoUrl": "https://img.olx.com.br/images/27/276692403099432.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/276692403099432.jpg"
     ],
-    "defeito": false,
+    "id": "1498507116",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-slim-1498507116",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 slim",
     "ts": 1777652481
   },
   {
@@ -10072,26 +10092,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Caixa do PS5 slim ",
-    "ts": 1777558952
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:22",
-    "fotoUrl": "https://img.olx.com.br/images/70/709677876590911.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/709677876590911.jpg",
-      "https://img.olx.com.br/images/72/724624276611960.jpg",
-      "https://img.olx.com.br/images/73/737620758859348.jpg"
-    ],
-    "id": "1497571665",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-slim-1497571665",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps5 slim",
     "ts": 1777558952
   }
 ]
