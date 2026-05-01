@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498359812",
-    "titulo": "Pés 2018",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1498359278",
+    "titulo": "Dragon ball Xernovese2",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "20:21",
     "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/pes-2018-1498359812",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/dragon-ball-xernovese2-1498359278",
+    "fotoUrl": "https://img.olx.com.br/images/26/261683151244489.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/261683151244489.jpg",
+      "https://img.olx.com.br/images/28/281616151225249.jpg",
+      "https://img.olx.com.br/images/18/185621631660254.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777677690
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:21",
     "fotoUrl": "https://img.olx.com.br/images/38/380678636961024.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/380678636961024.jpg",
       "https://img.olx.com.br/images/39/399697271269547.jpg",
       "https://img.olx.com.br/images/41/416694159019792.jpg"
     ],
-    "defeito": false,
+    "id": "1498359812",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/pes-2018-1498359812",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "Pés 2018",
     "ts": 1777677676
   },
   {
@@ -9933,25 +9953,5 @@
     "tempoOlx": "",
     "titulo": "PS4 Slim + 8 jogos - AC Troca",
     "ts": 1777652834
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "PlayStation 4 com 2 manetes original \n 5 jogos originais \nCarregador de manetes \n500gb de memória \nAinda tem garantia de 4 mêses",
-    "detectado": "13:27",
-    "fotoUrl": "https://img.olx.com.br/images/24/246623648664614.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/246623648664614.jpg",
-      "https://img.olx.com.br/images/25/251654520071832.jpg",
-      "https://img.olx.com.br/images/27/271672521997968.jpg"
-    ],
-    "id": "1498510019",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-1498510019",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps4",
-    "ts": 1777652831
   }
 ]
