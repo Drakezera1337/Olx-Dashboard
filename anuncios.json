@@ -1,15 +1,32 @@
 [
   {
-    "id": "1493869473",
-    "titulo": "Vídeo game ps3 super slim ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps3",
+    "id": "1498571368",
+    "titulo": "Xbox series s",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "18:30",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/video-game-ps3-super-slim-1493869473",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498571368",
+    "fotoUrl": "https://img.olx.com.br/images/56/562629524563106.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/562629524563106.jpg",
+      "https://img.olx.com.br/images/57/570654647755111.jpg",
+      "https://img.olx.com.br/images/58/587650281301200.jpg",
+      "https://img.olx.com.br/images/60/608652528695585.jpg",
+      "https://img.olx.com.br/images/61/619634529910475.jpg",
+      "https://img.olx.com.br/images/63/633656048617351.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777671031
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:30",
     "fotoUrl": "https://img.olx.com.br/images/58/583684158363046.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/583684158363046.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/62/620620751099524.jpg",
       "https://img.olx.com.br/images/64/644600753551081.jpg"
     ],
-    "defeito": false,
+    "id": "1493869473",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/video-game-ps3-super-slim-1493869473",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Vídeo game ps3 super slim ",
     "ts": 1777671021
   },
   {
@@ -9902,23 +9925,5 @@
     "tempoOlx": "",
     "titulo": "iPhone 16 Pro Max 256GB Desert",
     "ts": 1777592748
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "Experimente o desempenho Next-Gen ao seu alcance com o Xbox Series S! Desfrute de velocidades incríveis com o SSD Ultra Rápido, jogos fluidos de até 120 FPS e centenas de jogos no Game Pass. Imagens incríveis com HDR para uma experiência visual imersiva. Garanta já o seu, estoque limitado!",
-    "detectado": "20:40",
-    "fotoUrl": "https://img.olx.com.br/images/87/870684752184989.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/870684752184989.jpg"
-    ],
-    "id": "1498341009",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/xbox-serie-s-1498341009",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox série s",
-    "ts": 1777592451
   }
 ]
