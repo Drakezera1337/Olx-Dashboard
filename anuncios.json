@@ -1,15 +1,27 @@
 [
   {
-    "id": "1489166427",
-    "titulo": "Playstation 5",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1498574829",
+    "titulo": "PRO EVOLUTION SOCCER 2015 - PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:47",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "18:48",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-5-1489166427",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/pro-evolution-soccer-2015-ps4-1498574829",
+    "fotoUrl": "https://img.olx.com.br/images/64/641620281072558.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/641620281072558.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777672131
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:47",
     "fotoUrl": "https://img.olx.com.br/images/46/467666264284726.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/467666264284726.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/61/614606506296570.jpg",
       "https://img.olx.com.br/images/68/688631862928353.jpg"
     ],
-    "defeito": false,
+    "id": "1489166427",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-5-1489166427",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Playstation 5",
     "ts": 1777672043
   },
   {
@@ -9893,26 +9911,5 @@
     "tempoOlx": "",
     "titulo": "Xbox série s 512gb",
     "ts": 1777596858
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "Console extremamente bem cuidado, funcionando 100%, silencioso e sem detalhes. Pouquíssimas marcas de uso, quase imperceptíveis.\n\n? O que está incluso:\n\n?Console Xbox Series S\n?1 Controle Sem Fio\n?Cabo HDMIde Alta Velocidade\n?Cabo de energia\n\nAceito pix, cartão ou troca em Switch desbloqueado",
-    "detectado": "21:37",
-    "fotoUrl": "https://img.olx.com.br/images/55/555663037637685.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/555663037637685.jpg",
-      "https://img.olx.com.br/images/57/570657633866720.jpg",
-      "https://img.olx.com.br/images/58/582636634639198.jpg",
-      "https://img.olx.com.br/images/60/602636752928567.jpg"
-    ],
-    "id": "1498162049",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-series-s-512gb-ssd-estado-de-novo-1498162049",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Series S 512GB SSD - Estado de Novo",
-    "ts": 1777595836
   }
 ]
