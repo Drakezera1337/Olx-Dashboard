@@ -1,5 +1,43 @@
 [
   {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:40",
+    "fotoUrl": "https://img.olx.com.br/images/97/978639881479557.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/978639881479557.jpg",
+      "https://img.olx.com.br/images/12/120600521041007.jpg"
+    ],
+    "id": "1498583510",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/dualsense-playstation-5-1498583510",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Dualsense PlayStation 5",
+    "ts": 1777675222
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:40",
+    "fotoUrl": "https://img.olx.com.br/images/14/141659392700855.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/141659392700855.jpg",
+      "https://img.olx.com.br/images/15/152672632099371.jpg"
+    ],
+    "id": "1498347173",
+    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/consoles-de-video-game/ps4-slim-9-jogos-controle-original-1498347173",
+    "preco": 1580,
+    "precoRaw": "R$ 1.580",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PS4 Slim + 9 Jogos + Controle Original",
+    "ts": 1777675222
+  },
+  {
     "id": "1498463464",
     "titulo": "iPhone 7 32GB",
     "preco": 350,
@@ -41,21 +79,21 @@
     "ts": 1777675222
   },
   {
-    "id": "1498160544",
-    "titulo": "Jogo ps4",
-    "preco": 90,
-    "precoRaw": "R$ 90",
     "categoria": "ps4",
-    "publicado": "",
-    "detectado": "19:39",
-    "tempoOlx": "Na OLX desde junho de 2017",
+    "defeito": false,
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-picos-e-floriano/games/jogos-de-video-game/jogo-ps4-1498160544",
+    "detectado": "19:39",
     "fotoUrl": "https://img.olx.com.br/images/13/135603150636855.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/135603150636855.jpg"
     ],
-    "defeito": false,
+    "id": "1498160544",
+    "link": "https://pi.olx.com.br/regiao-de-picos-e-floriano/games/jogos-de-video-game/jogo-ps4-1498160544",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2017",
+    "titulo": "Jogo ps4",
     "ts": 1777675183
   },
   {
@@ -9870,45 +9908,5 @@
     "tempoOlx": "",
     "titulo": "vendo controle original e jogos ",
     "ts": 1777652242
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "Nintendo Switch V2 Completo + Vários Acessórios\n\nConsole muito bem conservado, pouco uso e funcionando perfeitamente.\n\nAcompanha:\n ? Nintendo Switch V2 (Joy-Con verde e rosa)\n ? Dock original\n ? Fonte original\n ? Cabo HDMI\n ? Grip para Joy-Con\n ? Controle adicional\n ? Alças para Joy-Con\n ? Case de transporte\n ? Bolsa extra\n\n? R$ 1800\nDivido no cartão em até 5x com juros(negociável dentro do bom senso)\nAceito trocas",
-    "detectado": "13:17",
-    "fotoUrl": "https://img.olx.com.br/images/32/327645889747516.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/327645889747516.jpg",
-      "https://img.olx.com.br/images/34/341641520210178.jpg",
-      "https://img.olx.com.br/images/34/347646286574479.jpg"
-    ],
-    "id": "1498472953",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ou-troco-nintendo-switch-v2-acessorios-1498472953",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo ou troco nintendo switch V2 + acessórios ",
-    "ts": 1777652238
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:17",
-    "fotoUrl": "https://img.olx.com.br/images/65/650687764825213.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/650687764825213.jpg",
-      "https://img.olx.com.br/images/65/654634162353220.jpg",
-      "https://img.olx.com.br/images/66/668633284059842.jpg"
-    ],
-    "id": "1498474509",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/guitarra-com-dongle-ps3-guitar-hero-clone-hero-1498474509",
-    "preco": 823,
-    "precoRaw": "R$ 823",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Guitarra com dongle PS3 Guitar Hero Clone Hero",
-    "ts": 1777652235
   }
 ]
