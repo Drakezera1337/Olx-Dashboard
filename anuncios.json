@@ -1,21 +1,42 @@
 [
   {
-    "id": "1498587405",
-    "titulo": "Ps5 novo, na caixa ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1498332800",
+    "titulo": "Nintendo switch com defeito na carcaça ",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "20:18",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-novo-na-caixa-1498587405",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/nintendo-switch-com-defeito-na-carcaca-1498332800",
+    "fotoUrl": "https://img.olx.com.br/images/31/317617272826423.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/317617272826423.jpg",
+      "https://img.olx.com.br/images/32/321605395851988.jpg",
+      "https://img.olx.com.br/images/33/335600271363929.jpg",
+      "https://img.olx.com.br/images/35/350698398569951.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777677512
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:18",
     "fotoUrl": "https://img.olx.com.br/images/98/982643161494407.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/982643161494407.jpg",
       "https://img.olx.com.br/images/99/999669647187263.jpg"
     ],
-    "defeito": false,
+    "id": "1498587405",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-novo-na-caixa-1498587405",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "titulo": "Ps5 novo, na caixa ",
     "ts": 1777677504
   },
   {
@@ -9940,24 +9961,5 @@
     "tempoOlx": "",
     "titulo": "The Crew 2 - PS4 - Jogo de Corrida",
     "ts": 1777652397
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "FIFA 20 para PS4 chama !",
-    "detectado": "13:19",
-    "fotoUrl": "https://img.olx.com.br/images/92/926695509164793.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/926695509164793.jpg",
-      "https://img.olx.com.br/images/94/947656381594313.jpg"
-    ],
-    "id": "1489619903",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-ps4-1489619903",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "FIFA 20 PS4",
-    "ts": 1777652390
   }
 ]
