@@ -1,22 +1,43 @@
 [
   {
-    "id": "1498522151",
-    "titulo": "Deus Ex",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "categoria": "outros",
+    "id": "1498522083",
+    "titulo": "Death Stranding PS4",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:29",
     "tempoOlx": "",
+    "descricao": "Embarque em uma jornada épica com Death Stranding para PS4! Explore um mundo desolado e reconecte fragmentos de uma sociedade dividida. Uma experiência única que desafia os limites do gênero.",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/death-stranding-ps4-1498522083",
+    "fotoUrl": "https://img.olx.com.br/images/52/527621285212002.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/527621285212002.jpg",
+      "https://img.olx.com.br/images/53/539681283326751.jpg",
+      "https://img.olx.com.br/images/55/552636769376932.jpg",
+      "https://img.olx.com.br/images/57/575628047627800.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777656563
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
     "descricao": "Mergulhe em um futuro distópico com Deus Ex: Mankind Divided, uma aventura de ação e espionagem que expande o universo da série. Explore um mundo repleto de conspirações e aprimoramentos cibernéticos. Desvende segredos e tome decisões que moldarão o destino da humanidade.",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/deus-ex-1498522151",
+    "detectado": "14:29",
     "fotoUrl": "https://img.olx.com.br/images/74/748655522979462.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/748655522979462.jpg",
       "https://img.olx.com.br/images/77/774649880720206.jpg",
       "https://img.olx.com.br/images/79/791664528976705.jpg"
     ],
-    "defeito": false,
+    "id": "1498522151",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/deus-ex-1498522151",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Deus Ex",
     "ts": 1777656557
   },
   {
@@ -10065,23 +10086,5 @@
     "tempoOlx": "",
     "titulo": "PS 3 Slim com defeito ",
     "ts": 1777559031
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:23",
-    "fotoUrl": "https://img.olx.com.br/images/69/691565445633074.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/691565445633074.jpg"
-    ],
-    "id": "1422319012",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ninja-gaiden-3-ps3-1422319012",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ninja Gaiden 3 - Ps3",
-    "ts": 1777559017
   }
 ]
