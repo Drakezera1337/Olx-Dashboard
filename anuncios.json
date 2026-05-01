@@ -1,15 +1,30 @@
 [
   {
-    "id": "1498454880",
-    "titulo": "Xbox Series S Semi-novo Com Acessórios",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "categoria": "xbox",
+    "id": "1498507969",
+    "titulo": "PS5 com defeito",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:20",
+    "detectado": "13:21",
     "tempoOlx": "",
+    "descricao": "PS5 com defeito. Ao conectar na tomada nao liga, nao da sinal e nem acende led. Vai somente o console, sem cabos e sem controle. Estou vendendo no estado. Nao sei qual é o defeito dele e nem levei na assistência. O console ja foi aberto. Faço envio OLX ou entrego em Bangu.\n\nDefeito/avaria:\n\nNão liga, não da sinal e nem acende led.",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-com-defeito-1498507969",
+    "fotoUrl": "https://img.olx.com.br/images/90/904690767121083.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/904690767121083.jpg",
+      "https://img.olx.com.br/images/91/916639166906674.jpg",
+      "https://img.olx.com.br/images/93/930652408434868.jpg",
+      "https://img.olx.com.br/images/96/964619887093226.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777652470
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
     "descricao": "Xbox Series S 512GB Em Perfeito Estado. Com Poucos Meses De Uso. Vai Com 3 Controles Originais + Um Cartão De Expansão De 1TB De Memória + Um Carregador De Pilhas Da Duracell.\nCONTATO: 22992799749",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-semi-novo-com-acessorios-1498454880",
+    "detectado": "13:20",
     "fotoUrl": "https://img.olx.com.br/images/49/494611649844266.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/494611649844266.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/53/531607163202750.jpg",
       "https://img.olx.com.br/images/55/553609885545058.jpg"
     ],
-    "defeito": false,
+    "id": "1498454880",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-semi-novo-com-acessorios-1498454880",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Series S Semi-novo Com Acessórios",
     "ts": 1777652444
   },
   {
@@ -10073,23 +10094,5 @@
     "tempoOlx": "",
     "titulo": "PS5 slim digital Playstation 5 pego placa de vídeo ",
     "ts": 1777558952
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:22",
-    "fotoUrl": "https://img.olx.com.br/images/51/511645394346461.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/511645394346461.jpg"
-    ],
-    "id": "1498198059",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps5-fat-controle-1498198059",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS5 Fat + controle",
-    "ts": 1777558938
   }
 ]
