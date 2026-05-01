@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498585778",
-    "titulo": "Ps5 slim ",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1496292297",
+    "titulo": "Vídeo game ?",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:58",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "detectado": "19:59",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-slim-1498585778",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-1496292297",
+    "fotoUrl": "https://img.olx.com.br/images/85/859693637840925.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/859693637840925.jpg",
+      "https://img.olx.com.br/images/87/874663272691034.jpg",
+      "https://img.olx.com.br/images/88/882686276157860.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777676362
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:58",
     "fotoUrl": "https://img.olx.com.br/images/57/571694289948365.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/571694289948365.jpg",
       "https://img.olx.com.br/images/59/593606408351829.jpg",
       "https://img.olx.com.br/images/62/628625649908505.jpg"
     ],
-    "defeito": false,
+    "id": "1498585778",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-slim-1498585778",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "Ps5 slim ",
     "ts": 1777676304
   },
   {
@@ -9939,24 +9959,5 @@
     "tempoOlx": "",
     "titulo": " Last of Us Part II - PS4",
     "ts": 1777652387
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Aventure-se em Far Cry 5 para PS4! Explore um mundo aberto vibrante e cheio de ação. Experimente uma jogabilidade imersiva e uma história envolvente.",
-    "detectado": "13:19",
-    "fotoUrl": "https://img.olx.com.br/images/65/658614887177199.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/658614887177199.jpg",
-      "https://img.olx.com.br/images/66/669625042742132.jpg"
-    ],
-    "id": "1498479969",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-farcry-5-midia-fisica-1498479969",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo PS4.  FARCRY 5. Mídia fisica",
-    "ts": 1777652384
   }
 ]
