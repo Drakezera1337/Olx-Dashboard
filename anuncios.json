@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498100385",
-    "titulo": "Ps4 usado",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "categoria": "ps4",
+    "id": "1498582982",
+    "titulo": "X box serie s",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:34",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "detectado": "19:36",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-usado-1498100385",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/x-box-serie-s-1498582982",
+    "fotoUrl": "https://img.olx.com.br/images/76/766614285851659.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/766614285851659.jpg",
+      "https://img.olx.com.br/images/78/783623049001015.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777674976
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:34",
     "fotoUrl": "https://img.olx.com.br/images/56/562685392315124.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/562685392315124.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/61/618635519269890.jpg",
       "https://img.olx.com.br/images/91/919634633017539.jpg"
     ],
-    "defeito": false,
+    "id": "1498100385",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-usado-1498100385",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Ps4 usado",
     "ts": 1777674859
   },
   {
@@ -9916,23 +9935,5 @@
     "tempoOlx": "",
     "titulo": "Vendo PS4",
     "ts": 1777652171
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Mergulhe no mundo do crime organizado japonês com Yakuza 6! Uma experiência épica de ação e drama, com gráficos incríveis e uma história envolvente que vai te prender.",
-    "detectado": "13:16",
-    "fotoUrl": "https://img.olx.com.br/images/85/858549563320989.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/858549563320989.jpg"
-    ],
-    "id": "1437000742",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/yakuza-6-ps4-lacrado-1437000742",
-    "preco": 169,
-    "precoRaw": "R$ 169",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Yakuza 6 Ps4 Lacrado",
-    "ts": 1777652166
   }
 ]
