@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498588722",
-    "titulo": "PlayStation 4 ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1498588706",
+    "titulo": "Jogos ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:18",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-1498588722",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-1498588706",
+    "fotoUrl": "https://img.olx.com.br/images/65/658641648890645.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/658641648890645.jpg",
+      "https://img.olx.com.br/images/66/666634285114949.jpg",
+      "https://img.olx.com.br/images/66/667610525114664.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777677534
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:18",
     "fotoUrl": "https://img.olx.com.br/images/18/186686524364077.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/186686524364077.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/26/264655884048032.jpg",
       "https://img.olx.com.br/images/27/275658284873432.jpg"
     ],
-    "defeito": false,
+    "id": "1498588722",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-1498588722",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "PlayStation 4 ",
     "ts": 1777677521
   },
   {
@@ -9943,24 +9963,5 @@
     "tempoOlx": "",
     "titulo": "Batman: Return to Arkham - Disco Duplo - PS4",
     "ts": 1777652403
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Jogo FIFA 22 para PS4 chama !",
-    "detectado": "13:20",
-    "fotoUrl": "https://img.olx.com.br/images/91/914645146539633.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/914645146539633.jpg",
-      "https://img.olx.com.br/images/93/931674381252359.jpg"
-    ],
-    "id": "1489619205",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-22-ps4-1489619205",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "FIFA 22 Ps4",
-    "ts": 1777652400
   }
 ]
