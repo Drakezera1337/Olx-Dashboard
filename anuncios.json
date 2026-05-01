@@ -1,21 +1,39 @@
 [
   {
-    "id": "1498142284",
-    "titulo": "Vendo iPhone 14 Pro Max ",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "categoria": "iphone",
+    "id": "1498580400",
+    "titulo": "PS4 SLIM 500GB",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:23",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-14-pro-max-1498142284",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-slim-500gb-1498580400",
+    "fotoUrl": "https://img.olx.com.br/images/67/678629287049528.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/678629287049528.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777674209
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:23",
     "fotoUrl": "https://img.olx.com.br/images/72/729610390634108.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/729610390634108.jpg",
       "https://img.olx.com.br/images/73/730607759241721.jpg"
     ],
-    "defeito": false,
+    "id": "1498142284",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-14-pro-max-1498142284",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Vendo iPhone 14 Pro Max ",
     "ts": 1777674197
   },
   {
@@ -9899,28 +9917,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Gran turismo Sport",
-    "ts": 1777639027
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:37",
-    "fotoUrl": "https://img.olx.com.br/images/35/350636165710700.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/350636165710700.jpg",
-      "https://img.olx.com.br/images/36/362686889332809.jpg",
-      "https://img.olx.com.br/images/38/382619760970799.jpg",
-      "https://img.olx.com.br/images/39/391671162364895.jpg",
-      "https://img.olx.com.br/images/41/417671767615436.jpg"
-    ],
-    "id": "1498442537",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/combo-6-jogos-para-playstation-4-1498442537",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Combo 6 jogos para Playstation 4",
     "ts": 1777639027
   }
 ]
