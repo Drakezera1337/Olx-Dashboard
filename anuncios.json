@@ -1,21 +1,39 @@
 [
   {
-    "id": "1498572637",
-    "titulo": "Jogos de ps3",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps3",
+    "id": "1498573099",
+    "titulo": "Devil May Cry HD Collection - PS4 (3 Jogos em 1 Disco)",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:34",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "detectado": "18:36",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps3-1498572637",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/devil-may-cry-hd-collection-ps4-3-jogos-em-1-disco-1498573099",
+    "fotoUrl": "https://img.olx.com.br/images/53/533641641961314.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/533641641961314.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777671411
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:34",
     "fotoUrl": "https://img.olx.com.br/images/96/961627044382201.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/961627044382201.jpg",
       "https://img.olx.com.br/images/99/992606768612371.jpg"
     ],
-    "defeito": false,
+    "id": "1498572637",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps3-1498572637",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "Jogos de ps3",
     "ts": 1777671291
   },
   {
@@ -9899,23 +9917,5 @@
     "tempoOlx": "",
     "titulo": "Xbox séries S completo ",
     "ts": 1777593532
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "Xbox Series S em ótimo estado de conservação, funcionando perfeitamente e acompanha 1 controle. Aceito propostas e você pode testar antes de comprar. Desempenho next-gen para jogos incríveis com mais velocidade!",
-    "detectado": "20:58",
-    "fotoUrl": "https://img.olx.com.br/images/48/481618870849500.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/481618870849500.jpg"
-    ],
-    "id": "1498343509",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/xbox-series-s-1498343509",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "XBOX SÉRIES S",
-    "ts": 1777593529
   }
 ]
