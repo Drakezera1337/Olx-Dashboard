@@ -1,15 +1,9 @@
 [
   {
-    "id": "1498580109",
-    "titulo": "PlayStation 3 ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
     "categoria": "ps3",
-    "publicado": "",
-    "detectado": "19:24",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-3-1498580109",
+    "detectado": "19:24",
     "fotoUrl": "https://img.olx.com.br/images/37/377612040644553.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/377612040644553.jpg",
@@ -18,20 +12,20 @@
       "https://img.olx.com.br/images/42/420697647925670.jpg",
       "https://img.olx.com.br/images/44/446660404242297.jpg"
     ],
-    "defeito": false,
+    "id": "1498580109",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-3-1498580109",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PlayStation 3 ",
     "ts": 1777674246
   },
   {
-    "id": "1498277723",
-    "titulo": "PlayStation 3 ",
-    "preco": 200,
-    "precoRaw": "R$ 200",
     "categoria": "ps3",
-    "publicado": "",
-    "detectado": "19:24",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-1498277723",
+    "detectado": "19:24",
     "fotoUrl": "https://img.olx.com.br/images/21/218640636862389.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/218640636862389.jpg",
@@ -39,7 +33,13 @@
       "https://img.olx.com.br/images/25/259668511439613.jpg",
       "https://img.olx.com.br/images/27/271626397510691.jpg"
     ],
-    "defeito": false,
+    "id": "1498277723",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-1498277723",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PlayStation 3 ",
     "ts": 1777674246
   },
   {
