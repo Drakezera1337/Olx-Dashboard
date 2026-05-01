@@ -1,15 +1,31 @@
 [
   {
-    "id": "1498592498",
-    "titulo": "Xbox séries S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1498326837",
+    "titulo": "Ps3 desbloqueado super slim ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "20:47",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "20:48",
+    "tempoOlx": "Na OLX desde outubro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498592498",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-desbloqueado-super-slim-1498326837",
+    "fotoUrl": "https://img.olx.com.br/images/81/810660399088486.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/810660399088486.jpg",
+      "https://img.olx.com.br/images/83/831698634198229.jpg",
+      "https://img.olx.com.br/images/84/845669151704541.jpg",
+      "https://img.olx.com.br/images/85/851679157652255.jpg",
+      "https://img.olx.com.br/images/12/128665401494795.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777679306
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:47",
     "fotoUrl": "https://img.olx.com.br/images/88/883670521275261.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/883670521275261.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/91/918629528595658.jpg",
       "https://img.olx.com.br/images/92/921673763956095.jpg"
     ],
-    "defeito": false,
+    "id": "1498592498",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498592498",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Xbox séries S",
     "ts": 1777679276
   },
   {
@@ -9938,27 +9960,5 @@
     "tempoOlx": "",
     "titulo": "Bloodstained Ritual of the Night - PS4",
     "ts": 1777655841
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Reviva as aventuras clássicas com Crash Bandicoot N. Sane Trilogy para PS4! Este pacote incrível inclui os 3 jogos originais remasterizados, trazendo gráficos aprimorados e jogabilidade moderna para uma experiência inesquecível. Embarque em desafios emocionantes e divirta-se com Crash e seus amigos.",
-    "detectado": "14:17",
-    "fotoUrl": "https://img.olx.com.br/images/51/519649404078712.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/519649404078712.jpg",
-      "https://img.olx.com.br/images/52/527617765326074.jpg",
-      "https://img.olx.com.br/images/54/548650406405442.jpg",
-      "https://img.olx.com.br/images/55/559679041796606.jpg",
-      "https://img.olx.com.br/images/57/572622762733715.jpg"
-    ],
-    "id": "1498519949",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/crash-bandicoon-trilogy-ps4-1498519949",
-    "preco": 139,
-    "precoRaw": "R$ 139",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "CRASH BANDICOON TRILOGY PS4",
-    "ts": 1777655838
   }
 ]
