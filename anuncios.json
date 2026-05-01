@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498571368",
-    "titulo": "Xbox series s",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1498572347",
+    "titulo": "PlayStation 4 1TB, 2 controles original e mais 5 jogos ",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:30",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498571368",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1tb-2-controles-original-e-mais-5-jogos-1498572347",
+    "fotoUrl": "https://img.olx.com.br/images/13/135627644684280.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/135627644684280.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777671050
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:30",
     "fotoUrl": "https://img.olx.com.br/images/56/562629524563106.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/562629524563106.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/61/619634529910475.jpg",
       "https://img.olx.com.br/images/63/633656048617351.jpg"
     ],
-    "defeito": false,
+    "id": "1498571368",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498571368",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Xbox series s",
     "ts": 1777671031
   },
   {
@@ -9903,27 +9921,5 @@
     "tempoOlx": "",
     "titulo": "PS4 SLIM",
     "ts": 1777592867
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "Deslumbre-se com o iPhone 16 Pro Max, a mais nova revolução em tecnologia móvel. Com design sofisticado e desempenho inigualável, ele redefine a experiência de um smartphone. Ideal para quem busca o máximo em performance, fotografia e inovação.",
-    "detectado": "20:45",
-    "fotoUrl": "https://img.olx.com.br/images/50/503644874564768.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/503644874564768.jpg",
-      "https://img.olx.com.br/images/51/518687877675353.jpg",
-      "https://img.olx.com.br/images/52/524647514230861.jpg",
-      "https://img.olx.com.br/images/54/541673274217266.jpg",
-      "https://img.olx.com.br/images/57/578679514777755.jpg"
-    ],
-    "id": "1498341560",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-256gb-desert-1498341560",
-    "preco": 6000,
-    "precoRaw": "R$ 6.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 16 Pro Max 256GB Desert",
-    "ts": 1777592748
   }
 ]
