@@ -1,22 +1,41 @@
 [
   {
-    "id": "1496292297",
-    "titulo": "Vídeo game ?",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "outros",
+    "id": "1498587405",
+    "titulo": "Ps5 novo, na caixa ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:59",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "detectado": "20:18",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-1496292297",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-novo-na-caixa-1498587405",
+    "fotoUrl": "https://img.olx.com.br/images/98/982643161494407.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/982643161494407.jpg",
+      "https://img.olx.com.br/images/99/999669647187263.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777677504
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:59",
     "fotoUrl": "https://img.olx.com.br/images/85/859693637840925.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/859693637840925.jpg",
       "https://img.olx.com.br/images/87/874663272691034.jpg",
       "https://img.olx.com.br/images/88/882686276157860.jpg"
     ],
-    "defeito": false,
+    "id": "1496292297",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-1496292297",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "titulo": "Vídeo game ?",
     "ts": 1777676362
   },
   {
@@ -9940,24 +9959,5 @@
     "tempoOlx": "",
     "titulo": "FIFA 20 PS4",
     "ts": 1777652390
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Mergulhe na jornada emocionante de The Last of Us Part II para PS4! Explore um mundo pós-apocalíptico repleto de ação, drama e personagens cativantes. Uma experiência inesquecível para os fãs de aventura!",
-    "detectado": "13:19",
-    "fotoUrl": "https://img.olx.com.br/images/61/617651608625993.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/617651608625993.jpg",
-      "https://img.olx.com.br/images/60/607665365679900.jpg"
-    ],
-    "id": "1472586370",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/last-of-us-part-ii-ps4-1472586370",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": " Last of Us Part II - PS4",
-    "ts": 1777652387
   }
 ]
