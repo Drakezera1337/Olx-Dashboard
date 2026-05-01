@@ -1,15 +1,52 @@
 [
   {
-    "id": "1470973257",
-    "titulo": "Caixa de Xbox séries s ",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "xbox",
+    "id": "1498580109",
+    "titulo": "PlayStation 3 ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "19:23",
+    "detectado": "19:24",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-de-xbox-series-s-1470973257",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-3-1498580109",
+    "fotoUrl": "https://img.olx.com.br/images/37/377612040644553.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/377612040644553.jpg",
+      "https://img.olx.com.br/images/39/392674528206849.jpg",
+      "https://img.olx.com.br/images/41/416653400820560.jpg",
+      "https://img.olx.com.br/images/42/420697647925670.jpg",
+      "https://img.olx.com.br/images/44/446660404242297.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777674246
+  },
+  {
+    "id": "1498277723",
+    "titulo": "PlayStation 3 ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps3",
+    "publicado": "",
+    "detectado": "19:24",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-1498277723",
+    "fotoUrl": "https://img.olx.com.br/images/21/218640636862389.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/218640636862389.jpg",
+      "https://img.olx.com.br/images/22/222630033374571.jpg",
+      "https://img.olx.com.br/images/25/259668511439613.jpg",
+      "https://img.olx.com.br/images/27/271626397510691.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777674246
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:23",
     "fotoUrl": "https://img.olx.com.br/images/17/178615361604543.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/178615361604543.jpg",
@@ -17,7 +54,13 @@
       "https://img.olx.com.br/images/20/203617844105853.jpg",
       "https://img.olx.com.br/images/21/210657363222158.jpg"
     ],
-    "defeito": false,
+    "id": "1470973257",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-de-xbox-series-s-1470973257",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Caixa de Xbox séries s ",
     "ts": 1777674230
   },
   {
@@ -9881,45 +9924,5 @@
     "tempoOlx": "",
     "titulo": "Jogos ps4",
     "ts": 1777639330
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Desfrute de horas de entretenimento com este console de videogame de última geração! Explore mundos incríveis, jogue com amigos e vivencie seus jogos favoritos como nunca antes. Uma experiência imersiva espera por você!",
-    "detectado": "09:40",
-    "fotoUrl": "https://img.olx.com.br/images/84/847611761814062.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/847611761814062.jpg",
-      "https://img.olx.com.br/images/85/853636643423217.jpg",
-      "https://img.olx.com.br/images/87/879691524411152.jpg",
-      "https://img.olx.com.br/images/89/890623767440275.jpg",
-      "https://img.olx.com.br/images/90/907665407011766.jpg"
-    ],
-    "id": "1498442311",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1498442311",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4",
-    "ts": 1777639241
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:37",
-    "fotoUrl": "https://img.olx.com.br/images/28/289601160222868.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/289601160222868.jpg"
-    ],
-    "id": "1498442807",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/detroit-ps4-1498442807",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "DETROIT PS4",
-    "ts": 1777639027
   }
 ]
