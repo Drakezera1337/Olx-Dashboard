@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498068111",
-    "titulo": "Ps4 fat ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1496374324",
+    "titulo": "iPhone 13 256gb",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "19:52",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "detectado": "19:53",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-fat-1498068111",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-256gb-1496374324",
+    "fotoUrl": "https://img.olx.com.br/images/45/450613759932150.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/450613759932150.jpg",
+      "https://img.olx.com.br/images/46/460654278164195.jpg",
+      "https://img.olx.com.br/images/48/489651395061051.jpg",
+      "https://img.olx.com.br/images/49/494641033314043.jpg",
+      "https://img.olx.com.br/images/50/500673870137957.jpg",
+      "https://img.olx.com.br/images/52/525675632551073.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777676001
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:52",
     "fotoUrl": "https://img.olx.com.br/images/49/499666156992973.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/499666156992973.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/56/561675878919068.jpg",
       "https://img.olx.com.br/images/57/570654752283612.jpg"
     ],
-    "defeito": false,
+    "id": "1498068111",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-fat-1498068111",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Ps4 fat ",
     "ts": 1777675942
   },
   {
@@ -9928,24 +9951,5 @@
     "tempoOlx": "",
     "titulo": "F1 Formula 1 2018 - PS4",
     "ts": 1777652356
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Mergulhe em um universo de ação e aventura com Marvel Super Heroes 2 para PS4! Junte os heróis mais icônicos da Marvel em batalhas épicas e explore cenários incríveis. Uma experiência imperdível para fãs de todas as idades!",
-    "detectado": "13:19",
-    "fotoUrl": "https://img.olx.com.br/images/65/654657285397885.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/654657285397885.jpg",
-      "https://img.olx.com.br/images/67/675603520342606.jpg"
-    ],
-    "id": "1498490080",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/marvel-super-heroes-2-ps4-1498490080",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Marvel Super Heroes 2 - PS4",
-    "ts": 1777652348
   }
 ]
