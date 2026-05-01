@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498138092",
-    "titulo": "Jogos Ps4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1498582325",
+    "titulo": "PES 21 PS4 - Usado",
+    "preco": 250,
+    "precoRaw": "R$ 250",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:39",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1498138092",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-21-ps4-usado-1498582325",
+    "fotoUrl": "https://img.olx.com.br/images/93/934618041565284.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/934618041565284.jpg",
+      "https://img.olx.com.br/images/94/940674282908823.jpg",
+      "https://img.olx.com.br/images/96/966617166843341.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777675164
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:39",
     "fotoUrl": "https://img.olx.com.br/images/27/275638876545725.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/275638876545725.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/31/313642637757576.jpg",
       "https://img.olx.com.br/images/33/339637757744564.jpg"
     ],
-    "defeito": false,
+    "id": "1498138092",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1498138092",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "Jogos Ps4",
     "ts": 1777675153
   },
   {
@@ -9898,23 +9918,5 @@
     "tempoOlx": "",
     "titulo": "PS3 Slim com defeito - para peças ou conserto",
     "ts": 1777652219
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "Manual do console Playstation 3 em perfeito estado. Reviva a experiência completa do seu PS3 com este guia oficial.aceito proposta",
-    "detectado": "13:16",
-    "fotoUrl": "https://img.olx.com.br/images/46/463677031834845.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/463677031834845.jpg"
-    ],
-    "id": "1498329571",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/manual-playstation-3-esta-perfeito-1498329571",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Manual Playstation 3 está perfeito ",
-    "ts": 1777652215
   }
 ]
