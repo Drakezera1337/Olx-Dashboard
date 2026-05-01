@@ -1,5 +1,26 @@
 [
   {
+    "id": "1498062014",
+    "titulo": "Playstation 4 ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
+    "publicado": "",
+    "detectado": "20:35",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "descricao": "",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1498062014",
+    "fotoUrl": "https://img.olx.com.br/images/58/582612273459259.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/582612273459259.jpg",
+      "https://img.olx.com.br/images/59/597678396683615.jpg",
+      "https://img.olx.com.br/images/61/613670755244549.jpg",
+      "https://img.olx.com.br/images/63/636659517481897.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777678554
+  },
+  {
     "categoria": "ps5",
     "defeito": false,
     "descricao": "",
@@ -9935,24 +9956,5 @@
     "tempoOlx": "",
     "titulo": "Resident Evil 2 Remake - PS4 | Impecável (Mídia Física)",
     "ts": 1777655449
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "Mergulhe em Darksiders II - Limited Edition para PS3! Embarque em uma jornada épica repleta de ação e aventura. Inclui acesso gratuito ao DLC \"Argul's Tomb\".\n\nVersão Europeia.",
-    "detectado": "14:10",
-    "fotoUrl": "https://img.olx.com.br/images/54/542650163094812.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/542650163094812.jpg",
-      "https://img.olx.com.br/images/56/563662288033867.jpg"
-    ],
-    "id": "1498519222",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/darksiders-ii-limited-edition-ps3-1498519222",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Darksiders II - Limited Edition PS3",
-    "ts": 1777655445
   }
 ]
