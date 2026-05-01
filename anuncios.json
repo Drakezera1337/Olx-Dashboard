@@ -1,15 +1,30 @@
 [
   {
-    "id": "1496374324",
-    "titulo": "iPhone 13 256gb",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "iphone",
+    "id": "1498585426",
+    "titulo": "Jogos ps4 ",
+    "preco": 149,
+    "precoRaw": "R$ 149",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:53",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "detectado": "19:54",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-256gb-1496374324",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogos-ps4-1498585426",
+    "fotoUrl": "https://img.olx.com.br/images/46/467653047418466.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/467653047418466.jpg",
+      "https://img.olx.com.br/images/49/499601643682164.jpg",
+      "https://img.olx.com.br/images/80/802627042565091.jpg",
+      "https://img.olx.com.br/images/84/846688285241181.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777676063
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:53",
     "fotoUrl": "https://img.olx.com.br/images/45/450613759932150.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/450613759932150.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/50/500673870137957.jpg",
       "https://img.olx.com.br/images/52/525675632551073.jpg"
     ],
-    "defeito": false,
+    "id": "1496374324",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-256gb-1496374324",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "iPhone 13 256gb",
     "ts": 1777676001
   },
   {
@@ -9932,24 +9953,5 @@
     "tempoOlx": "",
     "titulo": "Jogo Ps4 Farcry Primal (Em Português)",
     "ts": 1777652359
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Domine as pistas com o F1 2018 para PlayStation 4! Reviva a emoção da Fórmula 1 com gráficos impressionantes e jogabilidade envolvente. Inclui o DLC exclusivo com os carros clássicos de 2009 Brawn GP-001 e 2003 Williams FW25.",
-    "detectado": "13:19",
-    "fotoUrl": "https://img.olx.com.br/images/96/964645640658803.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/964645640658803.jpg",
-      "https://img.olx.com.br/images/97/974661523818834.jpg"
-    ],
-    "id": "1498488591",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/f1-formula-1-2018-ps4-1498488591",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "F1 Formula 1 2018 - PS4",
-    "ts": 1777652356
   }
 ]
