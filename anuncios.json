@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498587919",
-    "titulo": "Resident Biohazard ",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "outros",
+    "id": "1498268673",
+    "titulo": "PS4 Slim 1TB +2 Controles +1 Game - (Testado / Funcionando)",
+    "preco": 1915,
+    "precoRaw": "R$ 1.915",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:19",
-    "tempoOlx": "Na OLX desde março de 2016",
+    "detectado": "20:20",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-biohazard-1498587919",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/ps4-slim-1tb-2-controles-1-game-testado-funcionando-1498268673",
+    "fotoUrl": "https://img.olx.com.br/images/60/607617398853915.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/607617398853915.jpg",
+      "https://img.olx.com.br/images/61/615604393915357.jpg",
+      "https://img.olx.com.br/images/63/637644392618972.jpg",
+      "https://img.olx.com.br/images/63/631677753572634.jpg",
+      "https://img.olx.com.br/images/64/646673632507776.jpg",
+      "https://img.olx.com.br/images/65/658674275523350.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777677604
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:19",
     "fotoUrl": "https://img.olx.com.br/images/70/706672168645756.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/706672168645756.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/72/722658041114443.jpg",
       "https://img.olx.com.br/images/74/749617522938250.jpg"
     ],
-    "defeito": false,
+    "id": "1498587919",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-biohazard-1498587919",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2016",
+    "titulo": "Resident Biohazard ",
     "ts": 1777677594
   },
   {
@@ -9936,25 +9959,5 @@
     "tempoOlx": "",
     "titulo": "Jogos PlayStation 4",
     "ts": 1777652440
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Vendo jogos de ps4 originais",
-    "detectado": "13:20",
-    "fotoUrl": "https://img.olx.com.br/images/45/451620762443901.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/451620762443901.jpg",
-      "https://img.olx.com.br/images/48/488607648706621.jpg",
-      "https://img.olx.com.br/images/54/542672284275102.jpg"
-    ],
-    "id": "1498475518",
-    "link": "https://ap.olx.com.br/amapa/games/jogos-de-video-game/vendo-jogos-de-ps4-1498475518",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo jogos de ps4",
-    "ts": 1777652436
   }
 ]
