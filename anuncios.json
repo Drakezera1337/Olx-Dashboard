@@ -1,15 +1,31 @@
 [
   {
-    "id": "1497536527",
-    "titulo": "PS4 SLIM 1TB (propostas?)",
-    "preco": 1650,
-    "precoRaw": "R$ 1.650",
+    "id": "1498068111",
+    "titulo": "Ps4 fat ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:49",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "19:52",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-slim-1tb-propostas-1497536527",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-fat-1498068111",
+    "fotoUrl": "https://img.olx.com.br/images/49/499666156992973.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/499666156992973.jpg",
+      "https://img.olx.com.br/images/51/511632753143953.jpg",
+      "https://img.olx.com.br/images/54/548627152484622.jpg",
+      "https://img.olx.com.br/images/56/561675878919068.jpg",
+      "https://img.olx.com.br/images/57/570654752283612.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777675942
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:49",
     "fotoUrl": "https://img.olx.com.br/images/39/395654397187776.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/395654397187776.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/45/450605155496256.jpg",
       "https://img.olx.com.br/images/46/461670751292883.jpg"
     ],
-    "defeito": false,
+    "id": "1497536527",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-slim-1tb-propostas-1497536527",
+    "preco": 1650,
+    "precoRaw": "R$ 1.650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "PS4 SLIM 1TB (propostas?)",
     "ts": 1777675744
   },
   {
@@ -9925,23 +9947,5 @@
     "tempoOlx": "",
     "titulo": "Marvel Super Heroes 2 - PS4",
     "ts": 1777652348
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Jogo usado funcionando perfeitamente.",
-    "detectado": "13:19",
-    "fotoUrl": "https://img.olx.com.br/images/89/897639370851377.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/897639370851377.jpg"
-    ],
-    "id": "1481492776",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/god-of-war-ragnarok-ps4-1481492776",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "God of War Ragnarok Ps4 ",
-    "ts": 1777652343
   }
 ]
