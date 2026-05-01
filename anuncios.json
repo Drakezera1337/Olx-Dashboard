@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498580140",
-    "titulo": "Lote jogos ps4 no estado",
-    "preco": 510,
-    "precoRaw": "R$ 510",
+    "id": "1497989789",
+    "titulo": "Jogo Playstation 4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:20",
-    "tempoOlx": "Na OLX desde junho de 2025",
+    "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/lote-jogos-ps4-no-estado-1498580140",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-playstation-4-1497989789",
+    "fotoUrl": "https://img.olx.com.br/images/93/934647395575505.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/934647395575505.jpg",
+      "https://img.olx.com.br/images/94/946647511105888.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777674058
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:20",
     "fotoUrl": "https://img.olx.com.br/images/83/838643645654070.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/838643645654070.jpg"
     ],
-    "defeito": false,
+    "id": "1498580140",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/lote-jogos-ps4-no-estado-1498580140",
+    "preco": 510,
+    "precoRaw": "R$ 510",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2025",
+    "titulo": "Lote jogos ps4 no estado",
     "ts": 1777674048
   },
   {
@@ -9889,24 +9908,5 @@
     "tempoOlx": "",
     "titulo": "Start Wars ",
     "ts": 1777638930
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:34",
-    "fotoUrl": "https://img.olx.com.br/images/45/450672161645611.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/450672161645611.jpg",
-      "https://img.olx.com.br/images/46/460666889830684.jpg"
-    ],
-    "id": "1498439963",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-slim-1498439963",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 Slim",
-    "ts": 1777638896
   }
 ]
