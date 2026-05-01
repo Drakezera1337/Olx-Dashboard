@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498578335",
-    "titulo": "iPhone 11 branco 128 GB ",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "iphone",
+    "id": "1498579298",
+    "titulo": "Resident Evil 6 PS4 - Novo e Lacrado",
+    "preco": 135,
+    "precoRaw": "R$ 135",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:12",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "detectado": "19:15",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-branco-128-gb-1498578335",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/resident-evil-6-ps4-novo-e-lacrado-1498579298",
+    "fotoUrl": "https://img.olx.com.br/images/13/134654403354036.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/134654403354036.jpg",
+      "https://img.olx.com.br/images/15/159623767493726.jpg",
+      "https://img.olx.com.br/images/17/172654406393962.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777673720
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:12",
     "fotoUrl": "https://img.olx.com.br/images/86/866676524938785.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/866676524938785.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/88/889678645689641.jpg",
       "https://img.olx.com.br/images/90/902632165629146.jpg"
     ],
-    "defeito": false,
+    "id": "1498578335",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-branco-128-gb-1498578335",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "iPhone 11 branco 128 GB ",
     "ts": 1777673565
   },
   {
@@ -9887,25 +9907,5 @@
     "tempoOlx": "",
     "titulo": "PS4 fat 500",
     "ts": 1777612298
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Experimente o poder do PlayStation 4 Slim com 1TB de armazenamento!",
-    "detectado": "02:11",
-    "fotoUrl": "https://img.olx.com.br/images/57/576637153089900.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/576637153089900.jpg",
-      "https://img.olx.com.br/images/58/587638513744175.jpg",
-      "https://img.olx.com.br/images/59/592669276162325.jpg"
-    ],
-    "id": "1491445133",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-playstation-4-slim-1-tb-1491445133",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4/Playstation 4 Slim 1 TB",
-    "ts": 1777612295
   }
 ]
