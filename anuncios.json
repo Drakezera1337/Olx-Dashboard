@@ -1,22 +1,43 @@
 [
   {
-    "id": "1498588706",
-    "titulo": "Jogos ",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1498588540",
+    "titulo": "Moster Hunter World Iceborne Master Edition ",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "20:18",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "20:19",
+    "tempoOlx": "Na OLX desde março de 2016",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-1498588706",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/moster-hunter-world-iceborne-master-edition-1498588540",
+    "fotoUrl": "https://img.olx.com.br/images/17/174680641413029.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/174680641413029.jpg",
+      "https://img.olx.com.br/images/18/181687403028661.jpg",
+      "https://img.olx.com.br/images/31/312658521248276.jpg",
+      "https://img.olx.com.br/images/32/327698760114267.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777677543
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:18",
     "fotoUrl": "https://img.olx.com.br/images/65/658641648890645.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/658641648890645.jpg",
       "https://img.olx.com.br/images/66/666634285114949.jpg",
       "https://img.olx.com.br/images/66/667610525114664.jpg"
     ],
-    "defeito": false,
+    "id": "1498588706",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-1498588706",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Jogos ",
     "ts": 1777677534
   },
   {
@@ -9941,27 +9962,5 @@
     "tempoOlx": "",
     "titulo": "Rocket League - PS4",
     "ts": 1777652406
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Jogo de ação e aventura para PS4, onde você controla o Batman em uma história que se passa no universo Arkham. Explore Gotham City, enfrente inimigos icônicos e desvende mistérios. Gráficos e jogabilidade aprimorados para a nova geração.",
-    "detectado": "13:20",
-    "fotoUrl": "https://img.olx.com.br/images/65/655570393244335.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/655570393244335.jpg",
-      "https://img.olx.com.br/images/65/657597514637180.jpg",
-      "https://img.olx.com.br/images/65/656504279032683.jpg",
-      "https://img.olx.com.br/images/66/660510273949700.jpg",
-      "https://img.olx.com.br/images/65/657591396415952.jpg"
-    ],
-    "id": "1392541103",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/batman-return-to-arkham-disco-duplo-ps4-1392541103",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Batman: Return to Arkham - Disco Duplo - PS4",
-    "ts": 1777652403
   }
 ]
