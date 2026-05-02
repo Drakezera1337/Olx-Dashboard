@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498795194",
-    "titulo": "Nintendo Ds Lite Ice Blue",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "switch",
+    "id": "1498795645",
+    "titulo": "Jogos PS4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:46",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "detectado": "19:49",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-ds-lite-ice-blue-1498795194",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1498795645",
+    "fotoUrl": "https://img.olx.com.br/images/77/779619043427684.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/779619043427684.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777762193
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:46",
     "fotoUrl": "https://img.olx.com.br/images/47/470634405371685.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/470634405371685.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/61/615644523416238.jpg",
       "https://img.olx.com.br/images/64/642605046735977.jpg"
     ],
-    "defeito": false,
+    "id": "1498795194",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-ds-lite-ice-blue-1498795194",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Nintendo Ds Lite Ice Blue",
     "ts": 1777762014
   },
   {
@@ -9854,23 +9872,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "PS4 + 6 Jogos com 2TB de HD externo ",
     "ts": 1777687267
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:00",
-    "fotoUrl": "https://img.olx.com.br/images/65/654673760138773.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/654673760138773.jpg"
-    ],
-    "id": "1498610078",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1498610078",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2017",
-    "titulo": "Jogos Ps4 ",
-    "ts": 1777687259
   }
 ]
