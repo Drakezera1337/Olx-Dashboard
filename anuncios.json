@@ -1,20 +1,42 @@
 [
   {
-    "id": "1498683288",
-    "titulo": "PlayStation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1498673825",
+    "titulo": "Red Dead Redemption II Collectors Edition<br>4270 reais. ",
+    "preco": 4270,
+    "precoRaw": "R$ 4.270",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:23",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "11:28",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/playstation-4-1498683288",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/red-dead-redemption-ii-collectors-edition-br-4270-reais-1498673825",
+    "fotoUrl": "https://img.olx.com.br/images/63/630688165567156.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/630688165567156.jpg",
+      "https://img.olx.com.br/images/64/644662287601685.jpg",
+      "https://img.olx.com.br/images/65/651627045759595.jpg",
+      "https://img.olx.com.br/images/66/660625284522392.jpg",
+      "https://img.olx.com.br/images/66/665628407278650.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777732132
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:23",
     "fotoUrl": "https://img.olx.com.br/images/50/507648528370169.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/507648528370169.jpg"
     ],
-    "defeito": false,
+    "id": "1498683288",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/playstation-4-1498683288",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PlayStation 4",
     "ts": 1777731831
   },
   {
@@ -9999,23 +10021,5 @@
     "tempoOlx": "",
     "titulo": "CALL OF DUTY 4 PS4",
     "ts": 1777669974
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:12",
-    "fotoUrl": "https://img.olx.com.br/images/90/909646167590387.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/909646167590387.jpg"
-    ],
-    "id": "1498568736",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/god-of-war-ps4-1498568736",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "GOD OF WAR PS4",
-    "ts": 1777669973
   }
 ]
