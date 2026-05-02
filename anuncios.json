@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498805116",
-    "titulo": "PlayStation 4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1498804894",
+    "titulo": "PS4 Slim 1TB",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:58",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-1498805116",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/ps4-slim-1tb-1498804894",
+    "fotoUrl": "https://img.olx.com.br/images/97/977634166769166.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/977634166769166.jpg",
+      "https://img.olx.com.br/images/99/997654642121808.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777766334
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:58",
     "fotoUrl": "https://img.olx.com.br/images/19/190693881288578.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/190693881288578.jpg"
     ],
-    "defeito": false,
+    "id": "1498805116",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-1498805116",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "PlayStation 4",
     "ts": 1777766316
   },
   {
@@ -9817,23 +9836,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "Rogério produtos sa",
     "ts": 1777730888
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:07",
-    "fotoUrl": "https://img.olx.com.br/images/40/409604884347294.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/409604884347294.jpg"
-    ],
-    "id": "1498667221",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/controle-xbox-series-s-1498667221",
-    "preco": 390,
-    "precoRaw": "R$ 390",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "Controle XBOX SERIES S ",
-    "ts": 1777730879
   }
 ]
