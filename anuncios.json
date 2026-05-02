@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498747129",
-    "titulo": "Vendo dois jogos de ps4",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "ps4",
+    "id": "1498746730",
+    "titulo": "Grand Theft Auto IV (GTA 4) - PlayStation 3 / PS3",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:12",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "detectado": "15:13",
+    "tempoOlx": "Na OLX desde junho de 2013",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/jogos-de-video-game/vendo-dois-jogos-de-ps4-1498747129",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/grand-theft-auto-iv-gta-4-playstation-3-ps3-1498746730",
+    "fotoUrl": "https://img.olx.com.br/images/82/829602521642518.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/829602521642518.jpg",
+      "https://img.olx.com.br/images/82/823604285666315.jpg",
+      "https://img.olx.com.br/images/82/823630525976091.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777745587
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:12",
     "fotoUrl": "https://img.olx.com.br/images/72/720630286760419.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/720630286760419.jpg",
       "https://img.olx.com.br/images/73/731629646177230.jpg",
       "https://img.olx.com.br/images/75/755620648101627.jpg"
     ],
-    "defeito": false,
+    "id": "1498747129",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/jogos-de-video-game/vendo-dois-jogos-de-ps4-1498747129",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Vendo dois jogos de ps4",
     "ts": 1777745575
   },
   {
@@ -9898,24 +9918,5 @@
     "tempoOlx": "",
     "titulo": "PS4 SLIM 500GB",
     "ts": 1777674209
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:23",
-    "fotoUrl": "https://img.olx.com.br/images/72/729610390634108.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/729610390634108.jpg",
-      "https://img.olx.com.br/images/73/730607759241721.jpg"
-    ],
-    "id": "1498142284",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-14-pro-max-1498142284",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo iPhone 14 Pro Max ",
-    "ts": 1777674197
   }
 ]
