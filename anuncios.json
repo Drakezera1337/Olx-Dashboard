@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498685590",
-    "titulo": "PS4 slim 500gb ",
-    "preco": 1630,
-    "precoRaw": "R$ 1.630",
-    "categoria": "ps4",
+    "id": "1498686511",
+    "titulo": "NBA 2k15",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:29",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "11:33",
+    "tempoOlx": "Na OLX desde maio de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-500gb-1498685590",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/nba-2k15-1498686511",
+    "fotoUrl": "https://img.olx.com.br/images/74/749614041977840.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/749614041977840.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777732433
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:29",
     "fotoUrl": "https://img.olx.com.br/images/81/814612288985956.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/814612288985956.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/84/845623766807025.jpg",
       "https://img.olx.com.br/images/85/858644767349609.jpg"
     ],
-    "defeito": false,
+    "id": "1498685590",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-500gb-1498685590",
+    "preco": 1630,
+    "precoRaw": "R$ 1.630",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "PS4 slim 500gb ",
     "ts": 1777732194
   },
   {
@@ -10011,24 +10029,5 @@
     "tempoOlx": "",
     "titulo": "Jogo god of war ps4",
     "ts": 1777670328
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Domine o campo com FIFA 19 para PlayStation 4! Reviva os momentos mais emocionantes do futebol com gráficos incríveis e jogabilidade aprimorada. Jogue com seus times e jogadores favoritos em diversos modos de jogo.",
-    "detectado": "18:18",
-    "fotoUrl": "https://img.olx.com.br/images/79/790615524882506.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/790615524882506.jpg",
-      "https://img.olx.com.br/images/81/814612766245708.jpg"
-    ],
-    "id": "1498570042",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-19-ps4-seminovo-1498570042",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "fifa 19 ps4 seminovo",
-    "ts": 1777670325
   }
 ]
