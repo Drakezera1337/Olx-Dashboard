@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498700539",
-    "titulo": "Xbox serie s ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1498700617",
+    "titulo": "PS PORTAL ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:46",
-    "tempoOlx": "Na OLX desde abril de 2019",
+    "detectado": "12:47",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-serie-s-1498700539",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps-portal-1498700617",
+    "fotoUrl": "https://img.olx.com.br/images/15/159687767274562.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/159687767274562.jpg",
+      "https://img.olx.com.br/images/17/175630287040680.jpg",
+      "https://img.olx.com.br/images/19/194629169732654.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777736842
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:46",
     "fotoUrl": "https://img.olx.com.br/images/57/577626881106166.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/577626881106166.jpg",
       "https://img.olx.com.br/images/59/590699882574052.jpg"
     ],
-    "defeito": false,
+    "id": "1498700539",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-serie-s-1498700539",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "Xbox serie s ",
     "ts": 1777736812
   },
   {
@@ -9972,29 +9992,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Yakuza Kiwami 3 Dark Ties - Nintendo Switch 2",
-    "ts": 1777670884
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/99/997681631094909.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/997681631094909.jpg",
-      "https://img.olx.com.br/images/56/564610877968414.jpg",
-      "https://img.olx.com.br/images/65/652672153465209.jpg",
-      "https://img.olx.com.br/images/58/586614515429824.jpg",
-      "https://img.olx.com.br/images/72/725656510884595.jpg",
-      "https://img.olx.com.br/images/86/865692753067808.jpg"
-    ],
-    "id": "1497799823",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/new-pokemon-snap-nintendo-switch-midia-fisica-impecavel-1497799823",
-    "preco": 269,
-    "precoRaw": "R$ 269",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "NEW POKEMON SNAP (NINTENDO SWITCH) - MIDÍA FÍSICA - IMPECÁVEL ",
     "ts": 1777670884
   }
 ]
