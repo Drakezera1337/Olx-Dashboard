@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498715018",
-    "titulo": "PS4 para venda ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1498695113",
+    "titulo": "The Witcher 10 anos ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:43",
-    "tempoOlx": "Na OLX desde junho de 2024",
+    "detectado": "13:44",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-para-venda-1498715018",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/the-witcher-10-anos-1498695113",
+    "fotoUrl": "https://img.olx.com.br/images/75/755629763075212.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/755629763075212.jpg",
+      "https://img.olx.com.br/images/78/781656525396545.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777740244
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:43",
     "fotoUrl": "https://img.olx.com.br/images/54/546615040702784.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/546615040702784.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/54/544695284970285.jpg",
       "https://img.olx.com.br/images/55/550678525366991.jpg"
     ],
-    "defeito": false,
+    "id": "1498715018",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-para-venda-1498715018",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2024",
+    "titulo": "PS4 para venda ",
     "ts": 1777740234
   },
   {
@@ -9940,24 +9959,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "PlayStation 4",
     "ts": 1777671864
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:43",
-    "fotoUrl": "https://img.olx.com.br/images/19/198694626096762.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/198694626096762.jpg",
-      "https://img.olx.com.br/images/18/183619500210575.jpg"
-    ],
-    "id": "1489981312",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/doom-eternal-ps4-midia-fisica-1489981312",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
-    "titulo": "Doom Eternal PS4 Mídia Física",
-    "ts": 1777671829
   }
 ]
