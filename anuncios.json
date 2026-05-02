@@ -1,22 +1,40 @@
 [
   {
-    "id": "1481407862",
-    "titulo": "Residente Evil Revelations 2",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1498805116",
+    "titulo": "PlayStation 4",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:58",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/residente-evil-revelations-2-1481407862",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-1498805116",
+    "fotoUrl": "https://img.olx.com.br/images/19/190693881288578.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/190693881288578.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777766316
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:58",
     "fotoUrl": "https://img.olx.com.br/images/98/987673493161896.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/987673493161896.jpg",
       "https://img.olx.com.br/images/11/114612616622264.jpg",
       "https://img.olx.com.br/images/12/127644497333115.jpg"
     ],
-    "defeito": false,
+    "id": "1481407862",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/residente-evil-revelations-2-1481407862",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "titulo": "Residente Evil Revelations 2",
     "ts": 1777766306
   },
   {
@@ -9817,25 +9835,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "Controle XBOX SERIES S ",
     "ts": 1777730879
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:07",
-    "fotoUrl": "https://img.olx.com.br/images/34/344616524258023.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/344616524258023.jpg",
-      "https://img.olx.com.br/images/35/350605403732089.jpg",
-      "https://img.olx.com.br/images/37/373623645411962.jpg"
-    ],
-    "id": "1498669940",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-com-controle-e-bateria-recarregavel-1498669940",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Xbox séries S com controle e bateria recarregavel ",
-    "ts": 1777730870
   }
 ]
