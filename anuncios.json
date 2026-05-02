@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498782230",
-    "titulo": "Ps3 branco no estado ",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "ps3",
+    "id": "1498782775",
+    "titulo": "F1 2021 ( Fórmula 1 ) - Ps4",
+    "preco": 115,
+    "precoRaw": "R$ 115",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:10",
-    "tempoOlx": "Na OLX desde fevereiro de 2013",
+    "detectado": "18:12",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-branco-no-estado-1498782230",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/f1-2021-formula-1--ps4-1498782775",
+    "fotoUrl": "https://img.olx.com.br/images/13/130625646680404.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/130625646680404.jpg",
+      "https://img.olx.com.br/images/15/156617289826135.jpg",
+      "https://img.olx.com.br/images/17/171634166182315.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777756344
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:10",
     "fotoUrl": "https://img.olx.com.br/images/93/931677283048153.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/931677283048153.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/14/142684403319466.jpg",
       "https://img.olx.com.br/images/16/160657769139154.jpg"
     ],
-    "defeito": false,
+    "id": "1498782230",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-branco-no-estado-1498782230",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2013",
+    "titulo": "Ps3 branco no estado ",
     "ts": 1777756224
   },
   {
@@ -9847,27 +9867,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "Horizon zero down ",
     "ts": 1777677840
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:23",
-    "fotoUrl": "https://img.olx.com.br/images/97/972693516869478.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/972693516869478.jpg",
-      "https://img.olx.com.br/images/98/987684758357840.jpg",
-      "https://img.olx.com.br/images/10/104633274893304.jpg",
-      "https://img.olx.com.br/images/10/101633392550239.jpg",
-      "https://img.olx.com.br/images/72/726604275669045.jpg"
-    ],
-    "id": "1498321561",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/gta-5-com-mapa-e-manual-do-gta-online-1498321561",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "GTA 5 com mapa e manual do GTA online ",
-    "ts": 1777677832
   }
 ]
