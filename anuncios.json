@@ -1,21 +1,41 @@
 [
   {
-    "id": "1489889441",
-    "titulo": "PES 2021 PS4 LACRADO",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps4",
+    "id": "1498739495",
+    "titulo": "TEMPLATE PS5 SPIDER MAN",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "14:31",
-    "tempoOlx": "Na OLX desde junho de 2016",
+    "detectado": "14:34",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/pes-2021-ps4-lacrado-1489889441",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/template-ps5-spider-man-1498739495",
+    "fotoUrl": "https://img.olx.com.br/images/35/357687283995712.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/357687283995712.jpg",
+      "https://img.olx.com.br/images/37/373661166815519.jpg",
+      "https://img.olx.com.br/images/39/395683880146420.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777743265
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:31",
     "fotoUrl": "https://img.olx.com.br/images/77/770658505536665.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/770658505536665.jpg",
       "https://img.olx.com.br/images/79/794613628233545.jpg"
     ],
-    "defeito": false,
+    "id": "1489889441",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/pes-2021-ps4-lacrado-1489889441",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "titulo": "PES 2021 PS4 LACRADO",
     "ts": 1777743115
   },
   {
@@ -9951,23 +9971,5 @@
     "tempoOlx": "",
     "titulo": "The Shoot - PS3",
     "ts": 1777673225
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:06",
-    "fotoUrl": "https://img.olx.com.br/images/29/297617876710714.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/297617876710714.jpg"
-    ],
-    "id": "1498356750",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-serie-s-1498356750",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox série s",
-    "ts": 1777673210
   }
 ]
