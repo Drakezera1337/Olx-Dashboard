@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498429234",
-    "titulo": "Xbox one serie s ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1498783951",
+    "titulo": "Call of Duty Black Ops 3 - Ps4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:27",
-    "tempoOlx": "Na OLX desde setembro de 2013",
+    "detectado": "18:32",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/xbox-one-serie-s-1498429234",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-3-ps4-1498783951",
+    "fotoUrl": "https://img.olx.com.br/images/48/489697288487947.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/489697288487947.jpg",
+      "https://img.olx.com.br/images/50/507620645369661.jpg",
+      "https://img.olx.com.br/images/53/532669523448700.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777757574
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:27",
     "fotoUrl": "https://img.olx.com.br/images/36/367678164062907.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/367678164062907.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/68/680611164399961.jpg",
       "https://img.olx.com.br/images/69/695609407827528.jpg"
     ],
-    "defeito": false,
+    "id": "1498429234",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/xbox-one-serie-s-1498429234",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2013",
+    "titulo": "Xbox one serie s ",
     "ts": 1777757272
   },
   {
@@ -9841,25 +9861,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "iPhone 15 pró Max 256 GB ",
     "ts": 1777679694
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:54",
-    "fotoUrl": "https://img.olx.com.br/images/90/909605127278368.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/909605127278368.jpg",
-      "https://img.olx.com.br/images/92/924625247118424.jpg",
-      "https://img.olx.com.br/images/94/942620483182423.jpg"
-    ],
-    "id": "1470222469",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-s-all-digital-edition-1681-excelente-1470222469",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
-    "titulo": "Xbox S ALL Digital Edition 1681 excelente",
-    "ts": 1777679693
   }
 ]
