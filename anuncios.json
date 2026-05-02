@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498683546",
-    "titulo": "Vídeo game ",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "outros",
+    "id": "1498683961",
+    "titulo": "Elden Ring PS4",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:22",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-1498683546",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/elden-ring-ps4-1498683961",
+    "fotoUrl": "https://img.olx.com.br/images/67/677633047401188.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/677633047401188.jpg",
+      "https://img.olx.com.br/images/69/693629163408252.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777731777
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:22",
     "fotoUrl": "https://img.olx.com.br/images/12/120637528287237.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/120637528287237.jpg",
       "https://img.olx.com.br/images/13/137603047132380.jpg"
     ],
-    "defeito": false,
+    "id": "1498683546",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-1498683546",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Vídeo game ",
     "ts": 1777731741
   },
   {
@@ -10004,25 +10023,5 @@
     "tempoOlx": "",
     "titulo": "PS4 Lacrado God of War III PLAYSTATION 4",
     "ts": 1777669621
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Aventure-se no Velho Oeste com Red Dead Redemption 2 para PS4! Explore um mundo aberto vasto e detalhado, repleto de ação, missões e personagens inesquecíveis. Viva a história de Arthur Morgan e da gangue Van der Linde em uma jornada épica de honra e sobrevivência. Prepare-se para uma experiência imersiva e cheia de adrenalina!",
-    "detectado": "18:06",
-    "fotoUrl": "https://img.olx.com.br/images/66/664661285293366.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/664661285293366.jpg",
-      "https://img.olx.com.br/images/67/677671408275439.jpg",
-      "https://img.olx.com.br/images/68/689640402654391.jpg"
-    ],
-    "id": "1498567954",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/red-dead-redemption-2-ps4-1498567954",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Red dead redemption 2 ps4",
-    "ts": 1777669617
   }
 ]
