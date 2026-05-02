@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498796612",
-    "titulo": "Jogos PS4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1498796602",
+    "titulo": "Jogos FIFA PS4",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:56",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde julho de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1498796612",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-fifa-ps4-1498796602",
+    "fotoUrl": "https://img.olx.com.br/images/39/398637286704637.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/398637286704637.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777762581
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:56",
     "fotoUrl": "https://img.olx.com.br/images/74/741635162341865.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/741635162341865.jpg"
     ],
-    "defeito": false,
+    "id": "1498796612",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1498796612",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Jogos PS4",
     "ts": 1777762572
   },
   {
@@ -9845,23 +9863,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "Assassins creed mirage",
     "ts": 1777688666
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:18",
-    "fotoUrl": "https://img.olx.com.br/images/88/881694642409229.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/881694642409229.jpg"
-    ],
-    "id": "1498611886",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/fifa-20-1498611886",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2022",
-    "titulo": "FIFA 20",
-    "ts": 1777688335
   }
 ]
