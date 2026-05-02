@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498773744",
-    "titulo": "Red dead redemption edição jogo do ano ",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "outros",
+    "id": "1498776474",
+    "titulo": "Jogos PS5",
+    "preco": 420,
+    "precoRaw": "R$ 420",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "17:35",
-    "tempoOlx": "Na OLX desde março de 2016",
+    "detectado": "17:39",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-edicao-jogo-do-ano-1498773744",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/jogos-ps5-1498776474",
+    "fotoUrl": "https://img.olx.com.br/images/56/560687167892067.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/560687167892067.jpg",
+      "https://img.olx.com.br/images/59/590630642597428.jpg",
+      "https://img.olx.com.br/images/60/607605520726905.jpg",
+      "https://img.olx.com.br/images/62/624640044719894.jpg",
+      "https://img.olx.com.br/images/63/631692168203668.jpg",
+      "https://img.olx.com.br/images/65/655668520058414.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777754364
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:35",
     "fotoUrl": "https://img.olx.com.br/images/62/622617404982778.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/622617404982778.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/65/657685409317391.jpg",
       "https://img.olx.com.br/images/67/675663284626332.jpg"
     ],
-    "defeito": false,
+    "id": "1498773744",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-edicao-jogo-do-ano-1498773744",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2016",
+    "titulo": "Red dead redemption edição jogo do ano ",
     "ts": 1777754124
   },
   {
@@ -9827,28 +9850,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Jogos de ps4, ps3 e wii ( olhar descrição) ",
     "ts": 1777677614
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/60/607617398853915.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/607617398853915.jpg",
-      "https://img.olx.com.br/images/61/615604393915357.jpg",
-      "https://img.olx.com.br/images/63/637644392618972.jpg",
-      "https://img.olx.com.br/images/63/631677753572634.jpg",
-      "https://img.olx.com.br/images/64/646673632507776.jpg",
-      "https://img.olx.com.br/images/65/658674275523350.jpg"
-    ],
-    "id": "1498268673",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/ps4-slim-1tb-2-controles-1-game-testado-funcionando-1498268673",
-    "preco": 1915,
-    "precoRaw": "R$ 1.915",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "PS4 Slim 1TB +2 Controles +1 Game - (Testado / Funcionando)",
-    "ts": 1777677604
   }
 ]
