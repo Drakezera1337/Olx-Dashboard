@@ -1,22 +1,41 @@
 [
   {
-    "id": "1498699817",
-    "titulo": "FIFA 15",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "categoria": "jogos",
+    "id": "1498700539",
+    "titulo": "Xbox serie s ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:44",
-    "tempoOlx": "Na OLX desde maio de 2025",
+    "detectado": "12:46",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/fifa-15-1498699817",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-serie-s-1498700539",
+    "fotoUrl": "https://img.olx.com.br/images/57/577626881106166.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/577626881106166.jpg",
+      "https://img.olx.com.br/images/59/590699882574052.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777736812
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:44",
     "fotoUrl": "https://img.olx.com.br/images/73/738662521294395.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/738662521294395.jpg",
       "https://img.olx.com.br/images/75/758676523592047.jpg",
       "https://img.olx.com.br/images/82/824692409577576.jpg"
     ],
-    "defeito": false,
+    "id": "1498699817",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/fifa-15-1498699817",
+    "preco": 49,
+    "precoRaw": "R$ 49",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2025",
+    "titulo": "FIFA 15",
     "ts": 1777736698
   },
   {
@@ -9976,25 +9995,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "NEW POKEMON SNAP (NINTENDO SWITCH) - MIDÍA FÍSICA - IMPECÁVEL ",
-    "ts": 1777670884
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/95/959669270737231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/959669270737231.jpg",
-      "https://img.olx.com.br/images/97/975651277171950.jpg"
-    ],
-    "id": "1497797762",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-usado-1497797762",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Usado",
     "ts": 1777670884
   }
 ]
