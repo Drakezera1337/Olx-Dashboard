@@ -1,20 +1,38 @@
 [
   {
-    "id": "1486542364",
-    "titulo": "Rocket Arena Mythic Edition",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1486542644",
+    "titulo": "Predator Hunting Grounds",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "outros",
     "publicado": "",
     "detectado": "14:50",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/rocket-arena-mythic-edition-1486542364",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/predator-hunting-grounds-1486542644",
+    "fotoUrl": "https://img.olx.com.br/images/94/948650267540753.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/948650267540753.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777744255
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:50",
     "fotoUrl": "https://img.olx.com.br/images/27/271669144949905.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/271669144949905.jpg"
     ],
-    "defeito": false,
+    "id": "1486542364",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/rocket-arena-mythic-edition-1486542364",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Rocket Arena Mythic Edition",
     "ts": 1777744242
   },
   {
@@ -9940,24 +9958,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "The Last of Us 2 - PS4 - Edição de luxo",
-    "ts": 1777673350
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:09",
-    "fotoUrl": "https://img.olx.com.br/images/18/185684630575373.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/185684630575373.jpg"
-    ],
-    "id": "1481434279",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/fifa-16-17-ps4-1481434279",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Fifa 16 + 17 - PS4",
     "ts": 1777673350
   }
 ]
