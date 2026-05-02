@@ -1,22 +1,44 @@
 [
   {
-    "id": "1498729270",
-    "titulo": "PS4 SLIM 500GB COMPLETO + GTA V",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1498728787",
+    "titulo": "Nintendo Switch Lite",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "13:56",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "detectado": "13:57",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ps4-slim-500gb-completo-gta-v-1498729270",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1498728787",
+    "fotoUrl": "https://img.olx.com.br/images/96/962677280089068.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/962677280089068.jpg",
+      "https://img.olx.com.br/images/97/979683163514649.jpg",
+      "https://img.olx.com.br/images/98/983647526133769.jpg",
+      "https://img.olx.com.br/images/99/998681644356052.jpg",
+      "https://img.olx.com.br/images/11/119692649463025.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777741043
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:56",
     "fotoUrl": "https://img.olx.com.br/images/13/139645641725056.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/139645641725056.jpg",
       "https://img.olx.com.br/images/16/164613881215097.jpg",
       "https://img.olx.com.br/images/20/201692769680843.jpg"
     ],
-    "defeito": false,
+    "id": "1498729270",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ps4-slim-500gb-completo-gta-v-1498729270",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "PS4 SLIM 500GB COMPLETO + GTA V",
     "ts": 1777740977
   },
   {
@@ -9937,26 +9959,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ipad 8 grafite 32 gb ",
-    "ts": 1777673147
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:05",
-    "fotoUrl": "https://img.olx.com.br/images/75/756691875576246.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/756691875576246.jpg",
-      "https://img.olx.com.br/images/75/751606752296598.jpg",
-      "https://img.olx.com.br/images/75/756663752806521.jpg"
-    ],
-    "id": "1498247162",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-64gb-1498247162",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "IPHONE XR 64GB",
     "ts": 1777673147
   }
 ]
