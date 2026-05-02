@@ -1,20 +1,41 @@
 [
   {
-    "id": "1498604531",
-    "titulo": "Xbox séries s usado",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "xbox",
+    "id": "1498604242",
+    "titulo": "PLAYSTATION 2 SLIM",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "22:16",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "detectado": "22:18",
+    "tempoOlx": "Na OLX desde novembro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-usado-1498604531",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-2-slim-1498604242",
+    "fotoUrl": "https://img.olx.com.br/images/66/662676281853867.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/662676281853867.jpg",
+      "https://img.olx.com.br/images/68/685622520220595.jpg",
+      "https://img.olx.com.br/images/69/693683406668950.jpg",
+      "https://img.olx.com.br/images/71/715650885095329.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777684733
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:16",
     "fotoUrl": "https://img.olx.com.br/images/63/633628288406841.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/633628288406841.jpg"
     ],
-    "defeito": false,
+    "id": "1498604531",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-usado-1498604531",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Xbox séries s usado",
     "ts": 1777684584
   },
   {
@@ -9928,26 +9949,5 @@
     "tempoOlx": "",
     "titulo": "Ps3 slim com controle ",
     "ts": 1777660271
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Produto novo.\n\nFaço OLX Pay.",
-    "detectado": "15:24",
-    "fotoUrl": "https://img.olx.com.br/images/42/428674165720680.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/428674165720680.jpg",
-      "https://img.olx.com.br/images/44/446639285418413.jpg",
-      "https://img.olx.com.br/images/46/465691041356491.jpg",
-      "https://img.olx.com.br/images/19/195679166812469.jpg"
-    ],
-    "id": "1498532764",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/death-strading-ps4-lacrado-1498532764",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Death Strading PS4 Lacrado",
-    "ts": 1777659886
   }
 ]
