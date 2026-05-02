@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498730296",
-    "titulo": "PS3 Slim com defeito",
-    "preco": 299,
-    "precoRaw": "R$ 299",
-    "categoria": "ps3",
+    "id": "1464022819",
+    "titulo": "Wolfenstein 2 MIDIA FISICA",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:58",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "14:07",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-slim-com-defeito-1498730296",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/wolfenstein-2-midia-fisica-1464022819",
+    "fotoUrl": "https://img.olx.com.br/images/39/398563478740297.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/398563478740297.jpg",
+      "https://img.olx.com.br/images/41/415597832882374.jpg",
+      "https://img.olx.com.br/images/43/435517355135175.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777741676
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:58",
     "fotoUrl": "https://img.olx.com.br/images/47/476693527972755.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/476693527972755.jpg",
       "https://img.olx.com.br/images/49/493671164799567.jpg",
       "https://img.olx.com.br/images/51/514671041109828.jpg"
     ],
-    "defeito": false,
+    "id": "1498730296",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-slim-com-defeito-1498730296",
+    "preco": 299,
+    "precoRaw": "R$ 299",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "PS3 Slim com defeito",
     "ts": 1777741135
   },
   {
@@ -9942,24 +9962,5 @@
     "tempoOlx": "",
     "titulo": "Ps portal ps5 ",
     "ts": 1777673161
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:05",
-    "fotoUrl": "https://img.olx.com.br/images/87/870619159191630.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/870619159191630.jpg",
-      "https://img.olx.com.br/images/89/898648511509730.jpg"
-    ],
-    "id": "1498350659",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-azul-iphone-1498350659",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 13 azul iPhone ",
-    "ts": 1777673147
   }
 ]
