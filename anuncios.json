@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498689665",
-    "titulo": "PS3 (LEIA A DESCRIÇÃO)",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps3",
+    "id": "1498690361",
+    "titulo": "Jogos PS4",
+    "preco": 1230,
+    "precoRaw": "R$ 1.230",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:52",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "11:54",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-leia-a-descricao-1498689665",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-ps4-1498690361",
+    "fotoUrl": "https://img.olx.com.br/images/15/156615528348497.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/156615528348497.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777733662
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:52",
     "fotoUrl": "https://img.olx.com.br/images/83/830682164400074.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/830682164400074.jpg"
     ],
-    "defeito": false,
+    "id": "1498689665",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-leia-a-descricao-1498689665",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "PS3 (LEIA A DESCRIÇÃO)",
     "ts": 1777733540
   },
   {
@@ -9993,29 +10011,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PlayStation 5 Slim",
-    "ts": 1777670794
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:26",
-    "fotoUrl": "https://img.olx.com.br/images/53/536647273293032.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/536647273293032.jpg",
-      "https://img.olx.com.br/images/54/549624158916912.jpg",
-      "https://img.olx.com.br/images/55/551680517702641.jpg",
-      "https://img.olx.com.br/images/57/571674631577487.jpg",
-      "https://img.olx.com.br/images/59/592650753669503.jpg",
-      "https://img.olx.com.br/images/61/617693759723197.jpg"
-    ],
-    "id": "1498214623",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/ps2-slim-completo-1498214623",
-    "preco": 369,
-    "precoRaw": "R$ 369",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps2 Slim Completo ",
     "ts": 1777670794
   }
 ]
