@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498799488",
-    "titulo": "Ps5 com leitor",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "categoria": "ps5",
+    "id": "1498799965",
+    "titulo": "Xbox série S com 2 controles",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "20:18",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "detectado": "20:19",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-com-leitor-1498799488",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-serie-s-com-2-controles-1498799965",
+    "fotoUrl": "https://img.olx.com.br/images/54/549630769529368.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/549630769529368.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777763963
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:18",
     "fotoUrl": "https://img.olx.com.br/images/30/302612762334204.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/302612762334204.jpg",
       "https://img.olx.com.br/images/31/314655408671496.jpg",
       "https://img.olx.com.br/images/33/335672166352293.jpg"
     ],
-    "defeito": false,
+    "id": "1498799488",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-com-leitor-1498799488",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Ps5 com leitor",
     "ts": 1777763913
   },
   {
@@ -9837,26 +9855,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "W2k16 jogo PS4",
     "ts": 1777697934
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:53",
-    "fotoUrl": "https://img.olx.com.br/images/35/351673884892140.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/351673884892140.jpg",
-      "https://img.olx.com.br/images/37/378664761536971.jpg",
-      "https://img.olx.com.br/images/38/384676520180884.jpg",
-      "https://img.olx.com.br/images/40/408659527910668.jpg"
-    ],
-    "id": "1498629671",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/dying-light-ps4-novo-1498629671",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "Dying Light PS4 NOVO",
-    "ts": 1777697634
   }
 ]
