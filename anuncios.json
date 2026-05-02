@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498780203",
-    "titulo": "Jogos ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1498780088",
+    "titulo": "Ghost of Tsushima - Edição Especial - PS4",
+    "preco": 300,
+    "precoRaw": "R$ 300",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:00",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "tempoOlx": "Na OLX desde março de 2016",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-ps4-1498780203",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ghost-of-tsushima-edicao-especial-ps4-1498780088",
+    "fotoUrl": "https://img.olx.com.br/images/81/819629887290425.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/819629887290425.jpg",
+      "https://img.olx.com.br/images/82/823604760395179.jpg",
+      "https://img.olx.com.br/images/84/845648522798521.jpg",
+      "https://img.olx.com.br/images/85/852654167580960.jpg",
+      "https://img.olx.com.br/images/86/863684525858319.jpg",
+      "https://img.olx.com.br/images/87/876684761506838.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777755651
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:00",
     "fotoUrl": "https://img.olx.com.br/images/39/394681041198427.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/394681041198427.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/45/459693283929171.jpg",
       "https://img.olx.com.br/images/46/465689280785932.jpg"
     ],
-    "defeito": false,
+    "id": "1498780203",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-ps4-1498780203",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Jogos ps4",
     "ts": 1777755642
   },
   {
@@ -9833,24 +9856,5 @@
     "tempoOlx": "Na OLX desde outubro de 2024",
     "titulo": "Mortal Kombat e Dying Light",
     "ts": 1777677765
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:22",
-    "fotoUrl": "https://img.olx.com.br/images/19/193674882594777.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/193674882594777.jpg",
-      "https://img.olx.com.br/images/20/209693404044578.jpg"
-    ],
-    "id": "1498586158",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/shadow-of-the-colossus-ps4-1498586158",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2021",
-    "titulo": "Shadow of the Colossus ps4",
-    "ts": 1777677756
   }
 ]
