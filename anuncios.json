@@ -1,22 +1,44 @@
 [
   {
-    "id": "1498749973",
-    "titulo": "Xbox Series S 512gb + Controle",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1498749724",
+    "titulo": "PS3 Super Slim - 500GB na caixa",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:28",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "15:29",
+    "tempoOlx": "Na OLX desde outubro de 2014",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-512gb-controle-1498749973",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-super-slim-500gb-na-caixa-1498749724",
+    "fotoUrl": "https://img.olx.com.br/images/59/593660048657445.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/593660048657445.jpg",
+      "https://img.olx.com.br/images/60/602648521629462.jpg",
+      "https://img.olx.com.br/images/61/616673403899292.jpg",
+      "https://img.olx.com.br/images/62/629684169226884.jpg",
+      "https://img.olx.com.br/images/63/630617160969799.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777746564
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:28",
     "fotoUrl": "https://img.olx.com.br/images/96/963636167144856.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/963636167144856.jpg",
       "https://img.olx.com.br/images/35/358690640541282.jpg",
       "https://img.olx.com.br/images/42/422676520748208.jpg"
     ],
-    "defeito": false,
+    "id": "1498749973",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-512gb-controle-1498749973",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox Series S 512gb + Controle",
     "ts": 1777746536
   },
   {
@@ -9899,27 +9921,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogo The Last Of Us ",
-    "ts": 1777674362
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:26",
-    "fotoUrl": "https://img.olx.com.br/images/14/141675631587622.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/141675631587622.jpg",
-      "https://img.olx.com.br/images/15/155634393559419.jpg",
-      "https://img.olx.com.br/images/17/173628278806605.jpg",
-      "https://img.olx.com.br/images/19/191687756052575.jpg"
-    ],
-    "id": "1498328349",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-1498328349",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 4 slim 1tb ",
     "ts": 1777674362
   }
 ]
