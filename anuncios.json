@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498795645",
-    "titulo": "Jogos PS4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1498795976",
+    "titulo": "Ps4 FAT (Com defeito)",
+    "preco": 880,
+    "precoRaw": "R$ 880",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:49",
+    "detectado": "19:51",
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1498795645",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-1498795976",
+    "fotoUrl": "https://img.olx.com.br/images/83/835679406190744.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/835679406190744.jpg",
+      "https://img.olx.com.br/images/84/840601281004638.jpg",
+      "https://img.olx.com.br/images/85/853672403948572.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777762313
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:49",
     "fotoUrl": "https://img.olx.com.br/images/77/779619043427684.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/779619043427684.jpg"
     ],
-    "defeito": false,
+    "id": "1498795645",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1498795645",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Jogos PS4",
     "ts": 1777762193
   },
   {
@@ -9851,26 +9871,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Jogos PS4",
     "ts": 1777687583
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:01",
-    "fotoUrl": "https://img.olx.com.br/images/72/729623646794486.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/729623646794486.jpg",
-      "https://img.olx.com.br/images/73/734649043904717.jpg",
-      "https://img.olx.com.br/images/75/754687761262398.jpg",
-      "https://img.olx.com.br/images/75/753697165811881.jpg"
-    ],
-    "id": "1498609975",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-6-jogos-com-2tb-de-hd-externo-1498609975",
-    "preco": 1730,
-    "precoRaw": "R$ 1.730",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "PS4 + 6 Jogos com 2TB de HD externo ",
-    "ts": 1777687267
   }
 ]
