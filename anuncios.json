@@ -1,22 +1,40 @@
 [
   {
-    "id": "1369256057",
-    "titulo": "Lote de jogos de PS4",
-    "preco": 2750,
-    "precoRaw": "R$ 2.750",
+    "id": "1498683288",
+    "titulo": "PlayStation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:23",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/lote-de-jogos-de-ps4-1369256057",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/playstation-4-1498683288",
+    "fotoUrl": "https://img.olx.com.br/images/50/507648528370169.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/507648528370169.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777731831
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:23",
     "fotoUrl": "https://img.olx.com.br/images/48/484528607231639.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/484528607231639.jpg",
       "https://img.olx.com.br/images/86/868517366740380.jpg",
       "https://img.olx.com.br/images/87/875521721469270.jpg"
     ],
-    "defeito": false,
+    "id": "1369256057",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/lote-de-jogos-de-ps4-1369256057",
+    "preco": 2750,
+    "precoRaw": "R$ 2.750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "Lote de jogos de PS4",
     "ts": 1777731809
   },
   {
@@ -9999,25 +10017,5 @@
     "tempoOlx": "",
     "titulo": "GOD OF WAR PS4",
     "ts": 1777669973
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Domine as pistas com Gran Turismo 7 para PS4! Viva a emoção da velocidade e a experiência definitiva de simulação de corrida. Prepare-se para acelerar rumo à vitória!",
-    "detectado": "18:12",
-    "fotoUrl": "https://img.olx.com.br/images/83/834634409092507.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/834634409092507.jpg",
-      "https://img.olx.com.br/images/84/847621168281378.jpg",
-      "https://img.olx.com.br/images/86/862630401928600.jpg"
-    ],
-    "id": "1498568767",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/gran-turismo-7-ps4-1498568767",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Gran turismo 7 ps4",
-    "ts": 1777669969
   }
 ]
