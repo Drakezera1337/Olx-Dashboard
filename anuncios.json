@@ -1,15 +1,30 @@
 [
   {
-    "id": "1498630160",
+    "id": "1498617320",
     "titulo": "PlayStation 3",
     "preco": 500,
     "precoRaw": "R$ 500",
     "categoria": "ps3",
     "publicado": "",
-    "detectado": "11:08",
+    "detectado": "11:09",
     "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/playstation-3-1498630160",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/playstation-3-1498617320",
+    "fotoUrl": "https://img.olx.com.br/images/92/927655882056230.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/927655882056230.jpg",
+      "https://img.olx.com.br/images/92/921631406740512.jpg",
+      "https://img.olx.com.br/images/92/922606167820821.jpg",
+      "https://img.olx.com.br/images/92/921617043794757.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777730945
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:08",
     "fotoUrl": "https://img.olx.com.br/images/18/181617287241372.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/181617287241372.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/20/204647406471079.jpg",
       "https://img.olx.com.br/images/22/222688288474655.jpg"
     ],
-    "defeito": false,
+    "id": "1498630160",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/playstation-3-1498630160",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2019",
+    "titulo": "PlayStation 3",
     "ts": 1777730936
   },
   {
@@ -9976,24 +9997,5 @@
     "tempoOlx": "",
     "titulo": "Spider-Man PS4 AMERICANO",
     "ts": 1777666757
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Experimente o poder do PlayStation 4 com este pacote completo! Inclui o console PS4 de 500GB, pronto para horas de entretenimento. Mergulhe em aventuras épicas com os jogos Uncharted 4: A Thief's End, God of War e Need for Speed Heat. Acompanham dois controles para jogatinas com amigos. Leve sua experiência de jogo para o próximo nível!",
-    "detectado": "17:13",
-    "fotoUrl": "https://img.olx.com.br/images/81/812654041724447.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/812654041724447.jpg",
-      "https://img.olx.com.br/images/82/828638168129513.jpg"
-    ],
-    "id": "1498551401",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/ps4-500gb-com-4-jogos-e-2-controle-1498551401",
-    "preco": 1850,
-    "precoRaw": "R$ 1.850",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps4 500gb com 4 jogos e 2 controle ",
-    "ts": 1777666397
   }
 ]
