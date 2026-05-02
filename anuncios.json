@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498769205",
-    "titulo": "Jogos PS4/PS5",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps5",
+    "id": "1498769122",
+    "titulo": "Jogos PS4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:18",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogos-ps4-ps5-1498769205",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1498769122",
+    "fotoUrl": "https://img.olx.com.br/images/95/955632887820206.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/955632887820206.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777753111
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:18",
     "fotoUrl": "https://img.olx.com.br/images/48/482616769614783.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/482616769614783.jpg"
     ],
-    "defeito": false,
+    "id": "1498769205",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogos-ps4-ps5-1498769205",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "Jogos PS4/PS5",
     "ts": 1777753102
   },
   {
@@ -9836,26 +9854,5 @@
     "tempoOlx": "Na OLX desde maio de 2021",
     "titulo": "Ps5 slim ",
     "ts": 1777676304
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:55",
-    "fotoUrl": "https://img.olx.com.br/images/92/921664388140993.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/921664388140993.jpg",
-      "https://img.olx.com.br/images/93/937646861130372.jpg",
-      "https://img.olx.com.br/images/94/941618623921968.jpg",
-      "https://img.olx.com.br/images/96/965648145707469.jpg"
-    ],
-    "id": "1489600670",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-wii-aceito-proposta-1489600670",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
-    "titulo": "Nintendo Wii (aceito proposta)",
-    "ts": 1777676122
   }
 ]
