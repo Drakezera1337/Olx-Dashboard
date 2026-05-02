@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498756371",
-    "titulo": "GTA 5 PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1498756089",
+    "titulo": "PES 2014 XBOX 360",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "16:08",
-    "tempoOlx": "Na OLX desde julho de 2014",
+    "detectado": "16:09",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-5-ps4-1498756371",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-2014-xbox-360-1498756089",
+    "fotoUrl": "https://img.olx.com.br/images/50/502629287375212.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/502629287375212.jpg",
+      "https://img.olx.com.br/images/51/513648405853923.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777748945
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:08",
     "fotoUrl": "https://img.olx.com.br/images/24/245651761318708.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/245651761318708.jpg",
       "https://img.olx.com.br/images/25/251613646099642.jpg"
     ],
-    "defeito": false,
+    "id": "1498756371",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-5-ps4-1498756371",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2014",
+    "titulo": "GTA 5 PS4",
     "ts": 1777748935
   },
   {
@@ -9896,28 +9915,5 @@
     "tempoOlx": "",
     "titulo": "PS3 Super Slim defeito para Reballing",
     "ts": 1777675301
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:41",
-    "fotoUrl": "https://img.olx.com.br/images/39/395645168636749.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/395645168636749.jpg",
-      "https://img.olx.com.br/images/41/412665401298330.jpg",
-      "https://img.olx.com.br/images/42/422626161620901.jpg",
-      "https://img.olx.com.br/images/43/439693286538214.jpg",
-      "https://img.olx.com.br/images/45/452636762308148.jpg",
-      "https://img.olx.com.br/images/46/469647284025442.jpg"
-    ],
-    "id": "1498473827",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-series-s-512gb-novo-barato-vendo-hoje-1498473827",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Series S 512GB NOVO BARATO  / Vendo HOJE",
-    "ts": 1777675286
   }
 ]
