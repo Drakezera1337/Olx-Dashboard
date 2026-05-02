@@ -1,20 +1,41 @@
 [
   {
-    "id": "1498610078",
-    "titulo": "Jogos Ps4 ",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1498609975",
+    "titulo": "PS4 + 6 Jogos com 2TB de HD externo ",
+    "preco": 1730,
+    "precoRaw": "R$ 1.730",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:00",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "detectado": "23:01",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1498610078",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-6-jogos-com-2tb-de-hd-externo-1498609975",
+    "fotoUrl": "https://img.olx.com.br/images/72/729623646794486.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/729623646794486.jpg",
+      "https://img.olx.com.br/images/73/734649043904717.jpg",
+      "https://img.olx.com.br/images/75/754687761262398.jpg",
+      "https://img.olx.com.br/images/75/753697165811881.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777687267
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:00",
     "fotoUrl": "https://img.olx.com.br/images/65/654673760138773.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/654673760138773.jpg"
     ],
-    "defeito": false,
+    "id": "1498610078",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1498610078",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "Jogos Ps4 ",
     "ts": 1777687259
   },
   {
@@ -9920,26 +9941,5 @@
     "tempoOlx": "",
     "titulo": "Jogo PS4 God Of War",
     "ts": 1777661650
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "Experimente a próxima geração de jogos com o PlayStation 5 Slim! Desfrute de gráficos incríveis, tempos de carregamento ultrarrápidos e uma experiência imersiva como nunca antes. Este console redefine o entretenimento digital com sua tecnologia de ponta e design elegante. Prepare-se para mergulhar em mundos virtuais cheios de ação e aventura.",
-    "detectado": "15:52",
-    "fotoUrl": "https://img.olx.com.br/images/30/309699286652385.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/309699286652385.jpg",
-      "https://img.olx.com.br/images/34/347695769052717.jpg",
-      "https://img.olx.com.br/images/39/395633647996155.jpg",
-      "https://img.olx.com.br/images/44/440642647254176.jpg"
-    ],
-    "id": "1498538105",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-1t-slim-1498538105",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 5 1T slim ",
-    "ts": 1777661559
   }
 ]
