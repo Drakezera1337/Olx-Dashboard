@@ -1,22 +1,45 @@
 [
   {
-    "id": "1498671682",
-    "titulo": "iPhone 8 Plus 64g",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "iphone",
+    "id": "1381584479",
+    "titulo": "Playstation 5 - Reprodutor remoto console",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:06",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-plus-64g-1498671682",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/playstation-5-reprodutor-remoto-console-1381584479",
+    "fotoUrl": "https://img.olx.com.br/images/71/713508854331402.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/713508854331402.jpg",
+      "https://img.olx.com.br/images/71/719581374423217.jpg",
+      "https://img.olx.com.br/images/71/714588730217082.jpg",
+      "https://img.olx.com.br/images/71/718591257423348.jpg",
+      "https://img.olx.com.br/images/71/710571374852105.jpg",
+      "https://img.olx.com.br/images/71/719595375965345.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777730789
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:06",
     "fotoUrl": "https://img.olx.com.br/images/99/991625883946626.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/991625883946626.jpg",
       "https://img.olx.com.br/images/11/118660407613634.jpg",
       "https://img.olx.com.br/images/13/130647403583829.jpg"
     ],
-    "defeito": false,
+    "id": "1498671682",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-plus-64g-1498671682",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "iPhone 8 Plus 64g",
     "ts": 1777730783
   },
   {
@@ -9972,26 +9995,5 @@
     "tempoOlx": "",
     "titulo": "Jump Force PS4 - Mídia Física (Seminovo)",
     "ts": 1777665310
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "Console Nintendo Switch Lite COM DEFEITO na tela.\nConsole ainda liga, mas a tela está com um defeito crônico dos Switch com tela LCD, onde ela fica toda serrilhada e com listras horizontais, mas no meu caso, ficou mais grave e acabou escurecendo quase toda a tela.\n\nAinda tenho caixa e carregador originais, sendo que a caixa está bem avariada por conta de uma goteira que deu no local onde estava guardada.\n\nTodos os botões estavam funcionando antes de eu parar de usar, e durante meu tempo de uso os analógicos nunca deram drift.\n\nConsole não foi formatado por conta da tela estar inutilizável, mas nenhuma das contas ou dados no console estão utilizáveis.\n\nQualquer outra dúvida mandar mensagem no privado aqui da OLX.\n\nDefeito/avaria:\n\nSwitch está com defeito crônico na tela, onde ela até liga porém a maior parte dela está preta e com listras horizontais.\n\nAnalógicos nunca deram drift durante ",
-    "detectado": "16:54",
-    "fotoUrl": "https://img.olx.com.br/images/95/957619521171597.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/957619521171597.jpg",
-      "https://img.olx.com.br/images/97/979684764663735.jpg",
-      "https://img.olx.com.br/images/98/986670761640471.jpg",
-      "https://img.olx.com.br/images/10/104674162282057.jpg"
-    ],
-    "id": "1498548558",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/nintendo-switch-lite-com-defeito-1498548558",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Lite COM DEFEITO",
-    "ts": 1777665253
   }
 ]
