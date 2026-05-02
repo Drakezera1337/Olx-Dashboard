@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498755163",
-    "titulo": "Resident Evil 3 Remake. Jogo de Playstation 4.",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "ps4",
+    "id": "1498755155",
+    "titulo": "The King of Fighters XIV",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "16:02",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "detectado": "16:03",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/resident-evil-3-remake-jogo-de-playstation-4-1498755163",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-king-of-fighters-xiv-1498755155",
+    "fotoUrl": "https://img.olx.com.br/images/97/975660769805849.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/975660769805849.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777748584
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:02",
     "fotoUrl": "https://img.olx.com.br/images/98/986603648194902.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/986603648194902.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/15/154637288829575.jpg",
       "https://img.olx.com.br/images/17/178647284283408.jpg"
     ],
-    "defeito": false,
+    "id": "1498755163",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/resident-evil-3-remake-jogo-de-playstation-4-1498755163",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Resident Evil 3 Remake. Jogo de Playstation 4.",
     "ts": 1777748575
   },
   {
@@ -9904,23 +9922,5 @@
     "tempoOlx": "",
     "titulo": "Ps4 + 1 manete ",
     "ts": 1777675251
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:40",
-    "fotoUrl": "https://img.olx.com.br/images/14/147689643477209.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/147689643477209.jpg"
-    ],
-    "id": "1498455534",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/vendo-ps5-slim-1498455534",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo ps5 slim ",
-    "ts": 1777675236
   }
 ]
