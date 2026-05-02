@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498752947",
-    "titulo": "DriveClub",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "outros",
+    "id": "1498752442",
+    "titulo": "FIFA 20",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "15:48",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/driveclub-1498752947",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-1498752442",
+    "fotoUrl": "https://img.olx.com.br/images/81/817628526304984.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/817628526304984.jpg",
+      "https://img.olx.com.br/images/82/820677168785812.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777747728
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:48",
     "fotoUrl": "https://img.olx.com.br/images/93/937670288327459.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/937670288327459.jpg"
     ],
-    "defeito": false,
+    "id": "1498752947",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/driveclub-1498752947",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "DriveClub",
     "ts": 1777747718
   },
   {
@@ -9903,28 +9922,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "X box serie s",
     "ts": 1777674976
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:34",
-    "fotoUrl": "https://img.olx.com.br/images/56/562685392315124.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/562685392315124.jpg",
-      "https://img.olx.com.br/images/57/579632158804980.jpg",
-      "https://img.olx.com.br/images/58/586619150990788.jpg",
-      "https://img.olx.com.br/images/59/597606151319757.jpg",
-      "https://img.olx.com.br/images/61/618635519269890.jpg",
-      "https://img.olx.com.br/images/91/919634633017539.jpg"
-    ],
-    "id": "1498100385",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-usado-1498100385",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Ps4 usado",
-    "ts": 1777674859
   }
 ]
