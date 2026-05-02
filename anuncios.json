@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498596130",
-    "titulo": "iPhone 15 Pro Max ",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "categoria": "iphone",
+    "id": "1498596145",
+    "titulo": "Guia de início rápido PS3",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "21:14",
-    "tempoOlx": "Na OLX desde julho de 2024",
+    "detectado": "21:17",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1498596130",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/guia-de-inicio-rapido-ps3-1498596145",
+    "fotoUrl": "https://img.olx.com.br/images/54/546616289381259.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/546616289381259.jpg",
+      "https://img.olx.com.br/images/55/554666280585158.jpg",
+      "https://img.olx.com.br/images/56/566657168506025.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777681044
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:14",
     "fotoUrl": "https://img.olx.com.br/images/56/565604882936842.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/565604882936842.jpg",
       "https://img.olx.com.br/images/58/588613765170312.jpg"
     ],
-    "defeito": false,
+    "id": "1498596130",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1498596130",
+    "preco": 5000,
+    "precoRaw": "R$ 5.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "titulo": "iPhone 15 Pro Max ",
     "ts": 1777680863
   },
   {
@@ -9939,26 +9959,5 @@
     "tempoOlx": "",
     "titulo": "Playstation 4  c/ muitos jogos digitais e 5 jogos físicos inclusos",
     "ts": 1777657218
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Mergulhe em uma jornada emocionante e inesquecível com The Last of Us Part II para PS4. Explore um mundo pós-apocalíptico repleto de desafios, emoções e reviravoltas surpreendentes. Vivencie uma narrativa poderosa que vai te prender do início ao fim.",
-    "detectado": "14:40",
-    "fotoUrl": "https://img.olx.com.br/images/13/135644645521723.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/135644645521723.jpg",
-      "https://img.olx.com.br/images/15/152635526194446.jpg",
-      "https://img.olx.com.br/images/16/166686886755106.jpg",
-      "https://img.olx.com.br/images/17/170603287815346.jpg"
-    ],
-    "id": "1498524298",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-the-last-of-us-parte-2-1498524298",
-    "preco": 115,
-    "precoRaw": "R$ 115",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo PS4 The last of us parte 2 ",
-    "ts": 1777657214
   }
 ]
