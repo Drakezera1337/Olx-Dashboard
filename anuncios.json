@@ -1,7 +1,7 @@
 [
   {
-    "id": "1486536823",
-    "titulo": "Fifa 19",
+    "id": "1486537141",
+    "titulo": "Fifa 18",
     "preco": 70,
     "precoRaw": "R$ 70",
     "categoria": "jogos",
@@ -9,12 +9,30 @@
     "detectado": "14:49",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-19-1486536823",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-18-1486537141",
+    "fotoUrl": "https://img.olx.com.br/images/59/590604142331344.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/590604142331344.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777744197
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:49",
     "fotoUrl": "https://img.olx.com.br/images/92/922655385162713.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/922655385162713.jpg"
     ],
-    "defeito": false,
+    "id": "1486536823",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-19-1486536823",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Fifa 19",
     "ts": 1777744187
   },
   {
@@ -9939,24 +9957,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Funkos team fortress 2",
-    "ts": 1777673278
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:07",
-    "fotoUrl": "https://img.olx.com.br/images/99/995687752276237.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/995687752276237.jpg"
-    ],
-    "id": "1498335534",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/mega-scrafty-ex-1498335534",
-    "preco": 15,
-    "precoRaw": "R$ 15",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Mega scrafty Ex",
     "ts": 1777673278
   }
 ]
