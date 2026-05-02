@@ -1,22 +1,43 @@
 [
   {
-    "id": "1498742870",
-    "titulo": "Jogo de ps4 ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1498744267",
+    "titulo": "Jogo Ps4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:55",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "15:01",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-de-ps4-1498742870",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-1498744267",
+    "fotoUrl": "https://img.olx.com.br/images/86/864676645787953.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/864676645787953.jpg",
+      "https://img.olx.com.br/images/87/872634042132289.jpg",
+      "https://img.olx.com.br/images/89/898669646794938.jpg",
+      "https://img.olx.com.br/images/90/900667408852705.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777744887
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:55",
     "fotoUrl": "https://img.olx.com.br/images/54/543695521972367.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/543695521972367.jpg",
       "https://img.olx.com.br/images/57/575644287975807.jpg",
       "https://img.olx.com.br/images/60/600633163528603.jpg"
     ],
-    "defeito": false,
+    "id": "1498742870",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-de-ps4-1498742870",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Jogo de ps4 ",
     "ts": 1777744537
   },
   {
@@ -9903,25 +9924,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Call Of Duty Black Ops 4 - Ps4/Ps5 Mídia Física ",
     "ts": 1777674077
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:21",
-    "fotoUrl": "https://img.olx.com.br/images/10/103602253190174.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/103602253190174.jpg",
-      "https://img.olx.com.br/images/11/119698497609997.jpg",
-      "https://img.olx.com.br/images/13/135676619605524.jpg"
-    ],
-    "id": "1481002696",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/injustice-2-legendary-edition-ps4-ps5-midia-fisica-1481002696",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Injustice 2 Legendary Edition - Ps4/Ps5 Mídia Física ",
-    "ts": 1777674067
   }
 ]
