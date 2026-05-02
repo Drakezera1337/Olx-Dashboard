@@ -1,20 +1,38 @@
 [
   {
-    "id": "1486544552",
-    "titulo": "Lego Marvel Super Heroes",
+    "id": "1486544335",
+    "titulo": "Street Fighter V",
     "preco": 70,
     "precoRaw": "R$ 70",
-    "categoria": "outros",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "14:51",
+    "detectado": "14:52",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/lego-marvel-super-heroes-1486544552",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/street-fighter-v-1486544335",
+    "fotoUrl": "https://img.olx.com.br/images/49/496632388903222.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/496632388903222.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777744327
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:51",
     "fotoUrl": "https://img.olx.com.br/images/14/149605266681089.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/149605266681089.jpg"
     ],
-    "defeito": false,
+    "id": "1486544552",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/lego-marvel-super-heroes-1486544552",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Lego Marvel Super Heroes",
     "ts": 1777744315
   },
   {
@@ -9921,26 +9939,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Jogo FarCry 3 e FarCry4 - PS3",
     "ts": 1777673547
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:12",
-    "fotoUrl": "https://img.olx.com.br/images/10/100519226451152.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/100519226451152.jpg",
-      "https://img.olx.com.br/images/11/116598586400270.jpg",
-      "https://img.olx.com.br/images/12/120541586614629.jpg",
-      "https://img.olx.com.br/images/13/133564705363276.jpg"
-    ],
-    "id": "1453098706",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/god-of-war-omeca-collection-1453098706",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2015",
-    "titulo": "God of War Omeca Collection ",
-    "ts": 1777673539
   }
 ]
