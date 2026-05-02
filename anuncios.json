@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498770640",
-    "titulo": "PSVR2 - Óculos Realidade Virtual para Playstation",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
+    "id": "1498771470",
+    "titulo": "World War Z",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "17:26",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "17:29",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/psvr2-oculos-realidade-virtual-para-playstation-1498770640",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/world-war-z-1498771470",
+    "fotoUrl": "https://img.olx.com.br/images/93/931660288734608.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/931660288734608.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777753762
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:26",
     "fotoUrl": "https://img.olx.com.br/images/80/808641406598231.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/808641406598231.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/63/633687161607317.jpg",
       "https://img.olx.com.br/images/65/657688648314095.jpg"
     ],
-    "defeito": false,
+    "id": "1498770640",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/psvr2-oculos-realidade-virtual-para-playstation-1498770640",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PSVR2 - Óculos Realidade Virtual para Playstation",
     "ts": 1777753613
   },
   {
@@ -9830,23 +9848,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Just Cause 4 - Gold Edition - PS4 (novo lacrado)",
     "ts": 1777677577
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:19",
-    "fotoUrl": "https://img.olx.com.br/images/79/791651282611881.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/791651282611881.jpg"
-    ],
-    "id": "1498588120",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/gta-5-ps4-seminovo-aceito-cartao-1498588120",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "GTA 5 PS4 Seminovo | Aceito Cartão!!!",
-    "ts": 1777677569
   }
 ]
