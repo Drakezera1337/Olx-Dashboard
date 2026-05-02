@@ -1,22 +1,44 @@
 [
   {
-    "id": "1497064515",
-    "titulo": "Vendo Xbox série S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1498715018",
+    "titulo": "PS4 para venda ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:41",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "detectado": "13:43",
+    "tempoOlx": "Na OLX desde junho de 2024",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/vendo-xbox-serie-s-1497064515",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-para-venda-1498715018",
+    "fotoUrl": "https://img.olx.com.br/images/54/546615040702784.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/546615040702784.jpg",
+      "https://img.olx.com.br/images/54/547624649705604.jpg",
+      "https://img.olx.com.br/images/54/547668884676108.jpg",
+      "https://img.olx.com.br/images/54/544695284970285.jpg",
+      "https://img.olx.com.br/images/55/550678525366991.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777740234
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:41",
     "fotoUrl": "https://img.olx.com.br/images/47/477680750633950.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/477680750633950.jpg",
       "https://img.olx.com.br/images/49/493637519962845.jpg",
       "https://img.olx.com.br/images/51/515619398936175.jpg"
     ],
-    "defeito": false,
+    "id": "1497064515",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/vendo-xbox-serie-s-1497064515",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "Vendo Xbox série S ",
     "ts": 1777740086
   },
   {
@@ -9937,24 +9959,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2014",
     "titulo": "Doom Eternal PS4 Mídia Física",
     "ts": 1777671829
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:43",
-    "fotoUrl": "https://img.olx.com.br/images/71/715679404431916.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/715679404431916.jpg",
-      "https://img.olx.com.br/images/74/746669281355143.jpg"
-    ],
-    "id": "1498573508",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/pes-2016-playstation-4-original-envio-1498573508",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": " PES 2016 Playstation 4 Original (Envio)",
-    "ts": 1777671819
   }
 ]
