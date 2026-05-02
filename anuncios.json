@@ -1,15 +1,30 @@
 [
   {
-    "id": "1498630446",
-    "titulo": "Fallout 4 PS4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1498630403",
+    "titulo": "Driveclube PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "02:10",
+    "detectado": "02:11",
     "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/fallout-4-ps4-1498630446",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/driveclube-ps4-1498630403",
+    "fotoUrl": "https://img.olx.com.br/images/34/349657521378196.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/349657521378196.jpg",
+      "https://img.olx.com.br/images/36/365629280535514.jpg",
+      "https://img.olx.com.br/images/38/387602169486414.jpg",
+      "https://img.olx.com.br/images/40/404625281200427.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777698664
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "02:10",
     "fotoUrl": "https://img.olx.com.br/images/29/290606763677867.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/290606763677867.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/32/326600766168314.jpg",
       "https://img.olx.com.br/images/34/348654402695313.jpg"
     ],
-    "defeito": false,
+    "id": "1498630446",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/fallout-4-ps4-1498630446",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2025",
+    "titulo": "Fallout 4 PS4",
     "ts": 1777698655
   },
   {
@@ -9964,24 +9985,5 @@
     "tempoOlx": "",
     "titulo": "Ps4 fat + 2 controles + 19 jogos",
     "ts": 1777664952
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "Experimente a ação zumbi de Dead Rising: Deluxe Remaster! Aventure-se em um mundo infestado de mortos-vivos, com gráficos aprimorados e jogabilidade intensa.",
-    "detectado": "16:49",
-    "fotoUrl": "https://img.olx.com.br/images/94/947528559768678.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/947528559768678.jpg",
-      "https://img.olx.com.br/images/96/968538796683366.jpg"
-    ],
-    "id": "1431225622",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/dead-rising-deluxe-ps5-lacrado-1431225622",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Dead rising deluxe ps5 - lacrado",
-    "ts": 1777664950
   }
 ]
