@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498702091",
-    "titulo": "Watch dogs 2",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "outros",
+    "id": "1498702736",
+    "titulo": "PlayStation 4 slim ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:50",
-    "tempoOlx": "Na OLX desde outubro de 2022",
+    "detectado": "12:54",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/watch-dogs-2-1498702091",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-slim-1498702736",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1777737261
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:50",
     "fotoUrl": "https://img.olx.com.br/images/60/605614764424230.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/605614764424230.jpg",
       "https://img.olx.com.br/images/61/616650528183085.jpg",
       "https://img.olx.com.br/images/62/621601284054752.jpg"
     ],
-    "defeito": false,
+    "id": "1498702091",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/watch-dogs-2-1498702091",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "Watch dogs 2",
     "ts": 1777737031
   },
   {
@@ -9976,24 +9994,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Savage Neo Grip Skull Switch 2",
-    "ts": 1777670884
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/74/747677393903594.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/747677393903594.jpg"
-    ],
-    "id": "1497550490",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/nintendo-switch-lite-1497550490",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Lite",
     "ts": 1777670884
   }
 ]
