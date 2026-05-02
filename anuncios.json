@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498751611",
-    "titulo": "JOGOS PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1498752817",
+    "titulo": "Xbox Series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "15:42",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "detectado": "15:46",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1498751611",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498752817",
+    "fotoUrl": "https://img.olx.com.br/images/75/752641168950503.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/752641168950503.jpg",
+      "https://img.olx.com.br/images/77/779681520924944.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777747560
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:42",
     "fotoUrl": "https://img.olx.com.br/images/49/490612168092142.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/490612168092142.jpg"
     ],
-    "defeito": false,
+    "id": "1498751611",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1498751611",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "JOGOS PS4",
     "ts": 1777747373
   },
   {
@@ -9912,23 +9931,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "Shadow of the Colossus PS4",
     "ts": 1777674702
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:31",
-    "fotoUrl": "https://img.olx.com.br/images/56/560611518908975.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/560611518908975.jpg"
-    ],
-    "id": "1498175155",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/vendo-25-jogos-ps4-1498175155",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "Vendo 25 jogos ps4",
-    "ts": 1777674693
   }
 ]
