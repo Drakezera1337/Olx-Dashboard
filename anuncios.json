@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498628800",
-    "titulo": "Dualsense PS5 Preto",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps5",
+    "id": "1498628972",
+    "titulo": "PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:36",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "detectado": "01:43",
+    "tempoOlx": "Na OLX desde novembro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/dualsense-ps5-preto-1498628800",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-1498628972",
+    "fotoUrl": "https://img.olx.com.br/images/32/323696049433315.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/323696049433315.jpg",
+      "https://img.olx.com.br/images/34/341684640194368.jpg",
+      "https://img.olx.com.br/images/35/356668166539570.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777697003
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:36",
     "fotoUrl": "https://img.olx.com.br/images/63/634656769796932.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/634656769796932.jpg",
       "https://img.olx.com.br/images/64/643619527634548.jpg"
     ],
-    "defeito": false,
+    "id": "1498628800",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/dualsense-ps5-preto-1498628800",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "Dualsense PS5 Preto",
     "ts": 1777696613
   },
   {
@@ -9962,25 +9982,5 @@
     "tempoOlx": "",
     "titulo": "Jogo para ps4",
     "ts": 1777664591
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "Eleve sua experiência de jogo com o Nintendo Switch OLED! \n\nVai dock, carregador, cabo HDMI e 2 Controles \n\nEstá com um problema no encaixe dos controles mas funciona normalmente, me chama para mais informações, vendo junto com minhas contas já no console tem jogos como:\n\nDragon Ball Xenoverse 2\nDragon Ball Kakarot\nGTA Trilogy\nMario Wonder\nHogwarts Legacy \nEntre outros",
-    "detectado": "16:39",
-    "fotoUrl": "https://img.olx.com.br/images/41/415668288867969.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/415668288867969.jpg",
-      "https://img.olx.com.br/images/43/437649168683978.jpg",
-      "https://img.olx.com.br/images/44/448631880228101.jpg"
-    ],
-    "id": "1498545937",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-oled-1498545937",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Oled",
-    "ts": 1777664381
   }
 ]
