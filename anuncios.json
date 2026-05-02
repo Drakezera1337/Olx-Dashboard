@@ -1,20 +1,38 @@
 [
   {
-    "id": "1486543774",
-    "titulo": "Uncharted 4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1486544552",
+    "titulo": "Lego Marvel Super Heroes",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "14:51",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/uncharted-4-1486543774",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/lego-marvel-super-heroes-1486544552",
+    "fotoUrl": "https://img.olx.com.br/images/14/149605266681089.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/149605266681089.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777744315
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:51",
     "fotoUrl": "https://img.olx.com.br/images/93/931651740687975.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/931651740687975.jpg"
     ],
-    "defeito": false,
+    "id": "1486543774",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/uncharted-4-1486543774",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Uncharted 4",
     "ts": 1777744301
   },
   {
@@ -9924,26 +9942,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "God of War Omeca Collection ",
     "ts": 1777673539
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:11",
-    "fotoUrl": "https://img.olx.com.br/images/87/877682041760040.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/877682041760040.jpg",
-      "https://img.olx.com.br/images/89/898606043759163.jpg",
-      "https://img.olx.com.br/images/90/906635641811081.jpg",
-      "https://img.olx.com.br/images/92/926677402350529.jpg"
-    ],
-    "id": "1498578578",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-512gb-ssd-1498578578",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "XBOX 512GB SSD",
-    "ts": 1777673478
   }
 ]
