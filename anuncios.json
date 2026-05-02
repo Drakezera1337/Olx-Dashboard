@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498757764",
-    "titulo": "Jogos PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1498757338",
+    "titulo": "PS4 ",
+    "preco": 950,
+    "precoRaw": "R$ 950",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:14",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "16:16",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-1498757764",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1498757338",
+    "fotoUrl": "https://img.olx.com.br/images/35/352636640754424.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/352636640754424.jpg",
+      "https://img.olx.com.br/images/36/369675646020055.jpg",
+      "https://img.olx.com.br/images/37/376634284762314.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777749414
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:14",
     "fotoUrl": "https://img.olx.com.br/images/15/158625163842743.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/158625163842743.jpg"
     ],
-    "defeito": false,
+    "id": "1498757764",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-1498757764",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Jogos PS4",
     "ts": 1777749296
   },
   {
@@ -9887,29 +9907,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogo Skate 3, PS3, Playstation 3",
-    "ts": 1777675301
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:41",
-    "fotoUrl": "https://img.olx.com.br/images/57/575637889203965.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/575637889203965.jpg",
-      "https://img.olx.com.br/images/58/589630520998033.jpg",
-      "https://img.olx.com.br/images/60/603670889922686.jpg",
-      "https://img.olx.com.br/images/61/617663165374463.jpg",
-      "https://img.olx.com.br/images/63/635630282131677.jpg",
-      "https://img.olx.com.br/images/64/645655644947225.jpg"
-    ],
-    "id": "1498468103",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-com-defeito-1498468103",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 3 com defeito ",
     "ts": 1777675301
   }
 ]
