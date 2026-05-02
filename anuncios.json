@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498753196",
-    "titulo": "Dragon Age Inquisition",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1498752947",
+    "titulo": "DriveClub",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "outros",
     "publicado": "",
     "detectado": "15:48",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/dragon-age-inquisition-1498753196",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/driveclub-1498752947",
+    "fotoUrl": "https://img.olx.com.br/images/93/937670288327459.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/937670288327459.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777747718
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:48",
     "fotoUrl": "https://img.olx.com.br/images/91/914695401812397.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/914695401812397.jpg"
     ],
-    "defeito": false,
+    "id": "1498753196",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/dragon-age-inquisition-1498753196",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Dragon Age Inquisition",
     "ts": 1777747706
   },
   {
@@ -9908,24 +9926,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Ps4 usado",
     "ts": 1777674859
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:32",
-    "fotoUrl": "https://img.olx.com.br/images/60/606649755040031.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/606649755040031.jpg",
-      "https://img.olx.com.br/images/62/626614875904148.jpg"
-    ],
-    "id": "1498232500",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/sekiro-ps4-com-poster-1498232500",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "Sekiro - PS4 com pôster ",
-    "ts": 1777674720
   }
 ]
