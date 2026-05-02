@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498608725",
-    "titulo": "Vendo Days Gone",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "outros",
+    "id": "1498609316",
+    "titulo": "Iphone 14 pro max",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "22:44",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "22:54",
+    "tempoOlx": "Na OLX desde julho de 2018",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/vendo-days-gone-1498608725",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-1498609316",
+    "fotoUrl": "https://img.olx.com.br/images/80/800654407203927.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/800654407203927.jpg",
+      "https://img.olx.com.br/images/82/824688288729843.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777686871
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:44",
     "fotoUrl": "https://img.olx.com.br/images/91/918654765737685.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/918654765737685.jpg",
       "https://img.olx.com.br/images/97/975682285807217.jpg"
     ],
-    "defeito": false,
+    "id": "1498608725",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/vendo-days-gone-1498608725",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Vendo Days Gone",
     "ts": 1777686297
   },
   {
@@ -9931,24 +9950,5 @@
     "tempoOlx": "",
     "titulo": "SKYLANDERS Swap Force PS4 ",
     "ts": 1777661328
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Jogo de Playstation 4 em perfeito estado. Diversão garantida para os fãs de Final Fantasy!",
-    "detectado": "15:48",
-    "fotoUrl": "https://img.olx.com.br/images/77/772571362210542.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/772571362210542.jpg",
-      "https://img.olx.com.br/images/77/773508484157821.jpg"
-    ],
-    "id": "1368943902",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/stranger-of-paradise-final-fantasy-origin-ps4-1368943902",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Stranger of Paradise: Final Fantasy Origin - PS4",
-    "ts": 1777661324
   }
 ]
