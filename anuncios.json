@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498763238",
-    "titulo": "PlayStation 5",
-    "preco": 2399,
-    "precoRaw": "R$ 2.399",
-    "categoria": "ps5",
+    "id": "1498763518",
+    "titulo": "Diablo III Reaper of Souls PS4 Mídia Física Original",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:44",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "16:45",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-5-1498763238",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/diablo-iii-reaper-of-souls-ps4-midia-fisica-original-1498763518",
+    "fotoUrl": "https://img.olx.com.br/images/19/190636043721211.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/190636043721211.jpg",
+      "https://img.olx.com.br/images/49/493613401257840.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777751100
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:44",
     "fotoUrl": "https://img.olx.com.br/images/55/551659048859553.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/551659048859553.jpg"
     ],
-    "defeito": false,
+    "id": "1498763238",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-5-1498763238",
+    "preco": 2399,
+    "precoRaw": "R$ 2.399",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "PlayStation 5",
     "ts": 1777751092
   },
   {
@@ -9859,29 +9878,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Call of Duty Black Ops 4 Lacrado - Playstation 4 / PS4 ",
-    "ts": 1777675421
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:43",
-    "fotoUrl": "https://img.olx.com.br/images/12/122534455327747.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/122534455327747.jpg",
-      "https://img.olx.com.br/images/14/140587458492808.jpg",
-      "https://img.olx.com.br/images/16/162574332044988.jpg",
-      "https://img.olx.com.br/images/19/190577693403824.jpg",
-      "https://img.olx.com.br/images/21/218583931562994.jpg",
-      "https://img.olx.com.br/images/22/227521931617791.jpg"
-    ],
-    "id": "1444668800",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/assassin-s-creed-iv-black-flag-para-ps4-midia-fisica-1444668800",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Assassin's Creed IV Black Flag para ps4 mídia física.",
     "ts": 1777675421
   }
 ]
