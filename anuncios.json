@@ -1,22 +1,40 @@
 [
   {
-    "id": "1494120228",
-    "titulo": "Vendo PlayStation 5 slim",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1498679251",
+    "titulo": "PS 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:06",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://es.olx.com.br/sul-do-espirito-santo/games/consoles-de-video-game/vendo-playstation-5-slim-1494120228",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps-4-1498679251",
+    "fotoUrl": "https://img.olx.com.br/images/88/883642167048152.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/883642167048152.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777730808
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:06",
     "fotoUrl": "https://img.olx.com.br/images/67/674629872309430.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/674629872309430.jpg",
       "https://img.olx.com.br/images/68/686648036346992.jpg",
       "https://img.olx.com.br/images/70/701673037370883.jpg"
     ],
-    "defeito": false,
+    "id": "1494120228",
+    "link": "https://es.olx.com.br/sul-do-espirito-santo/games/consoles-de-video-game/vendo-playstation-5-slim-1494120228",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "titulo": "Vendo PlayStation 5 slim",
     "ts": 1777730799
   },
   {
@@ -9978,23 +9996,5 @@
     "tempoOlx": "",
     "titulo": "BDJ PS4",
     "ts": 1777665316
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Envio Olx pay \nCrash Trilogy + Crash Race Team\nValor dos dois juntos\nOu 80,00 cada",
-    "detectado": "16:55",
-    "fotoUrl": "https://img.olx.com.br/images/41/411670287413560.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/411670287413560.jpg"
-    ],
-    "id": "1498549259",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/crash-trilogy-crash-team-racing-ps4-1498549259",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Crash Trilogy + Crash Team Racing ps4",
-    "ts": 1777665313
   }
 ]
