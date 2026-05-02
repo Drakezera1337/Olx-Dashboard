@@ -1,15 +1,31 @@
 [
   {
-    "id": "1481745512",
-    "titulo": "Cyberpunk 2077, ps4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps4",
+    "id": "1498692618",
+    "titulo": "Play 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:03",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "12:06",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-1481745512",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/play-5-1498692618",
+    "fotoUrl": "https://img.olx.com.br/images/21/215610285340213.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/215610285340213.jpg",
+      "https://img.olx.com.br/images/23/237646166340964.jpg",
+      "https://img.olx.com.br/images/25/252689528296674.jpg",
+      "https://img.olx.com.br/images/26/269639280770388.jpg",
+      "https://img.olx.com.br/images/28/280691164695885.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777734414
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:03",
     "fotoUrl": "https://img.olx.com.br/images/34/345621624865787.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/345621624865787.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/54/540685388874667.jpg",
       "https://img.olx.com.br/images/69/697659264836211.jpg"
     ],
-    "defeito": false,
+    "id": "1481745512",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-1481745512",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "Cyberpunk 2077, ps4",
     "ts": 1777734206
   },
   {
@@ -9989,29 +10011,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Celular industritivel novo",
-    "ts": 1777670798
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:26",
-    "fotoUrl": "https://img.olx.com.br/images/61/614683756926923.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/614683756926923.jpg",
-      "https://img.olx.com.br/images/43/436603518855069.jpg",
-      "https://img.olx.com.br/images/72/721662515784830.jpg",
-      "https://img.olx.com.br/images/75/756606514956223.jpg",
-      "https://img.olx.com.br/images/85/855667635811329.jpg",
-      "https://img.olx.com.br/images/14/145614878884658.jpg"
-    ],
-    "id": "1494187983",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/s25-ultra-512-gb-com-nota-fiscal-pelicula-e-capa-original-samsung-1494187983",
-    "preco": 5500,
-    "precoRaw": "R$ 5.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "S25 Ultra 512 GB, com nota fiscal, película e capa original Samsung",
     "ts": 1777670798
   }
 ]
