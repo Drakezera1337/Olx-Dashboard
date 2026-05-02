@@ -1,21 +1,40 @@
 [
   {
-    "id": "1479609430",
-    "titulo": "Jogos de PlayStation 4, ps4.",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1498752884",
+    "titulo": "Call of Duty WWII",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "16:56",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "detectado": "17:01",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-de-playstation-4-ps4-1479609430",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-wwii-1498752884",
+    "fotoUrl": "https://img.olx.com.br/images/33/333693522792451.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/333693522792451.jpg",
+      "https://img.olx.com.br/images/34/342688760672298.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777752113
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:56",
     "fotoUrl": "https://img.olx.com.br/images/64/644648137163392.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/644648137163392.jpg",
       "https://img.olx.com.br/images/71/715637732670945.jpg"
     ],
-    "defeito": false,
+    "id": "1479609430",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-de-playstation-4-ps4-1479609430",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "Jogos de PlayStation 4, ps4.",
     "ts": 1777751814
   },
   {
@@ -9853,27 +9872,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Controle PS4 DualShock 4 Sony Preto ",
     "ts": 1777675582
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:43",
-    "fotoUrl": "https://img.olx.com.br/images/58/588626527865159.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/588626527865159.jpg",
-      "https://img.olx.com.br/images/60/603648407333356.jpg",
-      "https://img.olx.com.br/images/61/610680403239080.jpg",
-      "https://img.olx.com.br/images/63/639646281422402.jpg",
-      "https://img.olx.com.br/images/64/648641283521991.jpg"
-    ],
-    "id": "1498583986",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/metal-gear-solid-4-1498583986",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Metal Gear Solid 4",
-    "ts": 1777675421
   }
 ]
