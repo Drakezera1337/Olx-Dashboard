@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498752667",
-    "titulo": "iPhone 13",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "iphone",
+    "id": "1498753196",
+    "titulo": "Dragon Age Inquisition",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "15:46",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "15:48",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1498752667",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/dragon-age-inquisition-1498753196",
+    "fotoUrl": "https://img.olx.com.br/images/91/914695401812397.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/914695401812397.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777747706
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:46",
     "fotoUrl": "https://img.olx.com.br/images/48/486644640962475.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/486644640962475.jpg",
       "https://img.olx.com.br/images/50/502669405778720.jpg",
       "https://img.olx.com.br/images/51/511669880327854.jpg"
     ],
-    "defeito": false,
+    "id": "1498752667",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1498752667",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "iPhone 13",
     "ts": 1777747588
   },
   {
@@ -9909,28 +9927,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "Sekiro - PS4 com pôster ",
     "ts": 1777674720
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:31",
-    "fotoUrl": "https://img.olx.com.br/images/12/123617885859182.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/123617885859182.jpg",
-      "https://img.olx.com.br/images/13/139603644851621.jpg",
-      "https://img.olx.com.br/images/15/155629762690792.jpg",
-      "https://img.olx.com.br/images/16/167669523382853.jpg",
-      "https://img.olx.com.br/images/18/180632160862283.jpg",
-      "https://img.olx.com.br/images/19/197622886902704.jpg"
-    ],
-    "id": "1498581153",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/coletania-battlefield-3-jogos-ps3-1498581153",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2016",
-    "titulo": "Coletania Battlefield 3 jogos ps3",
-    "ts": 1777674712
   }
 ]
