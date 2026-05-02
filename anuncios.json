@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498793480",
-    "titulo": "Avengers - Jogo - Playstation 4 ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1498793985",
+    "titulo": "Nintendo Switch Lite ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "19:32",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/avengers-jogo-playstation-4-1498793480",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/nintendo-switch-lite-1498793985",
+    "fotoUrl": "https://img.olx.com.br/images/91/915698761148455.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/915698761148455.jpg",
+      "https://img.olx.com.br/images/92/922642649650697.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777761174
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:32",
     "fotoUrl": "https://img.olx.com.br/images/24/243629288491088.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/243629288491088.jpg"
     ],
-    "defeito": false,
+    "id": "1498793480",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/avengers-jogo-playstation-4-1498793480",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Avengers - Jogo - Playstation 4 ",
     "ts": 1777761153
   },
   {
@@ -9845,23 +9864,5 @@
     "tempoOlx": "Na OLX desde outubro de 2015",
     "titulo": "PS4 Dungeon Of The Endless",
     "ts": 1777685911
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:38",
-    "fotoUrl": "https://img.olx.com.br/images/74/746400328875231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/746400328875231.jpg"
-    ],
-    "id": "1338265221",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-uncharted-4-a-thief-s-end-1338265221",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "PS4 Uncharted 4: A Thief's End",
-    "ts": 1777685903
   }
 ]
