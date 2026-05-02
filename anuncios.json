@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498738728",
-    "titulo": "Xbox Séries S",
-    "preco": 1390,
-    "precoRaw": "R$ 1.390",
-    "categoria": "xbox",
+    "id": "1491158410",
+    "titulo": "Playstation 4  c/ muitos jogos digitais e 5 jogos físicos inclusos",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:34",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "14:37",
+    "tempoOlx": "Na OLX desde setembro de 2013",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1498738728",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/playstation-4-c-muitos-jogos-digitais-e-5-jogos-fisicos-inclusos-1491158410",
+    "fotoUrl": "https://img.olx.com.br/images/34/341643515482105.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/341643515482105.jpg",
+      "https://img.olx.com.br/images/37/379663750077666.jpg",
+      "https://img.olx.com.br/images/38/380671639814968.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777743474
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:34",
     "fotoUrl": "https://img.olx.com.br/images/81/811657160803838.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/811657160803838.jpg",
       "https://img.olx.com.br/images/82/820653402092785.jpg"
     ],
-    "defeito": false,
+    "id": "1498738728",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1498738728",
+    "preco": 1390,
+    "precoRaw": "R$ 1.390",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox Séries S",
     "ts": 1777743299
   },
   {
@@ -9952,24 +9972,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "controle playstation. Controle de movimento",
-    "ts": 1777673225
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:07",
-    "fotoUrl": "https://img.olx.com.br/images/23/234618755821260.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/234618755821260.jpg"
-    ],
-    "id": "1480620905",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-ps3-mortal-kombat-02-jogos-por-89-00-1480620905",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogos ps3 - Mortal Kombat - 02 jogos por 89,00",
     "ts": 1777673225
   }
 ]
