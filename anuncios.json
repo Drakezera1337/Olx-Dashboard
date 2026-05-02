@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498674870",
-    "titulo": "Mirror's Edge Catalyst Collector's Edition + Temporary Tattoo (Xbox One)",
-    "preco": 1850,
-    "precoRaw": "R$ 1.850",
-    "categoria": "xbox",
+    "id": "1498674844",
+    "titulo": "Jogos ps4/ps5",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:12",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/mirror-s-edge-catalyst-collector-s-edition-temporary-tattoo-xbox-one-1498674870",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1498674844",
+    "fotoUrl": "https://img.olx.com.br/images/86/866607522281716.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/866607522281716.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777731144
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:12",
     "fotoUrl": "https://img.olx.com.br/images/64/647662648115494.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/647662648115494.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/69/697688529608813.jpg",
       "https://img.olx.com.br/images/70/700689525142814.jpg"
     ],
-    "defeito": false,
+    "id": "1498674870",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/mirror-s-edge-catalyst-collector-s-edition-temporary-tattoo-xbox-one-1498674870",
+    "preco": 1850,
+    "precoRaw": "R$ 1.850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Mirror's Edge Catalyst Collector's Edition + Temporary Tattoo (Xbox One)",
     "ts": 1777731136
   },
   {
@@ -9999,23 +10017,5 @@
     "tempoOlx": "",
     "titulo": "Xbox Série s ",
     "ts": 1777668134
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "Experimente o poder do Playstation 5 e mergulhe em mundos incríveis com gráficos de ponta e tempos de carregamento ultrarrápidos. Desfrute de uma experiência de jogo imersiva como nunca antes.",
-    "detectado": "17:41",
-    "fotoUrl": "https://img.olx.com.br/images/59/594688285878600.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/594688285878600.jpg"
-    ],
-    "id": "1498560590",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1498560590",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 5",
-    "ts": 1777668100
   }
 ]
