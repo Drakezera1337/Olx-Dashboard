@@ -1,22 +1,43 @@
 [
   {
-    "id": "1471957167",
-    "titulo": "MediEvil Lacrado - Playstation 4 / PS4",
-    "preco": 65,
-    "precoRaw": "R$ 65",
+    "id": "1498695385",
+    "titulo": "PlayStation 4/Ps4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:20",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "detectado": "12:21",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/medievil-lacrado-playstation-4-ps4-1471957167",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-ps4-1498695385",
+    "fotoUrl": "https://img.olx.com.br/images/13/134615763185424.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/134615763185424.jpg",
+      "https://img.olx.com.br/images/14/141675646122771.jpg",
+      "https://img.olx.com.br/images/15/152692882755428.jpg",
+      "https://img.olx.com.br/images/16/161692047422165.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777735262
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:20",
     "fotoUrl": "https://img.olx.com.br/images/38/389611483257145.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/389611483257145.jpg",
       "https://img.olx.com.br/images/79/797601603401095.jpg",
       "https://img.olx.com.br/images/94/940697603635540.jpg"
     ],
-    "defeito": false,
+    "id": "1471957167",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/medievil-lacrado-playstation-4-ps4-1471957167",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "MediEvil Lacrado - Playstation 4 / PS4",
     "ts": 1777735254
   },
   {
@@ -9985,28 +10006,5 @@
     "tempoOlx": "",
     "titulo": "Vendo play station 4 slim usado(excelente)",
     "ts": 1777670822
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:26",
-    "fotoUrl": "https://img.olx.com.br/images/35/355649399828454.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/355649399828454.jpg",
-      "https://img.olx.com.br/images/36/363601393654828.jpg",
-      "https://img.olx.com.br/images/36/362664635019896.jpg",
-      "https://img.olx.com.br/images/37/377648513419665.jpg",
-      "https://img.olx.com.br/images/38/382610757585624.jpg",
-      "https://img.olx.com.br/images/39/396644039783316.jpg"
-    ],
-    "id": "1497266788",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-16-1497266788",
-    "preco": 4200,
-    "precoRaw": "R$ 4.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo Iphone 16",
-    "ts": 1777670813
   }
 ]
