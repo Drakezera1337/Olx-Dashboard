@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498711847",
-    "titulo": "Nintendo Switch Oled",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "switch",
+    "id": "1475909496",
+    "titulo": "Jogo ps4 Whatch Dogs ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:31",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "13:32",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-oled-1498711847",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-whatch-dogs-1475909496",
+    "fotoUrl": "https://img.olx.com.br/images/54/548638619951637.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/548638619951637.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777739547
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:31",
     "fotoUrl": "https://img.olx.com.br/images/80/806683405090742.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/806683405090742.jpg",
       "https://img.olx.com.br/images/81/817666409431810.jpg",
       "https://img.olx.com.br/images/83/833637284950776.jpg"
     ],
-    "defeito": false,
+    "id": "1498711847",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-oled-1498711847",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Nintendo Switch Oled",
     "ts": 1777739484
   },
   {
@@ -9941,26 +9959,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Vendo Xbox one",
-    "ts": 1777670980
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:29",
-    "fotoUrl": "https://img.olx.com.br/images/58/588684271497790.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/588684271497790.jpg",
-      "https://img.olx.com.br/images/59/591612391541622.jpg",
-      "https://img.olx.com.br/images/60/604661156273998.jpg"
-    ],
-    "id": "1497777662",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ps4-1497777662",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo Ps4",
     "ts": 1777670980
   }
 ]
