@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498746664",
-    "titulo": "Jogo PS4 FC 25 Original ",
-    "preco": 140,
-    "precoRaw": "R$ 140",
+    "id": "1498746806",
+    "titulo": "PS4 Fat 500gb - USB não funciona",
+    "preco": 600,
+    "precoRaw": "R$ 600",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:13",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "15:15",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-ps4-fc-25-original-1498746664",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-usb-nao-funciona-1498746806",
+    "fotoUrl": "https://img.olx.com.br/images/59/597633764001339.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/597633764001339.jpg",
+      "https://img.olx.com.br/images/63/635639167306681.jpg",
+      "https://img.olx.com.br/images/66/664609760522413.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777745755
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:13",
     "fotoUrl": "https://img.olx.com.br/images/36/367633764864169.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/367633764864169.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/41/418686283073043.jpg",
       "https://img.olx.com.br/images/42/424682529333689.jpg"
     ],
-    "defeito": false,
+    "id": "1498746664",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-ps4-fc-25-original-1498746664",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Jogo PS4 FC 25 Original ",
     "ts": 1777745596
   },
   {
@@ -9901,26 +9921,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation 3 ",
     "ts": 1777674246
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:23",
-    "fotoUrl": "https://img.olx.com.br/images/17/178615361604543.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/178615361604543.jpg",
-      "https://img.olx.com.br/images/18/185649723607974.jpg",
-      "https://img.olx.com.br/images/20/203617844105853.jpg",
-      "https://img.olx.com.br/images/21/210657363222158.jpg"
-    ],
-    "id": "1470973257",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-de-xbox-series-s-1470973257",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Caixa de Xbox séries s ",
-    "ts": 1777674230
   }
 ]
