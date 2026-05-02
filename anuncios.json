@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498768982",
-    "titulo": "STREETS of RAGE 4  PS4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
+    "id": "1498768720",
+    "titulo": "Jogos PS4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:18",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/streets-of-rage-4-ps4-1498768982",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1498768720",
+    "fotoUrl": "https://img.olx.com.br/images/45/455643161190032.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/455643161190032.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777753139
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:18",
     "fotoUrl": "https://img.olx.com.br/images/22/223670760768560.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/223670760768560.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/24/248686640737414.jpg",
       "https://img.olx.com.br/images/25/255621160272583.jpg"
     ],
-    "defeito": false,
+    "id": "1498768982",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/streets-of-rage-4-ps4-1498768982",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "STREETS of RAGE 4  PS4",
     "ts": 1777753131
   },
   {
@@ -9838,24 +9856,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Nintendo switch com defeito na carcaça ",
     "ts": 1777677512
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:18",
-    "fotoUrl": "https://img.olx.com.br/images/98/982643161494407.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/982643161494407.jpg",
-      "https://img.olx.com.br/images/99/999669647187263.jpg"
-    ],
-    "id": "1498587405",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-novo-na-caixa-1498587405",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
-    "titulo": "Ps5 novo, na caixa ",
-    "ts": 1777677504
   }
 ]
