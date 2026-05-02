@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498790569",
-    "titulo": "3 Jogos ps4",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps4",
+    "id": "1498790450",
+    "titulo": "Fifa 26",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "19:09",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/3-jogos-ps4-1498790569",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-26-1498790450",
+    "fotoUrl": "https://img.olx.com.br/images/86/861691521601781.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/861691521601781.jpg",
+      "https://img.olx.com.br/images/87/875642286558065.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777759790
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:09",
     "fotoUrl": "https://img.olx.com.br/images/94/941665525777578.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/941665525777578.jpg"
     ],
-    "defeito": false,
+    "id": "1498790569",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/3-jogos-ps4-1498790569",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "3 Jogos ps4",
     "ts": 1777759781
   },
   {
@@ -9845,25 +9864,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Jogo Uncharted The Nathan Drake Collection ps4 ",
     "ts": 1777683146
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:46",
-    "fotoUrl": "https://img.olx.com.br/images/65/654661883677338.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/654661883677338.jpg",
-      "https://img.olx.com.br/images/65/652637286225382.jpg",
-      "https://img.olx.com.br/images/65/654675407461783.jpg"
-    ],
-    "id": "1498600059",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogo-little-big-planet-3-ps3-1498600059",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Jogo Little Big Planet 3 PS3",
-    "ts": 1777682815
   }
 ]
