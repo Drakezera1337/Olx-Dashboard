@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498741538",
-    "titulo": "Somente venda",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "outros",
+    "id": "1498740220",
+    "titulo": "Jogos de ps4 ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:43",
-    "tempoOlx": "Na OLX desde março de 2017",
+    "tempoOlx": "Na OLX desde novembro de 2024",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/somente-venda-1498741538",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps4-1498740220",
+    "fotoUrl": "https://img.olx.com.br/images/49/498610404208400.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/498610404208400.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777743815
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:43",
     "fotoUrl": "https://img.olx.com.br/images/43/436612289684591.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/436612289684591.jpg",
       "https://img.olx.com.br/images/45/459625648628515.jpg",
       "https://img.olx.com.br/images/46/469644281868314.jpg"
     ],
-    "defeito": false,
+    "id": "1498741538",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/somente-venda-1498741538",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "Somente venda",
     "ts": 1777743806
   },
   {
@@ -9951,25 +9969,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "console sony",
-    "ts": 1777673225
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:07",
-    "fotoUrl": "https://img.olx.com.br/images/75/758613637118865.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/758613637118865.jpg",
-      "https://img.olx.com.br/images/76/767652279486643.jpg"
-    ],
-    "id": "1498374849",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-jogos-defeito-na-placa-mae-resolve-facil-1498374849",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 + JOGOS (DEFEITO NA PLACA MÃE, RESOLVE FÁCIL)",
     "ts": 1777673225
   }
 ]
