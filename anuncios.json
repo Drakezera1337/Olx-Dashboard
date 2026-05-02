@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498748620",
-    "titulo": "Jogos de ps4",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "categoria": "ps4",
+    "id": "1498749973",
+    "titulo": "Xbox Series S 512gb + Controle",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "15:25",
-    "tempoOlx": "Na OLX desde março de 2025",
+    "detectado": "15:28",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogos-de-ps4-1498748620",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-512gb-controle-1498749973",
+    "fotoUrl": "https://img.olx.com.br/images/96/963636167144856.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/963636167144856.jpg",
+      "https://img.olx.com.br/images/35/358690640541282.jpg",
+      "https://img.olx.com.br/images/42/422676520748208.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777746536
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:25",
     "fotoUrl": "https://img.olx.com.br/images/99/990691160016224.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/990691160016224.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/16/163604526785588.jpg",
       "https://img.olx.com.br/images/18/189649528733180.jpg"
     ],
-    "defeito": false,
+    "id": "1498748620",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogos-de-ps4-1498748620",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2025",
+    "titulo": "Jogos de ps4",
     "ts": 1777746338
   },
   {
@@ -9901,25 +9921,5 @@
     "tempoOlx": "",
     "titulo": "Playstation 4 slim 1tb ",
     "ts": 1777674362
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:25",
-    "fotoUrl": "https://img.olx.com.br/images/48/489616262464978.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/489616262464978.jpg",
-      "https://img.olx.com.br/images/49/495669624586604.jpg",
-      "https://img.olx.com.br/images/51/519687747508898.jpg"
-    ],
-    "id": "1490435022",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps1-baby-leitor-70-funcionando-perfeitamente-so-o-console-1490435022",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps1 baby leitor 70% funcionando perfeitamente só o console ",
-    "ts": 1777674309
   }
 ]
