@@ -1,21 +1,39 @@
 [
   {
-    "id": "1498756089",
-    "titulo": "PES 2014 XBOX 360",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "categoria": "xbox",
+    "id": "1498757764",
+    "titulo": "Jogos PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:09",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "16:14",
+    "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-2014-xbox-360-1498756089",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-1498757764",
+    "fotoUrl": "https://img.olx.com.br/images/15/158625163842743.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/158625163842743.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777749296
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:09",
     "fotoUrl": "https://img.olx.com.br/images/50/502629287375212.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/502629287375212.jpg",
       "https://img.olx.com.br/images/51/513648405853923.jpg"
     ],
-    "defeito": false,
+    "id": "1498756089",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-2014-xbox-360-1498756089",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "PES 2014 XBOX 360",
     "ts": 1777748945
   },
   {
@@ -9892,28 +9910,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Playstation 3 com defeito ",
-    "ts": 1777675301
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:41",
-    "fotoUrl": "https://img.olx.com.br/images/41/410613168867099.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/410613168867099.jpg",
-      "https://img.olx.com.br/images/43/430698285472450.jpg",
-      "https://img.olx.com.br/images/44/447642404246830.jpg",
-      "https://img.olx.com.br/images/46/464603767788851.jpg",
-      "https://img.olx.com.br/images/47/474605165419364.jpg"
-    ],
-    "id": "1498451007",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/ps3-super-slim-defeito-para-reballing-1498451007",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 Super Slim defeito para Reballing",
     "ts": 1777675301
   }
 ]
