@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498611886",
-    "titulo": "FIFA 20",
-    "preco": 55,
-    "precoRaw": "R$ 55",
+    "id": "1498612149",
+    "titulo": "Assassins creed mirage",
+    "preco": 130,
+    "precoRaw": "R$ 130",
     "categoria": "jogos",
     "publicado": "",
-    "detectado": "23:18",
-    "tempoOlx": "Na OLX desde julho de 2022",
+    "detectado": "23:24",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/fifa-20-1498611886",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/assassins-creed-mirage-1498612149",
+    "fotoUrl": "https://img.olx.com.br/images/33/332641642722433.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/332641642722433.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777688666
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:18",
     "fotoUrl": "https://img.olx.com.br/images/88/881694642409229.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/881694642409229.jpg"
     ],
-    "defeito": false,
+    "id": "1498611886",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/fifa-20-1498611886",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "FIFA 20",
     "ts": 1777688335
   },
   {
@@ -9923,23 +9941,5 @@
     "tempoOlx": "",
     "titulo": "Xbox Series S + Controle e Caixa",
     "ts": 1777662009
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Prepare-se para a ação com FIFA 22 para PS4! Reviva os momentos mais emocionantes do futebol com gráficos incríveis e jogabilidade imersiva. Domine o campo e conquiste a vitória!",
-    "detectado": "15:54",
-    "fotoUrl": "https://img.olx.com.br/images/80/808678642024105.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/808678642024105.jpg"
-    ],
-    "id": "1498538218",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/fifa-23-para-ps4-com-modo-copa-do-mundo-1498538218",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "FIFA 23 para ps4 com modo copa do mundo",
-    "ts": 1777661663
   }
 ]
