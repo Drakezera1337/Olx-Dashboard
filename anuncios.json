@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498804682",
-    "titulo": "Dois jogos de PS4 por 100$",
+    "id": "1481407862",
+    "titulo": "Residente Evil Revelations 2",
     "preco": 100,
     "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "20:52",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "detectado": "20:58",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dois-jogos-de-ps4-por-100-1498804682",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/residente-evil-revelations-2-1481407862",
+    "fotoUrl": "https://img.olx.com.br/images/98/987673493161896.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/987673493161896.jpg",
+      "https://img.olx.com.br/images/11/114612616622264.jpg",
+      "https://img.olx.com.br/images/12/127644497333115.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777766306
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:52",
     "fotoUrl": "https://img.olx.com.br/images/74/748611882918297.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/748611882918297.jpg",
       "https://img.olx.com.br/images/76/761644281202548.jpg"
     ],
-    "defeito": false,
+    "id": "1498804682",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dois-jogos-de-ps4-por-100-1498804682",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "Dois jogos de PS4 por 100$",
     "ts": 1777765945
   },
   {
@@ -9817,24 +9837,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Xbox séries S com controle e bateria recarregavel ",
     "ts": 1777730870
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:07",
-    "fotoUrl": "https://img.olx.com.br/images/91/914626166400413.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/914626166400413.jpg",
-      "https://img.olx.com.br/images/93/931604049187486.jpg"
-    ],
-    "id": "1498672050",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-series-s-seminovo-completo-1498672050",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "XBOX SERIES S - SEMINOVO - COMPLETO",
-    "ts": 1777730862
   }
 ]
