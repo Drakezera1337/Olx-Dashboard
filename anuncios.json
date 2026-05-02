@@ -1,20 +1,41 @@
 [
   {
-    "id": "1496071588",
-    "titulo": "Xbox Séries S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1481745512",
+    "titulo": "Cyberpunk 2077, ps4",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:58",
-    "tempoOlx": "Na OLX desde outubro de 2025",
+    "detectado": "12:03",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-1496071588",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-1481745512",
+    "fotoUrl": "https://img.olx.com.br/images/34/345621624865787.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/345621624865787.jpg",
+      "https://img.olx.com.br/images/44/449656866079387.jpg",
+      "https://img.olx.com.br/images/54/540685388874667.jpg",
+      "https://img.olx.com.br/images/69/697659264836211.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777734206
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:58",
     "fotoUrl": "https://img.olx.com.br/images/84/841662394277556.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/841662394277556.jpg"
     ],
-    "defeito": false,
+    "id": "1496071588",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-1496071588",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2025",
+    "titulo": "Xbox Séries S",
     "ts": 1777733931
   },
   {
@@ -9991,24 +10012,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "S25 Ultra 512 GB, com nota fiscal, película e capa original Samsung",
-    "ts": 1777670798
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:26",
-    "fotoUrl": "https://img.olx.com.br/images/12/122648755680976.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/122648755680976.jpg"
-    ],
-    "id": "1493532612",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/galaxy-samsung-a16-1493532612",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Galaxy Samsung A16",
     "ts": 1777670798
   }
 ]
