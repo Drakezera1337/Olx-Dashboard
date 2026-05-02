@@ -1,20 +1,38 @@
 [
   {
-    "id": "1486541474",
-    "titulo": "NBA 2k15",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1486541759",
+    "titulo": "MediEvil",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "14:52",
+    "detectado": "14:53",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/nba-2k15-1486541474",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/medievil-1486541759",
+    "fotoUrl": "https://img.olx.com.br/images/81/811674384653803.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/811674384653803.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777744385
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:52",
     "fotoUrl": "https://img.olx.com.br/images/17/179679260941688.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/179679260941688.jpg"
     ],
-    "defeito": false,
+    "id": "1486541474",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/nba-2k15-1486541474",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "NBA 2k15",
     "ts": 1777744374
   },
   {
@@ -9906,24 +9924,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2013",
     "titulo": "Assassins Creed Unity para PS4",
     "ts": 1777673758
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:15",
-    "fotoUrl": "https://img.olx.com.br/images/16/160684519442501.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/160684519442501.jpg",
-      "https://img.olx.com.br/images/17/170682037866634.jpg"
-    ],
-    "id": "1498230023",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/until-dawn-midia-fisica-para-ps4-1498230023",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
-    "titulo": "Until Dawn Midia Fisica para PS4",
-    "ts": 1777673749
   }
 ]
