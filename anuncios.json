@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498626875",
-    "titulo": "Gravity Rush 2 Ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1498626615",
+    "titulo": "Metro redux ps4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "01:05",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/gravity-rush-2-ps4-1498626875",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/metro-redux-ps4-1498626615",
+    "fotoUrl": "https://img.olx.com.br/images/95/954601407667314.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/954601407667314.jpg",
+      "https://img.olx.com.br/images/96/966630281174212.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777694754
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:05",
     "fotoUrl": "https://img.olx.com.br/images/91/910655645469276.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/910655645469276.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/95/950679642718430.jpg",
       "https://img.olx.com.br/images/96/965653045963826.jpg"
     ],
-    "defeito": false,
+    "id": "1498626875",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/gravity-rush-2-ps4-1498626875",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "Gravity Rush 2 Ps4",
     "ts": 1777694746
   },
   {
@@ -9962,24 +9981,5 @@
     "tempoOlx": "",
     "titulo": "Jogo ps4 battlefield v",
     "ts": 1777664230
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "Eleve sua experiência de jogo com o Xbox Series S! Desfrute de gráficos incríveis e carregamentos ultrarrápidos. Perfeito para todos os gamers que buscam performance e diversão.",
-    "detectado": "16:36",
-    "fotoUrl": "https://img.olx.com.br/images/91/914648287522618.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/914648287522618.jpg",
-      "https://img.olx.com.br/images/94/947640408546323.jpg"
-    ],
-    "id": "1498545228",
-    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/consoles-de-video-game/xbox-series-s-1498545228",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Series S",
-    "ts": 1777664170
   }
 ]
