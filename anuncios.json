@@ -1,21 +1,39 @@
 [
   {
-    "id": "1498753482",
-    "titulo": "Playstation 4 pro",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1498753469",
+    "titulo": "Knowledge is Power",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "15:57",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/playstation-4-pro-1498753482",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/knowledge-is-power-1498753469",
+    "fotoUrl": "https://img.olx.com.br/images/14/140644163612807.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/140644163612807.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777748255
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:57",
     "fotoUrl": "https://img.olx.com.br/images/75/750606047355428.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/750606047355428.jpg",
       "https://img.olx.com.br/images/75/754604521844222.jpg"
     ],
-    "defeito": false,
+    "id": "1498753482",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/playstation-4-pro-1498753482",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Playstation 4 pro",
     "ts": 1777748246
   },
   {
@@ -9892,25 +9910,5 @@
     "tempoOlx": "Na OLX desde junho de 2017",
     "titulo": "Jogo ps4",
     "ts": 1777675173
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:39",
-    "fotoUrl": "https://img.olx.com.br/images/93/934618041565284.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/934618041565284.jpg",
-      "https://img.olx.com.br/images/94/940674282908823.jpg",
-      "https://img.olx.com.br/images/96/966617166843341.jpg"
-    ],
-    "id": "1498582325",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-21-ps4-usado-1498582325",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "PES 21 PS4 - Usado",
-    "ts": 1777675164
   }
 ]
