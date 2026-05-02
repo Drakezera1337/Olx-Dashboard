@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498753780",
-    "titulo": "PS4 FAT 500GB IMPECÁVEL ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "ps4",
+    "id": "1498753665",
+    "titulo": "Lichdom Battlemage",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "15:56",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "15:57",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-fat-500gb-impecavel-1498753780",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/lichdom-battlemage-1498753665",
+    "fotoUrl": "https://img.olx.com.br/images/73/734652523492929.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/734652523492929.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777748227
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:56",
     "fotoUrl": "https://img.olx.com.br/images/77/775652405692011.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/775652405692011.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/83/838643769181537.jpg",
       "https://img.olx.com.br/images/84/841642407585319.jpg"
     ],
-    "defeito": false,
+    "id": "1498753780",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-fat-500gb-impecavel-1498753780",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PS4 FAT 500GB IMPECÁVEL ",
     "ts": 1777748219
   },
   {
@@ -9900,28 +9918,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Ps4 Slim",
     "ts": 1777675139
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:38",
-    "fotoUrl": "https://img.olx.com.br/images/26/268666503708064.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/268666503708064.jpg",
-      "https://img.olx.com.br/images/27/271603744835218.jpg",
-      "https://img.olx.com.br/images/29/298626381522847.jpg",
-      "https://img.olx.com.br/images/30/307613267172285.jpg",
-      "https://img.olx.com.br/images/31/312618021664158.jpg",
-      "https://img.olx.com.br/images/33/331650500804492.jpg"
-    ],
-    "id": "1487996722",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-gta-v-fifa-15-17-18-19-20-gran-turismo-7-the-last-of-us-e-1487996722",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Jogos PS4/PS5 - GTA V, FIFA 15/17/18/19/20, Gran Turismo 7, The Last of Us e +",
-    "ts": 1777675129
   }
 ]
