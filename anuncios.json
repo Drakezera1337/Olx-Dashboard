@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498752817",
-    "titulo": "Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1498752667",
+    "titulo": "iPhone 13",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "15:46",
-    "tempoOlx": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498752817",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1498752667",
+    "fotoUrl": "https://img.olx.com.br/images/48/486644640962475.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/486644640962475.jpg",
+      "https://img.olx.com.br/images/50/502669405778720.jpg",
+      "https://img.olx.com.br/images/51/511669880327854.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777747588
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:46",
     "fotoUrl": "https://img.olx.com.br/images/75/752641168950503.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/752641168950503.jpg",
       "https://img.olx.com.br/images/77/779681520924944.jpg"
     ],
-    "defeito": false,
+    "id": "1498752817",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498752817",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Series S",
     "ts": 1777747560
   },
   {
@@ -9912,24 +9932,5 @@
     "tempoOlx": "Na OLX desde março de 2016",
     "titulo": "Coletania Battlefield 3 jogos ps3",
     "ts": 1777674712
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:31",
-    "fotoUrl": "https://img.olx.com.br/images/29/293612159442312.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/293612159442312.jpg",
-      "https://img.olx.com.br/images/31/313679274191099.jpg"
-    ],
-    "id": "1498119139",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/shadow-of-the-colossus-ps4-1498119139",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "Shadow of the Colossus PS4",
-    "ts": 1777674702
   }
 ]
