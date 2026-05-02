@@ -1,21 +1,44 @@
 [
   {
-    "id": "1498803926",
-    "titulo": "Jogos de ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1498803646",
+    "titulo": "XBOX SERIES S ",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "20:47",
-    "tempoOlx": "Na OLX desde julho de 2019",
+    "detectado": "20:48",
+    "tempoOlx": "Na OLX desde outubro de 2017",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1498803926",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498803646",
+    "fotoUrl": "https://img.olx.com.br/images/12/122657400276330.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/122657400276330.jpg",
+      "https://img.olx.com.br/images/12/123613647217930.jpg",
+      "https://img.olx.com.br/images/14/143649049636831.jpg",
+      "https://img.olx.com.br/images/14/148655761964432.jpg",
+      "https://img.olx.com.br/images/17/177683647588623.jpg",
+      "https://img.olx.com.br/images/18/185624643726752.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777765706
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:47",
     "fotoUrl": "https://img.olx.com.br/images/61/618659160203107.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/618659160203107.jpg",
       "https://img.olx.com.br/images/63/637634401809945.jpg"
     ],
-    "defeito": false,
+    "id": "1498803926",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1498803926",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2019",
+    "titulo": "Jogos de ps4",
     "ts": 1777765645
   },
   {
@@ -9812,24 +9835,5 @@
     "tempoOlx": "Na OLX desde maio de 2025",
     "titulo": "PS4 slim de 1TB",
     "ts": 1777730861
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:07",
-    "fotoUrl": "https://img.olx.com.br/images/70/706642402788445.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/706642402788445.jpg",
-      "https://img.olx.com.br/images/73/732690163639186.jpg"
-    ],
-    "id": "1498657227",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-super-slim-para-retirada-de-pecas-ou-conserto-liga-mas-nao-le-nao-funciona-1498657227",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "?PS3 Super Slim para retirada de peças ou conserto - liga mas não lê / não funciona ",
-    "ts": 1777730854
   }
 ]
