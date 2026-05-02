@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498752442",
-    "titulo": "FIFA 20",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1498753491",
+    "titulo": "Nintendo switch lite",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "15:48",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "15:50",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-1498752442",
+    "link": "https://to.olx.com.br/tocantins/games/consoles-de-video-game/nintendo-switch-lite-1498753491",
+    "fotoUrl": "https://img.olx.com.br/images/95/954610167171990.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/954610167171990.jpg",
+      "https://img.olx.com.br/images/97/970670168034236.jpg",
+      "https://img.olx.com.br/images/99/997694529408916.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777747800
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:48",
     "fotoUrl": "https://img.olx.com.br/images/81/817628526304984.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/817628526304984.jpg",
       "https://img.olx.com.br/images/82/820677168785812.jpg"
     ],
-    "defeito": false,
+    "id": "1498752442",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-1498752442",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "FIFA 20",
     "ts": 1777747728
   },
   {
@@ -9903,24 +9923,5 @@
     "tempoOlx": "Na OLX desde outubro de 2018",
     "titulo": "Assassins Creed - Rogue | PS4, NOVO E LACRADO",
     "ts": 1777675036
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:36",
-    "fotoUrl": "https://img.olx.com.br/images/76/766614285851659.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/766614285851659.jpg",
-      "https://img.olx.com.br/images/78/783623049001015.jpg"
-    ],
-    "id": "1498582982",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/x-box-serie-s-1498582982",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "X box serie s",
-    "ts": 1777674976
   }
 ]
