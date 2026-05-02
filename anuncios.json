@@ -1,15 +1,30 @@
 [
   {
-    "id": "1498790229",
-    "titulo": "Playstation 4 com defeito Ps4 sem HD",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps4",
+    "id": "1498790591",
+    "titulo": "Xbox séries s com 1 controle ",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "19:05",
-    "tempoOlx": "Na OLX desde junho de 2019",
+    "detectado": "19:07",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-4-com-defeito-ps4-sem-hd-1498790229",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-com-1-controle-1498790591",
+    "fotoUrl": "https://img.olx.com.br/images/90/904620529380025.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/904620529380025.jpg",
+      "https://img.olx.com.br/images/91/916633289952264.jpg",
+      "https://img.olx.com.br/images/93/935678529673131.jpg",
+      "https://img.olx.com.br/images/94/945699883267774.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777759644
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:05",
     "fotoUrl": "https://img.olx.com.br/images/88/888671765739565.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/888671765739565.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/93/936670645832579.jpg",
       "https://img.olx.com.br/images/96/965622166768440.jpg"
     ],
-    "defeito": false,
+    "id": "1498790229",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-4-com-defeito-ps4-sem-hd-1498790229",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2019",
+    "titulo": "Playstation 4 com defeito Ps4 sem HD",
     "ts": 1777759524
   },
   {
@@ -9849,26 +9870,5 @@
     "tempoOlx": "Na OLX desde julho de 2025",
     "titulo": "Jogos novos nunca usei ",
     "ts": 1777682540
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:42",
-    "fotoUrl": "https://img.olx.com.br/images/77/772540710442477.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/772540710442477.jpg",
-      "https://img.olx.com.br/images/79/798589235064628.jpg",
-      "https://img.olx.com.br/images/81/818507838123703.jpg",
-      "https://img.olx.com.br/images/83/836587475449082.jpg"
-    ],
-    "id": "1464656512",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-1-e-2-1464656512",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2023",
-    "titulo": "The last of us 1 e 2",
-    "ts": 1777682531
   }
 ]
