@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498612149",
-    "titulo": "Assassins creed mirage",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "jogos",
+    "id": "1498612869",
+    "titulo": "Lote com 5 jogos de PS4",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:24",
-    "tempoOlx": "Na OLX desde junho de 2025",
+    "detectado": "23:29",
+    "tempoOlx": "Na OLX desde outubro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/assassins-creed-mirage-1498612149",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-com-5-jogos-de-ps4-1498612869",
+    "fotoUrl": "https://img.olx.com.br/images/75/757637169524495.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/757637169524495.jpg",
+      "https://img.olx.com.br/images/76/763670169591180.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777688965
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:24",
     "fotoUrl": "https://img.olx.com.br/images/33/332641642722433.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/332641642722433.jpg"
     ],
-    "defeito": false,
+    "id": "1498612149",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/assassins-creed-mirage-1498612149",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2025",
+    "titulo": "Assassins creed mirage",
     "ts": 1777688666
   },
   {
@@ -9923,23 +9942,5 @@
     "tempoOlx": "",
     "titulo": "Naruto Storm 4 - Edição Japonesa",
     "ts": 1777662039
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "Controle com leve drift no analógico esquerdo e videogame sem funcionar o Wi-Fi, mas funciona via cabo de rede. (O que é o recomendado para jogar online)\n\nÚnico dono, nunca aberto. Preço mais em conta por esses detalhes fáceis de resolver, não tenho interesse em ficar por falta de tempo pra jogar.",
-    "detectado": "16:00",
-    "fotoUrl": "https://img.olx.com.br/images/64/641644288148129.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/641644288148129.jpg"
-    ],
-    "id": "1498539282",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-controle-e-caixa-1498539282",
-    "preco": 1380,
-    "precoRaw": "R$ 1.380",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Series S + Controle e Caixa",
-    "ts": 1777662009
   }
 ]
