@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498793103",
-    "titulo": "Spider Man Miles Morales - Jogo - Playstation 4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps4",
+    "id": "1498792833",
+    "titulo": "PS3 Super Slim - Funciona (para peças ou manutenção)",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "19:26",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "detectado": "19:27",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/spider-man-miles-morales-jogo-playstation-4-1498793103",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-super-slim-funciona-para-pecas-ou-manutencao-1498792833",
+    "fotoUrl": "https://img.olx.com.br/images/38/385625404923267.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/385625404923267.jpg",
+      "https://img.olx.com.br/images/38/380603884421744.jpg",
+      "https://img.olx.com.br/images/38/382641522467891.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777760874
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:26",
     "fotoUrl": "https://img.olx.com.br/images/20/209689520570006.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/209689520570006.jpg"
     ],
-    "defeito": false,
+    "id": "1498793103",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/spider-man-miles-morales-jogo-playstation-4-1498793103",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Spider Man Miles Morales - Jogo - Playstation 4",
     "ts": 1777760783
   },
   {
@@ -9843,27 +9863,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "Ps4",
     "ts": 1777685454
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:25",
-    "fotoUrl": "https://img.olx.com.br/images/13/134671289543661.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/134671289543661.jpg",
-      "https://img.olx.com.br/images/84/844614765360312.jpg",
-      "https://img.olx.com.br/images/42/429669400099372.jpg",
-      "https://img.olx.com.br/images/68/684682286570800.jpg",
-      "https://img.olx.com.br/images/92/920678162981151.jpg"
-    ],
-    "id": "1498605671",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-oled-acessorios-1498605671",
-    "preco": 549,
-    "precoRaw": "R$ 549",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2023",
-    "titulo": "Nintendo Switch Oled  Acessórios ",
-    "ts": 1777685154
   }
 ]
