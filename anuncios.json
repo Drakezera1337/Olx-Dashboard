@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498803646",
-    "titulo": "XBOX SERIES S ",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "xbox",
+    "id": "1498804682",
+    "titulo": "Dois jogos de PS4 por 100$",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:48",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "detectado": "20:52",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498803646",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dois-jogos-de-ps4-por-100-1498804682",
+    "fotoUrl": "https://img.olx.com.br/images/74/748611882918297.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/748611882918297.jpg",
+      "https://img.olx.com.br/images/76/761644281202548.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777765945
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:48",
     "fotoUrl": "https://img.olx.com.br/images/12/122657400276330.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/122657400276330.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/17/177683647588623.jpg",
       "https://img.olx.com.br/images/18/185624643726752.jpg"
     ],
-    "defeito": false,
+    "id": "1498803646",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498803646",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "XBOX SERIES S ",
     "ts": 1777765706
   },
   {
@@ -9817,23 +9836,5 @@
     "tempoOlx": "",
     "titulo": "XBOX SERIES S - SEMINOVO - COMPLETO",
     "ts": 1777730862
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:07",
-    "fotoUrl": "https://img.olx.com.br/images/40/409636528768707.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/409636528768707.jpg"
-    ],
-    "id": "1498645931",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-de-1tb-1498645931",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "PS4 slim de 1TB",
-    "ts": 1777730861
   }
 ]
