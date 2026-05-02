@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498598158",
-    "titulo": "Ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1498598492",
+    "titulo": "Xbox series s abaixo do preço ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "21:30",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "detectado": "21:31",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps4-1498598158",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/xbox-series-s-abaixo-do-preco-1498598492",
+    "fotoUrl": "https://img.olx.com.br/images/12/127616520294445.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/127616520294445.jpg",
+      "https://img.olx.com.br/images/13/130658760766645.jpg",
+      "https://img.olx.com.br/images/15/151637400221782.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777681885
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:30",
     "fotoUrl": "https://img.olx.com.br/images/77/773608880400851.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/773608880400851.jpg"
     ],
-    "defeito": false,
+    "id": "1498598158",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps4-1498598158",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Ps4",
     "ts": 1777681825
   },
   {
@@ -9940,24 +9960,5 @@
     "tempoOlx": "",
     "titulo": "Jogo de ps4/ps5 ",
     "ts": 1777657551
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "Mergulhe em uma história de terror de tirar o fôlego com Until Dawn. Experimente decisões que moldam o destino e encare seus piores pesadelos. A aventura espera por você!",
-    "detectado": "14:45",
-    "fotoUrl": "https://img.olx.com.br/images/34/342643522703290.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/342643522703290.jpg",
-      "https://img.olx.com.br/images/36/360637888343403.jpg"
-    ],
-    "id": "1498525174",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/until-dawn-novo-lacrado-1498525174",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Until Dawn (novo lacrado)",
-    "ts": 1777657550
   }
 ]
