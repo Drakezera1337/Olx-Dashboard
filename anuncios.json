@@ -1,20 +1,41 @@
 [
   {
-    "id": "1493068696",
-    "titulo": "PLAYSTATION PORTAL ( PS PORTAL )",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1498663532",
+    "titulo": "PlayStation 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:06",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-portal-ps-portal-1493068696",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-1498663532",
+    "fotoUrl": "https://img.olx.com.br/images/65/659652525411712.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/659652525411712.jpg",
+      "https://img.olx.com.br/images/67/672660766142876.jpg",
+      "https://img.olx.com.br/images/68/681638285981388.jpg",
+      "https://img.olx.com.br/images/69/696640760050060.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777730780
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:06",
     "fotoUrl": "https://img.olx.com.br/images/33/334669637526357.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/334669637526357.jpg"
     ],
-    "defeito": false,
+    "id": "1493068696",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-portal-ps-portal-1493068696",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PLAYSTATION PORTAL ( PS PORTAL )",
     "ts": 1777730767
   },
   {
@@ -9971,23 +9992,5 @@
     "tempoOlx": "",
     "titulo": "Rainbow six SIEGE PS4",
     "ts": 1777664969
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "Reviva os momentos icônicos da saga Street Fighter com esta coleção especial! Uma homenagem aos 30 anos de uma das franquias mais amadas dos videogames, reunindo clássicos que definiram o gênero de luta.",
-    "detectado": "16:49",
-    "fotoUrl": "https://img.olx.com.br/images/28/288676049656594.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/288676049656594.jpg"
-    ],
-    "id": "1498547704",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/street-fighter-30-anos-1498547704",
-    "preco": 105,
-    "precoRaw": "R$ 105",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Street fighter 30° anos",
-    "ts": 1777664964
   }
 ]
