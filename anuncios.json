@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498695385",
-    "titulo": "PlayStation 4/Ps4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "id": "1498697470",
+    "titulo": "PS4 PRO 1T ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:21",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "12:26",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-ps4-1498695385",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-pro-1t-1498697470",
+    "fotoUrl": "https://img.olx.com.br/images/40/406616160886743.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/406616160886743.jpg",
+      "https://img.olx.com.br/images/41/418616408564430.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777735585
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:21",
     "fotoUrl": "https://img.olx.com.br/images/13/134615763185424.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/134615763185424.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/15/152692882755428.jpg",
       "https://img.olx.com.br/images/16/161692047422165.jpg"
     ],
-    "defeito": false,
+    "id": "1498695385",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-ps4-1498695385",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "PlayStation 4/Ps4",
     "ts": 1777735262
   },
   {
@@ -9986,25 +10005,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps4 slim",
-    "ts": 1777670822
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:27",
-    "fotoUrl": "https://img.olx.com.br/images/50/505646394962588.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/505646394962588.jpg",
-      "https://img.olx.com.br/images/52/524620399140027.jpg"
-    ],
-    "id": "1498195857",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/vendo-play-station-4-slim-usado-excelente-1498195857",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo play station 4 slim usado(excelente)",
     "ts": 1777670822
   }
 ]
