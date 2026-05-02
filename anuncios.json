@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498609316",
-    "titulo": "Iphone 14 pro max",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "categoria": "iphone",
+    "id": "1498609340",
+    "titulo": "PlayStation 5",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "22:54",
-    "tempoOlx": "Na OLX desde julho de 2018",
+    "detectado": "22:55",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-1498609316",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-1498609340",
+    "fotoUrl": "https://img.olx.com.br/images/42/420688405942137.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/420688405942137.jpg",
+      "https://img.olx.com.br/images/43/438622528129778.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777686953
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:54",
     "fotoUrl": "https://img.olx.com.br/images/80/800654407203927.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/800654407203927.jpg",
       "https://img.olx.com.br/images/82/824688288729843.jpg"
     ],
-    "defeito": false,
+    "id": "1498609316",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-1498609316",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2018",
+    "titulo": "Iphone 14 pro max",
     "ts": 1777686871
   },
   {
@@ -9927,28 +9946,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation 4 com controle NA GARANTIA - NÃO FAÇO TROCAS",
     "ts": 1777661531
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Skylanders Swap Force para PS4\n\nExtremamente raro \n\nPerfeito estado de disco e caixa",
-    "detectado": "15:48",
-    "fotoUrl": "https://img.olx.com.br/images/87/875655402580316.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/875655402580316.jpg",
-      "https://img.olx.com.br/images/89/898664887396207.jpg",
-      "https://img.olx.com.br/images/91/917654647292014.jpg",
-      "https://img.olx.com.br/images/93/937647646565491.jpg",
-      "https://img.olx.com.br/images/94/940685163379662.jpg",
-      "https://img.olx.com.br/images/95/957671769977339.jpg"
-    ],
-    "id": "1498537112",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/skylanders-swap-force-ps4-1498537112",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "SKYLANDERS Swap Force PS4 ",
-    "ts": 1777661328
   }
 ]
