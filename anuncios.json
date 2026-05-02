@@ -1,22 +1,41 @@
 [
   {
-    "id": "1498739495",
-    "titulo": "TEMPLATE PS5 SPIDER MAN",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "ps5",
+    "id": "1498738728",
+    "titulo": "Xbox Séries S",
+    "preco": 1390,
+    "precoRaw": "R$ 1.390",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "14:34",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/template-ps5-spider-man-1498739495",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1498738728",
+    "fotoUrl": "https://img.olx.com.br/images/81/811657160803838.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/811657160803838.jpg",
+      "https://img.olx.com.br/images/82/820653402092785.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777743299
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:34",
     "fotoUrl": "https://img.olx.com.br/images/35/357687283995712.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/357687283995712.jpg",
       "https://img.olx.com.br/images/37/373661166815519.jpg",
       "https://img.olx.com.br/images/39/395683880146420.jpg"
     ],
-    "defeito": false,
+    "id": "1498739495",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/template-ps5-spider-man-1498739495",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "TEMPLATE PS5 SPIDER MAN",
     "ts": 1777743265
   },
   {
@@ -9951,25 +9970,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogos ps3 - Mortal Kombat - 02 jogos por 89,00",
-    "ts": 1777673225
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:07",
-    "fotoUrl": "https://img.olx.com.br/images/73/730685518034951.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/730685518034951.jpg",
-      "https://img.olx.com.br/images/75/751646630916000.jpg"
-    ],
-    "id": "1480735216",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/the-shoot-ps3-1480735216",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "The Shoot - PS3",
     "ts": 1777673225
   }
 ]
