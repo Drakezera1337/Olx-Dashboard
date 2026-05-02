@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498663532",
-    "titulo": "PlayStation 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1498671682",
+    "titulo": "iPhone 8 Plus 64g",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:06",
-    "tempoOlx": "Na OLX desde julho de 2025",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-1498663532",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-plus-64g-1498671682",
+    "fotoUrl": "https://img.olx.com.br/images/99/991625883946626.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/991625883946626.jpg",
+      "https://img.olx.com.br/images/11/118660407613634.jpg",
+      "https://img.olx.com.br/images/13/130647403583829.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777730783
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:06",
     "fotoUrl": "https://img.olx.com.br/images/65/659652525411712.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/659652525411712.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/68/681638285981388.jpg",
       "https://img.olx.com.br/images/69/696640760050060.jpg"
     ],
-    "defeito": false,
+    "id": "1498663532",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-1498663532",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "titulo": "PlayStation 5",
     "ts": 1777730780
   },
   {
@@ -9973,24 +9993,5 @@
     "tempoOlx": "",
     "titulo": "Nintendo Switch Lite COM DEFEITO",
     "ts": 1777665253
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Aceito OLXPAY. \n\nSe for de Anápolis pode retirar comigo no bairro paraíso ou no centro.\n\nMonte seu combo para ter desconto veja os games disponíveis no meu perfil. \n\nDomine o campo de batalha tático com Rainbow Six Siege para PS4! Experimente ação intensa e estratégia em equipe neste jogo aclamado pela crítica. Prepare-se para o confronto!",
-    "detectado": "16:49",
-    "fotoUrl": "https://img.olx.com.br/images/84/840638280506854.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/840638280506854.jpg",
-      "https://img.olx.com.br/images/86/867657161626201.jpg"
-    ],
-    "id": "1498547601",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/rainbow-six-siege-ps4-1498547601",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Rainbow six SIEGE PS4",
-    "ts": 1777664969
   }
 ]
