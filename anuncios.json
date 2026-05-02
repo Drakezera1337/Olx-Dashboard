@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498686511",
-    "titulo": "NBA 2k15",
+    "id": "1498686212",
+    "titulo": "FIFA 16",
     "preco": 40,
     "precoRaw": "R$ 40",
-    "categoria": "outros",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "11:33",
+    "detectado": "11:34",
     "tempoOlx": "Na OLX desde maio de 2023",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/nba-2k15-1498686511",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/fifa-16-1498686212",
+    "fotoUrl": "https://img.olx.com.br/images/91/912612281370814.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/912612281370814.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777732441
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:33",
     "fotoUrl": "https://img.olx.com.br/images/74/749614041977840.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/749614041977840.jpg"
     ],
-    "defeito": false,
+    "id": "1498686511",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/nba-2k15-1498686511",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2023",
+    "titulo": "NBA 2k15",
     "ts": 1777732433
   },
   {
@@ -10011,23 +10029,5 @@
     "tempoOlx": "",
     "titulo": "Vendo X Box One S 500 GB",
     "ts": 1777670650
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "Mergulhe em uma jornada épica com God of War para PlayStation 4! Reviva a aclamada aventura de Kratos e Atreus em um mundo de mitologia nórdica repleto de desafios e descobertas. Uma experiência inesquecível espera por você.",
-    "detectado": "18:18",
-    "fotoUrl": "https://img.olx.com.br/images/49/498688527259916.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/498688527259916.jpg"
-    ],
-    "id": "1498569971",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/jogo-god-of-war-ps4-1498569971",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo god of war ps4",
-    "ts": 1777670328
   }
 ]
