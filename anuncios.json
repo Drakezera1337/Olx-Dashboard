@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498740220",
-    "titulo": "Jogos de ps4 ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1498741609",
+    "titulo": "Ps5 Slim",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "14:43",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "detectado": "14:46",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps4-1498740220",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/ps5-slim-1498741609",
+    "fotoUrl": "https://img.olx.com.br/images/97/972680525721755.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/972680525721755.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777744014
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:43",
     "fotoUrl": "https://img.olx.com.br/images/49/498610404208400.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/498610404208400.jpg"
     ],
-    "defeito": false,
+    "id": "1498740220",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps4-1498740220",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "Jogos de ps4 ",
     "ts": 1777743815
   },
   {
@@ -9951,24 +9969,5 @@
     "tempoOlx": "",
     "titulo": "PS3 SUPER SLIM COM DEFEITO + 3 CONTROLES COM DEFEITO [CAIXA DE PS3]",
     "ts": 1777673239
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:07",
-    "fotoUrl": "https://img.olx.com.br/images/97/979665765359638.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/979665765359638.jpg",
-      "https://img.olx.com.br/images/98/985667409343715.jpg"
-    ],
-    "id": "1498577645",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/console-sony-1498577645",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "console sony",
-    "ts": 1777673225
   }
 ]
