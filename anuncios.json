@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498710913",
-    "titulo": "Jogos PS4/PS5",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "ps5",
+    "id": "1473054610",
+    "titulo": "Jogo Battlefield 1 de PS4 ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:33",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "tempoOlx": "Na OLX desde setembro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-ps4-ps5-1498710913",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-battlefield-1-de-ps4-1473054610",
+    "fotoUrl": "https://img.olx.com.br/images/34/349653486055890.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/349653486055890.jpg",
+      "https://img.olx.com.br/images/35/351630243072553.jpg",
+      "https://img.olx.com.br/images/36/363615127051530.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777739594
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:33",
     "fotoUrl": "https://img.olx.com.br/images/49/491652402067529.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/491652402067529.jpg",
       "https://img.olx.com.br/images/50/501618764185457.jpg"
     ],
-    "defeito": false,
+    "id": "1498710913",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-ps4-ps5-1498710913",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Jogos PS4/PS5",
     "ts": 1777739584
   },
   {
@@ -9936,25 +9956,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "Vídeo game ps3 super slim ",
     "ts": 1777671021
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:29",
-    "fotoUrl": "https://img.olx.com.br/images/13/132611145491223.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/132611145491223.jpg",
-      "https://img.olx.com.br/images/45/457633757065736.jpg",
-      "https://img.olx.com.br/images/47/479624636181643.jpg"
-    ],
-    "id": "1489150372",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1tb-1489150372",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One S 1tb",
-    "ts": 1777670980
   }
 ]
