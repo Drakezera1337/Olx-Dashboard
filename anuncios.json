@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498771470",
-    "titulo": "World War Z",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1498771271",
+    "titulo": "Watch Dogs Legion",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "outros",
     "publicado": "",
     "detectado": "17:29",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/world-war-z-1498771470",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/watch-dogs-legion-1498771271",
+    "fotoUrl": "https://img.olx.com.br/images/96/969622403124863.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/969622403124863.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777753771
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:29",
     "fotoUrl": "https://img.olx.com.br/images/93/931660288734608.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/931660288734608.jpg"
     ],
-    "defeito": false,
+    "id": "1498771470",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/world-war-z-1498771470",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "World War Z",
     "ts": 1777753762
   },
   {
@@ -9830,23 +9848,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "The Last of Us Remastered PS4 - Jogo",
     "ts": 1777677585
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:19",
-    "fotoUrl": "https://img.olx.com.br/images/97/976575272861618.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/976575272861618.jpg"
-    ],
-    "id": "1395024300",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/just-cause-4-gold-edition-ps4-novo-lacrado-1395024300",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "Just Cause 4 - Gold Edition - PS4 (novo lacrado)",
-    "ts": 1777677577
   }
 ]
