@@ -1,20 +1,38 @@
 [
   {
-    "id": "1486544335",
-    "titulo": "Street Fighter V",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1486545108",
+    "titulo": "Tomb Raider Definitive Edition",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "14:52",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/street-fighter-v-1486544335",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/tomb-raider-definitive-edition-1486545108",
+    "fotoUrl": "https://img.olx.com.br/images/42/420615862368521.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/420615862368521.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777744337
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:52",
     "fotoUrl": "https://img.olx.com.br/images/49/496632388903222.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/496632388903222.jpg"
     ],
-    "defeito": false,
+    "id": "1486544335",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/street-fighter-v-1486544335",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Street Fighter V",
     "ts": 1777744327
   },
   {
@@ -9917,27 +9935,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "iPhone 11 branco 128 GB ",
     "ts": 1777673565
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:12",
-    "fotoUrl": "https://img.olx.com.br/images/95/950588719975273.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/950588719975273.jpg",
-      "https://img.olx.com.br/images/98/983594831571076.jpg",
-      "https://img.olx.com.br/images/11/110560710700852.jpg",
-      "https://img.olx.com.br/images/14/145532833055128.jpg",
-      "https://img.olx.com.br/images/16/167566831190728.jpg"
-    ],
-    "id": "1461055285",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/jogo-farcry-3-e-farcry4-ps3-1461055285",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Jogo FarCry 3 e FarCry4 - PS3",
-    "ts": 1777673547
   }
 ]
