@@ -1,20 +1,38 @@
 [
   {
-    "id": "1486537141",
-    "titulo": "Fifa 18",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1486537482",
+    "titulo": "Fifa 17",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "jogos",
     "publicado": "",
-    "detectado": "14:49",
+    "detectado": "14:50",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-18-1486537141",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-17-1486537482",
+    "fotoUrl": "https://img.olx.com.br/images/68/687698385474283.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/687698385474283.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777744210
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:49",
     "fotoUrl": "https://img.olx.com.br/images/59/590604142331344.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/590604142331344.jpg"
     ],
-    "defeito": false,
+    "id": "1486537141",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-18-1486537141",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Fifa 18",
     "ts": 1777744197
   },
   {
@@ -9940,23 +9958,5 @@
     "tempoOlx": "",
     "titulo": "Figurinha Copa 2026 ( EXTRA ) Lamine Yamal ",
     "ts": 1777673306
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:07",
-    "fotoUrl": "https://img.olx.com.br/images/64/645647166933032.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/645647166933032.jpg"
-    ],
-    "id": "1498578055",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/funkos-team-fortress-2-1498578055",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Funkos team fortress 2",
-    "ts": 1777673278
   }
 ]
