@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498754810",
-    "titulo": "PS4 Zerado - O Mais Barato da OLX - Playstation",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1498755741",
+    "titulo": "Ratchet & Clank - PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:58",
-    "tempoOlx": "Na OLX desde setembro de 2016",
+    "detectado": "16:02",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-zerado-o-mais-barato-da-olx-playstation-1498754810",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ratchet-clank-ps4-1498755741",
+    "fotoUrl": "https://img.olx.com.br/images/94/947676649768685.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/947676649768685.jpg",
+      "https://img.olx.com.br/images/96/961666881824503.jpg",
+      "https://img.olx.com.br/images/98/981605883725832.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777748546
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:58",
     "fotoUrl": "https://img.olx.com.br/images/33/335641644329968.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/335641644329968.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/38/388612406517842.jpg",
       "https://img.olx.com.br/images/39/390639644881693.jpg"
     ],
-    "defeito": false,
+    "id": "1498754810",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-zerado-o-mais-barato-da-olx-playstation-1498754810",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2016",
+    "titulo": "PS4 Zerado - O Mais Barato da OLX - Playstation",
     "ts": 1777748306
   },
   {
@@ -9895,26 +9915,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 7 32GB",
-    "ts": 1777675222
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:40",
-    "fotoUrl": "https://img.olx.com.br/images/23/233678642582840.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/233678642582840.jpg",
-      "https://img.olx.com.br/images/25/256619405473290.jpg",
-      "https://img.olx.com.br/images/27/271641523987058.jpg"
-    ],
-    "id": "1498461951",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-plus-256gb-1498461951",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 7 Plus 256GB",
     "ts": 1777675222
   }
 ]
