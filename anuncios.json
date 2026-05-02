@@ -1,7 +1,7 @@
 [
   {
-    "id": "1498755533",
-    "titulo": "Horizon Forbidden West. Jogo de Playstation 4.",
+    "id": "1498755163",
+    "titulo": "Resident Evil 3 Remake. Jogo de Playstation 4.",
     "preco": 90,
     "precoRaw": "R$ 90",
     "categoria": "ps4",
@@ -9,7 +9,24 @@
     "detectado": "16:02",
     "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-jogo-de-playstation-4-1498755533",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/resident-evil-3-remake-jogo-de-playstation-4-1498755163",
+    "fotoUrl": "https://img.olx.com.br/images/98/986603648194902.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/986603648194902.jpg",
+      "https://img.olx.com.br/images/10/106600528402453.jpg",
+      "https://img.olx.com.br/images/11/111641285236787.jpg",
+      "https://img.olx.com.br/images/14/141640525204864.jpg",
+      "https://img.olx.com.br/images/15/154637288829575.jpg",
+      "https://img.olx.com.br/images/17/178647284283408.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777748575
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:02",
     "fotoUrl": "https://img.olx.com.br/images/29/291644163151225.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/291644163151225.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/37/378631644348970.jpg",
       "https://img.olx.com.br/images/38/384601528582351.jpg"
     ],
-    "defeito": false,
+    "id": "1498755533",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-jogo-de-playstation-4-1498755533",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Horizon Forbidden West. Jogo de Playstation 4.",
     "ts": 1777748564
   },
   {
@@ -9899,24 +9922,5 @@
     "tempoOlx": "",
     "titulo": "Vendo ps5 slim ",
     "ts": 1777675236
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:40",
-    "fotoUrl": "https://img.olx.com.br/images/97/978639881479557.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/978639881479557.jpg",
-      "https://img.olx.com.br/images/12/120600521041007.jpg"
-    ],
-    "id": "1498583510",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/dualsense-playstation-5-1498583510",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Dualsense PlayStation 5",
-    "ts": 1777675222
   }
 ]
