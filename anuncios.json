@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498793985",
-    "titulo": "Nintendo Switch Lite ",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1498794504",
+    "titulo": "Jogo PS4 Mortal Kombat 11",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:32",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "19:38",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/nintendo-switch-lite-1498793985",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogo-ps4-mortal-kombat-11-1498794504",
+    "fotoUrl": "https://img.olx.com.br/images/46/463625764063230.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/463625764063230.jpg",
+      "https://img.olx.com.br/images/48/487615282444341.jpg",
+      "https://img.olx.com.br/images/50/502676644416933.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777761505
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:32",
     "fotoUrl": "https://img.olx.com.br/images/91/915698761148455.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/915698761148455.jpg",
       "https://img.olx.com.br/images/92/922642649650697.jpg"
     ],
-    "defeito": false,
+    "id": "1498793985",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/nintendo-switch-lite-1498793985",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "Nintendo Switch Lite ",
     "ts": 1777761174
   },
   {
@@ -9846,23 +9866,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "Vendo Days Gone",
     "ts": 1777686297
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:38",
-    "fotoUrl": "https://img.olx.com.br/images/79/792405328081924.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/792405328081924.jpg"
-    ],
-    "id": "1338212809",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-dungeon-of-the-endless-1338212809",
-    "preco": 175,
-    "precoRaw": "R$ 175",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "PS4 Dungeon Of The Endless",
-    "ts": 1777685911
   }
 ]
