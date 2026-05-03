@@ -1,22 +1,43 @@
 [
   {
-    "id": "1498925297",
-    "titulo": "Jogo de ps4 sonic forces",
+    "id": "1498925270",
+    "titulo": "God of War",
     "preco": 80,
     "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "15:11",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "15:12",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jogo-de-ps4-sonic-forces-1498925297",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-1498925270",
+    "fotoUrl": "https://img.olx.com.br/images/21/210695166258556.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/210695166258556.jpg",
+      "https://img.olx.com.br/images/22/223686287850206.jpg",
+      "https://img.olx.com.br/images/25/251603641738270.jpg",
+      "https://img.olx.com.br/images/26/266604886174827.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777831924
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:11",
     "fotoUrl": "https://img.olx.com.br/images/29/291677402672928.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/291677402672928.jpg",
       "https://img.olx.com.br/images/31/317675642364265.jpg",
       "https://img.olx.com.br/images/33/338620284964308.jpg"
     ],
-    "defeito": false,
+    "id": "1498925297",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jogo-de-ps4-sonic-forces-1498925297",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Jogo de ps4 sonic forces",
     "ts": 1777831914
   },
   {
@@ -9842,24 +9863,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "OUTLAST TRINITY PS4",
     "ts": 1777812651
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:50",
-    "fotoUrl": "https://img.olx.com.br/images/75/756656630324089.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/756656630324089.jpg",
-      "https://img.olx.com.br/images/78/780694158385461.jpg"
-    ],
-    "id": "1490489811",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/injustice-2-ps4-1490489811",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Injustice 2 PS4",
-    "ts": 1777812643
   }
 ]
