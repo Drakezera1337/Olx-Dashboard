@@ -1,15 +1,27 @@
 [
   {
-    "id": "1482095606",
-    "titulo": "The last of us 2",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "jogos",
+    "id": "1498958361",
+    "titulo": "Jogo ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:57",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/the-last-of-us-2-1482095606",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-1498958361",
+    "fotoUrl": "https://img.olx.com.br/images/82/829669642452335.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/829669642452335.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777841838
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:57",
     "fotoUrl": "https://img.olx.com.br/images/55/559658266506237.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/559658266506237.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/59/595658023160227.jpg",
       "https://img.olx.com.br/images/61/619685384008989.jpg"
     ],
-    "defeito": false,
+    "id": "1482095606",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/the-last-of-us-2-1482095606",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "The last of us 2",
     "ts": 1777841829
   },
   {
@@ -9825,24 +9843,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PlayStation 4 Slim 1TB c/ 8 Jogos",
     "ts": 1777820704
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:04",
-    "fotoUrl": "https://img.olx.com.br/images/25/253600275391297.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/253600275391297.jpg",
-      "https://img.olx.com.br/images/35/353646280963382.jpg"
-    ],
-    "id": "1487851438",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1487851438",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "Playstation 4",
-    "ts": 1777820645
   }
 ]
