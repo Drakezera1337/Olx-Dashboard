@@ -1,22 +1,40 @@
 [
   {
-    "id": "1490162755",
-    "titulo": "GTA 5",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1364237523",
+    "titulo": "The Witcher 3: Wild Hunt - PS4",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "09:05",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "detectado": "09:06",
+    "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/gta-5-1490162755",
+    "link": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/games/jogos-de-video-game/the-witcher-3-wild-hunt-ps4-1364237523",
+    "fotoUrl": "https://img.olx.com.br/images/13/138401595533823.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/138401595533823.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777809964
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:05",
     "fotoUrl": "https://img.olx.com.br/images/82/821672503781383.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/821672503781383.jpg",
       "https://img.olx.com.br/images/85/855654621617562.jpg",
       "https://img.olx.com.br/images/87/877616148295949.jpg"
     ],
-    "defeito": false,
+    "id": "1490162755",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/gta-5-1490162755",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "GTA 5",
     "ts": 1777809957
   },
   {
@@ -9915,25 +9933,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "Jogo Ps4",
     "ts": 1777744887
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:55",
-    "fotoUrl": "https://img.olx.com.br/images/54/543695521972367.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/543695521972367.jpg",
-      "https://img.olx.com.br/images/57/575644287975807.jpg",
-      "https://img.olx.com.br/images/60/600633163528603.jpg"
-    ],
-    "id": "1498742870",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-de-ps4-1498742870",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "Jogo de ps4 ",
-    "ts": 1777744537
   }
 ]
