@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498662982",
-    "titulo": "XBOX SERIES S C DEFEITO ",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "xbox",
+    "id": "1498822949",
+    "titulo": "PlayStation 4 Slim",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:38",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "detectado": "23:40",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/xbox-series-s-c-defeito-1498662982",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-slim-1498822949",
+    "fotoUrl": "https://img.olx.com.br/images/43/434603283971908.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/434603283971908.jpg",
+      "https://img.olx.com.br/images/44/444604765593371.jpg",
+      "https://img.olx.com.br/images/46/466675764333035.jpg",
+      "https://img.olx.com.br/images/48/487670769034911.jpg",
+      "https://img.olx.com.br/images/49/499671163658253.jpg",
+      "https://img.olx.com.br/images/50/503611282566967.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777776025
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:38",
     "fotoUrl": "https://img.olx.com.br/images/95/950647168186136.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/950647168186136.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/14/140624285735867.jpg",
       "https://img.olx.com.br/images/17/174682401514750.jpg"
     ],
-    "defeito": false,
+    "id": "1498662982",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/xbox-series-s-c-defeito-1498662982",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "titulo": "XBOX SERIES S C DEFEITO ",
     "ts": 1777775906
   },
   {
@@ -9813,26 +9836,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "Sekiro PS4 (Pt-br) Novíssimo",
     "ts": 1777731347
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:15",
-    "fotoUrl": "https://img.olx.com.br/images/56/564629260257245.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/564629260257245.jpg",
-      "https://img.olx.com.br/images/61/613625625856261.jpg",
-      "https://img.olx.com.br/images/65/651602628184679.jpg",
-      "https://img.olx.com.br/images/75/755662502398419.jpg"
-    ],
-    "id": "1490190507",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-doom-eternal-de-ps4-1490190507",
-    "preco": 68,
-    "precoRaw": "R$ 68",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2014",
-    "titulo": "Jogo Doom Eternal de PS4",
-    "ts": 1777731335
   }
 ]
