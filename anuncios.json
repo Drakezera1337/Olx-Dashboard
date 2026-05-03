@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498966097",
-    "titulo": "PS4 Slim",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1498965998",
+    "titulo": "Jogo uncharted 4 ps4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:33",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/ps4-slim-1498966097",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogo-uncharted-4-ps4-1498965998",
+    "fotoUrl": "https://img.olx.com.br/images/29/297650407334309.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/297650407334309.jpg",
+      "https://img.olx.com.br/images/31/310654882059640.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777844007
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/99/995632520869296.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/995632520869296.jpg",
       "https://img.olx.com.br/images/10/101693528566321.jpg"
     ],
-    "defeito": false,
+    "id": "1498966097",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/ps4-slim-1498966097",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "PS4 Slim",
     "ts": 1777843997
   },
   {
@@ -9817,26 +9836,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "DETROIT - PS4",
     "ts": 1777821523
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:18",
-    "fotoUrl": "https://img.olx.com.br/images/81/810637283928245.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/810637283928245.jpg",
-      "https://img.olx.com.br/images/83/837672761850227.jpg",
-      "https://img.olx.com.br/images/84/849616406919154.jpg",
-      "https://img.olx.com.br/images/86/867695761182704.jpg"
-    ],
-    "id": "1498472735",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-ps4-1498472735",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Red Dead Redemption 2 - PS4",
-    "ts": 1777821515
   }
 ]
