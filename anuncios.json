@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498938434",
-    "titulo": "Xbox series S ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "xbox",
+    "id": "1498938627",
+    "titulo": "Nintendo oled",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "16:25",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "detectado": "16:28",
+    "tempoOlx": "Na OLX desde novembro de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498938434",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/nintendo-oled-1498938627",
+    "fotoUrl": "https://img.olx.com.br/images/51/513667521801745.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/513667521801745.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777836485
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:25",
     "fotoUrl": "https://img.olx.com.br/images/50/506678166419003.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/506678166419003.jpg"
     ],
-    "defeito": false,
+    "id": "1498938434",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498938434",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Xbox series S ",
     "ts": 1777836305
   },
   {
@@ -9841,27 +9859,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Playstation 4 com jogo Spyro",
     "ts": 1777817075
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:00",
-    "fotoUrl": "https://img.olx.com.br/images/32/324606492652731.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/324606492652731.jpg",
-      "https://img.olx.com.br/images/33/334647256432431.jpg",
-      "https://img.olx.com.br/images/34/345655137942860.jpg",
-      "https://img.olx.com.br/images/35/352696135200307.jpg",
-      "https://img.olx.com.br/images/36/367609013631433.jpg"
-    ],
-    "id": "1481445587",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/shadow-of-the-tomb-raider-1481445587",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2024",
-    "titulo": "Shadow of The Tomb Raider",
-    "ts": 1777816859
   }
 ]
