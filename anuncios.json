@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498906129",
-    "titulo": "Playstation 5 Slim",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1398152755",
+    "titulo": "Assassins Creed Syndicate - Edição Limitada PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:17",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "13:19",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-5-slim-1498906129",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/assassins-creed-syndicate-edicao-limitada-ps4-1398152755",
+    "fotoUrl": "https://img.olx.com.br/images/19/193578152954668.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/193578152954668.jpg",
+      "https://img.olx.com.br/images/19/197515158895702.jpg",
+      "https://img.olx.com.br/images/19/193544874680608.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777825178
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:17",
     "fotoUrl": "https://img.olx.com.br/images/47/471625765889147.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/471625765889147.jpg",
       "https://img.olx.com.br/images/48/489652163486714.jpg",
       "https://img.olx.com.br/images/49/498660404890209.jpg"
     ],
-    "defeito": false,
+    "id": "1498906129",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-5-slim-1498906129",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Playstation 5 Slim",
     "ts": 1777825025
   },
   {
@@ -9819,23 +9839,5 @@
     "tempoOlx": "",
     "titulo": "Redmi Note 13 4g, 256gb, 8gb Ram",
     "ts": 1777786792
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:39",
-    "fotoUrl": "https://img.olx.com.br/images/87/874672517170774.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/874672517170774.jpg"
-    ],
-    "id": "1498236437",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-5-slim-1498236437",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 5 Slim",
-    "ts": 1777786790
   }
 ]
