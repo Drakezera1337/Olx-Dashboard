@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498984036",
-    "titulo": "Play 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1498984789",
+    "titulo": "Fica 21 PS4- Mídia física ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:29",
-    "tempoOlx": "Na OLX desde abril de 2024",
+    "detectado": "20:33",
+    "tempoOlx": "Na OLX desde outubro de 2023",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/play-4-1498984036",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fica-21-ps4-midia-fisica-1498984789",
+    "fotoUrl": "https://img.olx.com.br/images/65/655630282914388.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/655630282914388.jpg",
+      "https://img.olx.com.br/images/66/668633285409220.jpg",
+      "https://img.olx.com.br/images/68/681675408109132.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777851222
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:29",
     "fotoUrl": "https://img.olx.com.br/images/39/391684165685928.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/391684165685928.jpg"
     ],
-    "defeito": false,
+    "id": "1498984036",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/play-4-1498984036",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2024",
+    "titulo": "Play 4",
     "ts": 1777850950
   },
   {
@@ -9872,23 +9892,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Jogo PS4 - The Elder Scrolls - Mídia Física - Ótimo Estado - Funciona 100%",
     "ts": 1777823590
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:53",
-    "fotoUrl": "https://img.olx.com.br/images/65/656685605395690.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/656685605395690.jpg"
-    ],
-    "id": "1469209407",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-pes-2015-midia-fisica-otimo-estado-funciona-100-1469209407",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Jogo PS4 - Pes 2015 - Mídia Física - Ótimo Estado - Funciona 100%",
-    "ts": 1777823581
   }
 ]
