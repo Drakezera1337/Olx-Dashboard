@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490587657",
-    "titulo": "Jogo Horizon Zero Dawn PS4 Playstation 4",
-    "preco": 59,
-    "precoRaw": "R$ 59",
+    "id": "1490587871",
+    "titulo": "Jogo Horizon Zero Dawn Complete Edition PS4 Playstation 4",
+    "preco": 69,
+    "precoRaw": "R$ 69",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:20",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-horizon-zero-dawn-ps4-playstation-4-1490587657",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-horizon-zero-dawn-complete-edition-ps4-playstation-4-1490587871",
+    "fotoUrl": "https://img.olx.com.br/images/67/672631155539938.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/672631155539938.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777810853
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:20",
     "fotoUrl": "https://img.olx.com.br/images/11/117678035671535.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/117678035671535.jpg"
     ],
-    "defeito": false,
+    "id": "1490587657",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-horizon-zero-dawn-ps4-playstation-4-1490587657",
+    "preco": 59,
+    "precoRaw": "R$ 59",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Jogo Horizon Zero Dawn PS4 Playstation 4",
     "ts": 1777810843
   },
   {
@@ -9871,23 +9889,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "FIFA 20",
     "ts": 1777747728
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:48",
-    "fotoUrl": "https://img.olx.com.br/images/93/937670288327459.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/937670288327459.jpg"
-    ],
-    "id": "1498752947",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/driveclub-1498752947",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "DriveClub",
-    "ts": 1777747718
   }
 ]
