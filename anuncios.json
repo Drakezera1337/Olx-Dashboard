@@ -1,7 +1,7 @@
 [
   {
-    "id": "1498699817",
-    "titulo": "FIFA 15",
+    "id": "1498700414",
+    "titulo": "FIFA 17",
     "preco": 49,
     "precoRaw": "R$ 49",
     "categoria": "jogos",
@@ -9,14 +9,34 @@
     "detectado": "13:49",
     "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/fifa-15-1498699817",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/fifa-17-1498700414",
+    "fotoUrl": "https://img.olx.com.br/images/96/961628881061434.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/961628881061434.jpg",
+      "https://img.olx.com.br/images/13/139654282768858.jpg",
+      "https://img.olx.com.br/images/18/189617643659262.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777826963
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:49",
     "fotoUrl": "https://img.olx.com.br/images/73/738662521294395.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/738662521294395.jpg",
       "https://img.olx.com.br/images/75/758676523592047.jpg",
       "https://img.olx.com.br/images/82/824692409577576.jpg"
     ],
-    "defeito": false,
+    "id": "1498699817",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/fifa-15-1498699817",
+    "preco": 49,
+    "precoRaw": "R$ 49",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2025",
+    "titulo": "FIFA 15",
     "ts": 1777826954
   },
   {
@@ -9765,24 +9785,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS4/Playstation 4 Slim 1 TB",
-    "ts": 1777787058
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:44",
-    "fotoUrl": "https://img.olx.com.br/images/24/246609769598032.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/246609769598032.jpg"
-    ],
-    "id": "1498829561",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogos-e-variadors-1498829561",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogos e variadors",
     "ts": 1777787058
   }
 ]
