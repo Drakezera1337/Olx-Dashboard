@@ -1,20 +1,41 @@
 [
   {
-    "id": "1498442784",
-    "titulo": "Gran turismo Sport",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1498389862",
+    "titulo": "Ps4 slim",
+    "preco": 1170,
+    "precoRaw": "R$ 1.170",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:25",
     "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/gran-turismo-sport-1498442784",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-slim-1498389862",
+    "fotoUrl": "https://img.olx.com.br/images/42/429628284906896.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/429628284906896.jpg",
+      "https://img.olx.com.br/images/43/438637524469544.jpg",
+      "https://img.olx.com.br/images/44/441649640313070.jpg",
+      "https://img.olx.com.br/images/45/456621045343105.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777825551
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:25",
     "fotoUrl": "https://img.olx.com.br/images/12/129635285176338.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/129635285176338.jpg"
     ],
-    "defeito": false,
+    "id": "1498442784",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/gran-turismo-sport-1498442784",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Gran turismo Sport",
     "ts": 1777825542
   },
   {
@@ -9802,26 +9823,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Iphone 13Pro 512 GB ::: Avalio Bike como parte do pagamento",
-    "ts": 1777786807
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:40",
-    "fotoUrl": "https://img.olx.com.br/images/43/437673159394079.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/437673159394079.jpg",
-      "https://img.olx.com.br/images/45/459621519768998.jpg",
-      "https://img.olx.com.br/images/47/477608514097470.jpg"
-    ],
-    "id": "1498229672",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-mini-1498229672",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "IPhone 13 mini",
     "ts": 1777786807
   }
 ]
