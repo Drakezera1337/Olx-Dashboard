@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498943001",
-    "titulo": "Jogos de PS4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps4",
+    "id": "1498943451",
+    "titulo": "Vídeo game m15 ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "16:59",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "17:00",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-de-ps4-1498943001",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/video-game-m15-1498943451",
+    "fotoUrl": "https://img.olx.com.br/images/71/719659046351858.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/719659046351858.jpg",
+      "https://img.olx.com.br/images/74/747687645527768.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777838405
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:59",
     "fotoUrl": "https://img.olx.com.br/images/78/789683046554759.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/789683046554759.jpg",
       "https://img.olx.com.br/images/80/801675288251003.jpg"
     ],
-    "defeito": false,
+    "id": "1498943001",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-de-ps4-1498943001",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Jogos de PS4",
     "ts": 1777838391
   },
   {
@@ -9838,25 +9857,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Resident Evil 7 Biohazard - PS4",
     "ts": 1777818289
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:24",
-    "fotoUrl": "https://img.olx.com.br/images/95/952515641662041.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/952515641662041.jpg",
-      "https://img.olx.com.br/images/23/239508761489272.jpg",
-      "https://img.olx.com.br/images/23/231525402627693.jpg"
-    ],
-    "id": "1405617978",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/far-cry-4-signature-edition-ps4-1405617978",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Far Cry 4 Signature Edition (PS4)",
-    "ts": 1777818280
   }
 ]
