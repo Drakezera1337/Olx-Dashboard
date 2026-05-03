@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498362768",
-    "titulo": "PlayStation 5 ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1345445483",
+    "titulo": "Immortals Fenyx Rising- Ps4",
+    "preco": 49,
+    "precoRaw": "R$ 49",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "09:00",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "tempoOlx": "Na OLX desde setembro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/playstation-5-1498362768",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/immortals-fenyx-rising-ps4-1345445483",
+    "fotoUrl": "https://img.olx.com.br/images/30/307596591705197.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/307596591705197.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777809634
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:00",
     "fotoUrl": "https://img.olx.com.br/images/89/893641394890347.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/893641394890347.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/92/925673759502996.jpg",
       "https://img.olx.com.br/images/93/933688278780650.jpg"
     ],
-    "defeito": false,
+    "id": "1498362768",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/playstation-5-1498362768",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "PlayStation 5 ",
     "ts": 1777809626
   },
   {
@@ -9900,25 +9918,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": "Jogos de PS4",
     "ts": 1777742394
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:19",
-    "fotoUrl": "https://img.olx.com.br/images/45/455682884896593.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/455682884896593.jpg",
-      "https://img.olx.com.br/images/47/474607645032873.jpg",
-      "https://img.olx.com.br/images/48/483681761615087.jpg"
-    ],
-    "id": "1498736038",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-1498736038",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2019",
-    "titulo": "Ps4",
-    "ts": 1777742364
   }
 ]
