@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498752171",
-    "titulo": "CALL OF DUTY BLACK OPS III PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1498752442",
+    "titulo": "FIFA 20",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "13:53",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-iii-ps4-1498752171",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-1498752442",
+    "fotoUrl": "https://img.olx.com.br/images/81/817628526304984.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/817628526304984.jpg",
+      "https://img.olx.com.br/images/82/820677168785812.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777827237
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:53",
     "fotoUrl": "https://img.olx.com.br/images/62/621672289003350.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/621672289003350.jpg",
       "https://img.olx.com.br/images/63/630660288879164.jpg"
     ],
-    "defeito": false,
+    "id": "1498752171",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-iii-ps4-1498752171",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "CALL OF DUTY BLACK OPS III PS4",
     "ts": 1777827225
   },
   {
@@ -9765,24 +9784,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Playstation 5",
-    "ts": 1777787072
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:44",
-    "fotoUrl": "https://img.olx.com.br/images/86/869602169390377.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/869602169390377.jpg"
-    ],
-    "id": "1498542457",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-x-1498542457",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox one X",
     "ts": 1777787072
   }
 ]
