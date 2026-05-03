@@ -1,21 +1,39 @@
 [
   {
-    "id": "1397234460",
-    "titulo": "PS4 Detroit Become Human",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1498866830",
+    "titulo": "Ps3 CECH-2001A - luz vermelha ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "09:14",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps4-detroit-become-human-1397234460",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/ps3-cech-2001a-luz-vermelha-1498866830",
+    "fotoUrl": "https://img.olx.com.br/images/60/605686289030557.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/605686289030557.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777810483
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:14",
     "fotoUrl": "https://img.olx.com.br/images/94/946553516237732.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/946553516237732.jpg",
       "https://img.olx.com.br/images/94/946515152293844.jpg"
     ],
-    "defeito": false,
+    "id": "1397234460",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps4-detroit-become-human-1397234460",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "PS4 Detroit Become Human",
     "ts": 1777810476
   },
   {
@@ -9871,24 +9889,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "iPhone 13",
     "ts": 1777747588
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:46",
-    "fotoUrl": "https://img.olx.com.br/images/75/752641168950503.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/752641168950503.jpg",
-      "https://img.olx.com.br/images/77/779681520924944.jpg"
-    ],
-    "id": "1498752817",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498752817",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Series S",
-    "ts": 1777747560
   }
 ]
