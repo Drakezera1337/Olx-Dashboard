@@ -1,22 +1,41 @@
 [
   {
-    "id": "1498885611",
-    "titulo": "Xbox série S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1482314675",
+    "titulo": "Call of duty ps4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:29",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-serie-s-1498885611",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-ps4-1482314675",
+    "fotoUrl": "https://img.olx.com.br/images/86/863601501373809.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/863601501373809.jpg",
+      "https://img.olx.com.br/images/89/897683268670594.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777818583
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:29",
     "fotoUrl": "https://img.olx.com.br/images/72/720610165545170.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/720610165545170.jpg",
       "https://img.olx.com.br/images/73/738692406619976.jpg",
       "https://img.olx.com.br/images/74/744691644985802.jpg"
     ],
-    "defeito": false,
+    "id": "1498885611",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-serie-s-1498885611",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox série S",
     "ts": 1777818574
   },
   {
@@ -9857,28 +9876,5 @@
     "tempoOlx": "",
     "titulo": "Jogo ps4 Pes 21 ",
     "ts": 1777759038
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:53",
-    "fotoUrl": "https://img.olx.com.br/images/61/610628529046857.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/610628529046857.jpg",
-      "https://img.olx.com.br/images/63/632607648667292.jpg",
-      "https://img.olx.com.br/images/64/642667647453080.jpg",
-      "https://img.olx.com.br/images/65/657673527416344.jpg",
-      "https://img.olx.com.br/images/66/661655400812823.jpg",
-      "https://img.olx.com.br/images/68/686630402497713.jpg"
-    ],
-    "id": "1498788302",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-4-3-jogos-1498788302",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "PlayStation 4 + 3 jogos",
-    "ts": 1777758782
   }
 ]
