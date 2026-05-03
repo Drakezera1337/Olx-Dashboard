@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498895518",
-    "titulo": "Xbox serie S 512GB",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1498895549",
+    "titulo": "Nintendo Wii U Deluxe 32gb Desbloqueado",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "12:21",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-512gb-1498895518",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/nintendo-wii-u-deluxe-32gb-desbloqueado-1498895549",
+    "fotoUrl": "https://img.olx.com.br/images/62/626635041354264.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/626635041354264.jpg",
+      "https://img.olx.com.br/images/66/660601402383557.jpg",
+      "https://img.olx.com.br/images/68/685684648964214.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777821675
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:21",
     "fotoUrl": "https://img.olx.com.br/images/85/853663283938180.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/853663283938180.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/93/934611523796564.jpg",
       "https://img.olx.com.br/images/95/959645287883425.jpg"
     ],
-    "defeito": false,
+    "id": "1498895518",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-512gb-1498895518",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "Xbox serie S 512GB",
     "ts": 1777821666
   },
   {
@@ -9847,24 +9867,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Jogos ps4 ",
     "ts": 1777763984
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:19",
-    "fotoUrl": "https://img.olx.com.br/images/46/467602763853648.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/467602763853648.jpg",
-      "https://img.olx.com.br/images/49/497602521915883.jpg"
-    ],
-    "id": "1498800145",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/mafia-definitive-edition-ps4-lacrado-1498800145",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2020",
-    "titulo": "Mafia Definitive Edition PS4 Lacrado",
-    "ts": 1777763973
   }
 ]
