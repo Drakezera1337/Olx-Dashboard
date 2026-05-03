@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498978784",
-    "titulo": "Nintendo switch lite",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1370159984",
+    "titulo": "Diablo 3 Reaper Of Souls Ultimate Evil Edition (PS4)",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:58",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "detectado": "20:09",
+    "tempoOlx": "Na OLX desde novembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1498978784",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/diablo-3-reaper-of-souls-ultimate-evil-edition-ps4-1370159984",
+    "fotoUrl": "https://img.olx.com.br/images/63/638582120759148.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/638582120759148.jpg",
+      "https://img.olx.com.br/images/66/668554723641112.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777849779
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:58",
     "fotoUrl": "https://img.olx.com.br/images/92/920667409274087.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/920667409274087.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/93/932643889876786.jpg",
       "https://img.olx.com.br/images/94/940609641213497.jpg"
     ],
-    "defeito": false,
+    "id": "1498978784",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1498978784",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Nintendo switch lite",
     "ts": 1777849130
   },
   {
@@ -9867,23 +9886,5 @@
     "tempoOlx": "Na OLX desde novembro de 2016",
     "titulo": "? 2 Jogos PS3 Originais - R$50 os dois",
     "ts": 1777823189
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:46",
-    "fotoUrl": "https://img.olx.com.br/images/47/475616525490243.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/475616525490243.jpg"
-    ],
-    "id": "1498558941",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/god-of-war-ps4-lacrado-1498558941",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2016",
-    "titulo": "God of war ps4 lacrado",
-    "ts": 1777823180
   }
 ]
