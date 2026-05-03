@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498507792",
-    "titulo": "FIFA 20",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1498507446",
+    "titulo": "FIFA 22",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "13:33",
     "tempoOlx": "Na OLX desde outubro de 2022",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-20-1498507792",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-22-1498507446",
+    "fotoUrl": "https://img.olx.com.br/images/32/321692888902636.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/321692888902636.jpg",
+      "https://img.olx.com.br/images/34/343679521926128.jpg",
+      "https://img.olx.com.br/images/35/357605645062212.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777826012
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:33",
     "fotoUrl": "https://img.olx.com.br/images/42/421630282500812.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/421630282500812.jpg",
       "https://img.olx.com.br/images/43/432676401306539.jpg",
       "https://img.olx.com.br/images/45/452681527850127.jpg"
     ],
-    "defeito": false,
+    "id": "1498507792",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-20-1498507792",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "FIFA 20",
     "ts": 1777826002
   },
   {
@@ -9801,24 +9821,5 @@
     "tempoOlx": "",
     "titulo": "Caixa manual e berço Nintendo Switch Lite Grey",
     "ts": 1777786889
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:41",
-    "fotoUrl": "https://img.olx.com.br/images/92/925633387688800.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/925633387688800.jpg",
-      "https://img.olx.com.br/images/93/930628622742287.jpg"
-    ],
-    "id": "1489792193",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/skylanders-imaginators-switch-rarissimo-1489792193",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Skylanders Imaginators Switch (raríssimo)",
-    "ts": 1777786882
   }
 ]
