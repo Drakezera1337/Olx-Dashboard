@@ -1,21 +1,43 @@
 [
   {
-    "id": "1487851438",
-    "titulo": "Playstation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1498893287",
+    "titulo": "PlayStation 4 Slim 1TB c/ 8 Jogos",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:04",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "detectado": "12:05",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1487851438",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-c-8-jogos-1498893287",
+    "fotoUrl": "https://img.olx.com.br/images/37/377612168605147.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/377612168605147.jpg",
+      "https://img.olx.com.br/images/40/406643167949779.jpg",
+      "https://img.olx.com.br/images/41/412668648067270.jpg",
+      "https://img.olx.com.br/images/43/435630400796504.jpg",
+      "https://img.olx.com.br/images/44/442693648199853.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777820704
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:04",
     "fotoUrl": "https://img.olx.com.br/images/25/253600275391297.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/253600275391297.jpg",
       "https://img.olx.com.br/images/35/353646280963382.jpg"
     ],
-    "defeito": false,
+    "id": "1487851438",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1487851438",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "Playstation 4",
     "ts": 1777820645
   },
   {
@@ -9871,23 +9893,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Ps4 FAT (Com defeito)",
     "ts": 1777762313
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:49",
-    "fotoUrl": "https://img.olx.com.br/images/77/779619043427684.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/779619043427684.jpg"
-    ],
-    "id": "1498795645",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1498795645",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Jogos PS4",
-    "ts": 1777762193
   }
 ]
