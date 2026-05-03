@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498943451",
-    "titulo": "Vídeo game m15 ",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "outros",
+    "id": "1498944112",
+    "titulo": "Ps4",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:00",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "detectado": "17:03",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/video-game-m15-1498943451",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1498944112",
+    "fotoUrl": "https://img.olx.com.br/images/49/497633161930349.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/497633161930349.jpg",
+      "https://img.olx.com.br/images/50/506604164479992.jpg",
+      "https://img.olx.com.br/images/52/529654286814917.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777838590
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:00",
     "fotoUrl": "https://img.olx.com.br/images/71/719659046351858.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/719659046351858.jpg",
       "https://img.olx.com.br/images/74/747687645527768.jpg"
     ],
-    "defeito": false,
+    "id": "1498943451",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/video-game-m15-1498943451",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "Vídeo game m15 ",
     "ts": 1777838405
   },
   {
@@ -9837,25 +9857,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "Vende-se PSA DESBLOQUEADO 12.00",
     "ts": 1777818424
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:24",
-    "fotoUrl": "https://img.olx.com.br/images/25/252521528368863.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/252521528368863.jpg",
-      "https://img.olx.com.br/images/25/250520520849653.jpg",
-      "https://img.olx.com.br/images/25/254516161680482.jpg"
-    ],
-    "id": "1405619005",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/resident-evil-7-biohazard-ps4-1405619005",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Resident Evil 7 Biohazard - PS4",
-    "ts": 1777818289
   }
 ]
