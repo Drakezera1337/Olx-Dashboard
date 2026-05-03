@@ -1,22 +1,42 @@
 [
   {
-    "id": "1490677256",
-    "titulo": "Death Stranding ",
+    "id": "1490677497",
+    "titulo": "Spider-man ",
     "preco": 130,
     "precoRaw": "R$ 130",
-    "categoria": "outros",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "09:02",
     "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/death-stranding-1490677256",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/spider-man-1490677497",
+    "fotoUrl": "https://img.olx.com.br/images/90/905640631325056.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/905640631325056.jpg",
+      "https://img.olx.com.br/images/91/914628155604054.jpg",
+      "https://img.olx.com.br/images/93/931657871258243.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777809739
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:02",
     "fotoUrl": "https://img.olx.com.br/images/13/137619751223195.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/137619751223195.jpg",
       "https://img.olx.com.br/images/15/150643039729943.jpg",
       "https://img.olx.com.br/images/17/173691511482046.jpg"
     ],
-    "defeito": false,
+    "id": "1490677256",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/death-stranding-1490677256",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Death Stranding ",
     "ts": 1777809729
   },
   {
@@ -9895,23 +9915,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Fifa 16",
     "ts": 1777744175
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:49",
-    "fotoUrl": "https://img.olx.com.br/images/40/407655509964807.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/407655509964807.jpg"
-    ],
-    "id": "1486534448",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/immortals-fenyx-rising-1486534448",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Immortals Fenyx rising ",
-    "ts": 1777744164
   }
 ]
