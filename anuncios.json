@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498903336",
-    "titulo": "Playstation 3",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps3",
+    "id": "1498903622",
+    "titulo": "Jogos ps4",
+    "preco": 85,
+    "precoRaw": "R$ 85",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:00",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "13:02",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1498903336",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1498903622",
+    "fotoUrl": "https://img.olx.com.br/images/79/798673642504375.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/798673642504375.jpg",
+      "https://img.olx.com.br/images/81/819604523240527.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777824128
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:00",
     "fotoUrl": "https://img.olx.com.br/images/66/663660645925952.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/663660645925952.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/69/697620529456658.jpg",
       "https://img.olx.com.br/images/70/705648522026617.jpg"
     ],
-    "defeito": false,
+    "id": "1498903336",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1498903336",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Playstation 3",
     "ts": 1777824053
   },
   {
@@ -9818,25 +9837,5 @@
     "tempoOlx": "Na OLX desde maio de 2025",
     "titulo": "PS4 Pro - PES2018",
     "ts": 1777776841
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:42",
-    "fotoUrl": "https://img.olx.com.br/images/99/990659525070270.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/990659525070270.jpg",
-      "https://img.olx.com.br/images/11/112630160075035.jpg",
-      "https://img.olx.com.br/images/12/127639768137785.jpg"
-    ],
-    "id": "1498823346",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/minecraft-midia-fisica-jogos-ps4-1498823346",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Minecraft midia fisica Jogos PS4",
-    "ts": 1777776178
   }
 ]
