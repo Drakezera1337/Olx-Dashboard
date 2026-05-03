@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498966523",
-    "titulo": "PES 2019 PlayStation 4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1498966339",
+    "titulo": "Jogos",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:39",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "tempoOlx": "Na OLX desde junho de 2017",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/pes-2019-playstation-4-1498966523",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-1498966339",
+    "fotoUrl": "https://img.olx.com.br/images/10/106641282901020.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/106641282901020.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777844386
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:39",
     "fotoUrl": "https://img.olx.com.br/images/48/483615645283142.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/483615645283142.jpg",
       "https://img.olx.com.br/images/50/501684284964746.jpg",
       "https://img.olx.com.br/images/51/512653286738312.jpg"
     ],
-    "defeito": false,
+    "id": "1498966523",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/pes-2019-playstation-4-1498966523",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "PES 2019 PlayStation 4",
     "ts": 1777844377
   },
   {
@@ -9829,23 +9847,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "METAL GEAR - PS4",
     "ts": 1777821639
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:20",
-    "fotoUrl": "https://img.olx.com.br/images/92/924685269497365.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/924685269497365.jpg"
-    ],
-    "id": "1489069872",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/lego-vingadores-ps4-1489069872",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "LEGO VINGADORES PS4",
-    "ts": 1777821631
   }
 ]
