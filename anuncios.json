@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498819735",
-    "titulo": "PS3",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps3",
+    "id": "1498819718",
+    "titulo": "PS4 + 2 JOYSTICKS + JOGOS",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:55",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "detectado": "22:56",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/ps3-1498819735",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-2-joysticks-jogos-1498819718",
+    "fotoUrl": "https://img.olx.com.br/images/93/939687642742342.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/939687642742342.jpg",
+      "https://img.olx.com.br/images/94/940638762390799.jpg",
+      "https://img.olx.com.br/images/96/962670402329705.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777773418
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:55",
     "fotoUrl": "https://img.olx.com.br/images/29/292660522417496.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/292660522417496.jpg"
     ],
-    "defeito": false,
+    "id": "1498819735",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/ps3-1498819735",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "titulo": "PS3",
     "ts": 1777773354
   },
   {
@@ -9803,23 +9823,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "VENDO LOTE JOGOS PS4",
     "ts": 1777731271
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:14",
-    "fotoUrl": "https://img.olx.com.br/images/18/188688036605811.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/188688036605811.jpg"
-    ],
-    "id": "1490734115",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/jogos-ps3-ps4-e-ps5-1490734115",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "Jogos PS3, PS4 e PS5 ",
-    "ts": 1777731265
   }
 ]
