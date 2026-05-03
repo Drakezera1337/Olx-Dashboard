@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498927941",
-    "titulo": "Astrobot PS5",
-    "preco": 190,
-    "precoRaw": "R$ 190",
-    "categoria": "ps5",
+    "id": "1498928548",
+    "titulo": "jogos de ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:28",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "15:29",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/astrobot-ps5-1498927941",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1498928548",
+    "fotoUrl": "https://img.olx.com.br/images/40/406686529211181.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/406686529211181.jpg",
+      "https://img.olx.com.br/images/43/439619641447122.jpg",
+      "https://img.olx.com.br/images/47/474654289629828.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777832976
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:28",
     "fotoUrl": "https://img.olx.com.br/images/22/228652649035990.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/228652649035990.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/24/244613769210845.jpg",
       "https://img.olx.com.br/images/25/255653764405001.jpg"
     ],
-    "defeito": false,
+    "id": "1498927941",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/astrobot-ps5-1498927941",
+    "preco": 190,
+    "precoRaw": "R$ 190",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Astrobot PS5",
     "ts": 1777832918
   },
   {
@@ -9846,28 +9866,5 @@
     "tempoOlx": "Na OLX desde setembro de 2020",
     "titulo": "Fifa 15 Ps4 original seminovo Playstation 4",
     "ts": 1777812998
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:56",
-    "fotoUrl": "https://img.olx.com.br/images/90/907651148623965.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/907651148623965.jpg",
-      "https://img.olx.com.br/images/92/921649382945671.jpg",
-      "https://img.olx.com.br/images/94/947626023003346.jpg",
-      "https://img.olx.com.br/images/95/955672741024788.jpg",
-      "https://img.olx.com.br/images/97/978690501716848.jpg",
-      "https://img.olx.com.br/images/98/986626501859018.jpg"
-    ],
-    "id": "1482285861",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/farcry-4-ps4-original-seminovo-far-cry-4-playstation-4-1482285861",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "Farcry 4 Ps4 original seminovo Far cry 4 Playstation 4",
-    "ts": 1777812989
   }
 ]
