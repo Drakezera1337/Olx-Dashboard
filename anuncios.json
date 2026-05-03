@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498937024",
-    "titulo": "Playstation 4 FAT 500GB + 4 jogos",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1498938434",
+    "titulo": "Xbox series S ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "16:24",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "detectado": "16:25",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-fat-500gb-4-jogos-1498937024",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1498938434",
+    "fotoUrl": "https://img.olx.com.br/images/50/506678166419003.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/506678166419003.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777836305
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:24",
     "fotoUrl": "https://img.olx.com.br/images/63/632625527826934.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/632625527826934.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/63/633623883060920.jpg",
       "https://img.olx.com.br/images/63/633615401545883.jpg"
     ],
-    "defeito": false,
+    "id": "1498937024",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-fat-500gb-4-jogos-1498937024",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Playstation 4 FAT 500GB + 4 jogos",
     "ts": 1777836283
   },
   {
@@ -9845,26 +9863,5 @@
     "tempoOlx": "Na OLX desde agosto de 2024",
     "titulo": "Shadow of The Tomb Raider",
     "ts": 1777816859
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:00",
-    "fotoUrl": "https://img.olx.com.br/images/57/577691762149194.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/577691762149194.jpg",
-      "https://img.olx.com.br/images/58/580648287977921.jpg",
-      "https://img.olx.com.br/images/60/604693522587732.jpg",
-      "https://img.olx.com.br/images/61/611606164309377.jpg"
-    ],
-    "id": "1498880834",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/god-of-war-ragnarok-1498880834",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2023",
-    "titulo": "GOD OF WAR RAGNAROK",
-    "ts": 1777816849
   }
 ]
