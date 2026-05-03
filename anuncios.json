@@ -1,15 +1,32 @@
 [
   {
-    "id": "1444710240",
-    "titulo": "Jogos PS4 mídia física ",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "categoria": "ps4",
+    "id": "1498662982",
+    "titulo": "XBOX SERIES S C DEFEITO ",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "23:37",
-    "tempoOlx": "Na OLX desde outubro de 2021",
+    "detectado": "23:38",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-midia-fisica-1444710240",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/xbox-series-s-c-defeito-1498662982",
+    "fotoUrl": "https://img.olx.com.br/images/95/950647168186136.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/950647168186136.jpg",
+      "https://img.olx.com.br/images/97/975620648673151.jpg",
+      "https://img.olx.com.br/images/10/106677760687176.jpg",
+      "https://img.olx.com.br/images/12/120686646813453.jpg",
+      "https://img.olx.com.br/images/14/140624285735867.jpg",
+      "https://img.olx.com.br/images/17/174682401514750.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777775906
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:37",
     "fotoUrl": "https://img.olx.com.br/images/39/391551690704443.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/391551690704443.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/42/424586575762675.jpg",
       "https://img.olx.com.br/images/43/431559695564674.jpg"
     ],
-    "defeito": false,
+    "id": "1444710240",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-midia-fisica-1444710240",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "Jogos PS4 mídia física ",
     "ts": 1777775831
   },
   {
@@ -9811,23 +9834,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "Jogo Doom Eternal de PS4",
     "ts": 1777731335
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:15",
-    "fotoUrl": "https://img.olx.com.br/images/84/843569520917754.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/843569520917754.jpg"
-    ],
-    "id": "1404977429",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/resident-evil-3-ps4-ps5-lacrado-1404977429",
-    "preco": 175,
-    "precoRaw": "R$ 175",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Resident Evil 3 - PS4 / PS5- Lacrado",
-    "ts": 1777731325
   }
 ]
