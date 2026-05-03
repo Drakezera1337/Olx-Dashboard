@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498971287",
-    "titulo": "Jogos para PS4 (valores diferentes para cada jogo)",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1498971072",
+    "titulo": "PS4 SLIM",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:09",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-para-ps4-valores-diferentes-para-cada-jogo-1498971287",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-slim-1498971072",
+    "fotoUrl": "https://img.olx.com.br/images/58/584640047564745.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/584640047564745.jpg",
+      "https://img.olx.com.br/images/64/641671042262127.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777846158
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:09",
     "fotoUrl": "https://img.olx.com.br/images/10/106602281058491.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/106602281058491.jpg"
     ],
-    "defeito": false,
+    "id": "1498971287",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-para-ps4-valores-diferentes-para-cada-jogo-1498971287",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "Jogos para PS4 (valores diferentes para cada jogo)",
     "ts": 1777846149
   },
   {
@@ -9840,27 +9859,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Jogos ps4 / ps5 ",
     "ts": 1777822039
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:27",
-    "fotoUrl": "https://img.olx.com.br/images/16/166566456005492.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/166566456005492.jpg",
-      "https://img.olx.com.br/images/18/184568571974573.jpg",
-      "https://img.olx.com.br/images/20/202556215532490.jpg",
-      "https://img.olx.com.br/images/22/227538456276180.jpg",
-      "https://img.olx.com.br/images/24/242538459381377.jpg"
-    ],
-    "id": "1445654067",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/cyberpunk-ps4-1445654067",
-    "preco": 119,
-    "precoRaw": "R$ 119",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Cyberpunk Ps4",
-    "ts": 1777822024
   }
 ]
