@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498929923",
-    "titulo": "Fifa 18",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "jogos",
+    "id": "1498930740",
+    "titulo": "Vendo iPhone 13",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "15:42",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "detectado": "15:43",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-18-1498929923",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-13-1498930740",
+    "fotoUrl": "https://img.olx.com.br/images/50/500659041783683.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/500659041783683.jpg",
+      "https://img.olx.com.br/images/52/520655402166167.jpg",
+      "https://img.olx.com.br/images/55/550601646551316.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777833816
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:42",
     "fotoUrl": "https://img.olx.com.br/images/39/394673163331588.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/394673163331588.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/42/420666282942593.jpg",
       "https://img.olx.com.br/images/44/442698760388212.jpg"
     ],
-    "defeito": false,
+    "id": "1498929923",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-18-1498929923",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Fifa 18",
     "ts": 1777833735
   },
   {
@@ -9833,25 +9853,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogo TT Isle of Man PS4 ",
     "ts": 1777813374
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:02",
-    "fotoUrl": "https://img.olx.com.br/images/82/820625148622157.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/820625148622157.jpg",
-      "https://img.olx.com.br/images/90/907678629045214.jpg",
-      "https://img.olx.com.br/images/10/105666267827300.jpg"
-    ],
-    "id": "1482251243",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-farming-simulator-15-ps4-1482251243",
-    "preco": 189,
-    "precoRaw": "R$ 189",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Jogo Farming Simulator 15 PS4",
-    "ts": 1777813364
   }
 ]
