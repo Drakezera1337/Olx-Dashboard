@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498978083",
-    "titulo": "IPhone 15 Plus",
-    "preco": 3300,
-    "precoRaw": "R$ 3.300",
-    "categoria": "iphone",
+    "id": "1498978125",
+    "titulo": "OCULOS DE REALIDADE VIRTUAL, QUEST 2",
+    "preco": 2499,
+    "precoRaw": "R$ 2.499",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:55",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "detectado": "19:56",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-plus-1498978083",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/oculos-de-realidade-virtual-quest-2-1498978125",
+    "fotoUrl": "https://img.olx.com.br/images/61/610616526347865.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/610616526347865.jpg",
+      "https://img.olx.com.br/images/63/635633403446703.jpg",
+      "https://img.olx.com.br/images/65/659694400091348.jpg",
+      "https://img.olx.com.br/images/67/675603643246051.jpg",
+      "https://img.olx.com.br/images/68/682649404419272.jpg",
+      "https://img.olx.com.br/images/70/705662286102762.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777849000
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:55",
     "fotoUrl": "https://img.olx.com.br/images/89/895682769559074.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/895682769559074.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/96/969659765482404.jpg",
       "https://img.olx.com.br/images/78/787664763883869.jpg"
     ],
-    "defeito": false,
+    "id": "1498978083",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-plus-1498978083",
+    "preco": 3300,
+    "precoRaw": "R$ 3.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "IPhone 15 Plus",
     "ts": 1777848910
   },
   {
@@ -9860,23 +9883,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "FIFA 19 - PS4",
     "ts": 1777823139
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:45",
-    "fotoUrl": "https://img.olx.com.br/images/64/644539458421659.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/644539458421659.jpg"
-    ],
-    "id": "1448930306",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/minecraft-ps4-1448930306",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "MINECRAFT - PS4",
-    "ts": 1777823128
   }
 ]
