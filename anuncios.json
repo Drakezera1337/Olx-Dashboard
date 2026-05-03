@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498926805",
-    "titulo": "Ps4",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1498927762",
+    "titulo": "Spider man ps4 miles morales",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:19",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "detectado": "15:23",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps4-1498926805",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/spider-man-ps4-miles-morales-1498927762",
+    "fotoUrl": "https://img.olx.com.br/images/63/633665168235869.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/633665168235869.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777832615
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:19",
     "fotoUrl": "https://img.olx.com.br/images/47/475632280336410.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/475632280336410.jpg"
     ],
-    "defeito": false,
+    "id": "1498926805",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps4-1498926805",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "Ps4",
     "ts": 1777832345
   },
   {
@@ -9851,24 +9869,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Jogos PS4 / novos e seminovos",
     "ts": 1777812750
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:52",
-    "fotoUrl": "https://img.olx.com.br/images/44/444645768676570.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/444645768676570.jpg",
-      "https://img.olx.com.br/images/47/471628288881150.jpg"
-    ],
-    "id": "1490489901",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/the-evil-within-1-ps4-1490489901",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "THE EVIL WITHIN 1 - PS4",
-    "ts": 1777812739
   }
 ]
