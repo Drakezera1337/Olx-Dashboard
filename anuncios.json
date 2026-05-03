@@ -1,21 +1,43 @@
 [
   {
-    "id": "1498913407",
-    "titulo": "PlayStation 4 Fat",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "categoria": "ps4",
+    "id": "1496932929",
+    "titulo": "Xbox",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "13:57",
-    "tempoOlx": "Na OLX desde outubro de 2014",
+    "detectado": "13:59",
+    "tempoOlx": "Na OLX desde maio de 2023",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-4-fat-1498913407",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-1496932929",
+    "fotoUrl": "https://img.olx.com.br/images/46/463679398337469.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/463679398337469.jpg",
+      "https://img.olx.com.br/images/46/466646516236353.jpg",
+      "https://img.olx.com.br/images/47/478648150837465.jpg",
+      "https://img.olx.com.br/images/48/481628032630785.jpg",
+      "https://img.olx.com.br/images/49/497685753188622.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777827546
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:57",
     "fotoUrl": "https://img.olx.com.br/images/41/419684762606840.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/419684762606840.jpg",
       "https://img.olx.com.br/images/43/439656161484019.jpg"
     ],
-    "defeito": false,
+    "id": "1498913407",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-4-fat-1498913407",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "titulo": "PlayStation 4 Fat",
     "ts": 1777827456
   },
   {
@@ -9764,25 +9786,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2023",
     "titulo": "guitar hero ps3 ",
     "ts": 1777809684
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:01",
-    "fotoUrl": "https://img.olx.com.br/images/46/467657042636697.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/467657042636697.jpg",
-      "https://img.olx.com.br/images/47/475614521529316.jpg",
-      "https://img.olx.com.br/images/48/486651769306262.jpg"
-    ],
-    "id": "1498865440",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/ps3-fat-ylod-1498865440",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2019",
-    "titulo": "Ps3 Fat ylod",
-    "ts": 1777809674
   }
 ]
