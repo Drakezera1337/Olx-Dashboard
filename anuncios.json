@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498912384",
-    "titulo": "PlayStation 5 edição digital",
-    "preco": 2599,
-    "precoRaw": "R$ 2.599",
-    "categoria": "ps5",
+    "id": "1498913407",
+    "titulo": "PlayStation 4 Fat",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:57",
-    "tempoOlx": "Na OLX desde junho de 2025",
+    "tempoOlx": "Na OLX desde outubro de 2014",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/playstation-5-edicao-digital-1498912384",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-4-fat-1498913407",
+    "fotoUrl": "https://img.olx.com.br/images/41/419684762606840.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/419684762606840.jpg",
+      "https://img.olx.com.br/images/43/439656161484019.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777827456
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:57",
     "fotoUrl": "https://img.olx.com.br/images/42/420673162403273.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/420673162403273.jpg",
       "https://img.olx.com.br/images/44/440672281394420.jpg"
     ],
-    "defeito": false,
+    "id": "1498912384",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/playstation-5-edicao-digital-1498912384",
+    "preco": 2599,
+    "precoRaw": "R$ 2.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2025",
+    "titulo": "PlayStation 5 edição digital",
     "ts": 1777827427
   },
   {
@@ -9765,24 +9784,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "Ps3 Fat ylod",
     "ts": 1777809674
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:01",
-    "fotoUrl": "https://img.olx.com.br/images/47/471681646247911.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/471681646247911.jpg",
-      "https://img.olx.com.br/images/49/499666529621681.jpg"
-    ],
-    "id": "1498840094",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-1498840094",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "Xbox Series S",
-    "ts": 1777809665
   }
 ]
