@@ -1,22 +1,41 @@
 [
   {
-    "id": "1498943296",
-    "titulo": "Jogos Originais Playstation 4 e 5",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1498943001",
+    "titulo": "Jogos de PS4",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "16:59",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "tempoOlx": "Na OLX desde julho de 2016",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-originais-playstation-4-e-5-1498943296",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-de-ps4-1498943001",
+    "fotoUrl": "https://img.olx.com.br/images/78/789683046554759.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/789683046554759.jpg",
+      "https://img.olx.com.br/images/80/801675288251003.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777838391
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:59",
     "fotoUrl": "https://img.olx.com.br/images/98/986617402631321.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/986617402631321.jpg",
       "https://img.olx.com.br/images/98/986651164143630.jpg",
       "https://img.olx.com.br/images/97/979665161993016.jpg"
     ],
-    "defeito": false,
+    "id": "1498943296",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-originais-playstation-4-e-5-1498943296",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "Jogos Originais Playstation 4 e 5",
     "ts": 1777838381
   },
   {
@@ -9839,25 +9858,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Far Cry 4 Signature Edition (PS4)",
     "ts": 1777818280
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:24",
-    "fotoUrl": "https://img.olx.com.br/images/30/300507761585923.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/300507761585923.jpg",
-      "https://img.olx.com.br/images/31/315578164187489.jpg",
-      "https://img.olx.com.br/images/30/303564283262522.jpg"
-    ],
-    "id": "1405618354",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/star-wars-battlefront-ps4-1405618354",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Star Wars: Battlefront (PS4)",
-    "ts": 1777818273
   }
 ]
