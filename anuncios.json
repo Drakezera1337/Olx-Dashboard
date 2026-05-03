@@ -1,20 +1,43 @@
 [
   {
-    "id": "1498894836",
-    "titulo": "METAL GEAR - PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1498895518",
+    "titulo": "Xbox serie S 512GB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:20",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "12:21",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/metal-gear-ps4-1498894836",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-512gb-1498895518",
+    "fotoUrl": "https://img.olx.com.br/images/85/853663283938180.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/853663283938180.jpg",
+      "https://img.olx.com.br/images/87/878649648728243.jpg",
+      "https://img.olx.com.br/images/89/898629286414191.jpg",
+      "https://img.olx.com.br/images/91/910691763348158.jpg",
+      "https://img.olx.com.br/images/93/934611523796564.jpg",
+      "https://img.olx.com.br/images/95/959645287883425.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777821666
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:20",
     "fotoUrl": "https://img.olx.com.br/images/72/725698641435828.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/725698641435828.jpg"
     ],
-    "defeito": false,
+    "id": "1498894836",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/metal-gear-ps4-1498894836",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "METAL GEAR - PS4",
     "ts": 1777821639
   },
   {
@@ -9843,23 +9866,5 @@
     "tempoOlx": "Na OLX desde outubro de 2020",
     "titulo": "Mafia Definitive Edition PS4 Lacrado",
     "ts": 1777763973
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:19",
-    "fotoUrl": "https://img.olx.com.br/images/54/549630769529368.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/549630769529368.jpg"
-    ],
-    "id": "1498799965",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-serie-s-com-2-controles-1498799965",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "Xbox série S com 2 controles",
-    "ts": 1777763963
   }
 ]
