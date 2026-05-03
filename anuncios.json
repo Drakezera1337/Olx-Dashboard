@@ -1,22 +1,45 @@
 [
   {
-    "id": "1498812984",
-    "titulo": "Ps4 ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1498812959",
+    "titulo": "Jogos PS4 ",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:57",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "tempoOlx": "Na OLX desde maio de 2013",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1498812984",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1498812959",
+    "fotoUrl": "https://img.olx.com.br/images/21/211630647421103.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/211630647421103.jpg",
+      "https://img.olx.com.br/images/22/227688527463393.jpg",
+      "https://img.olx.com.br/images/24/242656041910662.jpg",
+      "https://img.olx.com.br/images/26/264665281714149.jpg",
+      "https://img.olx.com.br/images/27/276644520530843.jpg",
+      "https://img.olx.com.br/images/28/283690521536768.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777769833
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:57",
     "fotoUrl": "https://img.olx.com.br/images/95/956604162385256.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/956604162385256.jpg",
       "https://img.olx.com.br/images/98/982610403697616.jpg",
       "https://img.olx.com.br/images/10/104682163254611.jpg"
     ],
-    "defeito": false,
+    "id": "1498812984",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1498812984",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "Ps4 ",
     "ts": 1777769824
   },
   {
@@ -9805,27 +9828,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2023",
     "titulo": "Gravity Rush 2 Ps4 - jogo para PlayStation 4",
     "ts": 1777731086
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:11",
-    "fotoUrl": "https://img.olx.com.br/images/67/678562333467493.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/678562333467493.jpg",
-      "https://img.olx.com.br/images/67/679554816383317.jpg",
-      "https://img.olx.com.br/images/66/669591810964311.jpg",
-      "https://img.olx.com.br/images/77/776573216680469.jpg",
-      "https://img.olx.com.br/images/46/466536818562032.jpg"
-    ],
-    "id": "1447353427",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/tunic-ps4-ps5-deluxe-edition-lacrado-1447353427",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2025",
-    "titulo": "Tunic PS4 PS5 Deluxe Edition LACRADO",
-    "ts": 1777731078
   }
 ]
