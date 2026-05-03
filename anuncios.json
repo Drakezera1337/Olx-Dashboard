@@ -1,15 +1,30 @@
 [
   {
-    "id": "1498925839",
-    "titulo": "Jogo de ps3 batman arkham asylum ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps3",
+    "id": "1498925562",
+    "titulo": "Days Gone",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "15:11",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogo-de-ps3-batman-arkham-asylum-1498925839",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/days-gone-1498925562",
+    "fotoUrl": "https://img.olx.com.br/images/28/280622643767408.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/280622643767408.jpg",
+      "https://img.olx.com.br/images/29/295605886951006.jpg",
+      "https://img.olx.com.br/images/30/301647649857643.jpg",
+      "https://img.olx.com.br/images/31/316620167041448.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777831906
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:11",
     "fotoUrl": "https://img.olx.com.br/images/13/137628162811236.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/137628162811236.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/16/160654528879424.jpg",
       "https://img.olx.com.br/images/17/179695404870161.jpg"
     ],
-    "defeito": false,
+    "id": "1498925839",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogo-de-ps3-batman-arkham-asylum-1498925839",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Jogo de ps3 batman arkham asylum ",
     "ts": 1777831896
   },
   {
@@ -9839,25 +9860,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Ghost Recon BREAKPOINT - PS4",
     "ts": 1777812635
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:44",
-    "fotoUrl": "https://img.olx.com.br/images/34/349692743926440.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/349692743926440.jpg",
-      "https://img.olx.com.br/images/34/345695025439704.jpg",
-      "https://img.olx.com.br/images/34/341607628445820.jpg"
-    ],
-    "id": "1482020028",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-medievil-1482020028",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Jogo PS4 - MediEvil",
-    "ts": 1777812287
   }
 ]
