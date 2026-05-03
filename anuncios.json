@@ -1,20 +1,42 @@
 [
   {
-    "id": "1498827353",
-    "titulo": "Ps3 - funcionando normalmente, porém sem controles ",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "ps3",
+    "id": "1498827594",
+    "titulo": "Ps4 slim ",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:48",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "detectado": "00:53",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-funcionando-normalmente-porem-sem-controles-1498827353",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-slim-1498827594",
+    "fotoUrl": "https://img.olx.com.br/images/31/313690641723154.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/313690641723154.jpg",
+      "https://img.olx.com.br/images/33/330646286214754.jpg",
+      "https://img.olx.com.br/images/34/344694764879418.jpg",
+      "https://img.olx.com.br/images/35/355689649172535.jpg",
+      "https://img.olx.com.br/images/36/365618289782343.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777780434
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:48",
     "fotoUrl": "https://img.olx.com.br/images/11/117688406193291.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/117688406193291.jpg"
     ],
-    "defeito": false,
+    "id": "1498827353",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-funcionando-normalmente-porem-sem-controles-1498827353",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Ps3 - funcionando normalmente, porém sem controles ",
     "ts": 1777780103
   },
   {
@@ -9842,23 +9864,5 @@
     "tempoOlx": "Na OLX desde junho de 2020",
     "titulo": "Red Dead Redemption II Collectors Edition<br>4270 reais. ",
     "ts": 1777732132
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:23",
-    "fotoUrl": "https://img.olx.com.br/images/50/507648528370169.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/507648528370169.jpg"
-    ],
-    "id": "1498683288",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/playstation-4-1498683288",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "PlayStation 4",
-    "ts": 1777731831
   }
 ]
