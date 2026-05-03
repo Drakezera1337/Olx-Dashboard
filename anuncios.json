@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498912141",
-    "titulo": "Jogos ps5, ps4",
-    "preco": 280,
-    "precoRaw": "R$ 280",
-    "categoria": "ps5",
+    "id": "1498751116",
+    "titulo": "GTA PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:52",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "detectado": "13:53",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/jogos-ps5-ps4-1498912141",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-ps4-1498751116",
+    "fotoUrl": "https://img.olx.com.br/images/18/187656167409177.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/187656167409177.jpg",
+      "https://img.olx.com.br/images/19/190615886245328.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777827215
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:52",
     "fotoUrl": "https://img.olx.com.br/images/39/394611648296261.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/394611648296261.jpg"
     ],
-    "defeito": false,
+    "id": "1498912141",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/jogos-ps5-ps4-1498912141",
+    "preco": 280,
+    "precoRaw": "R$ 280",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Jogos ps5, ps4",
     "ts": 1777827128
   },
   {
@@ -9763,28 +9782,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps Portal - Acesso remoto ao PS5. Com caixa e manual",
-    "ts": 1777787072
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:44",
-    "fotoUrl": "https://img.olx.com.br/images/49/494611649844266.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/494611649844266.jpg",
-      "https://img.olx.com.br/images/50/507603404189336.jpg",
-      "https://img.olx.com.br/images/52/527632889412664.jpg",
-      "https://img.olx.com.br/images/53/531607163202750.jpg",
-      "https://img.olx.com.br/images/55/553609885545058.jpg"
-    ],
-    "id": "1498454880",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-semi-novo-com-acessorios-1498454880",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Series S Semi-novo Com Acessórios",
     "ts": 1777787072
   }
 ]
