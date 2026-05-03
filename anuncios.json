@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498885694",
-    "titulo": "Play 4 slim ",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "outros",
+    "id": "1498885611",
+    "titulo": "Xbox série S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "11:29",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-4-slim-1498885694",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-serie-s-1498885611",
+    "fotoUrl": "https://img.olx.com.br/images/72/720610165545170.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/720610165545170.jpg",
+      "https://img.olx.com.br/images/73/738692406619976.jpg",
+      "https://img.olx.com.br/images/74/744691644985802.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777818574
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:29",
     "fotoUrl": "https://img.olx.com.br/images/16/168615409620073.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/168615409620073.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/19/193691643663748.jpg",
       "https://img.olx.com.br/images/20/209682161333432.jpg"
     ],
-    "defeito": false,
+    "id": "1498885694",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-4-slim-1498885694",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Play 4 slim ",
     "ts": 1777818540
   },
   {
@@ -9860,23 +9880,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "PlayStation 4 + 3 jogos",
     "ts": 1777758782
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:52",
-    "fotoUrl": "https://img.olx.com.br/images/93/939692406138824.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/939692406138824.jpg"
-    ],
-    "id": "1498788327",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps4-em-modo-de-seguranca-funcionando-1498788327",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "PS4 em Modo de segurança funcionando ",
-    "ts": 1777758772
   }
 ]
