@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498897663",
-    "titulo": "Um PS4 em perfeito estado ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1498547704",
+    "titulo": "Street fighter 30° anos",
+    "preco": 105,
+    "precoRaw": "R$ 105",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "12:30",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/um-ps4-em-perfeito-estado-1498897663",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/street-fighter-30-anos-1498547704",
+    "fotoUrl": "https://img.olx.com.br/images/28/288676049656594.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/288676049656594.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777822237
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:30",
     "fotoUrl": "https://img.olx.com.br/images/81/818688284831460.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/818688284831460.jpg",
       "https://img.olx.com.br/images/82/824627163326846.jpg",
       "https://img.olx.com.br/images/84/847625162304298.jpg"
     ],
-    "defeito": false,
+    "id": "1498897663",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/um-ps4-em-perfeito-estado-1498897663",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Um PS4 em perfeito estado ",
     "ts": 1777822227
   },
   {
@@ -9851,23 +9869,5 @@
     "tempoOlx": "Na OLX desde outubro de 2015",
     "titulo": "PS4 Slim 1TB",
     "ts": 1777766334
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:58",
-    "fotoUrl": "https://img.olx.com.br/images/19/190693881288578.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/190693881288578.jpg"
-    ],
-    "id": "1498805116",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-1498805116",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "PlayStation 4",
-    "ts": 1777766316
   }
 ]
