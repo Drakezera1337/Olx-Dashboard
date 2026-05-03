@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498889394",
-    "titulo": "iPhone 15 Plus 128GB",
-    "preco": 3300,
-    "precoRaw": "R$ 3.300",
-    "categoria": "iphone",
+    "id": "1498890151",
+    "titulo": "Revista Playstation TLOUII lacrada",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:47",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "11:48",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-plus-128gb-1498889394",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-tlouii-lacrada-1498890151",
+    "fotoUrl": "https://img.olx.com.br/images/40/408672408819503.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/408672408819503.jpg",
+      "https://img.olx.com.br/images/41/417607764992669.jpg",
+      "https://img.olx.com.br/images/43/436642642902875.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777819687
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:47",
     "fotoUrl": "https://img.olx.com.br/images/34/342609880446036.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/342609880446036.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/39/394612644105333.jpg",
       "https://img.olx.com.br/images/40/402682648014630.jpg"
     ],
-    "defeito": false,
+    "id": "1498889394",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-plus-128gb-1498889394",
+    "preco": 3300,
+    "precoRaw": "R$ 3.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "iPhone 15 Plus 128GB",
     "ts": 1777819655
   },
   {
@@ -9858,25 +9878,5 @@
     "tempoOlx": "Na OLX desde junho de 2019",
     "titulo": "Playstation 4 com defeito Ps4 sem HD",
     "ts": 1777759524
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:03",
-    "fotoUrl": "https://img.olx.com.br/images/78/782673524970052.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/782673524970052.jpg",
-      "https://img.olx.com.br/images/83/833655041915467.jpg",
-      "https://img.olx.com.br/images/89/894667525156559.jpg"
-    ],
-    "id": "1498789428",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/prey-ps4-1498789428",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2020",
-    "titulo": "Prey PS4",
-    "ts": 1777759429
   }
 ]
