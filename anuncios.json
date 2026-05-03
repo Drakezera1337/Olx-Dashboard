@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498923927",
-    "titulo": "iPhone 13 PRO",
-    "preco": 3239,
-    "precoRaw": "R$ 3.239",
-    "categoria": "iphone",
+    "id": "1498923269",
+    "titulo": "PLAYSTATION 4 - 500GB",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "15:00",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-1498923927",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/playstation-4-500gb-1498923269",
+    "fotoUrl": "https://img.olx.com.br/images/50/500659403348078.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/500659403348078.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777831228
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:00",
     "fotoUrl": "https://img.olx.com.br/images/54/540633648273675.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/540633648273675.jpg",
       "https://img.olx.com.br/images/54/547609645175256.jpg",
       "https://img.olx.com.br/images/54/544687641791186.jpg"
     ],
-    "defeito": false,
+    "id": "1498923927",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-1498923927",
+    "preco": 3239,
+    "precoRaw": "R$ 3.239",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "iPhone 13 PRO",
     "ts": 1777831224
   },
   {
@@ -9823,26 +9841,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Jogo Mafia 3 PS4 Playstation 4",
     "ts": 1777810933
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/82/821520464986155.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/821520464986155.jpg",
-      "https://img.olx.com.br/images/83/838579828975413.jpg",
-      "https://img.olx.com.br/images/83/830549220325671.jpg",
-      "https://img.olx.com.br/images/82/827514825135838.jpg"
-    ],
-    "id": "1450438124",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-final-fantasy-xv-edicao-day-one-para-playstation-4-1450438124",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2025",
-    "titulo": "Jogo Final Fantasy XV Edição Day One para Playstation 4",
-    "ts": 1777810925
   }
 ]
