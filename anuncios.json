@@ -1,15 +1,30 @@
 [
   {
-    "id": "1498808510",
-    "titulo": "PS3 com defeito ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps3",
+    "id": "1479751812",
+    "titulo": "Fifa 15 para PS4 (Mídia Física)",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:29",
-    "tempoOlx": "Na OLX desde maio de 2015",
+    "detectado": "21:38",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-com-defeito-1498808510",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/fifa-15-para-ps4-midia-fisica-1479751812",
+    "fotoUrl": "https://img.olx.com.br/images/80/806693730646282.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/806693730646282.jpg",
+      "https://img.olx.com.br/images/81/817601138387893.jpg",
+      "https://img.olx.com.br/images/83/834606010752164.jpg",
+      "https://img.olx.com.br/images/85/850646258170743.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777768735
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:29",
     "fotoUrl": "https://img.olx.com.br/images/51/518693645933138.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/518693645933138.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/56/560670169300433.jpg",
       "https://img.olx.com.br/images/58/583606648141090.jpg"
     ],
-    "defeito": false,
+    "id": "1498808510",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-com-defeito-1498808510",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2015",
+    "titulo": "PS3 com defeito ",
     "ts": 1777768198
   },
   {
@@ -9812,23 +9833,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "GTA V PS4 Completo com Mapa Original ",
     "ts": 1777731026
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:10",
-    "fotoUrl": "https://img.olx.com.br/images/88/889569299109884.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/889569299109884.jpg"
-    ],
-    "id": "1413985227",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/grand-theft-auto-the-trilogy-the-definitive-edition-ps4-1413985227",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Grand Theft Auto: The Trilogy - The Definitive Edition - PS4",
-    "ts": 1777731018
   }
 ]
