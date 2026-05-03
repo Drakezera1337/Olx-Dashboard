@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498860120",
-    "titulo": "Jogo Dreams - PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1498859826",
+    "titulo": "Assassin's Creed Odyssey PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:04",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde março de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-dreams-ps4-1498860120",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/assassin-s-creed-odyssey-ps4-1498859826",
+    "fotoUrl": "https://img.olx.com.br/images/59/596657168091683.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/596657168091683.jpg",
+      "https://img.olx.com.br/images/62/622607641106266.jpg",
+      "https://img.olx.com.br/images/64/646666646658013.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777809887
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:04",
     "fotoUrl": "https://img.olx.com.br/images/89/899697407599460.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/899697407599460.jpg",
       "https://img.olx.com.br/images/91/914622040561105.jpg"
     ],
-    "defeito": false,
+    "id": "1498860120",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-dreams-ps4-1498860120",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jogo Dreams - PS4",
     "ts": 1777809876
   },
   {
@@ -9905,23 +9925,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "FarCry Primal",
     "ts": 1777744365
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:52",
-    "fotoUrl": "https://img.olx.com.br/images/89/897642749104310.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/897642749104310.jpg"
-    ],
-    "id": "1486545699",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/dragon-ball-the-breakers-special-edition-1486545699",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Dragon Ball The Breakers Special Edition",
-    "ts": 1777744356
   }
 ]
