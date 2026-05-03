@@ -1,22 +1,43 @@
 [
   {
-    "id": "1439850873",
-    "titulo": "Jogo Battlefield 1 - Playstation 4",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "categoria": "ps4",
+    "id": "1498563697",
+    "titulo": "Nitendo Switch",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "17:28",
-    "tempoOlx": "",
+    "detectado": "17:31",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogo-battlefield-1-playstation-4-1439850873",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/nitendo-switch-1498563697",
+    "fotoUrl": "https://img.olx.com.br/images/24/248611641825321.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/248611641825321.jpg",
+      "https://img.olx.com.br/images/25/258633167658287.jpg",
+      "https://img.olx.com.br/images/27/275604406153268.jpg",
+      "https://img.olx.com.br/images/29/298606767753867.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777840268
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:28",
     "fotoUrl": "https://img.olx.com.br/images/64/641574684449112.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/641574684449112.jpg",
       "https://img.olx.com.br/images/68/687529206003864.jpg",
       "https://img.olx.com.br/images/70/701529561795122.jpg"
     ],
-    "defeito": false,
+    "id": "1439850873",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogo-battlefield-1-playstation-4-1439850873",
+    "preco": 49,
+    "precoRaw": "R$ 49",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogo Battlefield 1 - Playstation 4",
     "ts": 1777840088
   },
   {
@@ -9830,26 +9851,5 @@
     "tempoOlx": "Na OLX desde novembro de 2023",
     "titulo": "Doom - PS4",
     "ts": 1777819712
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/27/273697640282574.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/273697640282574.jpg",
-      "https://img.olx.com.br/images/30/304673763250066.jpg",
-      "https://img.olx.com.br/images/31/315682403196659.jpg",
-      "https://img.olx.com.br/images/33/330627760079526.jpg"
-    ],
-    "id": "1498889694",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/jogo-death-stranding-1498889694",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Jogo death stranding ",
-    "ts": 1777819705
   }
 ]
