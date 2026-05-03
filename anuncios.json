@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498970820",
-    "titulo": "Xbox Série S 512 Gb",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1498971287",
+    "titulo": "Jogos para PS4 (valores diferentes para cada jogo)",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:05",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "detectado": "19:09",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-serie-s-512-gb-1498970820",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-para-ps4-valores-diferentes-para-cada-jogo-1498971287",
+    "fotoUrl": "https://img.olx.com.br/images/10/106602281058491.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/106602281058491.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777846149
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:05",
     "fotoUrl": "https://img.olx.com.br/images/96/969695888838531.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/969695888838531.jpg",
       "https://img.olx.com.br/images/97/975609283557065.jpg",
       "https://img.olx.com.br/images/98/985619282983205.jpg"
     ],
-    "defeito": false,
+    "id": "1498970820",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-serie-s-512-gb-1498970820",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "titulo": "Xbox Série S 512 Gb",
     "ts": 1777845936
   },
   {
@@ -9844,26 +9862,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Cyberpunk Ps4",
     "ts": 1777822024
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:26",
-    "fotoUrl": "https://img.olx.com.br/images/74/748682047565291.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/748682047565291.jpg",
-      "https://img.olx.com.br/images/75/754637166848882.jpg",
-      "https://img.olx.com.br/images/77/774686642253699.jpg",
-      "https://img.olx.com.br/images/78/788619282728228.jpg"
-    ],
-    "id": "1498896158",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/shadow-of-the-colossus-ps4-1498896158",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Shadow of the Colossus PS4",
-    "ts": 1777822015
   }
 ]
