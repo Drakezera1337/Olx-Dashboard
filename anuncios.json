@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498820457",
-    "titulo": "Feira de trocas e vendas de jogos ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1498821260",
+    "titulo": "Jogos play 4 super lote originais ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "23:08",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "23:15",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/feira-de-trocas-e-vendas-de-jogos-1498820457",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-play-4-super-lote-originais-1498821260",
+    "fotoUrl": "https://img.olx.com.br/images/93/930680286241049.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/930680286241049.jpg",
+      "https://img.olx.com.br/images/93/932615765181990.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777774500
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:08",
     "fotoUrl": "https://img.olx.com.br/images/47/479648045364757.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/479648045364757.jpg"
     ],
-    "defeito": false,
+    "id": "1498820457",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/feira-de-trocas-e-vendas-de-jogos-1498820457",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Feira de trocas e vendas de jogos ",
     "ts": 1777774135
   },
   {
@@ -9804,24 +9823,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2019",
     "titulo": "Jogo Detroit Become Human",
     "ts": 1777731296
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:14",
-    "fotoUrl": "https://img.olx.com.br/images/54/547596832481512.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/547596832481512.jpg",
-      "https://img.olx.com.br/images/56/560529836434243.jpg"
-    ],
-    "id": "1465016362",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/jogos-de-video-game/assassin-s-creed-odyssey-ps4-1465016362",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Assassin's Creed Odyssey PS4",
-    "ts": 1777731288
   }
 ]
