@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498769205",
-    "titulo": "Jogos PS4/PS5",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps5",
+    "id": "1498912734",
+    "titulo": "Qualquer jogo de PS4 por R$ 50,00 ou R$ 40,00 no lote ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:01",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogos-ps4-ps5-1498769205",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/qualquer-jogo-de-ps4-por-r-50-00-ou-r-40-00-no-lote-1498912734",
+    "fotoUrl": "https://img.olx.com.br/images/37/373600642674682.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/373600642674682.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777827691
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:01",
     "fotoUrl": "https://img.olx.com.br/images/48/482616769614783.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/482616769614783.jpg"
     ],
-    "defeito": false,
+    "id": "1498769205",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogos-ps4-ps5-1498769205",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "Jogos PS4/PS5",
     "ts": 1777827682
   },
   {
@@ -9778,23 +9796,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Crash Trilogy - PS4 - Usado",
     "ts": 1777809818
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:03",
-    "fotoUrl": "https://img.olx.com.br/images/53/539677868177123.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/539677868177123.jpg"
-    ],
-    "id": "1490462103",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/the-last-of-us-parte-ii-ps4-semi-novo-1490462103",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "The Last of Us - Parte II - PS4 - Semi-Novo",
-    "ts": 1777809810
   }
 ]
