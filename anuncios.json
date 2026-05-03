@@ -1,15 +1,30 @@
 [
   {
-    "id": "1498979128",
-    "titulo": "Nintendo dsi XL no estado como no anúncio ",
-    "preco": 247,
-    "precoRaw": "R$ 247",
+    "id": "1498978784",
+    "titulo": "Nintendo switch lite",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "switch",
     "publicado": "",
     "detectado": "19:58",
-    "tempoOlx": "Na OLX desde agosto de 2014",
+    "tempoOlx": "Na OLX desde novembro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/nintendo-dsi-xl-no-estado-como-no-anuncio-1498979128",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1498978784",
+    "fotoUrl": "https://img.olx.com.br/images/92/920667409274087.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/920667409274087.jpg",
+      "https://img.olx.com.br/images/92/922632403106865.jpg",
+      "https://img.olx.com.br/images/93/932643889876786.jpg",
+      "https://img.olx.com.br/images/94/940609641213497.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777849130
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:58",
     "fotoUrl": "https://img.olx.com.br/images/77/777678648734369.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/777678648734369.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/80/807613049904081.jpg",
       "https://img.olx.com.br/images/81/817654889111983.jpg"
     ],
-    "defeito": false,
+    "id": "1498979128",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/nintendo-dsi-xl-no-estado-como-no-anuncio-1498979128",
+    "preco": 247,
+    "precoRaw": "R$ 247",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2014",
+    "titulo": "Nintendo dsi XL no estado como no anúncio ",
     "ts": 1777849118
   },
   {
@@ -9864,23 +9885,5 @@
     "tempoOlx": "Na OLX desde novembro de 2016",
     "titulo": "God of war ps4 lacrado",
     "ts": 1777823180
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:46",
-    "fotoUrl": "https://img.olx.com.br/images/31/316660168160304.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/316660168160304.jpg"
-    ],
-    "id": "1498558655",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/jogo-ps4-1498558655",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2016",
-    "titulo": "Jogo ps4",
-    "ts": 1777823170
   }
 ]
