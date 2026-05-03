@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498908220",
-    "titulo": "FIFA 20 PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1498391455",
+    "titulo": "Street fighter ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:33",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-20-ps4-1498908220",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/street-fighter-ps4-1498391455",
+    "fotoUrl": "https://img.olx.com.br/images/81/816693766439038.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/816693766439038.jpg",
+      "https://img.olx.com.br/images/82/823619401924910.jpg",
+      "https://img.olx.com.br/images/86/867651282039782.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777825993
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:33",
     "fotoUrl": "https://img.olx.com.br/images/66/661632045774709.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/661632045774709.jpg",
       "https://img.olx.com.br/images/68/682636401275428.jpg"
     ],
-    "defeito": false,
+    "id": "1498908220",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-20-ps4-1498908220",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "FIFA 20 PS4",
     "ts": 1777825985
   },
   {
@@ -9800,28 +9820,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Nintendo World Championchips Nes Edition Switch Lacrado",
-    "ts": 1777786882
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:41",
-    "fotoUrl": "https://img.olx.com.br/images/48/488616884227055.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/488616884227055.jpg",
-      "https://img.olx.com.br/images/49/497642523379614.jpg",
-      "https://img.olx.com.br/images/51/515662045560547.jpg",
-      "https://img.olx.com.br/images/53/530662166067823.jpg",
-      "https://img.olx.com.br/images/54/542629765354398.jpg"
-    ],
-    "id": "1498519397",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-lite-1498519397",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Lite",
     "ts": 1777786882
   }
 ]
