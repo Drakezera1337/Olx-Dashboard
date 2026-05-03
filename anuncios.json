@@ -1,22 +1,44 @@
 [
   {
-    "id": "1498966245",
-    "titulo": "PES 2020 PlayStation 4",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "ps4",
+    "id": "1498967195",
+    "titulo": "PS5 completo+ 2 controles e carregador+ Portal",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:39",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "18:40",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/pes-2020-playstation-4-1498966245",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-completo-2-controles-e-carregador-portal-1498967195",
+    "fotoUrl": "https://img.olx.com.br/images/66/666691647795077.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/666691647795077.jpg",
+      "https://img.olx.com.br/images/67/678627768039754.jpg",
+      "https://img.olx.com.br/images/78/789642888248154.jpg",
+      "https://img.olx.com.br/images/80/809612283065822.jpg",
+      "https://img.olx.com.br/images/82/827623769830702.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777844436
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:39",
     "fotoUrl": "https://img.olx.com.br/images/29/294616648874682.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/294616648874682.jpg",
       "https://img.olx.com.br/images/30/302656409053309.jpg",
       "https://img.olx.com.br/images/31/311648040841913.jpg"
     ],
-    "defeito": false,
+    "id": "1498966245",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/pes-2020-playstation-4-1498966245",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "PES 2020 PlayStation 4",
     "ts": 1777844395
   },
   {
@@ -9826,28 +9848,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Nintendo Wii U Deluxe 32gb Desbloqueado",
     "ts": 1777821675
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:21",
-    "fotoUrl": "https://img.olx.com.br/images/85/853663283938180.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/853663283938180.jpg",
-      "https://img.olx.com.br/images/87/878649648728243.jpg",
-      "https://img.olx.com.br/images/89/898629286414191.jpg",
-      "https://img.olx.com.br/images/91/910691763348158.jpg",
-      "https://img.olx.com.br/images/93/934611523796564.jpg",
-      "https://img.olx.com.br/images/95/959645287883425.jpg"
-    ],
-    "id": "1498895518",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-512gb-1498895518",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "Xbox serie S 512GB",
-    "ts": 1777821666
   }
 ]
