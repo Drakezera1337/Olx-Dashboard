@@ -1,22 +1,41 @@
 [
   {
-    "id": "1498463924",
-    "titulo": "CALL OF DUTY BLACK OPS",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1484693859",
+    "titulo": "Dying Light The Following Enhanced Edition PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:09",
-    "tempoOlx": "Na OLX desde março de 2020",
+    "tempoOlx": "Na OLX desde dezembro de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/call-of-duty-black-ops-1498463924",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dying-light-the-following-enhanced-edition-ps4-1484693859",
+    "fotoUrl": "https://img.olx.com.br/images/63/634616383021565.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/634616383021565.jpg",
+      "https://img.olx.com.br/images/65/656695746102430.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777824568
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:09",
     "fotoUrl": "https://img.olx.com.br/images/15/157627407151992.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/157627407151992.jpg",
       "https://img.olx.com.br/images/16/168672408659846.jpg",
       "https://img.olx.com.br/images/18/182687640366369.jpg"
     ],
-    "defeito": false,
+    "id": "1498463924",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/call-of-duty-black-ops-1498463924",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2020",
+    "titulo": "CALL OF DUTY BLACK OPS",
     "ts": 1777824558
   },
   {
@@ -9797,26 +9816,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Iphone 14 pro max",
-    "ts": 1777786775
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:39",
-    "fotoUrl": "https://img.olx.com.br/images/72/721663405289145.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/721663405289145.jpg",
-      "https://img.olx.com.br/images/73/730638165150986.jpg",
-      "https://img.olx.com.br/images/75/755650526985324.jpg"
-    ],
-    "id": "1498597011",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-16-pro-max-256gb-1498597011",
-    "preco": 6500,
-    "precoRaw": "R$ 6.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo iPhone 16 pro max 256GB",
     "ts": 1777786775
   }
 ]
