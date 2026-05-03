@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498985702",
-    "titulo": "PS4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1498985465",
+    "titulo": "Kit Jogos PS4 - GTA V + Watch Dogs | Mídia Física Originais",
+    "preco": 180,
+    "precoRaw": "R$ 180",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:39",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "detectado": "20:40",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1498985702",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/kit-jogos-ps4-gta-v-watch-dogs-midia-fisica-originais-1498985465",
+    "fotoUrl": "https://img.olx.com.br/images/95/956652406217592.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/956652406217592.jpg",
+      "https://img.olx.com.br/images/14/142655641361810.jpg",
+      "https://img.olx.com.br/images/19/195677049294868.jpg",
+      "https://img.olx.com.br/images/55/557629528244199.jpg",
+      "https://img.olx.com.br/images/53/539627643209967.jpg",
+      "https://img.olx.com.br/images/64/649693404732720.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777851607
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:39",
     "fotoUrl": "https://img.olx.com.br/images/53/539603521172916.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/539603521172916.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/56/562668520762272.jpg",
       "https://img.olx.com.br/images/57/573664041069362.jpg"
     ],
-    "defeito": false,
+    "id": "1498985702",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1498985702",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "PS4",
     "ts": 1777851549
   },
   {
@@ -9881,23 +9904,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Jogo PS4 - For Honor - Mídia Física - Ótimo Estado - Funciona 100%",
     "ts": 1777823635
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:53",
-    "fotoUrl": "https://img.olx.com.br/images/25/251650362575830.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/251650362575830.jpg"
-    ],
-    "id": "1469225352",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-assasin-s-creed-origins-midia-fisica-otimo-estado-funciona-100-1469225352",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Jogo PS4 - Assasin's Creed Origins- Mídia Física - Ótimo Estado - Funciona 100%",
-    "ts": 1777823624
   }
 ]
