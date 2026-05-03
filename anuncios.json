@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498547704",
-    "titulo": "Street fighter 30° anos",
-    "preco": 105,
-    "precoRaw": "R$ 105",
+    "id": "1498547973",
+    "titulo": "Call of duty ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "12:30",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/street-fighter-30-anos-1498547704",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/call-of-duty-1498547973",
+    "fotoUrl": "https://img.olx.com.br/images/39/391639763224629.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/391639763224629.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777822244
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:30",
     "fotoUrl": "https://img.olx.com.br/images/28/288676049656594.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/288676049656594.jpg"
     ],
-    "defeito": false,
+    "id": "1498547704",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/street-fighter-30-anos-1498547704",
+    "preco": 105,
+    "precoRaw": "R$ 105",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Street fighter 30° anos",
     "ts": 1777822237
   },
   {
@@ -9850,24 +9868,5 @@
     "tempoOlx": "Na OLX desde agosto de 2016",
     "titulo": "Horizon Zero Dawn - PS4 | Excelente estado",
     "ts": 1777766667
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:58",
-    "fotoUrl": "https://img.olx.com.br/images/97/977634166769166.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/977634166769166.jpg",
-      "https://img.olx.com.br/images/99/997654642121808.jpg"
-    ],
-    "id": "1498804894",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/ps4-slim-1tb-1498804894",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "PS4 Slim 1TB",
-    "ts": 1777766334
   }
 ]
