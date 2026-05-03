@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498860473",
-    "titulo": "Jogo Final Fantasy XV - PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1498860120",
+    "titulo": "Jogo Dreams - PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:04",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-final-fantasy-xv-ps4-1498860473",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-dreams-ps4-1498860120",
+    "fotoUrl": "https://img.olx.com.br/images/89/899697407599460.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/899697407599460.jpg",
+      "https://img.olx.com.br/images/91/914622040561105.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777809876
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:04",
     "fotoUrl": "https://img.olx.com.br/images/62/628624285694056.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/628624285694056.jpg",
       "https://img.olx.com.br/images/63/638673281819926.jpg"
     ],
-    "defeito": false,
+    "id": "1498860473",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-final-fantasy-xv-ps4-1498860473",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jogo Final Fantasy XV - PS4",
     "ts": 1777809866
   },
   {
@@ -9904,23 +9923,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Dragon Ball The Breakers Special Edition",
     "ts": 1777744356
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:52",
-    "fotoUrl": "https://img.olx.com.br/images/16/161637741196133.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/161637741196133.jpg"
-    ],
-    "id": "1486545314",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/nba-2k17-1486545314",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "NBA 2K17",
-    "ts": 1777744346
   }
 ]
