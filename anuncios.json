@@ -1,15 +1,31 @@
 [
   {
-    "id": "1498880834",
-    "titulo": "GOD OF WAR RAGNAROK",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "categoria": "jogos",
+    "id": "1481445587",
+    "titulo": "Shadow of The Tomb Raider",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:00",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "tempoOlx": "Na OLX desde agosto de 2024",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/god-of-war-ragnarok-1498880834",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/shadow-of-the-tomb-raider-1481445587",
+    "fotoUrl": "https://img.olx.com.br/images/32/324606492652731.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/324606492652731.jpg",
+      "https://img.olx.com.br/images/33/334647256432431.jpg",
+      "https://img.olx.com.br/images/34/345655137942860.jpg",
+      "https://img.olx.com.br/images/35/352696135200307.jpg",
+      "https://img.olx.com.br/images/36/367609013631433.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777816859
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:00",
     "fotoUrl": "https://img.olx.com.br/images/57/577691762149194.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/577691762149194.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/60/604693522587732.jpg",
       "https://img.olx.com.br/images/61/611606164309377.jpg"
     ],
-    "defeito": false,
+    "id": "1498880834",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/god-of-war-ragnarok-1498880834",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "GOD OF WAR RAGNAROK",
     "ts": 1777816849
   },
   {
@@ -9866,26 +9888,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "Call of Duty Black Ops 4 - Ps4",
     "ts": 1777756764
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:15",
-    "fotoUrl": "https://img.olx.com.br/images/65/658617764939812.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/658617764939812.jpg",
-      "https://img.olx.com.br/images/68/681673889976923.jpg",
-      "https://img.olx.com.br/images/83/835691642705486.jpg",
-      "https://img.olx.com.br/images/12/127691527235668.jpg"
-    ],
-    "id": "1498782944",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-no-estado-1498782944",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2013",
-    "titulo": "Ps3 no estado ",
-    "ts": 1777756543
   }
 ]
