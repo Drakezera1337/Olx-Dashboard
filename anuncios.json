@@ -1,22 +1,42 @@
 [
   {
-    "id": "1497071879",
-    "titulo": "Xbox series s",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1490675549",
+    "titulo": "Agents of Mayhen PS4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:11",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "detectado": "20:15",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/games/consoles-de-video-game/xbox-series-s-1497071879",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/agents-of-mayhen-ps4-1490675549",
+    "fotoUrl": "https://img.olx.com.br/images/20/201638034183029.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/201638034183029.jpg",
+      "https://img.olx.com.br/images/23/231680637726947.jpg",
+      "https://img.olx.com.br/images/25/258616759157363.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777850140
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:11",
     "fotoUrl": "https://img.olx.com.br/images/95/953669639772299.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/953669639772299.jpg",
       "https://img.olx.com.br/images/99/990637396934543.jpg",
       "https://img.olx.com.br/images/11/114640153006947.jpg"
     ],
-    "defeito": false,
+    "id": "1497071879",
+    "link": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/games/consoles-de-video-game/xbox-series-s-1497071879",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Xbox series s",
     "ts": 1777849893
   },
   {
@@ -9865,24 +9885,5 @@
     "tempoOlx": "Na OLX desde outubro de 2018",
     "titulo": "Jogo Ghost of Tsushima Ps4 usado mídia física",
     "ts": 1777823500
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:51",
-    "fotoUrl": "https://img.olx.com.br/images/91/918654765737685.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/918654765737685.jpg",
-      "https://img.olx.com.br/images/97/975682285807217.jpg"
-    ],
-    "id": "1498608725",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/vendo-days-gone-1498608725",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Vendo Days Gone",
-    "ts": 1777823488
   }
 ]
