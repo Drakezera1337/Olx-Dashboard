@@ -1,22 +1,44 @@
 [
   {
-    "id": "1498930740",
-    "titulo": "Vendo iPhone 13",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "iphone",
+    "id": "1498930920",
+    "titulo": "Ps3 Fat",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:43",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "detectado": "15:44",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-13-1498930740",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-fat-1498930920",
+    "fotoUrl": "https://img.olx.com.br/images/93/934635762676621.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/934635762676621.jpg",
+      "https://img.olx.com.br/images/94/941604526209440.jpg",
+      "https://img.olx.com.br/images/95/950697167379784.jpg",
+      "https://img.olx.com.br/images/96/966611164359820.jpg",
+      "https://img.olx.com.br/images/98/981677521504105.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777833877
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:43",
     "fotoUrl": "https://img.olx.com.br/images/50/500659041783683.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/500659041783683.jpg",
       "https://img.olx.com.br/images/52/520655402166167.jpg",
       "https://img.olx.com.br/images/55/550601646551316.jpg"
     ],
-    "defeito": false,
+    "id": "1498930740",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-13-1498930740",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Vendo iPhone 13",
     "ts": 1777833816
   },
   {
@@ -9833,25 +9855,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogo Conan Exiles PS4 ",
     "ts": 1777813384
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:02",
-    "fotoUrl": "https://img.olx.com.br/images/50/501641268416779.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/501641268416779.jpg",
-      "https://img.olx.com.br/images/51/515674025919006.jpg",
-      "https://img.olx.com.br/images/53/535630745912442.jpg"
-    ],
-    "id": "1482263645",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-tt-isle-of-man-ps4-1482263645",
-    "preco": 279,
-    "precoRaw": "R$ 279",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Jogo TT Isle of Man PS4 ",
-    "ts": 1777813374
   }
 ]
