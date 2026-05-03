@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498819145",
-    "titulo": "Caixa vazia PS 5 vazia bom estado ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1498819735",
+    "titulo": "PS3",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "22:52",
-    "tempoOlx": "Na OLX desde setembro de 2020",
+    "detectado": "22:55",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-vazia-ps-5-vazia-bom-estado-1498819145",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/ps3-1498819735",
+    "fotoUrl": "https://img.olx.com.br/images/29/292660522417496.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/292660522417496.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777773354
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:52",
     "fotoUrl": "https://img.olx.com.br/images/89/891635525356125.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/891635525356125.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/94/942605762334142.jpg",
       "https://img.olx.com.br/images/96/966607280880596.jpg"
     ],
-    "defeito": false,
+    "id": "1498819145",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-vazia-ps-5-vazia-bom-estado-1498819145",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2020",
+    "titulo": "Caixa vazia PS 5 vazia bom estado ",
     "ts": 1777773174
   },
   {
@@ -9803,27 +9821,5 @@
     "tempoOlx": "Na OLX desde junho de 2016",
     "titulo": "Jogos PS3, PS4 e PS5 ",
     "ts": 1777731265
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:14",
-    "fotoUrl": "https://img.olx.com.br/images/17/170637743248168.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/170637743248168.jpg",
-      "https://img.olx.com.br/images/22/222619506271140.jpg",
-      "https://img.olx.com.br/images/27/276687164428456.jpg",
-      "https://img.olx.com.br/images/30/300640521393031.jpg",
-      "https://img.olx.com.br/images/31/313650283964917.jpg"
-    ],
-    "id": "1488917295",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/ps4-slim-1tb-impecavel-na-caixa-original-unico-dono-estado-de-novo-1488917295",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "PS4 [Slim] 1Tb, Impecável na Caixa Original, único Dono - Estado de Novo!",
-    "ts": 1777731259
   }
 ]
