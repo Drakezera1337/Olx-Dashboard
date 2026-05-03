@@ -1,15 +1,29 @@
 [
   {
-    "id": "1392947687",
-    "titulo": "Playstation 4 com jogo Spyro",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "ps4",
+    "id": "1498882137",
+    "titulo": "Nintendo switch",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "11:04",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-jogo-spyro-1392947687",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-1498882137",
+    "fotoUrl": "https://img.olx.com.br/images/99/998642764757942.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/998642764757942.jpg",
+      "https://img.olx.com.br/images/11/116696286428872.jpg",
+      "https://img.olx.com.br/images/12/123687760594188.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777817084
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:04",
     "fotoUrl": "https://img.olx.com.br/images/24/244580397718075.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/244580397718075.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/10/104574033530945.jpg",
       "https://img.olx.com.br/images/10/101553513382423.jpg"
     ],
-    "defeito": false,
+    "id": "1392947687",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-jogo-spyro-1392947687",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "Playstation 4 com jogo Spyro",
     "ts": 1777817075
   },
   {
@@ -9869,25 +9889,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Carregador Dock Station para Controle Playstation 5",
     "ts": 1777756883
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:19",
-    "fotoUrl": "https://img.olx.com.br/images/90/902599912436417.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/902599912436417.jpg",
-      "https://img.olx.com.br/images/91/912555918404837.jpg",
-      "https://img.olx.com.br/images/92/926506796909829.jpg"
-    ],
-    "id": "1431054645",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/bd-jb-ps4-versao-nova-1-2-sem-pendrive-e-com-apps-no-disco-novo-goldhen-1431054645",
-    "preco": 28,
-    "precoRaw": "R$ 28",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "BD-JB PS4 versão ++ nova 1.2 sem pendrive e com APPs no disco.  ## NOVO GOLDHEN ##",
-    "ts": 1777756773
   }
 ]
