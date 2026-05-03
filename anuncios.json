@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498901228",
-    "titulo": "PS4 cm 5 jogos R$1400",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1484694784",
+    "titulo": "Minecraft PS4 edition Mídia Física",
+    "preco": 99,
+    "precoRaw": "R$ 99",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:50",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "12:51",
+    "tempoOlx": "Na OLX desde dezembro de 2013",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/ps4-cm-5-jogos-r-1400-1498901228",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/minecraft-ps4-edition-midia-fisica-1484694784",
+    "fotoUrl": "https://img.olx.com.br/images/19/191696021111398.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/191696021111398.jpg",
+      "https://img.olx.com.br/images/21/219657867947037.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777823468
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:50",
     "fotoUrl": "https://img.olx.com.br/images/14/144634525400191.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/144634525400191.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/17/178694404698039.jpg",
       "https://img.olx.com.br/images/18/183620405001123.jpg"
     ],
-    "defeito": false,
+    "id": "1498901228",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/ps4-cm-5-jogos-r-1400-1498901228",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PS4 cm 5 jogos R$1400",
     "ts": 1777823456
   },
   {
@@ -9835,23 +9854,5 @@
     "tempoOlx": "Na OLX desde novembro de 2016",
     "titulo": "Play 4",
     "ts": 1777771282
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:21",
-    "fotoUrl": "https://img.olx.com.br/images/73/733664162461801.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/733664162461801.jpg"
-    ],
-    "id": "1498816053",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/lote-de-jogos-ps3-1498816053",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2022",
-    "titulo": "Lote de jogos ps3 ",
-    "ts": 1777771271
   }
 ]
