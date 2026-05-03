@@ -1,22 +1,43 @@
 [
   {
-    "id": "1498984746",
-    "titulo": "PlayStation 5 Fat 825 GB",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1498985702",
+    "titulo": "PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:35",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "20:39",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-fat-825-gb-1498984746",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1498985702",
+    "fotoUrl": "https://img.olx.com.br/images/53/539603521172916.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/539603521172916.jpg",
+      "https://img.olx.com.br/images/54/543695888240327.jpg",
+      "https://img.olx.com.br/images/56/562668520762272.jpg",
+      "https://img.olx.com.br/images/57/573664041069362.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777851549
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:35",
     "fotoUrl": "https://img.olx.com.br/images/49/493624404930960.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/493624404930960.jpg",
       "https://img.olx.com.br/images/49/490623404657214.jpg",
       "https://img.olx.com.br/images/49/493611280268874.jpg"
     ],
-    "defeito": false,
+    "id": "1498984746",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-fat-825-gb-1498984746",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PlayStation 5 Fat 825 GB",
     "ts": 1777851309
   },
   {
@@ -9878,25 +9899,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Jogo PS4 - Assasin's Creed Origins- Mídia Física - Ótimo Estado - Funciona 100%",
     "ts": 1777823624
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:53",
-    "fotoUrl": "https://img.olx.com.br/images/10/108672278586455.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/108672278586455.jpg",
-      "https://img.olx.com.br/images/10/108655512309022.jpg",
-      "https://img.olx.com.br/images/10/103680512043467.jpg"
-    ],
-    "id": "1465405629",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogo-tomb-raider-definitive-edition-ps4-usado-midia-fisica-1465405629",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2018",
-    "titulo": "Jogo Tomb Raider Definitive Edition Ps4 Usado Mídia Física",
-    "ts": 1777823613
   }
 ]
