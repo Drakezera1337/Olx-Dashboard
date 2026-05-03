@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498966339",
-    "titulo": "Jogos",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1498966245",
+    "titulo": "PES 2020 PlayStation 4",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:39",
-    "tempoOlx": "Na OLX desde junho de 2017",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-1498966339",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/pes-2020-playstation-4-1498966245",
+    "fotoUrl": "https://img.olx.com.br/images/29/294616648874682.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/294616648874682.jpg",
+      "https://img.olx.com.br/images/30/302656409053309.jpg",
+      "https://img.olx.com.br/images/31/311648040841913.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777844395
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:39",
     "fotoUrl": "https://img.olx.com.br/images/10/106641282901020.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/106641282901020.jpg"
     ],
-    "defeito": false,
+    "id": "1498966339",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-1498966339",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2017",
+    "titulo": "Jogos",
     "ts": 1777844386
   },
   {
@@ -9829,23 +9849,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "Xbox serie S 512GB",
     "ts": 1777821666
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:20",
-    "fotoUrl": "https://img.olx.com.br/images/72/725698641435828.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/725698641435828.jpg"
-    ],
-    "id": "1498894836",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/metal-gear-ps4-1498894836",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "METAL GEAR - PS4",
-    "ts": 1777821639
   }
 ]
