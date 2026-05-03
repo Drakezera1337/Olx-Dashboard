@@ -1,15 +1,27 @@
 [
   {
-    "id": "1493134572",
-    "titulo": "PlayStation 4 Slim com 2 controles e GTAV ",
-    "preco": 1580,
-    "precoRaw": "R$ 1.580",
-    "categoria": "ps4",
+    "id": "1498917239",
+    "titulo": "PS Portal",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "14:17",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "detectado": "14:20",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/playstation-4-slim-com-2-controles-e-gtav-1493134572",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps-portal-1498917239",
+    "fotoUrl": "https://img.olx.com.br/images/65/650605767050244.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/650605767050244.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777828835
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:17",
     "fotoUrl": "https://img.olx.com.br/images/25/251676639749137.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/251676639749137.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/29/292637279125040.jpg",
       "https://img.olx.com.br/images/31/311641395171495.jpg"
     ],
-    "defeito": false,
+    "id": "1493134572",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/playstation-4-slim-com-2-controles-e-gtav-1493134572",
+    "preco": 1580,
+    "precoRaw": "R$ 1.580",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "titulo": "PlayStation 4 Slim com 2 controles e GTAV ",
     "ts": 1777828674
   },
   {
@@ -9813,28 +9831,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "titulo": "PS4 Nioh 1 e 2 (lacrados)",
     "ts": 1777810160
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:09",
-    "fotoUrl": "https://img.olx.com.br/images/94/941568227924878.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/941568227924878.jpg",
-      "https://img.olx.com.br/images/96/964569581840130.jpg",
-      "https://img.olx.com.br/images/98/985582583387119.jpg",
-      "https://img.olx.com.br/images/99/990576461044092.jpg",
-      "https://img.olx.com.br/images/94/946596462477114.jpg",
-      "https://img.olx.com.br/images/95/952511585510637.jpg"
-    ],
-    "id": "1453152046",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/manete-fliperama-usb-nao-tem-jogos-1453152046",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2013",
-    "titulo": "Manete Fliperama usb (não tem jogos)",
-    "ts": 1777810152
   }
 ]
