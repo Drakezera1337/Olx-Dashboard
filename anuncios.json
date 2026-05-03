@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498917239",
-    "titulo": "PS Portal",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "outros",
+    "id": "1497453639",
+    "titulo": "PlayStation 3 à venda! ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "14:20",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps-portal-1498917239",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/playstation-3-a-venda-1497453639",
+    "fotoUrl": "https://img.olx.com.br/images/71/710612754177079.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/710612754177079.jpg",
+      "https://img.olx.com.br/images/73/733629271323267.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777828844
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:20",
     "fotoUrl": "https://img.olx.com.br/images/65/650605767050244.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/650605767050244.jpg"
     ],
-    "defeito": false,
+    "id": "1498917239",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps-portal-1498917239",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "titulo": "PS Portal",
     "ts": 1777828835
   },
   {
@@ -9812,24 +9831,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "titulo": "PS4 Until Dawn",
     "ts": 1777810168
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:09",
-    "fotoUrl": "https://img.olx.com.br/images/89/890503751029919.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/890503751029919.jpg",
-      "https://img.olx.com.br/images/89/891527275124965.jpg"
-    ],
-    "id": "1396724281",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/ps4-nioh-1-e-2-lacrados-1396724281",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "PS4 Nioh 1 e 2 (lacrados)",
-    "ts": 1777810160
   }
 ]
