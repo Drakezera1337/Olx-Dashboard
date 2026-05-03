@@ -1,15 +1,28 @@
 [
   {
-    "id": "1433495729",
-    "titulo": "Jogos PS4 / novos e seminovos",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1393126788",
+    "titulo": "RATCHET E CLANK 1 PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:52",
     "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-ps4-novos-e-seminovos-1433495729",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ratchet-e-clank-1-ps4-1393126788",
+    "fotoUrl": "https://img.olx.com.br/images/45/451516066551476.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/451516066551476.jpg",
+      "https://img.olx.com.br/images/47/474574784445636.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777812761
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:52",
     "fotoUrl": "https://img.olx.com.br/images/31/316637380857188.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/316637380857188.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/39/398647507141589.jpg",
       "https://img.olx.com.br/images/40/405684140656543.jpg"
     ],
-    "defeito": false,
+    "id": "1433495729",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-ps4-novos-e-seminovos-1433495729",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2015",
+    "titulo": "Jogos PS4 / novos e seminovos",
     "ts": 1777812750
   },
   {
@@ -9859,24 +9878,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "CALL OF DUTY WWII PS4",
     "ts": 1777752121
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:01",
-    "fotoUrl": "https://img.olx.com.br/images/33/333693522792451.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/333693522792451.jpg",
-      "https://img.olx.com.br/images/34/342688760672298.jpg"
-    ],
-    "id": "1498752884",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-wwii-1498752884",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Call of Duty WWII",
-    "ts": 1777752113
   }
 ]
