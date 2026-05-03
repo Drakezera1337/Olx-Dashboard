@@ -1,20 +1,41 @@
 [
   {
-    "id": "1498902400",
-    "titulo": "Playstation 4 com 1tb de armazenamento,sem controles",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "categoria": "ps4",
+    "id": "1498903336",
+    "titulo": "Playstation 3",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:00",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "tempoOlx": "Na OLX desde julho de 2016",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-4-com-1tb-de-armazenamento-sem-controles-1498902400",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1498903336",
+    "fotoUrl": "https://img.olx.com.br/images/66/663660645925952.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/663660645925952.jpg",
+      "https://img.olx.com.br/images/67/671628521893528.jpg",
+      "https://img.olx.com.br/images/69/697620529456658.jpg",
+      "https://img.olx.com.br/images/70/705648522026617.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777824053
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:00",
     "fotoUrl": "https://img.olx.com.br/images/79/798688525597784.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/798688525597784.jpg"
     ],
-    "defeito": false,
+    "id": "1498902400",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-4-com-1tb-de-armazenamento-sem-controles-1498902400",
+    "preco": 890,
+    "precoRaw": "R$ 890",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "Playstation 4 com 1tb de armazenamento,sem controles",
     "ts": 1777824039
   },
   {
@@ -9817,28 +9838,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Minecraft midia fisica Jogos PS4",
     "ts": 1777776178
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:40",
-    "fotoUrl": "https://img.olx.com.br/images/43/434603283971908.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/434603283971908.jpg",
-      "https://img.olx.com.br/images/44/444604765593371.jpg",
-      "https://img.olx.com.br/images/46/466675764333035.jpg",
-      "https://img.olx.com.br/images/48/487670769034911.jpg",
-      "https://img.olx.com.br/images/49/499671163658253.jpg",
-      "https://img.olx.com.br/images/50/503611282566967.jpg"
-    ],
-    "id": "1498822949",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-slim-1498822949",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "PlayStation 4 Slim",
-    "ts": 1777776025
   }
 ]
