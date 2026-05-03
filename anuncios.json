@@ -1,21 +1,39 @@
 [
   {
-    "id": "1498911490",
-    "titulo": "Ps5 usado",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
+    "id": "1498912141",
+    "titulo": "Jogos ps5, ps4",
+    "preco": 280,
+    "precoRaw": "R$ 280",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:51",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "13:52",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-usado-1498911490",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/jogos-ps5-ps4-1498912141",
+    "fotoUrl": "https://img.olx.com.br/images/39/394611648296261.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/394611648296261.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777827128
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:51",
     "fotoUrl": "https://img.olx.com.br/images/43/433609884607655.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/433609884607655.jpg",
       "https://img.olx.com.br/images/47/475633161109058.jpg"
     ],
-    "defeito": false,
+    "id": "1498911490",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-usado-1498911490",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Ps5 usado",
     "ts": 1777827096
   },
   {
@@ -9767,26 +9785,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox Series S Semi-novo Com Acessórios",
-    "ts": 1777787072
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:44",
-    "fotoUrl": "https://img.olx.com.br/images/13/132611145491223.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/132611145491223.jpg",
-      "https://img.olx.com.br/images/45/457633757065736.jpg",
-      "https://img.olx.com.br/images/47/479624636181643.jpg"
-    ],
-    "id": "1489150372",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1tb-1489150372",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One S 1tb",
     "ts": 1777787072
   }
 ]
