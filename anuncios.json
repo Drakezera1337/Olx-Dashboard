@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498889745",
-    "titulo": "iPhone 12",
-    "preco": 1550,
-    "precoRaw": "R$ 1.550",
-    "categoria": "iphone",
+    "id": "1489573179",
+    "titulo": "Controle gamer PS3 /pc",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "11:49",
-    "tempoOlx": "Na OLX desde setembro de 2021",
+    "detectado": "11:50",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1498889745",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/controle-gamer-ps3-pc-1489573179",
+    "fotoUrl": "https://img.olx.com.br/images/91/917609745569321.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/917609745569321.jpg",
+      "https://img.olx.com.br/images/92/920601268885367.jpg",
+      "https://img.olx.com.br/images/93/930625020667993.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777819834
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:49",
     "fotoUrl": "https://img.olx.com.br/images/42/427612283293278.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/427612283293278.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/48/481669166271556.jpg",
       "https://img.olx.com.br/images/49/495698289988254.jpg"
     ],
-    "defeito": false,
+    "id": "1498889745",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1498889745",
+    "preco": 1550,
+    "precoRaw": "R$ 1.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2021",
+    "titulo": "iPhone 12",
     "ts": 1777819747
   },
   {
@@ -9857,28 +9877,5 @@
     "tempoOlx": "Na OLX desde outubro de 2016",
     "titulo": "JOGO PS4 FIFA 25 MÍDIA FÍSICA ",
     "ts": 1777760134
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:15",
-    "fotoUrl": "https://img.olx.com.br/images/37/378635166960985.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/378635166960985.jpg",
-      "https://img.olx.com.br/images/42/422616161644275.jpg",
-      "https://img.olx.com.br/images/45/452609403039784.jpg",
-      "https://img.olx.com.br/images/49/496627169222458.jpg",
-      "https://img.olx.com.br/images/51/519624286598519.jpg",
-      "https://img.olx.com.br/images/54/548691400944807.jpg"
-    ],
-    "id": "1498791716",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/red-dead-redemption-2-ps4-com-mapa-1498791716",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Red dead redemption 2 ps4 com mapa ",
-    "ts": 1777760125
   }
 ]
