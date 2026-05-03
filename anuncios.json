@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498925966",
-    "titulo": "Jogos de ps4 apartir de R$ 60 CHAMA!",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1498925905",
+    "titulo": "Uncharted 4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "15:18",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-de-ps4-apartir-de-r-60-chama-1498925966",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-4-1498925905",
+    "fotoUrl": "https://img.olx.com.br/images/99/996694642527995.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/996694642527995.jpg",
+      "https://img.olx.com.br/images/10/108605765576144.jpg",
+      "https://img.olx.com.br/images/12/126656522109984.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777832309
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:18",
     "fotoUrl": "https://img.olx.com.br/images/82/823626280338258.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/823626280338258.jpg"
     ],
-    "defeito": false,
+    "id": "1498925966",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-de-ps4-apartir-de-r-60-chama-1498925966",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Jogos de ps4 apartir de R$ 60 CHAMA!",
     "ts": 1777832296
   },
   {
@@ -9851,24 +9871,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "The Order 1886 PS4",
     "ts": 1777812711
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:51",
-    "fotoUrl": "https://img.olx.com.br/images/76/768686396175823.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/768686396175823.jpg",
-      "https://img.olx.com.br/images/78/780648397418911.jpg"
-    ],
-    "id": "1490490906",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/nioh-2-ps4-1490490906",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "NIOH 2 PS4",
-    "ts": 1777812702
   }
 ]
