@@ -1,22 +1,45 @@
 [
   {
-    "id": "1498507446",
-    "titulo": "FIFA 22",
-    "preco": 110,
-    "precoRaw": "R$ 110",
+    "id": "1498506647",
+    "titulo": "Coleção FIFA",
+    "preco": 190,
+    "precoRaw": "R$ 190",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "13:33",
     "tempoOlx": "Na OLX desde outubro de 2022",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-22-1498507446",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/colecao-fifa-1498506647",
+    "fotoUrl": "https://img.olx.com.br/images/32/324658761386219.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/324658761386219.jpg",
+      "https://img.olx.com.br/images/33/337678648722089.jpg",
+      "https://img.olx.com.br/images/34/345631647163833.jpg",
+      "https://img.olx.com.br/images/36/361609041230211.jpg",
+      "https://img.olx.com.br/images/37/373692168270509.jpg",
+      "https://img.olx.com.br/images/39/393666765840684.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777826022
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:33",
     "fotoUrl": "https://img.olx.com.br/images/32/321692888902636.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/321692888902636.jpg",
       "https://img.olx.com.br/images/34/343679521926128.jpg",
       "https://img.olx.com.br/images/35/357605645062212.jpg"
     ],
-    "defeito": false,
+    "id": "1498507446",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-22-1498507446",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "FIFA 22",
     "ts": 1777826012
   },
   {
@@ -9801,25 +9824,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "caixa vazia de Nintendo Switch lite",
-    "ts": 1777786889
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:41",
-    "fotoUrl": "https://img.olx.com.br/images/66/662602019094987.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/662602019094987.jpg",
-      "https://img.olx.com.br/images/68/682632853412936.jpg"
-    ],
-    "id": "1475115593",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-manual-e-berco-nintendo-switch-lite-grey-1475115593",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Caixa manual e berço Nintendo Switch Lite Grey",
     "ts": 1777786889
   }
 ]
