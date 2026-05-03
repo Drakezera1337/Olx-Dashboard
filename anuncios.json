@@ -1,20 +1,39 @@
 [
   {
-    "id": "1490832952",
-    "titulo": "X box onde séries ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "outros",
+    "id": "1498840094",
+    "titulo": "Xbox Series S",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "09:00",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "09:01",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/x-box-onde-series-1490832952",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-1498840094",
+    "fotoUrl": "https://img.olx.com.br/images/47/471681646247911.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/471681646247911.jpg",
+      "https://img.olx.com.br/images/49/499666529621681.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777809665
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:00",
     "fotoUrl": "https://img.olx.com.br/images/28/282623152405444.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/282623152405444.jpg"
     ],
-    "defeito": false,
+    "id": "1490832952",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/x-box-onde-series-1490832952",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "X box onde séries ",
     "ts": 1777809657
   },
   {
@@ -9890,23 +9909,5 @@
     "tempoOlx": "Na OLX desde junho de 2016",
     "titulo": "PES 2021 PS4 LACRADO",
     "ts": 1777743115
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:28",
-    "fotoUrl": "https://img.olx.com.br/images/91/912696635899184.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/912696635899184.jpg"
-    ],
-    "id": "1493277963",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-dsi-xl-chip-r14-3d-1493277963",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Nintendo dsi xl chip r14 3d",
-    "ts": 1777742902
   }
 ]
