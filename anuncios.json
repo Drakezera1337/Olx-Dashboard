@@ -1,21 +1,41 @@
 [
   {
-    "id": "1475513873",
-    "titulo": "Cyberpunk",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1480657666",
+    "titulo": "Alienation - PS4/Playstation 4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:27",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/cyberpunk-1475513873",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/alienation-ps4-playstation-4-1480657666",
+    "fotoUrl": "https://img.olx.com.br/images/31/316682376496240.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/316682376496240.jpg",
+      "https://img.olx.com.br/images/33/334660495363847.jpg",
+      "https://img.olx.com.br/images/36/364649615192903.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777843666
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:27",
     "fotoUrl": "https://img.olx.com.br/images/81/815668852437064.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/815668852437064.jpg",
       "https://img.olx.com.br/images/82/823611134220743.jpg"
     ],
-    "defeito": false,
+    "id": "1475513873",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/cyberpunk-1475513873",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "Cyberpunk",
     "ts": 1777843658
   },
   {
@@ -9823,25 +9843,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogo PS4 Infamous Second Son perfeito estado",
     "ts": 1777821212
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:13",
-    "fotoUrl": "https://img.olx.com.br/images/99/997556505951456.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/997556505951456.jpg",
-      "https://img.olx.com.br/images/99/997525140843853.jpg",
-      "https://img.olx.com.br/images/98/989506266885943.jpg"
-    ],
-    "id": "1384855376",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/ratchet-clank-playstation-4-1384855376",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Ratchet & Clank - Playstation 4",
-    "ts": 1777821201
   }
 ]
