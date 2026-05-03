@@ -1,22 +1,43 @@
 [
   {
-    "id": "1482263645",
-    "titulo": "Jogo TT Isle of Man PS4 ",
-    "preco": 279,
-    "precoRaw": "R$ 279",
+    "id": "1482248590",
+    "titulo": "Jogo Conan Exiles PS4 ",
+    "preco": 389,
+    "precoRaw": "R$ 389",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:02",
+    "detectado": "10:03",
     "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-tt-isle-of-man-ps4-1482263645",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-conan-exiles-ps4-1482248590",
+    "fotoUrl": "https://img.olx.com.br/images/78/782694742730111.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/782694742730111.jpg",
+      "https://img.olx.com.br/images/83/834601380798292.jpg",
+      "https://img.olx.com.br/images/89/890600629061620.jpg",
+      "https://img.olx.com.br/images/92/924698864816046.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777813384
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:02",
     "fotoUrl": "https://img.olx.com.br/images/50/501641268416779.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/501641268416779.jpg",
       "https://img.olx.com.br/images/51/515674025919006.jpg",
       "https://img.olx.com.br/images/53/535630745912442.jpg"
     ],
-    "defeito": false,
+    "id": "1482263645",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-tt-isle-of-man-ps4-1482263645",
+    "preco": 279,
+    "precoRaw": "R$ 279",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Jogo TT Isle of Man PS4 ",
     "ts": 1777813374
   },
   {
@@ -9880,23 +9901,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Watch Dogs Legion",
     "ts": 1777753771
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:29",
-    "fotoUrl": "https://img.olx.com.br/images/93/931660288734608.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/931660288734608.jpg"
-    ],
-    "id": "1498771470",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/world-war-z-1498771470",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "World War Z",
-    "ts": 1777753762
   }
 ]
