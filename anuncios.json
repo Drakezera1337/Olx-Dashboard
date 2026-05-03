@@ -1,22 +1,42 @@
 [
   {
-    "id": "1490677497",
-    "titulo": "Spider-man ",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "jogos",
+    "id": "1498863874",
+    "titulo": "Cavaleiros do Zodíaco Dublado",
+    "preco": 325,
+    "precoRaw": "R$ 325",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "09:02",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/spider-man-1490677497",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/cavaleiros-do-zodiaco-dublado-1498863874",
+    "fotoUrl": "https://img.olx.com.br/images/45/452657768180984.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/452657768180984.jpg",
+      "https://img.olx.com.br/images/47/471629406717748.jpg",
+      "https://img.olx.com.br/images/49/492664766980055.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777809748
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:02",
     "fotoUrl": "https://img.olx.com.br/images/90/905640631325056.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/905640631325056.jpg",
       "https://img.olx.com.br/images/91/914628155604054.jpg",
       "https://img.olx.com.br/images/93/931657871258243.jpg"
     ],
-    "defeito": false,
+    "id": "1490677497",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/spider-man-1490677497",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Spider-man ",
     "ts": 1777809739
   },
   {
@@ -9897,23 +9917,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Fifa 19",
     "ts": 1777744187
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:49",
-    "fotoUrl": "https://img.olx.com.br/images/28/283650622596180.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/283650622596180.jpg"
-    ],
-    "id": "1486534931",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-16-1486534931",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Fifa 16",
-    "ts": 1777744175
   }
 ]
