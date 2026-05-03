@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498941819",
-    "titulo": "Playstation 3",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps3",
+    "id": "1498942135",
+    "titulo": "Jogo Gran Turismo 7 ps4 ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:49",
-    "tempoOlx": "Na OLX desde abril de 2018",
+    "detectado": "16:51",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1498941819",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-gran-turismo-7-ps4-1498942135",
+    "fotoUrl": "https://img.olx.com.br/images/63/630652163934966.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/630652163934966.jpg",
+      "https://img.olx.com.br/images/65/656679886320529.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777837864
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:49",
     "fotoUrl": "https://img.olx.com.br/images/46/464605041769405.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/464605041769405.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/49/490675287370971.jpg",
       "https://img.olx.com.br/images/49/492689763257815.jpg"
     ],
-    "defeito": false,
+    "id": "1498941819",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1498941819",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2018",
+    "titulo": "Playstation 3",
     "ts": 1777837746
   },
   {
@@ -9844,25 +9863,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Grand Theft Auto V - PS4",
     "ts": 1777817981
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:19",
-    "fotoUrl": "https://img.olx.com.br/images/74/744543401911642.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/744543401911642.jpg",
-      "https://img.olx.com.br/images/73/732512045347855.jpg",
-      "https://img.olx.com.br/images/74/741534041845890.jpg"
-    ],
-    "id": "1405720790",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/tom-clancy-s-the-division-ps4-1405720790",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Tom Clancy's The Division - PS4",
-    "ts": 1777817972
   }
 ]
