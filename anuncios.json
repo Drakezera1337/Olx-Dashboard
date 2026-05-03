@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498980379",
-    "titulo": "Jogos PS4",
-    "preco": 250,
-    "precoRaw": "R$ 250",
+    "id": "1473561289",
+    "titulo": "Hellblade Senua's Sacrifice PS4",
+    "preco": 170,
+    "precoRaw": "R$ 170",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:10",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "tempoOlx": "Na OLX desde novembro de 2014",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-1498980379",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/hellblade-senua-s-sacrifice-ps4-1473561289",
+    "fotoUrl": "https://img.olx.com.br/images/91/914633006086234.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/914633006086234.jpg",
+      "https://img.olx.com.br/images/91/914646725511188.jpg",
+      "https://img.olx.com.br/images/91/917604600535477.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777849819
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:10",
     "fotoUrl": "https://img.olx.com.br/images/44/447634885568788.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/447634885568788.jpg"
     ],
-    "defeito": false,
+    "id": "1498980379",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-1498980379",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "Jogos PS4",
     "ts": 1777849807
   },
   {
@@ -9865,24 +9885,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2013",
     "titulo": "sniper elite 3 ULTIMATE EDITION",
     "ts": 1777823445
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:50",
-    "fotoUrl": "https://img.olx.com.br/images/76/760680267367974.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/760680267367974.jpg",
-      "https://img.olx.com.br/images/77/778698863273909.jpg"
-    ],
-    "id": "1484693036",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/need-for-speed-rivals-ps4-completo-com-manual-1484693036",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2013",
-    "titulo": "Need for Speed Rivals PS4 Completo com Manual",
-    "ts": 1777823431
   }
 ]
