@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498601507",
-    "titulo": "Ps4",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1498908220",
+    "titulo": "FIFA 20 PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:32",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "detectado": "13:33",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1498601507",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-20-ps4-1498908220",
+    "fotoUrl": "https://img.olx.com.br/images/66/661632045774709.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/661632045774709.jpg",
+      "https://img.olx.com.br/images/68/682636401275428.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777825985
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:32",
     "fotoUrl": "https://img.olx.com.br/images/70/700608409115924.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/700608409115924.jpg",
       "https://img.olx.com.br/images/72/721612640912840.jpg"
     ],
-    "defeito": false,
+    "id": "1498601507",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1498601507",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Ps4",
     "ts": 1777825973
   },
   {
@@ -9803,29 +9822,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Nintendo Switch Lite",
-    "ts": 1777786882
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:41",
-    "fotoUrl": "https://img.olx.com.br/images/69/694649519934064.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/694649519934064.jpg",
-      "https://img.olx.com.br/images/71/715607152646393.jpg",
-      "https://img.olx.com.br/images/23/230607278372364.jpg",
-      "https://img.olx.com.br/images/25/251661391309963.jpg",
-      "https://img.olx.com.br/images/27/270664150188276.jpg",
-      "https://img.olx.com.br/images/30/308661391577386.jpg"
-    ],
-    "id": "1498362680",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/game-strik-4k-ultra-hd-1498362680",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Game Strik 4k Ultra HD",
     "ts": 1777786882
   }
 ]
