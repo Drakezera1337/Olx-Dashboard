@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498563697",
-    "titulo": "Nitendo Switch",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1498949499",
+    "titulo": "Plastation 3 , liga e desliga ",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "17:31",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "detectado": "17:33",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/nitendo-switch-1498563697",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/plastation-3-liga-e-desliga-1498949499",
+    "fotoUrl": "https://img.olx.com.br/images/64/643648042746169.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/643648042746169.jpg",
+      "https://img.olx.com.br/images/66/669612640616289.jpg",
+      "https://img.olx.com.br/images/67/676688169581337.jpg",
+      "https://img.olx.com.br/images/68/689619402878374.jpg",
+      "https://img.olx.com.br/images/70/701682402669702.jpg",
+      "https://img.olx.com.br/images/71/719669161069025.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777840418
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:31",
     "fotoUrl": "https://img.olx.com.br/images/24/248611641825321.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/248611641825321.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/27/275604406153268.jpg",
       "https://img.olx.com.br/images/29/298606767753867.jpg"
     ],
-    "defeito": false,
+    "id": "1498563697",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/nitendo-switch-1498563697",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Nitendo Switch",
     "ts": 1777840268
   },
   {
@@ -9833,23 +9856,5 @@
     "tempoOlx": "Na OLX desde novembro de 2023",
     "titulo": "Nioh - Playstation 4",
     "ts": 1777819723
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/66/667677636155959.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/667677636155959.jpg"
-    ],
-    "id": "1490766510",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/doom-ps4-1490766510",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2023",
-    "titulo": "Doom - PS4",
-    "ts": 1777819712
   }
 ]
