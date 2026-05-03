@@ -1,21 +1,40 @@
 [
   {
-    "id": "1475513550",
-    "titulo": "Horizon Zero Dawn e Forbidden West",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1475513194",
+    "titulo": "God of War Ragnarok",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "18:33",
     "tempoOlx": "Na OLX desde fevereiro de 2014",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/horizon-zero-dawn-e-forbidden-west-1475513550",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/god-of-war-ragnarok-1475513194",
+    "fotoUrl": "https://img.olx.com.br/images/26/267656491788904.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/267656491788904.jpg",
+      "https://img.olx.com.br/images/29/293611372088567.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777844036
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/17/176683135540259.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/176683135540259.jpg",
       "https://img.olx.com.br/images/18/188698731161552.jpg"
     ],
-    "defeito": false,
+    "id": "1475513550",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/horizon-zero-dawn-e-forbidden-west-1475513550",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "Horizon Zero Dawn e Forbidden West",
     "ts": 1777844025
   },
   {
@@ -9819,24 +9838,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Jogos ps4/ps5 ",
     "ts": 1777821553
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:19",
-    "fotoUrl": "https://img.olx.com.br/images/42/425646159467740.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/425646159467740.jpg",
-      "https://img.olx.com.br/images/43/433690399511191.jpg"
-    ],
-    "id": "1498364514",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/spider-man-playstation-4-midia-fisica-1498364514",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Spider-man Playstation 4 mídia física ",
-    "ts": 1777821544
   }
 ]
