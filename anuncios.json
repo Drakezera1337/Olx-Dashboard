@@ -1,20 +1,41 @@
 [
   {
-    "id": "1498665582",
-    "titulo": "Jogo PS4(PS5)",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "ps5",
+    "id": "1498566359",
+    "titulo": "Gta 5 ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:48",
     "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-ps5-1498665582",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/gta-5-ps4-1498566359",
+    "fotoUrl": "https://img.olx.com.br/images/98/982609280274513.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/982609280274513.jpg",
+      "https://img.olx.com.br/images/10/101626649666683.jpg",
+      "https://img.olx.com.br/images/12/123698648536068.jpg",
+      "https://img.olx.com.br/images/14/143662163697535.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777826905
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:48",
     "fotoUrl": "https://img.olx.com.br/images/35/359672280032012.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/359672280032012.jpg"
     ],
-    "defeito": false,
+    "id": "1498665582",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-ps5-1498665582",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2025",
+    "titulo": "Jogo PS4(PS5)",
     "ts": 1777826896
   },
   {
@@ -9769,26 +9790,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Nitendo swich OLED com (super mario wonder) com 1 mês de uso pelo valor de: 2.400*",
-    "ts": 1777786947
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:42",
-    "fotoUrl": "https://img.olx.com.br/images/98/984601033282736.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/984601033282736.jpg",
-      "https://img.olx.com.br/images/99/993675877930214.jpg",
-      "https://img.olx.com.br/images/11/113686391874087.jpg"
-    ],
-    "id": "1493632075",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-qrd-stellar-t5-para-nintendo-switch-1493632075",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "controle qrd stellar t5 para nintendo switch",
     "ts": 1777786947
   }
 ]
