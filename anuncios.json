@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498406735",
-    "titulo": "Call of Duty Modern Warfare 4",
-    "preco": 38,
-    "precoRaw": "R$ 38",
-    "categoria": "jogos",
+    "id": "1498393625",
+    "titulo": "Jogo PS4 Resident Evil 3 Semi Novo",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:37",
     "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/call-of-duty-modern-warfare-4-1498406735",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-resident-evil-3-semi-novo-1498393625",
+    "fotoUrl": "https://img.olx.com.br/images/84/840609402509854.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/840609402509854.jpg",
+      "https://img.olx.com.br/images/87/879693162846995.jpg",
+      "https://img.olx.com.br/images/90/902601883399821.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777822672
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:37",
     "fotoUrl": "https://img.olx.com.br/images/29/290622886494707.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/290622886494707.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/32/323666767473922.jpg",
       "https://img.olx.com.br/images/34/342670289893219.jpg"
     ],
-    "defeito": false,
+    "id": "1498406735",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/call-of-duty-modern-warfare-4-1498406735",
+    "preco": 38,
+    "precoRaw": "R$ 38",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "Call of Duty Modern Warfare 4",
     "ts": 1777822665
   },
   {
@@ -9852,23 +9872,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "LEGO Star Wars: O Despertar da Força - PS4 (Original)",
     "ts": 1777768117
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:28",
-    "fotoUrl": "https://img.olx.com.br/images/65/656698762873565.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/656698762873565.jpg"
-    ],
-    "id": "1498809005",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-1498809005",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2023",
-    "titulo": "Jogo ps4",
-    "ts": 1777768106
   }
 ]
