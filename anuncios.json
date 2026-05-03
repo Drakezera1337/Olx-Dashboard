@@ -1,20 +1,41 @@
 [
   {
-    "id": "1498927501",
-    "titulo": "Vídeo game barato Xbox ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "xbox",
+    "id": "1498927941",
+    "titulo": "Astrobot PS5",
+    "preco": 190,
+    "precoRaw": "R$ 190",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:25",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "detectado": "15:28",
+    "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-divinopolis/games/consoles-de-video-game/video-game-barato-xbox-1498927501",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/astrobot-ps5-1498927941",
+    "fotoUrl": "https://img.olx.com.br/images/22/228652649035990.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/228652649035990.jpg",
+      "https://img.olx.com.br/images/23/232684648755814.jpg",
+      "https://img.olx.com.br/images/24/244613769210845.jpg",
+      "https://img.olx.com.br/images/25/255653764405001.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777832918
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:25",
     "fotoUrl": "https://img.olx.com.br/images/87/871604527315003.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/871604527315003.jpg"
     ],
-    "defeito": false,
+    "id": "1498927501",
+    "link": "https://mg.olx.com.br/regiao-de-divinopolis/games/consoles-de-video-game/video-game-barato-xbox-1498927501",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Vídeo game barato Xbox ",
     "ts": 1777832712
   },
   {
@@ -9848,23 +9869,5 @@
     "tempoOlx": "Na OLX desde setembro de 2020",
     "titulo": "Farcry 4 Ps4 original seminovo Far cry 4 Playstation 4",
     "ts": 1777812989
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:56",
-    "fotoUrl": "https://img.olx.com.br/images/99/994692168170206.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/994692168170206.jpg"
-    ],
-    "id": "1498872286",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-slim-1tb-1498872286",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Ps4 Slim 1TB",
-    "ts": 1777812980
   }
 ]
