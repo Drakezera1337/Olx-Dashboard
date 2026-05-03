@@ -1,22 +1,43 @@
 [
   {
-    "id": "1498825919",
-    "titulo": "iPhone 16 Pro Max ",
-    "preco": 7000,
-    "precoRaw": "R$ 7.000",
-    "categoria": "iphone",
+    "id": "1498826012",
+    "titulo": "Death Stranding PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:20",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "00:22",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1498825919",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/death-stranding-ps4-1498826012",
+    "fotoUrl": "https://img.olx.com.br/images/35/353680881800277.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/353680881800277.jpg",
+      "https://img.olx.com.br/images/37/373688644334387.jpg",
+      "https://img.olx.com.br/images/38/383695169779300.jpg",
+      "https://img.olx.com.br/images/40/408659048959241.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777778575
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:20",
     "fotoUrl": "https://img.olx.com.br/images/44/442648887806871.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/442648887806871.jpg",
       "https://img.olx.com.br/images/45/454682044160759.jpg",
       "https://img.olx.com.br/images/46/463631406009725.jpg"
     ],
-    "defeito": false,
+    "id": "1498825919",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1498825919",
+    "preco": 7000,
+    "precoRaw": "R$ 7.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "iPhone 16 Pro Max ",
     "ts": 1777778457
   },
   {
@@ -9838,24 +9859,5 @@
     "tempoOlx": "Na OLX desde julho de 2021",
     "titulo": "Fifa 19 Ps4 / edição dos campeões ",
     "ts": 1777731785
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:22",
-    "fotoUrl": "https://img.olx.com.br/images/67/677633047401188.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/677633047401188.jpg",
-      "https://img.olx.com.br/images/69/693629163408252.jpg"
-    ],
-    "id": "1498683961",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/elden-ring-ps4-1498683961",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Elden Ring PS4",
-    "ts": 1777731777
   }
 ]
