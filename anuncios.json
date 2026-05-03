@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498890720",
-    "titulo": "FIFA 15",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1498890433",
+    "titulo": "FIFA 17 ",
+    "preco": 75,
+    "precoRaw": "R$ 75",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "11:54",
     "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/fifa-15-1498890720",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/fifa-17-1498890433",
+    "fotoUrl": "https://img.olx.com.br/images/30/300623408419757.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/300623408419757.jpg",
+      "https://img.olx.com.br/images/31/311686289239085.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777820064
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:54",
     "fotoUrl": "https://img.olx.com.br/images/71/719604167403060.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/719604167403060.jpg",
       "https://img.olx.com.br/images/72/721647166078722.jpg"
     ],
-    "defeito": false,
+    "id": "1498890720",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/fifa-15-1498890720",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "FIFA 15",
     "ts": 1777820056
   },
   {
@@ -9865,23 +9884,5 @@
     "tempoOlx": "Na OLX desde junho de 2022",
     "titulo": "PS3 Super Slim - Funciona (para peças ou manutenção)",
     "ts": 1777760874
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:26",
-    "fotoUrl": "https://img.olx.com.br/images/20/209689520570006.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/209689520570006.jpg"
-    ],
-    "id": "1498793103",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/spider-man-miles-morales-jogo-playstation-4-1498793103",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2019",
-    "titulo": "Spider Man Miles Morales - Jogo - Playstation 4",
-    "ts": 1777760783
   }
 ]
