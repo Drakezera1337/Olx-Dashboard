@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498391455",
-    "titulo": "Street fighter ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1498507792",
+    "titulo": "FIFA 20",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "13:33",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "tempoOlx": "Na OLX desde outubro de 2022",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/street-fighter-ps4-1498391455",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-20-1498507792",
+    "fotoUrl": "https://img.olx.com.br/images/42/421630282500812.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/421630282500812.jpg",
+      "https://img.olx.com.br/images/43/432676401306539.jpg",
+      "https://img.olx.com.br/images/45/452681527850127.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777826002
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:33",
     "fotoUrl": "https://img.olx.com.br/images/81/816693766439038.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/816693766439038.jpg",
       "https://img.olx.com.br/images/82/823619401924910.jpg",
       "https://img.olx.com.br/images/86/867651282039782.jpg"
     ],
-    "defeito": false,
+    "id": "1498391455",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/street-fighter-ps4-1498391455",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Street fighter ps4",
     "ts": 1777825993
   },
   {
@@ -9799,27 +9819,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Skylanders Imaginators Switch (raríssimo)",
-    "ts": 1777786882
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:41",
-    "fotoUrl": "https://img.olx.com.br/images/51/513586468723143.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/513586468723143.jpg",
-      "https://img.olx.com.br/images/51/518591821151886.jpg",
-      "https://img.olx.com.br/images/51/517564940968762.jpg",
-      "https://img.olx.com.br/images/51/516516707563570.jpg"
-    ],
-    "id": "1450076122",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/nintendo-world-championchips-nes-edition-switch-lacrado-1450076122",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo World Championchips Nes Edition Switch Lacrado",
     "ts": 1777786882
   }
 ]
