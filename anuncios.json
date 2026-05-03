@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498815656",
-    "titulo": "Play 4",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "outros",
+    "id": "1498816602",
+    "titulo": "iPhone 16 Pro Max ",
+    "preco": 7000,
+    "precoRaw": "R$ 7.000",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "22:21",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "22:25",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "descricao": "",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/jogos-de-video-game/play-4-1498815656",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1498816602",
+    "fotoUrl": "https://img.olx.com.br/images/41/410648522521432.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/410648522521432.jpg",
+      "https://img.olx.com.br/images/42/420615525624317.jpg",
+      "https://img.olx.com.br/images/43/434633407276747.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777771500
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:21",
     "fotoUrl": "https://img.olx.com.br/images/51/518680404331625.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/518680404331625.jpg"
     ],
-    "defeito": false,
+    "id": "1498815656",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/jogos-de-video-game/play-4-1498815656",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Play 4",
     "ts": 1777771282
   },
   {
@@ -9808,27 +9828,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Ark Survival evolved PS4 (funciona no ps5 versão de disco)",
     "ts": 1777731178
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:12",
-    "fotoUrl": "https://img.olx.com.br/images/40/402682163805304.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/402682163805304.jpg",
-      "https://img.olx.com.br/images/42/427658764933132.jpg",
-      "https://img.olx.com.br/images/45/453669525067098.jpg",
-      "https://img.olx.com.br/images/47/476680642354378.jpg",
-      "https://img.olx.com.br/images/49/496601407412729.jpg"
-    ],
-    "id": "1498673777",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/ps4-em-estado-de-novo-a-venda-1498673777",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Ps4 em estado de novo a venda ",
-    "ts": 1777731170
   }
 ]
