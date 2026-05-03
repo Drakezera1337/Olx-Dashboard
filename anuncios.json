@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498984288",
-    "titulo": "PlayStation 4 500Gb + 2 controles originais e 3 jogos",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1498984746",
+    "titulo": "PlayStation 5 Fat 825 GB",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "20:33",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "detectado": "20:35",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-500gb-2-controles-originais-e-3-jogos-1498984288",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-fat-825-gb-1498984746",
+    "fotoUrl": "https://img.olx.com.br/images/49/493624404930960.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/493624404930960.jpg",
+      "https://img.olx.com.br/images/49/490623404657214.jpg",
+      "https://img.olx.com.br/images/49/493611280268874.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777851309
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:33",
     "fotoUrl": "https://img.olx.com.br/images/97/975696643478742.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/975696643478742.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/12/129671521422027.jpg",
       "https://img.olx.com.br/images/14/146662527557451.jpg"
     ],
-    "defeito": false,
+    "id": "1498984288",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-500gb-2-controles-originais-e-3-jogos-1498984288",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "PlayStation 4 500Gb + 2 controles originais e 3 jogos",
     "ts": 1777851234
   },
   {
@@ -9878,23 +9898,5 @@
     "tempoOlx": "Na OLX desde outubro de 2018",
     "titulo": "Jogo Tomb Raider Definitive Edition Ps4 Usado Mídia Física",
     "ts": 1777823613
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:53",
-    "fotoUrl": "https://img.olx.com.br/images/70/703629360312058.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/703629360312058.jpg"
-    ],
-    "id": "1469211969",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-fifa-17-midia-fisica-otimo-estado-funciona-100-1469211969",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Jogo PS4 - Fifa 17 - Mídia Física - Ótimo Estado - Funciona 100%",
-    "ts": 1777823602
   }
 ]
