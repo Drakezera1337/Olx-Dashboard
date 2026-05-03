@@ -1,21 +1,40 @@
 [
   {
-    "id": "1498987261",
-    "titulo": "? iPhone 16 Pro Max disponível!",
-    "preco": 6199,
-    "precoRaw": "R$ 6.199",
-    "categoria": "iphone",
+    "id": "1498988065",
+    "titulo": "Kit Jogos PS4",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:53",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-disponivel-1498987261",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/kit-jogos-ps4-1498988065",
+    "fotoUrl": "https://img.olx.com.br/images/57/578622169600156.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/578622169600156.jpg",
+      "https://img.olx.com.br/images/58/585687649497571.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777852422
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:53",
     "fotoUrl": "https://img.olx.com.br/images/34/340639643965883.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/340639643965883.jpg",
       "https://img.olx.com.br/images/35/357658162610112.jpg"
     ],
-    "defeito": false,
+    "id": "1498987261",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-disponivel-1498987261",
+    "preco": 6199,
+    "precoRaw": "R$ 6.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "? iPhone 16 Pro Max disponível!",
     "ts": 1777852388
   },
   {
@@ -9885,24 +9904,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "PES 2020 para PS4",
     "ts": 1777824170
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:02",
-    "fotoUrl": "https://img.olx.com.br/images/74/743620645032153.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/743620645032153.jpg",
-      "https://img.olx.com.br/images/76/767620520931128.jpg"
-    ],
-    "id": "1498445527",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fc-24-ps4-1498445527",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "FC 24 PS4",
-    "ts": 1777824161
   }
 ]
