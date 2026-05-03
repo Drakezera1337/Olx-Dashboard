@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498925270",
-    "titulo": "God of War",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "jogos",
+    "id": "1498925018",
+    "titulo": "Playstation 4 1TB c/Battlefield V",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "15:12",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-1498925270",
+    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/playstation-4-1tb-c-battlefield-v-1498925018",
+    "fotoUrl": "https://img.olx.com.br/images/42/420652524019589.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/420652524019589.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777831935
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:12",
     "fotoUrl": "https://img.olx.com.br/images/21/210695166258556.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/210695166258556.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/25/251603641738270.jpg",
       "https://img.olx.com.br/images/26/266604886174827.jpg"
     ],
-    "defeito": false,
+    "id": "1498925270",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-1498925270",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "God of War",
     "ts": 1777831924
   },
   {
@@ -9843,25 +9861,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Metal Gear Survive PS4",
     "ts": 1777812660
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:50",
-    "fotoUrl": "https://img.olx.com.br/images/14/141693877838077.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/141693877838077.jpg",
-      "https://img.olx.com.br/images/18/189692279264961.jpg",
-      "https://img.olx.com.br/images/22/229604396686674.jpg"
-    ],
-    "id": "1490490624",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/outlast-trinity-ps4-1490490624",
-    "preco": 109,
-    "precoRaw": "R$ 109",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "OUTLAST TRINITY PS4",
-    "ts": 1777812651
   }
 ]
