@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498611886",
-    "titulo": "FIFA 20",
-    "preco": 81,
-    "precoRaw": "R$ 81",
-    "categoria": "jogos",
+    "id": "1498652841",
+    "titulo": "TEKKEN 6 PLATINUM PS3",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:26",
-    "tempoOlx": "Na OLX desde julho de 2022",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/fifa-20-1498611886",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/jogos-de-video-game/tekken-6-platinum-ps3-1498652841",
+    "fotoUrl": "https://img.olx.com.br/images/66/667693525659179.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/667693525659179.jpg",
+      "https://img.olx.com.br/images/67/676648167629083.jpg",
+      "https://img.olx.com.br/images/68/687652520536890.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777825582
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:26",
     "fotoUrl": "https://img.olx.com.br/images/88/881694642409229.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/881694642409229.jpg"
     ],
-    "defeito": false,
+    "id": "1498611886",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/fifa-20-1498611886",
+    "preco": 81,
+    "precoRaw": "R$ 81",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "FIFA 20",
     "ts": 1777825571
   },
   {
@@ -9802,26 +9822,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "LliPhone 15 Pro Max",
-    "ts": 1777786807
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:40",
-    "fotoUrl": "https://img.olx.com.br/images/99/991625883946626.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/991625883946626.jpg",
-      "https://img.olx.com.br/images/11/118660407613634.jpg",
-      "https://img.olx.com.br/images/13/130647403583829.jpg"
-    ],
-    "id": "1498671682",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-plus-64g-1498671682",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 8 Plus 64g",
     "ts": 1777786807
   }
 ]
