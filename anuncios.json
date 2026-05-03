@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498963994",
-    "titulo": "PS 5 ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "outros",
+    "id": "1498964553",
+    "titulo": "Ps4 slim",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:22",
-    "tempoOlx": "Na OLX desde novembro de 2017",
+    "detectado": "18:23",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps-5-1498963994",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-1498964553",
+    "fotoUrl": "https://img.olx.com.br/images/80/803653409194753.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/803653409194753.jpg",
+      "https://img.olx.com.br/images/81/814618765106227.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777843385
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:22",
     "fotoUrl": "https://img.olx.com.br/images/96/965650646484673.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/965650646484673.jpg"
     ],
-    "defeito": false,
+    "id": "1498963994",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps-5-1498963994",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2017",
+    "titulo": "PS 5 ",
     "ts": 1777843354
   },
   {
@@ -9823,24 +9842,5 @@
     "tempoOlx": "Na OLX desde março de 2018",
     "titulo": "Jogo de ps4 homem aranha",
     "ts": 1777821193
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:13",
-    "fotoUrl": "https://img.olx.com.br/images/94/942669165176831.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/942669165176831.jpg",
-      "https://img.olx.com.br/images/95/956674528766552.jpg"
-    ],
-    "id": "1498894137",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/bundle-batlefield-1e-5-1498894137",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Bundle batlefield 1e 5",
-    "ts": 1777821182
   }
 ]
