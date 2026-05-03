@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498940644",
-    "titulo": "PlayStation 3 Slim, modelo CECH-210",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1498940592",
+    "titulo": "PS5 Slim 825 gb",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "16:41",
+    "detectado": "16:43",
     "tempoOlx": "Na OLX desde março de 2016",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-3-slim-modelo-cech-210-1498940644",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps5-slim-825-gb-1498940592",
+    "fotoUrl": "https://img.olx.com.br/images/61/612692161276896.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/612692161276896.jpg",
+      "https://img.olx.com.br/images/63/631675165896032.jpg",
+      "https://img.olx.com.br/images/64/642637161064944.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777837416
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:41",
     "fotoUrl": "https://img.olx.com.br/images/11/112693400417873.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/112693400417873.jpg",
       "https://img.olx.com.br/images/13/133665883329676.jpg",
       "https://img.olx.com.br/images/14/149679526311233.jpg"
     ],
-    "defeito": false,
+    "id": "1498940644",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-3-slim-modelo-cech-210-1498940644",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2016",
+    "titulo": "PlayStation 3 Slim, modelo CECH-210",
     "ts": 1777837297
   },
   {
@@ -9841,23 +9861,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "Need For Speed Rivals VENDO OU TROCO",
     "ts": 1777817573
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:12",
-    "fotoUrl": "https://img.olx.com.br/images/40/407661769800198.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/407661769800198.jpg"
-    ],
-    "id": "1498883053",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/marvel-spider-man-para-ps4-e-ps5-com-leitor-de-disco-1498883053",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Marvel Spider man para ps4 e ps5 com leitor de disco ",
-    "ts": 1777817564
   }
 ]
