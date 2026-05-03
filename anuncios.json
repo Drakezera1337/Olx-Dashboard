@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498879176",
-    "titulo": "Playstation 4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1431648259",
+    "titulo": "Jogo Red Dead Redemption 2 Ps4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:49",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "tempoOlx": "Na OLX desde novembro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1498879176",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-red-dead-redemption-2-ps4-1431648259",
+    "fotoUrl": "https://img.olx.com.br/images/28/287545434783828.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/287545434783828.jpg",
+      "https://img.olx.com.br/images/29/291573673606219.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777816169
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:49",
     "fotoUrl": "https://img.olx.com.br/images/57/573675523979174.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/573675523979174.jpg"
     ],
-    "defeito": false,
+    "id": "1498879176",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1498879176",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Playstation 4",
     "ts": 1777816160
   },
   {
@@ -9869,26 +9888,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Red dead redempition 2 ps4 mídia digital ",
     "ts": 1777756371
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:12",
-    "fotoUrl": "https://img.olx.com.br/images/52/520647525332896.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/520647525332896.jpg",
-      "https://img.olx.com.br/images/53/537678888052436.jpg",
-      "https://img.olx.com.br/images/55/556691527220578.jpg",
-      "https://img.olx.com.br/images/56/564637165636434.jpg"
-    ],
-    "id": "1498782545",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-mapa-ps4-ps5-1498782545",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2019",
-    "titulo": "Red Dead Redemption 2 + Mapa Ps4/Ps5",
-    "ts": 1777756362
   }
 ]
