@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498840094",
-    "titulo": "Xbox Series S",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1498865440",
+    "titulo": "Ps3 Fat ylod",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "09:01",
-    "tempoOlx": "Na OLX desde outubro de 2015",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-1498840094",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/ps3-fat-ylod-1498865440",
+    "fotoUrl": "https://img.olx.com.br/images/46/467657042636697.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/467657042636697.jpg",
+      "https://img.olx.com.br/images/47/475614521529316.jpg",
+      "https://img.olx.com.br/images/48/486651769306262.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777809674
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:01",
     "fotoUrl": "https://img.olx.com.br/images/47/471681646247911.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/471681646247911.jpg",
       "https://img.olx.com.br/images/49/499666529621681.jpg"
     ],
-    "defeito": false,
+    "id": "1498840094",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-1498840094",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2015",
+    "titulo": "Xbox Series S",
     "ts": 1777809665
   },
   {
@@ -9890,24 +9910,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "TEMPLATE PS5 SPIDER MAN",
     "ts": 1777743265
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:31",
-    "fotoUrl": "https://img.olx.com.br/images/77/770658505536665.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/770658505536665.jpg",
-      "https://img.olx.com.br/images/79/794613628233545.jpg"
-    ],
-    "id": "1489889441",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/pes-2021-ps4-lacrado-1489889441",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "PES 2021 PS4 LACRADO",
-    "ts": 1777743115
   }
 ]
