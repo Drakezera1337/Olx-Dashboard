@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498461557",
-    "titulo": "SPIDER-MAN PS4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1498463005",
+    "titulo": "LEGO NINJAGO PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:09",
     "tempoOlx": "Na OLX desde março de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/spider-man-ps4-1498461557",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/lego-ninjago-ps4-1498463005",
+    "fotoUrl": "https://img.olx.com.br/images/98/988690284564676.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/988690284564676.jpg",
+      "https://img.olx.com.br/images/99/991606284524707.jpg",
+      "https://img.olx.com.br/images/11/116609641621038.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777824588
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:09",
     "fotoUrl": "https://img.olx.com.br/images/16/165635165852214.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/165635165852214.jpg",
       "https://img.olx.com.br/images/18/186631042632007.jpg",
       "https://img.olx.com.br/images/19/198663888622429.jpg"
     ],
-    "defeito": false,
+    "id": "1498461557",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/spider-man-ps4-1498461557",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2020",
+    "titulo": "SPIDER-MAN PS4",
     "ts": 1777824579
   },
   {
@@ -9798,25 +9818,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "IPHONE 15 PRO MAX 256 ",
-    "ts": 1777786781
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:39",
-    "fotoUrl": "https://img.olx.com.br/images/15/158623398546343.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/158623398546343.jpg",
-      "https://img.olx.com.br/images/16/163671874145933.jpg"
-    ],
-    "id": "1490919458",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-1490919458",
-    "preco": 3400,
-    "precoRaw": "R$ 3.400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14 Pro Max ",
     "ts": 1777786781
   }
 ]
