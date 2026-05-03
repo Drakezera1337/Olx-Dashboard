@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498954483",
-    "titulo": "IPHONE 15 128GB",
-    "preco": 3300,
-    "precoRaw": "R$ 3.300",
-    "categoria": "iphone",
+    "id": "1498953620",
+    "titulo": "PlayStation 4 Slim 1tb + Jogos",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:38",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "detectado": "17:40",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-1498954483",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-jogos-1498953620",
+    "fotoUrl": "https://img.olx.com.br/images/67/673606283728401.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/673606283728401.jpg",
+      "https://img.olx.com.br/images/75/752609285868742.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777840810
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:38",
     "fotoUrl": "https://img.olx.com.br/images/50/503644524112447.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/503644524112447.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/53/538658523254094.jpg",
       "https://img.olx.com.br/images/55/555688648264583.jpg"
     ],
-    "defeito": false,
+    "id": "1498954483",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-1498954483",
+    "preco": 3300,
+    "precoRaw": "R$ 3.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "IPHONE 15 128GB",
     "ts": 1777840719
   },
   {
@@ -9838,28 +9857,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Controle gamer PS3 /pc",
     "ts": 1777819834
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:49",
-    "fotoUrl": "https://img.olx.com.br/images/42/427612283293278.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/427612283293278.jpg",
-      "https://img.olx.com.br/images/44/442618400502038.jpg",
-      "https://img.olx.com.br/images/45/450655527642091.jpg",
-      "https://img.olx.com.br/images/47/477603647344158.jpg",
-      "https://img.olx.com.br/images/48/481669166271556.jpg",
-      "https://img.olx.com.br/images/49/495698289988254.jpg"
-    ],
-    "id": "1498889745",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1498889745",
-    "preco": 1550,
-    "precoRaw": "R$ 1.550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2021",
-    "titulo": "iPhone 12",
-    "ts": 1777819747
   }
 ]
