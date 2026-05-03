@@ -1,20 +1,39 @@
 [
   {
-    "id": "1498938627",
-    "titulo": "Nintendo oled",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "categoria": "switch",
+    "id": "1498938980",
+    "titulo": "Jogo Marvel SPIDER-MAN-ps4 com DLC",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:28",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "detectado": "16:30",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/nintendo-oled-1498938627",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-marvel-spider-man-ps4-com-dlc-1498938980",
+    "fotoUrl": "https://img.olx.com.br/images/79/799666401081318.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/799666401081318.jpg",
+      "https://img.olx.com.br/images/82/828606161119920.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777836606
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:28",
     "fotoUrl": "https://img.olx.com.br/images/51/513667521801745.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/513667521801745.jpg"
     ],
-    "defeito": false,
+    "id": "1498938627",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/nintendo-oled-1498938627",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "Nintendo oled",
     "ts": 1777836485
   },
   {
@@ -9838,26 +9857,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "Nintendo switch",
     "ts": 1777817084
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:04",
-    "fotoUrl": "https://img.olx.com.br/images/24/244580397718075.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/244580397718075.jpg",
-      "https://img.olx.com.br/images/11/117503277018774.jpg",
-      "https://img.olx.com.br/images/10/104574033530945.jpg",
-      "https://img.olx.com.br/images/10/101553513382423.jpg"
-    ],
-    "id": "1392947687",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-jogo-spyro-1392947687",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2019",
-    "titulo": "Playstation 4 com jogo Spyro",
-    "ts": 1777817075
   }
 ]
