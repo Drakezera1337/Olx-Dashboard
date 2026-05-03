@@ -1,21 +1,42 @@
 [
   {
-    "id": "1498946321",
-    "titulo": "Nitendo",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "outros",
+    "id": "1482095606",
+    "titulo": "The last of us 2",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "17:53",
-    "tempoOlx": "Na OLX desde agosto de 2021",
+    "detectado": "17:57",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/nitendo-1498946321",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/the-last-of-us-2-1482095606",
+    "fotoUrl": "https://img.olx.com.br/images/55/559658266506237.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/559658266506237.jpg",
+      "https://img.olx.com.br/images/57/579600027816112.jpg",
+      "https://img.olx.com.br/images/59/595658023160227.jpg",
+      "https://img.olx.com.br/images/61/619685384008989.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777841829
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:53",
     "fotoUrl": "https://img.olx.com.br/images/38/386653162190023.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/386653162190023.jpg",
       "https://img.olx.com.br/images/39/390689880730026.jpg"
     ],
-    "defeito": false,
+    "id": "1498946321",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/nitendo-1498946321",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2021",
+    "titulo": "Nitendo",
     "ts": 1777841585
   },
   {
@@ -9823,23 +9844,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Playstation 4",
     "ts": 1777820645
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:00",
-    "fotoUrl": "https://img.olx.com.br/images/61/615539352805378.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/615539352805378.jpg"
-    ],
-    "id": "1465506813",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-de-jogos-5-god-of-war-ragnarok-ps4-dublado-lacrado-1465506813",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
-    "titulo": "Lote de jogos 5 god of war ragnarok ps4 dublado lacrado ",
-    "ts": 1777820440
   }
 ]
