@@ -1,21 +1,43 @@
 [
   {
-    "id": "1498518586",
-    "titulo": "Xbox Series S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1498814427",
+    "titulo": "PS4 512Gb (Leia a descrição)",
+    "preco": 299,
+    "precoRaw": "R$ 299",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:04",
-    "tempoOlx": "Na OLX desde janeiro de 2014",
+    "detectado": "22:08",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-1498518586",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-512gb-leia-a-descricao-1498814427",
+    "fotoUrl": "https://img.olx.com.br/images/73/738605404275176.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/738605404275176.jpg",
+      "https://img.olx.com.br/images/75/752694280146933.jpg",
+      "https://img.olx.com.br/images/77/772628402648820.jpg",
+      "https://img.olx.com.br/images/78/782608280570104.jpg",
+      "https://img.olx.com.br/images/79/799638282408934.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777770533
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:04",
     "fotoUrl": "https://img.olx.com.br/images/97/970632047148180.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/970632047148180.jpg",
       "https://img.olx.com.br/images/99/993693643156356.jpg"
     ],
-    "defeito": false,
+    "id": "1498518586",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-1498518586",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2014",
+    "titulo": "Xbox Series S ",
     "ts": 1777770243
   },
   {
@@ -9811,26 +9833,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "Fifa 15 ps4",
     "ts": 1777731128
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:11",
-    "fotoUrl": "https://img.olx.com.br/images/79/792646285371141.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/792646285371141.jpg",
-      "https://img.olx.com.br/images/80/802648045546291.jpg",
-      "https://img.olx.com.br/images/82/823609402425036.jpg",
-      "https://img.olx.com.br/images/83/835635520047728.jpg"
-    ],
-    "id": "1498675089",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/fifa-14-ps4-1498675089",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "Fifa 14 ps4",
-    "ts": 1777731118
   }
 ]
