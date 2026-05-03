@@ -1,22 +1,41 @@
 [
   {
-    "id": "1498942557",
-    "titulo": "Batlefield 4 - PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1498942987",
+    "titulo": "PS5",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "16:53",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "detectado": "16:55",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/batlefield-4-ps4-1498942557",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-1498942987",
+    "fotoUrl": "https://img.olx.com.br/images/63/634606400038671.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/634606400038671.jpg",
+      "https://img.olx.com.br/images/65/654659281283574.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777838109
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:53",
     "fotoUrl": "https://img.olx.com.br/images/89/894697288270485.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/894697288270485.jpg",
       "https://img.olx.com.br/images/90/905607169017292.jpg",
       "https://img.olx.com.br/images/92/920623403128548.jpg"
     ],
-    "defeito": false,
+    "id": "1498942557",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/batlefield-4-ps4-1498942557",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Batlefield 4 - PS4",
     "ts": 1777838004
   },
   {
@@ -9846,24 +9865,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "SUPER OFERTA! MORTAL KOMBAT XL PS4 - Mídia Física",
     "ts": 1777818017
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:20",
-    "fotoUrl": "https://img.olx.com.br/images/13/136668408288632.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/136668408288632.jpg",
-      "https://img.olx.com.br/images/15/152673405093037.jpg"
-    ],
-    "id": "1498884266",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/pes-19-david-beckham-1498884266",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Pes 19 david beckham ",
-    "ts": 1777818007
   }
 ]
