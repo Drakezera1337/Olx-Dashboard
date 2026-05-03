@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498825727",
-    "titulo": "Jogos: Ratchet & Clank, Knack, Concrete Genie - PlayStation 4",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "categoria": "ps4",
+    "id": "1498825919",
+    "titulo": "iPhone 16 Pro Max ",
+    "preco": 7000,
+    "precoRaw": "R$ 7.000",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "00:16",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "detectado": "00:20",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ratchet-clank-knack-concrete-genie-playstation-4-1498825727",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1498825919",
+    "fotoUrl": "https://img.olx.com.br/images/44/442648887806871.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/442648887806871.jpg",
+      "https://img.olx.com.br/images/45/454682044160759.jpg",
+      "https://img.olx.com.br/images/46/463631406009725.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777778457
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:16",
     "fotoUrl": "https://img.olx.com.br/images/70/707684764392946.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/707684764392946.jpg",
       "https://img.olx.com.br/images/69/692680522952150.jpg",
       "https://img.olx.com.br/images/70/706670049978599.jpg"
     ],
-    "defeito": false,
+    "id": "1498825727",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ratchet-clank-knack-concrete-genie-playstation-4-1498825727",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "Jogos: Ratchet & Clank, Knack, Concrete Genie - PlayStation 4",
     "ts": 1777778187
   },
   {
@@ -9837,24 +9857,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Elden Ring PS4",
     "ts": 1777731777
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:22",
-    "fotoUrl": "https://img.olx.com.br/images/12/120637528287237.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/120637528287237.jpg",
-      "https://img.olx.com.br/images/13/137603047132380.jpg"
-    ],
-    "id": "1498683546",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-1498683546",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Vídeo game ",
-    "ts": 1777731741
   }
 ]
