@@ -1,20 +1,38 @@
 [
   {
-    "id": "1482314551",
-    "titulo": "Jogo Mass Effect Andromeda PS4 Playstation 4",
-    "preco": 79,
-    "precoRaw": "R$ 79",
+    "id": "1482315781",
+    "titulo": "Jogo Doom Eternal PS4 Playstation 4",
+    "preco": 69,
+    "precoRaw": "R$ 69",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:21",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-mass-effect-andromeda-ps4-playstation-4-1482314551",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-doom-eternal-ps4-playstation-4-1482315781",
+    "fotoUrl": "https://img.olx.com.br/images/43/438654625755309.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/438654625755309.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777810908
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:21",
     "fotoUrl": "https://img.olx.com.br/images/95/956626501720860.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/956626501720860.jpg"
     ],
-    "defeito": false,
+    "id": "1482314551",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-mass-effect-andromeda-ps4-playstation-4-1482314551",
+    "preco": 79,
+    "precoRaw": "R$ 79",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Jogo Mass Effect Andromeda PS4 Playstation 4",
     "ts": 1777810905
   },
   {
@@ -9867,23 +9885,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Angry Birds Star Wars",
     "ts": 1777748186
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:56",
-    "fotoUrl": "https://img.olx.com.br/images/44/446696281746476.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/446696281746476.jpg"
-    ],
-    "id": "1498754123",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/crimes-punishments-sherlock-holmes-1498754123",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Crimes & Punishments Sherlock Holmes",
-    "ts": 1777748175
   }
 ]
