@@ -1,20 +1,43 @@
 [
   {
-    "id": "1490766901",
-    "titulo": "Spider man - PS4",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "categoria": "ps4",
+    "id": "1498889745",
+    "titulo": "iPhone 12",
+    "preco": 1550,
+    "precoRaw": "R$ 1.550",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "11:48",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "detectado": "11:49",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/spider-man-ps4-1490766901",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1498889745",
+    "fotoUrl": "https://img.olx.com.br/images/42/427612283293278.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/427612283293278.jpg",
+      "https://img.olx.com.br/images/44/442618400502038.jpg",
+      "https://img.olx.com.br/images/45/450655527642091.jpg",
+      "https://img.olx.com.br/images/47/477603647344158.jpg",
+      "https://img.olx.com.br/images/48/481669166271556.jpg",
+      "https://img.olx.com.br/images/49/495698289988254.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777819747
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:48",
     "fotoUrl": "https://img.olx.com.br/images/29/298694039306637.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/298694039306637.jpg"
     ],
-    "defeito": false,
+    "id": "1490766901",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/spider-man-ps4-1490766901",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Spider man - PS4",
     "ts": 1777819731
   },
   {
@@ -9857,24 +9880,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Red dead redemption 2 ps4 com mapa ",
     "ts": 1777760125
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:09",
-    "fotoUrl": "https://img.olx.com.br/images/86/861691521601781.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/861691521601781.jpg",
-      "https://img.olx.com.br/images/87/875642286558065.jpg"
-    ],
-    "id": "1498790450",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-26-1498790450",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Fifa 26",
-    "ts": 1777759790
   }
 ]
