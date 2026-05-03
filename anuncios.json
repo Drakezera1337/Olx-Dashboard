@@ -1,21 +1,42 @@
 [
   {
-    "id": "1498471874",
-    "titulo": "Uncharted collection ",
-    "preco": 45,
-    "precoRaw": "R$ 45",
+    "id": "1498406735",
+    "titulo": "Call of Duty Modern Warfare 4",
+    "preco": 38,
+    "precoRaw": "R$ 38",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "12:37",
-    "tempoOlx": "Na OLX desde junho de 2016",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/uncharted-collection-1498471874",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/call-of-duty-modern-warfare-4-1498406735",
+    "fotoUrl": "https://img.olx.com.br/images/29/290622886494707.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/290622886494707.jpg",
+      "https://img.olx.com.br/images/30/307618288790148.jpg",
+      "https://img.olx.com.br/images/32/323666767473922.jpg",
+      "https://img.olx.com.br/images/34/342670289893219.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777822665
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:37",
     "fotoUrl": "https://img.olx.com.br/images/28/289619288841875.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/289619288841875.jpg",
       "https://img.olx.com.br/images/29/299666640853245.jpg"
     ],
-    "defeito": false,
+    "id": "1498471874",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/uncharted-collection-1498471874",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "titulo": "Uncharted collection ",
     "ts": 1777822656
   },
   {
@@ -9849,24 +9870,5 @@
     "tempoOlx": "Na OLX desde maio de 2023",
     "titulo": "Jogo ps4",
     "ts": 1777768106
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:23",
-    "fotoUrl": "https://img.olx.com.br/images/32/325610765301241.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/325610765301241.jpg",
-      "https://img.olx.com.br/images/32/322669041287685.jpg"
-    ],
-    "id": "1498807822",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-immortals-fenyx-rising-ps4-1498807822",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Jogo Immortals Fenyx Rising PS4",
-    "ts": 1777767786
   }
 ]
