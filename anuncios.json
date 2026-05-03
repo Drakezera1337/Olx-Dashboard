@@ -1,22 +1,41 @@
 [
   {
-    "id": "1498677840",
-    "titulo": "Ps portal",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "categoria": "outros",
+    "id": "1498974329",
+    "titulo": "iPhone 15 128GB",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "19:28",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "detectado": "19:31",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps-portal-1498677840",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-1498974329",
+    "fotoUrl": "https://img.olx.com.br/images/72/729629887885614.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/729629887885614.jpg",
+      "https://img.olx.com.br/images/73/732668764523150.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777847467
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:28",
     "fotoUrl": "https://img.olx.com.br/images/66/661655407722514.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/661655407722514.jpg",
       "https://img.olx.com.br/images/67/672667647783787.jpg",
       "https://img.olx.com.br/images/68/689665763513639.jpg"
     ],
-    "defeito": false,
+    "id": "1498677840",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps-portal-1498677840",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "titulo": "Ps portal",
     "ts": 1777847295
   },
   {
@@ -9857,23 +9876,5 @@
     "tempoOlx": "Na OLX desde junho de 2016",
     "titulo": "Uncharted collection ",
     "ts": 1777822656
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:37",
-    "fotoUrl": "https://img.olx.com.br/images/25/257612766898132.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/257612766898132.jpg"
-    ],
-    "id": "1498898511",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1498898511",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Jogos de ps4",
-    "ts": 1777822648
   }
 ]
