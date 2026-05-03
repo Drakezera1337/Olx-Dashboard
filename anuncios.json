@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498736183",
-    "titulo": "Jogos de PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1498781036",
+    "titulo": "The Last of Us Part II Edição Especial PS4",
+    "preco": 299,
+    "precoRaw": "R$ 299",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:13",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1498736183",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-part-ii-edicao-especial-ps4-1498781036",
+    "fotoUrl": "https://img.olx.com.br/images/59/595699762087173.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/595699762087173.jpg",
+      "https://img.olx.com.br/images/64/643607404313992.jpg",
+      "https://img.olx.com.br/images/69/690632280513966.jpg",
+      "https://img.olx.com.br/images/73/732649522115344.jpg",
+      "https://img.olx.com.br/images/79/791637403194469.jpg",
+      "https://img.olx.com.br/images/83/837606527989199.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777824828
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:13",
     "fotoUrl": "https://img.olx.com.br/images/30/309603044191700.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/309603044191700.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/36/360627523593393.jpg",
       "https://img.olx.com.br/images/37/374663642750836.jpg"
     ],
-    "defeito": false,
+    "id": "1498736183",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1498736183",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "titulo": "Jogos de PS4",
     "ts": 1777824818
   },
   {
@@ -9808,24 +9831,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "LEITOR MIDIA DIGITAL PS5 SLIM ",
-    "ts": 1777786790
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:39",
-    "fotoUrl": "https://img.olx.com.br/images/81/815664390867884.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/815664390867884.jpg"
-    ],
-    "id": "1497580999",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/caixa-do-ps5-slim-1497580999",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Caixa do PS5 slim ",
     "ts": 1777786790
   }
 ]
