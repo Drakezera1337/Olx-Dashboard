@@ -1,22 +1,44 @@
 [
   {
-    "id": "1498977826",
-    "titulo": "Jogos PS4 semi-novos físicos ",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "ps4",
+    "id": "1498978083",
+    "titulo": "IPhone 15 Plus",
+    "preco": 3300,
+    "precoRaw": "R$ 3.300",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "19:52",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "detectado": "19:55",
+    "tempoOlx": "Na OLX desde novembro de 2013",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-semi-novos-fisicos-1498977826",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-plus-1498978083",
+    "fotoUrl": "https://img.olx.com.br/images/89/895682769559074.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/895682769559074.jpg",
+      "https://img.olx.com.br/images/93/932693042852807.jpg",
+      "https://img.olx.com.br/images/94/940675403088780.jpg",
+      "https://img.olx.com.br/images/96/969659765482404.jpg",
+      "https://img.olx.com.br/images/78/787664763883869.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777848910
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:52",
     "fotoUrl": "https://img.olx.com.br/images/57/571615168349878.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/571615168349878.jpg",
       "https://img.olx.com.br/images/61/614696647824709.jpg",
       "https://img.olx.com.br/images/62/628691883602554.jpg"
     ],
-    "defeito": false,
+    "id": "1498977826",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-semi-novos-fisicos-1498977826",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "Jogos PS4 semi-novos físicos ",
     "ts": 1777848744
   },
   {
@@ -9856,24 +9878,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "MINECRAFT - PS4",
     "ts": 1777823128
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:45",
-    "fotoUrl": "https://img.olx.com.br/images/54/543690394829439.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/543690394829439.jpg",
-      "https://img.olx.com.br/images/56/565641398181019.jpg"
-    ],
-    "id": "1497547999",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/jogo-midia-fisica-gran-turismo-7-ps4-ps5-lacrado-1497547999",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2017",
-    "titulo": "jogo mídia física gran turismo 7 ps4 ps5 lacrado",
-    "ts": 1777823117
   }
 ]
