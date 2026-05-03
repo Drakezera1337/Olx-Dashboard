@@ -1,15 +1,29 @@
 [
   {
-    "id": "1498957958",
-    "titulo": "Ps5 FAT - C/ defeito ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "ps5",
+    "id": "1498957781",
+    "titulo": "PS portal - 2 meses de uso",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "17:58",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "tempoOlx": "Na OLX desde julho de 2013",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps5-fat-c-defeito-1498957958",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps-portal-2-meses-de-uso-1498957781",
+    "fotoUrl": "https://img.olx.com.br/images/56/560664406277778.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/560664406277778.jpg",
+      "https://img.olx.com.br/images/57/579613161582636.jpg",
+      "https://img.olx.com.br/images/59/593625400163912.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777841896
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:58",
     "fotoUrl": "https://img.olx.com.br/images/19/193610643087622.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/193610643087622.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/25/259633524438715.jpg",
       "https://img.olx.com.br/images/26/266659401465712.jpg"
     ],
-    "defeito": false,
+    "id": "1498957958",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps5-fat-c-defeito-1498957958",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Ps5 FAT - C/ defeito ",
     "ts": 1777841887
   },
   {
@@ -9816,28 +9836,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Lote jogos PS4 (GOW lacrado)",
     "ts": 1777820744
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:05",
-    "fotoUrl": "https://img.olx.com.br/images/55/551500693194827.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/551500693194827.jpg",
-      "https://img.olx.com.br/images/57/575571212741987.jpg",
-      "https://img.olx.com.br/images/58/583554696815413.jpg",
-      "https://img.olx.com.br/images/59/598572577577043.jpg",
-      "https://img.olx.com.br/images/60/604548457121823.jpg",
-      "https://img.olx.com.br/images/62/624527817474503.jpg"
-    ],
-    "id": "1448042270",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-slim-50-jogos-entrego-1448042270",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "PS4 SLIM 50 JOGOS ENTREGO ",
-    "ts": 1777820736
   }
 ]
