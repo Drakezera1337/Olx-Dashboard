@@ -1,20 +1,39 @@
 [
   {
-    "id": "1491172131",
-    "titulo": "Lote jogos ps4",
-    "preco": 240,
-    "precoRaw": "R$ 240",
-    "categoria": "ps4",
+    "id": "1499190149",
+    "titulo": "JOGOS - PS4/PS5",
+    "preco": 61,
+    "precoRaw": "R$ 61",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "15:53",
-    "tempoOlx": "Na OLX desde maio de 2015",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/lote-jogos-ps4-1491172131",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-ps4-ps5-1499190149",
+    "fotoUrl": "https://img.olx.com.br/images/20/208676046396155.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/208676046396155.jpg",
+      "https://img.olx.com.br/images/21/212687888964657.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777920812
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:53",
     "fotoUrl": "https://img.olx.com.br/images/74/740679391886793.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/740679391886793.jpg"
     ],
-    "defeito": false,
+    "id": "1491172131",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/lote-jogos-ps4-1491172131",
+    "preco": 240,
+    "precoRaw": "R$ 240",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2015",
+    "titulo": "Lote jogos ps4",
     "ts": 1777920803
   },
   {
@@ -9948,28 +9967,5 @@
     "tempoOlx": "",
     "titulo": "PS3 pra consertar slim ",
     "ts": 1777867969
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:12",
-    "fotoUrl": "https://img.olx.com.br/images/95/950647168186136.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/950647168186136.jpg",
-      "https://img.olx.com.br/images/97/975620648673151.jpg",
-      "https://img.olx.com.br/images/10/106677760687176.jpg",
-      "https://img.olx.com.br/images/12/120686646813453.jpg",
-      "https://img.olx.com.br/images/14/140624285735867.jpg",
-      "https://img.olx.com.br/images/17/174682401514750.jpg"
-    ],
-    "id": "1498662982",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/xbox-series-s-c-defeito-1498662982",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "XBOX SERIES S C DEFEITO ",
-    "ts": 1777867935
   }
 ]
