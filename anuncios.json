@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499153383",
-    "titulo": "Ps4 ",
+    "id": "1499182562",
+    "titulo": "Play station 4 ",
     "preco": 1000,
     "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "15:22",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1499153383",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-station-4-1499182562",
+    "fotoUrl": "https://img.olx.com.br/images/76/769608522844381.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/769608522844381.jpg",
+      "https://img.olx.com.br/images/78/786653761404359.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918974
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:22",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1499153383",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1499153383",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Ps4 ",
     "ts": 1777918965
   },
   {
@@ -9987,24 +10006,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "The Last of Us Remastered - Jogo PS4 Mídia Física",
     "ts": 1777864363
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:12",
-    "fotoUrl": "https://img.olx.com.br/images/99/991656160853116.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/991656160853116.jpg",
-      "https://img.olx.com.br/images/18/184689887693017.jpg"
-    ],
-    "id": "1499022178",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-1499022178",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PlayStation 5",
-    "ts": 1777864356
   }
 ]
