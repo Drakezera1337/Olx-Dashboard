@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499098955",
-    "titulo": "Jogo ps4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1490766413",
+    "titulo": "Dark Souls 3 - PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:51",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "tempoOlx": "Na OLX desde novembro de 2023",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/jogo-ps4-1499098955",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/dark-souls-3-ps4-1490766413",
+    "fotoUrl": "https://img.olx.com.br/images/21/219630515160064.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/219630515160064.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777902695
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:51",
     "fotoUrl": "https://img.olx.com.br/images/85/852660645179769.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/852660645179769.jpg"
     ],
-    "defeito": false,
+    "id": "1499098955",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/jogo-ps4-1499098955",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Jogo ps4",
     "ts": 1777902688
   },
   {
@@ -9916,23 +9934,5 @@
     "tempoOlx": "Na OLX desde agosto de 2021",
     "titulo": "Nitendo",
     "ts": 1777841585
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:52",
-    "fotoUrl": "https://img.olx.com.br/images/43/432644398115422.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/432644398115422.jpg"
-    ],
-    "id": "1438036929",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/happy-2-feet-1438036929",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "Happy 2 Feet",
-    "ts": 1777841567
   }
 ]
