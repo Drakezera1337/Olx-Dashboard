@@ -1,22 +1,43 @@
 [
   {
-    "id": "1499119318",
-    "titulo": "Digimon Story: Cyber Sleuth - Hacker's Memory - Mídia Física PS4",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1499118495",
+    "titulo": "Spider Man Ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:01",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "12:02",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/digimon-story-cyber-sleuth-hacker-s-memory-midia-fisica-ps4-1499119318",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spider-man-ps4-1499118495",
+    "fotoUrl": "https://img.olx.com.br/images/38/383665765741684.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/383665765741684.jpg",
+      "https://img.olx.com.br/images/39/398693045096022.jpg",
+      "https://img.olx.com.br/images/40/406698049136003.jpg",
+      "https://img.olx.com.br/images/42/420604521034252.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777906927
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:01",
     "fotoUrl": "https://img.olx.com.br/images/47/479660280843454.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/479660280843454.jpg",
       "https://img.olx.com.br/images/47/474627765492579.jpg",
       "https://img.olx.com.br/images/46/461668165448234.jpg"
     ],
-    "defeito": false,
+    "id": "1499119318",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/digimon-story-cyber-sleuth-hacker-s-memory-midia-fisica-ps4-1499119318",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Digimon Story: Cyber Sleuth - Hacker's Memory - Mídia Física PS4",
     "ts": 1777906909
   },
   {
@@ -9921,25 +9942,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "iPhone 15 128GB",
     "ts": 1777847467
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:28",
-    "fotoUrl": "https://img.olx.com.br/images/66/661655407722514.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/661655407722514.jpg",
-      "https://img.olx.com.br/images/67/672667647783787.jpg",
-      "https://img.olx.com.br/images/68/689665763513639.jpg"
-    ],
-    "id": "1498677840",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps-portal-1498677840",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
-    "titulo": "Ps portal",
-    "ts": 1777847295
   }
 ]
