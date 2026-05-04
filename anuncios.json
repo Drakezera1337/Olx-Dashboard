@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499271928",
-    "titulo": "iPhone 12",
+    "id": "1499271772",
+    "titulo": "Celular ",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
-    "categoria": "iphone",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:54",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1499271928",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-1499271772",
+    "fotoUrl": "https://img.olx.com.br/images/20/200605403503127.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/200605403503127.jpg",
+      "https://img.olx.com.br/images/23/230628047069517.jpg",
+      "https://img.olx.com.br/images/28/281628645990156.jpg",
+      "https://img.olx.com.br/images/32/325620641569542.jpg",
+      "https://img.olx.com.br/images/38/386669645784046.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777938856
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:54",
     "fotoUrl": "https://img.olx.com.br/images/48/487689166773649.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/487689166773649.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/52/525608889399464.jpg",
       "https://img.olx.com.br/images/54/545619528719688.jpg"
     ],
-    "defeito": false,
+    "id": "1499271928",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1499271928",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "iPhone 12",
     "ts": 1777938848
   },
   {
@@ -9821,26 +9843,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Jogo Horizon Zero Dawn Complete Edition PS4 Novo Lacrado ",
     "ts": 1777903787
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:09",
-    "fotoUrl": "https://img.olx.com.br/images/17/175606528662107.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/175606528662107.jpg",
-      "https://img.olx.com.br/images/17/170688640693080.jpg",
-      "https://img.olx.com.br/images/17/178603768556603.jpg",
-      "https://img.olx.com.br/images/17/179670642241521.jpg"
-    ],
-    "id": "1499103954",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-pro-1tb-cuh-71-1499103954",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2023",
-    "titulo": "PlayStation 4 Pro 1TB Cuh-71",
-    "ts": 1777903777
   }
 ]
