@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499235020",
-    "titulo": "Marvel Avengers",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1464443518",
+    "titulo": "Call of duty black ops",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "18:40",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "18:41",
+    "tempoOlx": "Na OLX desde abril de 2022",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/marvel-avengers-1499235020",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-1464443518",
+    "fotoUrl": "https://img.olx.com.br/images/53/538565956893310.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/538565956893310.jpg",
+      "https://img.olx.com.br/images/49/493503836368166.jpg",
+      "https://img.olx.com.br/images/49/491572835618997.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777930866
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:40",
     "fotoUrl": "https://img.olx.com.br/images/25/257620647687623.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/257620647687623.jpg"
     ],
-    "defeito": false,
+    "id": "1499235020",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/marvel-avengers-1499235020",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Marvel Avengers",
     "ts": 1777930857
   },
   {
@@ -9860,25 +9880,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Batman Return to Arkham Playstation 4",
     "ts": 1777898837
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:47",
-    "fotoUrl": "https://img.olx.com.br/images/49/490542223956348.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/490542223956348.jpg",
-      "https://img.olx.com.br/images/49/494503702134056.jpg",
-      "https://img.olx.com.br/images/49/499502229673888.jpg"
-    ],
-    "id": "1457828346",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/kingdom-hearts-1-5-2-5-remix-playstation-4-1457828346",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Kingdom Hearts 1.5 + 2.5 Remix Playstation 4",
-    "ts": 1777898826
   }
 ]
