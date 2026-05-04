@@ -1,22 +1,42 @@
 [
   {
-    "id": "1499184199",
-    "titulo": "Payday2 - ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1499166376",
+    "titulo": "DOOM Eternal (PS4)",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "15:28",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/payday2-ps4-1499184199",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/doom-eternal-ps4-1499166376",
+    "fotoUrl": "https://img.olx.com.br/images/25/251667643348924.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/251667643348924.jpg",
+      "https://img.olx.com.br/images/27/274642285528799.jpg",
+      "https://img.olx.com.br/images/29/298606160316663.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777919311
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:28",
     "fotoUrl": "https://img.olx.com.br/images/28/282645161951223.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/282645161951223.jpg",
       "https://img.olx.com.br/images/30/302656288214184.jpg",
       "https://img.olx.com.br/images/31/312662286503057.jpg"
     ],
-    "defeito": false,
+    "id": "1499184199",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/payday2-ps4-1499184199",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Payday2 - ps4",
     "ts": 1777919297
   },
   {
@@ -9965,23 +9985,5 @@
     "tempoOlx": "",
     "titulo": "Caixa do PS5 slim ",
     "ts": 1777867885
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/43/435647272110219.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/435647272110219.jpg"
-    ],
-    "id": "1496822601",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-1496822601",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "IPHONE 15 PRO MAX 256 ",
-    "ts": 1777867875
   }
 ]
