@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499182143",
-    "titulo": "Lote de Jogos Playstation 4",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1499164646",
+    "titulo": "Battlefield V (PS4)",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:25",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "detectado": "15:26",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/lote-de-jogos-playstation-4-1499182143",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/battlefield-v-ps4-1499164646",
+    "fotoUrl": "https://img.olx.com.br/images/88/887656284380107.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/887656284380107.jpg",
+      "https://img.olx.com.br/images/94/947671768400435.jpg",
+      "https://img.olx.com.br/images/96/965637527055511.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777919160
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:25",
     "fotoUrl": "https://img.olx.com.br/images/72/721690166543370.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/721690166543370.jpg"
     ],
-    "defeito": false,
+    "id": "1499182143",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/lote-de-jogos-playstation-4-1499182143",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Lote de Jogos Playstation 4",
     "ts": 1777919150
   },
   {
@@ -9968,25 +9988,5 @@
     "tempoOlx": "",
     "titulo": "iPhone 11",
     "ts": 1777867871
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/86/868612511543630.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/868612511543630.jpg",
-      "https://img.olx.com.br/images/86/868698158332480.jpg",
-      "https://img.olx.com.br/images/87/873677156455110.jpg"
-    ],
-    "id": "1497320345",
-    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/consoles-de-video-game/playstation-5-1497320345",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 5",
-    "ts": 1777867867
   }
 ]
