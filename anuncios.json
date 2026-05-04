@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499201274",
-    "titulo": "Console Xbox Series S 512gb com jogos",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1499201279",
+    "titulo": "Gran Turismo Sport PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:33",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "detectado": "16:34",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/console-xbox-series-s-512gb-com-jogos-1499201274",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gran-turismo-sport-ps4-1499201279",
+    "fotoUrl": "https://img.olx.com.br/images/80/805663527943380.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/805663527943380.jpg",
+      "https://img.olx.com.br/images/81/812666526878391.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777923276
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:33",
     "fotoUrl": "https://img.olx.com.br/images/48/487658880106600.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/487658880106600.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/53/539634525189749.jpg",
       "https://img.olx.com.br/images/55/559650523113770.jpg"
     ],
-    "defeito": false,
+    "id": "1499201274",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/console-xbox-series-s-512gb-com-jogos-1499201274",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "Console Xbox Series S 512gb com jogos",
     "ts": 1777923190
   },
   {
@@ -9913,29 +9932,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Assassin's Creed III Liberation - ps vita playstation vita",
-    "ts": 1777868033
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:13",
-    "fotoUrl": "https://img.olx.com.br/images/73/737628045362581.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/737628045362581.jpg",
-      "https://img.olx.com.br/images/74/748624169930832.jpg",
-      "https://img.olx.com.br/images/76/765653285068439.jpg",
-      "https://img.olx.com.br/images/78/789638042995290.jpg",
-      "https://img.olx.com.br/images/86/868698643905975.jpg",
-      "https://img.olx.com.br/images/11/113681644382502.jpg"
-    ],
-    "id": "1498541917",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/console-psp-original-1498541917",
-    "preco": 590,
-    "precoRaw": "R$ 590",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "CONSOLE PSP ORIGINAL ",
     "ts": 1777868033
   }
 ]
