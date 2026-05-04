@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498990909",
-    "titulo": "Jogos ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1498991962",
+    "titulo": "RESIDENT EVIL 2 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "21:17",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "21:22",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1498990909",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/resident-evil-2-1498991962",
+    "fotoUrl": "https://img.olx.com.br/images/16/168674760487182.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/168674760487182.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777854127
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:17",
     "fotoUrl": "https://img.olx.com.br/images/23/234634764831274.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/234634764831274.jpg"
     ],
-    "defeito": false,
+    "id": "1498990909",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1498990909",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "Jogos ps4",
     "ts": 1777853837
   },
   {
@@ -9883,26 +9901,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "Inside limbo ps4 semi-novo",
     "ts": 1777824526
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:08",
-    "fotoUrl": "https://img.olx.com.br/images/37/379627260202555.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/379627260202555.jpg",
-      "https://img.olx.com.br/images/39/391659621586864.jpg",
-      "https://img.olx.com.br/images/40/402601863070703.jpg",
-      "https://img.olx.com.br/images/42/424607022319570.jpg"
-    ],
-    "id": "1482016431",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/shadow-of-the-tomb-raider-ps4-semi-novo-1482016431",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2015",
-    "titulo": "Shadow of the tomb raider ps4 semi-novo",
-    "ts": 1777824515
   }
 ]
