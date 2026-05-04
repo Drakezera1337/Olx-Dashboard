@@ -1,22 +1,41 @@
 [
   {
-    "id": "1499094746",
-    "titulo": "Gran Turismo PS4/PS5 (Original)",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps5",
+    "id": "1499094522",
+    "titulo": "PS4 completo ",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:33",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/gran-turismo-ps4-ps5-original-1499094746",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-completo-1499094522",
+    "fotoUrl": "https://img.olx.com.br/images/30/306680640519104.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/306680640519104.jpg",
+      "https://img.olx.com.br/images/37/371697043812258.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777901619
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:33",
     "fotoUrl": "https://img.olx.com.br/images/17/178616529101368.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/178616529101368.jpg",
       "https://img.olx.com.br/images/20/208681405851058.jpg",
       "https://img.olx.com.br/images/24/248600529032921.jpg"
     ],
-    "defeito": false,
+    "id": "1499094746",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/gran-turismo-ps4-ps5-original-1499094746",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Gran Turismo PS4/PS5 (Original)",
     "ts": 1777901610
   },
   {
@@ -9915,26 +9934,5 @@
     "tempoOlx": "",
     "titulo": "Plastation 3 , liga e desliga ",
     "ts": 1777840418
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:31",
-    "fotoUrl": "https://img.olx.com.br/images/24/248611641825321.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/248611641825321.jpg",
-      "https://img.olx.com.br/images/25/258633167658287.jpg",
-      "https://img.olx.com.br/images/27/275604406153268.jpg",
-      "https://img.olx.com.br/images/29/298606767753867.jpg"
-    ],
-    "id": "1498563697",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/nitendo-switch-1498563697",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
-    "titulo": "Nitendo Switch",
-    "ts": 1777840268
   }
 ]
