@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499236951",
-    "titulo": "Play 3",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "outros",
+    "id": "1498820467",
+    "titulo": "Playstation 4 Slim",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:51",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "detectado": "18:53",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-3-1499236951",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/playstation-4-slim-1498820467",
+    "fotoUrl": "https://img.olx.com.br/images/79/792618402552286.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/792618402552286.jpg",
+      "https://img.olx.com.br/images/80/807697049431272.jpg",
+      "https://img.olx.com.br/images/82/821614525501398.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777931586
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:51",
     "fotoUrl": "https://img.olx.com.br/images/32/323618761802982.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/323618761802982.jpg",
       "https://img.olx.com.br/images/34/348682889218842.jpg"
     ],
-    "defeito": false,
+    "id": "1499236951",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-3-1499236951",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "titulo": "Play 3",
     "ts": 1777931497
   },
   {
@@ -9853,24 +9873,5 @@
     "tempoOlx": "Na OLX desde agosto de 2021",
     "titulo": "Uncharted 4 Ps4 ",
     "ts": 1777898968
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:49",
-    "fotoUrl": "https://img.olx.com.br/images/92/923622621274405.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/923622621274405.jpg",
-      "https://img.olx.com.br/images/94/943615507339646.jpg"
-    ],
-    "id": "1482708512",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/god-of-war-3-ps4-1482708512",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2021",
-    "titulo": "God of War 3 Ps4",
-    "ts": 1777898955
   }
 ]
