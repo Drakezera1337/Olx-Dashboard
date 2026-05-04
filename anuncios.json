@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499233374",
-    "titulo": "Resident Evil 2",
+    "id": "1499233145",
+    "titulo": "Sword Art Online Hollow Realization",
     "preco": 90,
     "precoRaw": "R$ 90",
-    "categoria": "jogos",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:28",
     "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/resident-evil-2-1499233374",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/sword-art-online-hollow-realization-1499233145",
+    "fotoUrl": "https://img.olx.com.br/images/87/876693643733802.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/876693643733802.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777930103
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:28",
     "fotoUrl": "https://img.olx.com.br/images/21/211670643789865.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/211670643789865.jpg"
     ],
-    "defeito": false,
+    "id": "1499233374",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/resident-evil-2-1499233374",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Resident Evil 2",
     "ts": 1777930096
   },
   {
@@ -9881,25 +9899,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "PS4 Slim 1TB ",
     "ts": 1777898650
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:43",
-    "fotoUrl": "https://img.olx.com.br/images/93/934585172654961.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/934585172654961.jpg",
-      "https://img.olx.com.br/images/94/940537538150373.jpg",
-      "https://img.olx.com.br/images/95/954567298905492.jpg"
-    ],
-    "id": "1409726924",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-19-ps4-1409726924",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "FIFA 19 - PS4",
-    "ts": 1777898636
   }
 ]
