@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499234805",
-    "titulo": "TROCO OU VENDO JOGOS DE PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1499234771",
+    "titulo": "Diablo 3 Reaper of Souls - Ultimate Evil Edition",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:41",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/troco-ou-vendo-jogos-de-ps4-1499234805",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/diablo-3-reaper-of-souls-ultimate-evil-edition-1499234771",
+    "fotoUrl": "https://img.olx.com.br/images/75/756637401389686.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/756637401389686.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777930882
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:41",
     "fotoUrl": "https://img.olx.com.br/images/49/493648642520126.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/493648642520126.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/51/514645643801295.jpg",
       "https://img.olx.com.br/images/52/526609649723110.jpg"
     ],
-    "defeito": false,
+    "id": "1499234805",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/troco-ou-vendo-jogos-de-ps4-1499234805",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "TROCO OU VENDO JOGOS DE PS4",
     "ts": 1777930874
   },
   {
@@ -9862,24 +9880,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Resident Evil 6 Playstation 4",
     "ts": 1777898859
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:47",
-    "fotoUrl": "https://img.olx.com.br/images/39/398544344268392.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/398544344268392.jpg",
-      "https://img.olx.com.br/images/39/391534822448068.jpg"
-    ],
-    "id": "1457825648",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/mortal-kombat-11-playstation-4-1457825648",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Mortal Kombat 11 Playstation 4",
-    "ts": 1777898849
   }
 ]
