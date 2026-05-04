@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499271772",
-    "titulo": "Celular ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "outros",
+    "id": "1499272821",
+    "titulo": "Ps4 ",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:54",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "detectado": "20:55",
+    "tempoOlx": "Na OLX desde agosto de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-1499271772",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-1499272821",
+    "fotoUrl": "https://img.olx.com.br/images/19/196621885693293.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/196621885693293.jpg",
+      "https://img.olx.com.br/images/20/205628160158574.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777938937
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:54",
     "fotoUrl": "https://img.olx.com.br/images/20/200605403503127.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/200605403503127.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/32/325620641569542.jpg",
       "https://img.olx.com.br/images/38/386669645784046.jpg"
     ],
-    "defeito": false,
+    "id": "1499271772",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-1499271772",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "Celular ",
     "ts": 1777938856
   },
   {
@@ -9820,28 +9839,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Sackboy a big adventure Novo Lacrado Ps5",
     "ts": 1777903799
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:09",
-    "fotoUrl": "https://img.olx.com.br/images/83/836484115936797.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/836484115936797.jpg",
-      "https://img.olx.com.br/images/83/832455356809309.jpg",
-      "https://img.olx.com.br/images/83/835422355654695.jpg",
-      "https://img.olx.com.br/images/84/840480956895983.jpg",
-      "https://img.olx.com.br/images/83/839426719829709.jpg",
-      "https://img.olx.com.br/images/83/839483237155197.jpg"
-    ],
-    "id": "1362772491",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-horizon-zero-dawn-complete-edition-ps4-novo-lacrado-1362772491",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Jogo Horizon Zero Dawn Complete Edition PS4 Novo Lacrado ",
-    "ts": 1777903787
   }
 ]
