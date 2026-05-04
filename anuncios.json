@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499097897",
-    "titulo": "iPhone 11",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "iphone",
+    "id": "1499099850",
+    "titulo": "Jogo ps4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:46",
-    "tempoOlx": "Na OLX desde setembro de 2021",
+    "detectado": "10:51",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1499097897",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/jogo-ps4-1499099850",
+    "fotoUrl": "https://img.olx.com.br/images/89/897622521448833.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/897622521448833.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777902675
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:46",
     "fotoUrl": "https://img.olx.com.br/images/23/236691165883537.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/236691165883537.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/33/339608883419410.jpg",
       "https://img.olx.com.br/images/34/345683402190426.jpg"
     ],
-    "defeito": false,
+    "id": "1499097897",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1499097897",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2021",
+    "titulo": "iPhone 11",
     "ts": 1777902398
   },
   {
@@ -9916,23 +9934,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Uncharted 4: A Thief's End - PS4",
     "ts": 1777841558
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:52",
-    "fotoUrl": "https://img.olx.com.br/images/45/451520629591779.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/451520629591779.jpg"
-    ],
-    "id": "1390672428",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/lego-marvel-vingadores-ps4-1390672428",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "LEGO Marvel Vingadores - PS4",
-    "ts": 1777841549
   }
 ]
