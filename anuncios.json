@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499099850",
+    "id": "1499098955",
     "titulo": "Jogo ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "preco": 40,
+    "precoRaw": "R$ 40",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:51",
     "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/jogo-ps4-1499099850",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/jogo-ps4-1499098955",
+    "fotoUrl": "https://img.olx.com.br/images/85/852660645179769.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/852660645179769.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777902688
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:51",
     "fotoUrl": "https://img.olx.com.br/images/89/897622521448833.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/897622521448833.jpg"
     ],
-    "defeito": false,
+    "id": "1499099850",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/jogo-ps4-1499099850",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Jogo ps4",
     "ts": 1777902675
   },
   {
@@ -9916,23 +9934,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Happy 2 Feet",
     "ts": 1777841567
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:52",
-    "fotoUrl": "https://img.olx.com.br/images/88/882555740801466.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/882555740801466.jpg"
-    ],
-    "id": "1387668107",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/uncharted-4-a-thief-s-end-ps4-1387668107",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "Uncharted 4: A Thief's End - PS4",
-    "ts": 1777841558
   }
 ]
