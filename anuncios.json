@@ -1,20 +1,39 @@
 [
   {
-    "id": "1496509480",
-    "titulo": "Controle Xbox One série s",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "xbox",
+    "id": "1499187798",
+    "titulo": "Battlefield 2042 ps5",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "15:40",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/controle-xbox-one-serie-s-1496509480",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/battlefield-2042-ps5-1499187798",
+    "fotoUrl": "https://img.olx.com.br/images/95/957689046728042.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/957689046728042.jpg",
+      "https://img.olx.com.br/images/97/971686521791066.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777920018
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:40",
     "fotoUrl": "https://img.olx.com.br/images/34/341685393792612.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/341685393792612.jpg"
     ],
-    "defeito": false,
+    "id": "1496509480",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/controle-xbox-one-serie-s-1496509480",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Controle Xbox One série s",
     "ts": 1777920007
   },
   {
@@ -9956,28 +9975,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Samsung Galaxy Tab S10 Fe",
-    "ts": 1777867887
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/79/790609270190619.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/790609270190619.jpg",
-      "https://img.olx.com.br/images/80/802685513890260.jpg",
-      "https://img.olx.com.br/images/80/802628154405701.jpg",
-      "https://img.olx.com.br/images/79/798621515805805.jpg",
-      "https://img.olx.com.br/images/79/793648630176318.jpg"
-    ],
-    "id": "1491224487",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/redmi-note-13-4g-256gb-8gb-ram-1491224487",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Redmi Note 13 4g, 256gb, 8gb Ram",
     "ts": 1777867887
   }
 ]
