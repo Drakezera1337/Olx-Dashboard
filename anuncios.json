@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490924864",
-    "titulo": "Marvel's Lego Avengers",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1490924271",
+    "titulo": "ScribbleNauts Showdown",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "outros",
     "publicado": "",
     "detectado": "19:21",
     "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/marvel-s-lego-avengers-1490924864",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/scribblenauts-showdown-1490924271",
+    "fotoUrl": "https://img.olx.com.br/images/72/721614751138388.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/721614751138388.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933276
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:21",
     "fotoUrl": "https://img.olx.com.br/images/48/485676750031478.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/485676750031478.jpg"
     ],
-    "defeito": false,
+    "id": "1490924864",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/marvel-s-lego-avengers-1490924864",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Marvel's Lego Avengers",
     "ts": 1777933269
   },
   {
@@ -9850,24 +9868,5 @@
     "tempoOlx": "Na OLX desde maio de 2013",
     "titulo": "PS4 TitanFall 2",
     "ts": 1777899786
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:02",
-    "fotoUrl": "https://img.olx.com.br/images/93/934430751631661.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/934430751631661.jpg",
-      "https://img.olx.com.br/images/93/930427279592754.jpg"
-    ],
-    "id": "1294135586",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/ps4-call-of-duty-black-ops-3-1294135586",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2013",
-    "titulo": "PS4 Call of Duty Black OPS 3",
-    "ts": 1777899777
   }
 ]
