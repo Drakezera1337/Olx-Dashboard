@@ -1,20 +1,39 @@
 [
   {
-    "id": "1459496731",
-    "titulo": "Jogos PS4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1468975098",
+    "titulo": "Jogo Watch Dogs PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "16:22",
     "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1459496731",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-watch-dogs-ps4-1468975098",
+    "fotoUrl": "https://img.olx.com.br/images/32/324651248739959.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/324651248739959.jpg",
+      "https://img.olx.com.br/images/32/327618844771421.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777922574
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:22",
     "fotoUrl": "https://img.olx.com.br/images/77/776548832379380.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/776548832379380.jpg"
     ],
-    "defeito": false,
+    "id": "1459496731",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1459496731",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Jogos PS4",
     "ts": 1777922565
   },
   {
@@ -9927,23 +9946,5 @@
     "tempoOlx": "",
     "titulo": " Destrave Definitivo Playstation Vita/ PS Vita",
     "ts": 1777868033
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:13",
-    "fotoUrl": "https://img.olx.com.br/images/99/995687752276237.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/995687752276237.jpg"
-    ],
-    "id": "1498335534",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/mega-scrafty-ex-1498335534",
-    "preco": 15,
-    "precoRaw": "R$ 15",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Mega scrafty Ex",
-    "ts": 1777868011
   }
 ]
