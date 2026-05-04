@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499191236",
+    "id": "1499191003",
     "titulo": "JOGOS - PS4/PS5",
-    "preco": 66,
-    "precoRaw": "R$ 66",
+    "preco": 65,
+    "precoRaw": "R$ 65",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "15:52",
     "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499191236",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-ps5-1499191003",
+    "fotoUrl": "https://img.olx.com.br/images/36/365600402899850.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/365600402899850.jpg",
+      "https://img.olx.com.br/images/37/376604169057279.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777920777
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:52",
     "fotoUrl": "https://img.olx.com.br/images/99/994617766345059.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/994617766345059.jpg",
       "https://img.olx.com.br/images/11/119658401855710.jpg"
     ],
-    "defeito": false,
+    "id": "1499191236",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499191236",
+    "preco": 66,
+    "precoRaw": "R$ 66",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1777920767
   },
   {
@@ -9956,25 +9975,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox série S",
-    "ts": 1777867935
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:12",
-    "fotoUrl": "https://img.olx.com.br/images/58/586559791255098.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/586559791255098.jpg",
-      "https://img.olx.com.br/images/65/650567078631082.jpg"
-    ],
-    "id": "1432031130",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/xbox-one-s-all-digital-seminovo-em-otimo-estado-1432031130",
-    "preco": 1299,
-    "precoRaw": "R$ 1.299",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One S All Digital - Seminovo em ótimo estado",
     "ts": 1777867935
   }
 ]
