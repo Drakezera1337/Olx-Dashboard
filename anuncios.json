@@ -1,22 +1,40 @@
 [
   {
-    "id": "1457825824",
-    "titulo": "Resident Evil 6 Playstation 4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1490042954",
+    "titulo": "Horizon - Zero Dawn PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:47",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "tempoOlx": "Na OLX desde junho de 2013",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/resident-evil-6-playstation-4-1457825824",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-ps4-1490042954",
+    "fotoUrl": "https://img.olx.com.br/images/93/933605384644323.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/933605384644323.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777898870
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:47",
     "fotoUrl": "https://img.olx.com.br/images/20/202503342745943.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/202503342745943.jpg",
       "https://img.olx.com.br/images/20/205598821452609.jpg",
       "https://img.olx.com.br/images/20/203565468615327.jpg"
     ],
-    "defeito": false,
+    "id": "1457825824",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/resident-evil-6-playstation-4-1457825824",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "titulo": "Resident Evil 6 Playstation 4",
     "ts": 1777898859
   },
   {
@@ -9911,27 +9929,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Sackboy PS4 - CD Original Mídia Física",
     "ts": 1777834055
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:44",
-    "fotoUrl": "https://img.olx.com.br/images/93/934635762676621.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/934635762676621.jpg",
-      "https://img.olx.com.br/images/94/941604526209440.jpg",
-      "https://img.olx.com.br/images/95/950697167379784.jpg",
-      "https://img.olx.com.br/images/96/966611164359820.jpg",
-      "https://img.olx.com.br/images/98/981677521504105.jpg"
-    ],
-    "id": "1498930920",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-fat-1498930920",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Ps3 Fat",
-    "ts": 1777833877
   }
 ]
