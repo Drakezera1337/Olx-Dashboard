@@ -1,20 +1,42 @@
 [
   {
-    "id": "1499206142",
-    "titulo": "Jogo PS4 ( NFS HEAT )",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "ps4",
+    "id": "1499206148",
+    "titulo": "PS3 com defeitos",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "16:52",
-    "tempoOlx": "Na OLX desde março de 2023",
+    "detectado": "16:53",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogo-ps4-nfs-heat-1499206142",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps3-com-defeitos-1499206148",
+    "fotoUrl": "https://img.olx.com.br/images/62/626641645558247.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/626641645558247.jpg",
+      "https://img.olx.com.br/images/64/649621527369626.jpg",
+      "https://img.olx.com.br/images/65/655664284861516.jpg",
+      "https://img.olx.com.br/images/67/673666288262780.jpg",
+      "https://img.olx.com.br/images/69/695662528093773.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777924388
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:52",
     "fotoUrl": "https://img.olx.com.br/images/64/643623400219426.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/643623400219426.jpg"
     ],
-    "defeito": false,
+    "id": "1499206142",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogo-ps4-nfs-heat-1499206142",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "Jogo PS4 ( NFS HEAT )",
     "ts": 1777924356
   },
   {
@@ -9896,28 +9918,5 @@
     "tempoOlx": "",
     "titulo": "Xbox One S 1tb",
     "ts": 1777868111
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:14",
-    "fotoUrl": "https://img.olx.com.br/images/91/916696396780956.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/916696396780956.jpg",
-      "https://img.olx.com.br/images/92/921649279327436.jpg",
-      "https://img.olx.com.br/images/92/925664519128217.jpg",
-      "https://img.olx.com.br/images/93/933646515752328.jpg",
-      "https://img.olx.com.br/images/94/946618878782909.jpg",
-      "https://img.olx.com.br/images/95/957652516706257.jpg"
-    ],
-    "id": "1496734414",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/nitendo-swich-oled-com-super-mario-wonder-com-1-mes-de-uso-pelo-valor-de-2-400-1496734414",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nitendo swich OLED com (super mario wonder) com 1 mês de uso pelo valor de: 2.400*",
-    "ts": 1777868079
   }
 ]
