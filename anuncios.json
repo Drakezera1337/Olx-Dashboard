@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499266901",
-    "titulo": "Vendo PlayStation 5 ",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1499266490",
+    "titulo": "Ps4 ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:29",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "detectado": "20:31",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/vendo-playstation-5-1499266901",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-1499266490",
+    "fotoUrl": "https://img.olx.com.br/images/88/882698525620725.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/882698525620725.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777937467
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:29",
     "fotoUrl": "https://img.olx.com.br/images/46/467655288219773.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/467655288219773.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/49/493609288660902.jpg",
       "https://img.olx.com.br/images/51/515609887916949.jpg"
     ],
-    "defeito": false,
+    "id": "1499266901",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/vendo-playstation-5-1499266901",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Vendo PlayStation 5 ",
     "ts": 1777937377
   },
   {
@@ -9822,25 +9840,5 @@
     "tempoOlx": "Na OLX desde agosto de 2023",
     "titulo": "iPhone 16 ",
     "ts": 1777901683
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:34",
-    "fotoUrl": "https://img.olx.com.br/images/68/684695643210709.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/684695643210709.jpg",
-      "https://img.olx.com.br/images/69/692632401330583.jpg",
-      "https://img.olx.com.br/images/71/715683761845220.jpg"
-    ],
-    "id": "1499095164",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/nitendo-semi-novo-1499095164",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2016",
-    "titulo": "Nitendo semi novo",
-    "ts": 1777901679
   }
 ]
