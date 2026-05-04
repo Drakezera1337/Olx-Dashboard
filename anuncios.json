@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499010146",
-    "titulo": "Xbook série s",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "outros",
+    "id": "1363963039",
+    "titulo": "Câmera ps3",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "23:55",
-    "tempoOlx": "Na OLX desde julho de 2024",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/xbook-serie-s-1499010146",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/camera-ps3-1363963039",
+    "fotoUrl": "https://img.olx.com.br/images/44/440473112202879.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/440473112202879.jpg",
+      "https://img.olx.com.br/images/45/459450113105658.jpg",
+      "https://img.olx.com.br/images/44/444411839877656.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863357
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:55",
     "fotoUrl": "https://img.olx.com.br/images/35/356607764567019.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/356607764567019.jpg"
     ],
-    "defeito": false,
+    "id": "1499010146",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/xbook-serie-s-1499010146",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "titulo": "Xbook série s",
     "ts": 1777863348
   },
   {
@@ -9868,24 +9888,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Playstation 4 (VENHA CONFERIR)",
     "ts": 1777825261
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:20",
-    "fotoUrl": "https://img.olx.com.br/images/29/298563674282127.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/298563674282127.jpg",
-      "https://img.olx.com.br/images/30/305570554058976.jpg"
-    ],
-    "id": "1430209297",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/shinobi-koi-utsutsu-banka-aya-emaki-ps4-1430209297",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Shinobi, Koi Utsutsu -Banka Aya Emaki PS4 ",
-    "ts": 1777825249
   }
 ]
