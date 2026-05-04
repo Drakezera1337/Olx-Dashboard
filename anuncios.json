@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499120797",
-    "titulo": "Jogos PS4",
-    "preco": 580,
-    "precoRaw": "R$ 580",
-    "categoria": "ps4",
+    "id": "1499120585",
+    "titulo": "Call Of Duty Black Ops 3",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "12:07",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1499120797",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-3-1499120585",
+    "fotoUrl": "https://img.olx.com.br/images/11/119644525127158.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/119644525127158.jpg",
+      "https://img.olx.com.br/images/12/120647520352327.jpg",
+      "https://img.olx.com.br/images/14/146639286163765.jpg",
+      "https://img.olx.com.br/images/15/153694400570729.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777907253
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:07",
     "fotoUrl": "https://img.olx.com.br/images/17/178682046903330.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/178682046903330.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/21/219664287315243.jpg",
       "https://img.olx.com.br/images/23/234688882967653.jpg"
     ],
-    "defeito": false,
+    "id": "1499120797",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1499120797",
+    "preco": 580,
+    "precoRaw": "R$ 580",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "Jogos PS4",
     "ts": 1777907241
   },
   {
@@ -9933,25 +9954,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "IPhone 15 Plus",
     "ts": 1777848910
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:52",
-    "fotoUrl": "https://img.olx.com.br/images/57/571615168349878.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/571615168349878.jpg",
-      "https://img.olx.com.br/images/61/614696647824709.jpg",
-      "https://img.olx.com.br/images/62/628691883602554.jpg"
-    ],
-    "id": "1498977826",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-semi-novos-fisicos-1498977826",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2023",
-    "titulo": "Jogos PS4 semi-novos físicos ",
-    "ts": 1777848744
   }
 ]
