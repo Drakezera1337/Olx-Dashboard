@@ -1,22 +1,42 @@
 [
   {
-    "id": "1499124103",
-    "titulo": "Ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1499123859",
+    "titulo": "PS4 com controle + jogo Red Dead",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:20",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-1499124103",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ps4-com-controle-jogo-red-dead-1499123859",
+    "fotoUrl": "https://img.olx.com.br/images/20/208670408355094.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/208670408355094.jpg",
+      "https://img.olx.com.br/images/32/320655889742300.jpg",
+      "https://img.olx.com.br/images/44/444658164391025.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777908048
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:20",
     "fotoUrl": "https://img.olx.com.br/images/76/767629167849985.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/767629167849985.jpg",
       "https://img.olx.com.br/images/77/772690767314277.jpg",
       "https://img.olx.com.br/images/79/790672528181103.jpg"
     ],
-    "defeito": false,
+    "id": "1499124103",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-1499124103",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Ps4",
     "ts": 1777908038
   },
   {
@@ -9943,23 +9963,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Ghost of tsushima ps4 (NOVO LACRADO)",
     "ts": 1777850157
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:15",
-    "fotoUrl": "https://img.olx.com.br/images/59/598687529142588.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/598687529142588.jpg"
-    ],
-    "id": "1498981249",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fitas-de-video-game-1498981249",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2019",
-    "titulo": "Fitas de vídeo game ",
-    "ts": 1777850149
   }
 ]
