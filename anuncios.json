@@ -1,15 +1,29 @@
 [
   {
-    "id": "1447223999",
-    "titulo": "Hogwarts legacy ",
-    "preco": 155,
-    "precoRaw": "R$ 155",
-    "categoria": "outros",
+    "id": "1499094289",
+    "titulo": "The Witcher 3 PS4/PS5 (Original)",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "10:33",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "detectado": "10:34",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/hogwarts-legacy-1447223999",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/the-witcher-3-ps4-ps5-original-1499094289",
+    "fotoUrl": "https://img.olx.com.br/images/80/808608042486700.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/808608042486700.jpg",
+      "https://img.olx.com.br/images/85/856643281927872.jpg",
+      "https://img.olx.com.br/images/90/906628883103242.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777901647
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:33",
     "fotoUrl": "https://img.olx.com.br/images/78/786512696198867.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/786512696198867.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/82/822565574067546.jpg",
       "https://img.olx.com.br/images/84/849589456898753.jpg"
     ],
-    "defeito": false,
+    "id": "1447223999",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/hogwarts-legacy-1447223999",
+    "preco": 155,
+    "precoRaw": "R$ 155",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Hogwarts legacy ",
     "ts": 1777901635
   },
   {
@@ -9911,26 +9931,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "PlayStation 4 Slim 1tb + Jogos",
     "ts": 1777840810
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:38",
-    "fotoUrl": "https://img.olx.com.br/images/50/503644524112447.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/503644524112447.jpg",
-      "https://img.olx.com.br/images/52/524622405395153.jpg",
-      "https://img.olx.com.br/images/53/538658523254094.jpg",
-      "https://img.olx.com.br/images/55/555688648264583.jpg"
-    ],
-    "id": "1498954483",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-1498954483",
-    "preco": 3300,
-    "precoRaw": "R$ 3.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "IPHONE 15 128GB",
-    "ts": 1777840719
   }
 ]
