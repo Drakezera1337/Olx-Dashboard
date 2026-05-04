@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499017661",
-    "titulo": "Vídeo game ",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "outros",
+    "id": "1464600698",
+    "titulo": "Jogos de ps4",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "23:59",
-    "tempoOlx": "Na OLX desde setembro de 2020",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/video-game-1499017661",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464600698",
+    "fotoUrl": "https://img.olx.com.br/images/65/656570479573539.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/656570479573539.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863564
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:59",
     "fotoUrl": "https://img.olx.com.br/images/41/412605526008176.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/412605526008176.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/48/486662769536490.jpg",
       "https://img.olx.com.br/images/50/503688528088256.jpg"
     ],
-    "defeito": false,
+    "id": "1499017661",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/video-game-1499017661",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2020",
+    "titulo": "Vídeo game ",
     "ts": 1777863557
   },
   {
@@ -9861,27 +9879,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": "Combo PES Nostalgia PS4: 2017 + 2018 (Novos e Lacrados) PlayStation 4 e 5",
     "ts": 1777825905
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:31",
-    "fotoUrl": "https://img.olx.com.br/images/18/184600161603553.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/184600161603553.jpg",
-      "https://img.olx.com.br/images/20/205600046674822.jpg",
-      "https://img.olx.com.br/images/23/235672164961223.jpg",
-      "https://img.olx.com.br/images/25/251670164961122.jpg",
-      "https://img.olx.com.br/images/27/279630167595170.jpg"
-    ],
-    "id": "1498795193",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-1-controle-original-gta5-impecavel-1498795193",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2023",
-    "titulo": "Ps4 Slim 1Tb +1 Controle Original + GTA5 Impecável",
-    "ts": 1777825894
   }
 ]
