@@ -1,15 +1,32 @@
 [
   {
-    "id": "1499210819",
-    "titulo": "PS4 quebrado ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1499211201",
+    "titulo": "PS4 Slim 500GB + Jogos + Controle | Revisado e Pronto Pra Jogar",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:10",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-quebrado-1499210819",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/ps4-slim-500gb-jogos-controle-revisado-e-pronto-pra-jogar-1499211201",
+    "fotoUrl": "https://img.olx.com.br/images/88/888602760329504.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/888602760329504.jpg",
+      "https://img.olx.com.br/images/93/933626162946402.jpg",
+      "https://img.olx.com.br/images/94/941657769829272.jpg",
+      "https://img.olx.com.br/images/96/969626286145540.jpg",
+      "https://img.olx.com.br/images/98/982627529959917.jpg",
+      "https://img.olx.com.br/images/99/991639886867145.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777925438
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:10",
     "fotoUrl": "https://img.olx.com.br/images/34/346665043290452.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/346665043290452.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/37/376664162533457.jpg",
       "https://img.olx.com.br/images/40/409686408242625.jpg"
     ],
-    "defeito": false,
+    "id": "1499210819",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-quebrado-1499210819",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "PS4 quebrado ",
     "ts": 1777925407
   },
   {
@@ -9904,25 +9927,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps5 com leitor",
-    "ts": 1777868111
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:15",
-    "fotoUrl": "https://img.olx.com.br/images/83/839667163044510.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/839667163044510.jpg",
-      "https://img.olx.com.br/images/86/865604407088282.jpg"
-    ],
-    "id": "1498745380",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-s-1498745380",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox s",
     "ts": 1777868111
   }
 ]
