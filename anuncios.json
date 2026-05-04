@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498980282",
-    "titulo": "PlayStation 4 Slim 500GB + 2 controles + 9 Jogos!",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1498974063",
+    "titulo": "Jogo Ghost of tsushima",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "21:11",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde julho de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-500gb-2-controles-9-jogos-1498980282",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-ghost-of-tsushima-1498974063",
+    "fotoUrl": "https://img.olx.com.br/images/92/924676525213852.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/924676525213852.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777853480
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:11",
     "fotoUrl": "https://img.olx.com.br/images/37/377610886515811.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/377610886515811.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/43/434649765293264.jpg",
       "https://img.olx.com.br/images/45/454630164911019.jpg"
     ],
-    "defeito": false,
+    "id": "1498980282",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-500gb-2-controles-9-jogos-1498980282",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 4 Slim 500GB + 2 controles + 9 Jogos!",
     "ts": 1777853471
   },
   {
@@ -9889,23 +9907,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "Fifa 15 ps4",
     "ts": 1777824492
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:08",
-    "fotoUrl": "https://img.olx.com.br/images/90/905628407324207.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/905628407324207.jpg"
-    ],
-    "id": "1498904494",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/alan-wake-2-deluxe-edition-1498904494",
-    "preco": 210,
-    "precoRaw": "R$ 210",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Alan Wake 2 - Deluxe Edition ",
-    "ts": 1777824483
   }
 ]
