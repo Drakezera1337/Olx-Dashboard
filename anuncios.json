@@ -1,15 +1,32 @@
 [
   {
-    "id": "1499010862",
-    "titulo": "PlayStation 4 ",
-    "preco": 850,
-    "precoRaw": "R$ 850",
+    "id": "1498239278",
+    "titulo": "PlayStation 4 1 tera",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "23:55",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1499010862",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1-tera-1498239278",
+    "fotoUrl": "https://img.olx.com.br/images/36/364637511591583.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/364637511591583.jpg",
+      "https://img.olx.com.br/images/38/384694638542323.jpg",
+      "https://img.olx.com.br/images/39/398679396989435.jpg",
+      "https://img.olx.com.br/images/40/402622151844967.jpg",
+      "https://img.olx.com.br/images/67/679681395783500.jpg",
+      "https://img.olx.com.br/images/68/685662633355402.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863309
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:55",
     "fotoUrl": "https://img.olx.com.br/images/20/203665282940700.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/203665282940700.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/23/236623049083866.jpg",
       "https://img.olx.com.br/images/25/255688880517600.jpg"
     ],
-    "defeito": false,
+    "id": "1499010862",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1499010862",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "PlayStation 4 ",
     "ts": 1777863302
   },
   {
@@ -9863,28 +9886,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Playstation 5 Slim",
     "ts": 1777825025
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:14",
-    "fotoUrl": "https://img.olx.com.br/images/11/117621045661790.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/117621045661790.jpg",
-      "https://img.olx.com.br/images/12/129624880704294.jpg",
-      "https://img.olx.com.br/images/14/147627646734833.jpg",
-      "https://img.olx.com.br/images/15/153697165198177.jpg",
-      "https://img.olx.com.br/images/16/164630525949208.jpg",
-      "https://img.olx.com.br/images/17/176688642152488.jpg"
-    ],
-    "id": "1498904680",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/god-of-war-ps4-the-last-of-us-ps4-capa-1498904680",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "God Of War (ps4) + The Last Of Us (ps4) + Capa",
-    "ts": 1777824887
   }
 ]
