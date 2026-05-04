@@ -1,20 +1,41 @@
 [
   {
-    "id": "1499210315",
-    "titulo": "Jogos ps4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1499211329",
+    "titulo": "PlayStation 3 Super Slim ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "17:10",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "detectado": "17:15",
+    "tempoOlx": "Na OLX desde outubro de 2022",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogos-ps4-1499210315",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-super-slim-1499211329",
+    "fotoUrl": "https://img.olx.com.br/images/12/121691046192031.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/121691046192031.jpg",
+      "https://img.olx.com.br/images/13/137697528707830.jpg",
+      "https://img.olx.com.br/images/16/161605521251188.jpg",
+      "https://img.olx.com.br/images/18/186627645695277.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777925737
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:10",
     "fotoUrl": "https://img.olx.com.br/images/66/661602769898605.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/661602769898605.jpg"
     ],
-    "defeito": false,
+    "id": "1499210315",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogos-ps4-1499210315",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Jogos ps4",
     "ts": 1777925454
   },
   {
@@ -9906,25 +9927,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "JOGOS DE PS4 (COMBO) Leia a descrição ",
     "ts": 1777870244
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:15",
-    "fotoUrl": "https://img.olx.com.br/images/53/536662768859204.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/536662768859204.jpg",
-      "https://img.olx.com.br/images/53/532626762948607.jpg",
-      "https://img.olx.com.br/images/53/538620768445958.jpg"
-    ],
-    "id": "1498886047",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vende-se-psa-desbloqueado-12-00-1498886047",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vende-se PSA DESBLOQUEADO 12.00",
-    "ts": 1777868111
   }
 ]
