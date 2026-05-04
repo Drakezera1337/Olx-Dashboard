@@ -1,22 +1,43 @@
 [
   {
-    "id": "1499020759",
-    "titulo": "PS4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1499019722",
+    "titulo": "PS4 quebrado ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "23:54",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "tempoOlx": "Na OLX desde maio de 2021",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-1499020759",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-quebrado-1499019722",
+    "fotoUrl": "https://img.olx.com.br/images/50/501612527499101.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/501612527499101.jpg",
+      "https://img.olx.com.br/images/52/524614401168543.jpg",
+      "https://img.olx.com.br/images/54/545603640931757.jpg",
+      "https://img.olx.com.br/images/56/561667761842535.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863268
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:54",
     "fotoUrl": "https://img.olx.com.br/images/84/841664526885203.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/841664526885203.jpg",
       "https://img.olx.com.br/images/86/867652400120543.jpg",
       "https://img.olx.com.br/images/88/880656649001602.jpg"
     ],
-    "defeito": false,
+    "id": "1499020759",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-1499020759",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "titulo": "PS4",
     "ts": 1777863258
   },
   {
@@ -9868,28 +9889,5 @@
     "tempoOlx": "Na OLX desde junho de 2023",
     "titulo": "Resident Evil 4 Remake ps4 ",
     "ts": 1777824841
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:13",
-    "fotoUrl": "https://img.olx.com.br/images/59/595699762087173.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/595699762087173.jpg",
-      "https://img.olx.com.br/images/64/643607404313992.jpg",
-      "https://img.olx.com.br/images/69/690632280513966.jpg",
-      "https://img.olx.com.br/images/73/732649522115344.jpg",
-      "https://img.olx.com.br/images/79/791637403194469.jpg",
-      "https://img.olx.com.br/images/83/837606527989199.jpg"
-    ],
-    "id": "1498781036",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-part-ii-edicao-especial-ps4-1498781036",
-    "preco": 299,
-    "precoRaw": "R$ 299",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2020",
-    "titulo": "The Last of Us Part II Edição Especial PS4",
-    "ts": 1777824828
   }
 ]
