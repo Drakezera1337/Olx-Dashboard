@@ -1,21 +1,43 @@
 [
   {
-    "id": "1499177685",
-    "titulo": "PS5 SLIM MÍDIA DIGITAL ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1490082302",
+    "titulo": "PS2 SLIM + 2 CONTROLES",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "15:02",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-slim-midia-digital-1499177685",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps2-slim-2-controles-1490082302",
+    "fotoUrl": "https://img.olx.com.br/images/42/424663861479807.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/424663861479807.jpg",
+      "https://img.olx.com.br/images/43/431647624927745.jpg",
+      "https://img.olx.com.br/images/45/455621748434586.jpg",
+      "https://img.olx.com.br/images/46/463634505019301.jpg",
+      "https://img.olx.com.br/images/50/508623385198124.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777917779
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:02",
     "fotoUrl": "https://img.olx.com.br/images/83/830606521946719.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/830606521946719.jpg",
       "https://img.olx.com.br/images/84/848673165189800.jpg"
     ],
-    "defeito": false,
+    "id": "1499177685",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-slim-midia-digital-1499177685",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "titulo": "PS5 SLIM MÍDIA DIGITAL ",
     "ts": 1777917765
   },
   {
@@ -9939,26 +9961,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Bloodborne PS4",
     "ts": 1777852720
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:54",
-    "fotoUrl": "https://img.olx.com.br/images/98/981535955409840.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/981535955409840.jpg",
-      "https://img.olx.com.br/images/10/108504359627147.jpg",
-      "https://img.olx.com.br/images/12/123517833550431.jpg",
-      "https://img.olx.com.br/images/14/143563591335776.jpg"
-    ],
-    "id": "1465561899",
-    "link": "https://ap.olx.com.br/amapa/games/jogos-de-video-game/jogos-de-ps3-e-ps4-1465561899",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2017",
-    "titulo": "Jogos de PS3 E PS4",
-    "ts": 1777852455
   }
 ]
