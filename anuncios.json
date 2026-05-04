@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499213067",
-    "titulo": "JOGOS DE PS4 E PS5",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "ps5",
+    "id": "1499214304",
+    "titulo": "Battlefield V - PS4",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:22",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "detectado": "17:28",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1499213067",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-v-ps4-1499214304",
+    "fotoUrl": "https://img.olx.com.br/images/98/986668165830019.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/986668165830019.jpg",
+      "https://img.olx.com.br/images/11/118655761127684.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777926519
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:22",
     "fotoUrl": "https://img.olx.com.br/images/94/949610162573993.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/949610162573993.jpg"
     ],
-    "defeito": false,
+    "id": "1499213067",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1499213067",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "titulo": "JOGOS DE PS4 E PS5",
     "ts": 1777926169
   },
   {
@@ -9912,28 +9931,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "CI HDMI PS5",
     "ts": 1777898156
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:35",
-    "fotoUrl": "https://img.olx.com.br/images/90/903685642545603.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/903685642545603.jpg",
-      "https://img.olx.com.br/images/91/918620887770441.jpg",
-      "https://img.olx.com.br/images/93/936622520849610.jpg",
-      "https://img.olx.com.br/images/94/948668045055676.jpg",
-      "https://img.olx.com.br/images/95/956668642169346.jpg",
-      "https://img.olx.com.br/images/97/978607283437678.jpg"
-    ],
-    "id": "1499066825",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-128gb-10-meses-de-uso-1499066825",
-    "preco": 3900,
-    "precoRaw": "R$ 3.900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2020",
-    "titulo": "iPhone 16 128GB 10 meses de uso",
-    "ts": 1777898149
   }
 ]
