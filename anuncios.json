@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499179481",
-    "titulo": "PlayStation 4 + 2 jogos ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1383751536",
+    "titulo": "Jogos e Acessórios para Playstation 3",
+    "preco": 20,
+    "precoRaw": "R$ 20",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "16:12",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "16:15",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-2-jogos-1499179481",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/jogos-e-acessorios-para-playstation-3-1383751536",
+    "fotoUrl": "https://img.olx.com.br/images/53/538501143912085.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/538501143912085.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777922104
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:12",
     "fotoUrl": "https://img.olx.com.br/images/11/113693644727848.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/113693644727848.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/24/247637648445624.jpg",
       "https://img.olx.com.br/images/27/278693046947987.jpg"
     ],
-    "defeito": false,
+    "id": "1499179481",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-2-jogos-1499179481",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "PlayStation 4 + 2 jogos ",
     "ts": 1777921963
   },
   {
@@ -9937,26 +9955,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Coisas de Nintendo Switch Oled",
-    "ts": 1777868011
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:13",
-    "fotoUrl": "https://img.olx.com.br/images/27/272697159654769.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/272697159654769.jpg",
-      "https://img.olx.com.br/images/29/298655275527911.jpg",
-      "https://img.olx.com.br/images/31/317669757919144.jpg"
-    ],
-    "id": "1496147327",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/shantae-half-genie-hero-nintendo-switch-raro-1496147327",
-    "preco": 335,
-    "precoRaw": "R$ 335",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Shantae Half Genie Hero nintendo switch raro",
     "ts": 1777868011
   }
 ]
