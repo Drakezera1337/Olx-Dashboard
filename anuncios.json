@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499257099",
-    "titulo": "iPhone 13 branco | 85%",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "iphone",
+    "id": "1499257198",
+    "titulo": "Nintendo Switch Lite 128 GB ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "19:53",
-    "tempoOlx": "Na OLX desde junho de 2024",
+    "detectado": "19:54",
+    "tempoOlx": "Na OLX desde junho de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-branco-85-1499257099",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-128-gb-1499257198",
+    "fotoUrl": "https://img.olx.com.br/images/51/515641528655857.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/515641528655857.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777935245
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:53",
     "fotoUrl": "https://img.olx.com.br/images/18/181619169056893.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/181619169056893.jpg",
       "https://img.olx.com.br/images/18/183650520510648.jpg",
       "https://img.olx.com.br/images/19/191683760170472.jpg"
     ],
-    "defeito": false,
+    "id": "1499257099",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-branco-85-1499257099",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2024",
+    "titulo": "iPhone 13 branco | 85%",
     "ts": 1777935216
   },
   {
@@ -9822,25 +9840,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Battlefield 2042 - PS4",
     "ts": 1777900489
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:14",
-    "fotoUrl": "https://img.olx.com.br/images/57/578541410135534.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/578541410135534.jpg",
-      "https://img.olx.com.br/images/59/595528054979810.jpg",
-      "https://img.olx.com.br/images/62/625538173078344.jpg"
-    ],
-    "id": "1414718107",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/contra-rogue-corps-ps4-1414718107",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Contra Rogue Corps - PS4",
-    "ts": 1777900477
   }
 ]
