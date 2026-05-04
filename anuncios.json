@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499162565",
-    "titulo": "Uncharted 4 (PS4)",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1499162532",
+    "titulo": "Jogos PS4",
+    "preco": 350,
+    "precoRaw": "R$ 350",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:14",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "15:15",
+    "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/uncharted-4-ps4-1499162565",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-ps4-1499162532",
+    "fotoUrl": "https://img.olx.com.br/images/35/350649520852483.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/350649520852483.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918504
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:14",
     "fotoUrl": "https://img.olx.com.br/images/92/928658402149748.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/928658402149748.jpg",
       "https://img.olx.com.br/images/94/940665767010649.jpg",
       "https://img.olx.com.br/images/97/972677043550744.jpg"
     ],
-    "defeito": false,
+    "id": "1499162565",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/uncharted-4-ps4-1499162565",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Uncharted 4 (PS4)",
     "ts": 1777918496
   },
   {
@@ -9975,23 +9993,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "Horizon Forbidden West edição especial com Steelbook e artbook",
     "ts": 1777863633
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:00",
-    "fotoUrl": "https://img.olx.com.br/images/79/797657769711465.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/797657769711465.jpg"
-    ],
-    "id": "1499016528",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-e-ps5-valores-estao-na-descricao-do-anuncio-1499016528",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2019",
-    "titulo": "Jogos de PS4 e PS5 (valores estão na descrição do anúncio)",
-    "ts": 1777863625
   }
 ]
