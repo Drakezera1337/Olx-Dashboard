@@ -1,22 +1,45 @@
 [
   {
-    "id": "1499173257",
-    "titulo": "Plants vs Zombies (PS4)",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "ps4",
+    "id": "1499172612",
+    "titulo": "Jogos de PS4/PS5",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "15:09",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/plants-vs-zombies-ps4-1499173257",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-ps5-1499172612",
+    "fotoUrl": "https://img.olx.com.br/images/77/771684888892862.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/771684888892862.jpg",
+      "https://img.olx.com.br/images/78/782676528705977.jpg",
+      "https://img.olx.com.br/images/79/797635521446740.jpg",
+      "https://img.olx.com.br/images/80/803695284052898.jpg",
+      "https://img.olx.com.br/images/82/828630883562137.jpg",
+      "https://img.olx.com.br/images/83/830664400026916.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918183
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:09",
     "fotoUrl": "https://img.olx.com.br/images/55/559633644993366.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/559633644993366.jpg",
       "https://img.olx.com.br/images/57/573698406996210.jpg",
       "https://img.olx.com.br/images/59/592643645079641.jpg"
     ],
-    "defeito": false,
+    "id": "1499173257",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/plants-vs-zombies-ps4-1499173257",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Plants vs Zombies (PS4)",
     "ts": 1777918166
   },
   {
@@ -9955,24 +9978,5 @@
     "tempoOlx": "Na OLX desde março de 2017",
     "titulo": "Toki Nintendo Switch Retrollector Edition",
     "ts": 1777863374
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:56",
-    "fotoUrl": "https://img.olx.com.br/images/31/319689889703547.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/319689889703547.jpg",
-      "https://img.olx.com.br/images/32/324611167785358.jpg"
-    ],
-    "id": "1499011841",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-jogos-defeito-de-liga-e-desliga-cech-2511a-1499011841",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2025",
-    "titulo": "PS3 + JOGOS ( DEFEITO DE LIGA E DESLIGA CECH 2511A)",
-    "ts": 1777863366
   }
 ]
