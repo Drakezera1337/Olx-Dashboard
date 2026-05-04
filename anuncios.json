@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499182117",
-    "titulo": "Play station 5 ",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "outros",
+    "id": "1499153383",
+    "titulo": "Ps4 ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "15:22",
-    "tempoOlx": "Na OLX desde novembro de 2025",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/play-station-5-1499182117",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1499153383",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1777918965
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:22",
     "fotoUrl": "https://img.olx.com.br/images/84/846685889304184.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/846685889304184.jpg"
     ],
-    "defeito": false,
+    "id": "1499182117",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/play-station-5-1499182117",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "Play station 5 ",
     "ts": 1777918959
   },
   {
@@ -9988,28 +10006,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 5",
     "ts": 1777864356
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:12",
-    "fotoUrl": "https://img.olx.com.br/images/43/435696528452957.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/435696528452957.jpg",
-      "https://img.olx.com.br/images/43/439658766661533.jpg",
-      "https://img.olx.com.br/images/43/437624043860403.jpg",
-      "https://img.olx.com.br/images/43/437622524181048.jpg",
-      "https://img.olx.com.br/images/43/431657523974023.jpg",
-      "https://img.olx.com.br/images/43/438610764607847.jpg"
-    ],
-    "id": "1499022065",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-xr-1499022065",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "Vendo Iphone Xr",
-    "ts": 1777864354
   }
 ]
