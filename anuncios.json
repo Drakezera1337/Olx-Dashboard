@@ -1,7 +1,7 @@
 [
   {
-    "id": "1448955028",
-    "titulo": "Uncharted - The Lost Legacy",
+    "id": "1448960386",
+    "titulo": "Grand Theft Auto V",
     "preco": 90,
     "precoRaw": "R$ 90",
     "categoria": "jogos",
@@ -9,14 +9,34 @@
     "detectado": "00:11",
     "tempoOlx": "Na OLX desde setembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-the-lost-legacy-1448955028",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/grand-theft-auto-v-1448960386",
+    "fotoUrl": "https://img.olx.com.br/images/69/696550217328643.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/696550217328643.jpg",
+      "https://img.olx.com.br/images/33/338543822618633.jpg",
+      "https://img.olx.com.br/images/35/351531701055771.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777864286
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:11",
     "fotoUrl": "https://img.olx.com.br/images/87/877567330790922.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/877567330790922.jpg",
       "https://img.olx.com.br/images/31/314597700138139.jpg",
       "https://img.olx.com.br/images/32/329543102588996.jpg"
     ],
-    "defeito": false,
+    "id": "1448955028",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-the-lost-legacy-1448955028",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "Uncharted - The Lost Legacy",
     "ts": 1777864275
   },
   {
@@ -9839,25 +9859,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Batman Arkham Knight para PS4 ",
     "ts": 1777826318
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:38",
-    "fotoUrl": "https://img.olx.com.br/images/52/523697168670173.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/523697168670173.jpg",
-      "https://img.olx.com.br/images/54/549608640372422.jpg",
-      "https://img.olx.com.br/images/56/564674280246132.jpg"
-    ],
-    "id": "1498909160",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/senhor-dos-aneis-sombras-da-guerra-ps4-1498909160",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Senhor dos Anéis Sombras da Guerra - Ps4",
-    "ts": 1777826307
   }
 ]
