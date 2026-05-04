@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499244549",
-    "titulo": "JOGOS PS4/PS5",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps5",
+    "id": "1490922411",
+    "titulo": "Giana Sisters Twisted Dreams",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:20",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-ps4-ps5-1499244549",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/giana-sisters-twisted-dreams-1490922411",
+    "fotoUrl": "https://img.olx.com.br/images/33/333640754627693.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/333640754627693.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933258
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:20",
     "fotoUrl": "https://img.olx.com.br/images/60/606640288615317.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/606640288615317.jpg"
     ],
-    "defeito": false,
+    "id": "1499244549",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-ps4-ps5-1499244549",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "JOGOS PS4/PS5",
     "ts": 1777933250
   },
   {
@@ -9852,24 +9870,5 @@
     "tempoOlx": "Na OLX desde maio de 2013",
     "titulo": "PS4 Battlefield 4",
     "ts": 1777899767
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:02",
-    "fotoUrl": "https://img.olx.com.br/images/75/752450759794637.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/752450759794637.jpg",
-      "https://img.olx.com.br/images/75/756437519433216.jpg"
-    ],
-    "id": "1294135680",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/ps4-for-honor-1294135680",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2013",
-    "titulo": "PS4 For Honor",
-    "ts": 1777899760
   }
 ]
