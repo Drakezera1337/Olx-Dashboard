@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498991595",
-    "titulo": "THE DIVISION",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1498990909",
+    "titulo": "Jogos ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "21:17",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/the-division-1498991595",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1498990909",
+    "fotoUrl": "https://img.olx.com.br/images/23/234634764831274.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/234634764831274.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777853837
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:17",
     "fotoUrl": "https://img.olx.com.br/images/81/818655889869230.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/818655889869230.jpg"
     ],
-    "defeito": false,
+    "id": "1498991595",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/the-division-1498991595",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "titulo": "THE DIVISION",
     "ts": 1777853828
   },
   {
@@ -9886,23 +9904,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "Shadow of the tomb raider ps4 semi-novo",
     "ts": 1777824515
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:08",
-    "fotoUrl": "https://img.olx.com.br/images/88/889696524646350.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/889696524646350.jpg"
-    ],
-    "id": "1498778515",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/ps4-2-controles-mais-jogos-inclusos-aceito-propostas-1498778515",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "Ps4 2 controles mais jogos inclusos *aceito propostas *",
-    "ts": 1777824504
   }
 ]
