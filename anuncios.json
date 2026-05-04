@@ -1,22 +1,42 @@
 [
   {
-    "id": "1499123170",
-    "titulo": "iPhone Pro Max 16 Black",
-    "preco": 5490,
-    "precoRaw": "R$ 5.490",
-    "categoria": "iphone",
+    "id": "1499124103",
+    "titulo": "Ps4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:20",
-    "tempoOlx": "Na OLX desde outubro de 2015",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-pro-max-16-black-1499123170",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-1499124103",
+    "fotoUrl": "https://img.olx.com.br/images/76/767629167849985.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/767629167849985.jpg",
+      "https://img.olx.com.br/images/77/772690767314277.jpg",
+      "https://img.olx.com.br/images/79/790672528181103.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777908038
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:20",
     "fotoUrl": "https://img.olx.com.br/images/33/339609043159402.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/339609043159402.jpg",
       "https://img.olx.com.br/images/34/346629521581901.jpg",
       "https://img.olx.com.br/images/36/364676645577434.jpg"
     ],
-    "defeito": false,
+    "id": "1499123170",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-pro-max-16-black-1499123170",
+    "preco": 5490,
+    "precoRaw": "R$ 5.490",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2015",
+    "titulo": "iPhone Pro Max 16 Black",
     "ts": 1777908007
   },
   {
@@ -9941,25 +9961,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "Fitas de vídeo game ",
     "ts": 1777850149
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:15",
-    "fotoUrl": "https://img.olx.com.br/images/20/201638034183029.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/201638034183029.jpg",
-      "https://img.olx.com.br/images/23/231680637726947.jpg",
-      "https://img.olx.com.br/images/25/258616759157363.jpg"
-    ],
-    "id": "1490675549",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/agents-of-mayhen-ps4-1490675549",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "Agents of Mayhen PS4",
-    "ts": 1777850140
   }
 ]
