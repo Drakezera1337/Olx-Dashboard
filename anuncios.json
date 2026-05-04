@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499188479",
+    "id": "1499188234",
     "titulo": "JOGOS - PS4/PS5",
-    "preco": 57,
-    "precoRaw": "R$ 57",
+    "preco": 56,
+    "precoRaw": "R$ 56",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "15:47",
     "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-ps5-1499188479",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499188234",
+    "fotoUrl": "https://img.olx.com.br/images/35/352663643455939.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/352663643455939.jpg",
+      "https://img.olx.com.br/images/37/376667402834130.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777920456
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:47",
     "fotoUrl": "https://img.olx.com.br/images/97/971689404792396.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/971689404792396.jpg",
       "https://img.olx.com.br/images/99/998672166321739.jpg"
     ],
-    "defeito": false,
+    "id": "1499188479",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-ps5-1499188479",
+    "preco": 57,
+    "precoRaw": "R$ 57",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1777920447
   },
   {
@@ -9950,27 +9969,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps4 slim 500gb (leia c/atenção)",
-    "ts": 1777867915
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/16/168615409620073.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/168615409620073.jpg",
-      "https://img.olx.com.br/images/17/176638523882193.jpg",
-      "https://img.olx.com.br/images/19/193691643663748.jpg",
-      "https://img.olx.com.br/images/20/209682161333432.jpg"
-    ],
-    "id": "1498885694",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-4-slim-1498885694",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Play 4 slim ",
     "ts": 1777867915
   }
 ]
