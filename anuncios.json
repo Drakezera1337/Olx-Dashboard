@@ -1,22 +1,42 @@
 [
   {
-    "id": "1490604799",
-    "titulo": "Nioh - PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1481719135",
+    "titulo": "FIFA 20 - PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:12",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nioh-ps4-1490604799",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-ps4-1481719135",
+    "fotoUrl": "https://img.olx.com.br/images/41/415652262483669.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/415652262483669.jpg",
+      "https://img.olx.com.br/images/42/421676500217857.jpg",
+      "https://img.olx.com.br/images/43/432668145724543.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777900377
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:12",
     "fotoUrl": "https://img.olx.com.br/images/95/951602635482190.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/951602635482190.jpg",
       "https://img.olx.com.br/images/97/970660036737080.jpg",
       "https://img.olx.com.br/images/10/104687158292211.jpg"
     ],
-    "defeito": false,
+    "id": "1490604799",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nioh-ps4-1490604799",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Nioh - PS4",
     "ts": 1777900366
   },
   {
@@ -9906,25 +9926,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "PS5",
     "ts": 1777838109
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:53",
-    "fotoUrl": "https://img.olx.com.br/images/89/894697288270485.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/894697288270485.jpg",
-      "https://img.olx.com.br/images/90/905607169017292.jpg",
-      "https://img.olx.com.br/images/92/920623403128548.jpg"
-    ],
-    "id": "1498942557",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/batlefield-4-ps4-1498942557",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Batlefield 4 - PS4",
-    "ts": 1777838004
   }
 ]
