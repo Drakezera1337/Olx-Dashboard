@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499213074",
-    "titulo": "iPhone 14 Pro 256GB - Excelente estado!",
-    "preco": 3600,
-    "precoRaw": "R$ 3.600",
-    "categoria": "iphone",
+    "id": "1496419172",
+    "titulo": "Vídeo game",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "17:19",
-    "tempoOlx": "Na OLX desde março de 2023",
+    "detectado": "17:21",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-256gb-excelente-estado-1499213074",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/video-game-1496419172",
+    "fotoUrl": "https://img.olx.com.br/images/98/988679511524244.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/988679511524244.jpg",
+      "https://img.olx.com.br/images/98/989625873909302.jpg",
+      "https://img.olx.com.br/images/99/994663756178748.jpg",
+      "https://img.olx.com.br/images/98/980688512757265.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777926065
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:19",
     "fotoUrl": "https://img.olx.com.br/images/47/470641169714123.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/470641169714123.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/50/502624521623454.jpg",
       "https://img.olx.com.br/images/53/530671040882191.jpg"
     ],
-    "defeito": false,
+    "id": "1499213074",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-256gb-excelente-estado-1499213074",
+    "preco": 3600,
+    "precoRaw": "R$ 3.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "iPhone 14 Pro 256GB - Excelente estado!",
     "ts": 1777925946
   },
   {
@@ -9916,24 +9937,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "Attack on Titan 2 Final Battle PS4/PS5 - RARO ",
     "ts": 1777873869
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:34",
-    "fotoUrl": "https://img.olx.com.br/images/39/399630163060594.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/399630163060594.jpg",
-      "https://img.olx.com.br/images/41/419664885059576.jpg"
-    ],
-    "id": "1499028938",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-assassin-s-creed-black-flag-ps4-1499028938",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Jogo Assassin's Creed Black Flag PS4",
-    "ts": 1777872840
   }
 ]
