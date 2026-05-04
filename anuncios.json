@@ -1,22 +1,42 @@
 [
   {
-    "id": "1490588070",
-    "titulo": "Pes 2018 - PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1490604799",
+    "titulo": "Nioh - PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:12",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-2018-ps4-1490588070",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nioh-ps4-1490604799",
+    "fotoUrl": "https://img.olx.com.br/images/95/951602635482190.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/951602635482190.jpg",
+      "https://img.olx.com.br/images/97/970660036737080.jpg",
+      "https://img.olx.com.br/images/10/104687158292211.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777900366
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:12",
     "fotoUrl": "https://img.olx.com.br/images/20/204603399944010.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/204603399944010.jpg",
       "https://img.olx.com.br/images/21/218696278846611.jpg",
       "https://img.olx.com.br/images/23/234621756228379.jpg"
     ],
-    "defeito": false,
+    "id": "1490588070",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-2018-ps4-1490588070",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Pes 2018 - PS4",
     "ts": 1777900352
   },
   {
@@ -9906,28 +9926,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Batlefield 4 - PS4",
     "ts": 1777838004
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:53",
-    "fotoUrl": "https://img.olx.com.br/images/44/445642843383507.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/445642843383507.jpg",
-      "https://img.olx.com.br/images/46/464659121580299.jpg",
-      "https://img.olx.com.br/images/48/489669481364452.jpg",
-      "https://img.olx.com.br/images/50/502656480401748.jpg",
-      "https://img.olx.com.br/images/52/525695487581740.jpg",
-      "https://img.olx.com.br/images/53/534646006082709.jpg"
-    ],
-    "id": "1473228927",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/naruto-shippuden-ultimate-ninja-storm-4-road-to-boruto-1473228927",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": "Naruto Shippuden: Ultimate Ninja Storm 4 Road To Boruto",
-    "ts": 1777837995
   }
 ]
