@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499206148",
-    "titulo": "PS3 com defeitos",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps3",
+    "id": "1499207718",
+    "titulo": "Resident evil 3  lenticular  com soundtrack ",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "16:53",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "detectado": "16:58",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps3-com-defeitos-1499206148",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-3-lenticular-com-soundtrack-1499207718",
+    "fotoUrl": "https://img.olx.com.br/images/62/625665288772354.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/625665288772354.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777924717
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:53",
     "fotoUrl": "https://img.olx.com.br/images/62/626641645558247.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/626641645558247.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/67/673666288262780.jpg",
       "https://img.olx.com.br/images/69/695662528093773.jpg"
     ],
-    "defeito": false,
+    "id": "1499206148",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps3-com-defeitos-1499206148",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "PS3 com defeitos",
     "ts": 1777924388
   },
   {
@@ -9897,26 +9915,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps Portal - Acesso remoto ao PS5. Com caixa e manual",
-    "ts": 1777868111
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:15",
-    "fotoUrl": "https://img.olx.com.br/images/13/132611145491223.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/132611145491223.jpg",
-      "https://img.olx.com.br/images/45/457633757065736.jpg",
-      "https://img.olx.com.br/images/47/479624636181643.jpg"
-    ],
-    "id": "1489150372",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1tb-1489150372",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One S 1tb",
     "ts": 1777868111
   }
 ]
