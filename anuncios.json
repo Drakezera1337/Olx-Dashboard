@@ -1,20 +1,38 @@
 [
   {
-    "id": "1464601013",
+    "id": "1464601419",
     "titulo": "Jogos de ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "23:59",
     "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464601013",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464601419",
+    "fotoUrl": "https://img.olx.com.br/images/52/527571713455963.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/527571713455963.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863548
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:59",
     "fotoUrl": "https://img.olx.com.br/images/61/619584238066008.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/619584238066008.jpg"
     ],
-    "defeito": false,
+    "id": "1464601013",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464601013",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Jogos de ps4",
     "ts": 1777863540
   },
   {
@@ -9863,24 +9881,5 @@
     "tempoOlx": "Na OLX desde junho de 2023",
     "titulo": "Iten de colecionador THE LAST PART 2 PS2 COMPLETO ?",
     "ts": 1777825886
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:31",
-    "fotoUrl": "https://img.olx.com.br/images/33/334614288098080.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/334614288098080.jpg",
-      "https://img.olx.com.br/images/35/350668766893818.jpg"
-    ],
-    "id": "1498665778",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/sekiro-ps4-pt-br-novissimo-1498665778",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2023",
-    "titulo": "Sekiro PS4 (Pt-br) Novíssimo",
-    "ts": 1777825876
   }
 ]
