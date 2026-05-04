@@ -1,15 +1,31 @@
 [
   {
-    "id": "1444387465",
-    "titulo": "Jogos PlayStation 3",
-    "preco": 49,
-    "precoRaw": "R$ 49",
+    "id": "1444451356",
+    "titulo": "JOGOS PLAYSTATION 3",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "09:38",
     "tempoOlx": "Na OLX desde abril de 2025",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-playstation-3-1444387465",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-playstation-3-1444451356",
+    "fotoUrl": "https://img.olx.com.br/images/14/143525692480863.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/143525692480863.jpg",
+      "https://img.olx.com.br/images/16/164515217546949.jpg",
+      "https://img.olx.com.br/images/17/174571217051745.jpg",
+      "https://img.olx.com.br/images/19/198534572693444.jpg",
+      "https://img.olx.com.br/images/20/201598818342640.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777898323
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:38",
     "fotoUrl": "https://img.olx.com.br/images/22/227579339295845.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/227579339295845.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/26/260563451387918.jpg",
       "https://img.olx.com.br/images/27/279582090519373.jpg"
     ],
-    "defeito": false,
+    "id": "1444387465",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-playstation-3-1444387465",
+    "preco": 49,
+    "precoRaw": "R$ 49",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "Jogos PlayStation 3",
     "ts": 1777898315
   },
   {
@@ -9907,24 +9929,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "ipod shuffle com carregador original",
     "ts": 1777831627
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:06",
-    "fotoUrl": "https://img.olx.com.br/images/71/712636646133784.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/712636646133784.jpg",
-      "https://img.olx.com.br/images/72/722600289702618.jpg"
-    ],
-    "id": "1498924379",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-1498924379",
-    "preco": 680,
-    "precoRaw": "R$ 680",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2020",
-    "titulo": "Jogos Ps4",
-    "ts": 1777831588
   }
 ]
