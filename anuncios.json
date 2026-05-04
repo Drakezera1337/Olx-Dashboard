@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499120179",
-    "titulo": "Uncharted 4 PS4 - Mídia Física",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "categoria": "ps4",
+    "id": "1499122438",
+    "titulo": "Xbox Series S SSD de 512GB",
+    "preco": 1899,
+    "precoRaw": "R$ 1.899",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:07",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "detectado": "12:12",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/uncharted-4-ps4-midia-fisica-1499120179",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-ssd-de-512gb-1499122438",
+    "fotoUrl": "https://img.olx.com.br/images/89/896650168266451.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/896650168266451.jpg",
+      "https://img.olx.com.br/images/91/914657401009777.jpg",
+      "https://img.olx.com.br/images/93/936631528562030.jpg",
+      "https://img.olx.com.br/images/95/957607161013273.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777907559
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:07",
     "fotoUrl": "https://img.olx.com.br/images/79/792640648301956.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/792640648301956.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/78/783660280059389.jpg",
       "https://img.olx.com.br/images/78/780611643366450.jpg"
     ],
-    "defeito": false,
+    "id": "1499120179",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/uncharted-4-ps4-midia-fisica-1499120179",
+    "preco": 49,
+    "precoRaw": "R$ 49",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Uncharted 4 PS4 - Mídia Física",
     "ts": 1777907274
   },
   {
@@ -9932,23 +9953,5 @@
     "tempoOlx": "Na OLX desde junho de 2024",
     "titulo": "Watch Dogs Legion",
     "ts": 1777849070
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:57",
-    "fotoUrl": "https://img.olx.com.br/images/64/640668154944206.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/640668154944206.jpg"
-    ],
-    "id": "1490995822",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/guitar-hero-live-capa-guitar-hero-3-1490995822",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2016",
-    "titulo": "Guitar hero live + capa guitar hero 3",
-    "ts": 1777849059
   }
 ]
