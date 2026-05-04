@@ -1,22 +1,44 @@
 [
   {
-    "id": "1498777343",
-    "titulo": "PlayStation 4 Slim 500GB",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1499271928",
+    "titulo": "iPhone 12",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "20:52",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "20:54",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-1498777343",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1499271928",
+    "fotoUrl": "https://img.olx.com.br/images/48/487689166773649.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/487689166773649.jpg",
+      "https://img.olx.com.br/images/50/501672405488413.jpg",
+      "https://img.olx.com.br/images/51/512671406093019.jpg",
+      "https://img.olx.com.br/images/52/525608889399464.jpg",
+      "https://img.olx.com.br/images/54/545619528719688.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777938848
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:52",
     "fotoUrl": "https://img.olx.com.br/images/15/152688769345811.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/152688769345811.jpg",
       "https://img.olx.com.br/images/17/175615528744240.jpg",
       "https://img.olx.com.br/images/18/183694406783267.jpg"
     ],
-    "defeito": false,
+    "id": "1498777343",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-1498777343",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PlayStation 4 Slim 500GB",
     "ts": 1777938764
   },
   {
@@ -9820,24 +9842,5 @@
     "tempoOlx": "Na OLX desde junho de 2023",
     "titulo": "PlayStation 4 Pro 1TB Cuh-71",
     "ts": 1777903777
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:09",
-    "fotoUrl": "https://img.olx.com.br/images/19/198695382121454.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/198695382121454.jpg",
-      "https://img.olx.com.br/images/20/204630860206711.jpg"
-    ],
-    "id": "1489100400",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nba-2k-14-midia-fisica-1489100400",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2021",
-    "titulo": "NBA 2k 14 mídia fisica ",
-    "ts": 1777903768
   }
 ]
