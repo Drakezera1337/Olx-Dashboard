@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499217998",
-    "titulo": "Playstation 3 149gb",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1499217444",
+    "titulo": "Console dualsense PS5",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "17:41",
-    "tempoOlx": "Na OLX desde abril de 2025",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-149gb-1499217998",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/console-dualsense-ps5-1499217444",
+    "fotoUrl": "https://img.olx.com.br/images/51/517612045927919.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/517612045927919.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777927295
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:41",
     "fotoUrl": "https://img.olx.com.br/images/65/653610042945783.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/653610042945783.jpg",
       "https://img.olx.com.br/images/66/667643287702170.jpg",
       "https://img.olx.com.br/images/67/675695643208868.jpg"
     ],
-    "defeito": false,
+    "id": "1499217998",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-149gb-1499217998",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "Playstation 3 149gb",
     "ts": 1777927268
   },
   {
@@ -9907,28 +9925,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 4 com controle ",
     "ts": 1777898256
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:37",
-    "fotoUrl": "https://img.olx.com.br/images/64/640628408813846.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/640628408813846.jpg",
-      "https://img.olx.com.br/images/66/660614284825673.jpg",
-      "https://img.olx.com.br/images/67/672662641740851.jpg",
-      "https://img.olx.com.br/images/68/683692645379322.jpg",
-      "https://img.olx.com.br/images/69/694681167761196.jpg",
-      "https://img.olx.com.br/images/71/717691168956456.jpg"
-    ],
-    "id": "1499079293",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-branco-1499079293",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2014",
-    "titulo": "PS4 Slim Branco ",
-    "ts": 1777898248
   }
 ]
