@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499217444",
-    "titulo": "Console dualsense PS5",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps5",
+    "id": "1499221011",
+    "titulo": "Jogo X box 360",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "17:41",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "detectado": "17:44",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/console-dualsense-ps5-1499217444",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-x-box-360-1499221011",
+    "fotoUrl": "https://img.olx.com.br/images/38/387660645459048.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/387660645459048.jpg",
+      "https://img.olx.com.br/images/39/398601526600560.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777927479
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:41",
     "fotoUrl": "https://img.olx.com.br/images/51/517612045927919.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/517612045927919.jpg"
     ],
-    "defeito": false,
+    "id": "1499217444",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/console-dualsense-ps5-1499217444",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "Console dualsense PS5",
     "ts": 1777927295
   },
   {
@@ -9907,23 +9926,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "DAP049 PS4 SLIM",
     "ts": 1777898263
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:37",
-    "fotoUrl": "https://img.olx.com.br/images/58/585693281641059.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/585693281641059.jpg"
-    ],
-    "id": "1499066833",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-4-com-controle-1499066833",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PlayStation 4 com controle ",
-    "ts": 1777898256
   }
 ]
