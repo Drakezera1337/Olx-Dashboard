@@ -1,21 +1,43 @@
 [
   {
-    "id": "1499140408",
-    "titulo": "Mega",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1499178918",
+    "titulo": "iPhone 12 64Gb",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "15:15",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "15:16",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/mega-1499140408",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1499178918",
+    "fotoUrl": "https://img.olx.com.br/images/93/932611407842544.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/932611407842544.jpg",
+      "https://img.olx.com.br/images/95/952632163802367.jpg",
+      "https://img.olx.com.br/images/97/974614283177065.jpg",
+      "https://img.olx.com.br/images/98/986667160327557.jpg",
+      "https://img.olx.com.br/images/99/997623284925068.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918600
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:15",
     "fotoUrl": "https://img.olx.com.br/images/66/661661769317077.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/661661769317077.jpg",
       "https://img.olx.com.br/images/68/680681767996832.jpg"
     ],
-    "defeito": false,
+    "id": "1499140408",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/mega-1499140408",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Mega",
     "ts": 1777918555
   },
   {
@@ -9987,23 +10009,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "Call of duty Modern Warfare para Playstation 4 ",
     "ts": 1777864179
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:09",
-    "fotoUrl": "https://img.olx.com.br/images/65/657686635350745.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/657686635350745.jpg"
-    ],
-    "id": "1490776412",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-lacrado-1490776412",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2015",
-    "titulo": "Horizon Forbidden West Lacrado ",
-    "ts": 1777864172
   }
 ]
