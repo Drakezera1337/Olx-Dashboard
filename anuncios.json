@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490918256",
-    "titulo": "Street Fighter V",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1490918967",
+    "titulo": "The Elder Scrolls Online",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:22",
     "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/street-fighter-v-1490918256",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-elder-scrolls-online-1490918967",
+    "fotoUrl": "https://img.olx.com.br/images/39/395628393455130.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/395628393455130.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933335
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:22",
     "fotoUrl": "https://img.olx.com.br/images/29/296695159784139.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/296695159784139.jpg"
     ],
-    "defeito": false,
+    "id": "1490918256",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/street-fighter-v-1490918256",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Street Fighter V",
     "ts": 1777933327
   },
   {
@@ -9836,24 +9854,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Need for Speed Heat - PS4",
     "ts": 1777900151
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:08",
-    "fotoUrl": "https://img.olx.com.br/images/19/193679163131298.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/193679163131298.jpg",
-      "https://img.olx.com.br/images/19/191622047553750.jpg"
-    ],
-    "id": "1499086943",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/forspoken-playstation-5-1499086943",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "forspoken playstation 5",
-    "ts": 1777900110
   }
 ]
