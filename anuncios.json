@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499185144",
-    "titulo": "JOGOS - PS4/PS5",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps5",
+    "id": "1499185117",
+    "titulo": "Days Gone - PS4",
+    "preco": 79,
+    "precoRaw": "R$ 79",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "15:34",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "tempoOlx": "Na OLX desde abril de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499185144",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/days-gone-ps4-1499185117",
+    "fotoUrl": "https://img.olx.com.br/images/37/378620286100165.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/378620286100165.jpg",
+      "https://img.olx.com.br/images/39/391601160902179.jpg",
+      "https://img.olx.com.br/images/40/408633763738971.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777919686
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:34",
     "fotoUrl": "https://img.olx.com.br/images/66/662672406370995.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/662672406370995.jpg",
       "https://img.olx.com.br/images/68/687661280858186.jpg"
     ],
-    "defeito": false,
+    "id": "1499185144",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499185144",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1777919676
   },
   {
@@ -9962,24 +9982,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Playstation Portal (PS PORTAL)",
-    "ts": 1777867885
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/87/874672517170774.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/874672517170774.jpg"
-    ],
-    "id": "1498236437",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-5-slim-1498236437",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 5 Slim",
     "ts": 1777867885
   }
 ]
