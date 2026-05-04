@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490920697",
-    "titulo": "Battlefield 4",
+    "id": "1490920919",
+    "titulo": "Killzone Shadow Fall",
     "preco": 70,
     "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:22",
     "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/battlefield-4-1490920697",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/killzone-shadow-fall-1490920919",
+    "fotoUrl": "https://img.olx.com.br/images/35/353637154934731.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/353637154934731.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933360
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:22",
     "fotoUrl": "https://img.olx.com.br/images/68/686686036280249.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/686686036280249.jpg"
     ],
-    "defeito": false,
+    "id": "1490920697",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/battlefield-4-1490920697",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Battlefield 4",
     "ts": 1777933353
   },
   {
@@ -9830,25 +9848,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Knack 2 - PS4",
     "ts": 1777900186
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:09",
-    "fotoUrl": "https://img.olx.com.br/images/71/711648023537628.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/711648023537628.jpg",
-      "https://img.olx.com.br/images/72/728695747533914.jpg",
-      "https://img.olx.com.br/images/73/737672149375086.jpg"
-    ],
-    "id": "1481708767",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta5-ps4-1481708767",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "GTA5 - PS4",
-    "ts": 1777900173
   }
 ]
