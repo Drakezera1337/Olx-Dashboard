@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499211958",
-    "titulo": "Playstation 4",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "categoria": "ps4",
+    "id": "1499213074",
+    "titulo": "iPhone 14 Pro 256GB - Excelente estado!",
+    "preco": 3600,
+    "precoRaw": "R$ 3.600",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "17:17",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "17:19",
+    "tempoOlx": "Na OLX desde março de 2023",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/playstation-4-1499211958",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-256gb-excelente-estado-1499213074",
+    "fotoUrl": "https://img.olx.com.br/images/47/470641169714123.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/470641169714123.jpg",
+      "https://img.olx.com.br/images/48/485685522528396.jpg",
+      "https://img.olx.com.br/images/50/502624521623454.jpg",
+      "https://img.olx.com.br/images/53/530671040882191.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777925946
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:17",
     "fotoUrl": "https://img.olx.com.br/images/33/333632880055143.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/333632880055143.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/40/401626526883969.jpg",
       "https://img.olx.com.br/images/41/413662881473479.jpg"
     ],
-    "defeito": false,
+    "id": "1499211958",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/playstation-4-1499211958",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "Playstation 4",
     "ts": 1777925857
   },
   {
@@ -9914,26 +9935,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Jogo Assassin's Creed Black Flag PS4",
     "ts": 1777872840
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:33",
-    "fotoUrl": "https://img.olx.com.br/images/14/148546428472584.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/148546428472584.jpg",
-      "https://img.olx.com.br/images/13/134598544363191.jpg",
-      "https://img.olx.com.br/images/13/139593429174221.jpg",
-      "https://img.olx.com.br/images/14/148540423642112.jpg"
-    ],
-    "id": "1416503118",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-god-of-war-ps4-br-midia-fisica-lacrado-1416503118",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogo God Of War Ps4 Br Midia Fisica -lacrado ",
-    "ts": 1777872831
   }
 ]
