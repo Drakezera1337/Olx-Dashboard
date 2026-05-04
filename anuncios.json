@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499122438",
-    "titulo": "Xbox Series S SSD de 512GB",
-    "preco": 1899,
-    "precoRaw": "R$ 1.899",
-    "categoria": "xbox",
+    "id": "1499121687",
+    "titulo": "Ps5 Slim Digital 1TB",
+    "preco": 3099,
+    "precoRaw": "R$ 3.099",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "12:12",
     "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-ssd-de-512gb-1499122438",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-digital-1tb-1499121687",
+    "fotoUrl": "https://img.olx.com.br/images/15/156645401566402.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/156645401566402.jpg",
+      "https://img.olx.com.br/images/18/187667285165376.jpg",
+      "https://img.olx.com.br/images/19/196652764163418.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777907572
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:12",
     "fotoUrl": "https://img.olx.com.br/images/89/896650168266451.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/896650168266451.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/93/936631528562030.jpg",
       "https://img.olx.com.br/images/95/957607161013273.jpg"
     ],
-    "defeito": false,
+    "id": "1499122438",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-ssd-de-512gb-1499122438",
+    "preco": 1899,
+    "precoRaw": "R$ 1.899",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "Xbox Series S SSD de 512GB",
     "ts": 1777907559
   },
   {
@@ -9934,24 +9954,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Nintendo dsi XL no estado como no anúncio ",
     "ts": 1777849118
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:57",
-    "fotoUrl": "https://img.olx.com.br/images/97/975650285841564.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/975650285841564.jpg",
-      "https://img.olx.com.br/images/98/984613769686232.jpg"
-    ],
-    "id": "1498978595",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/watch-dogs-legion-1498978595",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2024",
-    "titulo": "Watch Dogs Legion",
-    "ts": 1777849070
   }
 ]
