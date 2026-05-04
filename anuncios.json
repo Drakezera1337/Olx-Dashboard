@@ -1,15 +1,32 @@
 [
   {
-    "id": "1499028858",
-    "titulo": "PS4 FAT 500GB",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1499079293",
+    "titulo": "PS4 Slim Branco ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:37",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "tempoOlx": "Na OLX desde janeiro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1499028858",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-branco-1499079293",
+    "fotoUrl": "https://img.olx.com.br/images/64/640628408813846.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/640628408813846.jpg",
+      "https://img.olx.com.br/images/66/660614284825673.jpg",
+      "https://img.olx.com.br/images/67/672662641740851.jpg",
+      "https://img.olx.com.br/images/68/683692645379322.jpg",
+      "https://img.olx.com.br/images/69/694681167761196.jpg",
+      "https://img.olx.com.br/images/71/717691168956456.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777898248
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:37",
     "fotoUrl": "https://img.olx.com.br/images/37/375616882645738.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/375616882645738.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/39/394608523192762.jpg",
       "https://img.olx.com.br/images/40/401663889813813.jpg"
     ],
-    "defeito": false,
+    "id": "1499028858",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1499028858",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "PS4 FAT 500GB",
     "ts": 1777898237
   },
   {
@@ -9897,25 +9920,5 @@
     "tempoOlx": "Na OLX desde julho de 2025",
     "titulo": "jogo original para ps3 midia física - gta 4 com mapa",
     "ts": 1777831381
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:02",
-    "fotoUrl": "https://img.olx.com.br/images/46/469655492174003.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/469655492174003.jpg",
-      "https://img.olx.com.br/images/49/497679377943728.jpg",
-      "https://img.olx.com.br/images/51/512607614006643.jpg"
-    ],
-    "id": "1481459889",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/jogo-original-para-ps3-midia-fisica-racedriver-grid-1481459889",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2025",
-    "titulo": "jogo original para ps3 midia física - racedriver grid",
-    "ts": 1777831369
   }
 ]
