@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499101389",
-    "titulo": "PSP ",
-    "preco": 200,
-    "precoRaw": "R$ 200",
+    "id": "1499168714",
+    "titulo": "Trapézio ion SOL 7 M",
+    "preco": 1850,
+    "precoRaw": "R$ 1.850",
     "categoria": "outros",
     "publicado": "",
     "detectado": "15:07",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "tempoOlx": "Na OLX desde novembro de 2014",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/psp-1499101389",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/trapezio-ion-sol-7-m-1499168714",
+    "fotoUrl": "https://img.olx.com.br/images/17/172679401223538.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/172679401223538.jpg",
+      "https://img.olx.com.br/images/19/198620166069724.jpg",
+      "https://img.olx.com.br/images/22/224627161352823.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918046
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:07",
     "fotoUrl": "https://img.olx.com.br/images/84/848609289916770.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/848609289916770.jpg",
       "https://img.olx.com.br/images/85/857602641386698.jpg"
     ],
-    "defeito": false,
+    "id": "1499101389",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/psp-1499101389",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "PSP ",
     "ts": 1777918036
   },
   {
@@ -9952,23 +9972,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "PS4",
     "ts": 1777863258
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:54",
-    "fotoUrl": "https://img.olx.com.br/images/37/375612529148946.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/375612529148946.jpg"
-    ],
-    "id": "1499005775",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psvr2-1499005775",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "PSVR2",
-    "ts": 1777863250
   }
 ]
