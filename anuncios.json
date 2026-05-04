@@ -1,20 +1,42 @@
 [
   {
-    "id": "1499100070",
-    "titulo": "Jogo ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1499100596",
+    "titulo": "iPhone 12",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "10:57",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/jogo-ps4-1499100070",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1499100596",
+    "fotoUrl": "https://img.olx.com.br/images/73/731656168422444.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/731656168422444.jpg",
+      "https://img.olx.com.br/images/75/753696889388129.jpg",
+      "https://img.olx.com.br/images/77/772604529754238.jpg",
+      "https://img.olx.com.br/images/79/796652648101681.jpg",
+      "https://img.olx.com.br/images/80/807602162233563.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777903056
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:57",
     "fotoUrl": "https://img.olx.com.br/images/85/851664526188470.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/851664526188470.jpg"
     ],
-    "defeito": false,
+    "id": "1499100070",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/jogo-ps4-1499100070",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Jogo ps4",
     "ts": 1777903040
   },
   {
@@ -9918,23 +9940,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "FIFA 15 PS4",
     "ts": 1777841856
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:57",
-    "fotoUrl": "https://img.olx.com.br/images/38/387510673096226.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/387510673096226.jpg"
-    ],
-    "id": "1430821504",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/the-last-guardian-ps4-esta-novo-nao-lacrado-usado-uma-vez-1430821504",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2014",
-    "titulo": "The Last Guardian - PS4 (Está novo, não lacrado, usado uma vez)",
-    "ts": 1777841847
   }
 ]
