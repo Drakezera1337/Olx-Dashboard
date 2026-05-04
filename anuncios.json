@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499100531",
-    "titulo": "PLAYSTATION 3 FAT",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1499104615",
+    "titulo": "Bioshock edição de aniversario",
+    "preco": 3440,
+    "precoRaw": "R$ 3.440",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:08",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "detectado": "11:09",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-fat-1499100531",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bioshock-edicao-de-aniversario-1499104615",
+    "fotoUrl": "https://img.olx.com.br/images/94/941652166400845.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/941652166400845.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777903746
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:08",
     "fotoUrl": "https://img.olx.com.br/images/33/334673884928064.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/334673884928064.jpg",
       "https://img.olx.com.br/images/46/468675280633035.jpg"
     ],
-    "defeito": false,
+    "id": "1499100531",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-fat-1499100531",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "PLAYSTATION 3 FAT",
     "ts": 1777903695
   },
   {
@@ -9916,23 +9934,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "Vídeo game ",
     "ts": 1777842365
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:03",
-    "fotoUrl": "https://img.olx.com.br/images/55/550551471666729.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/550551471666729.jpg"
-    ],
-    "id": "1465668647",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ben-10-ps4-1465668647",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Ben 10 ps4",
-    "ts": 1777842216
   }
 ]
