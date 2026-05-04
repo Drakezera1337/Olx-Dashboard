@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499185117",
-    "titulo": "Days Gone - PS4",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "categoria": "ps4",
+    "id": "1496509480",
+    "titulo": "Controle Xbox One série s",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "15:34",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "detectado": "15:40",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/days-gone-ps4-1499185117",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/controle-xbox-one-serie-s-1496509480",
+    "fotoUrl": "https://img.olx.com.br/images/34/341685393792612.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/341685393792612.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777920007
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:34",
     "fotoUrl": "https://img.olx.com.br/images/37/378620286100165.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/378620286100165.jpg",
       "https://img.olx.com.br/images/39/391601160902179.jpg",
       "https://img.olx.com.br/images/40/408633763738971.jpg"
     ],
-    "defeito": false,
+    "id": "1499185117",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/days-gone-ps4-1499185117",
+    "preco": 79,
+    "precoRaw": "R$ 79",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Days Gone - PS4",
     "ts": 1777919686
   },
   {
@@ -9961,27 +9979,5 @@
     "tempoOlx": "",
     "titulo": "Redmi Note 13 4g, 256gb, 8gb Ram",
     "ts": 1777867887
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/96/967692282468883.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/967692282468883.jpg",
-      "https://img.olx.com.br/images/86/860630764198903.jpg",
-      "https://img.olx.com.br/images/86/866655285621734.jpg",
-      "https://img.olx.com.br/images/86/866686523311714.jpg",
-      "https://img.olx.com.br/images/86/866600162326406.jpg"
-    ],
-    "id": "1498891263",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-portal-ps-portal-1498891263",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation Portal (PS PORTAL)",
-    "ts": 1777867885
   }
 ]
