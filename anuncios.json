@@ -1,21 +1,43 @@
 [
   {
-    "id": "1499009131",
-    "titulo": "XBOX SÉRIES S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1499250045",
+    "titulo": "Vendo ou troco Super Nintendo ",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "19:36",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-1499009131",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ou-troco-super-nintendo-1499250045",
+    "fotoUrl": "https://img.olx.com.br/images/27/279623524278139.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/279623524278139.jpg",
+      "https://img.olx.com.br/images/29/297680886093923.jpg",
+      "https://img.olx.com.br/images/31/318614521123415.jpg",
+      "https://img.olx.com.br/images/33/332650527250598.jpg",
+      "https://img.olx.com.br/images/34/342674520337661.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777934192
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:36",
     "fotoUrl": "https://img.olx.com.br/images/88/885602169667793.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/885602169667793.jpg",
       "https://img.olx.com.br/images/89/893694283483560.jpg"
     ],
-    "defeito": false,
+    "id": "1499009131",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-1499009131",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "XBOX SÉRIES S ",
     "ts": 1777934183
   },
   {
@@ -9813,25 +9835,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Pes 2018 - PS4",
     "ts": 1777900352
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:12",
-    "fotoUrl": "https://img.olx.com.br/images/79/798643878813079.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/798643878813079.jpg",
-      "https://img.olx.com.br/images/80/809662517561079.jpg",
-      "https://img.olx.com.br/images/82/825646278121651.jpg"
-    ],
-    "id": "1490588775",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jump-force-ps4-1490588775",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jump Force - PS4",
-    "ts": 1777900343
   }
 ]
