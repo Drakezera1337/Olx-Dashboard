@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499122302",
-    "titulo": "Vendo ps4 pro 1tera",
-    "preco": 1750,
-    "precoRaw": "R$ 1.750",
-    "categoria": "ps4",
+    "id": "1499123170",
+    "titulo": "iPhone Pro Max 16 Black",
+    "preco": 5490,
+    "precoRaw": "R$ 5.490",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "12:16",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "detectado": "12:20",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ps4-pro-1tera-1499122302",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-pro-max-16-black-1499123170",
+    "fotoUrl": "https://img.olx.com.br/images/33/339609043159402.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/339609043159402.jpg",
+      "https://img.olx.com.br/images/34/346629521581901.jpg",
+      "https://img.olx.com.br/images/36/364676645577434.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777908007
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:16",
     "fotoUrl": "https://img.olx.com.br/images/72/727652522556981.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/727652522556981.jpg"
     ],
-    "defeito": false,
+    "id": "1499122302",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ps4-pro-1tera-1499122302",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "Vendo ps4 pro 1tera",
     "ts": 1777907804
   },
   {
@@ -9941,25 +9961,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Agents of Mayhen PS4",
     "ts": 1777850140
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:11",
-    "fotoUrl": "https://img.olx.com.br/images/95/953669639772299.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/953669639772299.jpg",
-      "https://img.olx.com.br/images/99/990637396934543.jpg",
-      "https://img.olx.com.br/images/11/114640153006947.jpg"
-    ],
-    "id": "1497071879",
-    "link": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/games/consoles-de-video-game/xbox-series-s-1497071879",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "Xbox series s",
-    "ts": 1777849893
   }
 ]
