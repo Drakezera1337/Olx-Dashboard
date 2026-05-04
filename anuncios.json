@@ -1,22 +1,42 @@
 [
   {
-    "id": "1490597510",
-    "titulo": "The Witcher 3 - PS4",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1490596541",
+    "titulo": "Knack - PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:11",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-3-ps4-1490597510",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/knack-ps4-1490596541",
+    "fotoUrl": "https://img.olx.com.br/images/83/833663512112970.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/833663512112970.jpg",
+      "https://img.olx.com.br/images/84/841643759982136.jpg",
+      "https://img.olx.com.br/images/85/857692279273157.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777900279
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:11",
     "fotoUrl": "https://img.olx.com.br/images/19/195619032567976.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/195619032567976.jpg",
       "https://img.olx.com.br/images/20/206689515900145.jpg",
       "https://img.olx.com.br/images/22/225603631511743.jpg"
     ],
-    "defeito": false,
+    "id": "1490597510",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-3-ps4-1490597510",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "The Witcher 3 - PS4",
     "ts": 1777900268
   },
   {
@@ -9913,25 +9933,5 @@
     "tempoOlx": "Na OLX desde outubro de 2022",
     "titulo": "Hitman 2 - PS4 NOVO LACRADO ( com detalhes no lacre ) ",
     "ts": 1777837683
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:47",
-    "fotoUrl": "https://img.olx.com.br/images/59/590589762689021.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/590589762689021.jpg",
-      "https://img.olx.com.br/images/59/595591524266165.jpg",
-      "https://img.olx.com.br/images/59/592508169350683.jpg"
-    ],
-    "id": "1402756717",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogo-shadows-awakening-playstation-4-1402756717",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2022",
-    "titulo": "Jogo Shadows Awakening Playstation 4",
-    "ts": 1777837675
   }
 ]
