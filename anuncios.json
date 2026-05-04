@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499018398",
-    "titulo": "Ps5 ",
-    "preco": 2499,
-    "precoRaw": "R$ 2.499",
-    "categoria": "ps5",
+    "id": "1499005775",
+    "titulo": "PSVR2",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "23:54",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-1499018398",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psvr2-1499005775",
+    "fotoUrl": "https://img.olx.com.br/images/37/375612529148946.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/375612529148946.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863250
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:54",
     "fotoUrl": "https://img.olx.com.br/images/33/339613640788194.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/339613640788194.jpg"
     ],
-    "defeito": false,
+    "id": "1499018398",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-1499018398",
+    "preco": 2499,
+    "precoRaw": "R$ 2.499",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "Ps5 ",
     "ts": 1777863242
   },
   {
@@ -9876,28 +9894,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": "Jogos de PS4",
     "ts": 1777824818
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:09",
-    "fotoUrl": "https://img.olx.com.br/images/42/429574572275132.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/429574572275132.jpg",
-      "https://img.olx.com.br/images/39/392551540410596.jpg",
-      "https://img.olx.com.br/images/39/390510425413895.jpg",
-      "https://img.olx.com.br/images/39/397515189990921.jpg",
-      "https://img.olx.com.br/images/42/420582332072858.jpg",
-      "https://img.olx.com.br/images/39/398513904607295.jpg"
-    ],
-    "id": "1421133638",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/fifa-19-para-playstation-4-1421133638",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "FIFA 19 para Playstation 4",
-    "ts": 1777824599
   }
 ]
