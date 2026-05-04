@@ -1,20 +1,41 @@
 [
   {
-    "id": "1499243231",
-    "titulo": "Jogos de PlayStation ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1499242951",
+    "titulo": "Final Fantasy 7 Remake(Ver Japonesa)",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "outros",
     "publicado": "",
     "detectado": "19:14",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogos-de-playstation-1499243231",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/final-fantasy-7-remake-ver-japonesa-1499242951",
+    "fotoUrl": "https://img.olx.com.br/images/10/100642164168502.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/100642164168502.jpg",
+      "https://img.olx.com.br/images/12/127628641722204.jpg",
+      "https://img.olx.com.br/images/14/141696529394956.jpg",
+      "https://img.olx.com.br/images/16/162610520846503.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777932898
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:14",
     "fotoUrl": "https://img.olx.com.br/images/79/796647283671605.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/796647283671605.jpg"
     ],
-    "defeito": false,
+    "id": "1499243231",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogos-de-playstation-1499243231",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Jogos de PlayStation ",
     "ts": 1777932887
   },
   {
@@ -9861,25 +9882,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "rise of tomb raider playstation 4",
     "ts": 1777899369
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:52",
-    "fotoUrl": "https://img.olx.com.br/images/41/414633385946899.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/414633385946899.jpg",
-      "https://img.olx.com.br/images/42/427662143131594.jpg",
-      "https://img.olx.com.br/images/44/445684509906863.jpg"
-    ],
-    "id": "1481654140",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/titanfall-2-ps4-1481654140",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2014",
-    "titulo": "Titanfall 2 - PS4",
-    "ts": 1777899166
   }
 ]
