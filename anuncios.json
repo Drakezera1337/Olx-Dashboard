@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499163935",
-    "titulo": "PS4 Slim 500Gb (Leia)",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1499148466",
+    "titulo": "PlayStation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:05",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "detectado": "15:06",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-leia-1499163935",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1499148466",
+    "fotoUrl": "https://img.olx.com.br/images/32/327693288774608.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/327693288774608.jpg",
+      "https://img.olx.com.br/images/33/331619521351181.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777917962
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:05",
     "fotoUrl": "https://img.olx.com.br/images/97/972660527394026.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/972660527394026.jpg",
       "https://img.olx.com.br/images/99/996604522042774.jpg"
     ],
-    "defeito": false,
+    "id": "1499163935",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-leia-1499163935",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "titulo": "PS4 Slim 500Gb (Leia)",
     "ts": 1777917953
   },
   {
@@ -9951,23 +9970,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Marvel vs capcom ps4",
     "ts": 1777854488
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:22",
-    "fotoUrl": "https://img.olx.com.br/images/16/168674760487182.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/168674760487182.jpg"
-    ],
-    "id": "1498991962",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/resident-evil-2-1498991962",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
-    "titulo": "RESIDENT EVIL 2 ",
-    "ts": 1777854127
   }
 ]
