@@ -1,7 +1,7 @@
 [
   {
-    "id": "1490918967",
-    "titulo": "The Elder Scrolls Online",
+    "id": "1490920023",
+    "titulo": "The Elder Scrolls Online Summerset",
     "preco": 50,
     "precoRaw": "R$ 50",
     "categoria": "outros",
@@ -9,12 +9,30 @@
     "detectado": "19:22",
     "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-elder-scrolls-online-1490918967",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-elder-scrolls-online-summerset-1490920023",
+    "fotoUrl": "https://img.olx.com.br/images/92/923624392815622.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/923624392815622.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933344
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:22",
     "fotoUrl": "https://img.olx.com.br/images/39/395628393455130.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/395628393455130.jpg"
     ],
-    "defeito": false,
+    "id": "1490918967",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-elder-scrolls-online-1490918967",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "The Elder Scrolls Online",
     "ts": 1777933335
   },
   {
@@ -9834,25 +9852,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Star Wars Battlefront 2 - PS4",
     "ts": 1777900161
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:09",
-    "fotoUrl": "https://img.olx.com.br/images/58/586687872565488.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/586687872565488.jpg",
-      "https://img.olx.com.br/images/60/602696636896302.jpg",
-      "https://img.olx.com.br/images/62/620618270599764.jpg"
-    ],
-    "id": "1490603467",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/need-for-speed-heat-ps4-1490603467",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Need for Speed Heat - PS4",
-    "ts": 1777900151
   }
 ]
