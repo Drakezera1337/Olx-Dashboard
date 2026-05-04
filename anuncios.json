@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499233888",
-    "titulo": "Jogos ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1499233745",
+    "titulo": "Resident Evil Village Gold Edition",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "18:33",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499233888",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/resident-evil-village-gold-edition-1499233745",
+    "fotoUrl": "https://img.olx.com.br/images/84/845669520863156.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/845669520863156.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777930430
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/74/745640400435423.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/745640400435423.jpg",
       "https://img.olx.com.br/images/75/756609289456022.jpg"
     ],
-    "defeito": false,
+    "id": "1499233888",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499233888",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Jogos ps4",
     "ts": 1777930416
   },
   {
@@ -9874,25 +9892,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "Jogos ps4",
     "ts": 1777898736
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:45",
-    "fotoUrl": "https://img.olx.com.br/images/62/626521320388354.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/626521320388354.jpg",
-      "https://img.olx.com.br/images/62/628588446012107.jpg",
-      "https://img.olx.com.br/images/62/628596926298475.jpg"
-    ],
-    "id": "1436501958",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/sid-meier-s-civilization-vi-ps4-1436501958",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2021",
-    "titulo": "Sid Meier's Civilization VI - PS4",
-    "ts": 1777898723
   }
 ]
