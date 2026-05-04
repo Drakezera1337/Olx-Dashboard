@@ -1,20 +1,38 @@
 [
   {
-    "id": "1464600698",
+    "id": "1464601288",
     "titulo": "Jogos de ps4",
-    "preco": 130,
-    "precoRaw": "R$ 130",
+    "preco": 55,
+    "precoRaw": "R$ 55",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "23:59",
     "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464600698",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464601288",
+    "fotoUrl": "https://img.olx.com.br/images/74/741546834674226.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/741546834674226.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863572
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:59",
     "fotoUrl": "https://img.olx.com.br/images/65/656570479573539.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/656570479573539.jpg"
     ],
-    "defeito": false,
+    "id": "1464600698",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464600698",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Jogos de ps4",
     "ts": 1777863564
   },
   {
@@ -9860,24 +9878,5 @@
     "tempoOlx": "Na OLX desde maio de 2023",
     "titulo": "Controle original+2 jogos físicos ",
     "ts": 1777825915
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:31",
-    "fotoUrl": "https://img.olx.com.br/images/47/477682645679803.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/477682645679803.jpg",
-      "https://img.olx.com.br/images/49/490657041554616.jpg"
-    ],
-    "id": "1498908860",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/combo-pes-nostalgia-ps4-2017-2018-novos-e-lacrados-playstation-4-e-5-1498908860",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "Combo PES Nostalgia PS4: 2017 + 2018 (Novos e Lacrados) PlayStation 4 e 5",
-    "ts": 1777825905
   }
 ]
