@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499190753",
+    "id": "1499190464",
     "titulo": "JOGOS - PS4/PS5",
-    "preco": 64,
-    "precoRaw": "R$ 64",
+    "preco": 63,
+    "precoRaw": "R$ 63",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "15:53",
     "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-ps5-1499190753",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-ps5-1499190464",
+    "fotoUrl": "https://img.olx.com.br/images/79/798619767191834.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/798619767191834.jpg",
+      "https://img.olx.com.br/images/80/806633281483185.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777920796
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:53",
     "fotoUrl": "https://img.olx.com.br/images/62/624664649602380.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/624664649602380.jpg",
       "https://img.olx.com.br/images/63/632698525738309.jpg"
     ],
-    "defeito": false,
+    "id": "1499190753",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-ps5-1499190753",
+    "preco": 64,
+    "precoRaw": "R$ 64",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1777920787
   },
   {
@@ -9951,29 +9970,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "QUEST 2 128G Realidade Virtual ",
-    "ts": 1777867935
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:12",
-    "fotoUrl": "https://img.olx.com.br/images/85/853663283938180.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/853663283938180.jpg",
-      "https://img.olx.com.br/images/87/878649648728243.jpg",
-      "https://img.olx.com.br/images/89/898629286414191.jpg",
-      "https://img.olx.com.br/images/91/910691763348158.jpg",
-      "https://img.olx.com.br/images/93/934611523796564.jpg",
-      "https://img.olx.com.br/images/95/959645287883425.jpg"
-    ],
-    "id": "1498895518",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-512gb-1498895518",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox serie S 512GB",
     "ts": 1777867935
   }
 ]
