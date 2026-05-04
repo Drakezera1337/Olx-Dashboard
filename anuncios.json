@@ -1,21 +1,43 @@
 [
   {
-    "id": "1499241816",
-    "titulo": "PlayStation 4 ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1499241115",
+    "titulo": "PlayStation 4 - 420GB",
+    "preco": 680,
+    "precoRaw": "R$ 680",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:06",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-1499241816",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-420gb-1499241115",
+    "fotoUrl": "https://img.olx.com.br/images/19/199695523807423.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/199695523807423.jpg",
+      "https://img.olx.com.br/images/19/193629644424264.jpg",
+      "https://img.olx.com.br/images/86/861662765288242.jpg",
+      "https://img.olx.com.br/images/96/965635643410267.jpg",
+      "https://img.olx.com.br/images/33/331680167158050.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777932405
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:06",
     "fotoUrl": "https://img.olx.com.br/images/52/521616520233393.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/521616520233393.jpg",
       "https://img.olx.com.br/images/54/540629760210132.jpg"
     ],
-    "defeito": false,
+    "id": "1499241816",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-1499241816",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 4 ",
     "ts": 1777932396
   },
   {
@@ -9853,25 +9875,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "Jogo de PS4 Hitman Steelbook Edition First Season",
     "ts": 1777899089
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:51",
-    "fotoUrl": "https://img.olx.com.br/images/31/312651525761858.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/312651525761858.jpg",
-      "https://img.olx.com.br/images/34/340672404051705.jpg",
-      "https://img.olx.com.br/images/39/390655762696167.jpg"
-    ],
-    "id": "1499082405",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/pes-2020-ps4-1499082405",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "PES 2020 Ps4",
-    "ts": 1777899076
   }
 ]
