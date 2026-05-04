@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499188234",
-    "titulo": "JOGOS - PS4/PS5",
-    "preco": 56,
-    "precoRaw": "R$ 56",
+    "id": "1499188443",
+    "titulo": "Ps5 Slim 1TB",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:47",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "15:48",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499188234",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps5-slim-1tb-1499188443",
+    "fotoUrl": "https://img.olx.com.br/images/19/192630407880474.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/192630407880474.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777920487
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:47",
     "fotoUrl": "https://img.olx.com.br/images/35/352663643455939.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/352663643455939.jpg",
       "https://img.olx.com.br/images/37/376667402834130.jpg"
     ],
-    "defeito": false,
+    "id": "1499188234",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499188234",
+    "preco": 56,
+    "precoRaw": "R$ 56",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1777920456
   },
   {
@@ -9952,23 +9970,5 @@
     "tempoOlx": "",
     "titulo": "Playstation VRh",
     "ts": 1777867921
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/74/748694887732088.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/748694887732088.jpg"
-    ],
-    "id": "1498898859",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-leia-c-atencao-1498898859",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps4 slim 500gb (leia c/atenção)",
-    "ts": 1777867915
   }
 ]
