@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490916127",
-    "titulo": "FarCry 4",
+    "id": "1490918256",
+    "titulo": "Street Fighter V",
     "preco": 70,
     "precoRaw": "R$ 70",
-    "categoria": "outros",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:21",
+    "detectado": "19:22",
     "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/farcry-4-1490916127",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/street-fighter-v-1490918256",
+    "fotoUrl": "https://img.olx.com.br/images/29/296695159784139.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/296695159784139.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933327
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:21",
     "fotoUrl": "https://img.olx.com.br/images/68/685614757750999.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/685614757750999.jpg"
     ],
-    "defeito": false,
+    "id": "1490916127",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/farcry-4-1490916127",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "FarCry 4",
     "ts": 1777933315
   },
   {
@@ -9837,26 +9855,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "forspoken playstation 5",
     "ts": 1777900110
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:08",
-    "fotoUrl": "https://img.olx.com.br/images/41/414514808009449.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/414514808009449.jpg",
-      "https://img.olx.com.br/images/41/414508321655674.jpg",
-      "https://img.olx.com.br/images/41/415506206542660.jpg",
-      "https://img.olx.com.br/images/41/418517566728010.jpg"
-    ],
-    "id": "1440323449",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/final-fantasy-xvi-playstation-5-novo-lacrado-1440323449",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2019",
-    "titulo": "Final Fantasy XVI PlayStation 5 Novo Lacrado",
-    "ts": 1777900102
   }
 ]
