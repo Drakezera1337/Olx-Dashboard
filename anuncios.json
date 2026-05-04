@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499122202",
-    "titulo": "Xbox one série s",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "xbox",
+    "id": "1499122302",
+    "titulo": "Vendo ps4 pro 1tera",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:16",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "tempoOlx": "Na OLX desde junho de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-one-serie-s-1499122202",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ps4-pro-1tera-1499122302",
+    "fotoUrl": "https://img.olx.com.br/images/72/727652522556981.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/727652522556981.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777907804
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:16",
     "fotoUrl": "https://img.olx.com.br/images/82/828645529236109.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/828645529236109.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/84/846605162977095.jpg",
       "https://img.olx.com.br/images/86/860674165026586.jpg"
     ],
-    "defeito": false,
+    "id": "1499122202",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-one-serie-s-1499122202",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "titulo": "Xbox one série s",
     "ts": 1777907796
   },
   {
@@ -9943,23 +9961,5 @@
     "tempoOlx": "Na OLX desde maio de 2018",
     "titulo": "Xbox series s",
     "ts": 1777849893
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:11",
-    "fotoUrl": "https://img.olx.com.br/images/89/897633649121922.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/897633649121922.jpg"
-    ],
-    "id": "1498980486",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1498980486",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2019",
-    "titulo": "Ps4",
-    "ts": 1777849881
   }
 ]
