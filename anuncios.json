@@ -1,21 +1,40 @@
 [
   {
-    "id": "1468975584",
-    "titulo": "Jogo Captain Tsubasa PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1468976922",
+    "titulo": "Jogo Metal Gear Solid V PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "16:23",
     "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-captain-tsubasa-ps4-1468975584",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-metal-gear-solid-v-ps4-1468976922",
+    "fotoUrl": "https://img.olx.com.br/images/67/677687486600148.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/677687486600148.jpg",
+      "https://img.olx.com.br/images/67/671612840993441.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777922592
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:23",
     "fotoUrl": "https://img.olx.com.br/images/62/629656849008496.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/629656849008496.jpg",
       "https://img.olx.com.br/images/61/611681001802543.jpg"
     ],
-    "defeito": false,
+    "id": "1468975584",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-captain-tsubasa-ps4-1468975584",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Jogo Captain Tsubasa PS4",
     "ts": 1777922583
   },
   {
@@ -9922,25 +9941,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Game ",
-    "ts": 1777868033
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:13",
-    "fotoUrl": "https://img.olx.com.br/images/64/644666757123216.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/644666757123216.jpg",
-      "https://img.olx.com.br/images/64/645686756483349.jpg"
-    ],
-    "id": "1496200018",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/miyoo-mini-plus-1496200018",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Miyoo Mini Plus",
     "ts": 1777868033
   }
 ]
