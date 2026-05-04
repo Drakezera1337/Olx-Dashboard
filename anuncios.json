@@ -1,20 +1,40 @@
 [
   {
-    "id": "1474802654",
-    "titulo": "JOGOS PS5/PS4 aparti de 29,90",
-    "preco": 249,
-    "precoRaw": "R$ 249",
-    "categoria": "ps5",
+    "id": "1487588862",
+    "titulo": "Doom PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "15:18",
     "tempoOlx": "Na OLX desde abril de 2021",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps5-ps4-aparti-de-29-90-1474802654",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/doom-ps4-1487588862",
+    "fotoUrl": "https://img.olx.com.br/images/97/978678381569301.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/978678381569301.jpg",
+      "https://img.olx.com.br/images/99/999680501753832.jpg",
+      "https://img.olx.com.br/images/10/106687020415382.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918707
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:18",
     "fotoUrl": "https://img.olx.com.br/images/17/178624883015995.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/178624883015995.jpg"
     ],
-    "defeito": false,
+    "id": "1474802654",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps5-ps4-aparti-de-29-90-1474802654",
+    "preco": 249,
+    "precoRaw": "R$ 249",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "JOGOS PS5/PS4 aparti de 29,90",
     "ts": 1777918697
   },
   {
@@ -9995,25 +10015,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Grand Theft Auto V",
     "ts": 1777864286
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:11",
-    "fotoUrl": "https://img.olx.com.br/images/87/877567330790922.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/877567330790922.jpg",
-      "https://img.olx.com.br/images/31/314597700138139.jpg",
-      "https://img.olx.com.br/images/32/329543102588996.jpg"
-    ],
-    "id": "1448955028",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-the-lost-legacy-1448955028",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "Uncharted - The Lost Legacy",
-    "ts": 1777864275
   }
 ]
