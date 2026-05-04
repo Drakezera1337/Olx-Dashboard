@@ -1,22 +1,42 @@
 [
   {
-    "id": "1499163802",
-    "titulo": "Vendo vídeo game ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1499163843",
+    "titulo": "Battlefield 1",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "15:13",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-video-game-1499163802",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/battlefield-1-1499163843",
+    "fotoUrl": "https://img.olx.com.br/images/61/617650880881886.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/617650880881886.jpg",
+      "https://img.olx.com.br/images/63/635638882784026.jpg",
+      "https://img.olx.com.br/images/66/665627166266138.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918419
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:13",
     "fotoUrl": "https://img.olx.com.br/images/40/405660521958617.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/405660521958617.jpg",
       "https://img.olx.com.br/images/41/416616400547560.jpg",
       "https://img.olx.com.br/images/42/423686887251269.jpg"
     ],
-    "defeito": false,
+    "id": "1499163802",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-video-game-1499163802",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "Vendo vídeo game ",
     "ts": 1777918410
   },
   {
@@ -9963,28 +9983,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Jogos de ps4",
     "ts": 1777863564
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:59",
-    "fotoUrl": "https://img.olx.com.br/images/41/412605526008176.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/412605526008176.jpg",
-      "https://img.olx.com.br/images/43/436620406263700.jpg",
-      "https://img.olx.com.br/images/44/446606889570137.jpg",
-      "https://img.olx.com.br/images/47/479601164048995.jpg",
-      "https://img.olx.com.br/images/48/486662769536490.jpg",
-      "https://img.olx.com.br/images/50/503688528088256.jpg"
-    ],
-    "id": "1499017661",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/video-game-1499017661",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "Vídeo game ",
-    "ts": 1777863557
   }
 ]
