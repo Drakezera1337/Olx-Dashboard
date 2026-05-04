@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499182562",
-    "titulo": "Play station 4 ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1499183120",
+    "titulo": "Red Dead Redemption 2",
+    "preco": 125,
+    "precoRaw": "R$ 125",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "15:22",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "detectado": "15:23",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-station-4-1499182562",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-1499183120",
+    "fotoUrl": "https://img.olx.com.br/images/39/398696285399766.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/398696285399766.jpg",
+      "https://img.olx.com.br/images/41/413603166875890.jpg",
+      "https://img.olx.com.br/images/43/430694884466651.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918983
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:22",
     "fotoUrl": "https://img.olx.com.br/images/76/769608522844381.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/769608522844381.jpg",
       "https://img.olx.com.br/images/78/786653761404359.jpg"
     ],
-    "defeito": false,
+    "id": "1499182562",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-station-4-1499182562",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "Play station 4 ",
     "ts": 1777918974
   },
   {
@@ -9984,27 +10004,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Call Of Duty Ghost PS4",
     "ts": 1777864372
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:12",
-    "fotoUrl": "https://img.olx.com.br/images/46/465506798714930.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/465506798714930.jpg",
-      "https://img.olx.com.br/images/48/482521434811692.jpg",
-      "https://img.olx.com.br/images/51/515589199069400.jpg",
-      "https://img.olx.com.br/images/53/537510914579326.jpg",
-      "https://img.olx.com.br/images/55/559583554657306.jpg"
-    ],
-    "id": "1425449879",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-last-of-us-remastered-jogo-ps4-midia-fisica-1425449879",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "The Last of Us Remastered - Jogo PS4 Mídia Física",
-    "ts": 1777864363
   }
 ]
