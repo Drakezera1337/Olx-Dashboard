@@ -1,7 +1,7 @@
 [
   {
-    "id": "1468976922",
-    "titulo": "Jogo Metal Gear Solid V PS4",
+    "id": "1468977818",
+    "titulo": "Jogo Horizon Zero Down PS4",
     "preco": 70,
     "precoRaw": "R$ 70",
     "categoria": "ps4",
@@ -9,13 +9,32 @@
     "detectado": "16:23",
     "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-metal-gear-solid-v-ps4-1468976922",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-horizon-zero-down-ps4-1468977818",
+    "fotoUrl": "https://img.olx.com.br/images/13/130626360129487.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/130626360129487.jpg",
+      "https://img.olx.com.br/images/13/131636600954254.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777922603
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:23",
     "fotoUrl": "https://img.olx.com.br/images/67/677687486600148.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/677687486600148.jpg",
       "https://img.olx.com.br/images/67/671612840993441.jpg"
     ],
-    "defeito": false,
+    "id": "1468976922",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-metal-gear-solid-v-ps4-1468976922",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Jogo Metal Gear Solid V PS4",
     "ts": 1777922592
   },
   {
@@ -9922,25 +9941,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PSP 2001 Game",
-    "ts": 1777868033
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:13",
-    "fotoUrl": "https://img.olx.com.br/images/30/301603873583915.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/301603873583915.jpg",
-      "https://img.olx.com.br/images/33/335604758696596.jpg"
-    ],
-    "id": "1496672484",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/game-1496672484",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Game ",
     "ts": 1777868033
   }
 ]
