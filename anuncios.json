@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499172612",
-    "titulo": "Jogos de PS4/PS5",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps5",
+    "id": "1499171807",
+    "titulo": "Overwatch",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "15:09",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-ps5-1499172612",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/overwatch-1499171807",
+    "fotoUrl": "https://img.olx.com.br/images/61/614688163353802.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/614688163353802.jpg",
+      "https://img.olx.com.br/images/64/642642281555327.jpg",
+      "https://img.olx.com.br/images/66/661638402562513.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918193
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:09",
     "fotoUrl": "https://img.olx.com.br/images/77/771684888892862.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/771684888892862.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/82/828630883562137.jpg",
       "https://img.olx.com.br/images/83/830664400026916.jpg"
     ],
-    "defeito": false,
+    "id": "1499172612",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-ps5-1499172612",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Jogos de PS4/PS5",
     "ts": 1777918183
   },
   {
@@ -9959,24 +9979,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Nintendo Switch Lite",
     "ts": 1777863382
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:56",
-    "fotoUrl": "https://img.olx.com.br/images/54/548647526436022.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/548647526436022.jpg",
-      "https://img.olx.com.br/images/55/557674168025401.jpg"
-    ],
-    "id": "1499021334",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/toki-nintendo-switch-retrollector-edition-1499021334",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2017",
-    "titulo": "Toki Nintendo Switch Retrollector Edition",
-    "ts": 1777863374
   }
 ]
