@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499063964",
-    "titulo": "Playstation 5 usado",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1499009131",
+    "titulo": "XBOX SÉRIES S ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "19:36",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-5-usado-1499063964",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-1499009131",
+    "fotoUrl": "https://img.olx.com.br/images/88/885602169667793.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/885602169667793.jpg",
+      "https://img.olx.com.br/images/89/893694283483560.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777934183
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:36",
     "fotoUrl": "https://img.olx.com.br/images/57/570643401556141.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/570643401556141.jpg",
       "https://img.olx.com.br/images/59/597628161569413.jpg"
     ],
-    "defeito": false,
+    "id": "1499063964",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-5-usado-1499063964",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "Playstation 5 usado",
     "ts": 1777934174
   },
   {
@@ -9814,25 +9833,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Jump Force - PS4",
     "ts": 1777900343
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:12",
-    "fotoUrl": "https://img.olx.com.br/images/27/273656861236255.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/273656861236255.jpg",
-      "https://img.olx.com.br/images/29/293639024180171.jpg",
-      "https://img.olx.com.br/images/30/300640022618722.jpg"
-    ],
-    "id": "1481714793",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-division-ps4-1481714793",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "The Division - PS4",
-    "ts": 1777900328
   }
 ]
