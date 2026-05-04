@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499241115",
-    "titulo": "PlayStation 4 - 420GB",
-    "preco": 680,
-    "precoRaw": "R$ 680",
-    "categoria": "ps4",
+    "id": "1499241875",
+    "titulo": "Sonic Racing",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:06",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "detectado": "19:09",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-420gb-1499241115",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/sonic-racing-1499241875",
+    "fotoUrl": "https://img.olx.com.br/images/52/526636765680013.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/526636765680013.jpg",
+      "https://img.olx.com.br/images/53/530608761120898.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777932546
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:06",
     "fotoUrl": "https://img.olx.com.br/images/19/199695523807423.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/199695523807423.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/96/965635643410267.jpg",
       "https://img.olx.com.br/images/33/331680167158050.jpg"
     ],
-    "defeito": false,
+    "id": "1499241115",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-420gb-1499241115",
+    "preco": 680,
+    "precoRaw": "R$ 680",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "PlayStation 4 - 420GB",
     "ts": 1777932405
   },
   {
@@ -9855,25 +9874,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "Ps4 sim ",
     "ts": 1777899098
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:51",
-    "fotoUrl": "https://img.olx.com.br/images/75/757697043885231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/757697043885231.jpg",
-      "https://img.olx.com.br/images/75/750672765154248.jpg",
-      "https://img.olx.com.br/images/76/761617769867444.jpg"
-    ],
-    "id": "1499082229",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-de-ps4-hitman-steelbook-edition-first-season-1499082229",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "Jogo de PS4 Hitman Steelbook Edition First Season",
-    "ts": 1777899089
   }
 ]
