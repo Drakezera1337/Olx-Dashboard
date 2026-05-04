@@ -1,20 +1,41 @@
 [
   {
-    "id": "1499115534",
-    "titulo": "Jogos PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1499117795",
+    "titulo": "God of War 3",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "11:51",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "detectado": "11:56",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-1499115534",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-3-1499117795",
+    "fotoUrl": "https://img.olx.com.br/images/47/470668649236899.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/470668649236899.jpg",
+      "https://img.olx.com.br/images/48/480696165178813.jpg",
+      "https://img.olx.com.br/images/49/490638522031596.jpg",
+      "https://img.olx.com.br/images/50/501690040960923.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777906568
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:51",
     "fotoUrl": "https://img.olx.com.br/images/69/693622408388725.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/693622408388725.jpg"
     ],
-    "defeito": false,
+    "id": "1499115534",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-1499115534",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "Jogos PS4",
     "ts": 1777906268
   },
   {
@@ -9930,23 +9951,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "PS4 SLIM",
     "ts": 1777846158
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:09",
-    "fotoUrl": "https://img.olx.com.br/images/10/106602281058491.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/106602281058491.jpg"
-    ],
-    "id": "1498971287",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-para-ps4-valores-diferentes-para-cada-jogo-1498971287",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2019",
-    "titulo": "Jogos para PS4 (valores diferentes para cada jogo)",
-    "ts": 1777846149
   }
 ]
