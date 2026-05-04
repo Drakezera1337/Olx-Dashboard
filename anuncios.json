@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499023283",
-    "titulo": "Apple Iphone 14 128GB",
-    "preco": 2670,
-    "precoRaw": "R$ 2.670",
-    "categoria": "iphone",
+    "id": "1499023364",
+    "titulo": "Jogos PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:24",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "detectado": "00:25",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-14-128gb-1499023283",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogos-ps4-1499023364",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1777865137
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:24",
     "fotoUrl": "https://img.olx.com.br/images/70/702690289566900.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/702690289566900.jpg",
       "https://img.olx.com.br/images/42/421657886474882.jpg",
       "https://img.olx.com.br/images/47/474607641269633.jpg"
     ],
-    "defeito": false,
+    "id": "1499023283",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-14-128gb-1499023283",
+    "preco": 2670,
+    "precoRaw": "R$ 2.670",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "Apple Iphone 14 128GB",
     "ts": 1777865080
   },
   {
@@ -9832,26 +9850,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Lote PS4 uncharted collection e uncharted 4",
     "ts": 1777826686
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:44",
-    "fotoUrl": "https://img.olx.com.br/images/46/467653047418466.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/467653047418466.jpg",
-      "https://img.olx.com.br/images/49/499601643682164.jpg",
-      "https://img.olx.com.br/images/80/802627042565091.jpg",
-      "https://img.olx.com.br/images/84/846688285241181.jpg"
-    ],
-    "id": "1498585426",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogos-ps4-1498585426",
-    "preco": 149,
-    "precoRaw": "R$ 149",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2024",
-    "titulo": "Jogos ps4 ",
-    "ts": 1777826675
   }
 ]
