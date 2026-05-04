@@ -1,15 +1,27 @@
 [
   {
-    "id": "1496419172",
-    "titulo": "Vídeo game",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "outros",
+    "id": "1499213929",
+    "titulo": "Immortal Fenyx Rising - PS4",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:21",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "17:22",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/video-game-1496419172",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/immortal-fenyx-rising-ps4-1499213929",
+    "fotoUrl": "https://img.olx.com.br/images/81/816677646765733.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/816677646765733.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777926155
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:21",
     "fotoUrl": "https://img.olx.com.br/images/98/988679511524244.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/988679511524244.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/99/994663756178748.jpg",
       "https://img.olx.com.br/images/98/980688512757265.jpg"
     ],
-    "defeito": false,
+    "id": "1496419172",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/video-game-1496419172",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Vídeo game",
     "ts": 1777926065
   },
   {
@@ -9917,25 +9935,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "Assassin?s Creed IV: Black Flag (PS4)",
     "ts": 1777874259
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:51",
-    "fotoUrl": "https://img.olx.com.br/images/32/322657517222372.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/322657517222372.jpg",
-      "https://img.olx.com.br/images/34/347646633232255.jpg",
-      "https://img.olx.com.br/images/35/352657639541594.jpg"
-    ],
-    "id": "1490775448",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/attack-on-titan-2-final-battle-ps4-ps5-raro-1490775448",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2019",
-    "titulo": "Attack on Titan 2 Final Battle PS4/PS5 - RARO ",
-    "ts": 1777873869
   }
 ]
