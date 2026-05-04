@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499272458",
-    "titulo": "Ps4 fet",
-    "preco": 1230,
-    "precoRaw": "R$ 1.230",
+    "id": "1499272461",
+    "titulo": "Jogos ps4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:55",
-    "tempoOlx": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-fet-1499272458",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-ps4-1499272461",
+    "fotoUrl": "https://img.olx.com.br/images/73/733693401336251.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/733693401336251.jpg",
+      "https://img.olx.com.br/images/74/748657762224653.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777938947
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:55",
     "fotoUrl": "https://img.olx.com.br/images/40/409657886274394.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/409657886274394.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/49/499655649335515.jpg",
       "https://img.olx.com.br/images/51/517686887336093.jpg"
     ],
-    "defeito": false,
+    "id": "1499272458",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-fet-1499272458",
+    "preco": 1230,
+    "precoRaw": "R$ 1.230",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 fet",
     "ts": 1777938940
   },
   {
@@ -9822,23 +9841,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Hogwarts Legacy Ps4 Novo Lacrado ",
     "ts": 1777903815
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:10",
-    "fotoUrl": "https://img.olx.com.br/images/60/607573369805697.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/607573369805697.jpg"
-    ],
-    "id": "1369380809",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/monster-hunter-world-ps4-seminovo-1369380809",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Monster Hunter World PS4 Seminovo ",
-    "ts": 1777903807
   }
 ]
