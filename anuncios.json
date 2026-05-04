@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499186203",
+    "id": "1499185943",
     "titulo": "JOGOS - PS4/PS5",
-    "preco": 53,
-    "precoRaw": "R$ 53",
+    "preco": 52,
+    "precoRaw": "R$ 52",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "15:34",
     "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499186203",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-ps5-1499185943",
+    "fotoUrl": "https://img.olx.com.br/images/61/614609281679107.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/614609281679107.jpg",
+      "https://img.olx.com.br/images/62/628698529257462.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777919656
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:34",
     "fotoUrl": "https://img.olx.com.br/images/43/430679647351753.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/430679647351753.jpg",
       "https://img.olx.com.br/images/45/459682406386055.jpg"
     ],
-    "defeito": false,
+    "id": "1499186203",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499186203",
+    "preco": 53,
+    "precoRaw": "R$ 53",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1777919647
   },
   {
@@ -9968,24 +9987,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps5 slim digital ",
-    "ts": 1777867885
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/14/147689643477209.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/147689643477209.jpg"
-    ],
-    "id": "1498455534",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/vendo-ps5-slim-1498455534",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo ps5 slim ",
     "ts": 1777867885
   }
 ]
