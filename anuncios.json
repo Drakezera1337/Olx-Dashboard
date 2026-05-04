@@ -1,22 +1,41 @@
 [
   {
-    "id": "1499103225",
-    "titulo": "Nintendo switch Lite 32gb",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1499119018",
+    "titulo": "Xbox Séries S com 2 Joysticks ",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "12:04",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/nintendo-switch-lite-32gb-1499103225",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-com-2-joysticks-1499119018",
+    "fotoUrl": "https://img.olx.com.br/images/37/370602040232578.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/370602040232578.jpg",
+      "https://img.olx.com.br/images/48/483606280759952.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777907068
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:04",
     "fotoUrl": "https://img.olx.com.br/images/86/867643643504761.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/867643643504761.jpg",
       "https://img.olx.com.br/images/88/881665166191865.jpg",
       "https://img.olx.com.br/images/89/890638761835203.jpg"
     ],
-    "defeito": false,
+    "id": "1499103225",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/nintendo-switch-lite-32gb-1499103225",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Nintendo switch Lite 32gb",
     "ts": 1777907057
   },
   {
@@ -9930,23 +9949,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "Troco jogos PS4/PS5 ",
     "ts": 1777848389
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:46",
-    "fotoUrl": "https://img.olx.com.br/images/86/865664769346169.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/865664769346169.jpg"
-    ],
-    "id": "1498977218",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/fifa-18-1498977218",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "Fifa 18",
-    "ts": 1777848380
   }
 ]
