@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499097821",
-    "titulo": "GTA 5",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1473429279",
+    "titulo": "Far Cry 4  - PS4",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:45",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde novembro de 2023",
     "descricao": "",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/jogos-de-video-game/gta-5-1499097821",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/far-cry-4-ps4-1473429279",
+    "fotoUrl": "https://img.olx.com.br/images/69/691662263666443.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/691662263666443.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777902338
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:45",
     "fotoUrl": "https://img.olx.com.br/images/55/554697881180365.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/554697881180365.jpg",
       "https://img.olx.com.br/images/57/576670283272324.jpg",
       "https://img.olx.com.br/images/58/589650649692356.jpg"
     ],
-    "defeito": false,
+    "id": "1499097821",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/jogos-de-video-game/gta-5-1499097821",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "GTA 5",
     "ts": 1777902328
   },
   {
@@ -9917,26 +9935,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Playstation 4 Pro - Software versão 13.50",
     "ts": 1777841526
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:51",
-    "fotoUrl": "https://img.olx.com.br/images/18/187606039618386.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/187606039618386.jpg",
-      "https://img.olx.com.br/images/20/208661271227628.jpg",
-      "https://img.olx.com.br/images/22/228698272123282.jpg",
-      "https://img.olx.com.br/images/24/244648398591833.jpg"
-    ],
-    "id": "1490773694",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-500gb-4-jogos-e-1-controle-1490773694",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Playstation 4, 500gb + 4 jogos e 1 controle.",
-    "ts": 1777841495
   }
 ]
