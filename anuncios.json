@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499270542",
-    "titulo": "ps4",
+    "id": "1498777343",
+    "titulo": "PlayStation 4 Slim 500GB",
     "preco": 1000,
     "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:52",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/ps4-1499270542",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-1498777343",
+    "fotoUrl": "https://img.olx.com.br/images/15/152688769345811.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/152688769345811.jpg",
+      "https://img.olx.com.br/images/17/175615528744240.jpg",
+      "https://img.olx.com.br/images/18/183694406783267.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777938764
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:52",
     "fotoUrl": "https://img.olx.com.br/images/32/322631401372004.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/322631401372004.jpg"
     ],
-    "defeito": false,
+    "id": "1499270542",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/ps4-1499270542",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "ps4",
     "ts": 1777938756
   },
   {
@@ -9819,23 +9839,5 @@
     "tempoOlx": "Na OLX desde setembro de 2021",
     "titulo": "NBA 2k 14 mídia fisica ",
     "ts": 1777903768
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:09",
-    "fotoUrl": "https://img.olx.com.br/images/69/691689761317007.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/691689761317007.jpg"
-    ],
-    "id": "1499104477",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/resident-evil-revelations-2-1499104477",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2022",
-    "titulo": "Resident Evil Revelations 2",
-    "ts": 1777903754
   }
 ]
