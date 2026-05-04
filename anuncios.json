@@ -1,21 +1,44 @@
 [
   {
-    "id": "1499272821",
-    "titulo": "Ps4 ",
-    "preco": 1499,
-    "precoRaw": "R$ 1.499",
+    "id": "1499272458",
+    "titulo": "Ps4 fet",
+    "preco": 1230,
+    "precoRaw": "R$ 1.230",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:55",
-    "tempoOlx": "Na OLX desde agosto de 2024",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-1499272821",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-fet-1499272458",
+    "fotoUrl": "https://img.olx.com.br/images/40/409657886274394.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/409657886274394.jpg",
+      "https://img.olx.com.br/images/42/421686047037100.jpg",
+      "https://img.olx.com.br/images/44/448611403523691.jpg",
+      "https://img.olx.com.br/images/47/473649168674979.jpg",
+      "https://img.olx.com.br/images/49/499655649335515.jpg",
+      "https://img.olx.com.br/images/51/517686887336093.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777938940
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:55",
     "fotoUrl": "https://img.olx.com.br/images/19/196621885693293.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/196621885693293.jpg",
       "https://img.olx.com.br/images/20/205628160158574.jpg"
     ],
-    "defeito": false,
+    "id": "1499272821",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-1499272821",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "titulo": "Ps4 ",
     "ts": 1777938937
   },
   {
@@ -9817,27 +9840,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Monster Hunter World PS4 Seminovo ",
     "ts": 1777903807
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:09",
-    "fotoUrl": "https://img.olx.com.br/images/32/327517253913805.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/327517253913805.jpg",
-      "https://img.olx.com.br/images/32/328593256242149.jpg",
-      "https://img.olx.com.br/images/32/322541610834151.jpg",
-      "https://img.olx.com.br/images/32/326527850569666.jpg",
-      "https://img.olx.com.br/images/32/329506379683056.jpg"
-    ],
-    "id": "1379181492",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/sackboy-a-big-adventure-novo-lacrado-ps5-1379181492",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Sackboy a big adventure Novo Lacrado Ps5",
-    "ts": 1777903799
   }
 ]
