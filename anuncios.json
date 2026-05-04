@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499114184",
-    "titulo": "Playstation 4",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1446025186",
+    "titulo": "Nintendo Switch original top",
+    "preco": 899,
+    "precoRaw": "R$ 899",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "11:45",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "detectado": "11:46",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/playstation-4-1499114184",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-original-top-1446025186",
+    "fotoUrl": "https://img.olx.com.br/images/53/533561211058930.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/533561211058930.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777905966
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:45",
     "fotoUrl": "https://img.olx.com.br/images/57/573689405215966.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/573689405215966.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/56/567642281786638.jpg",
       "https://img.olx.com.br/images/56/563645409960779.jpg"
     ],
-    "defeito": false,
+    "id": "1499114184",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/playstation-4-1499114184",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "Playstation 4",
     "ts": 1777905928
   },
   {
@@ -9930,24 +9948,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "Ps4 slim 1tb com 2 controles e um jogo",
     "ts": 1777845556
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:59",
-    "fotoUrl": "https://img.olx.com.br/images/76/767608166879591.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/767608166879591.jpg",
-      "https://img.olx.com.br/images/76/768622045529773.jpg"
-    ],
-    "id": "1498970085",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps5-slim-digital-com-controles-1498970085",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "PS5 slim digital com controles",
-    "ts": 1777845546
   }
 ]
