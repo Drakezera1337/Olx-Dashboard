@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499204997",
-    "titulo": "Xbox Série S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1499224756",
+    "titulo": "X Box 360",
+    "preco": 280,
+    "precoRaw": "R$ 280",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "17:52",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "17:55",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-1499204997",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/x-box-360-1499224756",
+    "fotoUrl": "https://img.olx.com.br/images/37/374639404484027.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/374639404484027.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777928135
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:52",
     "fotoUrl": "https://img.olx.com.br/images/12/120652769680735.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/120652769680735.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/15/150603766254263.jpg",
       "https://img.olx.com.br/images/16/164678162535939.jpg"
     ],
-    "defeito": false,
+    "id": "1499204997",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-1499204997",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox Série S",
     "ts": 1777927957
   },
   {
@@ -9893,25 +9911,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "GTAV PS4 COM MAPA E MANUAL",
     "ts": 1777898389
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:39",
-    "fotoUrl": "https://img.olx.com.br/images/11/110608149727765.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/110608149727765.jpg",
-      "https://img.olx.com.br/images/13/132641509779872.jpg",
-      "https://img.olx.com.br/images/15/157663748806345.jpg"
-    ],
-    "id": "1486302060",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/mad-max-jogo-ps4-1486302060",
-    "preco": 168,
-    "precoRaw": "R$ 168",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2014",
-    "titulo": "MAD MAX JOGO PS4",
-    "ts": 1777898374
   }
 ]
