@@ -1,22 +1,44 @@
 [
   {
-    "id": "1473462534",
-    "titulo": "Jogos PS4",
-    "preco": 240,
-    "precoRaw": "R$ 240",
-    "categoria": "ps4",
+    "id": "1499204997",
+    "titulo": "Xbox Série S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "17:51",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "detectado": "17:52",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogos-ps4-1473462534",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-1499204997",
+    "fotoUrl": "https://img.olx.com.br/images/12/120652769680735.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/120652769680735.jpg",
+      "https://img.olx.com.br/images/13/130639523086156.jpg",
+      "https://img.olx.com.br/images/14/148660768293339.jpg",
+      "https://img.olx.com.br/images/15/150603766254263.jpg",
+      "https://img.olx.com.br/images/16/164678162535939.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777927957
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:51",
     "fotoUrl": "https://img.olx.com.br/images/52/527613847926623.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/527613847926623.jpg",
       "https://img.olx.com.br/images/52/520643489415606.jpg",
       "https://img.olx.com.br/images/52/527678362596191.jpg"
     ],
-    "defeito": false,
+    "id": "1473462534",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogos-ps4-1473462534",
+    "preco": 240,
+    "precoRaw": "R$ 240",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "Jogos PS4",
     "ts": 1777927914
   },
   {
@@ -9891,27 +9913,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "MAD MAX JOGO PS4",
     "ts": 1777898374
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:39",
-    "fotoUrl": "https://img.olx.com.br/images/47/473651284087464.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/473651284087464.jpg",
-      "https://img.olx.com.br/images/48/481635769721846.jpg",
-      "https://img.olx.com.br/images/50/507688281308491.jpg",
-      "https://img.olx.com.br/images/51/513661401239723.jpg",
-      "https://img.olx.com.br/images/52/527691041592078.jpg"
-    ],
-    "id": "1499079578",
-    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/jogos-de-video-game/jogo-ps4-e-football-pes-2021-1499079578",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Jogo PS4 e-Football PES 2021",
-    "ts": 1777898364
   }
 ]
