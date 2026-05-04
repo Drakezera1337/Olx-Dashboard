@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499236975",
-    "titulo": "Nintendo Switch Oled / 4 controles",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "switch",
+    "id": "1499238434",
+    "titulo": "FIFA 14 PS4 e PS5 Português BR Tiago Leifert",
+    "preco": 195,
+    "precoRaw": "R$ 195",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:49",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:51",
+    "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/nintendo-switch-oled-4-controles-1499236975",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-14-ps4-e-ps5-portugues-br-tiago-leifert-1499238434",
+    "fotoUrl": "https://img.olx.com.br/images/78/782633041324171.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/782633041324171.jpg",
+      "https://img.olx.com.br/images/87/879611280259869.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777931466
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:49",
     "fotoUrl": "https://img.olx.com.br/images/58/582697764770744.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/582697764770744.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/62/625605284670739.jpg",
       "https://img.olx.com.br/images/64/642694168016938.jpg"
     ],
-    "defeito": false,
+    "id": "1499236975",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/nintendo-switch-oled-4-controles-1499236975",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Nintendo Switch Oled / 4 controles",
     "ts": 1777931346
   },
   {
@@ -9850,25 +9869,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "Jogo de PS4 Fórmula 1 2017 Steelbook Edition",
     "ts": 1777898937
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:48",
-    "fotoUrl": "https://img.olx.com.br/images/61/613604277386621.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/613604277386621.jpg",
-      "https://img.olx.com.br/images/61/612696638920207.jpg",
-      "https://img.olx.com.br/images/60/600600156770733.jpg"
-    ],
-    "id": "1491016877",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-de-ps4-fallout-76-edicao-exclusiva-do-walmart-steelbook-1491016877",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "Jogo de PS4 Fallout 76 Edição Exclusiva do Walmart Steelbook",
-    "ts": 1777898929
   }
 ]
