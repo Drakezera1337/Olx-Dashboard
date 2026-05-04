@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490776374",
-    "titulo": "Shadow of Colossus ",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1490776264",
+    "titulo": "Sword Art Online Hollow Realization ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "outros",
     "publicado": "",
     "detectado": "00:09",
     "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/shadow-of-colossus-1490776374",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/sword-art-online-hollow-realization-1490776264",
+    "fotoUrl": "https://img.olx.com.br/images/42/427636753060134.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/427636753060134.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777864163
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:09",
     "fotoUrl": "https://img.olx.com.br/images/78/787661392786688.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/787661392786688.jpg"
     ],
-    "defeito": false,
+    "id": "1490776374",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/shadow-of-colossus-1490776374",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Shadow of Colossus ",
     "ts": 1777864155
   },
   {
@@ -9839,24 +9857,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "Monster Hunter world iceborne - PS4 ",
     "ts": 1777826167
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:33",
-    "fotoUrl": "https://img.olx.com.br/images/13/138627403671252.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/138627403671252.jpg",
-      "https://img.olx.com.br/images/13/135668646865492.jpg"
-    ],
-    "id": "1498908071",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogo-arslan-ps4-novo-lacrado-1498908071",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogo arslan ps4 novo lacrado ",
-    "ts": 1777826039
   }
 ]
