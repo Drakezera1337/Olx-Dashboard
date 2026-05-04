@@ -1,15 +1,29 @@
 [
   {
-    "id": "1495676611",
-    "titulo": "PlayStation 4 Modelo: Slim. (PS4)",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "ps4",
+    "id": "1499263924",
+    "titulo": "Xbox s series ",
+    "preco": 1950,
+    "precoRaw": "R$ 1.950",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "20:23",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde julho de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-modelo-slim-ps4-1495676611",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-s-series-1499263924",
+    "fotoUrl": "https://img.olx.com.br/images/75/755647289989746.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/755647289989746.jpg",
+      "https://img.olx.com.br/images/75/758615403506110.jpg",
+      "https://img.olx.com.br/images/75/759662648518400.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777937031
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:23",
     "fotoUrl": "https://img.olx.com.br/images/50/502681153039682.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/502681153039682.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/45/451695395286119.jpg",
       "https://img.olx.com.br/images/46/469618035658454.jpg"
     ],
-    "defeito": false,
+    "id": "1495676611",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-modelo-slim-ps4-1495676611",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PlayStation 4 Modelo: Slim. (PS4)",
     "ts": 1777937024
   },
   {
@@ -9827,24 +9847,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "PS4 SLIM + JOGOS",
     "ts": 1777901627
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/30/306680640519104.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/306680640519104.jpg",
-      "https://img.olx.com.br/images/37/371697043812258.jpg"
-    ],
-    "id": "1499094522",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-completo-1499094522",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "PS4 completo ",
-    "ts": 1777901619
   }
 ]
