@@ -1,22 +1,43 @@
 [
   {
-    "id": "1464443518",
-    "titulo": "Call of duty black ops",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "jogos",
+    "id": "1499234805",
+    "titulo": "TROCO OU VENDO JOGOS DE PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:41",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-1464443518",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/troco-ou-vendo-jogos-de-ps4-1499234805",
+    "fotoUrl": "https://img.olx.com.br/images/49/493648642520126.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/493648642520126.jpg",
+      "https://img.olx.com.br/images/50/500611646184937.jpg",
+      "https://img.olx.com.br/images/51/514645643801295.jpg",
+      "https://img.olx.com.br/images/52/526609649723110.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777930874
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:41",
     "fotoUrl": "https://img.olx.com.br/images/53/538565956893310.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/538565956893310.jpg",
       "https://img.olx.com.br/images/49/493503836368166.jpg",
       "https://img.olx.com.br/images/49/491572835618997.jpg"
     ],
-    "defeito": false,
+    "id": "1464443518",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-1464443518",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Call of duty black ops",
     "ts": 1777930866
   },
   {
@@ -9860,25 +9881,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Mortal Kombat 11 Playstation 4",
     "ts": 1777898849
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:47",
-    "fotoUrl": "https://img.olx.com.br/images/96/966548582090343.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/966548582090343.jpg",
-      "https://img.olx.com.br/images/96/968574101857344.jpg",
-      "https://img.olx.com.br/images/96/963565463420523.jpg"
-    ],
-    "id": "1457827762",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/batman-return-to-arkham-playstation-4-1457827762",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Batman Return to Arkham Playstation 4",
-    "ts": 1777898837
   }
 ]
