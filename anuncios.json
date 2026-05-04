@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490922865",
-    "titulo": "NBA 2K15",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "outros",
+    "id": "1490923642",
+    "titulo": "Cyberpunk 2077",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "19:20",
-    "tempoOlx": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/nba-2k15-1490922865",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/cyberpunk-2077-1490923642",
+    "fotoUrl": "https://img.olx.com.br/images/93/932602752822472.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/932602752822472.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933242
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:20",
     "fotoUrl": "https://img.olx.com.br/images/40/408616150721186.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/408616150721186.jpg"
     ],
-    "defeito": false,
+    "id": "1490922865",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/nba-2k15-1490922865",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "NBA 2K15",
     "ts": 1777933235
   },
   {
@@ -9855,25 +9873,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "king of fighters 15 ps5",
     "ts": 1777899727
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:01",
-    "fotoUrl": "https://img.olx.com.br/images/38/384602646088661.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/384602646088661.jpg",
-      "https://img.olx.com.br/images/38/385628767605178.jpg",
-      "https://img.olx.com.br/images/38/382623163939023.jpg"
-    ],
-    "id": "1499085741",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/guost-of-tsushima-playstation-5-1499085741",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "guost of tsushima playstation 5",
-    "ts": 1777899698
   }
 ]
