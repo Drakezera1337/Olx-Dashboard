@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499222123",
-    "titulo": "Thief",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1499222028",
+    "titulo": "Lote de Jogos de PlayStation 4 (216 Jogos)",
+    "preco": 15000,
+    "precoRaw": "R$ 15.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:46",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/thief-1499222123",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/lote-de-jogos-de-playstation-4-216-jogos-1499222028",
+    "fotoUrl": "https://img.olx.com.br/images/73/735692769090557.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/735692769090557.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777927589
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:46",
     "fotoUrl": "https://img.olx.com.br/images/85/857663524353855.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/857663524353855.jpg"
     ],
-    "defeito": false,
+    "id": "1499222123",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/thief-1499222123",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Thief",
     "ts": 1777927583
   },
   {
@@ -9900,27 +9918,5 @@
     "tempoOlx": "Na OLX desde abril de 2025",
     "titulo": "Jogos PlayStation 3",
     "ts": 1777898315
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:38",
-    "fotoUrl": "https://img.olx.com.br/images/18/183516697792324.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/183516697792324.jpg",
-      "https://img.olx.com.br/images/20/201570570578558.jpg",
-      "https://img.olx.com.br/images/21/215532457319109.jpg",
-      "https://img.olx.com.br/images/22/221585697383574.jpg",
-      "https://img.olx.com.br/images/24/245557932121419.jpg"
-    ],
-    "id": "1443954099",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-playstation-3-1443954099",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "Jogos PlayStation 3",
-    "ts": 1777898304
   }
 ]
