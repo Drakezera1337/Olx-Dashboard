@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499154268",
-    "titulo": "PS3 Slim Sucata ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps3",
+    "id": "1499101389",
+    "titulo": "PSP ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "15:07",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "tempoOlx": "Na OLX desde março de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-sucata-1499154268",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/psp-1499101389",
+    "fotoUrl": "https://img.olx.com.br/images/84/848609289916770.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/848609289916770.jpg",
+      "https://img.olx.com.br/images/85/857602641386698.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918036
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:07",
     "fotoUrl": "https://img.olx.com.br/images/38/387648762163552.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/387648762163552.jpg",
       "https://img.olx.com.br/images/40/402605041712027.jpg"
     ],
-    "defeito": false,
+    "id": "1499154268",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-sucata-1499154268",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "PS3 Slim Sucata ",
     "ts": 1777918021
   },
   {
@@ -9951,23 +9970,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "PSVR2",
     "ts": 1777863250
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:54",
-    "fotoUrl": "https://img.olx.com.br/images/33/339613640788194.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/339613640788194.jpg"
-    ],
-    "id": "1499018398",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-1499018398",
-    "preco": 2499,
-    "precoRaw": "R$ 2.499",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "Ps5 ",
-    "ts": 1777863242
   }
 ]
