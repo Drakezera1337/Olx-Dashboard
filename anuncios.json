@@ -1,15 +1,27 @@
 [
   {
-    "id": "1497437867",
-    "titulo": "iPhone 16 ",
-    "preco": 3800,
-    "precoRaw": "R$ 3.800",
-    "categoria": "iphone",
+    "id": "1493423323",
+    "titulo": "PS4 Pro 1Tb",
+    "preco": 2050,
+    "precoRaw": "R$ 2.050",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:34",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "detectado": "10:38",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-1497437867",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-pro-1tb-1493423323",
+    "fotoUrl": "https://img.olx.com.br/images/28/285604752002449.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/285604752002449.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777901916
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:34",
     "fotoUrl": "https://img.olx.com.br/images/85/857604390764842.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/857604390764842.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/90/905690754804273.jpg",
       "https://img.olx.com.br/images/92/925687755260766.jpg"
     ],
-    "defeito": false,
+    "id": "1497437867",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-1497437867",
+    "preco": 3800,
+    "precoRaw": "R$ 3.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "iPhone 16 ",
     "ts": 1777901683
   },
   {
@@ -9917,23 +9935,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Batman: Arkham Knight - PS4 usado ",
     "ts": 1777841171
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:46",
-    "fotoUrl": "https://img.olx.com.br/images/76/766615483254664.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/766615483254664.jpg"
-    ],
-    "id": "1395024785",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/puty-squad-1395024785",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "Puty Squad",
-    "ts": 1777841165
   }
 ]
