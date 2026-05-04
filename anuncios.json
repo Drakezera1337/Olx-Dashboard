@@ -1,20 +1,40 @@
 [
   {
-    "id": "1490925472",
-    "titulo": "Doom",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1499244113",
+    "titulo": "PlayStation 4",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:22",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "19:23",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/doom-1490925472",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/playstation-4-1499244113",
+    "fotoUrl": "https://img.olx.com.br/images/58/583659283890021.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/583659283890021.jpg",
+      "https://img.olx.com.br/images/61/614611041554839.jpg",
+      "https://img.olx.com.br/images/88/880679285679048.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933385
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:22",
     "fotoUrl": "https://img.olx.com.br/images/59/591661273762818.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/591661273762818.jpg"
     ],
-    "defeito": false,
+    "id": "1490925472",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/doom-1490925472",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Doom",
     "ts": 1777933376
   },
   {
@@ -9824,25 +9844,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Minecraft - PS4",
     "ts": 1777900218
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:10",
-    "fotoUrl": "https://img.olx.com.br/images/28/288680156457283.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/288680156457283.jpg",
-      "https://img.olx.com.br/images/29/290654030046656.jpg",
-      "https://img.olx.com.br/images/30/307627756174583.jpg"
-    ],
-    "id": "1490605243",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nioh-2-ps4-1490605243",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Nioh 2 - PS4",
-    "ts": 1777900204
   }
 ]
