@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499208045",
-    "titulo": "iPhone 14 PRO",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "iphone",
+    "id": "1499208535",
+    "titulo": "Red Dead Redemption II PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:02",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "17:04",
+    "tempoOlx": "Na OLX desde janeiro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-1499208045",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-ii-ps4-1499208535",
+    "fotoUrl": "https://img.olx.com.br/images/55/554610409637878.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/554610409637878.jpg",
+      "https://img.olx.com.br/images/56/568682048068242.jpg",
+      "https://img.olx.com.br/images/58/585603162205709.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777925077
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:02",
     "fotoUrl": "https://img.olx.com.br/images/57/574669768014389.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/574669768014389.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/61/611640162026486.jpg",
       "https://img.olx.com.br/images/62/628633048522355.jpg"
     ],
-    "defeito": false,
+    "id": "1499208045",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-1499208045",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "iPhone 14 PRO",
     "ts": 1777924958
   },
   {
@@ -9900,24 +9920,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Playstation 5",
-    "ts": 1777868111
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:15",
-    "fotoUrl": "https://img.olx.com.br/images/86/869602169390377.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/869602169390377.jpg"
-    ],
-    "id": "1498542457",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-x-1498542457",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox one X",
     "ts": 1777868111
   }
 ]
