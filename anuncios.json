@@ -1,15 +1,31 @@
 [
   {
-    "id": "1490082302",
-    "titulo": "PS2 SLIM + 2 CONTROLES",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "outros",
+    "id": "1499138044",
+    "titulo": "PlayStation 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:02",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "detectado": "15:03",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps2-slim-2-controles-1490082302",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-5-1499138044",
+    "fotoUrl": "https://img.olx.com.br/images/43/434664761310632.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/434664761310632.jpg",
+      "https://img.olx.com.br/images/43/435601163756177.jpg",
+      "https://img.olx.com.br/images/44/449657523685591.jpg",
+      "https://img.olx.com.br/images/46/461610169645556.jpg",
+      "https://img.olx.com.br/images/47/479617882875721.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777917792
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:02",
     "fotoUrl": "https://img.olx.com.br/images/42/424663861479807.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/424663861479807.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/46/463634505019301.jpg",
       "https://img.olx.com.br/images/50/508623385198124.jpg"
     ],
-    "defeito": false,
+    "id": "1490082302",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps2-slim-2-controles-1490082302",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "PS2 SLIM + 2 CONTROLES",
     "ts": 1777917779
   },
   {
@@ -9943,23 +9965,5 @@
     "tempoOlx": "Na OLX desde agosto de 2023",
     "titulo": "Lote de jogos Playstation PS4 PS5",
     "ts": 1777852731
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:58",
-    "fotoUrl": "https://img.olx.com.br/images/62/625623649372580.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/625623649372580.jpg"
-    ],
-    "id": "1498988909",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/bloodborne-ps4-1498988909",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "Bloodborne PS4",
-    "ts": 1777852720
   }
 ]
