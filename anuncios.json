@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499263763",
-    "titulo": "PS4 SLIM",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1498902637",
+    "titulo": "Controle de vídeo game com defeito ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "20:20",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "detectado": "20:21",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1499263763",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/controle-de-video-game-com-defeito-1498902637",
+    "fotoUrl": "https://img.olx.com.br/images/38/385677164797068.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/385677164797068.jpg",
+      "https://img.olx.com.br/images/40/408623286129059.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777936895
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:20",
     "fotoUrl": "https://img.olx.com.br/images/88/883632762973523.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/883632762973523.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/93/935649761663961.jpg",
       "https://img.olx.com.br/images/95/956666762591657.jpg"
     ],
-    "defeito": false,
+    "id": "1499263763",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1499263763",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "PS4 SLIM",
     "ts": 1777936847
   },
   {
@@ -9828,25 +9847,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Lote de jogos de ps3",
     "ts": 1777901588
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:27",
-    "fotoUrl": "https://img.olx.com.br/images/17/171653766721364.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/171653766721364.jpg",
-      "https://img.olx.com.br/images/25/256693526968728.jpg",
-      "https://img.olx.com.br/images/30/309691284478261.jpg"
-    ],
-    "id": "1499093821",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/uncharted-4-ps4-ps5-original-1499093821",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Uncharted 4 PS4/PS5 (Original)",
-    "ts": 1777901243
   }
 ]
