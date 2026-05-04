@@ -1,22 +1,42 @@
 [
   {
-    "id": "1490598986",
-    "titulo": "Spiderman - PS4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1490597510",
+    "titulo": "The Witcher 3 - PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:10",
+    "detectado": "10:11",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spiderman-ps4-1490598986",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-3-ps4-1490597510",
+    "fotoUrl": "https://img.olx.com.br/images/19/195619032567976.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/195619032567976.jpg",
+      "https://img.olx.com.br/images/20/206689515900145.jpg",
+      "https://img.olx.com.br/images/22/225603631511743.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777900268
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:10",
     "fotoUrl": "https://img.olx.com.br/images/87/875613392136657.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/875613392136657.jpg",
       "https://img.olx.com.br/images/88/884634516547902.jpg",
       "https://img.olx.com.br/images/89/897670037917417.jpg"
     ],
-    "defeito": false,
+    "id": "1490598986",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spiderman-ps4-1490598986",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Spiderman - PS4",
     "ts": 1777900256
   },
   {
@@ -9913,24 +9933,5 @@
     "tempoOlx": "Na OLX desde outubro de 2022",
     "titulo": "Jogo Shadows Awakening Playstation 4",
     "ts": 1777837675
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:47",
-    "fotoUrl": "https://img.olx.com.br/images/36/364542546232367.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/364542546232367.jpg",
-      "https://img.olx.com.br/images/69/690565904134419.jpg"
-    ],
-    "id": "1417919504",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/homefront-the-revolution-ps4-1417919504",
-    "preco": 72,
-    "precoRaw": "R$ 72",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2014",
-    "titulo": "Homefront: The Revolution - PS4 ",
-    "ts": 1777837666
   }
 ]
