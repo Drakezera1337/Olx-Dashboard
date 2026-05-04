@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490923642",
-    "titulo": "Cyberpunk 2077",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1499244549",
+    "titulo": "JOGOS PS4/PS5",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "19:20",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/cyberpunk-2077-1490923642",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-ps4-ps5-1499244549",
+    "fotoUrl": "https://img.olx.com.br/images/60/606640288615317.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/606640288615317.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933250
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:20",
     "fotoUrl": "https://img.olx.com.br/images/93/932602752822472.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/932602752822472.jpg"
     ],
-    "defeito": false,
+    "id": "1490923642",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/cyberpunk-2077-1490923642",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Cyberpunk 2077",
     "ts": 1777933242
   },
   {
@@ -9853,25 +9871,5 @@
     "tempoOlx": "Na OLX desde maio de 2013",
     "titulo": "PS4 For Honor",
     "ts": 1777899760
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:02",
-    "fotoUrl": "https://img.olx.com.br/images/87/878672409637004.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/878672409637004.jpg",
-      "https://img.olx.com.br/images/88/887622642300112.jpg",
-      "https://img.olx.com.br/images/88/880693169035592.jpg"
-    ],
-    "id": "1499086170",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/king-of-fighters-15-ps5-1499086170",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "king of fighters 15 ps5",
-    "ts": 1777899727
   }
 ]
