@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499115657",
-    "titulo": "Playstation 600",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "categoria": "outros",
+    "id": "1451005436",
+    "titulo": "Ps4 - 500gb",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:50",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde junho de 2014",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-600-1499115657",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-500gb-1451005436",
+    "fotoUrl": "https://img.olx.com.br/images/25/252534705399386.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/252534705399386.jpg",
+      "https://img.olx.com.br/images/28/281587703657977.jpg",
+      "https://img.olx.com.br/images/29/297500589947564.jpg",
+      "https://img.olx.com.br/images/31/318579707363949.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777906247
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:50",
     "fotoUrl": "https://img.olx.com.br/images/91/919634766848702.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/919634766848702.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/95/959655766861997.jpg",
       "https://img.olx.com.br/images/96/963602647700709.jpg"
     ],
-    "defeito": false,
+    "id": "1499115657",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-600-1499115657",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Playstation 600",
     "ts": 1777906238
   },
   {
@@ -9932,24 +9953,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Xbox Series S Semi-Novo",
     "ts": 1777845786
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:02",
-    "fotoUrl": "https://img.olx.com.br/images/43/438633169840192.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/438633169840192.jpg",
-      "https://img.olx.com.br/images/45/453634280159112.jpg"
-    ],
-    "id": "1498969985",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-madden-nfl-18-ps4-1498969985",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "Jogo Madden NFL 18 PS4",
-    "ts": 1777845766
   }
 ]
