@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499117795",
-    "titulo": "God of War 3",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "jogos",
+    "id": "1499117713",
+    "titulo": "Dark Souls 3 - Mídia Física PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:56",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-3-1499117795",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/dark-souls-3-midia-fisica-ps4-1499117713",
+    "fotoUrl": "https://img.olx.com.br/images/73/732685409457983.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/732685409457983.jpg",
+      "https://img.olx.com.br/images/74/749644881675246.jpg",
+      "https://img.olx.com.br/images/73/730661286376929.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777906580
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:56",
     "fotoUrl": "https://img.olx.com.br/images/47/470668649236899.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/470668649236899.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/49/490638522031596.jpg",
       "https://img.olx.com.br/images/50/501690040960923.jpg"
     ],
-    "defeito": false,
+    "id": "1499117795",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-3-1499117795",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "God of War 3",
     "ts": 1777906568
   },
   {
@@ -9932,24 +9952,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "Caixa PS5 FAT ",
     "ts": 1777846567
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:09",
-    "fotoUrl": "https://img.olx.com.br/images/58/584640047564745.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/584640047564745.jpg",
-      "https://img.olx.com.br/images/64/641671042262127.jpg"
-    ],
-    "id": "1498971072",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-slim-1498971072",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "PS4 SLIM",
-    "ts": 1777846158
   }
 ]
