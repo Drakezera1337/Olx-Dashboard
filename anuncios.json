@@ -1,22 +1,40 @@
 [
   {
-    "id": "1487588862",
-    "titulo": "Doom PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1499179590",
+    "titulo": "Jogos ps4/ps5",
+    "preco": 280,
+    "precoRaw": "R$ 280",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "15:18",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "tempoOlx": "Na OLX desde outubro de 2022",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/doom-ps4-1487588862",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-ps5-1499179590",
+    "fotoUrl": "https://img.olx.com.br/images/41/412666049971243.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/412666049971243.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918715
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:18",
     "fotoUrl": "https://img.olx.com.br/images/97/978678381569301.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/978678381569301.jpg",
       "https://img.olx.com.br/images/99/999680501753832.jpg",
       "https://img.olx.com.br/images/10/106687020415382.jpg"
     ],
-    "defeito": false,
+    "id": "1487588862",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/doom-ps4-1487588862",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Doom PS4",
     "ts": 1777918707
   },
   {
@@ -9995,25 +10013,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Assassin's Creed Valhala",
     "ts": 1777864294
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:11",
-    "fotoUrl": "https://img.olx.com.br/images/69/696550217328643.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/696550217328643.jpg",
-      "https://img.olx.com.br/images/33/338543822618633.jpg",
-      "https://img.olx.com.br/images/35/351531701055771.jpg"
-    ],
-    "id": "1448960386",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/grand-theft-auto-v-1448960386",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "Grand Theft Auto V",
-    "ts": 1777864286
   }
 ]
