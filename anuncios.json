@@ -1,15 +1,30 @@
 [
   {
-    "id": "1496872177",
-    "titulo": "Nintendo switch lite ",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "categoria": "switch",
+    "id": "1499115657",
+    "titulo": "Playstation 600",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:46",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "detectado": "11:50",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/nintendo-switch-lite-1496872177",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-600-1499115657",
+    "fotoUrl": "https://img.olx.com.br/images/91/919634766848702.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/919634766848702.jpg",
+      "https://img.olx.com.br/images/93/931692160898400.jpg",
+      "https://img.olx.com.br/images/95/959655766861997.jpg",
+      "https://img.olx.com.br/images/96/963602647700709.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777906238
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:46",
     "fotoUrl": "https://img.olx.com.br/images/63/631667396790083.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/631667396790083.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/65/651696159721607.jpg",
       "https://img.olx.com.br/images/66/662638396403792.jpg"
     ],
-    "defeito": false,
+    "id": "1496872177",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/nintendo-switch-lite-1496872177",
+    "preco": 890,
+    "precoRaw": "R$ 890",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Nintendo switch lite ",
     "ts": 1777905973
   },
   {
@@ -9930,24 +9951,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Jogo Madden NFL 18 PS4",
     "ts": 1777845766
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:02",
-    "fotoUrl": "https://img.olx.com.br/images/38/384618285336211.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/384618285336211.jpg",
-      "https://img.olx.com.br/images/40/405610286622022.jpg"
-    ],
-    "id": "1498970231",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-fifa18-ps4-1498970231",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "Jogo FIFA18 PS4",
-    "ts": 1777845757
   }
 ]
