@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499187344",
+    "id": "1499189414",
     "titulo": "JOGOS - PS4/PS5",
-    "preco": 54,
-    "precoRaw": "R$ 54",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:40",
+    "detectado": "15:46",
     "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-ps4-ps5-1499187344",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-ps4-ps5-1499189414",
+    "fotoUrl": "https://img.olx.com.br/images/32/325651281123791.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/325651281123791.jpg",
+      "https://img.olx.com.br/images/33/330659288777523.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777920369
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:40",
     "fotoUrl": "https://img.olx.com.br/images/22/226667880839398.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/226667880839398.jpg",
       "https://img.olx.com.br/images/24/241647768865117.jpg"
     ],
-    "defeito": false,
+    "id": "1499187344",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-ps4-ps5-1499187344",
+    "preco": 54,
+    "precoRaw": "R$ 54",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1777920054
   },
   {
@@ -9955,25 +9974,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "POCO X6 PRO",
-    "ts": 1777867887
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/34/343657756512707.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/343657756512707.jpg",
-      "https://img.olx.com.br/images/35/354682399243875.jpg"
-    ],
-    "id": "1496808801",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/samsung-galaxy-j4-1496808801",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Samsung Galaxy J4+",
     "ts": 1777867887
   }
 ]
