@@ -1,15 +1,28 @@
 [
   {
-    "id": "1497303762",
-    "titulo": "Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1499028736",
+    "titulo": "Jogo God Of War 2018 PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "02:19",
-    "tempoOlx": "Na OLX desde agosto de 2021",
+    "detectado": "02:22",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1497303762",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-god-of-war-2018-ps4-1499028736",
+    "fotoUrl": "https://img.olx.com.br/images/63/633605166338520.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/633605166338520.jpg",
+      "https://img.olx.com.br/images/64/643610520252868.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777872130
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "02:19",
     "fotoUrl": "https://img.olx.com.br/images/19/194666510798842.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/194666510798842.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/23/236626270928755.jpg",
       "https://img.olx.com.br/images/24/247673272390882.jpg"
     ],
-    "defeito": false,
+    "id": "1497303762",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1497303762",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2021",
+    "titulo": "Xbox Series S",
     "ts": 1777871981
   },
   {
@@ -9900,23 +9919,5 @@
     "tempoOlx": "Na OLX desde junho de 2014",
     "titulo": "PlayStation 3 Fat ",
     "ts": 1777830248
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:41",
-    "fotoUrl": "https://img.olx.com.br/images/18/181602243538941.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/181602243538941.jpg"
-    ],
-    "id": "1472406632",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/resident-evil-4-ps4-1472406632",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "RESIDENT EVIL 4 - PS4",
-    "ts": 1777830082
   }
 ]
