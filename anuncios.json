@@ -1,22 +1,42 @@
 [
   {
-    "id": "1490598207",
-    "titulo": "Sombras de Mordor - PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1490598986",
+    "titulo": "Spiderman - PS4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:10",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/sombras-de-mordor-ps4-1490598207",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spiderman-ps4-1490598986",
+    "fotoUrl": "https://img.olx.com.br/images/87/875613392136657.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/875613392136657.jpg",
+      "https://img.olx.com.br/images/88/884634516547902.jpg",
+      "https://img.olx.com.br/images/89/897670037917417.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777900256
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:10",
     "fotoUrl": "https://img.olx.com.br/images/77/774634157879998.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/774634157879998.jpg",
       "https://img.olx.com.br/images/78/784684159256312.jpg",
       "https://img.olx.com.br/images/80/800638875678567.jpg"
     ],
-    "defeito": false,
+    "id": "1490598207",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/sombras-de-mordor-ps4-1490598207",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Sombras de Mordor - PS4",
     "ts": 1777900240
   },
   {
@@ -9912,25 +9932,5 @@
     "tempoOlx": "Na OLX desde junho de 2014",
     "titulo": "Homefront: The Revolution - PS4 ",
     "ts": 1777837666
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:47",
-    "fotoUrl": "https://img.olx.com.br/images/15/152673163728809.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/152673163728809.jpg",
-      "https://img.olx.com.br/images/17/179693280188366.jpg",
-      "https://img.olx.com.br/images/21/216671166150810.jpg"
-    ],
-    "id": "1498942063",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/play-4-com-5-jogos-e-1-controle-1498942063",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "Play 4 com 5 jogos e 1 controle ",
-    "ts": 1777837657
   }
 ]
