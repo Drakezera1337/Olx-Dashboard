@@ -1,20 +1,38 @@
 [
   {
-    "id": "1481002237",
+    "id": "1464601771",
     "titulo": "Jogos de ps4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
+    "preco": 65,
+    "precoRaw": "R$ 65",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "23:58",
     "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1481002237",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464601771",
+    "fotoUrl": "https://img.olx.com.br/images/57/575548959958685.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/575548959958685.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863533
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:58",
     "fotoUrl": "https://img.olx.com.br/images/71/717681499314300.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/717681499314300.jpg"
     ],
-    "defeito": false,
+    "id": "1481002237",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1481002237",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Jogos de ps4",
     "ts": 1777863525
   },
   {
@@ -9865,24 +9883,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "Sekiro PS4 LACRADO raro",
     "ts": 1777825867
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:29",
-    "fotoUrl": "https://img.olx.com.br/images/61/613674380412030.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/613674380412030.jpg",
-      "https://img.olx.com.br/images/63/631664860915974.jpg"
-    ],
-    "id": "1483616101",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-5-controle-perfeito-estado-1483616101",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2022",
-    "titulo": "PlayStation 5 + controle  (perfeito estado)",
-    "ts": 1777825745
   }
 ]
