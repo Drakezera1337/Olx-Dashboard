@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499213605",
-    "titulo": "Ghost Recon Breakpoint - PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1499213067",
+    "titulo": "JOGOS DE PS4 E PS5",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "17:22",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ghost-recon-breakpoint-ps4-1499213605",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1499213067",
+    "fotoUrl": "https://img.olx.com.br/images/94/949610162573993.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/949610162573993.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777926169
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:22",
     "fotoUrl": "https://img.olx.com.br/images/10/103650647671253.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/103650647671253.jpg"
     ],
-    "defeito": false,
+    "id": "1499213605",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ghost-recon-breakpoint-ps4-1499213605",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Ghost Recon Breakpoint - PS4",
     "ts": 1777926163
   },
   {
@@ -9917,23 +9935,5 @@
     "tempoOlx": "Na OLX desde março de 2020",
     "titulo": "iPhone 16 128GB 10 meses de uso",
     "ts": 1777898149
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:35",
-    "fotoUrl": "https://img.olx.com.br/images/38/384516747517643.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/384516747517643.jpg"
-    ],
-    "id": "1389196813",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-semi-novo-1389196813",
-    "preco": 1799,
-    "precoRaw": "R$ 1.799",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "Xbox séries S semi novo ",
-    "ts": 1777898147
   }
 ]
