@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499214393",
-    "titulo": "2 Play3 + 1 Play 2",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "outros",
+    "id": "1499215446",
+    "titulo": "Xbox séries S 512gb",
+    "preco": 1449,
+    "precoRaw": "R$ 1.449",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "17:29",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "17:32",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/2-play3-1-play-2-1499214393",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/xbox-series-s-512gb-1499215446",
+    "fotoUrl": "https://img.olx.com.br/images/59/593647645053838.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/593647645053838.jpg",
+      "https://img.olx.com.br/images/61/611635641538737.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777926759
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:29",
     "fotoUrl": "https://img.olx.com.br/images/57/574674640560639.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/574674640560639.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/61/616675165395953.jpg",
       "https://img.olx.com.br/images/63/634622645308917.jpg"
     ],
-    "defeito": false,
+    "id": "1499214393",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/2-play3-1-play-2-1499214393",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "2 Play3 + 1 Play 2",
     "ts": 1777926555
   },
   {
@@ -9915,23 +9934,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Portal PS5 Novo Lacrado ",
     "ts": 1777898180
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:36",
-    "fotoUrl": "https://img.olx.com.br/images/82/821648528818153.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/821648528818153.jpg"
-    ],
-    "id": "1499047441",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/portal-ps5-1-mes-de-uso-1499047441",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Portal PS5 1 mês de uso ",
-    "ts": 1777898168
   }
 ]
