@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499005775",
-    "titulo": "PSVR2",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "outros",
+    "id": "1499020759",
+    "titulo": "PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "23:54",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psvr2-1499005775",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-1499020759",
+    "fotoUrl": "https://img.olx.com.br/images/84/841664526885203.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/841664526885203.jpg",
+      "https://img.olx.com.br/images/86/867652400120543.jpg",
+      "https://img.olx.com.br/images/88/880656649001602.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863258
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:54",
     "fotoUrl": "https://img.olx.com.br/images/37/375612529148946.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/375612529148946.jpg"
     ],
-    "defeito": false,
+    "id": "1499005775",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psvr2-1499005775",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "titulo": "PSVR2",
     "ts": 1777863250
   },
   {
@@ -9871,28 +9891,5 @@
     "tempoOlx": "Na OLX desde outubro de 2020",
     "titulo": "The Last of Us Part II Edição Especial PS4",
     "ts": 1777824828
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:13",
-    "fotoUrl": "https://img.olx.com.br/images/30/309603044191700.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/309603044191700.jpg",
-      "https://img.olx.com.br/images/32/324682886198656.jpg",
-      "https://img.olx.com.br/images/33/336672647410568.jpg",
-      "https://img.olx.com.br/images/35/358656768962533.jpg",
-      "https://img.olx.com.br/images/36/360627523593393.jpg",
-      "https://img.olx.com.br/images/37/374663642750836.jpg"
-    ],
-    "id": "1498736183",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1498736183",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": "Jogos de PS4",
-    "ts": 1777824818
   }
 ]
