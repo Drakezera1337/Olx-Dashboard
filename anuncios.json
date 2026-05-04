@@ -1,7 +1,7 @@
 [
   {
-    "id": "1499122076",
-    "titulo": "Horizon Zero Down",
+    "id": "1499121207",
+    "titulo": "Fifa 18",
     "preco": 80,
     "precoRaw": "R$ 80",
     "categoria": "jogos",
@@ -9,7 +9,22 @@
     "detectado": "12:13",
     "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-down-1499122076",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-18-1499121207",
+    "fotoUrl": "https://img.olx.com.br/images/74/749631163380736.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/749631163380736.jpg",
+      "https://img.olx.com.br/images/75/754673521377461.jpg",
+      "https://img.olx.com.br/images/76/766639048716232.jpg",
+      "https://img.olx.com.br/images/77/777629882839902.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777907629
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:13",
     "fotoUrl": "https://img.olx.com.br/images/52/525664522516081.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/525664522516081.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/54/548682409669358.jpg",
       "https://img.olx.com.br/images/55/555617761734926.jpg"
     ],
-    "defeito": false,
+    "id": "1499122076",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-down-1499122076",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Horizon Zero Down",
     "ts": 1777907618
   },
   {
@@ -9932,26 +9953,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "Diablo 3 Reaper Of Souls Ultimate Evil Edition (PS4)",
     "ts": 1777849779
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:58",
-    "fotoUrl": "https://img.olx.com.br/images/92/920667409274087.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/920667409274087.jpg",
-      "https://img.olx.com.br/images/92/922632403106865.jpg",
-      "https://img.olx.com.br/images/93/932643889876786.jpg",
-      "https://img.olx.com.br/images/94/940609641213497.jpg"
-    ],
-    "id": "1498978784",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1498978784",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2023",
-    "titulo": "Nintendo switch lite",
-    "ts": 1777849130
   }
 ]
