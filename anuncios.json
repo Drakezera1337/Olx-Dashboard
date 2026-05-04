@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499229794",
-    "titulo": "Jogos de ps4",
-    "preco": 55,
-    "precoRaw": "R$ 55",
+    "id": "1499229745",
+    "titulo": "Jogos de ps4 Midia física",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:16",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1499229794",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/jogos-de-ps4-midia-fisica-1499229745",
+    "fotoUrl": "https://img.olx.com.br/images/31/317623765132322.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/317623765132322.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777929391
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:16",
     "fotoUrl": "https://img.olx.com.br/images/35/358612288879780.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/358612288879780.jpg",
       "https://img.olx.com.br/images/37/375656046453065.jpg"
     ],
-    "defeito": false,
+    "id": "1499229794",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1499229794",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Jogos de ps4",
     "ts": 1777929383
   },
   {
@@ -9885,25 +9903,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Uncharted collection - Playstation 4",
     "ts": 1777898516
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:41",
-    "fotoUrl": "https://img.olx.com.br/images/93/933676860211204.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/933676860211204.jpg",
-      "https://img.olx.com.br/images/94/943647627816507.jpg",
-      "https://img.olx.com.br/images/97/979662028129656.jpg"
-    ],
-    "id": "1482599494",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/sniper-elite-3-ultimate-edition-playstation-4-1482599494",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Sniper elite 3 ultimate edition - Playstation 4",
-    "ts": 1777898500
   }
 ]
