@@ -1,20 +1,43 @@
 [
   {
-    "id": "1496645479",
-    "titulo": "Vende-se IPHONE XR",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "iphone",
+    "id": "1497303762",
+    "titulo": "Xbox Series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "02:16",
-    "tempoOlx": "Na OLX desde julho de 2025",
+    "detectado": "02:19",
+    "tempoOlx": "Na OLX desde agosto de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vende-se-iphone-xr-1496645479",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1497303762",
+    "fotoUrl": "https://img.olx.com.br/images/19/194666510798842.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/194666510798842.jpg",
+      "https://img.olx.com.br/images/20/207641758874683.jpg",
+      "https://img.olx.com.br/images/21/218601396985340.jpg",
+      "https://img.olx.com.br/images/22/220631276763886.jpg",
+      "https://img.olx.com.br/images/23/236626270928755.jpg",
+      "https://img.olx.com.br/images/24/247673272390882.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777871981
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "02:16",
     "fotoUrl": "https://img.olx.com.br/images/98/989613634069464.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/989613634069464.jpg"
     ],
-    "defeito": false,
+    "id": "1496645479",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vende-se-iphone-xr-1496645479",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "titulo": "Vende-se IPHONE XR",
     "ts": 1777871798
   },
   {
@@ -9895,25 +9918,5 @@
     "tempoOlx": "Na OLX desde setembro de 2017",
     "titulo": "RESIDENT EVIL 4 - PS4",
     "ts": 1777830082
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:41",
-    "fotoUrl": "https://img.olx.com.br/images/58/585616883687783.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/585616883687783.jpg",
-      "https://img.olx.com.br/images/59/595646169766620.jpg",
-      "https://img.olx.com.br/images/60/606654405567280.jpg"
-    ],
-    "id": "1498920729",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-ps4-originais-1498920729",
-    "preco": 275,
-    "precoRaw": "R$ 275",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
-    "titulo": "Jogos PS4 Originais",
-    "ts": 1777830071
   }
 ]
