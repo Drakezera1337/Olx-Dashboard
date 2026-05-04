@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499222028",
-    "titulo": "Lote de Jogos de PlayStation 4 (216 Jogos)",
-    "preco": 15000,
-    "precoRaw": "R$ 15.000",
-    "categoria": "ps4",
+    "id": "1499223432",
+    "titulo": "Jogo X box 360",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "17:46",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "17:50",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/lote-de-jogos-de-playstation-4-216-jogos-1499222028",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-x-box-360-1499223432",
+    "fotoUrl": "https://img.olx.com.br/images/89/890681045401248.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/890681045401248.jpg",
+      "https://img.olx.com.br/images/19/198679041813997.jpg",
+      "https://img.olx.com.br/images/20/201607762371065.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777927807
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:46",
     "fotoUrl": "https://img.olx.com.br/images/73/735692769090557.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/735692769090557.jpg"
     ],
-    "defeito": false,
+    "id": "1499222028",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/lote-de-jogos-de-playstation-4-216-jogos-1499222028",
+    "preco": 15000,
+    "precoRaw": "R$ 15.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Lote de Jogos de PlayStation 4 (216 Jogos)",
     "ts": 1777927589
   },
   {
@@ -9896,27 +9916,5 @@
     "tempoOlx": "Na OLX desde abril de 2025",
     "titulo": "JOGOS PLAYSTATION 3",
     "ts": 1777898323
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:38",
-    "fotoUrl": "https://img.olx.com.br/images/22/227579339295845.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/227579339295845.jpg",
-      "https://img.olx.com.br/images/23/234514936769007.jpg",
-      "https://img.olx.com.br/images/24/241515331145955.jpg",
-      "https://img.olx.com.br/images/26/260563451387918.jpg",
-      "https://img.olx.com.br/images/27/279582090519373.jpg"
-    ],
-    "id": "1444387465",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-playstation-3-1444387465",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "Jogos PlayStation 3",
-    "ts": 1777898315
   }
 ]
