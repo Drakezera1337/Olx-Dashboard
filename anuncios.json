@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490925192",
-    "titulo": "Everybody's Golf ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1490925472",
+    "titulo": "Doom",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "outros",
     "publicado": "",
     "detectado": "19:22",
     "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/everybody-s-golf-1490925192",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/doom-1490925472",
+    "fotoUrl": "https://img.olx.com.br/images/59/591661273762818.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/591661273762818.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933376
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:22",
     "fotoUrl": "https://img.olx.com.br/images/16/167669878485913.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/167669878485913.jpg"
     ],
-    "defeito": false,
+    "id": "1490925192",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/everybody-s-golf-1490925192",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Everybody's Golf ",
     "ts": 1777933368
   },
   {
@@ -9826,25 +9844,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Nioh 2 - PS4",
     "ts": 1777900204
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:09",
-    "fotoUrl": "https://img.olx.com.br/images/29/298640024526483.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/298640024526483.jpg",
-      "https://img.olx.com.br/images/30/309612742381264.jpg",
-      "https://img.olx.com.br/images/32/320659145688476.jpg"
-    ],
-    "id": "1481711882",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nba-2k24-ps4-1481711882",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "NBA 2K24 - PS4",
-    "ts": 1777900197
   }
 ]
