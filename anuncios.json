@@ -1,20 +1,42 @@
 [
   {
-    "id": "1499162532",
-    "titulo": "Jogos PS4",
-    "preco": 350,
-    "precoRaw": "R$ 350",
+    "id": "1499160382",
+    "titulo": "Jogos PS3 e PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "15:15",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "tempoOlx": "Na OLX desde março de 2025",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-ps4-1499162532",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-ps3-e-ps4-1499160382",
+    "fotoUrl": "https://img.olx.com.br/images/35/359695524841459.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/359695524841459.jpg",
+      "https://img.olx.com.br/images/38/380695040864997.jpg",
+      "https://img.olx.com.br/images/41/410678286441431.jpg",
+      "https://img.olx.com.br/images/43/433660529138070.jpg",
+      "https://img.olx.com.br/images/44/441639280450889.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777918514
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:15",
     "fotoUrl": "https://img.olx.com.br/images/35/350649520852483.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/350649520852483.jpg"
     ],
-    "defeito": false,
+    "id": "1499162532",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-ps4-1499162532",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Jogos PS4",
     "ts": 1777918504
   },
   {
@@ -9974,24 +9996,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "One Piece Burning Blood",
     "ts": 1777863641
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:00",
-    "fotoUrl": "https://img.olx.com.br/images/86/862647633914032.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/862647633914032.jpg",
-      "https://img.olx.com.br/images/89/898680636915859.jpg"
-    ],
-    "id": "1490776231",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-edicao-especial-com-steelbook-e-artbook-1490776231",
-    "preco": 240,
-    "precoRaw": "R$ 240",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2015",
-    "titulo": "Horizon Forbidden West edição especial com Steelbook e artbook",
-    "ts": 1777863633
   }
 ]
