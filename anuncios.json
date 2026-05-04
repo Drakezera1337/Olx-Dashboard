@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490920023",
-    "titulo": "The Elder Scrolls Online Summerset",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1490920697",
+    "titulo": "Battlefield 4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "19:22",
     "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-elder-scrolls-online-summerset-1490920023",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/battlefield-4-1490920697",
+    "fotoUrl": "https://img.olx.com.br/images/68/686686036280249.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/686686036280249.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933353
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:22",
     "fotoUrl": "https://img.olx.com.br/images/92/923624392815622.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/923624392815622.jpg"
     ],
-    "defeito": false,
+    "id": "1490920023",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-elder-scrolls-online-summerset-1490920023",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "The Elder Scrolls Online Summerset",
     "ts": 1777933344
   },
   {
@@ -9832,25 +9850,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "GTA5 - PS4",
     "ts": 1777900173
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:09",
-    "fotoUrl": "https://img.olx.com.br/images/50/508665145704461.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/508665145704461.jpg",
-      "https://img.olx.com.br/images/51/514622747924647.jpg",
-      "https://img.olx.com.br/images/54/544690383025000.jpg"
-    ],
-    "id": "1481711349",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/star-wars-battlefront-2-ps4-1481711349",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Star Wars Battlefront 2 - PS4",
-    "ts": 1777900161
   }
 ]
