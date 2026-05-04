@@ -1,22 +1,42 @@
 [
   {
-    "id": "1448960386",
-    "titulo": "Grand Theft Auto V",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1448952316",
+    "titulo": "Assassin's Creed Valhala",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "00:11",
     "tempoOlx": "Na OLX desde setembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/grand-theft-auto-v-1448960386",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/assassin-s-creed-valhala-1448952316",
+    "fotoUrl": "https://img.olx.com.br/images/12/121560211008012.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/121560211008012.jpg",
+      "https://img.olx.com.br/images/23/236575225335482.jpg",
+      "https://img.olx.com.br/images/25/251502344396306.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777864294
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:11",
     "fotoUrl": "https://img.olx.com.br/images/69/696550217328643.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/696550217328643.jpg",
       "https://img.olx.com.br/images/33/338543822618633.jpg",
       "https://img.olx.com.br/images/35/351531701055771.jpg"
     ],
-    "defeito": false,
+    "id": "1448960386",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/grand-theft-auto-v-1448960386",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "Grand Theft Auto V",
     "ts": 1777864286
   },
   {
@@ -9836,28 +9856,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "Jogo ps5 ",
     "ts": 1777826406
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:38",
-    "fotoUrl": "https://img.olx.com.br/images/98/981653647516142.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/981653647516142.jpg",
-      "https://img.olx.com.br/images/10/109675525292721.jpg",
-      "https://img.olx.com.br/images/11/118654161834201.jpg",
-      "https://img.olx.com.br/images/12/128637523669209.jpg",
-      "https://img.olx.com.br/images/13/131659168742562.jpg",
-      "https://img.olx.com.br/images/15/153695407034489.jpg"
-    ],
-    "id": "1498909069",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/batman-arkham-knight-para-ps4-1498909069",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Batman Arkham Knight para PS4 ",
-    "ts": 1777826318
   }
 ]
