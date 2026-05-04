@@ -1,22 +1,41 @@
 [
   {
-    "id": "1499230161",
-    "titulo": "Jogos ps4 ",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1499229794",
+    "titulo": "Jogos de ps4",
+    "preco": 55,
+    "precoRaw": "R$ 55",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:16",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499230161",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1499229794",
+    "fotoUrl": "https://img.olx.com.br/images/35/358612288879780.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/358612288879780.jpg",
+      "https://img.olx.com.br/images/37/375656046453065.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777929383
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:16",
     "fotoUrl": "https://img.olx.com.br/images/34/341682406346637.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/341682406346637.jpg",
       "https://img.olx.com.br/images/36/364609283631053.jpg",
       "https://img.olx.com.br/images/38/389650527676456.jpg"
     ],
-    "defeito": false,
+    "id": "1499230161",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499230161",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Jogos ps4 ",
     "ts": 1777929375
   },
   {
@@ -9886,25 +9905,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Sniper elite 3 ultimate edition - Playstation 4",
     "ts": 1777898500
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:41",
-    "fotoUrl": "https://img.olx.com.br/images/97/978668623372037.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/978668623372037.jpg",
-      "https://img.olx.com.br/images/99/991675145534229.jpg",
-      "https://img.olx.com.br/images/11/112641862177104.jpg"
-    ],
-    "id": "1482600368",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/destiny-2-playstation-4-1482600368",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Destiny 2 - Playstation 4",
-    "ts": 1777898490
   }
 ]
