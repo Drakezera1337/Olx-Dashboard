@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499185943",
+    "id": "1499185514",
     "titulo": "JOGOS - PS4/PS5",
-    "preco": 52,
-    "precoRaw": "R$ 52",
+    "preco": 51,
+    "precoRaw": "R$ 51",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "15:34",
     "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-ps5-1499185943",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1499185514",
+    "fotoUrl": "https://img.olx.com.br/images/52/523643527345215.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/523643527345215.jpg",
+      "https://img.olx.com.br/images/53/531651041062991.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777919668
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:34",
     "fotoUrl": "https://img.olx.com.br/images/61/614609281679107.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/614609281679107.jpg",
       "https://img.olx.com.br/images/62/628698529257462.jpg"
     ],
-    "defeito": false,
+    "id": "1499185943",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-ps5-1499185943",
+    "preco": 52,
+    "precoRaw": "R$ 52",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1777919656
   },
   {
@@ -9965,28 +9984,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps2 Slim Completo ",
-    "ts": 1777867885
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:11",
-    "fotoUrl": "https://img.olx.com.br/images/73/736637881747542.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/736637881747542.jpg",
-      "https://img.olx.com.br/images/75/752686648608711.jpg",
-      "https://img.olx.com.br/images/77/770626887295882.jpg",
-      "https://img.olx.com.br/images/79/799677520618556.jpg",
-      "https://img.olx.com.br/images/81/810649043968842.jpg"
-    ],
-    "id": "1498509724",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps5-slim-digital-1498509724",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps5 slim digital ",
     "ts": 1777867885
   }
 ]
