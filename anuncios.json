@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499095190",
-    "titulo": "PS4 + 3 jogos",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1499094746",
+    "titulo": "Gran Turismo PS4/PS5 (Original)",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "10:33",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-3-jogos-1499095190",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/gran-turismo-ps4-ps5-original-1499094746",
+    "fotoUrl": "https://img.olx.com.br/images/17/178616529101368.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/178616529101368.jpg",
+      "https://img.olx.com.br/images/20/208681405851058.jpg",
+      "https://img.olx.com.br/images/24/248600529032921.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777901610
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:33",
     "fotoUrl": "https://img.olx.com.br/images/34/348620166906914.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/348620166906914.jpg",
       "https://img.olx.com.br/images/41/411683527537926.jpg"
     ],
-    "defeito": false,
+    "id": "1499095190",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-3-jogos-1499095190",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "PS4 + 3 jogos",
     "ts": 1777901602
   },
   {
@@ -9916,25 +9936,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "Nitendo Switch",
     "ts": 1777840268
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:28",
-    "fotoUrl": "https://img.olx.com.br/images/64/641574684449112.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/641574684449112.jpg",
-      "https://img.olx.com.br/images/68/687529206003864.jpg",
-      "https://img.olx.com.br/images/70/701529561795122.jpg"
-    ],
-    "id": "1439850873",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogo-battlefield-1-playstation-4-1439850873",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo Battlefield 1 - Playstation 4",
-    "ts": 1777840088
   }
 ]
