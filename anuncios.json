@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490913894",
-    "titulo": "Detroit Become Human",
+    "id": "1490915730",
+    "titulo": "Infamous Second Son ",
     "preco": 70,
     "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:21",
     "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/detroit-become-human-1490913894",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/infamous-second-son-1490915730",
+    "fotoUrl": "https://img.olx.com.br/images/80/802609275481005.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/802609275481005.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777933295
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:21",
     "fotoUrl": "https://img.olx.com.br/images/65/659644278340015.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/659644278340015.jpg"
     ],
-    "defeito": false,
+    "id": "1490913894",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/detroit-become-human-1490913894",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Detroit Become Human",
     "ts": 1777933284
   },
   {
@@ -9845,27 +9863,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Venda ",
     "ts": 1777899813
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:03",
-    "fotoUrl": "https://img.olx.com.br/images/60/608694526217305.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/608694526217305.jpg",
-      "https://img.olx.com.br/images/62/624661643410845.jpg",
-      "https://img.olx.com.br/images/63/638675043284644.jpg",
-      "https://img.olx.com.br/images/64/648692402368179.jpg",
-      "https://img.olx.com.br/images/66/669615766873920.jpg"
-    ],
-    "id": "1499086082",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-manete-jogo-1499086082",
-    "preco": 1289,
-    "precoRaw": "R$ 1.289",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "PlayStation 4 Slim 1TB + Manete + Jogo ",
-    "ts": 1777899803
   }
 ]
