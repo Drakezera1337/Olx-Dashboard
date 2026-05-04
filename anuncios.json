@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499120938",
-    "titulo": "Need for Speed Heat",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "jogos",
+    "id": "1464526977",
+    "titulo": "Jogo ps3 Batman Arkhan Asylum",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "12:13",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "detectado": "12:14",
+    "tempoOlx": "Na OLX desde setembro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/need-for-speed-heat-1499120938",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/jogo-ps3-batman-arkhan-asylum-1464526977",
+    "fotoUrl": "https://img.olx.com.br/images/24/241546351557916.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/241546351557916.jpg",
+      "https://img.olx.com.br/images/25/258565239828828.jpg",
+      "https://img.olx.com.br/images/27/270588110871149.jpg",
+      "https://img.olx.com.br/images/28/281510351428920.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777907677
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:13",
     "fotoUrl": "https://img.olx.com.br/images/92/922605289940397.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/922605289940397.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/94/940627644275188.jpg",
       "https://img.olx.com.br/images/97/974691882814181.jpg"
     ],
-    "defeito": false,
+    "id": "1499120938",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/need-for-speed-heat-1499120938",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Need for Speed Heat",
     "ts": 1777907638
   },
   {
@@ -9935,25 +9956,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "Spider man PS4",
     "ts": 1777849797
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:09",
-    "fotoUrl": "https://img.olx.com.br/images/81/818655360169231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/818655360169231.jpg",
-      "https://img.olx.com.br/images/81/819679609496956.jpg",
-      "https://img.olx.com.br/images/81/816640482573221.jpg"
-    ],
-    "id": "1473561585",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-part-ii-ps4-1473561585",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2014",
-    "titulo": "The Last of Us Part II - PS4",
-    "ts": 1777849788
   }
 ]
