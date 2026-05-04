@@ -1,20 +1,38 @@
 [
   {
-    "id": "1464601771",
+    "id": "1464601013",
     "titulo": "Jogos de ps4",
-    "preco": 65,
-    "precoRaw": "R$ 65",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:58",
+    "detectado": "23:59",
     "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464601771",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464601013",
+    "fotoUrl": "https://img.olx.com.br/images/61/619584238066008.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/619584238066008.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777863540
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:58",
     "fotoUrl": "https://img.olx.com.br/images/57/575548959958685.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/575548959958685.jpg"
     ],
-    "defeito": false,
+    "id": "1464601771",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-1464601771",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Jogos de ps4",
     "ts": 1777863533
   },
   {
@@ -9864,24 +9882,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "Sekiro PS4 (Pt-br) Novíssimo",
     "ts": 1777825876
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:31",
-    "fotoUrl": "https://img.olx.com.br/images/98/988673520980175.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/988673520980175.jpg",
-      "https://img.olx.com.br/images/10/101602646460670.jpg"
-    ],
-    "id": "1498671041",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/sekiro-ps4-lacrado-raro-1498671041",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2023",
-    "titulo": "Sekiro PS4 LACRADO raro",
-    "ts": 1777825867
   }
 ]
