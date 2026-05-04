@@ -1,20 +1,43 @@
 [
   {
-    "id": "1499257198",
-    "titulo": "Nintendo Switch Lite 128 GB ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "switch",
+    "id": "1499258500",
+    "titulo": "Jogos Ps4 original ",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:54",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "detectado": "19:55",
+    "tempoOlx": "Na OLX desde janeiro de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-128-gb-1499257198",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-original-1499258500",
+    "fotoUrl": "https://img.olx.com.br/images/10/104661648369685.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/104661648369685.jpg",
+      "https://img.olx.com.br/images/13/130674402709071.jpg",
+      "https://img.olx.com.br/images/15/157631165016095.jpg",
+      "https://img.olx.com.br/images/18/180674162700475.jpg",
+      "https://img.olx.com.br/images/20/202628768967281.jpg",
+      "https://img.olx.com.br/images/22/221650525008004.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777935337
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:54",
     "fotoUrl": "https://img.olx.com.br/images/51/515641528655857.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/515641528655857.jpg"
     ],
-    "defeito": false,
+    "id": "1499257198",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-128-gb-1499257198",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "Nintendo Switch Lite 128 GB ",
     "ts": 1777935245
   },
   {
@@ -9820,25 +9843,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "Ps4 ",
     "ts": 1777900509
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:14",
-    "fotoUrl": "https://img.olx.com.br/images/66/665552896916451.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/665552896916451.jpg",
-      "https://img.olx.com.br/images/68/681588418493213.jpg",
-      "https://img.olx.com.br/images/70/708537890252103.jpg"
-    ],
-    "id": "1414717676",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-2042-ps4-1414717676",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Battlefield 2042 - PS4",
-    "ts": 1777900489
   }
 ]
