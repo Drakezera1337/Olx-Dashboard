@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499191003",
+    "id": "1499190753",
     "titulo": "JOGOS - PS4/PS5",
-    "preco": 65,
-    "precoRaw": "R$ 65",
+    "preco": 64,
+    "precoRaw": "R$ 64",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:52",
+    "detectado": "15:53",
     "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-ps5-1499191003",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-ps5-1499190753",
+    "fotoUrl": "https://img.olx.com.br/images/62/624664649602380.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/624664649602380.jpg",
+      "https://img.olx.com.br/images/63/632698525738309.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777920787
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:52",
     "fotoUrl": "https://img.olx.com.br/images/36/365600402899850.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/365600402899850.jpg",
       "https://img.olx.com.br/images/37/376604169057279.jpg"
     ],
-    "defeito": false,
+    "id": "1499191003",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-ps5-1499191003",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1777920777
   },
   {
@@ -9955,26 +9974,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox serie S 512GB",
-    "ts": 1777867935
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:12",
-    "fotoUrl": "https://img.olx.com.br/images/72/720610165545170.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/720610165545170.jpg",
-      "https://img.olx.com.br/images/73/738692406619976.jpg",
-      "https://img.olx.com.br/images/74/744691644985802.jpg"
-    ],
-    "id": "1498885611",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-serie-s-1498885611",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox série S",
     "ts": 1777867935
   }
 ]
