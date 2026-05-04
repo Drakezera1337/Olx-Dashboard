@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499256581",
-    "titulo": "Jogos PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1499256442",
+    "titulo": "Ps4 com defeito",
+    "preco": 500,
+    "precoRaw": "R$ 500",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:51",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/jogos-ps4-1499256581",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps4-com-defeito-1499256442",
+    "fotoUrl": "https://img.olx.com.br/images/43/438651886152974.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/438651886152974.jpg",
+      "https://img.olx.com.br/images/44/444663649250343.jpg",
+      "https://img.olx.com.br/images/75/752694521076742.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777935097
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:51",
     "fotoUrl": "https://img.olx.com.br/images/43/435666648052104.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/435666648052104.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/51/519655762925870.jpg",
       "https://img.olx.com.br/images/53/539640400972130.jpg"
     ],
-    "defeito": false,
+    "id": "1499256581",
+    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/jogos-ps4-1499256581",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "Jogos PS4",
     "ts": 1777935069
   },
   {
@@ -9819,25 +9839,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Dark Souls 3 - PS4",
     "ts": 1777900460
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:14",
-    "fotoUrl": "https://img.olx.com.br/images/92/921693753721091.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/921693753721091.jpg",
-      "https://img.olx.com.br/images/93/937626039055521.jpg",
-      "https://img.olx.com.br/images/94/945619513103551.jpg"
-    ],
-    "id": "1490601356",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/blood-bowl-ps4-1490601356",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Blood Bowl - PS4",
-    "ts": 1777900450
   }
 ]
