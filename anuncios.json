@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499483115",
-    "titulo": "Nintendo 3ds Xl Vermelho",
-    "preco": 1550,
-    "precoRaw": "R$ 1.550",
-    "categoria": "switch",
+    "id": "1497294119",
+    "titulo": "PlayStation5 ",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:44",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-3ds-xl-vermelho-1499483115",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation5-1497294119",
+    "fotoUrl": "https://img.olx.com.br/images/41/410672395437730.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/410672395437730.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777999475
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:44",
     "fotoUrl": "https://img.olx.com.br/images/40/400605644643355.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/400605644643355.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/43/439689165493260.jpg",
       "https://img.olx.com.br/images/44/440646887389127.jpg"
     ],
-    "defeito": false,
+    "id": "1499483115",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-3ds-xl-vermelho-1499483115",
+    "preco": 1550,
+    "precoRaw": "R$ 1.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Nintendo 3ds Xl Vermelho",
     "ts": 1777999447
   },
   {
@@ -9774,28 +9792,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Ps4 com defeito",
     "ts": 1777935097
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:51",
-    "fotoUrl": "https://img.olx.com.br/images/43/435666648052104.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/435666648052104.jpg",
-      "https://img.olx.com.br/images/45/458657166441579.jpg",
-      "https://img.olx.com.br/images/48/487650641945505.jpg",
-      "https://img.olx.com.br/images/49/496697525340358.jpg",
-      "https://img.olx.com.br/images/51/519655762925870.jpg",
-      "https://img.olx.com.br/images/53/539640400972130.jpg"
-    ],
-    "id": "1499256581",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/jogos-ps4-1499256581",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2021",
-    "titulo": "Jogos PS4",
-    "ts": 1777935069
   }
 ]
