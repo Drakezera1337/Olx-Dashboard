@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499474391",
-    "titulo": "Ps3 com defeito na placa ",
-    "preco": 300,
-    "precoRaw": "R$ 300",
+    "id": "1499475094",
+    "titulo": "Ps3 slim",
+    "preco": 400,
+    "precoRaw": "R$ 400",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "13:16",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps3-com-defeito-na-placa-1499474391",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-slim-1499475094",
+    "fotoUrl": "https://img.olx.com.br/images/75/758682400832156.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/758682400832156.jpg",
+      "https://img.olx.com.br/images/77/772669165259305.jpg",
+      "https://img.olx.com.br/images/78/788662525460084.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997781
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:16",
     "fotoUrl": "https://img.olx.com.br/images/84/847600408326496.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/847600408326496.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/87/877632768313793.jpg",
       "https://img.olx.com.br/images/89/893614280866981.jpg"
     ],
-    "defeito": false,
+    "id": "1499474391",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps3-com-defeito-na-placa-1499474391",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Ps3 com defeito na placa ",
     "ts": 1777997771
   },
   {
@@ -9746,26 +9766,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "God of War 3 Remasterizado ",
     "ts": 1777933213
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:14",
-    "fotoUrl": "https://img.olx.com.br/images/10/100642164168502.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/100642164168502.jpg",
-      "https://img.olx.com.br/images/12/127628641722204.jpg",
-      "https://img.olx.com.br/images/14/141696529394956.jpg",
-      "https://img.olx.com.br/images/16/162610520846503.jpg"
-    ],
-    "id": "1499242951",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/final-fantasy-7-remake-ver-japonesa-1499242951",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "Final Fantasy 7 Remake(Ver Japonesa)",
-    "ts": 1777932898
   }
 ]
