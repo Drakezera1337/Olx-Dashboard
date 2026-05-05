@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499304167",
-    "titulo": "PS4",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "ps4",
+    "id": "1499304619",
+    "titulo": "XBOX SERIES S 512G SEMI NOVO",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "23:05",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "23:09",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-1499304167",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/xbox-series-s-512g-semi-novo-1499304619",
+    "fotoUrl": "https://img.olx.com.br/images/25/259663168197562.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/259663168197562.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777946976
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:05",
     "fotoUrl": "https://img.olx.com.br/images/82/826610523167634.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/826610523167634.jpg",
       "https://img.olx.com.br/images/82/828681040481432.jpg"
     ],
-    "defeito": false,
+    "id": "1499304167",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-1499304167",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "PS4",
     "ts": 1777946736
   },
   {
@@ -9791,24 +9809,5 @@
     "tempoOlx": "Na OLX desde junho de 2024",
     "titulo": "JOGOS PS4 e PS5",
     "ts": 1777909519
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:45",
-    "fotoUrl": "https://img.olx.com.br/images/63/630663287860538.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/630663287860538.jpg",
-      "https://img.olx.com.br/images/64/649672406304731.jpg"
-    ],
-    "id": "1499131841",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/pes-2020-ps4-1499131841",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PES 2020  PS4 ",
-    "ts": 1777909509
   }
 ]
