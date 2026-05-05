@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499510125",
-    "titulo": "iPhone 11 128gb",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1499510692",
+    "titulo": "Xbox séries s",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "14:44",
+    "detectado": "14:45",
     "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-1499510125",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-1499510692",
+    "fotoUrl": "https://img.olx.com.br/images/73/731604648197880.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/731604648197880.jpg",
+      "https://img.olx.com.br/images/75/750682405692925.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778003108
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:44",
     "fotoUrl": "https://img.olx.com.br/images/54/547686043547925.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/547686043547925.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/56/561664165479116.jpg",
       "https://img.olx.com.br/images/57/572640165539367.jpg"
     ],
-    "defeito": false,
+    "id": "1499510125",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-1499510125",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "iPhone 11 128gb",
     "ts": 1778003077
   },
   {
@@ -9776,23 +9795,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "XBOX SERIES S 512gb Único dono ",
     "ts": 1777938006
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:38",
-    "fotoUrl": "https://img.olx.com.br/images/49/492671407694713.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/492671407694713.jpg"
-    ],
-    "id": "1499267692",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1499267692",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
-    "titulo": "Jogos ps4",
-    "ts": 1777937907
   }
 ]
