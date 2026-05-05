@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499589722",
-    "titulo": "Crash trilogia ",
-    "preco": 130,
-    "precoRaw": "R$ 130",
+    "id": "1499589418",
+    "titulo": "Dark Sous 3",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "19:24",
+    "detectado": "19:25",
     "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/crash-trilogia-1499589722",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/dark-sous-3-1499589418",
+    "fotoUrl": "https://img.olx.com.br/images/69/693643882799287.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/693643882799287.jpg",
+      "https://img.olx.com.br/images/70/703619045560756.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778019902
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:24",
     "fotoUrl": "https://img.olx.com.br/images/65/650693282811896.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/650693282811896.jpg",
       "https://img.olx.com.br/images/67/671672640789046.jpg"
     ],
-    "defeito": false,
+    "id": "1499589722",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/crash-trilogia-1499589722",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Crash trilogia ",
     "ts": 1778019893
   },
   {
@@ -9752,23 +9771,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "3 jogos de ps4 no preçinho",
     "ts": 1777983887
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/60/606658644317386.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/606658644317386.jpg"
-    ],
-    "id": "1499408741",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/bloodborne-lacrado-1499408741",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Bloodborne Lacrado",
-    "ts": 1777983875
   }
 ]
