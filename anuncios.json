@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499299171",
-    "titulo": "Playstation 4 (Não liga)",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1499300281",
+    "titulo": "Dark souls 3 ps4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:35",
-    "tempoOlx": "Na OLX desde julho de 2018",
+    "detectado": "22:40",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-nao-liga-1499299171",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/dark-souls-3-ps4-1499300281",
+    "fotoUrl": "https://img.olx.com.br/images/20/203619889182876.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/203619889182876.jpg",
+      "https://img.olx.com.br/images/23/232686882444789.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777945207
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:35",
     "fotoUrl": "https://img.olx.com.br/images/72/722637522497188.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/722637522497188.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/78/783639760710753.jpg",
       "https://img.olx.com.br/images/79/797695640735239.jpg"
     ],
-    "defeito": false,
+    "id": "1499299171",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-nao-liga-1499299171",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2018",
+    "titulo": "Playstation 4 (Não liga)",
     "ts": 1777944906
   },
   {
@@ -9794,23 +9813,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2024",
     "titulo": "Darksiders PS3",
     "ts": 1777908097
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:20",
-    "fotoUrl": "https://img.olx.com.br/images/34/344617522314411.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/344617522314411.jpg"
-    ],
-    "id": "1499122765",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogo-de-ps4-1499122765",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "Jogo de ps4",
-    "ts": 1777908056
   }
 ]
