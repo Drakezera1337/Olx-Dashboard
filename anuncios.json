@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499315132",
-    "titulo": "Bloodborne - PS4/PS5 ",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "categoria": "ps5",
+    "id": "1499314932",
+    "titulo": "Street fighter de ps4 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "00:08",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodborne-ps4-ps5-1499315132",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/street-fighter-de-ps4-1499314932",
+    "fotoUrl": "https://img.olx.com.br/images/62/627636284866962.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/627636284866962.jpg",
+      "https://img.olx.com.br/images/63/634606167589254.jpg",
+      "https://img.olx.com.br/images/65/652627640897868.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777950527
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:08",
     "fotoUrl": "https://img.olx.com.br/images/20/200683765805883.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/200683765805883.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/22/229678401577939.jpg",
       "https://img.olx.com.br/images/24/246689881008375.jpg"
     ],
-    "defeito": false,
+    "id": "1499315132",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodborne-ps4-ps5-1499315132",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "Bloodborne - PS4/PS5 ",
     "ts": 1777950519
   },
   {
@@ -9779,28 +9799,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Overwatch",
     "ts": 1777918193
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:09",
-    "fotoUrl": "https://img.olx.com.br/images/77/771684888892862.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/771684888892862.jpg",
-      "https://img.olx.com.br/images/78/782676528705977.jpg",
-      "https://img.olx.com.br/images/79/797635521446740.jpg",
-      "https://img.olx.com.br/images/80/803695284052898.jpg",
-      "https://img.olx.com.br/images/82/828630883562137.jpg",
-      "https://img.olx.com.br/images/83/830664400026916.jpg"
-    ],
-    "id": "1499172612",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-ps5-1499172612",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Jogos de PS4/PS5",
-    "ts": 1777918183
   }
 ]
