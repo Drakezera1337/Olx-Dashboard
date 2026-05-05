@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499285562",
-    "titulo": "Playstation 4",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "ps4",
+    "id": "1499301136",
+    "titulo": "Lote jogos ps4/ps5 (8 jogos ao todo)",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "22:41",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "22:47",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/playstation-4-1499285562",
+    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/jogos-de-video-game/lote-jogos-ps4-ps5-8-jogos-ao-todo-1499301136",
+    "fotoUrl": "https://img.olx.com.br/images/58/589658049298889.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/589658049298889.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777945627
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:41",
     "fotoUrl": "https://img.olx.com.br/images/12/129651761754401.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/129651761754401.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/17/179672761404459.jpg",
       "https://img.olx.com.br/images/19/199692282544950.jpg"
     ],
-    "defeito": false,
+    "id": "1499285562",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/playstation-4-1499285562",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Playstation 4",
     "ts": 1777945278
   },
   {
@@ -9788,25 +9806,5 @@
     "tempoOlx": "Na OLX desde setembro de 2020",
     "titulo": "GTA 5 PS4 (Seminovo) ",
     "ts": 1777909116
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:37",
-    "fotoUrl": "https://img.olx.com.br/images/97/974687273026388.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/974687273026388.jpg",
-      "https://img.olx.com.br/images/98/983697635689943.jpg",
-      "https://img.olx.com.br/images/99/996684635423992.jpg"
-    ],
-    "id": "1498236356",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps5-usado-pouca-vez-nota-fiscal-e-garantia-pego-ps4-xbox-series-cartao-ate-18-com-juros-1498236356",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Ps5 usado pouca vez nota fiscal e garantia pego ps4/Xbox séries  cartão até 18× com juros ",
-    "ts": 1777909027
   }
 ]
