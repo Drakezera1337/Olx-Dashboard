@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499592237",
-    "titulo": "Jogos ps4-ps5",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps5",
+    "id": "1499591985",
+    "titulo": "Sniper Elite 3",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:35",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-ps4-ps5-1499592237",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/sniper-elite-3-1499591985",
+    "fotoUrl": "https://img.olx.com.br/images/89/899618883486550.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/899618883486550.jpg",
+      "https://img.olx.com.br/images/90/908620640555220.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778020514
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:35",
     "fotoUrl": "https://img.olx.com.br/images/87/872677288614043.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/872677288614043.jpg",
       "https://img.olx.com.br/images/92/924669882852896.jpg"
     ],
-    "defeito": false,
+    "id": "1499592237",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-ps4-ps5-1499592237",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Jogos ps4-ps5",
     "ts": 1778020507
   },
   {
@@ -9750,24 +9769,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "The Witcher 3 PS4.",
     "ts": 1777983958
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/48/485645392583137.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/485645392583137.jpg",
-      "https://img.olx.com.br/images/50/503697035701899.jpg"
-    ],
-    "id": "1491157555",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/minecraft-midia-fisica-ps4-ps5-1491157555",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Minecraft mídia física ps4 ps5",
-    "ts": 1777983948
   }
 ]
