@@ -1,15 +1,32 @@
 [
   {
-    "id": "1499578814",
-    "titulo": "Ps5",
-    "preco": 2050,
-    "precoRaw": "R$ 2.050",
-    "categoria": "ps5",
+    "id": "1499579160",
+    "titulo": "PS3 slim 2001A - CFW - Defeito HDMI e Aquecimento",
+    "preco": 349,
+    "precoRaw": "R$ 349",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "18:35",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "detectado": "18:36",
+    "tempoOlx": "Na OLX desde novembro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps5-1499578814",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-slim-2001a-cfw-defeito-hdmi-e-aquecimento-1499579160",
+    "fotoUrl": "https://img.olx.com.br/images/84/841699409776175.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/841699409776175.jpg",
+      "https://img.olx.com.br/images/84/841673526931360.jpg",
+      "https://img.olx.com.br/images/84/845695409425635.jpg",
+      "https://img.olx.com.br/images/83/830628282176199.jpg",
+      "https://img.olx.com.br/images/84/842608523944387.jpg",
+      "https://img.olx.com.br/images/83/839694283515350.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778016966
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:35",
     "fotoUrl": "https://img.olx.com.br/images/50/500693284563267.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/500693284563267.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/57/575663528109456.jpg",
       "https://img.olx.com.br/images/59/592655761211156.jpg"
     ],
-    "defeito": false,
+    "id": "1499578814",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps5-1499578814",
+    "preco": 2050,
+    "precoRaw": "R$ 2.050",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Ps5",
     "ts": 1778016906
   },
   {
@@ -9729,24 +9752,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "Bloodborne Playstation 4 completo ",
     "ts": 1777953397
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:51",
-    "fotoUrl": "https://img.olx.com.br/images/86/864685643652987.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/864685643652987.jpg",
-      "https://img.olx.com.br/images/87/875670526012382.jpg"
-    ],
-    "id": "1499319657",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/mortal-kombat-11-playstation-4-completo-1499319657",
-    "preco": 95,
-    "precoRaw": "R$ 95",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Mortal Kombat 11 Playstation 4 completo ",
-    "ts": 1777953063
   }
 ]
