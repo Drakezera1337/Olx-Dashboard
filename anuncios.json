@@ -1,21 +1,42 @@
 [
   {
-    "id": "1499530074",
-    "titulo": "playstation 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1499542449",
+    "titulo": "iPhone 11 64GB",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "16:56",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-1499530074",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-1499542449",
+    "fotoUrl": "https://img.olx.com.br/images/24/245657401874716.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/245657401874716.jpg",
+      "https://img.olx.com.br/images/25/254687649936461.jpg",
+      "https://img.olx.com.br/images/27/274696644050852.jpg",
+      "https://img.olx.com.br/images/28/289611766107914.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778011016
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:56",
     "fotoUrl": "https://img.olx.com.br/images/11/116652282331663.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/116652282331663.jpg",
       "https://img.olx.com.br/images/44/445662407726791.jpg"
     ],
-    "defeito": false,
+    "id": "1499530074",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-1499530074",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "playstation 5",
     "ts": 1778011012
   },
   {
@@ -9756,28 +9777,5 @@
     "tempoOlx": "Na OLX desde março de 2020",
     "titulo": "Vende se PS4 seminovo em perfeitas condições ",
     "ts": 1777939867
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:07",
-    "fotoUrl": "https://img.olx.com.br/images/68/680681040460823.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/680681040460823.jpg",
-      "https://img.olx.com.br/images/80/804694041729461.jpg",
-      "https://img.olx.com.br/images/80/800618529782229.jpg",
-      "https://img.olx.com.br/images/88/884630164947927.jpg",
-      "https://img.olx.com.br/images/19/195651284242449.jpg",
-      "https://img.olx.com.br/images/37/371634884688438.jpg"
-    ],
-    "id": "1499274619",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogo-ps4-final-fantasy-vii-e-xv-until-dawn-resident-evil-3-injustice-2-helldivers-1499274619",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2014",
-    "titulo": "Jogo PS4 - Final Fantasy VII e XV / Until dawn / Resident Evil 3 / Injustice 2/ Helldivers",
-    "ts": 1777939654
   }
 ]
