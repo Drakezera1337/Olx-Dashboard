@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499542449",
-    "titulo": "iPhone 11 64GB",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1499511694",
+    "titulo": "Playstation 4 fat 1 terá confira ",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:56",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "16:57",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-1499542449",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-4-fat-1-tera-confira-1499511694",
+    "fotoUrl": "https://img.olx.com.br/images/77/777674643127545.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/777674643127545.jpg",
+      "https://img.olx.com.br/images/78/788619403825850.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778011022
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:56",
     "fotoUrl": "https://img.olx.com.br/images/24/245657401874716.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/245657401874716.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/27/274696644050852.jpg",
       "https://img.olx.com.br/images/28/289611766107914.jpg"
     ],
-    "defeito": false,
+    "id": "1499542449",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-1499542449",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "iPhone 11 64GB",
     "ts": 1778011016
   },
   {
@@ -9754,28 +9773,5 @@
     "tempoOlx": "Na OLX desde maio de 2019",
     "titulo": "Vendo jogos de Ps4 .",
     "ts": 1777939957
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:11",
-    "fotoUrl": "https://img.olx.com.br/images/36/360699767103946.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/360699767103946.jpg",
-      "https://img.olx.com.br/images/38/384636400108734.jpg",
-      "https://img.olx.com.br/images/42/428683280764658.jpg",
-      "https://img.olx.com.br/images/44/448601887152836.jpg",
-      "https://img.olx.com.br/images/46/467646764392950.jpg",
-      "https://img.olx.com.br/images/47/473636765595769.jpg"
-    ],
-    "id": "1499276722",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vende-se-ps4-seminovo-em-perfeitas-condicoes-1499276722",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2020",
-    "titulo": "Vende se PS4 seminovo em perfeitas condições ",
-    "ts": 1777939867
   }
 ]
