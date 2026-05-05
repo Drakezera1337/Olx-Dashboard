@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499511199",
-    "titulo": "PSVita",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1477840227",
+    "titulo": "Watch Dogs Legion",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "outros",
     "publicado": "",
     "detectado": "14:46",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "tempoOlx": "Na OLX desde março de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/psvita-1499511199",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/watch-dogs-legion-1477840227",
+    "fotoUrl": "https://img.olx.com.br/images/16/167681739597255.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/167681739597255.jpg",
+      "https://img.olx.com.br/images/16/162615739164179.jpg",
+      "https://img.olx.com.br/images/16/164635376841094.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778003197
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:46",
     "fotoUrl": "https://img.olx.com.br/images/51/516602642119028.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/516602642119028.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/53/539686043077347.jpg",
       "https://img.olx.com.br/images/54/545653888412920.jpg"
     ],
-    "defeito": false,
+    "id": "1499511199",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/psvita-1499511199",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "PSVita",
     "ts": 1778003168
   },
   {
@@ -9776,24 +9796,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "titulo": "The Idolmaster PS4 Japones",
     "ts": 1777938247
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:42",
-    "fotoUrl": "https://img.olx.com.br/images/40/403625872486515.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/403625872486515.jpg",
-      "https://img.olx.com.br/images/42/422625396593955.jpg"
-    ],
-    "id": "1491032057",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-500gb-desbloqueado-com-um-controle-original-1491032057",
-    "preco": 1699,
-    "precoRaw": "R$ 1.699",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
-    "titulo": "PlayStation 4 500gb desbloqueado com um controle original",
-    "ts": 1777938127
   }
 ]
