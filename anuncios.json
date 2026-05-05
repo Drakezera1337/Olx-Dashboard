@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499314604",
-    "titulo": "Dark Souls 3 - PS4/PS5 ",
-    "preco": 149,
-    "precoRaw": "R$ 149",
+    "id": "1499314149",
+    "titulo": "Dark Souls 2 - PS4/PS5",
+    "preco": 139,
+    "precoRaw": "R$ 139",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "00:09",
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-3-ps4-ps5-1499314604",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-2-ps4-ps5-1499314149",
+    "fotoUrl": "https://img.olx.com.br/images/80/801626884503177.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/801626884503177.jpg",
+      "https://img.olx.com.br/images/81/816632761151138.jpg",
+      "https://img.olx.com.br/images/62/622601284121013.jpg",
+      "https://img.olx.com.br/images/64/647634405341155.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777950554
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:09",
     "fotoUrl": "https://img.olx.com.br/images/38/387673640625318.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/387673640625318.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/41/410635883133992.jpg",
       "https://img.olx.com.br/images/43/435605644542229.jpg"
     ],
-    "defeito": false,
+    "id": "1499314604",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-3-ps4-ps5-1499314604",
+    "preco": 149,
+    "precoRaw": "R$ 149",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "Dark Souls 3 - PS4/PS5 ",
     "ts": 1777950545
   },
   {
@@ -9780,23 +9801,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "FIFA 19 (PS4)",
     "ts": 1777918227
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:10",
-    "fotoUrl": "https://img.olx.com.br/images/68/683503661416027.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/683503661416027.jpg"
-    ],
-    "id": "1422687496",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/diversos-jogos-de-ps4-1422687496",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2022",
-    "titulo": "Diversos Jogos de PS4",
-    "ts": 1777918212
   }
 ]
