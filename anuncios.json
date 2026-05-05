@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499584979",
-    "titulo": "Mortal Kombat x",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1499584430",
+    "titulo": "Battlefront",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:00",
     "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/mortal-kombat-x-1499584979",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/battlefront-1499584430",
+    "fotoUrl": "https://img.olx.com.br/images/49/499607281962345.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/499607281962345.jpg",
+      "https://img.olx.com.br/images/50/502656640110334.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778018414
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:00",
     "fotoUrl": "https://img.olx.com.br/images/26/261601408438491.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/261601408438491.jpg",
       "https://img.olx.com.br/images/27/271614761323354.jpg"
     ],
-    "defeito": false,
+    "id": "1499584979",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/mortal-kombat-x-1499584979",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Mortal Kombat x",
     "ts": 1778018406
   },
   {
@@ -9743,26 +9762,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Controle de ps5 e jogos ",
     "ts": 1777983625
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:32",
-    "fotoUrl": "https://img.olx.com.br/images/35/353680881800277.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/353680881800277.jpg",
-      "https://img.olx.com.br/images/37/373688644334387.jpg",
-      "https://img.olx.com.br/images/38/383695169779300.jpg",
-      "https://img.olx.com.br/images/40/408659048959241.jpg"
-    ],
-    "id": "1498826012",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/death-stranding-ps4-1498826012",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "Death Stranding PS4",
-    "ts": 1777955550
   }
 ]
