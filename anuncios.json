@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499525608",
-    "titulo": "God Of War 2018",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1499525233",
+    "titulo": "Jogo Ps4 - God of War",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:05",
-    "tempoOlx": "Na OLX desde outubro de 2013",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/god-of-war-2018-1499525608",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogo-ps4-god-of-war-1499525233",
+    "fotoUrl": "https://img.olx.com.br/images/90/903695526905320.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/903695526905320.jpg",
+      "https://img.olx.com.br/images/93/937608647742575.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778011522
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:05",
     "fotoUrl": "https://img.olx.com.br/images/54/544683644286857.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/544683644286857.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/54/540651520864266.jpg",
       "https://img.olx.com.br/images/54/541637762751576.jpg"
     ],
-    "defeito": false,
+    "id": "1499525608",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/god-of-war-2018-1499525608",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2013",
+    "titulo": "God Of War 2018",
     "ts": 1778011512
   },
   {
@@ -9769,24 +9788,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2023",
     "titulo": "Jogo PS4 - PES 2019",
     "ts": 1777944464
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:27",
-    "fotoUrl": "https://img.olx.com.br/images/36/360616281584887.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/360616281584887.jpg",
-      "https://img.olx.com.br/images/35/355637288039030.jpg"
-    ],
-    "id": "1499298057",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/gravity-rush-2-ps4-lacrado-1499298057",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Gravity Rush 2 PS4 Lacrado",
-    "ts": 1777944457
   }
 ]
