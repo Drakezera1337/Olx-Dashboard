@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499470277",
-    "titulo": "Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1499467014",
+    "titulo": "Xbox séries s 512gb",
+    "preco": 1490,
+    "precoRaw": "R$ 1.490",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "13:04",
-    "tempoOlx": "Na OLX desde outubro de 2025",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/xbox-series-s-1499470277",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-1499467014",
+    "fotoUrl": "https://img.olx.com.br/images/65/655646284602511.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/655646284602511.jpg",
+      "https://img.olx.com.br/images/65/652683406999426.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997096
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:04",
     "fotoUrl": "https://img.olx.com.br/images/90/904616522727246.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/904616522727246.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/91/913607408595329.jpg",
       "https://img.olx.com.br/images/92/928642646125616.jpg"
     ],
-    "defeito": false,
+    "id": "1499470277",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/xbox-series-s-1499470277",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2025",
+    "titulo": "Xbox Series S",
     "ts": 1777997088
   },
   {
@@ -9746,25 +9765,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "Thief",
     "ts": 1777927583
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:46",
-    "fotoUrl": "https://img.olx.com.br/images/73/732607612662364.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/732607612662364.jpg",
-      "https://img.olx.com.br/images/75/754681731371111.jpg",
-      "https://img.olx.com.br/images/76/761621253678984.jpg"
-    ],
-    "id": "1477997201",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-para-ps4-1477997201",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
-    "titulo": "Jogo para ps4 ",
-    "ts": 1777927574
   }
 ]
