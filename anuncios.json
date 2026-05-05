@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499296876",
-    "titulo": "Jogos de ps4 (valores na descrição)",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1499296794",
+    "titulo": "Jogo PS4 - Shadow of Tomb Raider",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "22:21",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogos-de-ps4-valores-na-descricao-1499296876",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-shadow-of-tomb-raider-1499296794",
+    "fotoUrl": "https://img.olx.com.br/images/59/596639646463952.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/596639646463952.jpg",
+      "https://img.olx.com.br/images/60/605664162294030.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777944115
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:21",
     "fotoUrl": "https://img.olx.com.br/images/65/653633526605518.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/653633526605518.jpg"
     ],
-    "defeito": false,
+    "id": "1499296876",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogos-de-ps4-valores-na-descricao-1499296876",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Jogos de ps4 (valores na descrição)",
     "ts": 1777944107
   },
   {
@@ -9803,25 +9822,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Horizon Zero Down",
     "ts": 1777907618
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:12",
-    "fotoUrl": "https://img.olx.com.br/images/15/156645401566402.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/156645401566402.jpg",
-      "https://img.olx.com.br/images/18/187667285165376.jpg",
-      "https://img.olx.com.br/images/19/196652764163418.jpg"
-    ],
-    "id": "1499121687",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-digital-1tb-1499121687",
-    "preco": 3099,
-    "precoRaw": "R$ 3.099",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Ps5 Slim Digital 1TB",
-    "ts": 1777907572
   }
 ]
