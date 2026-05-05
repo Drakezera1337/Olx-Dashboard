@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499316293",
-    "titulo": "playstation 4 + 2 controles",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1499316284",
+    "titulo": "god of war ps3",
+    "preco": 59,
+    "precoRaw": "R$ 59",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "00:17",
-    "tempoOlx": "Na OLX desde abril de 2019",
+    "detectado": "00:20",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-2-controles-1499316293",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-ps3-1499316284",
+    "fotoUrl": "https://img.olx.com.br/images/83/837679409144205.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/837679409144205.jpg",
+      "https://img.olx.com.br/images/85/856647646493312.jpg",
+      "https://img.olx.com.br/images/86/860638641149977.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777951238
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:17",
     "fotoUrl": "https://img.olx.com.br/images/95/952655760093292.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/952655760093292.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/98/989690160782027.jpg",
       "https://img.olx.com.br/images/10/101679162875315.jpg"
     ],
-    "defeito": false,
+    "id": "1499316293",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-2-controles-1499316293",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "playstation 4 + 2 controles",
     "ts": 1777951061
   },
   {
@@ -9782,23 +9802,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Injustice 2 (PS4)",
     "ts": 1777918282
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:11",
-    "fotoUrl": "https://img.olx.com.br/images/36/366624255701911.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/366624255701911.jpg"
-    ],
-    "id": "1479868847",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/medievil-novo-lacrado-1479868847",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "MEDIEVIL NOVO LACRADO ",
-    "ts": 1777918272
   }
 ]
