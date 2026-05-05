@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499583941",
-    "titulo": "PlayStation 4 com jogo ",
-    "preco": 970,
-    "precoRaw": "R$ 970",
+    "id": "1499448166",
+    "titulo": "ps4 slim 1tb + 4jogos",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:55",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "18:56",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-jogo-1499583941",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/ps4-slim-1tb-4jogos-1499448166",
+    "fotoUrl": "https://img.olx.com.br/images/32/328623761975812.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/328623761975812.jpg",
+      "https://img.olx.com.br/images/34/348673045881940.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778018197
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:55",
     "fotoUrl": "https://img.olx.com.br/images/34/344662521057058.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/344662521057058.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/41/410689644874888.jpg",
       "https://img.olx.com.br/images/43/432693166361713.jpg"
     ],
-    "defeito": false,
+    "id": "1499583941",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-jogo-1499583941",
+    "preco": 970,
+    "precoRaw": "R$ 970",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "PlayStation 4 com jogo ",
     "ts": 1778018137
   },
   {
@@ -9744,23 +9763,5 @@
     "tempoOlx": "Na OLX desde agosto de 2016",
     "titulo": "PS3",
     "ts": 1777955542
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:32",
-    "fotoUrl": "https://img.olx.com.br/images/39/391644767078221.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/391644767078221.jpg"
-    ],
-    "id": "1498873678",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/red-dead-redemption-ii-ps4-1498873678",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "Red Dead Redemption II - PS4",
-    "ts": 1777955534
   }
 ]
