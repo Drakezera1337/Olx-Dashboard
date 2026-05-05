@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499571873",
-    "titulo": "Ps4 Slim 500 GB + 3 Jogos",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1499572263",
+    "titulo": "Cyberpunk 2077 PS4",
+    "preco": 180,
+    "precoRaw": "R$ 180",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:06",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "18:07",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/ps4-slim-500-gb-3-jogos-1499571873",
+    "link": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/cyberpunk-2077-ps4-1499572263",
+    "fotoUrl": "https://img.olx.com.br/images/98/985692886758975.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/985692886758975.jpg",
+      "https://img.olx.com.br/images/99/991699041510258.jpg",
+      "https://img.olx.com.br/images/10/102618164810628.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778015256
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:06",
     "fotoUrl": "https://img.olx.com.br/images/34/344649760914649.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/344649760914649.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/37/373625288970250.jpg",
       "https://img.olx.com.br/images/39/396680280645800.jpg"
     ],
-    "defeito": false,
+    "id": "1499571873",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/ps4-slim-500-gb-3-jogos-1499571873",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Ps4 Slim 500 GB + 3 Jogos",
     "ts": 1778015191
   },
   {
@@ -9723,26 +9743,5 @@
     "tempoOlx": "Na OLX desde julho de 2019",
     "titulo": "Jogos de ps4",
     "ts": 1777950175
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:02",
-    "fotoUrl": "https://img.olx.com.br/images/22/221681040984973.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/221681040984973.jpg",
-      "https://img.olx.com.br/images/24/249613522094428.jpg",
-      "https://img.olx.com.br/images/25/251626525919865.jpg",
-      "https://img.olx.com.br/images/26/269613642940467.jpg"
-    ],
-    "id": "1499313436",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-remastered-ps4-ps5-1499313436",
-    "preco": 129,
-    "precoRaw": "R$ 129",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Dark Souls Remastered - PS4/PS5",
-    "ts": 1777950166
   }
 ]
