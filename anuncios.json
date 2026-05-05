@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499588475",
-    "titulo": "Minecraft",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1499588297",
+    "titulo": "Just Dance 2018 + Just Dance 2019 (mídia física) - PlayStation",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:18",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde maio de 2021",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/minecraft-1499588475",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/just-dance-2018-just-dance-2019-midia-fisica-playstation-1499588297",
+    "fotoUrl": "https://img.olx.com.br/images/16/168675288055904.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/168675288055904.jpg",
+      "https://img.olx.com.br/images/16/162637649366898.jpg",
+      "https://img.olx.com.br/images/16/160651528072587.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778019499
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:18",
     "fotoUrl": "https://img.olx.com.br/images/66/666617649250118.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/666617649250118.jpg",
       "https://img.olx.com.br/images/67/676664525659431.jpg"
     ],
-    "defeito": false,
+    "id": "1499588475",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/minecraft-1499588475",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Minecraft",
     "ts": 1778019489
   },
   {
@@ -9748,24 +9768,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Batman: Arkham Asylum - Game of the Year Edition - Ps3",
     "ts": 1777983747
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/39/399566341588513.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/399566341588513.jpg",
-      "https://img.olx.com.br/images/41/414560342094953.jpg"
-    ],
-    "id": "1422319520",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/watch-dogs-ps3-1422319520",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Watch Dogs - Ps3",
-    "ts": 1777983738
   }
 ]
