@@ -1,15 +1,32 @@
 [
   {
-    "id": "1499308576",
-    "titulo": "PS5 mídia digital na caixa",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1499604791",
+    "titulo": "Ps4 Slim 1TB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:33",
-    "tempoOlx": "Na OLX desde agosto de 2014",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-midia-digital-na-caixa-1499308576",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-1499604791",
+    "fotoUrl": "https://img.olx.com.br/images/74/743620520313955.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/743620520313955.jpg",
+      "https://img.olx.com.br/images/76/766669760390453.jpg",
+      "https://img.olx.com.br/images/78/786615166852633.jpg",
+      "https://img.olx.com.br/images/80/803655048997586.jpg",
+      "https://img.olx.com.br/images/82/821698888486393.jpg",
+      "https://img.olx.com.br/images/83/832613280610599.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778023997
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:33",
     "fotoUrl": "https://img.olx.com.br/images/79/795681048148999.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/795681048148999.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/85/856690764947306.jpg",
       "https://img.olx.com.br/images/88/888653763512777.jpg"
     ],
-    "defeito": false,
+    "id": "1499308576",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-midia-digital-na-caixa-1499308576",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2014",
+    "titulo": "PS5 mídia digital na caixa",
     "ts": 1778023988
   },
   {
@@ -9780,24 +9803,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Vídeo game antigo ",
     "ts": 1777984346
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:32",
-    "fotoUrl": "https://img.olx.com.br/images/53/530607761437147.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/530607761437147.jpg",
-      "https://img.olx.com.br/images/54/547698400711488.jpg"
-    ],
-    "id": "1499413026",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/vendo-xbox-serie-s-em-excelente-estado-1499413026",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Vendo Xbox série s em excelente estado",
-    "ts": 1777984335
   }
 ]
