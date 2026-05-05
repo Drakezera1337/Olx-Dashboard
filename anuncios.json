@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499543785",
-    "titulo": "Games ",
-    "preco": 190,
-    "precoRaw": "R$ 190",
-    "categoria": "outros",
+    "id": "1499543576",
+    "titulo": "God of War Ragnarok (Lacrado)",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "17:00",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "detectado": "17:01",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/games-1499543785",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/god-of-war-ragnarok-lacrado-1499543576",
+    "fotoUrl": "https://img.olx.com.br/images/62/624603401349374.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/624603401349374.jpg",
+      "https://img.olx.com.br/images/63/635679643216725.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778011260
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:00",
     "fotoUrl": "https://img.olx.com.br/images/51/517607283561189.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/517607283561189.jpg"
     ],
-    "defeito": false,
+    "id": "1499543785",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/games-1499543785",
+    "preco": 190,
+    "precoRaw": "R$ 190",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Games ",
     "ts": 1778011251
   },
   {
@@ -9761,23 +9780,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogo Injustice 2 - PS4 (Mídia Física) ",
     "ts": 1777942089
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:48",
-    "fotoUrl": "https://img.olx.com.br/images/63/631670760427729.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/631670760427729.jpg"
-    ],
-    "id": "1499286875",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogos-de-ps4-novinhos-1499286875",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "Jogos de ps4 novinhos",
-    "ts": 1777942081
   }
 ]
