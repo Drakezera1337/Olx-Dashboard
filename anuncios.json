@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499509246",
-    "titulo": "GTA 5",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1499514710",
+    "titulo": "Mortal Kombat 11",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "14:48",
+    "detectado": "14:53",
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/gta-5-1499509246",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/mortal-kombat-11-1499514710",
+    "fotoUrl": "https://img.olx.com.br/images/36/369644647556071.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/369644647556071.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778003587
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:48",
     "fotoUrl": "https://img.olx.com.br/images/48/489647881150191.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/489647881150191.jpg"
     ],
-    "defeito": false,
+    "id": "1499509246",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/gta-5-1499509246",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "titulo": "GTA 5",
     "ts": 1778003284
   },
   {
@@ -9786,23 +9804,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PlayStation 4 Slim 500GB",
     "ts": 1777938764
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:52",
-    "fotoUrl": "https://img.olx.com.br/images/32/322631401372004.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/322631401372004.jpg"
-    ],
-    "id": "1499270542",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/ps4-1499270542",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2022",
-    "titulo": "ps4",
-    "ts": 1777938756
   }
 ]
