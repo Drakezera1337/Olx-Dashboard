@@ -1,22 +1,43 @@
 [
   {
-    "id": "1499572512",
-    "titulo": "PlayStation portal ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "outros",
+    "id": "1499578814",
+    "titulo": "Ps5",
+    "preco": 2050,
+    "precoRaw": "R$ 2.050",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:33",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:35",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-portal-1499572512",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps5-1499578814",
+    "fotoUrl": "https://img.olx.com.br/images/50/500693284563267.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/500693284563267.jpg",
+      "https://img.olx.com.br/images/53/538631047059648.jpg",
+      "https://img.olx.com.br/images/57/575663528109456.jpg",
+      "https://img.olx.com.br/images/59/592655761211156.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778016906
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/48/483695404910615.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/483695404910615.jpg",
       "https://img.olx.com.br/images/49/492693169721084.jpg",
       "https://img.olx.com.br/images/50/506631161213098.jpg"
     ],
-    "defeito": false,
+    "id": "1499572512",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-portal-1499572512",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation portal ",
     "ts": 1778016787
   },
   {
@@ -9727,23 +9748,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "Mortal Kombat 11 Playstation 4 completo ",
     "ts": 1777953063
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:50",
-    "fotoUrl": "https://img.olx.com.br/images/42/426690733536603.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/426690733536603.jpg"
-    ],
-    "id": "1479773284",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/god-of-war-ragnarok-midia-digital-1479773284",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2023",
-    "titulo": "GOD OF WAR RAGNAROK  MIDIA DIGITAL",
-    "ts": 1777953054
   }
 ]
