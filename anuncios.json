@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498673489",
-    "titulo": "XBOX ONE SÉRIE S 1 TERA",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1499486246",
+    "titulo": "PlayStation 4",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:51",
-    "tempoOlx": "Na OLX desde maio de 2025",
+    "detectado": "13:52",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/xbox-one-serie-s-1-tera-1498673489",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-1499486246",
+    "fotoUrl": "https://img.olx.com.br/images/42/429623168313277.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/429623168313277.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777999959
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:51",
     "fotoUrl": "https://img.olx.com.br/images/94/940679649880206.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/940679649880206.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/96/962614047808318.jpg",
       "https://img.olx.com.br/images/97/975631526773156.jpg"
     ],
-    "defeito": false,
+    "id": "1498673489",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/xbox-one-serie-s-1-tera-1498673489",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2025",
+    "titulo": "XBOX ONE SÉRIE S 1 TERA",
     "ts": 1777999873
   },
   {
@@ -9770,28 +9788,5 @@
     "tempoOlx": "Na OLX desde junho de 2024",
     "titulo": "iPhone 13 branco | 85%",
     "ts": 1777935216
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:51",
-    "fotoUrl": "https://img.olx.com.br/images/87/877644162107765.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/877644162107765.jpg",
-      "https://img.olx.com.br/images/87/879619165413798.jpg",
-      "https://img.olx.com.br/images/87/876658646128609.jpg",
-      "https://img.olx.com.br/images/87/875614529697026.jpg",
-      "https://img.olx.com.br/images/87/872601521324154.jpg",
-      "https://img.olx.com.br/images/87/878626406070438.jpg"
-    ],
-    "id": "1499256285",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/ps4-fat-controle-original-2-jogos-gamerpobreoficial-1499256285",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "PS4 Fat + Controle Original + 2 Jogos @gamerpobreoficial",
-    "ts": 1777935105
   }
 ]
