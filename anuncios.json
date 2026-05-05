@@ -1,20 +1,38 @@
 [
   {
-    "id": "1489948603",
-    "titulo": "Fc 26",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "outros",
+    "id": "1499465408",
+    "titulo": "Playstation 4 com defeito ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:02",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/fc-26-1489948603",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-defeito-1499465408",
+    "fotoUrl": "https://img.olx.com.br/images/49/490614768816908.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/490614768816908.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777996962
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:02",
     "fotoUrl": "https://img.olx.com.br/images/37/377684742581764.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/377684742581764.jpg"
     ],
-    "defeito": false,
+    "id": "1489948603",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/fc-26-1489948603",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Fc 26",
     "ts": 1777996955
   },
   {
@@ -9740,23 +9758,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": "JOGOS DE PS4 E PS5",
     "ts": 1777926169
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:22",
-    "fotoUrl": "https://img.olx.com.br/images/10/103650647671253.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/103650647671253.jpg"
-    ],
-    "id": "1499213605",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ghost-recon-breakpoint-ps4-1499213605",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Ghost Recon Breakpoint - PS4",
-    "ts": 1777926163
   }
 ]
