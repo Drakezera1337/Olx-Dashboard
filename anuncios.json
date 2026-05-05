@@ -1,22 +1,42 @@
 [
   {
-    "id": "1489602757",
-    "titulo": "Marvel Spider-Man",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "jogos",
+    "id": "1489603880",
+    "titulo": "Bloodborne Game of the year",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "17:00",
     "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/marvel-spider-man-1489602757",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/bloodborne-game-of-the-year-1489603880",
+    "fotoUrl": "https://img.olx.com.br/images/51/518633500423036.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/518633500423036.jpg",
+      "https://img.olx.com.br/images/53/539694620482039.jpg",
+      "https://img.olx.com.br/images/56/562661506272186.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778011216
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:00",
     "fotoUrl": "https://img.olx.com.br/images/47/475602146184948.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/475602146184948.jpg",
       "https://img.olx.com.br/images/50/501638148790403.jpg",
       "https://img.olx.com.br/images/54/548657262517994.jpg"
     ],
-    "defeito": false,
+    "id": "1489602757",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/marvel-spider-man-1489602757",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Marvel Spider-Man",
     "ts": 1778011207
   },
   {
@@ -9754,27 +9774,5 @@
     "tempoOlx": "Na OLX desde abril de 2022",
     "titulo": "FIFA 16 PS4",
     "ts": 1777941696
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:36",
-    "fotoUrl": "https://img.olx.com.br/images/19/196664888928047.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/196664888928047.jpg",
-      "https://img.olx.com.br/images/20/207672522935998.jpg",
-      "https://img.olx.com.br/images/21/210672520899028.jpg",
-      "https://img.olx.com.br/images/23/230608402861803.jpg",
-      "https://img.olx.com.br/images/24/241614049775645.jpg"
-    ],
-    "id": "1499282825",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1499282825",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2016",
-    "titulo": "Playstation 4",
-    "ts": 1777941409
   }
 ]
