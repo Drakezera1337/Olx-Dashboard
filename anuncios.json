@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499581890",
-    "titulo": "Ps3 super slim NÃO FUNCIONA",
-    "preco": 330,
-    "precoRaw": "R$ 330",
-    "categoria": "ps3",
+    "id": "1404935478",
+    "titulo": "Ghost of tsushima",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "18:51",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "detectado": "18:54",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps3-super-slim-nao-funciona-1499581890",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-1404935478",
+    "fotoUrl": "https://img.olx.com.br/images/48/480587409448382.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/480587409448382.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778018046
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:51",
     "fotoUrl": "https://img.olx.com.br/images/58/588608648816847.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/588608648816847.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/62/625618289382808.jpg",
       "https://img.olx.com.br/images/64/649694285642137.jpg"
     ],
-    "defeito": false,
+    "id": "1499581890",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps3-super-slim-nao-funciona-1499581890",
+    "preco": 330,
+    "precoRaw": "R$ 330",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Ps3 super slim NÃO FUNCIONA",
     "ts": 1778017897
   },
   {
@@ -9740,25 +9758,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Jogo ",
     "ts": 1777955220
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:26",
-    "fotoUrl": "https://img.olx.com.br/images/85/855696522695733.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/855696522695733.jpg",
-      "https://img.olx.com.br/images/87/873675283431663.jpg",
-      "https://img.olx.com.br/images/88/888640642584821.jpg"
-    ],
-    "id": "1498966835",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/ps2-midnight-club-3-original-1498966835",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2015",
-    "titulo": "PS2 Midnight Club 3 original ",
-    "ts": 1777955212
   }
 ]
