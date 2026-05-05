@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499575500",
-    "titulo": "PlayStation 3",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps3",
+    "id": "1499575004",
+    "titulo": "Videogame ",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:16",
     "tempoOlx": "Na OLX desde junho de 2024",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-3-1499575500",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/videogame-1499575004",
+    "fotoUrl": "https://img.olx.com.br/images/39/397687528829082.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/397687528829082.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778015804
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:16",
     "fotoUrl": "https://img.olx.com.br/images/19/197622763823517.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/197622763823517.jpg"
     ],
-    "defeito": false,
+    "id": "1499575500",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-3-1499575500",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2024",
+    "titulo": "PlayStation 3",
     "ts": 1778015796
   },
   {
@@ -9716,23 +9734,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Nioh - PS4/PS5 ",
     "ts": 1777950885
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:14",
-    "fotoUrl": "https://img.olx.com.br/images/44/444611521232234.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/444611521232234.jpg"
-    ],
-    "id": "1499316075",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-video-game-1499316075",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2024",
-    "titulo": "Jogos de vídeo game ",
-    "ts": 1777950877
   }
 ]
