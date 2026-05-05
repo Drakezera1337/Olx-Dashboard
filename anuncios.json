@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499471774",
-    "titulo": "PS4",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1469804172",
+    "titulo": "Jogos PS4",
+    "preco": 220,
+    "precoRaw": "R$ 220",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:07",
-    "tempoOlx": "Na OLX desde agosto de 2024",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-1499471774",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-ps4-1469804172",
+    "fotoUrl": "https://img.olx.com.br/images/62/624697129539187.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/624697129539187.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997259
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:07",
     "fotoUrl": "https://img.olx.com.br/images/43/436677649390017.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/436677649390017.jpg"
     ],
-    "defeito": false,
+    "id": "1499471774",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-1499471774",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "titulo": "PS4",
     "ts": 1777997248
   },
   {
@@ -9749,23 +9767,5 @@
     "tempoOlx": "Na OLX desde novembro de 2016",
     "titulo": "Jogos ps4 ",
     "ts": 1777929375
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:16",
-    "fotoUrl": "https://img.olx.com.br/images/50/501692282927091.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/501692282927091.jpg"
-    ],
-    "id": "1499213065",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-ww2-ps4-1499213065",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Call of Duty WW2 - PS4",
-    "ts": 1777929367
   }
 ]
