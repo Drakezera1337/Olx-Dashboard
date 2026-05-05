@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499457927",
-    "titulo": "Playstation 4 Slim",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1499451791",
+    "titulo": "PlayStation 4 slim ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:04",
-    "tempoOlx": "Na OLX desde outubro de 2025",
+    "tempoOlx": "Na OLX desde agosto de 2021",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-4-slim-1499457927",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-1499451791",
+    "fotoUrl": "https://img.olx.com.br/images/38/380691283599548.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/380691283599548.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997072
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:04",
     "fotoUrl": "https://img.olx.com.br/images/56/560681161926155.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/560681161926155.jpg",
       "https://img.olx.com.br/images/58/584617882088981.jpg"
     ],
-    "defeito": false,
+    "id": "1499457927",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-4-slim-1499457927",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2025",
+    "titulo": "Playstation 4 Slim",
     "ts": 1777997065
   },
   {
@@ -9742,23 +9760,5 @@
     "tempoOlx": "Na OLX desde outubro de 2018",
     "titulo": "Jogo X box 360",
     "ts": 1777927479
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:41",
-    "fotoUrl": "https://img.olx.com.br/images/51/517612045927919.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/517612045927919.jpg"
-    ],
-    "id": "1499217444",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/console-dualsense-ps5-1499217444",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Console dualsense PS5",
-    "ts": 1777927295
   }
 ]
