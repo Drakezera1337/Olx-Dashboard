@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499459074",
-    "titulo": "PS4 SLIM 1TERA",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1499457927",
+    "titulo": "Playstation 4 Slim",
+    "preco": 950,
+    "precoRaw": "R$ 950",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:04",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde outubro de 2025",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-slim-1tera-1499459074",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-4-slim-1499457927",
+    "fotoUrl": "https://img.olx.com.br/images/56/560681161926155.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/560681161926155.jpg",
+      "https://img.olx.com.br/images/58/584617882088981.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997065
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:04",
     "fotoUrl": "https://img.olx.com.br/images/45/453667047561299.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/453667047561299.jpg",
       "https://img.olx.com.br/images/47/470657763127911.jpg"
     ],
-    "defeito": false,
+    "id": "1499459074",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-slim-1tera-1499459074",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "PS4 SLIM 1TERA",
     "ts": 1777997056
   },
   {
@@ -9741,25 +9760,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Console dualsense PS5",
     "ts": 1777927295
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:41",
-    "fotoUrl": "https://img.olx.com.br/images/65/653610042945783.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/653610042945783.jpg",
-      "https://img.olx.com.br/images/66/667643287702170.jpg",
-      "https://img.olx.com.br/images/67/675695643208868.jpg"
-    ],
-    "id": "1499217998",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-149gb-1499217998",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "Playstation 3 149gb",
-    "ts": 1777927268
   }
 ]
