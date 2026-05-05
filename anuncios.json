@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499573892",
-    "titulo": "Ps5 sim novo ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1499574364",
+    "titulo": "Jogos ps4",
+    "preco": 210,
+    "precoRaw": "R$ 210",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:10",
-    "tempoOlx": "Na OLX desde dezembro de 2013",
+    "detectado": "18:12",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps5-sim-novo-1499573892",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-ps4-1499574364",
+    "fotoUrl": "https://img.olx.com.br/images/77/779667401595868.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/779667401595868.jpg",
+      "https://img.olx.com.br/images/78/788620401020793.jpg",
+      "https://img.olx.com.br/images/80/808688163787804.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778015525
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:10",
     "fotoUrl": "https://img.olx.com.br/images/32/327639767925922.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/327639767925922.jpg"
     ],
-    "defeito": false,
+    "id": "1499573892",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps5-sim-novo-1499573892",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2013",
+    "titulo": "Ps5 sim novo ",
     "ts": 1778015414
   },
   {
@@ -9723,23 +9743,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Dark Souls 3 - PS4/PS5 ",
     "ts": 1777950545
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:08",
-    "fotoUrl": "https://img.olx.com.br/images/82/825698409735340.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/825698409735340.jpg"
-    ],
-    "id": "1499314710",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-r-250-00-tudo-1499314710",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2013",
-    "titulo": "Jogos de PS4 R$250.00 tudo",
-    "ts": 1777950536
   }
 ]
