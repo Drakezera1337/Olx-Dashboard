@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499323300",
-    "titulo": "PS4 Slim 500GB + 2 controles + jogos ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "ps4",
+    "id": "1499323452",
+    "titulo": "Séries S 2 controles ",
+    "preco": 1490,
+    "precoRaw": "R$ 1.490",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "01:14",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "detectado": "01:15",
+    "tempoOlx": "Na OLX desde março de 2020",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/ps4-slim-500gb-2-controles-jogos-1499323300",
+    "link": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/series-s-2-controles-1499323452",
+    "fotoUrl": "https://img.olx.com.br/images/47/473618167143280.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/473618167143280.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777954539
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:14",
     "fotoUrl": "https://img.olx.com.br/images/96/969676405238794.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/969676405238794.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/99/990694529562379.jpg",
       "https://img.olx.com.br/images/10/108621765596677.jpg"
     ],
-    "defeito": false,
+    "id": "1499323300",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/ps4-slim-500gb-2-controles-jogos-1499323300",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "PS4 Slim 500GB + 2 controles + jogos ",
     "ts": 1777954448
   },
   {
@@ -9779,25 +9797,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2020",
     "titulo": "Ps4 Slim 1 TB + 2 Controles originais + GTA V ",
     "ts": 1777918427
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:13",
-    "fotoUrl": "https://img.olx.com.br/images/61/617650880881886.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/617650880881886.jpg",
-      "https://img.olx.com.br/images/63/635638882784026.jpg",
-      "https://img.olx.com.br/images/66/665627166266138.jpg"
-    ],
-    "id": "1499163843",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/battlefield-1-1499163843",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Battlefield 1",
-    "ts": 1777918419
   }
 ]
