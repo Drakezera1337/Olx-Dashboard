@@ -1,22 +1,42 @@
 [
   {
-    "id": "1477824049",
-    "titulo": "Lego Batman 3 Beyond Gothan",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1477833645",
+    "titulo": "Mass Effect Andromeda ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "outros",
     "publicado": "",
     "detectado": "14:54",
     "tempoOlx": "Na OLX desde março de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lego-batman-3-beyond-gothan-1477824049",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/mass-effect-andromeda-1477833645",
+    "fotoUrl": "https://img.olx.com.br/images/60/602662139797999.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/602662139797999.jpg",
+      "https://img.olx.com.br/images/60/600635618460144.jpg",
+      "https://img.olx.com.br/images/60/606655490551930.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778003689
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:54",
     "fotoUrl": "https://img.olx.com.br/images/86/861653136616864.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/861653136616864.jpg",
       "https://img.olx.com.br/images/86/865642011345166.jpg",
       "https://img.olx.com.br/images/86/860628135211208.jpg"
     ],
-    "defeito": false,
+    "id": "1477824049",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lego-batman-3-beyond-gothan-1477824049",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2013",
+    "titulo": "Lego Batman 3 Beyond Gothan",
     "ts": 1778003680
   },
   {
@@ -9767,28 +9787,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Jogos ps4",
     "ts": 1777939269
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:56",
-    "fotoUrl": "https://img.olx.com.br/images/95/955620764138620.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/955620764138620.jpg",
-      "https://img.olx.com.br/images/94/942656042475273.jpg",
-      "https://img.olx.com.br/images/94/949652761029531.jpg",
-      "https://img.olx.com.br/images/12/120685763259715.jpg",
-      "https://img.olx.com.br/images/16/163614169509412.jpg",
-      "https://img.olx.com.br/images/23/232631521106936.jpg"
-    ],
-    "id": "1499271577",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogo-ps4-second-son-sombas-de-mordor-jedi-fallen-order-the-order-the-division-1499271577",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2014",
-    "titulo": "Jogo PS4 - Second son / Sombas de Mordor / Jedi fallen order / The order / The division",
-    "ts": 1777938989
   }
 ]
