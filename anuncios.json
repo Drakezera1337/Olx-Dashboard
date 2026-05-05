@@ -1,20 +1,39 @@
 [
   {
-    "id": "1455688034",
-    "titulo": "Jogos PS4 seminovos",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1455688757",
+    "titulo": "GTA V PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:01",
     "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-seminovos-1455688034",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/gta-v-ps4-1455688757",
+    "fotoUrl": "https://img.olx.com.br/images/15/151578346955808.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/151578346955808.jpg",
+      "https://img.olx.com.br/images/18/186512340760553.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778011286
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:01",
     "fotoUrl": "https://img.olx.com.br/images/59/591679397538803.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/591679397538803.jpg"
     ],
-    "defeito": false,
+    "id": "1455688034",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-seminovos-1455688034",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Jogos PS4 seminovos",
     "ts": 1778011278
   },
   {
@@ -9755,25 +9774,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Nintendo switch lite, V1, V2 e Oled ",
     "ts": 1777942327
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:49",
-    "fotoUrl": "https://img.olx.com.br/images/64/649619769917186.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/649619769917186.jpg",
-      "https://img.olx.com.br/images/66/666608763838822.jpg",
-      "https://img.olx.com.br/images/67/674627404731705.jpg"
-    ],
-    "id": "1499287329",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/xbox-series-s-semi-novo-unico-dono-1499287329",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2021",
-    "titulo": "Xbox series s semi novo único dono ",
-    "ts": 1777942178
   }
 ]
