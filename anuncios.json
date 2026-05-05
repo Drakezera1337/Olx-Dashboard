@@ -1,21 +1,39 @@
 [
   {
-    "id": "1498534828",
-    "titulo": "Jogo ",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "categoria": "outros",
+    "id": "1498874029",
+    "titulo": "The Witcher 3 Complete Edition - PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:27",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "01:32",
+    "tempoOlx": "Na OLX desde outubro de 2017",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-1498534828",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/the-witcher-3-complete-edition-ps4-1498874029",
+    "fotoUrl": "https://img.olx.com.br/images/17/178677280190434.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/178677280190434.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777955528
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:27",
     "fotoUrl": "https://img.olx.com.br/images/65/653601043954131.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/653601043954131.jpg",
       "https://img.olx.com.br/images/67/676666766342785.jpg"
     ],
-    "defeito": false,
+    "id": "1498534828",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-1498534828",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Jogo ",
     "ts": 1777955220
   },
   {
@@ -9758,28 +9776,5 @@
     "tempoOlx": "Na OLX desde novembro de 2023",
     "titulo": "God of War 2018 - PS4",
     "ts": 1777918626
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:16",
-    "fotoUrl": "https://img.olx.com.br/images/24/246661404757086.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/246661404757086.jpg",
-      "https://img.olx.com.br/images/26/266647648952024.jpg",
-      "https://img.olx.com.br/images/27/272685408938968.jpg",
-      "https://img.olx.com.br/images/29/290660288807718.jpg",
-      "https://img.olx.com.br/images/30/300644525828871.jpg",
-      "https://img.olx.com.br/images/32/328617165660870.jpg"
-    ],
-    "id": "1499180955",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-com-ssd-256gb-leia-1499180955",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2025",
-    "titulo": "PS4 com SSD 256GB - Leia",
-    "ts": 1777918618
   }
 ]
