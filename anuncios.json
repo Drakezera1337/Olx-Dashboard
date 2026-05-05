@@ -1,22 +1,42 @@
 [
   {
-    "id": "1477833029",
-    "titulo": "Battlefield V",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "jogos",
+    "id": "1477824049",
+    "titulo": "Lego Batman 3 Beyond Gothan",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "14:54",
     "tempoOlx": "Na OLX desde março de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-v-1477833029",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lego-batman-3-beyond-gothan-1477824049",
+    "fotoUrl": "https://img.olx.com.br/images/86/861653136616864.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/861653136616864.jpg",
+      "https://img.olx.com.br/images/86/865642011345166.jpg",
+      "https://img.olx.com.br/images/86/860628135211208.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778003680
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:54",
     "fotoUrl": "https://img.olx.com.br/images/55/559675133166383.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/559675133166383.jpg",
       "https://img.olx.com.br/images/55/556600495888078.jpg",
       "https://img.olx.com.br/images/55/551616379351883.jpg"
     ],
-    "defeito": false,
+    "id": "1477833029",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-v-1477833029",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2013",
+    "titulo": "Battlefield V",
     "ts": 1778003672
   },
   {
@@ -9770,28 +9790,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "Jogo PS4 - Second son / Sombas de Mordor / Jedi fallen order / The order / The division",
     "ts": 1777938989
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:56",
-    "fotoUrl": "https://img.olx.com.br/images/96/964605529738420.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/964605529738420.jpg",
-      "https://img.olx.com.br/images/99/996673644245971.jpg",
-      "https://img.olx.com.br/images/11/118649041056561.jpg",
-      "https://img.olx.com.br/images/13/134628526491117.jpg",
-      "https://img.olx.com.br/images/15/155637641281896.jpg",
-      "https://img.olx.com.br/images/18/185634761811476.jpg"
-    ],
-    "id": "1499271463",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/fc24-novo-com-nota-fiscal-1499271463",
-    "preco": 280,
-    "precoRaw": "R$ 280",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Fc24 novo com nota fiscal",
-    "ts": 1777938981
   }
 ]
