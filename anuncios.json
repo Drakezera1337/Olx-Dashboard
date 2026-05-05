@@ -1,20 +1,42 @@
 [
   {
-    "id": "1486872206",
-    "titulo": "Fallout 4 - Playstation 4",
-    "preco": 55,
-    "precoRaw": "R$ 55",
+    "id": "1499478159",
+    "titulo": "Jogos ps4",
+    "preco": 250,
+    "precoRaw": "R$ 250",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:22",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "13:23",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/fallout-4-playstation-4-1486872206",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1499478159",
+    "fotoUrl": "https://img.olx.com.br/images/25/259695643491715.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/259695643491715.jpg",
+      "https://img.olx.com.br/images/27/278688402720092.jpg",
+      "https://img.olx.com.br/images/29/295659404358289.jpg",
+      "https://img.olx.com.br/images/31/313617043599098.jpg",
+      "https://img.olx.com.br/images/33/337670040650246.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777998181
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:22",
     "fotoUrl": "https://img.olx.com.br/images/27/278657747000254.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/278657747000254.jpg"
     ],
-    "defeito": false,
+    "id": "1486872206",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/fallout-4-playstation-4-1486872206",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Fallout 4 - Playstation 4",
     "ts": 1777998171
   },
   {
@@ -9770,23 +9792,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "The Elder Scrolls Online",
     "ts": 1777933335
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:22",
-    "fotoUrl": "https://img.olx.com.br/images/29/296695159784139.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/296695159784139.jpg"
-    ],
-    "id": "1490918256",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/street-fighter-v-1490918256",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Street Fighter V",
-    "ts": 1777933327
   }
 ]
