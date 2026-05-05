@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499465408",
-    "titulo": "Playstation 4 com defeito ",
-    "preco": 200,
-    "precoRaw": "R$ 200",
+    "id": "1499465061",
+    "titulo": "PlayStation 4 fat",
+    "preco": 800,
+    "precoRaw": "R$ 800",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:02",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "tempoOlx": "Na OLX desde março de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-defeito-1499465408",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-fat-1499465061",
+    "fotoUrl": "https://img.olx.com.br/images/65/652613043972464.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/652613043972464.jpg",
+      "https://img.olx.com.br/images/67/674653286366288.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777996970
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:02",
     "fotoUrl": "https://img.olx.com.br/images/49/490614768816908.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/490614768816908.jpg"
     ],
-    "defeito": false,
+    "id": "1499465408",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-defeito-1499465408",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "Playstation 4 com defeito ",
     "ts": 1777996962
   },
   {
@@ -9740,23 +9759,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "Battlefield V - PS4",
     "ts": 1777926519
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:22",
-    "fotoUrl": "https://img.olx.com.br/images/94/949610162573993.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/949610162573993.jpg"
-    ],
-    "id": "1499213067",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1499213067",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": "JOGOS DE PS4 E PS5",
-    "ts": 1777926169
   }
 ]
