@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498898762",
-    "titulo": "Jogo PS4 - Batman 3 Lego",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1498899418",
+    "titulo": "Jogo PS4 - Minecraft",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:20",
+    "detectado": "01:21",
     "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-ps4-batman-3-lego-1498898762",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-ps4-minecraft-1498899418",
+    "fotoUrl": "https://img.olx.com.br/images/13/133617284898728.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/133617284898728.jpg",
+      "https://img.olx.com.br/images/16/162610528541860.jpg",
+      "https://img.olx.com.br/images/18/186636168907149.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777954860
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:20",
     "fotoUrl": "https://img.olx.com.br/images/27/278662040823983.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/278662040823983.jpg",
       "https://img.olx.com.br/images/29/299670040122761.jpg",
       "https://img.olx.com.br/images/30/302655400353685.jpg"
     ],
-    "defeito": false,
+    "id": "1498898762",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-ps4-batman-3-lego-1498898762",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Jogo PS4 - Batman 3 Lego",
     "ts": 1777954852
   },
   {
@@ -9771,25 +9791,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Jogos PS4",
     "ts": 1777918504
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:14",
-    "fotoUrl": "https://img.olx.com.br/images/92/928658402149748.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/928658402149748.jpg",
-      "https://img.olx.com.br/images/94/940665767010649.jpg",
-      "https://img.olx.com.br/images/97/972677043550744.jpg"
-    ],
-    "id": "1499162565",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/uncharted-4-ps4-1499162565",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Uncharted 4 (PS4)",
-    "ts": 1777918496
   }
 ]
