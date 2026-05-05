@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499594801",
-    "titulo": "Jogos de PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1499594784",
+    "titulo": "Ps4 slim 1TB ",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:51",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1499594801",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-slim-1tb-1499594784",
+    "fotoUrl": "https://img.olx.com.br/images/14/141642526571647.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/141642526571647.jpg",
+      "https://img.olx.com.br/images/16/165619649749586.jpg",
+      "https://img.olx.com.br/images/18/181612525851893.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778021485
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:51",
     "fotoUrl": "https://img.olx.com.br/images/30/302690400185482.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/302690400185482.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/33/330644642874940.jpg",
       "https://img.olx.com.br/images/35/351662522478431.jpg"
     ],
-    "defeito": false,
+    "id": "1499594801",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1499594801",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Jogos de PS4",
     "ts": 1778021476
   },
   {
@@ -9759,24 +9779,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "Ps4",
     "ts": 1777984108
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:28",
-    "fotoUrl": "https://img.olx.com.br/images/34/344636485300758.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/344636485300758.jpg",
-      "https://img.olx.com.br/images/35/351619723871159.jpg"
-    ],
-    "id": "1473952000",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/death-stranding-ps4-1473952000",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Death Stranding - PS4",
-    "ts": 1777984100
   }
 ]
