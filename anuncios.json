@@ -1,21 +1,42 @@
 [
   {
-    "id": "1499510692",
-    "titulo": "Xbox séries s",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1499511199",
+    "titulo": "PSVita",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "14:45",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "14:46",
+    "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-1499510692",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/psvita-1499511199",
+    "fotoUrl": "https://img.olx.com.br/images/51/516602642119028.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/516602642119028.jpg",
+      "https://img.olx.com.br/images/52/527695280030667.jpg",
+      "https://img.olx.com.br/images/53/539686043077347.jpg",
+      "https://img.olx.com.br/images/54/545653888412920.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778003168
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:45",
     "fotoUrl": "https://img.olx.com.br/images/73/731604648197880.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/731604648197880.jpg",
       "https://img.olx.com.br/images/75/750682405692925.jpg"
     ],
-    "defeito": false,
+    "id": "1499510692",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-1499510692",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox séries s",
     "ts": 1778003108
   },
   {
@@ -9774,26 +9795,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2023",
     "titulo": "PlayStation 4 500gb desbloqueado com um controle original",
     "ts": 1777938127
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:40",
-    "fotoUrl": "https://img.olx.com.br/images/64/647604403646048.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/647604403646048.jpg",
-      "https://img.olx.com.br/images/65/653674404519823.jpg",
-      "https://img.olx.com.br/images/67/678680162326082.jpg",
-      "https://img.olx.com.br/images/68/684605880768792.jpg"
-    ],
-    "id": "1499268379",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-unico-dono-1499268379",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "XBOX SERIES S 512gb Único dono ",
-    "ts": 1777938006
   }
 ]
