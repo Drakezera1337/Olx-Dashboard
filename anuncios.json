@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499595627",
-    "titulo": "PlayStation Portal + Base de carregamento ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1499596505",
+    "titulo": "Xbox Series S (controle com defeito precisando de conserto)",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "19:56",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "detectado": "19:57",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-portal-base-de-carregamento-1499595627",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-controle-com-defeito-precisando-de-conserto-1499596505",
+    "fotoUrl": "https://img.olx.com.br/images/77/775690880182304.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/775690880182304.jpg",
+      "https://img.olx.com.br/images/77/776679648516224.jpg",
+      "https://img.olx.com.br/images/77/774660641045584.jpg",
+      "https://img.olx.com.br/images/78/789640282578611.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778021861
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:56",
     "fotoUrl": "https://img.olx.com.br/images/77/775619409443190.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/775619409443190.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/81/817627408388991.jpg",
       "https://img.olx.com.br/images/82/823695163718038.jpg"
     ],
-    "defeito": false,
+    "id": "1499595627",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-portal-base-de-carregamento-1499595627",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "PlayStation Portal + Base de carregamento ",
     "ts": 1778021801
   },
   {
@@ -9766,23 +9787,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "The Witcher 3 Wild Hunt Complete Edition PS4  (jogo usado - mídia física)",
     "ts": 1777984143
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:28",
-    "fotoUrl": "https://img.olx.com.br/images/42/421534316500309.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/421534316500309.jpg"
-    ],
-    "id": "1432581532",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogo-the-dark-pictures-house-of-ashes-ps4-novo-lacrado-midia-fisica-1432581532",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2018",
-    "titulo": "Jogo The Dark Pictures House of Ashes Ps4 Novo Lacrado Mídia Física",
-    "ts": 1777984133
   }
 ]
