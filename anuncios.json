@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499595027",
-    "titulo": "Ps5 digital ",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1499595005",
+    "titulo": "Ps3 slim",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "19:50",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-digital-1499595027",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-1499595005",
+    "fotoUrl": "https://img.olx.com.br/images/34/344609524255982.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/344609524255982.jpg",
+      "https://img.olx.com.br/images/36/365697401127512.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778021445
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:50",
     "fotoUrl": "https://img.olx.com.br/images/94/943635400519694.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/943635400519694.jpg",
       "https://img.olx.com.br/images/96/965644522464655.jpg"
     ],
-    "defeito": false,
+    "id": "1499595027",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-digital-1499595027",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Ps5 digital ",
     "ts": 1778021437
   },
   {
@@ -9754,23 +9773,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Payday 2 Crimewave Edition PS4  (jogo usado - mídia física)",
     "ts": 1777984081
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:27",
-    "fotoUrl": "https://img.olx.com.br/images/74/744525839029746.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/744525839029746.jpg"
-    ],
-    "id": "1464292371",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/infamous-second-son-ps4-1464292371",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Infamous Second Son - PS4",
-    "ts": 1777984072
   }
 ]
