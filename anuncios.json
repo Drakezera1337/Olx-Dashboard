@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499463955",
-    "titulo": "Jogos de ps4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps4",
+    "id": "1499463865",
+    "titulo": "GTA V Premium Edition",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:09",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1499463955",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/gta-v-premium-edition-1499463865",
+    "fotoUrl": "https://img.olx.com.br/images/96/962601169739924.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/962601169739924.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997368
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:09",
     "fotoUrl": "https://img.olx.com.br/images/94/944608886944983.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/944608886944983.jpg",
       "https://img.olx.com.br/images/96/967622282553303.jpg",
       "https://img.olx.com.br/images/59/593639521193632.jpg"
     ],
-    "defeito": false,
+    "id": "1499463955",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1499463955",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "Jogos de ps4",
     "ts": 1777997359
   },
   {
@@ -9744,24 +9762,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "3 jogos ps4",
     "ts": 1777930120
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/12/120689280622621.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/120689280622621.jpg",
-      "https://img.olx.com.br/images/14/148647760298996.jpg"
-    ],
-    "id": "1499233070",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499233070",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2016",
-    "titulo": "Jogos ps4",
-    "ts": 1777930112
   }
 ]
