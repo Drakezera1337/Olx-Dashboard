@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499486304",
-    "titulo": "PS4 + JOGOS ",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "ps4",
+    "id": "1499486280",
+    "titulo": "Resident Evil 7 PS4/PS5 - Midia Fisica",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "13:52",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-jogos-1499486304",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/resident-evil-7-ps4-ps5-midia-fisica-1499486280",
+    "fotoUrl": "https://img.olx.com.br/images/68/680671649839699.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/680671649839699.jpg",
+      "https://img.olx.com.br/images/68/681646521646831.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777999977
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:52",
     "fotoUrl": "https://img.olx.com.br/images/49/492629880254688.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/492629880254688.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/62/620652282441514.jpg",
       "https://img.olx.com.br/images/72/726620407925565.jpg"
     ],
-    "defeito": false,
+    "id": "1499486304",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-jogos-1499486304",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "PS4 + JOGOS ",
     "ts": 1777999968
   },
   {
@@ -9771,23 +9790,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2014",
     "titulo": "Jogos Ps4 original ",
     "ts": 1777935337
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:54",
-    "fotoUrl": "https://img.olx.com.br/images/51/515641528655857.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/515641528655857.jpg"
-    ],
-    "id": "1499257198",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-128-gb-1499257198",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2018",
-    "titulo": "Nintendo Switch Lite 128 GB ",
-    "ts": 1777935245
   }
 ]
