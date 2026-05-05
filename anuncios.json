@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499575917",
-    "titulo": "Ps5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1499578342",
+    "titulo": "Xbox séries s",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "18:22",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:30",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/ps5-1499575917",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/consoles-de-video-game/xbox-series-s-1499578342",
+    "fotoUrl": "https://img.olx.com.br/images/87/872612647051154.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/872612647051154.jpg",
+      "https://img.olx.com.br/images/88/884628400730902.jpg",
+      "https://img.olx.com.br/images/90/902629164803451.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778016608
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:22",
     "fotoUrl": "https://img.olx.com.br/images/30/300689766274610.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/300689766274610.jpg",
@@ -21,7 +35,13 @@
       "https://img.olx.com.br/images/36/367673163453968.jpg",
       "https://img.olx.com.br/images/36/364651043502900.jpg"
     ],
-    "defeito": false,
+    "id": "1499575917",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/ps5-1499575917",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps5",
     "ts": 1778016128
   },
   {
@@ -9724,24 +9744,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2015",
     "titulo": "Ps4 FAT de 500GB!!",
     "ts": 1777951416
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:20",
-    "fotoUrl": "https://img.olx.com.br/images/84/848685289448180.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/848685289448180.jpg",
-      "https://img.olx.com.br/images/85/857652286066740.jpg"
-    ],
-    "id": "1499316194",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/jogos-de-video-game/battlefield-4-em-perfeitas-condicoes-1499316194",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "battlefield 4 em perfeitas condições",
-    "ts": 1777951246
   }
 ]
