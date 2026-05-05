@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499466712",
-    "titulo": "PSP ",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "outros",
+    "id": "1499442433",
+    "titulo": "Vendo Xbox ",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "13:06",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/psp-1499466712",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-xbox-1499442433",
+    "fotoUrl": "https://img.olx.com.br/images/48/484606646417123.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/484606646417123.jpg",
+      "https://img.olx.com.br/images/50/506660165460284.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997219
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:06",
     "fotoUrl": "https://img.olx.com.br/images/58/585686288505880.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/585686288505880.jpg",
       "https://img.olx.com.br/images/60/608624642745234.jpg"
     ],
-    "defeito": false,
+    "id": "1499466712",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/psp-1499466712",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "PSP ",
     "ts": 1777997210
   },
   {
@@ -9748,23 +9767,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "Ps4 1 TB c/2 controles e 4 jogos",
     "ts": 1777928723
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:05",
-    "fotoUrl": "https://img.olx.com.br/images/33/335660166757141.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/335660166757141.jpg"
-    ],
-    "id": "1499226315",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/the-walking-dead-gravity-rush-2-e-spyro-ps4-1499226315",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "The Walking Dead, Gravity Rush 2 e Spyro (PS4)",
-    "ts": 1777928713
   }
 ]
