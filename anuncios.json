@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499312872",
-    "titulo": "Ps4 não liga mais",
-    "preco": 600,
-    "precoRaw": "R$ 600",
+    "id": "1499313672",
+    "titulo": "Jogos ps4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:59",
-    "tempoOlx": "Na OLX desde outubro de 2021",
+    "detectado": "00:02",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-nao-liga-mais-1499312872",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499313672",
+    "fotoUrl": "https://img.olx.com.br/images/64/648629162836106.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/648629162836106.jpg",
+      "https://img.olx.com.br/images/65/654626404454542.jpg",
+      "https://img.olx.com.br/images/66/667652640220985.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777950157
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:59",
     "fotoUrl": "https://img.olx.com.br/images/62/629684405741977.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/629684405741977.jpg"
     ],
-    "defeito": false,
+    "id": "1499312872",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-nao-liga-mais-1499312872",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "Ps4 não liga mais",
     "ts": 1777949976
   },
   {
@@ -9782,25 +9802,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "LEGO Marvel Super Heroes 2 (PS4)",
     "ts": 1777918148
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:09",
-    "fotoUrl": "https://img.olx.com.br/images/56/561685404155997.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/561685404155997.jpg",
-      "https://img.olx.com.br/images/60/602663408546550.jpg",
-      "https://img.olx.com.br/images/64/642644640053768.jpg"
-    ],
-    "id": "1499174566",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-assassin-s-creed-syndicate-ps4-original-semi-novo-1499174566",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "Jogo Assassin´s Creed - Syndicate Ps4 Original (Semi-Novo)",
-    "ts": 1777918140
   }
 ]
