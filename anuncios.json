@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499578558",
-    "titulo": "Jogos de PS4 e PS5",
-    "preco": 179,
-    "precoRaw": "R$ 179",
-    "categoria": "ps5",
+    "id": "1499578380",
+    "titulo": "Immortals Fenyx Rising - PS4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:37",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1499578558",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/immortals-fenyx-rising-ps4-1499578380",
+    "fotoUrl": "https://img.olx.com.br/images/38/388692881959266.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/388692881959266.jpg",
+      "https://img.olx.com.br/images/39/391625286213447.jpg",
+      "https://img.olx.com.br/images/40/402686888583079.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778017033
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:37",
     "fotoUrl": "https://img.olx.com.br/images/65/657611286543294.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/657611286543294.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/75/758647165311805.jpg",
       "https://img.olx.com.br/images/77/773646283238611.jpg"
     ],
-    "defeito": false,
+    "id": "1499578558",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1499578558",
+    "preco": 179,
+    "precoRaw": "R$ 179",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Jogos de PS4 e PS5",
     "ts": 1778017024
   },
   {
@@ -9741,23 +9761,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Shadow of the Colossus PS4",
     "ts": 1777954837
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:20",
-    "fotoUrl": "https://img.olx.com.br/images/92/924676525213852.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/924676525213852.jpg"
-    ],
-    "id": "1498974063",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-ghost-of-tsushima-1498974063",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2014",
-    "titulo": "Jogo Ghost of tsushima",
-    "ts": 1777954830
   }
 ]
