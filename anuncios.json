@@ -1,20 +1,41 @@
 [
   {
-    "id": "1499008474",
-    "titulo": "PS3",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "ps3",
+    "id": "1498826012",
+    "titulo": "Death Stranding PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "01:32",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps3-1499008474",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/death-stranding-ps4-1498826012",
+    "fotoUrl": "https://img.olx.com.br/images/35/353680881800277.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/353680881800277.jpg",
+      "https://img.olx.com.br/images/37/373688644334387.jpg",
+      "https://img.olx.com.br/images/38/383695169779300.jpg",
+      "https://img.olx.com.br/images/40/408659048959241.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777955550
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:32",
     "fotoUrl": "https://img.olx.com.br/images/91/912626164925723.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/912626164925723.jpg"
     ],
-    "defeito": false,
+    "id": "1499008474",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps3-1499008474",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "PS3",
     "ts": 1777955542
   },
   {
@@ -9754,25 +9775,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "Fallout 4 PS4",
     "ts": 1777918658
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:17",
-    "fotoUrl": "https://img.olx.com.br/images/45/454631272808887.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/454631272808887.jpg",
-      "https://img.olx.com.br/images/47/474669757064985.jpg",
-      "https://img.olx.com.br/images/48/487605513052901.jpg"
-    ],
-    "id": "1487584797",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/mega-man-legacy-collection-ps4-1487584797",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2021",
-    "titulo": "Mega Man Legacy Collection - PS4",
-    "ts": 1777918644
   }
 ]
