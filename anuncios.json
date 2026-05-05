@@ -1,21 +1,43 @@
 [
   {
-    "id": "1499278276",
-    "titulo": "ps4",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps4",
+    "id": "1499278113",
+    "titulo": "Dualsense the last of us",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "21:17",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-1499278276",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/dualsense-the-last-of-us-1499278113",
+    "fotoUrl": "https://img.olx.com.br/images/87/879613406526696.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/879613406526696.jpg",
+      "https://img.olx.com.br/images/88/885676644624865.jpg",
+      "https://img.olx.com.br/images/89/893663041879127.jpg",
+      "https://img.olx.com.br/images/90/904633529603455.jpg",
+      "https://img.olx.com.br/images/91/918634160399192.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777940257
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:17",
     "fotoUrl": "https://img.olx.com.br/images/40/407620045328147.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/407620045328147.jpg",
       "https://img.olx.com.br/images/40/406616762571598.jpg"
     ],
-    "defeito": false,
+    "id": "1499278276",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-1499278276",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "ps4",
     "ts": 1777940228
   },
   {
@@ -9836,23 +9858,5 @@
     "tempoOlx": "Na OLX desde março de 2022",
     "titulo": "Pés 2021",
     "ts": 1777905188
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:28",
-    "fotoUrl": "https://img.olx.com.br/images/66/667699527579971.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/667699527579971.jpg"
-    ],
-    "id": "1499108856",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/red-dead-redemption-ps4-1499108856",
-    "preco": 239,
-    "precoRaw": "R$ 239",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2021",
-    "titulo": "? Red Dead Redemption - PS4 ?",
-    "ts": 1777904937
   }
 ]
