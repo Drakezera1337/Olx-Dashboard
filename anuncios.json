@@ -1,22 +1,42 @@
 [
   {
-    "id": "1499586684",
-    "titulo": "THE LAST OF US 2",
+    "id": "1499586397",
+    "titulo": "RED DEAD REDEMPTION 2",
     "preco": 120,
     "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:10",
     "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/the-last-of-us-2-1499586684",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/red-dead-redemption-2-1499586397",
+    "fotoUrl": "https://img.olx.com.br/images/79/795692528664398.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/795692528664398.jpg",
+      "https://img.olx.com.br/images/83/834658166120442.jpg",
+      "https://img.olx.com.br/images/86/861689289526863.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778019016
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:10",
     "fotoUrl": "https://img.olx.com.br/images/12/122621529253513.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/122621529253513.jpg",
       "https://img.olx.com.br/images/18/189689281755311.jpg",
       "https://img.olx.com.br/images/21/218659405723625.jpg"
     ],
-    "defeito": false,
+    "id": "1499586684",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/the-last-of-us-2-1499586684",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2025",
+    "titulo": "THE LAST OF US 2",
     "ts": 1778019007
   },
   {
@@ -9742,25 +9762,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "Ps4 ",
     "ts": 1777983673
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:21",
-    "fotoUrl": "https://img.olx.com.br/images/27/275678643300881.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/275678643300881.jpg",
-      "https://img.olx.com.br/images/32/328641649424911.jpg",
-      "https://img.olx.com.br/images/33/337600289161409.jpg"
-    ],
-    "id": "1499338461",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-plus-1499338461",
-    "preco": 3300,
-    "precoRaw": "R$ 3.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "iPhone 15 plus ",
-    "ts": 1777983666
   }
 ]
