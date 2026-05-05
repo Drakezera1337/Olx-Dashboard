@@ -1,22 +1,44 @@
 [
   {
-    "id": "1499283779",
-    "titulo": "Call of Duty Modern Warfare Special Edition PS4 (Não contém o Jogo)",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1499282825",
+    "titulo": "Playstation 4",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:36",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/call-of-duty-modern-warfare-special-edition-ps4-nao-contem-o-jogo-1499283779",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1499282825",
+    "fotoUrl": "https://img.olx.com.br/images/19/196664888928047.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/196664888928047.jpg",
+      "https://img.olx.com.br/images/20/207672522935998.jpg",
+      "https://img.olx.com.br/images/21/210672520899028.jpg",
+      "https://img.olx.com.br/images/23/230608402861803.jpg",
+      "https://img.olx.com.br/images/24/241614049775645.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777941409
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:36",
     "fotoUrl": "https://img.olx.com.br/images/89/892676287906812.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/892676287906812.jpg",
       "https://img.olx.com.br/images/91/914667408889670.jpg",
       "https://img.olx.com.br/images/93/938634280531738.jpg"
     ],
-    "defeito": false,
+    "id": "1499283779",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/call-of-duty-modern-warfare-special-edition-ps4-nao-contem-o-jogo-1499283779",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Call of Duty Modern Warfare Special Edition PS4 (Não contém o Jogo)",
     "ts": 1777941399
   },
   {
@@ -9829,26 +9851,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Playstation 600",
     "ts": 1777906238
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:46",
-    "fotoUrl": "https://img.olx.com.br/images/63/631667396790083.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/631667396790083.jpg",
-      "https://img.olx.com.br/images/64/647677151598497.jpg",
-      "https://img.olx.com.br/images/65/651696159721607.jpg",
-      "https://img.olx.com.br/images/66/662638396403792.jpg"
-    ],
-    "id": "1496872177",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/nintendo-switch-lite-1496872177",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "Nintendo switch lite ",
-    "ts": 1777905973
   }
 ]
