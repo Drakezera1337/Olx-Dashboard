@@ -1,20 +1,43 @@
 [
   {
-    "id": "1490952185",
-    "titulo": "Jogo ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1337494394",
+    "titulo": "Ps4 +2 Controles +20 Jogos",
+    "preco": 2499,
+    "precoRaw": "R$ 2.499",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "23:30",
     "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-ps4-1490952185",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-2-controles-20-jogos-1337494394",
+    "fotoUrl": "https://img.olx.com.br/images/47/472418324189682.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/472418324189682.jpg",
+      "https://img.olx.com.br/images/46/466435323354794.jpg",
+      "https://img.olx.com.br/images/47/474430685320824.jpg",
+      "https://img.olx.com.br/images/47/472443805979149.jpg",
+      "https://img.olx.com.br/images/47/471474569966599.jpg",
+      "https://img.olx.com.br/images/15/152543724425910.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777948238
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:30",
     "fotoUrl": "https://img.olx.com.br/images/71/715602156021587.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/715602156021587.jpg"
     ],
-    "defeito": false,
+    "id": "1490952185",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-ps4-1490952185",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Jogo ps4",
     "ts": 1777948228
   },
   {
@@ -9778,24 +9801,5 @@
     "tempoOlx": "Na OLX desde outubro de 2020",
     "titulo": "PlayStation 4",
     "ts": 1777917962
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:05",
-    "fotoUrl": "https://img.olx.com.br/images/97/972660527394026.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/972660527394026.jpg",
-      "https://img.olx.com.br/images/99/996604522042774.jpg"
-    ],
-    "id": "1499163935",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-leia-1499163935",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
-    "titulo": "PS4 Slim 500Gb (Leia)",
-    "ts": 1777917953
   }
 ]
