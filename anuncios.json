@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499282825",
-    "titulo": "Playstation 4",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1499284304",
+    "titulo": "FIFA 16 PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:36",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "21:41",
+    "tempoOlx": "Na OLX desde abril de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1499282825",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/fifa-16-ps4-1499284304",
+    "fotoUrl": "https://img.olx.com.br/images/88/887604281757069.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/887604281757069.jpg",
+      "https://img.olx.com.br/images/89/899621888132513.jpg",
+      "https://img.olx.com.br/images/91/915622766619470.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777941696
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:36",
     "fotoUrl": "https://img.olx.com.br/images/19/196664888928047.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/196664888928047.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/23/230608402861803.jpg",
       "https://img.olx.com.br/images/24/241614049775645.jpg"
     ],
-    "defeito": false,
+    "id": "1499282825",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1499282825",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "Playstation 4",
     "ts": 1777941409
   },
   {
@@ -9830,26 +9850,5 @@
     "tempoOlx": "Na OLX desde junho de 2014",
     "titulo": "Ps4 - 500gb",
     "ts": 1777906247
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:50",
-    "fotoUrl": "https://img.olx.com.br/images/91/919634766848702.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/919634766848702.jpg",
-      "https://img.olx.com.br/images/93/931692160898400.jpg",
-      "https://img.olx.com.br/images/95/959655766861997.jpg",
-      "https://img.olx.com.br/images/96/963602647700709.jpg"
-    ],
-    "id": "1499115657",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-600-1499115657",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Playstation 600",
-    "ts": 1777906238
   }
 ]
