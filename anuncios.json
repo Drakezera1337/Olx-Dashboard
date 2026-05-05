@@ -1,22 +1,42 @@
 [
   {
-    "id": "1499399835",
-    "titulo": "iPhone 14",
-    "preco": 3400,
-    "precoRaw": "R$ 3.400",
-    "categoria": "iphone",
+    "id": "1491115443",
+    "titulo": "Playstation portal  ps5",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "09:20",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1499399835",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-portal-ps5-1491115443",
+    "fotoUrl": "https://img.olx.com.br/images/68/688668157368222.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/688668157368222.jpg",
+      "https://img.olx.com.br/images/69/698680391311099.jpg",
+      "https://img.olx.com.br/images/71/715613157928807.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983647
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:20",
     "fotoUrl": "https://img.olx.com.br/images/45/458663164787146.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/458663164787146.jpg",
       "https://img.olx.com.br/images/46/467638405197604.jpg",
       "https://img.olx.com.br/images/47/471672406439054.jpg"
     ],
-    "defeito": false,
+    "id": "1499399835",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1499399835",
+    "preco": 3400,
+    "precoRaw": "R$ 3.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "iPhone 14",
     "ts": 1777983644
   },
   {
@@ -9759,23 +9779,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "Doom PS4",
     "ts": 1777918707
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:18",
-    "fotoUrl": "https://img.olx.com.br/images/17/178624883015995.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/178624883015995.jpg"
-    ],
-    "id": "1474802654",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps5-ps4-aparti-de-29-90-1474802654",
-    "preco": 249,
-    "precoRaw": "R$ 249",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2021",
-    "titulo": "JOGOS PS5/PS4 aparti de 29,90",
-    "ts": 1777918697
   }
 ]
