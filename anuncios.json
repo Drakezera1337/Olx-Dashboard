@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499467014",
-    "titulo": "Xbox séries s 512gb",
-    "preco": 1490,
-    "precoRaw": "R$ 1.490",
+    "id": "1499425170",
+    "titulo": "XBOX SERIE S",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "13:04",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "13:05",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-1499467014",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-serie-s-1499425170",
+    "fotoUrl": "https://img.olx.com.br/images/55/552639881252709.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/552639881252709.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997108
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:04",
     "fotoUrl": "https://img.olx.com.br/images/65/655646284602511.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/655646284602511.jpg",
       "https://img.olx.com.br/images/65/652683406999426.jpg"
     ],
-    "defeito": false,
+    "id": "1499467014",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-1499467014",
+    "preco": 1490,
+    "precoRaw": "R$ 1.490",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "Xbox séries s 512gb",
     "ts": 1777997096
   },
   {
@@ -9747,23 +9765,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Lote de Jogos de PlayStation 4 (216 Jogos)",
     "ts": 1777927589
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:46",
-    "fotoUrl": "https://img.olx.com.br/images/85/857663524353855.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/857663524353855.jpg"
-    ],
-    "id": "1499222123",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/thief-1499222123",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
-    "titulo": "Thief",
-    "ts": 1777927583
   }
 ]
