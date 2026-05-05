@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499257760",
-    "titulo": "Mundo dos gueimes ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "outros",
+    "id": "1499281854",
+    "titulo": "Fifa 22 PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:27",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "detectado": "21:30",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/mundo-dos-gueimes-1499257760",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/fifa-22-ps4-1499281854",
+    "fotoUrl": "https://img.olx.com.br/images/94/949689281843200.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/949689281843200.jpg",
+      "https://img.olx.com.br/images/94/949673285552790.jpg",
+      "https://img.olx.com.br/images/13/139604646391280.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777941038
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:27",
     "fotoUrl": "https://img.olx.com.br/images/81/812609401757873.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/812609401757873.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/69/693602649851147.jpg",
       "https://img.olx.com.br/images/71/717678767052164.jpg"
     ],
-    "defeito": false,
+    "id": "1499257760",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/mundo-dos-gueimes-1499257760",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "Mundo dos gueimes ",
     "ts": 1777940826
   },
   {
@@ -9834,24 +9854,5 @@
     "tempoOlx": "Na OLX desde agosto de 2018",
     "titulo": "Console PS4 c/ 2controles um original  (ler descrição)",
     "ts": 1777905875
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:42",
-    "fotoUrl": "https://img.olx.com.br/images/50/508695523907926.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/508695523907926.jpg",
-      "https://img.olx.com.br/images/51/517612408533867.jpg"
-    ],
-    "id": "1499112651",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/nintendo-switch-lite-azul-1499112651",
-    "preco": 780,
-    "precoRaw": "R$ 780",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Nintendo Switch Lite Azul",
-    "ts": 1777905726
   }
 ]
