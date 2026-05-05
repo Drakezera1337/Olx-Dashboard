@@ -1,20 +1,41 @@
 [
   {
-    "id": "1499486246",
-    "titulo": "PlayStation 4",
-    "preco": 750,
-    "precoRaw": "R$ 750",
+    "id": "1499486304",
+    "titulo": "PS4 + JOGOS ",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:52",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-1499486246",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-jogos-1499486304",
+    "fotoUrl": "https://img.olx.com.br/images/49/492629880254688.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/492629880254688.jpg",
+      "https://img.olx.com.br/images/55/557649529523974.jpg",
+      "https://img.olx.com.br/images/62/620652282441514.jpg",
+      "https://img.olx.com.br/images/72/726620407925565.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777999968
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:52",
     "fotoUrl": "https://img.olx.com.br/images/42/429623168313277.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/429623168313277.jpg"
     ],
-    "defeito": false,
+    "id": "1499486246",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-1499486246",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 4",
     "ts": 1777999959
   },
   {
@@ -9768,25 +9789,5 @@
     "tempoOlx": "Na OLX desde junho de 2018",
     "titulo": "Nintendo Switch Lite 128 GB ",
     "ts": 1777935245
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:53",
-    "fotoUrl": "https://img.olx.com.br/images/18/181619169056893.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/181619169056893.jpg",
-      "https://img.olx.com.br/images/18/183650520510648.jpg",
-      "https://img.olx.com.br/images/19/191683760170472.jpg"
-    ],
-    "id": "1499257099",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-branco-85-1499257099",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2024",
-    "titulo": "iPhone 13 branco | 85%",
-    "ts": 1777935216
   }
 ]
