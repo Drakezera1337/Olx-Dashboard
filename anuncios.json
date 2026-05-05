@@ -1,7 +1,7 @@
 [
   {
-    "id": "1486870754",
-    "titulo": "The last of us - Playstation 4",
+    "id": "1486873251",
+    "titulo": "InFamous Second Son - Playstation 4",
     "preco": 55,
     "precoRaw": "R$ 55",
     "categoria": "ps4",
@@ -9,12 +9,30 @@
     "detectado": "13:23",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-last-of-us-playstation-4-1486870754",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/infamous-second-son-playstation-4-1486873251",
+    "fotoUrl": "https://img.olx.com.br/images/79/790643026016435.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/790643026016435.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777998235
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:23",
     "fotoUrl": "https://img.olx.com.br/images/82/829630263746102.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/829630263746102.jpg"
     ],
-    "defeito": false,
+    "id": "1486870754",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-last-of-us-playstation-4-1486870754",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "The last of us - Playstation 4",
     "ts": 1777998227
   },
   {
@@ -9778,23 +9796,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2023",
     "titulo": "PlayStation 4",
     "ts": 1777933385
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:22",
-    "fotoUrl": "https://img.olx.com.br/images/59/591661273762818.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/591661273762818.jpg"
-    ],
-    "id": "1490925472",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/doom-1490925472",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Doom",
-    "ts": 1777933376
   }
 ]
