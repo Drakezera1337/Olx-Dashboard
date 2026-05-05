@@ -1,22 +1,41 @@
 [
   {
-    "id": "1499587829",
-    "titulo": "God of War (PS4) - Mídia física - PlayStation",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "ps4",
+    "id": "1499587128",
+    "titulo": "Horizon ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:18",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "detectado": "19:19",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/god-of-war-ps4-midia-fisica-playstation-1499587829",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/horizon-1499587128",
+    "fotoUrl": "https://img.olx.com.br/images/55/559682641989049.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/559682641989049.jpg",
+      "https://img.olx.com.br/images/57/577659646711102.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778019546
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:18",
     "fotoUrl": "https://img.olx.com.br/images/62/623661047379602.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/623661047379602.jpg",
       "https://img.olx.com.br/images/62/625601048808969.jpg",
       "https://img.olx.com.br/images/62/624683889751982.jpg"
     ],
-    "defeito": false,
+    "id": "1499587829",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/god-of-war-ps4-midia-fisica-playstation-1499587829",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "God of War (PS4) - Mídia física - PlayStation",
     "ts": 1778019538
   },
   {
@@ -9748,23 +9767,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "Jogo de ps4 THE DIVISION",
     "ts": 1777983804
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:23",
-    "fotoUrl": "https://img.olx.com.br/images/74/749669647658421.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/749669647658421.jpg"
-    ],
-    "id": "1499410616",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/days-gone-lacrado-1499410616",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Days Gone lacrado ",
-    "ts": 1777983795
   }
 ]
