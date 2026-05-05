@@ -1,22 +1,42 @@
 [
   {
-    "id": "1477826534",
-    "titulo": "Prey",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1499512324",
+    "titulo": "Fifa 2020 PS4",
+    "preco": 79,
+    "precoRaw": "R$ 79",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:54",
-    "tempoOlx": "Na OLX desde março de 2013",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/prey-1477826534",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-2020-ps4-1499512324",
+    "fotoUrl": "https://img.olx.com.br/images/31/314611285542585.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/314611285542585.jpg",
+      "https://img.olx.com.br/images/33/335643407484826.jpg",
+      "https://img.olx.com.br/images/35/354641406163628.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778003652
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:54",
     "fotoUrl": "https://img.olx.com.br/images/87/872639257491953.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/872639257491953.jpg",
       "https://img.olx.com.br/images/87/879626616380675.jpg",
       "https://img.olx.com.br/images/87/871630853224263.jpg"
     ],
-    "defeito": false,
+    "id": "1477826534",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/prey-1477826534",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2013",
+    "titulo": "Prey",
     "ts": 1778003644
   },
   {
@@ -9775,24 +9795,5 @@
     "tempoOlx": "Na OLX desde abril de 2022",
     "titulo": "Playstation 4 slim 1TB ",
     "ts": 1777938965
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:55",
-    "fotoUrl": "https://img.olx.com.br/images/55/559647524445599.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/559647524445599.jpg",
-      "https://img.olx.com.br/images/57/579686407801134.jpg"
-    ],
-    "id": "1499272071",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/blazblue-centralfiction-ps4-1499272071",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Blazblue Centralfiction PS4",
-    "ts": 1777938956
   }
 ]
