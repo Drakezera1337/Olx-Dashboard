@@ -1,20 +1,43 @@
 [
   {
-    "id": "1499570744",
-    "titulo": "Playstation 5 slim ",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "categoria": "ps5",
+    "id": "1499571861",
+    "titulo": "Playstation 3 Slim",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "17:57",
-    "tempoOlx": "Na OLX desde agosto de 2024",
+    "detectado": "18:01",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-5-slim-1499570744",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-3-slim-1499571861",
+    "fotoUrl": "https://img.olx.com.br/images/88/889637400720672.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/889637400720672.jpg",
+      "https://img.olx.com.br/images/92/921668289027739.jpg",
+      "https://img.olx.com.br/images/94/947625522727810.jpg",
+      "https://img.olx.com.br/images/97/972622408749166.jpg",
+      "https://img.olx.com.br/images/99/997644283501430.jpg",
+      "https://img.olx.com.br/images/12/123607404224605.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778014901
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:57",
     "fotoUrl": "https://img.olx.com.br/images/49/496658880147769.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/496658880147769.jpg"
     ],
-    "defeito": false,
+    "id": "1499570744",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-5-slim-1499570744",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "titulo": "Playstation 5 slim ",
     "ts": 1778014626
   },
   {
@@ -9729,26 +9752,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "Uncharted: The Nathan Drake Collection - PS4 - Novo e Lacrado.",
     "ts": 1777949823
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:56",
-    "fotoUrl": "https://img.olx.com.br/images/92/922527302092255.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/922527302092255.jpg",
-      "https://img.olx.com.br/images/93/936586541829733.jpg",
-      "https://img.olx.com.br/images/95/955585541700222.jpg",
-      "https://img.olx.com.br/images/10/103510068572436.jpg"
-    ],
-    "id": "1418030071",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-ps4-seminovo-1418030071",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "Horizon Forbidden West - PS4 - Seminovo.",
-    "ts": 1777949814
   }
 ]
