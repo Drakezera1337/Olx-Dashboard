@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499465564",
-    "titulo": "Jogos Ps4",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps4",
+    "id": "1499465464",
+    "titulo": "GTA 5",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:08",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "13:09",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1499465564",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-5-1499465464",
+    "fotoUrl": "https://img.olx.com.br/images/62/626657521413823.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/626657521413823.jpg",
+      "https://img.olx.com.br/images/64/645698520648110.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997342
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:08",
     "fotoUrl": "https://img.olx.com.br/images/68/686683285117882.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/686683285117882.jpg"
     ],
-    "defeito": false,
+    "id": "1499465564",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1499465564",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Jogos Ps4",
     "ts": 1777997333
   },
   {
@@ -9742,27 +9761,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Resident Evil 2",
     "ts": 1777930096
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/96/961648048591904.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/961648048591904.jpg",
-      "https://img.olx.com.br/images/97/973676769003198.jpg",
-      "https://img.olx.com.br/images/99/993669768173675.jpg",
-      "https://img.olx.com.br/images/10/104603762087013.jpg",
-      "https://img.olx.com.br/images/12/122655526323769.jpg"
-    ],
-    "id": "1499233570",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/lote-com-79-jogos-ps4-1499233570",
-    "preco": 3160,
-    "precoRaw": "R$ 3.160",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Lote com 79 jogos ps4 ",
-    "ts": 1777930087
   }
 ]
