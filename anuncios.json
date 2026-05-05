@@ -1,22 +1,41 @@
 [
   {
-    "id": "1497134357",
-    "titulo": "Xbox series s",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "xbox",
+    "id": "1499588475",
+    "titulo": "Minecraft",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:17",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "19:18",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/xbox-series-s-1497134357",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/minecraft-1499588475",
+    "fotoUrl": "https://img.olx.com.br/images/66/666617649250118.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/666617649250118.jpg",
+      "https://img.olx.com.br/images/67/676664525659431.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778019489
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:17",
     "fotoUrl": "https://img.olx.com.br/images/98/989602396965200.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/989602396965200.jpg",
       "https://img.olx.com.br/images/80/804686757549063.jpg",
       "https://img.olx.com.br/images/81/814616757609160.jpg"
     ],
-    "defeito": false,
+    "id": "1497134357",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/xbox-series-s-1497134357",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Xbox series s",
     "ts": 1778019457
   },
   {
@@ -9748,24 +9767,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Watch Dogs - Ps3",
     "ts": 1777983738
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/90/904506712409811.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/904506712409811.jpg",
-      "https://img.olx.com.br/images/15/155507473601217.jpg"
-    ],
-    "id": "1422313791",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/tom-clancy-s-rainbow-six-vegas-2-ps3-1422313791",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Tom Clancy's Rainbow Six Vegas 2 - Ps3",
-    "ts": 1777983729
   }
 ]
