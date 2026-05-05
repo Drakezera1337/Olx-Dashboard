@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499490477",
-    "titulo": "Need for Speed - PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1499490314",
+    "titulo": "FIFA 16 PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:11",
-    "tempoOlx": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/need-for-speed-ps4-1499490477",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/fifa-16-ps4-1499490314",
+    "fotoUrl": "https://img.olx.com.br/images/43/434602409568550.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/434602409568550.jpg",
+      "https://img.olx.com.br/images/45/451644289366178.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778001077
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:11",
     "fotoUrl": "https://img.olx.com.br/images/52/529658521629858.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/529658521629858.jpg"
     ],
-    "defeito": false,
+    "id": "1499490477",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/need-for-speed-ps4-1499490477",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Need for Speed - PS4",
     "ts": 1778001069
   },
   {
@@ -9768,24 +9787,5 @@
     "tempoOlx": "Na OLX desde setembro de 2017",
     "titulo": "PS5 ASSISTÊNCIA TÉCNICA ",
     "ts": 1777937016
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:22",
-    "fotoUrl": "https://img.olx.com.br/images/86/867648643410346.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/867648643410346.jpg",
-      "https://img.olx.com.br/images/87/877687768823261.jpg"
-    ],
-    "id": "1499264002",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/xbox-series-s-512gb-1-controle-1499264002",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2013",
-    "titulo": "Xbox series S 512gb + 1 controle ",
-    "ts": 1777936927
   }
 ]
