@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499407288",
-    "titulo": "Playstation 4 fat - 500gb - 2 jogos e 1 controle",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "ps4",
+    "id": "1499406933",
+    "titulo": "Immortals Fenyx Rising Lacrado",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "09:27",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-fat-500gb-2-jogos-e-1-controle-1499407288",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/immortals-fenyx-rising-lacrado-1499406933",
+    "fotoUrl": "https://img.olx.com.br/images/76/764626527218371.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/764626527218371.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777984060
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:27",
     "fotoUrl": "https://img.olx.com.br/images/79/795645525535965.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/795645525535965.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/83/831610287489930.jpg",
       "https://img.olx.com.br/images/84/840698043977322.jpg"
     ],
-    "defeito": false,
+    "id": "1499407288",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-fat-500gb-2-jogos-e-1-controle-1499407288",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Playstation 4 fat - 500gb - 2 jogos e 1 controle",
     "ts": 1777984051
   },
   {
@@ -9774,24 +9792,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Por de jogos PS4 ",
     "ts": 1777920378
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:46",
-    "fotoUrl": "https://img.olx.com.br/images/32/325651281123791.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/325651281123791.jpg",
-      "https://img.olx.com.br/images/33/330659288777523.jpg"
-    ],
-    "id": "1499189414",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-ps4-ps5-1499189414",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "JOGOS - PS4/PS5",
-    "ts": 1777920369
   }
 ]
