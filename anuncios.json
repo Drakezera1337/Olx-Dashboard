@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499574274",
-    "titulo": "PS4 FAIT",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1499575500",
+    "titulo": "PlayStation 3",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "18:13",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "detectado": "18:16",
+    "tempoOlx": "Na OLX desde junho de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fait-1499574274",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-3-1499575500",
+    "fotoUrl": "https://img.olx.com.br/images/19/197622763823517.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/197622763823517.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778015796
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:13",
     "fotoUrl": "https://img.olx.com.br/images/11/112630645586629.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/112630645586629.jpg",
       "https://img.olx.com.br/images/12/123672765267094.jpg"
     ],
-    "defeito": false,
+    "id": "1499574274",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fait-1499574274",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "PS4 FAIT",
     "ts": 1778015618
   },
   {
@@ -9716,28 +9734,5 @@
     "tempoOlx": "Na OLX desde agosto de 2024",
     "titulo": "Jogos de vídeo game ",
     "ts": 1777950877
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:11",
-    "fotoUrl": "https://img.olx.com.br/images/95/959674641152328.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/959674641152328.jpg",
-      "https://img.olx.com.br/images/97/973695647341018.jpg",
-      "https://img.olx.com.br/images/99/994693525621301.jpg",
-      "https://img.olx.com.br/images/10/103606642461509.jpg",
-      "https://img.olx.com.br/images/11/119682520060122.jpg",
-      "https://img.olx.com.br/images/13/135630762261543.jpg"
-    ],
-    "id": "1499314982",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-perfeito-estado-1499314982",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2021",
-    "titulo": "XBOX ONE S PERFEITO ESTADO",
-    "ts": 1777950697
   }
 ]
