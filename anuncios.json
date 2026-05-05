@@ -1,22 +1,43 @@
 [
   {
-    "id": "1499313672",
-    "titulo": "Jogos ps4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "ps4",
+    "id": "1499313436",
+    "titulo": "Dark Souls Remastered - PS4/PS5",
+    "preco": 129,
+    "precoRaw": "R$ 129",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "00:02",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499313672",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-remastered-ps4-ps5-1499313436",
+    "fotoUrl": "https://img.olx.com.br/images/22/221681040984973.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/221681040984973.jpg",
+      "https://img.olx.com.br/images/24/249613522094428.jpg",
+      "https://img.olx.com.br/images/25/251626525919865.jpg",
+      "https://img.olx.com.br/images/26/269613642940467.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777950166
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:02",
     "fotoUrl": "https://img.olx.com.br/images/64/648629162836106.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/648629162836106.jpg",
       "https://img.olx.com.br/images/65/654626404454542.jpg",
       "https://img.olx.com.br/images/66/667652640220985.jpg"
     ],
-    "defeito": false,
+    "id": "1499313672",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499313672",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Jogos ps4",
     "ts": 1777950157
   },
   {
@@ -9782,25 +9803,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Horizon Zero Dawn Complete Edition PS4 - Com Expansão Inclusa",
     "ts": 1777918157
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:09",
-    "fotoUrl": "https://img.olx.com.br/images/37/379634884583331.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/379634884583331.jpg",
-      "https://img.olx.com.br/images/41/410673402920988.jpg",
-      "https://img.olx.com.br/images/44/443660524972539.jpg"
-    ],
-    "id": "1499174017",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/lego-marvel-super-heroes-2-ps4-1499174017",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "LEGO Marvel Super Heroes 2 (PS4)",
-    "ts": 1777918148
   }
 ]
