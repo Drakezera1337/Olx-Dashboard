@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499571861",
-    "titulo": "Playstation 3 Slim",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "ps3",
+    "id": "1499572096",
+    "titulo": "nintendo switch v1 com defeito e dois joy cons faço envio",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "18:01",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "18:04",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-3-slim-1499571861",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-v1-com-defeito-e-dois-joy-cons-faco-envio-1499572096",
+    "fotoUrl": "https://img.olx.com.br/images/30/308657644489191.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/308657644489191.jpg",
+      "https://img.olx.com.br/images/30/302628648868055.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778015075
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:01",
     "fotoUrl": "https://img.olx.com.br/images/88/889637400720672.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/889637400720672.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/99/997644283501430.jpg",
       "https://img.olx.com.br/images/12/123607404224605.jpg"
     ],
-    "defeito": false,
+    "id": "1499571861",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-3-slim-1499571861",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Playstation 3 Slim",
     "ts": 1778014901
   },
   {
@@ -9731,26 +9750,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "Uncharted 4: A Thief's End - PS4 - Seminovo.",
     "ts": 1777949832
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:57",
-    "fotoUrl": "https://img.olx.com.br/images/40/401520540114712.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/401520540114712.jpg",
-      "https://img.olx.com.br/images/41/417533781516588.jpg",
-      "https://img.olx.com.br/images/42/421562544702271.jpg",
-      "https://img.olx.com.br/images/44/449575668178493.jpg"
-    ],
-    "id": "1417560876",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-the-nathan-drake-collection-ps4-novo-e-lacrado-1417560876",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "Uncharted: The Nathan Drake Collection - PS4 - Novo e Lacrado.",
-    "ts": 1777949823
   }
 ]
