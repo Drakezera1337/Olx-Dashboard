@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499414451",
-    "titulo": "Playstation 3",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "categoria": "ps3",
+    "id": "1499414915",
+    "titulo": "Playstation 4 PS4 Pro 1T 4K",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "09:37",
-    "tempoOlx": "Na OLX desde dezembro de 2014",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-1499414451",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/playstation-4-ps4-pro-1t-4k-1499414915",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1777984656
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:37",
     "fotoUrl": "https://img.olx.com.br/images/35/358634883159919.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/358634883159919.jpg",
       "https://img.olx.com.br/images/33/336637644935581.jpg"
     ],
-    "defeito": false,
+    "id": "1499414451",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-1499414451",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
+    "titulo": "Playstation 3",
     "ts": 1777984629
   },
   {
@@ -9754,23 +9772,5 @@
     "tempoOlx": "Na OLX desde setembro de 2018",
     "titulo": "PlayStation 4 + 2 jogos ",
     "ts": 1777921963
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:10",
-    "fotoUrl": "https://img.olx.com.br/images/92/923636641760742.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/923636641760742.jpg"
-    ],
-    "id": "1499194483",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/182-jogos-de-playstation-envio-pelo-olx-pay-1499194483",
-    "preco": 12500,
-    "precoRaw": "R$ 12.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "182 Jogos de PlayStation (Envio Pelo OLX Pay)",
-    "ts": 1777921852
   }
 ]
