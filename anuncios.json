@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499589418",
-    "titulo": "Dark Sous 3",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1499588726",
+    "titulo": "Days gone",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "outros",
     "publicado": "",
     "detectado": "19:25",
     "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/dark-sous-3-1499589418",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/days-gone-1499588726",
+    "fotoUrl": "https://img.olx.com.br/images/48/484623766792374.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/484623766792374.jpg",
+      "https://img.olx.com.br/images/49/496602405591522.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778019911
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:25",
     "fotoUrl": "https://img.olx.com.br/images/69/693643882799287.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/693643882799287.jpg",
       "https://img.olx.com.br/images/70/703619045560756.jpg"
     ],
-    "defeito": false,
+    "id": "1499589418",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/dark-sous-3-1499589418",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Dark Sous 3",
     "ts": 1778019902
   },
   {
@@ -9749,27 +9768,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Jogo The Division ps4/ps5 mídia física ",
     "ts": 1777983895
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/24/245677247170214.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/245677247170214.jpg",
-      "https://img.olx.com.br/images/25/255626366488262.jpg",
-      "https://img.olx.com.br/images/26/262658007341579.jpg",
-      "https://img.olx.com.br/images/27/273619003602456.jpg",
-      "https://img.olx.com.br/images/28/284624487146641.jpg"
-    ],
-    "id": "1454658968",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/3-jogos-de-ps4-no-precinho-1454658968",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "3 jogos de ps4 no preçinho",
-    "ts": 1777983887
   }
 ]
