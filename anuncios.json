@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499300709",
-    "titulo": "PLAYSTATION 4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1499388808",
+    "titulo": "Controle Séries S Verde",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "09:21",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-1499300709",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/controle-series-s-verde-1499388808",
+    "fotoUrl": "https://img.olx.com.br/images/92/924630645681080.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/924630645681080.jpg",
+      "https://img.olx.com.br/images/94/943692880347693.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983696
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:21",
     "fotoUrl": "https://img.olx.com.br/images/57/577682525519841.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/577682525519841.jpg"
     ],
-    "defeito": false,
+    "id": "1499300709",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-1499300709",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "PLAYSTATION 4",
     "ts": 1777983683
   },
   {
@@ -9758,23 +9777,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "Play station 4 ",
     "ts": 1777918974
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:22",
-    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
-    "fotosUrls": [
-      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
-    ],
-    "id": "1499153383",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1499153383",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Ps4 ",
-    "ts": 1777918965
   }
 ]
