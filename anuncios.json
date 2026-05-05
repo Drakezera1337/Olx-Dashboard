@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499465464",
-    "titulo": "GTA 5",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1499465455",
+    "titulo": "Jogos ps4 combo God of War ",
+    "preco": 169,
+    "precoRaw": "R$ 169",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:09",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "tempoOlx": "Na OLX desde março de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-5-1499465464",
+    "link": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/jogos-de-video-game/jogos-ps4-combo-god-of-war-1499465455",
+    "fotoUrl": "https://img.olx.com.br/images/62/629619764873311.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/629619764873311.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997351
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:09",
     "fotoUrl": "https://img.olx.com.br/images/62/626657521413823.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/626657521413823.jpg",
       "https://img.olx.com.br/images/64/645698520648110.jpg"
     ],
-    "defeito": false,
+    "id": "1499465464",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-5-1499465464",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "GTA 5",
     "ts": 1777997342
   },
   {
@@ -9743,23 +9761,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Sword Art Online Hollow Realization",
     "ts": 1777930103
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/21/211670643789865.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/211670643789865.jpg"
-    ],
-    "id": "1499233374",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/resident-evil-2-1499233374",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Resident Evil 2",
-    "ts": 1777930096
   }
 ]
