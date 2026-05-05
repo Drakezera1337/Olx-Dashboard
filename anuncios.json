@@ -1,22 +1,41 @@
 [
   {
-    "id": "1499574364",
-    "titulo": "Jogos ps4",
-    "preco": 210,
-    "precoRaw": "R$ 210",
+    "id": "1488922309",
+    "titulo": "JOGOS LEGO PS4",
+    "preco": 335,
+    "precoRaw": "R$ 335",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:12",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-ps4-1499574364",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-lego-ps4-1488922309",
+    "fotoUrl": "https://img.olx.com.br/images/14/142612267143890.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/142612267143890.jpg",
+      "https://img.olx.com.br/images/16/162627387672861.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778015534
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:12",
     "fotoUrl": "https://img.olx.com.br/images/77/779667401595868.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/779667401595868.jpg",
       "https://img.olx.com.br/images/78/788620401020793.jpg",
       "https://img.olx.com.br/images/80/808688163787804.jpg"
     ],
-    "defeito": false,
+    "id": "1499574364",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-ps4-1499574364",
+    "preco": 210,
+    "precoRaw": "R$ 210",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "Jogos ps4",
     "ts": 1778015525
   },
   {
@@ -9722,26 +9741,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Dark Souls 2 - PS4/PS5",
     "ts": 1777950554
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:09",
-    "fotoUrl": "https://img.olx.com.br/images/38/387673640625318.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/387673640625318.jpg",
-      "https://img.olx.com.br/images/39/391650528630575.jpg",
-      "https://img.olx.com.br/images/41/410635883133992.jpg",
-      "https://img.olx.com.br/images/43/435605644542229.jpg"
-    ],
-    "id": "1499314604",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-3-ps4-ps5-1499314604",
-    "preco": 149,
-    "precoRaw": "R$ 149",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Dark Souls 3 - PS4/PS5 ",
-    "ts": 1777950545
   }
 ]
