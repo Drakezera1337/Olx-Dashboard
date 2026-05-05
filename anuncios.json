@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499425170",
-    "titulo": "XBOX SERIE S",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "xbox",
+    "id": "1440064707",
+    "titulo": "Play 3 Sem Fio",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:05",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "tempoOlx": "Na OLX desde junho de 2017",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-serie-s-1499425170",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/play-3-sem-fio-1440064707",
+    "fotoUrl": "https://img.olx.com.br/images/18/183525562966382.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/183525562966382.jpg",
+      "https://img.olx.com.br/images/25/250545329895071.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777997116
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:05",
     "fotoUrl": "https://img.olx.com.br/images/55/552639881252709.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/552639881252709.jpg"
     ],
-    "defeito": false,
+    "id": "1499425170",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-serie-s-1499425170",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "titulo": "XBOX SERIE S",
     "ts": 1777997108
   },
   {
@@ -9747,23 +9766,5 @@
     "tempoOlx": "Na OLX desde outubro de 2018",
     "titulo": "Jogo X box 360",
     "ts": 1777927807
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:46",
-    "fotoUrl": "https://img.olx.com.br/images/73/735692769090557.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/735692769090557.jpg"
-    ],
-    "id": "1499222028",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/lote-de-jogos-de-playstation-4-216-jogos-1499222028",
-    "preco": 15000,
-    "precoRaw": "R$ 15.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Lote de Jogos de PlayStation 4 (216 Jogos)",
-    "ts": 1777927589
   }
 ]
