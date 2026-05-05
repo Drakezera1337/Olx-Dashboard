@@ -1,22 +1,43 @@
 [
   {
-    "id": "1499533156",
-    "titulo": "Xbox Series S (SEM CONTROLE)",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1499520731",
+    "titulo": "Xbox Series S Perfeito",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "16:57",
-    "tempoOlx": "Na OLX desde junho de 2025",
+    "tempoOlx": "Na OLX desde maio de 2019",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-sem-controle-1499533156",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/xbox-series-s-perfeito-1499520731",
+    "fotoUrl": "https://img.olx.com.br/images/15/155642040093609.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/155642040093609.jpg",
+      "https://img.olx.com.br/images/22/226664282363519.jpg",
+      "https://img.olx.com.br/images/27/270632642285780.jpg",
+      "https://img.olx.com.br/images/62/620606164272565.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778011071
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:57",
     "fotoUrl": "https://img.olx.com.br/images/22/221688400315532.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/221688400315532.jpg",
       "https://img.olx.com.br/images/22/228661169659209.jpg",
       "https://img.olx.com.br/images/22/228662527356058.jpg"
     ],
-    "defeito": false,
+    "id": "1499533156",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-sem-controle-1499533156",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2025",
+    "titulo": "Xbox Series S (SEM CONTROLE)",
     "ts": 1778011062
   },
   {
@@ -9760,26 +9781,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2023",
     "titulo": "1200",
     "ts": 1777940385
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:19",
-    "fotoUrl": "https://img.olx.com.br/images/45/457536719234892.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/457536719234892.jpg",
-      "https://img.olx.com.br/images/47/474591717257072.jpg",
-      "https://img.olx.com.br/images/48/488570475850755.jpg",
-      "https://img.olx.com.br/images/50/502529713929117.jpg"
-    ],
-    "id": "1460238784",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spider-man-ps4-1460238784",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2013",
-    "titulo": "Spider man - Ps4",
-    "ts": 1777940377
   }
 ]
