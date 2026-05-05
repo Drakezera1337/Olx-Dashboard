@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499455700",
-    "titulo": "Pra sair logo ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "outros",
+    "id": "1499432131",
+    "titulo": "Elden Ring Night Reign lacrado",
+    "preco": 230,
+    "precoRaw": "R$ 230",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "13:01",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "13:02",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/pra-sair-logo-1499455700",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/elden-ring-night-reign-lacrado-1499432131",
+    "fotoUrl": "https://img.olx.com.br/images/16/169698287765054.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/169698287765054.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777996922
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:01",
     "fotoUrl": "https://img.olx.com.br/images/42/421689520249449.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/421689520249449.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/47/470694647600145.jpg",
       "https://img.olx.com.br/images/48/482690769448875.jpg"
     ],
-    "defeito": false,
+    "id": "1499455700",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/pra-sair-logo-1499455700",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Pra sair logo ",
     "ts": 1777996909
   },
   {
@@ -45,16 +63,10 @@
     "ts": 1777996902
   },
   {
-    "id": "1499460957",
-    "titulo": "PS Portal original do PlayStation 5 - PS5 ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
     "categoria": "ps5",
-    "publicado": "",
-    "detectado": "13:01",
-    "tempoOlx": "Na OLX desde agosto de 2021",
+    "defeito": false,
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps-portal-original-do-playstation-5-ps5-1499460957",
+    "detectado": "13:01",
     "fotoUrl": "https://img.olx.com.br/images/31/311682763955535.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/311682763955535.jpg",
@@ -63,7 +75,13 @@
       "https://img.olx.com.br/images/39/392649401028398.jpg",
       "https://img.olx.com.br/images/40/400686646038871.jpg"
     ],
-    "defeito": false,
+    "id": "1499460957",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps-portal-original-do-playstation-5-ps5-1499460957",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2021",
+    "titulo": "PS Portal original do PlayStation 5 - PS5 ",
     "ts": 1777996902
   },
   {
@@ -9751,25 +9769,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Playstation 4",
     "ts": 1777925857
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:17",
-    "fotoUrl": "https://img.olx.com.br/images/85/850503191340350.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/850503191340350.jpg",
-      "https://img.olx.com.br/images/88/888521912947489.jpg",
-      "https://img.olx.com.br/images/90/900593430539725.jpg"
-    ],
-    "id": "1430207501",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/shin-hayarigami-3-ps4-1430207501",
-    "preco": 195,
-    "precoRaw": "R$ 195",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Shin hayarigami 3 PS4 ",
-    "ts": 1777925848
   }
 ]
