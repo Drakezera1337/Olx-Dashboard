@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499422275",
-    "titulo": "Xbox series s",
-    "preco": 1440,
-    "precoRaw": "R$ 1.440",
-    "categoria": "xbox",
+    "id": "1499451666",
+    "titulo": "IPhone 17 Preto 256gb Novo",
+    "preco": 5499,
+    "precoRaw": "R$ 5.499",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "10:08",
-    "tempoOlx": "Na OLX desde junho de 2017",
+    "detectado": "13:01",
+    "tempoOlx": "Na OLX desde novembro de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/xbox-series-s-1499422275",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-preto-256gb-novo-1499451666",
+    "fotoUrl": "https://img.olx.com.br/images/81/818672641117108.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/818672641117108.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777996866
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:08",
     "fotoUrl": "https://img.olx.com.br/images/42/422670886685489.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/422670886685489.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/42/426670168596254.jpg",
       "https://img.olx.com.br/images/43/439674046905787.jpg"
     ],
-    "defeito": false,
+    "id": "1499422275",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/xbox-series-s-1499422275",
+    "preco": 1440,
+    "precoRaw": "R$ 1.440",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2017",
+    "titulo": "Xbox series s",
     "ts": 1777986519
   },
   {
@@ -9755,26 +9773,5 @@
     "tempoOlx": "Na OLX desde agosto de 2020",
     "titulo": "PS4 Slim 500GB + Jogos + Controle | Revisado e Pronto Pra Jogar",
     "ts": 1777925438
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:10",
-    "fotoUrl": "https://img.olx.com.br/images/34/346665043290452.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/346665043290452.jpg",
-      "https://img.olx.com.br/images/36/363643887807804.jpg",
-      "https://img.olx.com.br/images/37/376664162533457.jpg",
-      "https://img.olx.com.br/images/40/409686408242625.jpg"
-    ],
-    "id": "1499210819",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-quebrado-1499210819",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2021",
-    "titulo": "PS4 quebrado ",
-    "ts": 1777925407
   }
 ]
