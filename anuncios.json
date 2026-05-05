@@ -1,7 +1,7 @@
 [
   {
-    "id": "1486872459",
-    "titulo": "Sombras de Mordor - Playstation 4",
+    "id": "1486872971",
+    "titulo": "Batman Arkham Knight - Playstation 4",
     "preco": 53,
     "precoRaw": "R$ 53",
     "categoria": "ps4",
@@ -9,12 +9,30 @@
     "detectado": "13:23",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/sombras-de-mordor-playstation-4-1486872459",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/batman-arkham-knight-playstation-4-1486872971",
+    "fotoUrl": "https://img.olx.com.br/images/19/192659502860563.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/192659502860563.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777998197
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:23",
     "fotoUrl": "https://img.olx.com.br/images/78/782683620263178.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/782683620263178.jpg"
     ],
-    "defeito": false,
+    "id": "1486872459",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/sombras-de-mordor-playstation-4-1486872459",
+    "preco": 53,
+    "precoRaw": "R$ 53",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Sombras de Mordor - Playstation 4",
     "ts": 1777998188
   },
   {
@@ -9774,23 +9792,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Battlefield 4",
     "ts": 1777933353
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:22",
-    "fotoUrl": "https://img.olx.com.br/images/92/923624392815622.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/923624392815622.jpg"
-    ],
-    "id": "1490920023",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-elder-scrolls-online-summerset-1490920023",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "The Elder Scrolls Online Summerset",
-    "ts": 1777933344
   }
 ]
