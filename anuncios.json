@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499478385",
-    "titulo": "PlayStation 4",
-    "preco": 1650,
-    "precoRaw": "R$ 1.650",
+    "id": "1486872206",
+    "titulo": "Fallout 4 - Playstation 4",
+    "preco": 55,
+    "precoRaw": "R$ 55",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:22",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/playstation-4-1499478385",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/fallout-4-playstation-4-1486872206",
+    "fotoUrl": "https://img.olx.com.br/images/27/278657747000254.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/278657747000254.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777998171
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:22",
     "fotoUrl": "https://img.olx.com.br/images/40/404661647500625.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/404661647500625.jpg",
       "https://img.olx.com.br/images/41/415634765483324.jpg"
     ],
-    "defeito": false,
+    "id": "1499478385",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/playstation-4-1499478385",
+    "preco": 1650,
+    "precoRaw": "R$ 1.650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "PlayStation 4",
     "ts": 1777998163
   },
   {
@@ -9770,23 +9788,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Street Fighter V",
     "ts": 1777933327
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:21",
-    "fotoUrl": "https://img.olx.com.br/images/68/685614757750999.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/685614757750999.jpg"
-    ],
-    "id": "1490916127",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/farcry-4-1490916127",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "FarCry 4",
-    "ts": 1777933315
   }
 ]
