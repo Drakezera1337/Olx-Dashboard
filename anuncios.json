@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499350027",
-    "titulo": "Xbox series s Americano ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1499074989",
+    "titulo": "Xbox Series S Defeito ",
+    "preco": 499,
+    "precoRaw": "R$ 499",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "09:21",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-americano-1499350027",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-defeito-1499074989",
+    "fotoUrl": "https://img.olx.com.br/images/99/990637288589576.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/990637288589576.jpg",
+      "https://img.olx.com.br/images/10/106623763608449.jpg",
+      "https://img.olx.com.br/images/12/124665284976098.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983714
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:21",
     "fotoUrl": "https://img.olx.com.br/images/60/603638888121502.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/603638888121502.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/67/675609047608657.jpg",
       "https://img.olx.com.br/images/68/681641528455646.jpg"
     ],
-    "defeito": false,
+    "id": "1499350027",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-americano-1499350027",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Xbox series s Americano ",
     "ts": 1777983706
   },
   {
@@ -9761,25 +9781,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "Jogo PS4 Star Wars Battlerfront",
     "ts": 1777918991
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:23",
-    "fotoUrl": "https://img.olx.com.br/images/39/398696285399766.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/398696285399766.jpg",
-      "https://img.olx.com.br/images/41/413603166875890.jpg",
-      "https://img.olx.com.br/images/43/430694884466651.jpg"
-    ],
-    "id": "1499183120",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-1499183120",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Red Dead Redemption 2",
-    "ts": 1777918983
   }
 ]
