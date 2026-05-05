@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499588349",
-    "titulo": "Playstation 3 Fat com defeito ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps3",
+    "id": "1497134357",
+    "titulo": "Xbox series s",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "19:17",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-fat-com-defeito-1499588349",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/xbox-series-s-1497134357",
+    "fotoUrl": "https://img.olx.com.br/images/98/989602396965200.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/989602396965200.jpg",
+      "https://img.olx.com.br/images/80/804686757549063.jpg",
+      "https://img.olx.com.br/images/81/814616757609160.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778019457
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:17",
     "fotoUrl": "https://img.olx.com.br/images/48/486639648289680.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/486639648289680.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/58/588660643291243.jpg",
       "https://img.olx.com.br/images/60/603614646751461.jpg"
     ],
-    "defeito": false,
+    "id": "1499588349",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-fat-com-defeito-1499588349",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "titulo": "Playstation 3 Fat com defeito ",
     "ts": 1778019426
   },
   {
@@ -9747,24 +9767,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Tom Clancy's Rainbow Six Vegas 2 - Ps3",
     "ts": 1777983729
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/83/833507426472264.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/833507426472264.jpg",
-      "https://img.olx.com.br/images/84/840577548706587.jpg"
-    ],
-    "id": "1424331337",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/brink-ps3-1424331337",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Brink - Ps3",
-    "ts": 1777983722
   }
 ]
