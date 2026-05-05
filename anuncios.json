@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499017700",
-    "titulo": "Vendo Xbox Séries S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1400884854",
+    "titulo": "Jogo Samurai Shodown - PS4",
+    "preco": 240,
+    "precoRaw": "R$ 240",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:52",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "detectado": "19:56",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/vendo-xbox-series-s-1499017700",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-samurai-shodown-ps4-1400884854",
+    "fotoUrl": "https://img.olx.com.br/images/47/477525288025490.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/477525288025490.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778021767
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:52",
     "fotoUrl": "https://img.olx.com.br/images/70/703605522507781.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/703605522507781.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/74/742608523455257.jpg",
       "https://img.olx.com.br/images/76/769676521401711.jpg"
     ],
-    "defeito": false,
+    "id": "1499017700",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/vendo-xbox-series-s-1499017700",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Vendo Xbox Séries S ",
     "ts": 1778021526
   },
   {
@@ -9764,25 +9782,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Assassin's Creed Odyssey PS4 (jogo novo - lacrado - mídia física)",
     "ts": 1777984125
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:28",
-    "fotoUrl": "https://img.olx.com.br/images/84/845632161490065.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/845632161490065.jpg",
-      "https://img.olx.com.br/images/86/865630165805760.jpg",
-      "https://img.olx.com.br/images/88/883695761656812.jpg"
-    ],
-    "id": "1499404543",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/street-fighters-v-arcade-edition-ps4-1499404543",
-    "preco": 129,
-    "precoRaw": "R$ 129",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2025",
-    "titulo": "Street fighters V Arcade Edition PS4",
-    "ts": 1777984116
   }
 ]
