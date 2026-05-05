@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499478159",
-    "titulo": "Jogos ps4",
-    "preco": 250,
-    "precoRaw": "R$ 250",
+    "id": "1486872459",
+    "titulo": "Sombras de Mordor - Playstation 4",
+    "preco": 53,
+    "precoRaw": "R$ 53",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:23",
-    "tempoOlx": "Na OLX desde abril de 2016",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1499478159",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/sombras-de-mordor-playstation-4-1486872459",
+    "fotoUrl": "https://img.olx.com.br/images/78/782683620263178.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/782683620263178.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777998188
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:23",
     "fotoUrl": "https://img.olx.com.br/images/25/259695643491715.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/259695643491715.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/31/313617043599098.jpg",
       "https://img.olx.com.br/images/33/337670040650246.jpg"
     ],
-    "defeito": false,
+    "id": "1499478159",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1499478159",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "Jogos ps4",
     "ts": 1777998181
   },
   {
@@ -9774,23 +9792,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "The Elder Scrolls Online Summerset",
     "ts": 1777933344
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:22",
-    "fotoUrl": "https://img.olx.com.br/images/39/395628393455130.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/395628393455130.jpg"
-    ],
-    "id": "1490918967",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-elder-scrolls-online-1490918967",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "The Elder Scrolls Online",
-    "ts": 1777933335
   }
 ]
