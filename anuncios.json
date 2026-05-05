@@ -1,22 +1,41 @@
 [
   {
-    "id": "1490611251",
-    "titulo": "FIFA 25",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "jogos",
+    "id": "1499580926",
+    "titulo": "Red Dead 2",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:48",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/fifa-25-1490611251",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/red-dead-2-1499580926",
+    "fotoUrl": "https://img.olx.com.br/images/65/657658641558343.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/657658641558343.jpg",
+      "https://img.olx.com.br/images/67/674674166220739.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778017719
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:48",
     "fotoUrl": "https://img.olx.com.br/images/17/177681513927570.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/177681513927570.jpg",
       "https://img.olx.com.br/images/19/199682633308140.jpg",
       "https://img.olx.com.br/images/21/215648155116818.jpg"
     ],
-    "defeito": false,
+    "id": "1490611251",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/fifa-25-1490611251",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "FIFA 25",
     "ts": 1778017712
   },
   {
@@ -9741,25 +9760,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Jogo Back 4 Blood do PS4/PS5 - Perfeito estado!",
     "ts": 1777955190
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:26",
-    "fotoUrl": "https://img.olx.com.br/images/53/538607646062075.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/538607646062075.jpg",
-      "https://img.olx.com.br/images/57/576660168135033.jpg",
-      "https://img.olx.com.br/images/59/597628881648745.jpg"
-    ],
-    "id": "1498895907",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/samurai-shodown-neogeo-collection-ps4-1498895907",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "Samurai SHODOWN-neogeo COLLECTION -PS4",
-    "ts": 1777955182
   }
 ]
