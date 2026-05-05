@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499399126",
-    "titulo": "Controle de ps5 e jogos ",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "categoria": "ps5",
+    "id": "1499401183",
+    "titulo": "iPhone 11 Pro Max ",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "09:20",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/controle-de-ps5-e-jogos-1499399126",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-max-1499401183",
+    "fotoUrl": "https://img.olx.com.br/images/51/515644888327584.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/515644888327584.jpg",
+      "https://img.olx.com.br/images/53/532665889145720.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983630
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:20",
     "fotoUrl": "https://img.olx.com.br/images/17/178691165324469.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/178691165324469.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/25/256687165655506.jpg",
       "https://img.olx.com.br/images/28/283695640878677.jpg"
     ],
-    "defeito": false,
+    "id": "1499399126",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/controle-de-ps5-e-jogos-1499399126",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Controle de ps5 e jogos ",
     "ts": 1777983625
   },
   {
@@ -9757,25 +9776,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Call of Duty WW2 (PS4)",
     "ts": 1777918677
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:17",
-    "fotoUrl": "https://img.olx.com.br/images/30/305625147102703.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/305625147102703.jpg",
-      "https://img.olx.com.br/images/32/320675381062992.jpg",
-      "https://img.olx.com.br/images/33/337623748412231.jpg"
-    ],
-    "id": "1487582365",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/fifa-2016-ps4-1487582365",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2021",
-    "titulo": "Fifa 2016 PS4 ",
-    "ts": 1777918667
   }
 ]
