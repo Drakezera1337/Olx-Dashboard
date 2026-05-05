@@ -1,21 +1,42 @@
 [
   {
-    "id": "1499401183",
-    "titulo": "iPhone 11 Pro Max ",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "iphone",
+    "id": "1499383642",
+    "titulo": "Kit ps5 R$ 1.400",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "09:20",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-max-1499401183",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/kit-ps5-r-1-400-1499383642",
+    "fotoUrl": "https://img.olx.com.br/images/26/264623041831734.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/264623041831734.jpg",
+      "https://img.olx.com.br/images/28/289640288703141.jpg",
+      "https://img.olx.com.br/images/30/301679762452932.jpg",
+      "https://img.olx.com.br/images/32/329618888095978.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983636
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:20",
     "fotoUrl": "https://img.olx.com.br/images/51/515644888327584.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/515644888327584.jpg",
       "https://img.olx.com.br/images/53/532665889145720.jpg"
     ],
-    "defeito": false,
+    "id": "1499401183",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-max-1499401183",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "titulo": "iPhone 11 Pro Max ",
     "ts": 1777983630
   },
   {
@@ -9756,25 +9777,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogo Fórmula 1 2018 PS4 ",
     "ts": 1777918686
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:17",
-    "fotoUrl": "https://img.olx.com.br/images/41/416647043662934.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/416647043662934.jpg",
-      "https://img.olx.com.br/images/44/441603168854447.jpg",
-      "https://img.olx.com.br/images/46/464657165991114.jpg"
-    ],
-    "id": "1499161453",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/call-of-duty-ww2-ps4-1499161453",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Call of Duty WW2 (PS4)",
-    "ts": 1777918677
   }
 ]
