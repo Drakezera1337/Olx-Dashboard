@@ -1,15 +1,29 @@
 [
   {
-    "id": "1469432126",
-    "titulo": "Jogos ps4.",
-    "preco": 65,
-    "precoRaw": "R$ 65",
+    "id": "1479452333",
+    "titulo": "Call of duty Ghosts - PS4 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:04",
-    "tempoOlx": "",
+    "detectado": "14:10",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-1469432126",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/call-of-duty-ghosts-ps4-1479452333",
+    "fotoUrl": "https://img.olx.com.br/images/91/914639610097258.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/914639610097258.jpg",
+      "https://img.olx.com.br/images/93/936605017304009.jpg",
+      "https://img.olx.com.br/images/97/973653612114718.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778001042
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:04",
     "fotoUrl": "https://img.olx.com.br/images/29/291677720421555.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/291677720421555.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/58/586652120418768.jpg",
       "https://img.olx.com.br/images/81/815606005822695.jpg"
     ],
-    "defeito": false,
+    "id": "1469432126",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-1469432126",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogos ps4.",
     "ts": 1778000695
   },
   {
@@ -9768,25 +9788,5 @@
     "tempoOlx": "Na OLX desde outubro de 2023",
     "titulo": "PS4 SLIM",
     "ts": 1777936847
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/96/969673645847960.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/969673645847960.jpg",
-      "https://img.olx.com.br/images/14/145655641214631.jpg",
-      "https://img.olx.com.br/images/40/401621642417660.jpg"
-    ],
-    "id": "1499263789",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps-vita-semi-novo-leia-a-descricao-1499263789",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Ps Vita Semi Novo (LEIA A DESCRIÇÃO)",
-    "ts": 1777936838
   }
 ]
