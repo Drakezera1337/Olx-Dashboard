@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499533214",
-    "titulo": "Vendo IPhone 14 128 GB",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "iphone",
+    "id": "1499551442",
+    "titulo": "PS4 SLIM 500 TB + 2 CONTROLES",
+    "preco": 780,
+    "precoRaw": "R$ 780",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:57",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-14-128-gb-1499533214",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-500-tb-2-controles-1499551442",
+    "fotoUrl": "https://img.olx.com.br/images/56/561635160884989.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/561635160884989.jpg",
+      "https://img.olx.com.br/images/58/589633765602166.jpg",
+      "https://img.olx.com.br/images/58/589624641521787.jpg",
+      "https://img.olx.com.br/images/59/598662407762222.jpg",
+      "https://img.olx.com.br/images/61/613617281844318.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778011032
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:57",
     "fotoUrl": "https://img.olx.com.br/images/71/712616646857601.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/712616646857601.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/77/772661162458892.jpg",
       "https://img.olx.com.br/images/79/794677280004984.jpg"
     ],
-    "defeito": false,
+    "id": "1499533214",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-14-128-gb-1499533214",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Vendo IPhone 14 128 GB",
     "ts": 1778011025
   },
   {
@@ -9759,23 +9781,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "Jogos ps4",
     "ts": 1777939972
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:12",
-    "fotoUrl": "https://img.olx.com.br/images/45/455644407611932.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/455644407611932.jpg"
-    ],
-    "id": "1499262618",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-ps4-novo-lacrado-1499262618",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Ghost of tsushima ps4 (NOVO LACRADO)",
-    "ts": 1777939964
   }
 ]
