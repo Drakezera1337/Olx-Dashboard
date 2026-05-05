@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499277258",
-    "titulo": "Jogos ps4",
-    "preco": 200,
-    "precoRaw": "R$ 200",
+    "id": "1499278276",
+    "titulo": "ps4",
+    "preco": 400,
+    "precoRaw": "R$ 400",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:12",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "21:17",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-1499277258",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-1499278276",
+    "fotoUrl": "https://img.olx.com.br/images/40/407620045328147.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/407620045328147.jpg",
+      "https://img.olx.com.br/images/40/406616762571598.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777940228
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:12",
     "fotoUrl": "https://img.olx.com.br/images/90/900608527472976.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/900608527472976.jpg"
     ],
-    "defeito": false,
+    "id": "1499277258",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-1499277258",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Jogos ps4",
     "ts": 1777939972
   },
   {
@@ -9835,23 +9854,5 @@
     "tempoOlx": "Na OLX desde setembro de 2021",
     "titulo": "? Red Dead Redemption - PS4 ?",
     "ts": 1777904937
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:28",
-    "fotoUrl": "https://img.olx.com.br/images/83/831690360846480.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/831690360846480.jpg"
-    ],
-    "id": "1472497131",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-a-realm-reborn-final-fantasy-xlv-1472497131",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Ps4 a realm reborn final fantasy xlv",
-    "ts": 1777904928
   }
 ]
