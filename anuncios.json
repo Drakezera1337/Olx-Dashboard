@@ -1,20 +1,41 @@
 [
   {
-    "id": "1499313398",
-    "titulo": "Jogos de ps4",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "ps4",
+    "id": "1499315132",
+    "titulo": "Bloodborne - PS4/PS5 ",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "00:02",
-    "tempoOlx": "Na OLX desde julho de 2019",
+    "detectado": "00:08",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1499313398",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodborne-ps4-ps5-1499315132",
+    "fotoUrl": "https://img.olx.com.br/images/20/200683765805883.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/200683765805883.jpg",
+      "https://img.olx.com.br/images/21/210607168013461.jpg",
+      "https://img.olx.com.br/images/22/229678401577939.jpg",
+      "https://img.olx.com.br/images/24/246689881008375.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777950519
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:02",
     "fotoUrl": "https://img.olx.com.br/images/71/717615641213916.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/717615641213916.jpg"
     ],
-    "defeito": false,
+    "id": "1499313398",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1499313398",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2019",
+    "titulo": "Jogos de ps4",
     "ts": 1777950175
   },
   {
@@ -9781,25 +9802,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Jogos de PS4/PS5",
     "ts": 1777918183
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:09",
-    "fotoUrl": "https://img.olx.com.br/images/55/559633644993366.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/559633644993366.jpg",
-      "https://img.olx.com.br/images/57/573698406996210.jpg",
-      "https://img.olx.com.br/images/59/592643645079641.jpg"
-    ],
-    "id": "1499173257",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/plants-vs-zombies-ps4-1499173257",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Plants vs Zombies (PS4)",
-    "ts": 1777918166
   }
 ]
