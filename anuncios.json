@@ -1,21 +1,40 @@
 [
   {
-    "id": "1455688757",
-    "titulo": "GTA V PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1455688618",
+    "titulo": "DESTINY PS4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:01",
     "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/gta-v-ps4-1455688757",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/destiny-ps4-1455688618",
+    "fotoUrl": "https://img.olx.com.br/images/48/488546224782705.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/488546224782705.jpg",
+      "https://img.olx.com.br/images/50/506577584091927.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778011294
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:01",
     "fotoUrl": "https://img.olx.com.br/images/15/151578346955808.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/151578346955808.jpg",
       "https://img.olx.com.br/images/18/186512340760553.jpg"
     ],
-    "defeito": false,
+    "id": "1455688757",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/gta-v-ps4-1455688757",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "GTA V PS4",
     "ts": 1778011286
   },
   {
@@ -9753,26 +9772,5 @@
     "tempoOlx": "Na OLX desde outubro de 2020",
     "titulo": "Jogo PS4 Just Dance 2017 nacional e original ",
     "ts": 1777942388
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:52",
-    "fotoUrl": "https://img.olx.com.br/images/54/546681282623445.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/546681282623445.jpg",
-      "https://img.olx.com.br/images/56/564634760591923.jpg",
-      "https://img.olx.com.br/images/58/587674642257760.jpg",
-      "https://img.olx.com.br/images/60/608606887741512.jpg"
-    ],
-    "id": "1499287700",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/nintendo-switch-lite-v1-v2-e-oled-1499287700",
-    "preco": 399,
-    "precoRaw": "R$ 399",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Nintendo switch lite, V1, V2 e Oled ",
-    "ts": 1777942327
   }
 ]
