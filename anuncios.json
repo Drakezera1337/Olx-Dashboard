@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499590585",
-    "titulo": "Sombras de mordor edição especial",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1499590467",
+    "titulo": "Ps4 edição limitada ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:29",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/sombras-de-mordor-edicao-especial-1499590585",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-edicao-limitada-1499590467",
+    "fotoUrl": "https://img.olx.com.br/images/76/766687407947538.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/766687407947538.jpg",
+      "https://img.olx.com.br/images/77/779637649186284.jpg",
+      "https://img.olx.com.br/images/78/786611284926118.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778020190
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:29",
     "fotoUrl": "https://img.olx.com.br/images/29/294694284191907.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/294694284191907.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/32/328626401466317.jpg",
       "https://img.olx.com.br/images/33/331675409520463.jpg"
     ],
-    "defeito": false,
+    "id": "1499590585",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/sombras-de-mordor-edicao-especial-1499590585",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Sombras de mordor edição especial",
     "ts": 1778020177
   },
   {
@@ -9748,25 +9768,5 @@
     "tempoOlx": "Na OLX desde abril de 2022",
     "titulo": "The Walking Dead A New Frontier - PS4",
     "ts": 1777983915
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/58/580611271614681.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/580611271614681.jpg",
-      "https://img.olx.com.br/images/60/607697757086761.jpg",
-      "https://img.olx.com.br/images/61/617640277272597.jpg"
-    ],
-    "id": "1491147139",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/star-wars-battlefront-midia-fisica-ps4-ps5-1491147139",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Star wars battlefront mídia física ps4 ps5",
-    "ts": 1777983903
   }
 ]
