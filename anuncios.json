@@ -1,22 +1,40 @@
 [
   {
-    "id": "1476121106",
-    "titulo": "Playstation 4 slim ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1499558811",
+    "titulo": "Xbox séries S 512g",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "17:28",
-    "tempoOlx": "Na OLX desde maio de 2013",
+    "detectado": "17:30",
+    "tempoOlx": "Na OLX desde março de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-slim-1476121106",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-series-s-512g-1499558811",
+    "fotoUrl": "https://img.olx.com.br/images/13/134689646575443.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/134689646575443.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778013006
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:28",
     "fotoUrl": "https://img.olx.com.br/images/11/112680499996381.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/112680499996381.jpg",
       "https://img.olx.com.br/images/12/129646490744225.jpg",
       "https://img.olx.com.br/images/13/131637615739935.jpg"
     ],
-    "defeito": false,
+    "id": "1476121106",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-slim-1476121106",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2013",
+    "titulo": "Playstation 4 slim ",
     "ts": 1778012917
   },
   {
@@ -9750,23 +9768,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Jogo ps4",
     "ts": 1777948228
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:30",
-    "fotoUrl": "https://img.olx.com.br/images/68/688665613830654.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/688665613830654.jpg"
-    ],
-    "id": "1481005824",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/terraria-ps4-1481005824",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "terraria ps4",
-    "ts": 1777948219
   }
 ]
