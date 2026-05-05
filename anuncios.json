@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499581147",
-    "titulo": "GTA V",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "outros",
+    "id": "1490611251",
+    "titulo": "FIFA 25",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "18:48",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/gta-v-1499581147",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/fifa-25-1490611251",
+    "fotoUrl": "https://img.olx.com.br/images/17/177681513927570.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/177681513927570.jpg",
+      "https://img.olx.com.br/images/19/199682633308140.jpg",
+      "https://img.olx.com.br/images/21/215648155116818.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778017712
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:48",
     "fotoUrl": "https://img.olx.com.br/images/58/587620405858220.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/587620405858220.jpg",
       "https://img.olx.com.br/images/59/599663169059874.jpg"
     ],
-    "defeito": false,
+    "id": "1499581147",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/gta-v-1499581147",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "GTA V",
     "ts": 1778017704
   },
   {
@@ -9741,25 +9761,5 @@
     "tempoOlx": "Na OLX desde outubro de 2015",
     "titulo": "Samurai SHODOWN-neogeo COLLECTION -PS4",
     "ts": 1777955182
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:26",
-    "fotoUrl": "https://img.olx.com.br/images/23/232671401236246.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/232671401236246.jpg",
-      "https://img.olx.com.br/images/26/262642886080485.jpg",
-      "https://img.olx.com.br/images/28/283648649894660.jpg"
-    ],
-    "id": "1498893719",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/cavaleiros-do-zodiaco-alma-dos-soldados-ps4-1498893719",
-    "preco": 490,
-    "precoRaw": "R$ 490",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "Cavaleiros do zodíaco - alma dos soldados PS4",
-    "ts": 1777955174
   }
 ]
