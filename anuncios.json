@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499584430",
-    "titulo": "Battlefront",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1499584088",
+    "titulo": "Watch dogs",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "outros",
     "publicado": "",
     "detectado": "19:00",
     "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/battlefront-1499584430",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/watch-dogs-1499584088",
+    "fotoUrl": "https://img.olx.com.br/images/39/395630766806195.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/395630766806195.jpg",
+      "https://img.olx.com.br/images/41/410615649899482.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778018422
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:00",
     "fotoUrl": "https://img.olx.com.br/images/49/499607281962345.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/499607281962345.jpg",
       "https://img.olx.com.br/images/50/502656640110334.jpg"
     ],
-    "defeito": false,
+    "id": "1499584430",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/battlefront-1499584430",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Battlefront",
     "ts": 1778018414
   },
   {
@@ -9740,27 +9759,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "iPhone 11 Pro Max ",
     "ts": 1777983630
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:20",
-    "fotoUrl": "https://img.olx.com.br/images/17/178691165324469.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/178691165324469.jpg",
-      "https://img.olx.com.br/images/20/208696645077433.jpg",
-      "https://img.olx.com.br/images/23/233612405896634.jpg",
-      "https://img.olx.com.br/images/25/256687165655506.jpg",
-      "https://img.olx.com.br/images/28/283695640878677.jpg"
-    ],
-    "id": "1499399126",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/controle-de-ps5-e-jogos-1499399126",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Controle de ps5 e jogos ",
-    "ts": 1777983625
   }
 ]
