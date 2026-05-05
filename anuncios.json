@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499600736",
-    "titulo": "Venda de jogos de ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1499601527",
+    "titulo": "Nintendo Switch Lite ",
+    "preco": 799,
+    "precoRaw": "R$ 799",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "20:15",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "20:19",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/venda-de-jogos-de-ps4-1499600736",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/nintendo-switch-lite-1499601527",
+    "fotoUrl": "https://img.olx.com.br/images/29/297623767263529.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/297623767263529.jpg",
+      "https://img.olx.com.br/images/31/314627884141314.jpg",
+      "https://img.olx.com.br/images/34/342612642105515.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778023177
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:15",
     "fotoUrl": "https://img.olx.com.br/images/95/957675525597894.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/957675525597894.jpg"
     ],
-    "defeito": false,
+    "id": "1499600736",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/venda-de-jogos-de-ps4-1499600736",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Venda de jogos de ps4",
     "ts": 1778022950
   },
   {
@@ -9779,23 +9799,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Pes 2021 ps4 ps5 somente venda ",
     "ts": 1777984236
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:30",
-    "fotoUrl": "https://img.olx.com.br/images/41/414547721119781.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/414547721119781.jpg"
-    ],
-    "id": "1373073952",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/just-cause-4-gold-edition-ps4-lacrado-1373073952",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2014",
-    "titulo": "Just Cause 4 Gold Edition (PS4) Lacrado",
-    "ts": 1777984227
   }
 ]
