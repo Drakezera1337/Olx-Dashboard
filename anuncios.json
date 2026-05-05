@@ -1,21 +1,44 @@
 [
   {
-    "id": "1499401049",
-    "titulo": "Ps3 slim (com defeito)",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps3",
+    "id": "1482413428",
+    "titulo": "PS4 SLIM 500 GB versão sistema 9.60",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "09:22",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps3-slim-com-defeito-1499401049",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-500-gb-versao-sistema-9-60-1482413428",
+    "fotoUrl": "https://img.olx.com.br/images/52/529605621743425.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/529605621743425.jpg",
+      "https://img.olx.com.br/images/29/295640506008306.jpg",
+      "https://img.olx.com.br/images/36/362609384224725.jpg",
+      "https://img.olx.com.br/images/47/478691745551496.jpg",
+      "https://img.olx.com.br/images/73/735670509000982.jpg",
+      "https://img.olx.com.br/images/31/312697380566088.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983777
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:22",
     "fotoUrl": "https://img.olx.com.br/images/58/586636528575369.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/586636528575369.jpg",
       "https://img.olx.com.br/images/59/591616168540131.jpg"
     ],
-    "defeito": false,
+    "id": "1499401049",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps3-slim-com-defeito-1499401049",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "titulo": "Ps3 slim (com defeito)",
     "ts": 1777983763
   },
   {
@@ -9764,24 +9787,5 @@
     "tempoOlx": "Na OLX desde novembro de 2023",
     "titulo": "The witcher 3 Inclui DLC - PS4",
     "ts": 1777919057
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:24",
-    "fotoUrl": "https://img.olx.com.br/images/66/663648370910671.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/663648370910671.jpg",
-      "https://img.olx.com.br/images/65/654648858541807.jpg"
-    ],
-    "id": "1479886308",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-play-station-fallout-76-midia-fisica-1479886308",
-    "preco": 85,
-    "precoRaw": "R$ 85",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2014",
-    "titulo": "Jogo Play Station Fallout 76 Midia Fisica",
-    "ts": 1777919046
   }
 ]
