@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499574011",
-    "titulo": "iPhone 15 128GB",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "categoria": "iphone",
+    "id": "1499574178",
+    "titulo": "PS5 DIGITAL VERSION",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:09",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "18:10",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-1499574011",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-digital-version-1499574178",
+    "fotoUrl": "https://img.olx.com.br/images/47/475691523132362.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/475691523132362.jpg",
+      "https://img.olx.com.br/images/49/494650760076614.jpg",
+      "https://img.olx.com.br/images/51/516688286130306.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778015406
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:09",
     "fotoUrl": "https://img.olx.com.br/images/43/436613763167270.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/436613763167270.jpg",
       "https://img.olx.com.br/images/44/443689649860886.jpg"
     ],
-    "defeito": false,
+    "id": "1499574011",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-1499574011",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "iPhone 15 128GB",
     "ts": 1778015376
   },
   {
@@ -9723,26 +9743,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2022",
     "titulo": "Street fighter de ps4 ",
     "ts": 1777950527
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:08",
-    "fotoUrl": "https://img.olx.com.br/images/20/200683765805883.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/200683765805883.jpg",
-      "https://img.olx.com.br/images/21/210607168013461.jpg",
-      "https://img.olx.com.br/images/22/229678401577939.jpg",
-      "https://img.olx.com.br/images/24/246689881008375.jpg"
-    ],
-    "id": "1499315132",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodborne-ps4-ps5-1499315132",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Bloodborne - PS4/PS5 ",
-    "ts": 1777950519
   }
 ]
