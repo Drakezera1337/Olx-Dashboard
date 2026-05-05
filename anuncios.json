@@ -1,20 +1,38 @@
 [
   {
-    "id": "1486872971",
-    "titulo": "Batman Arkham Knight - Playstation 4",
-    "preco": 53,
-    "precoRaw": "R$ 53",
+    "id": "1486872715",
+    "titulo": "Dragon Age Inquisition - Playstation 4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:23",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/batman-arkham-knight-playstation-4-1486872971",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/dragon-age-inquisition-playstation-4-1486872715",
+    "fotoUrl": "https://img.olx.com.br/images/45/452617622742567.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/452617622742567.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777998206
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:23",
     "fotoUrl": "https://img.olx.com.br/images/19/192659502860563.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/192659502860563.jpg"
     ],
-    "defeito": false,
+    "id": "1486872971",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/batman-arkham-knight-playstation-4-1486872971",
+    "preco": 53,
+    "precoRaw": "R$ 53",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Batman Arkham Knight - Playstation 4",
     "ts": 1777998197
   },
   {
@@ -9774,23 +9792,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Killzone Shadow Fall",
     "ts": 1777933360
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:22",
-    "fotoUrl": "https://img.olx.com.br/images/68/686686036280249.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/686686036280249.jpg"
-    ],
-    "id": "1490920697",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/battlefield-4-1490920697",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Battlefield 4",
-    "ts": 1777933353
   }
 ]
