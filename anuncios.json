@@ -1,22 +1,43 @@
 [
   {
-    "id": "1499589862",
-    "titulo": "Ps4 slim 1 TB",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1499589673",
+    "titulo": "Jogo Spider Man PS4",
+    "preco": 99,
+    "precoRaw": "R$ 99",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:24",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-slim-1-tb-1499589862",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-spider-man-ps4-1499589673",
+    "fotoUrl": "https://img.olx.com.br/images/31/317612768864690.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/317612768864690.jpg",
+      "https://img.olx.com.br/images/31/313616049482995.jpg",
+      "https://img.olx.com.br/images/31/316651526560679.jpg",
+      "https://img.olx.com.br/images/30/309629286836611.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778019878
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:24",
     "fotoUrl": "https://img.olx.com.br/images/94/946673408239190.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/946673408239190.jpg",
       "https://img.olx.com.br/images/95/952620160287056.jpg",
       "https://img.olx.com.br/images/97/975619286515357.jpg"
     ],
-    "defeito": false,
+    "id": "1499589862",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-slim-1-tb-1499589862",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps4 slim 1 TB",
     "ts": 1778019846
   },
   {
@@ -9749,23 +9770,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Call Of Duty Infinity Warfare PS4",
     "ts": 1777983860
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/32/325635408228959.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/325635408228959.jpg"
-    ],
-    "id": "1499409479",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/god-of-war-1499409479",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "God of War",
-    "ts": 1777983851
   }
 ]
