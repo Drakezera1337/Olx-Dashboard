@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499410705",
-    "titulo": "Lote de jogos - 26 jogos / ps4/ ps5/xbox one",
-    "preco": 1290,
-    "precoRaw": "R$ 1.290",
-    "categoria": "ps5",
+    "id": "1499414451",
+    "titulo": "Playstation 3",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "09:32",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "detectado": "09:37",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/lote-de-jogos-26-jogos-ps4-ps5-xbox-one-1499410705",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-1499414451",
+    "fotoUrl": "https://img.olx.com.br/images/35/358634883159919.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/358634883159919.jpg",
+      "https://img.olx.com.br/images/33/336637644935581.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777984629
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:32",
     "fotoUrl": "https://img.olx.com.br/images/82/827662281076849.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/827662281076849.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/13/133665285500964.jpg",
       "https://img.olx.com.br/images/15/153650406425351.jpg"
     ],
-    "defeito": false,
+    "id": "1499410705",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/lote-de-jogos-26-jogos-ps4-ps5-xbox-one-1499410705",
+    "preco": 1290,
+    "precoRaw": "R$ 1.290",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Lote de jogos - 26 jogos / ps4/ ps5/xbox one",
     "ts": 1777984364
   },
   {
@@ -9753,27 +9772,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "182 Jogos de PlayStation (Envio Pelo OLX Pay)",
     "ts": 1777921852
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:06",
-    "fotoUrl": "https://img.olx.com.br/images/57/579655164181939.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/579655164181939.jpg",
-      "https://img.olx.com.br/images/58/584622042810023.jpg",
-      "https://img.olx.com.br/images/59/598643400700796.jpg",
-      "https://img.olx.com.br/images/60/609641642644051.jpg",
-      "https://img.olx.com.br/images/62/621639644298279.jpg"
-    ],
-    "id": "1499188840",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-fat-1tb-sem-controle-1499188840",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "Ps4 fat 1tb (sem controle)",
-    "ts": 1777921575
   }
 ]
