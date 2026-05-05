@@ -1,15 +1,32 @@
 [
   {
-    "id": "1499287700",
-    "titulo": "Nintendo switch lite, V1, V2 e Oled ",
-    "preco": 399,
-    "precoRaw": "R$ 399",
-    "categoria": "switch",
+    "id": "1499288511",
+    "titulo": "Jogo PS4 Just Dance 2017 nacional e original ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:52",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "21:53",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/nintendo-switch-lite-v1-v2-e-oled-1499287700",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogo-ps4-just-dance-2017-nacional-e-original-1499288511",
+    "fotoUrl": "https://img.olx.com.br/images/35/352692886414873.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/352692886414873.jpg",
+      "https://img.olx.com.br/images/38/383644880173795.jpg",
+      "https://img.olx.com.br/images/40/400631761843451.jpg",
+      "https://img.olx.com.br/images/42/427682045168737.jpg",
+      "https://img.olx.com.br/images/45/456612527414610.jpg",
+      "https://img.olx.com.br/images/47/470694165390054.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777942388
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:52",
     "fotoUrl": "https://img.olx.com.br/images/54/546681282623445.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/546681282623445.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/58/587674642257760.jpg",
       "https://img.olx.com.br/images/60/608606887741512.jpg"
     ],
-    "defeito": false,
+    "id": "1499287700",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/nintendo-switch-lite-v1-v2-e-oled-1499287700",
+    "preco": 399,
+    "precoRaw": "R$ 399",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Nintendo switch lite, V1, V2 e Oled ",
     "ts": 1777942327
   },
   {
@@ -9827,25 +9850,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "Jogo Ps4 Doom Eternal",
     "ts": 1777906627
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:56",
-    "fotoUrl": "https://img.olx.com.br/images/38/389620164264590.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/389620164264590.jpg",
-      "https://img.olx.com.br/images/38/385621280946690.jpg",
-      "https://img.olx.com.br/images/38/389676167820611.jpg"
-    ],
-    "id": "1499117230",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/nier-automata-midia-fisica-ps4-1499117230",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "NieR: Automata - Mídia Física PS4",
-    "ts": 1777906619
   }
 ]
