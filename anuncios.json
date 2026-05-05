@@ -1,21 +1,40 @@
 [
   {
-    "id": "1422320900",
-    "titulo": "Batman: Arkham Asylum - Game of the Year Edition - Ps3",
-    "preco": 30,
-    "precoRaw": "R$ 30",
+    "id": "1499353217",
+    "titulo": "Playstation 3",
+    "preco": 300,
+    "precoRaw": "R$ 300",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "09:22",
-    "tempoOlx": "Na OLX desde setembro de 2016",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/batman-arkham-asylum-game-of-the-year-edition-ps3-1422320900",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1499353217",
+    "fotoUrl": "https://img.olx.com.br/images/77/771694645473792.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/771694645473792.jpg",
+      "https://img.olx.com.br/images/78/781684521112612.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983754
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:22",
     "fotoUrl": "https://img.olx.com.br/images/76/769514421178843.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/769514421178843.jpg",
       "https://img.olx.com.br/images/78/780547667258974.jpg"
     ],
-    "defeito": false,
+    "id": "1422320900",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/batman-arkham-asylum-game-of-the-year-edition-ps3-1422320900",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2016",
+    "titulo": "Batman: Arkham Asylum - Game of the Year Edition - Ps3",
     "ts": 1777983747
   },
   {
@@ -9764,24 +9783,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "Jogo PS4 Sekiro Midia Fisica",
     "ts": 1777919037
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:23",
-    "fotoUrl": "https://img.olx.com.br/images/79/796685251230447.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/796685251230447.jpg",
-      "https://img.olx.com.br/images/79/796642738822113.jpg"
-    ],
-    "id": "1479892576",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-ps4-just-cause-4-midia-fisica-1479892576",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2014",
-    "titulo": "Jogo PS4 Just Cause 4 Midia Fisica",
-    "ts": 1777919027
   }
 ]
