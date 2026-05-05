@@ -1,20 +1,39 @@
 [
   {
-    "id": "1486871980",
-    "titulo": "Ratchet and Clank - Playstation 4",
-    "preco": 48,
-    "precoRaw": "R$ 48",
+    "id": "1499478385",
+    "titulo": "PlayStation 4",
+    "preco": 1650,
+    "precoRaw": "R$ 1.650",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:22",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ratchet-and-clank-playstation-4-1486871980",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/playstation-4-1499478385",
+    "fotoUrl": "https://img.olx.com.br/images/40/404661647500625.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/404661647500625.jpg",
+      "https://img.olx.com.br/images/41/415634765483324.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777998163
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:22",
     "fotoUrl": "https://img.olx.com.br/images/61/614673748716138.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/614673748716138.jpg"
     ],
-    "defeito": false,
+    "id": "1486871980",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ratchet-and-clank-playstation-4-1486871980",
+    "preco": 48,
+    "precoRaw": "R$ 48",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Ratchet and Clank - Playstation 4",
     "ts": 1777998154
   },
   {
@@ -9769,23 +9788,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "FarCry 4",
     "ts": 1777933315
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:21",
-    "fotoUrl": "https://img.olx.com.br/images/91/914669638068826.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/914669638068826.jpg"
-    ],
-    "id": "1490916601",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/tom-clancy-s-the-division-2-1490916601",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Tom Clancy's The Division 2",
-    "ts": 1777933305
   }
 ]
