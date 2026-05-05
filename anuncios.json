@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499383642",
-    "titulo": "Kit ps5 R$ 1.400",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps5",
+    "id": "1499399835",
+    "titulo": "iPhone 14",
+    "preco": 3400,
+    "precoRaw": "R$ 3.400",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "09:20",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/kit-ps5-r-1-400-1499383642",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1499399835",
+    "fotoUrl": "https://img.olx.com.br/images/45/458663164787146.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/458663164787146.jpg",
+      "https://img.olx.com.br/images/46/467638405197604.jpg",
+      "https://img.olx.com.br/images/47/471672406439054.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983644
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:20",
     "fotoUrl": "https://img.olx.com.br/images/26/264623041831734.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/264623041831734.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/30/301679762452932.jpg",
       "https://img.olx.com.br/images/32/329618888095978.jpg"
     ],
-    "defeito": false,
+    "id": "1499383642",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/kit-ps5-r-1-400-1499383642",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "Kit ps5 R$ 1.400",
     "ts": 1777983636
   },
   {
@@ -9757,25 +9777,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "JOGOS PS5/PS4 aparti de 29,90",
     "ts": 1777918697
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:18",
-    "fotoUrl": "https://img.olx.com.br/images/28/280616644541530.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/280616644541530.jpg",
-      "https://img.olx.com.br/images/30/301621409775180.jpg",
-      "https://img.olx.com.br/images/33/337695289465559.jpg"
-    ],
-    "id": "1499180629",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-formula-1-2018-ps4-1499180629",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Jogo Fórmula 1 2018 PS4 ",
-    "ts": 1777918686
   }
 ]
