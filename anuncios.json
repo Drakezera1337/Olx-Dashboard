@@ -1,21 +1,42 @@
 [
   {
-    "id": "1499588726",
-    "titulo": "Days gone",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1499590585",
+    "titulo": "Sombras de mordor edição especial",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "19:25",
+    "detectado": "19:29",
     "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/days-gone-1499588726",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/sombras-de-mordor-edicao-especial-1499590585",
+    "fotoUrl": "https://img.olx.com.br/images/29/294694284191907.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/294694284191907.jpg",
+      "https://img.olx.com.br/images/31/311630643315607.jpg",
+      "https://img.olx.com.br/images/32/328626401466317.jpg",
+      "https://img.olx.com.br/images/33/331675409520463.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778020177
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:25",
     "fotoUrl": "https://img.olx.com.br/images/48/484623766792374.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/484623766792374.jpg",
       "https://img.olx.com.br/images/49/496602405591522.jpg"
     ],
-    "defeito": false,
+    "id": "1499588726",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/days-gone-1499588726",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Days gone",
     "ts": 1778019911
   },
   {
@@ -9747,26 +9768,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Star wars battlefront mídia física ps4 ps5",
     "ts": 1777983903
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/79/797634486058112.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/797634486058112.jpg",
-      "https://img.olx.com.br/images/81/816657367102288.jpg",
-      "https://img.olx.com.br/images/82/821601122676618.jpg",
-      "https://img.olx.com.br/images/84/847694845310882.jpg"
-    ],
-    "id": "1471366179",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-the-division-ps4-ps5-midia-fisica-1471366179",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Jogo The Division ps4/ps5 mídia física ",
-    "ts": 1777983895
   }
 ]
