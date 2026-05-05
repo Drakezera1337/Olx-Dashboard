@@ -1,21 +1,44 @@
 [
   {
-    "id": "1499388808",
-    "titulo": "Controle Séries S Verde",
-    "preco": 200,
-    "precoRaw": "R$ 200",
+    "id": "1499350027",
+    "titulo": "Xbox series s Americano ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "09:21",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/controle-series-s-verde-1499388808",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-americano-1499350027",
+    "fotoUrl": "https://img.olx.com.br/images/60/603638888121502.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/603638888121502.jpg",
+      "https://img.olx.com.br/images/62/622606166301878.jpg",
+      "https://img.olx.com.br/images/64/646676642838084.jpg",
+      "https://img.olx.com.br/images/65/651653766535413.jpg",
+      "https://img.olx.com.br/images/67/675609047608657.jpg",
+      "https://img.olx.com.br/images/68/681641528455646.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983706
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:21",
     "fotoUrl": "https://img.olx.com.br/images/92/924630645681080.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/924630645681080.jpg",
       "https://img.olx.com.br/images/94/943692880347693.jpg"
     ],
-    "defeito": false,
+    "id": "1499388808",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/controle-series-s-verde-1499388808",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Controle Séries S Verde",
     "ts": 1777983696
   },
   {
@@ -9758,24 +9781,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "Red Dead Redemption 2",
     "ts": 1777918983
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:22",
-    "fotoUrl": "https://img.olx.com.br/images/76/769608522844381.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/769608522844381.jpg",
-      "https://img.olx.com.br/images/78/786653761404359.jpg"
-    ],
-    "id": "1499182562",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-station-4-1499182562",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Play station 4 ",
-    "ts": 1777918974
   }
 ]
