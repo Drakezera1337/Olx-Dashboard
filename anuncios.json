@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499353217",
-    "titulo": "Playstation 3",
-    "preco": 300,
-    "precoRaw": "R$ 300",
+    "id": "1499401049",
+    "titulo": "Ps3 slim (com defeito)",
+    "preco": 450,
+    "precoRaw": "R$ 450",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "09:22",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1499353217",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps3-slim-com-defeito-1499401049",
+    "fotoUrl": "https://img.olx.com.br/images/58/586636528575369.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/586636528575369.jpg",
+      "https://img.olx.com.br/images/59/591616168540131.jpg"
+    ],
+    "defeito": false,
+    "ts": 1777983763
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:22",
     "fotoUrl": "https://img.olx.com.br/images/77/771694645473792.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/771694645473792.jpg",
       "https://img.olx.com.br/images/78/781684521112612.jpg"
     ],
-    "defeito": false,
+    "id": "1499353217",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1499353217",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Playstation 3",
     "ts": 1777983754
   },
   {
@@ -9764,24 +9783,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "Jogo Play Station Fallout 76 Midia Fisica",
     "ts": 1777919046
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:23",
-    "fotoUrl": "https://img.olx.com.br/images/35/350677611981588.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/350677611981588.jpg",
-      "https://img.olx.com.br/images/34/340644494420795.jpg"
-    ],
-    "id": "1479891948",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-ps4-sekiro-midia-fisica-1479891948",
-    "preco": 280,
-    "precoRaw": "R$ 280",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2014",
-    "titulo": "Jogo PS4 Sekiro Midia Fisica",
-    "ts": 1777919037
   }
 ]
