@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499773290",
-    "titulo": "PS4 Game",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "categoria": "ps4",
+    "id": "1499773584",
+    "titulo": "Vídeo game ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:50",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "detectado": "12:53",
+    "tempoOlx": "Na OLX desde agosto de 2021",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-game-1499773290",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-1499773584",
+    "fotoUrl": "https://img.olx.com.br/images/49/494637408211431.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/494637408211431.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778082786
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:50",
     "fotoUrl": "https://img.olx.com.br/images/78/784687760881482.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/784687760881482.jpg",
       "https://img.olx.com.br/images/79/793699648595816.jpg"
     ],
-    "defeito": false,
+    "id": "1499773290",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-game-1499773290",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "PS4 Game",
     "ts": 1778082651
   },
   {
@@ -9932,23 +9950,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Call Of Duty Advanced Warfare Jogo PS4 Original + Envio",
     "ts": 1778012416
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:20",
-    "fotoUrl": "https://img.olx.com.br/images/54/547676520309410.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/547676520309410.jpg"
-    ],
-    "id": "1499537497",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-gran-turismo-7-ps4-playstation-4-ps5-1499537497",
-    "preco": 149,
-    "precoRaw": "R$ 149",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Jogo Gran Turismo 7 PS4 Playstation 4 PS5",
-    "ts": 1778012407
   }
 ]
