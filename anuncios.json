@@ -1,22 +1,42 @@
 [
   {
-    "id": "1499803931",
-    "titulo": "Playstation 4",
-    "preco": 2150,
-    "precoRaw": "R$ 2.150",
+    "id": "1499804633",
+    "titulo": "Ps4",
+    "preco": 650,
+    "precoRaw": "R$ 650",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:55",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "detectado": "14:57",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/playstation-4-1499803931",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1499804633",
+    "fotoUrl": "https://img.olx.com.br/images/77/775633643680300.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/775633643680300.jpg",
+      "https://img.olx.com.br/images/79/798670760247750.jpg",
+      "https://img.olx.com.br/images/80/802670524967490.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778090258
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:55",
     "fotoUrl": "https://img.olx.com.br/images/13/131618284620764.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/131618284620764.jpg",
       "https://img.olx.com.br/images/13/134678163845372.jpg",
       "https://img.olx.com.br/images/13/134627763656036.jpg"
     ],
-    "defeito": false,
+    "id": "1499803931",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/playstation-4-1499803931",
+    "preco": 2150,
+    "precoRaw": "R$ 2.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "titulo": "Playstation 4",
     "ts": 1778090147
   },
   {
@@ -9941,24 +9961,5 @@
     "tempoOlx": "Na OLX desde março de 2023",
     "titulo": "PlayStation 4 slim com controle e jogo",
     "ts": 1778019572
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:19",
-    "fotoUrl": "https://img.olx.com.br/images/46/466679289706907.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/466679289706907.jpg",
-      "https://img.olx.com.br/images/47/470609647886647.jpg"
-    ],
-    "id": "1499587362",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/homem-aranha-miles-morales-1499587362",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Homem-aranha Miles Morales",
-    "ts": 1778019563
   }
 ]
