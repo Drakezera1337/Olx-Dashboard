@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499783508",
-    "titulo": "God Of War 4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1499784571",
+    "titulo": "Playstation Portal",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:36",
-    "tempoOlx": "Na OLX desde março de 2017",
+    "detectado": "13:37",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/god-of-war-4-1499783508",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-portal-1499784571",
+    "fotoUrl": "https://img.olx.com.br/images/20/209676401181858.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/209676401181858.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778085427
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:36",
     "fotoUrl": "https://img.olx.com.br/images/96/961695161306934.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/961695161306934.jpg"
     ],
-    "defeito": false,
+    "id": "1499783508",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/god-of-war-4-1499783508",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "God Of War 4",
     "ts": 1778085395
   },
   {
@@ -9958,30 +9976,5 @@
     "tempoOlx": "Na OLX desde maio de 2025",
     "titulo": "Xbox séries s",
     "ts": 1778016608
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:22",
-    "fotoUrl": "https://img.olx.com.br/images/30/300689766274610.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/300689766274610.jpg",
-      "https://img.olx.com.br/images/30/308668280075493.jpg",
-      "https://img.olx.com.br/images/30/308651409697648.jpg",
-      "https://img.olx.com.br/images/30/306623168633908.jpg",
-      "https://img.olx.com.br/images/36/365632880457115.jpg",
-      "https://img.olx.com.br/images/36/360693526424369.jpg",
-      "https://img.olx.com.br/images/36/367673163453968.jpg",
-      "https://img.olx.com.br/images/36/364651043502900.jpg"
-    ],
-    "id": "1499575917",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/ps5-1499575917",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Ps5",
-    "ts": 1778016128
   }
 ]
