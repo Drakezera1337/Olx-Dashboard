@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499809713",
-    "titulo": "ASTRO BOT PS5",
+    "id": "1499809427",
+    "titulo": "Gran Turismo 7 PS5",
     "preco": 120,
     "precoRaw": "R$ 120",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "17:33",
+    "detectado": "17:34",
     "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/astro-bot-ps5-1499809713",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/gran-turismo-7-ps5-1499809427",
+    "fotoUrl": "https://img.olx.com.br/images/54/542622643313996.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/542622643313996.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099644
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:33",
     "fotoUrl": "https://img.olx.com.br/images/39/391612640288001.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/391612640288001.jpg"
     ],
-    "defeito": false,
+    "id": "1499809713",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/astro-bot-ps5-1499809713",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "ASTRO BOT PS5",
     "ts": 1778099637
   },
   {
@@ -9952,25 +9970,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Jogos de PS4",
     "ts": 1778021175
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:46",
-    "fotoUrl": "https://img.olx.com.br/images/43/438608406636300.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/438608406636300.jpg",
-      "https://img.olx.com.br/images/44/445694163795725.jpg",
-      "https://img.olx.com.br/images/46/467619286978359.jpg"
-    ],
-    "id": "1499594452",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-2-jogos-ps4-1499594452",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "Vendo 2 jogos ps4",
-    "ts": 1778021166
   }
 ]
