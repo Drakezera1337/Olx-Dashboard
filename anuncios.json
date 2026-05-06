@@ -1,20 +1,42 @@
 [
   {
-    "id": "1499751291",
-    "titulo": "iPhone 16 Branco - 128GB",
-    "preco": 4300,
-    "precoRaw": "R$ 4.300",
-    "categoria": "iphone",
+    "id": "1499752159",
+    "titulo": "Ps4 slim nunca aberto e com jogos",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:43",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "11:44",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-branco-128gb-1499751291",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-slim-nunca-aberto-e-com-jogos-1499752159",
+    "fotoUrl": "https://img.olx.com.br/images/34/341620404610182.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/341620404610182.jpg",
+      "https://img.olx.com.br/images/38/389687164041296.jpg",
+      "https://img.olx.com.br/images/41/415617763681954.jpg",
+      "https://img.olx.com.br/images/45/454665160438651.jpg",
+      "https://img.olx.com.br/images/50/502681886610888.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778078678
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:43",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1499751291",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-branco-128gb-1499751291",
+    "preco": 4300,
+    "precoRaw": "R$ 4.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "iPhone 16 Branco - 128GB",
     "ts": 1778078617
   },
   {
@@ -9901,24 +9923,5 @@
     "tempoOlx": "Na OLX desde julho de 2022",
     "titulo": "PAY DAY 2 PS4",
     "ts": 1778011303
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:01",
-    "fotoUrl": "https://img.olx.com.br/images/48/488546224782705.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/488546224782705.jpg",
-      "https://img.olx.com.br/images/50/506577584091927.jpg"
-    ],
-    "id": "1455688618",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/destiny-ps4-1455688618",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2022",
-    "titulo": "DESTINY PS4",
-    "ts": 1778011294
   }
 ]
