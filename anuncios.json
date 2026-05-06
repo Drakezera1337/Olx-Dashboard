@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499548410",
-    "titulo": "Ps3 slim",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "ps3",
+    "id": "1499791522",
+    "titulo": "Ps4 500GB",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:05",
-    "tempoOlx": "Na OLX desde outubro de 2021",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-slim-1499548410",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-500gb-1499791522",
+    "fotoUrl": "https://img.olx.com.br/images/42/423698766677124.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/423698766677124.jpg",
+      "https://img.olx.com.br/images/44/448641407339734.jpg",
+      "https://img.olx.com.br/images/45/458675520895979.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778087148
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:05",
     "fotoUrl": "https://img.olx.com.br/images/59/599603523950921.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/599603523950921.jpg"
     ],
-    "defeito": false,
+    "id": "1499548410",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-slim-1499548410",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "Ps3 slim",
     "ts": 1778087138
   },
   {
@@ -9939,25 +9959,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "Jogos ps4 lote",
     "ts": 1778017334
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:42",
-    "fotoUrl": "https://img.olx.com.br/images/78/785641168298733.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/785641168298733.jpg",
-      "https://img.olx.com.br/images/78/785684886326698.jpg",
-      "https://img.olx.com.br/images/79/792699164060821.jpg"
-    ],
-    "id": "1499580355",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-fat-500gb-1499580355",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "PS4 Fat 500Gb",
-    "ts": 1778017326
   }
 ]
