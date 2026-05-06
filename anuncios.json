@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499763192",
-    "titulo": "The Last Of Us ",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "categoria": "jogos",
+    "id": "1499763055",
+    "titulo": "Ghost Of Tusushima PS4 ORIGINAL ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:20",
-    "tempoOlx": "Na OLX desde maio de 2025",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-last-of-us-1499763192",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ghost-of-tusushima-ps4-original-1499763055",
+    "fotoUrl": "https://img.olx.com.br/images/46/466619526883961.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/466619526883961.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778080859
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:20",
     "fotoUrl": "https://img.olx.com.br/images/87/879610405711237.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/879610405711237.jpg"
     ],
-    "defeito": false,
+    "id": "1499763192",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-last-of-us-1499763192",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2025",
+    "titulo": "The Last Of Us ",
     "ts": 1778080850
   },
   {
@@ -9901,24 +9919,5 @@
     "tempoOlx": "Na OLX desde julho de 2022",
     "titulo": "Xbox Series S 512GB branco",
     "ts": 1778011567
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:05",
-    "fotoUrl": "https://img.olx.com.br/images/52/527611167683570.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/527611167683570.jpg",
-      "https://img.olx.com.br/images/52/526665406361082.jpg"
-    ],
-    "id": "1499545924",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-liberado-1499545924",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Nintendo Switch OLED liberado!",
-    "ts": 1778011550
   }
 ]
