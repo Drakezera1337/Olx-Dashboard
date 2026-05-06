@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499776298",
-    "titulo": "iPhone 13 vermelho",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "iphone",
+    "id": "1499777039",
+    "titulo": "VENDO PS3 (LEIA O ANÚNCIO, POR FAVOR).",
+    "preco": 420,
+    "precoRaw": "R$ 420",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "13:03",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "13:05",
+    "tempoOlx": "Na OLX desde novembro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-vermelho-1499776298",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/vendo-ps3-leia-o-anuncio-por-favor-1499777039",
+    "fotoUrl": "https://img.olx.com.br/images/83/830673280029722.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/830673280029722.jpg",
+      "https://img.olx.com.br/images/84/842619768421187.jpg",
+      "https://img.olx.com.br/images/86/862603766115342.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778083542
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:03",
     "fotoUrl": "https://img.olx.com.br/images/81/813668285968164.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/813668285968164.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/87/874601407563048.jpg",
       "https://img.olx.com.br/images/88/880686167695371.jpg"
     ],
-    "defeito": false,
+    "id": "1499776298",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-vermelho-1499776298",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "iPhone 13 vermelho",
     "ts": 1778083420
   },
   {
@@ -9945,25 +9965,5 @@
     "tempoOlx": "Na OLX desde março de 2016",
     "titulo": "Xbox séries S 512g",
     "ts": 1778013006
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:28",
-    "fotoUrl": "https://img.olx.com.br/images/11/112680499996381.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/112680499996381.jpg",
-      "https://img.olx.com.br/images/12/129646490744225.jpg",
-      "https://img.olx.com.br/images/13/131637615739935.jpg"
-    ],
-    "id": "1476121106",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-slim-1476121106",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2013",
-    "titulo": "Playstation 4 slim ",
-    "ts": 1778012917
   }
 ]
