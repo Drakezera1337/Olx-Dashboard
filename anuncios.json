@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499775151",
-    "titulo": "Playstation 4 1TB + 4 Jogos + 1 controle",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "ps4",
+    "id": "1499776298",
+    "titulo": "iPhone 13 vermelho",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "13:02",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "13:03",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1tb-4-jogos-1-controle-1499775151",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-vermelho-1499776298",
+    "fotoUrl": "https://img.olx.com.br/images/81/813668285968164.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/813668285968164.jpg",
+      "https://img.olx.com.br/images/83/837674762582008.jpg",
+      "https://img.olx.com.br/images/85/859692886750836.jpg",
+      "https://img.olx.com.br/images/87/874601407563048.jpg",
+      "https://img.olx.com.br/images/88/880686167695371.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778083420
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:02",
     "fotoUrl": "https://img.olx.com.br/images/46/460629762123728.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/460629762123728.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/49/491620767396294.jpg",
       "https://img.olx.com.br/images/50/504641168154640.jpg"
     ],
-    "defeito": false,
+    "id": "1499775151",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1tb-4-jogos-1-controle-1499775151",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Playstation 4 1TB + 4 Jogos + 1 controle",
     "ts": 1778083328
   },
   {
@@ -9943,23 +9965,5 @@
     "tempoOlx": "Na OLX desde maio de 2013",
     "titulo": "Playstation 4 slim ",
     "ts": 1778012917
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:24",
-    "fotoUrl": "https://img.olx.com.br/images/79/798676888881987.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/798676888881987.jpg"
-    ],
-    "id": "1499539258",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-farcry-primal-ps4-playstation-4-1499539258",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Jogo Farcry Primal PS4 Playstation 4",
-    "ts": 1778012688
   }
 ]
