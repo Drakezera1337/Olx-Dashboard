@@ -1,15 +1,52 @@
 [
   {
-    "id": "1499680046",
-    "titulo": "iphone 15 pro 128gb (excelente estado)",
-    "preco": 3900,
-    "precoRaw": "R$ 3.900",
+    "id": "1499657199",
+    "titulo": "iPhone 16 Pro max",
+    "preco": 6500,
+    "precoRaw": "R$ 6.500",
     "categoria": "iphone",
     "publicado": "",
-    "detectado": "10:30",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "10:31",
+    "tempoOlx": "Na OLX desde novembro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-128gb-excelente-estado-1499680046",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1499657199",
+    "fotoUrl": "https://img.olx.com.br/images/34/346605166530069.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/346605166530069.jpg",
+      "https://img.olx.com.br/images/35/354612403462248.jpg",
+      "https://img.olx.com.br/images/36/362677889295624.jpg",
+      "https://img.olx.com.br/images/37/374605640775637.jpg",
+      "https://img.olx.com.br/images/39/397663160740939.jpg",
+      "https://img.olx.com.br/images/40/402652761658834.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778074261
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:30",
+    "fotoUrl": "https://img.olx.com.br/images/98/980585237516354.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/980585237516354.jpg",
+      "https://img.olx.com.br/images/98/989527597474787.jpg",
+      "https://img.olx.com.br/images/98/982552115208096.jpg"
+    ],
+    "id": "1465311930",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/controle-playstation-sony-dualsense-ps5-astro-bot-branco-1465311930",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "Controle Playstation Sony Dualsense Ps5 Astro Bot Branco ",
+    "ts": 1778074253
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:30",
     "fotoUrl": "https://img.olx.com.br/images/10/106697402333619.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/106697402333619.jpg",
@@ -19,7 +56,13 @@
       "https://img.olx.com.br/images/15/157671646343575.jpg",
       "https://img.olx.com.br/images/16/162667168858194.jpg"
     ],
-    "defeito": false,
+    "id": "1499680046",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-128gb-excelente-estado-1499680046",
+    "preco": 3900,
+    "precoRaw": "R$ 3.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "iphone 15 pro 128gb (excelente estado)",
     "ts": 1778074251
   },
   {
@@ -9810,46 +9853,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "[NOVO] MediEvil PS4 Mídia Física Lacrada",
     "ts": 1777997794
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:16",
-    "fotoUrl": "https://img.olx.com.br/images/75/758682400832156.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/758682400832156.jpg",
-      "https://img.olx.com.br/images/77/772669165259305.jpg",
-      "https://img.olx.com.br/images/78/788662525460084.jpg"
-    ],
-    "id": "1499475094",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-slim-1499475094",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
-    "titulo": "Ps3 slim",
-    "ts": 1777997781
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:16",
-    "fotoUrl": "https://img.olx.com.br/images/84/847600408326496.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/847600408326496.jpg",
-      "https://img.olx.com.br/images/86/869656644807146.jpg",
-      "https://img.olx.com.br/images/87/877632768313793.jpg",
-      "https://img.olx.com.br/images/89/893614280866981.jpg"
-    ],
-    "id": "1499474391",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps3-com-defeito-na-placa-1499474391",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Ps3 com defeito na placa ",
-    "ts": 1777997771
   }
 ]
