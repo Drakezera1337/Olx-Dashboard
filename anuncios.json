@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499735639",
-    "titulo": "Xbox Series S com um controle",
+    "id": "1499201492",
+    "titulo": "Xbook série s 512",
     "preco": 1400,
     "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "10:50",
-    "tempoOlx": "Na OLX desde julho de 2022",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-com-um-controle-1499735639",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/xbook-serie-s-512-1499201492",
+    "fotoUrl": "https://img.olx.com.br/images/34/344624524950539.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/344624524950539.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778075446
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:50",
     "fotoUrl": "https://img.olx.com.br/images/86/866696648615397.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/866696648615397.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/89/892654646835484.jpg",
       "https://img.olx.com.br/images/90/902610160784362.jpg"
     ],
-    "defeito": false,
+    "id": "1499735639",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-com-um-controle-1499735639",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Xbox Series S com um controle",
     "ts": 1778075438
   },
   {
@@ -9910,25 +9928,5 @@
     "tempoOlx": "",
     "titulo": "Fifa 2020 PS4",
     "ts": 1778003652
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:54",
-    "fotoUrl": "https://img.olx.com.br/images/87/872639257491953.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/872639257491953.jpg",
-      "https://img.olx.com.br/images/87/879626616380675.jpg",
-      "https://img.olx.com.br/images/87/871630853224263.jpg"
-    ],
-    "id": "1477826534",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/prey-1477826534",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2013",
-    "titulo": "Prey",
-    "ts": 1778003644
   }
 ]
