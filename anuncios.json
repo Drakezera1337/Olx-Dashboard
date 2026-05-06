@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499723942",
-    "titulo": "Ps5 Slim 1TB",
-    "preco": 2900,
-    "precoRaw": "R$ 2.900",
-    "categoria": "ps5",
+    "id": "1499734641",
+    "titulo": "Ps4 Slim defeituoso (1TB)",
+    "preco": 289,
+    "precoRaw": "R$ 289",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:44",
-    "tempoOlx": "Na OLX desde outubro de 2015",
+    "detectado": "10:45",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-1tb-1499723942",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps4-slim-defeituoso-1tb-1499734641",
+    "fotoUrl": "https://img.olx.com.br/images/27/279636285032694.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/279636285032694.jpg",
+      "https://img.olx.com.br/images/29/297614527380248.jpg",
+      "https://img.olx.com.br/images/66/661639887958413.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778075109
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:44",
     "fotoUrl": "https://img.olx.com.br/images/34/345666285860217.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/345666285860217.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/42/422619767201197.jpg",
       "https://img.olx.com.br/images/43/439615884250421.jpg"
     ],
-    "defeito": false,
+    "id": "1499723942",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-1tb-1499723942",
+    "preco": 2900,
+    "precoRaw": "R$ 2.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2015",
+    "titulo": "Ps5 Slim 1TB",
     "ts": 1778075066
   },
   {
@@ -9896,28 +9916,5 @@
     "tempoOlx": "Na OLX desde outubro de 2025",
     "titulo": "APROVEITE AGORA | Jogo Overwatch para PS4 Original",
     "ts": 1778003275
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:47",
-    "fotoUrl": "https://img.olx.com.br/images/72/725699288967030.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/725699288967030.jpg",
-      "https://img.olx.com.br/images/74/743689288757913.jpg",
-      "https://img.olx.com.br/images/76/769660286998692.jpg",
-      "https://img.olx.com.br/images/78/780616049825705.jpg",
-      "https://img.olx.com.br/images/80/804619163801889.jpg",
-      "https://img.olx.com.br/images/82/821682644032230.jpg"
-    ],
-    "id": "1499510168",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-ps4-originais-gta-v-the-last-of-us-jedi-fallen-order-e-mais-1499510168",
-    "preco": 375,
-    "precoRaw": "R$ 375",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Jogos PS4 Originais - GTA V, The Last of Us, Jedi Fallen Order e mais",
-    "ts": 1778003267
   }
 ]
