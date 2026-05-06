@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499869075",
-    "titulo": "Xbox Series S",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1499869300",
+    "titulo": "UFC PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:47",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1499869075",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ufc-ps4-1499869300",
+    "fotoUrl": "https://img.olx.com.br/images/32/320665643675235.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/320665643675235.jpg",
+      "https://img.olx.com.br/images/33/335611762186892.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778104074
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:47",
     "fotoUrl": "https://img.olx.com.br/images/41/413629280913533.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/413629280913533.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/46/468696409497060.jpg",
       "https://img.olx.com.br/images/48/481662404457607.jpg"
     ],
-    "defeito": false,
+    "id": "1499869075",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1499869075",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "Xbox Series S",
     "ts": 1778104066
   },
   {
@@ -9946,24 +9965,5 @@
     "tempoOlx": "Na OLX desde junho de 2014",
     "titulo": "Days Gone PS4",
     "ts": 1778031457
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:34",
-    "fotoUrl": "https://img.olx.com.br/images/36/368609169051727.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/368609169051727.jpg",
-      "https://img.olx.com.br/images/37/378687047083889.jpg"
-    ],
-    "id": "1499631243",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-1499631243",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "Ps3 slim",
-    "ts": 1778031247
   }
 ]
