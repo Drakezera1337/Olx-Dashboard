@@ -1,20 +1,43 @@
 [
   {
-    "id": "1499201492",
-    "titulo": "Xbook série s 512",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "outros",
+    "id": "1499735433",
+    "titulo": "vendo jogos de super nintendo ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "10:50",
-    "tempoOlx": "Na OLX desde julho de 2024",
+    "tempoOlx": "Na OLX desde março de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/xbook-serie-s-512-1499201492",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/vendo-jogos-de-super-nintendo-1499735433",
+    "fotoUrl": "https://img.olx.com.br/images/52/527681165410485.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/527681165410485.jpg",
+      "https://img.olx.com.br/images/55/551648281301444.jpg",
+      "https://img.olx.com.br/images/57/575629649041949.jpg",
+      "https://img.olx.com.br/images/59/593684762412466.jpg",
+      "https://img.olx.com.br/images/62/621683643471244.jpg",
+      "https://img.olx.com.br/images/65/656635644516922.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778075455
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:50",
     "fotoUrl": "https://img.olx.com.br/images/34/344624524950539.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/344624524950539.jpg"
     ],
-    "defeito": false,
+    "id": "1499201492",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/xbook-serie-s-512-1499201492",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "titulo": "Xbook série s 512",
     "ts": 1778075446
   },
   {
@@ -9908,25 +9931,5 @@
     "tempoOlx": "Na OLX desde março de 2013",
     "titulo": "Titanfall 2",
     "ts": 1778003662
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:54",
-    "fotoUrl": "https://img.olx.com.br/images/31/314611285542585.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/314611285542585.jpg",
-      "https://img.olx.com.br/images/33/335643407484826.jpg",
-      "https://img.olx.com.br/images/35/354641406163628.jpg"
-    ],
-    "id": "1499512324",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-2020-ps4-1499512324",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Fifa 2020 PS4",
-    "ts": 1778003652
   }
 ]
