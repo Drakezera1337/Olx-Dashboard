@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499776488",
-    "titulo": "Playstation 4, com mais de 30 jogos.",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
+    "id": "1499776338",
+    "titulo": "PlayStation 4 Slim edição limitada do Call of Duty",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:07",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "13:08",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/playstation-4-com-mais-de-30-jogos-1499776488",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-slim-edicao-limitada-do-call-of-duty-1499776338",
+    "fotoUrl": "https://img.olx.com.br/images/68/680622406549793.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/680622406549793.jpg",
+      "https://img.olx.com.br/images/70/702671281226652.jpg",
+      "https://img.olx.com.br/images/73/737619769505340.jpg",
+      "https://img.olx.com.br/images/74/743660643704545.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778083683
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:07",
     "fotoUrl": "https://img.olx.com.br/images/77/777649649679984.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/777649649679984.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/80/803689167846037.jpg",
       "https://img.olx.com.br/images/82/828654283628995.jpg"
     ],
-    "defeito": false,
+    "id": "1499776488",
+    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/playstation-4-com-mais-de-30-jogos-1499776488",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Playstation 4, com mais de 30 jogos.",
     "ts": 1778083672
   },
   {
@@ -9947,25 +9968,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Três jogos The Last of us, Death stranding, GTA 5 ",
     "ts": 1778013032
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:30",
-    "fotoUrl": "https://img.olx.com.br/images/58/584637761679364.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/584637761679364.jpg",
-      "https://img.olx.com.br/images/60/609620288362777.jpg",
-      "https://img.olx.com.br/images/62/627622761556159.jpg"
-    ],
-    "id": "1499559116",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/vendo-just-cause-3-1499559116",
-    "preco": 52,
-    "precoRaw": "R$ 52",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Vendo Just cause 3 ",
-    "ts": 1778013024
   }
 ]
