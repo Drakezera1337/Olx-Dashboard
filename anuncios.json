@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499835706",
-    "titulo": "PS5 ",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
+    "id": "1499835215",
+    "titulo": "Ps5 slim",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "17:32",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/ps5-1499835706",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps5-slim-1499835215",
+    "fotoUrl": "https://img.olx.com.br/images/86/868636765942149.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/868636765942149.jpg",
+      "https://img.olx.com.br/images/87/876679887062079.jpg",
+      "https://img.olx.com.br/images/88/888688285884787.jpg",
+      "https://img.olx.com.br/images/89/897651162050189.jpg",
+      "https://img.olx.com.br/images/90/907696285543629.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099530
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/40/406672880945940.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/406672880945940.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/48/486624047274525.jpg",
       "https://img.olx.com.br/images/50/501623046918083.jpg"
     ],
-    "defeito": false,
+    "id": "1499835706",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/ps5-1499835706",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS5 ",
     "ts": 1778099522
   },
   {
@@ -41,16 +63,10 @@
     "ts": 1778099513
   },
   {
-    "id": "1499832282",
-    "titulo": "VENDO OU TROCO IPHONE 15 PRÓ MAX LEIA O ANÚNCIO POR FAVOR!",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
     "categoria": "iphone",
-    "publicado": "",
-    "detectado": "17:31",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-ou-troco-iphone-15-pro-max-leia-o-anuncio-por-favor-1499832282",
+    "detectado": "17:31",
     "fotoUrl": "https://img.olx.com.br/images/44/447691407987787.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/447691407987787.jpg",
@@ -58,7 +74,13 @@
       "https://img.olx.com.br/images/46/466607762568058.jpg",
       "https://img.olx.com.br/images/47/479603162042709.jpg"
     ],
-    "defeito": false,
+    "id": "1499832282",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-ou-troco-iphone-15-pro-max-leia-o-anuncio-por-favor-1499832282",
+    "preco": 4000,
+    "precoRaw": "R$ 4.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "VENDO OU TROCO IPHONE 15 PRÓ MAX LEIA O ANÚNCIO POR FAVOR!",
     "ts": 1778099513
   },
   {
@@ -9951,24 +9973,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Dark Sous 3",
     "ts": 1778019902
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:24",
-    "fotoUrl": "https://img.olx.com.br/images/65/650693282811896.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/650693282811896.jpg",
-      "https://img.olx.com.br/images/67/671672640789046.jpg"
-    ],
-    "id": "1499589722",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/crash-trilogia-1499589722",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Crash trilogia ",
-    "ts": 1778019893
   }
 ]
