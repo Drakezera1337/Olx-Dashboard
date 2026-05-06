@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499235474",
-    "titulo": "iPhone 11 ",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "iphone",
+    "id": "1499636218",
+    "titulo": "Vingadores game ps4",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:01",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "detectado": "23:05",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1499235474",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/vingadores-game-ps4-1499636218",
+    "fotoUrl": "https://img.olx.com.br/images/36/368636404976737.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/368636404976737.jpg",
+      "https://img.olx.com.br/images/37/370666526135714.jpg",
+      "https://img.olx.com.br/images/39/397653289649670.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778033115
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:01",
     "fotoUrl": "https://img.olx.com.br/images/26/260642525960326.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/260642525960326.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/31/319611883858104.jpg",
       "https://img.olx.com.br/images/32/326647643106042.jpg"
     ],
-    "defeito": false,
+    "id": "1499235474",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1499235474",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "iPhone 11 ",
     "ts": 1778032904
   },
   {
@@ -9794,23 +9814,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Jogos PS4",
     "ts": 1777997259
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:07",
-    "fotoUrl": "https://img.olx.com.br/images/43/436677649390017.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/436677649390017.jpg"
-    ],
-    "id": "1499471774",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-1499471774",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2024",
-    "titulo": "PS4",
-    "ts": 1777997248
   }
 ]
