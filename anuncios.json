@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499777665",
-    "titulo": "VENDO PS4",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "ps4",
+    "id": "1499778667",
+    "titulo": "Vendo PlayStation 3",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "13:09",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "13:11",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vendo-ps4-1499777665",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/vendo-playstation-3-1499778667",
+    "fotoUrl": "https://img.olx.com.br/images/50/506667889946771.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/506667889946771.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778083896
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:09",
     "fotoUrl": "https://img.olx.com.br/images/65/659608166816191.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/659608166816191.jpg"
     ],
-    "defeito": false,
+    "id": "1499777665",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vendo-ps4-1499777665",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "VENDO PS4",
     "ts": 1778083776
   },
   {
@@ -9950,23 +9968,5 @@
     "tempoOlx": "Na OLX desde março de 2020",
     "titulo": "Jogos PS4 diversos . Temos loja física !",
     "ts": 1778013732
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:42",
-    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
-    "fotosUrls": [
-      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
-    ],
-    "id": "1499563231",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-1499563231",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Ps5",
-    "ts": 1778013725
   }
 ]
