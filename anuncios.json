@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499758334",
-    "titulo": "GTA V PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1489865450",
+    "titulo": "PS4",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:08",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde agosto de 2023",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/gta-v-ps4-1499758334",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1489865450",
+    "fotoUrl": "https://img.olx.com.br/images/22/228694149773324.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/228694149773324.jpg",
+      "https://img.olx.com.br/images/23/236604385845496.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778080139
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:08",
     "fotoUrl": "https://img.olx.com.br/images/65/657681169623741.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/657681169623741.jpg"
     ],
-    "defeito": false,
+    "id": "1499758334",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/gta-v-ps4-1499758334",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "GTA V PS4",
     "ts": 1778080127
   },
   {
@@ -9909,23 +9928,5 @@
     "tempoOlx": "Na OLX desde outubro de 2013",
     "titulo": "Pes 2020 Ps4/Ps5",
     "ts": 1778011484
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:04",
-    "fotoUrl": "https://img.olx.com.br/images/45/450674167382565.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/450674167382565.jpg"
-    ],
-    "id": "1499531076",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-ps5-e-ps4-1499531076",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2023",
-    "titulo": "JOGOS PS5 e PS4",
-    "ts": 1778011474
   }
 ]
