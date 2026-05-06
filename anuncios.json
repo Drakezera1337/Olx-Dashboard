@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499609736",
-    "titulo": "Pack de 11 Jogos de PS4",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1499610974",
+    "titulo": "PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:00",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "detectado": "21:02",
+    "tempoOlx": "Na OLX desde outubro de 2022",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/pack-de-11-jogos-de-ps4-1499609736",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps4-1499610974",
+    "fotoUrl": "https://img.olx.com.br/images/34/344635524191382.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/344635524191382.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778025756
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:00",
     "fotoUrl": "https://img.olx.com.br/images/82/820698286397140.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/820698286397140.jpg"
     ],
-    "defeito": false,
+    "id": "1499609736",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/pack-de-11-jogos-de-ps4-1499609736",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Pack de 11 Jogos de PS4",
     "ts": 1778025615
   },
   {
@@ -9789,23 +9807,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogo Rogue Stormers PS4 ",
     "ts": 1777985426
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:50",
-    "fotoUrl": "https://img.olx.com.br/images/61/613644644178609.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/613644644178609.jpg"
-    ],
-    "id": "1499417301",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/dark-souls-3-the-fire-fades-edition-1499417301",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Dark Souls 3 The Fire Fades Edition",
-    "ts": 1777985418
   }
 ]
