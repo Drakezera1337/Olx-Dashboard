@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499783752",
-    "titulo": "PES 2017",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "categoria": "outros",
+    "id": "1499783508",
+    "titulo": "God Of War 4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "13:36",
     "tempoOlx": "Na OLX desde março de 2017",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/pes-2017-1499783752",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/god-of-war-4-1499783508",
+    "fotoUrl": "https://img.olx.com.br/images/96/961695161306934.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/961695161306934.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778085395
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:36",
     "fotoUrl": "https://img.olx.com.br/images/65/657651407962639.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/657651407962639.jpg"
     ],
-    "defeito": false,
+    "id": "1499783752",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/pes-2017-1499783752",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "PES 2017",
     "ts": 1778085387
   },
   {
@@ -9965,26 +9983,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Ps5",
     "ts": 1778016128
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:20",
-    "fotoUrl": "https://img.olx.com.br/images/16/165626287685501.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/165626287685501.jpg",
-      "https://img.olx.com.br/images/18/189635523652520.jpg",
-      "https://img.olx.com.br/images/19/190628645714405.jpg",
-      "https://img.olx.com.br/images/21/216672646690796.jpg"
-    ],
-    "id": "1499575026",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-oportunidade-1499575026",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "Iphone 11 128gb - OPORTUNIDADE!!",
-    "ts": 1778016035
   }
 ]
