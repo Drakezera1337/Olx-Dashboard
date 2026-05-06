@@ -1,22 +1,42 @@
 [
   {
-    "id": "1482499857",
-    "titulo": "The Evil Whitin ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1466008257",
+    "titulo": "Dark Souls 3",
+    "preco": 85,
+    "precoRaw": "R$ 85",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "19:12",
     "tempoOlx": "Na OLX desde setembro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/the-evil-whitin-1482499857",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/dark-souls-3-1466008257",
+    "fotoUrl": "https://img.olx.com.br/images/24/249655491038933.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/249655491038933.jpg",
+      "https://img.olx.com.br/images/26/263694377217302.jpg",
+      "https://img.olx.com.br/images/29/292648016298754.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778105541
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:12",
     "fotoUrl": "https://img.olx.com.br/images/10/108605621913937.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/108605621913937.jpg",
       "https://img.olx.com.br/images/18/180642380487750.jpg",
       "https://img.olx.com.br/images/29/293689382647297.jpg"
     ],
-    "defeito": false,
+    "id": "1482499857",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/the-evil-whitin-1482499857",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "The Evil Whitin ",
     "ts": 1778105533
   },
   {
@@ -9948,24 +9968,5 @@
     "tempoOlx": "Na OLX desde junho de 2017",
     "titulo": "God of War 3 remasterizado",
     "ts": 1778034823
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:21",
-    "fotoUrl": "https://img.olx.com.br/images/82/825646405630654.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/825646405630654.jpg",
-      "https://img.olx.com.br/images/84/849675165128563.jpg"
-    ],
-    "id": "1499638628",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/crimson-desert-deluxe-edition-dualsense-yotei-gold-ambos-lacrados-1499638628",
-    "preco": 1550,
-    "precoRaw": "R$ 1.550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2016",
-    "titulo": "Crimson Desert Deluxe Edition + Dualsense yotei gold Ambos Lacrados ",
-    "ts": 1778034070
   }
 ]
