@@ -1,20 +1,39 @@
 [
   {
-    "id": "1499784571",
-    "titulo": "Playstation Portal",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "outros",
+    "id": "1499784281",
+    "titulo": "Playstation 3 completo desbloqueado +1000 jogos +Game stick com 20.000 jogos retrô",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:37",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-portal-1499784571",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-completo-desbloqueado-1000-jogos-game-stick-com-20-000-jogos-retro-1499784281",
+    "fotoUrl": "https://img.olx.com.br/images/92/923623400510842.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/923623400510842.jpg",
+      "https://img.olx.com.br/images/95/950612160516513.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778085434
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:37",
     "fotoUrl": "https://img.olx.com.br/images/20/209676401181858.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/209676401181858.jpg"
     ],
-    "defeito": false,
+    "id": "1499784571",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-portal-1499784571",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "Playstation Portal",
     "ts": 1778085427
   },
   {
@@ -9956,25 +9975,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": "Console PS5 - Muito novo",
     "ts": 1778016615
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:30",
-    "fotoUrl": "https://img.olx.com.br/images/87/872612647051154.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/872612647051154.jpg",
-      "https://img.olx.com.br/images/88/884628400730902.jpg",
-      "https://img.olx.com.br/images/90/902629164803451.jpg"
-    ],
-    "id": "1499578342",
-    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/consoles-de-video-game/xbox-series-s-1499578342",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "Xbox séries s",
-    "ts": 1778016608
   }
 ]
