@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499769090",
-    "titulo": "Nintendo Switch",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "switch",
+    "id": "1499769637",
+    "titulo": "JOGO DESTINY - THE TAKEN KING - PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:37",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "detectado": "12:38",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-1499769090",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-destiny-the-taken-king-ps4-1499769637",
+    "fotoUrl": "https://img.olx.com.br/images/72/725671885026142.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/725671885026142.jpg",
+      "https://img.olx.com.br/images/72/720628526690932.jpg",
+      "https://img.olx.com.br/images/72/724679404164263.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778081916
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:37",
     "fotoUrl": "https://img.olx.com.br/images/35/357685282998927.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/357685282998927.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/40/400634528033627.jpg",
       "https://img.olx.com.br/images/41/415675529691445.jpg"
     ],
-    "defeito": false,
+    "id": "1499769090",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-1499769090",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "Nintendo Switch",
     "ts": 1778081827
   },
   {
@@ -9913,24 +9933,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Dying Light Jogo PS4 Original + Envio",
     "ts": 1778012000
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:13",
-    "fotoUrl": "https://img.olx.com.br/images/16/167664765728918.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/167664765728918.jpg",
-      "https://img.olx.com.br/images/19/190636287810385.jpg"
-    ],
-    "id": "1499554838",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-ps4-com-mapa-1499554838",
-    "preco": 155,
-    "precoRaw": "R$ 155",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Red Dead Redemption 2 - Ps4 com mapa ",
-    "ts": 1778011991
   }
 ]
