@@ -1,20 +1,39 @@
 [
   {
-    "id": "1491119668",
-    "titulo": "Jogo PS4",
-    "preco": 65,
-    "precoRaw": "R$ 65",
+    "id": "1457075405",
+    "titulo": "Horizon Zero Down -PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:36",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "tempoOlx": "Na OLX desde fevereiro de 2013",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-ps4-1491119668",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/horizon-zero-down-ps4-1457075405",
+    "fotoUrl": "https://img.olx.com.br/images/21/217574343688631.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/217574343688631.jpg",
+      "https://img.olx.com.br/images/22/229501580282041.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778074614
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:36",
     "fotoUrl": "https://img.olx.com.br/images/84/848672752755364.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/848672752755364.jpg"
     ],
-    "defeito": false,
+    "id": "1491119668",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-ps4-1491119668",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "Jogo PS4",
     "ts": 1778074605
   },
   {
@@ -9890,26 +9909,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 4",
     "ts": 1777999959
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:51",
-    "fotoUrl": "https://img.olx.com.br/images/94/940679649880206.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/940679649880206.jpg",
-      "https://img.olx.com.br/images/95/954643647053276.jpg",
-      "https://img.olx.com.br/images/96/962614047808318.jpg",
-      "https://img.olx.com.br/images/97/975631526773156.jpg"
-    ],
-    "id": "1498673489",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/xbox-one-serie-s-1-tera-1498673489",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "XBOX ONE SÉRIE S 1 TERA",
-    "ts": 1777999873
   }
 ]
