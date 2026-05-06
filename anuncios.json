@@ -1,20 +1,41 @@
 [
   {
-    "id": "1499628527",
-    "titulo": "FIFA 20 ",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "jogos",
+    "id": "1499630832",
+    "titulo": "Xbox series s + monitor ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "22:27",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "22:31",
+    "tempoOlx": "Na OLX desde maio de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-1499628527",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-monitor-1499630832",
+    "fotoUrl": "https://img.olx.com.br/images/68/688681282931240.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/688681282931240.jpg",
+      "https://img.olx.com.br/images/69/697684161419216.jpg",
+      "https://img.olx.com.br/images/71/718613163318685.jpg",
+      "https://img.olx.com.br/images/76/761608287842404.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778031067
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:27",
     "fotoUrl": "https://img.olx.com.br/images/98/988694640505276.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/988694640505276.jpg"
     ],
-    "defeito": false,
+    "id": "1499628527",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-1499628527",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "FIFA 20 ",
     "ts": 1778030822
   },
   {
@@ -9785,27 +9806,5 @@
     "tempoOlx": "Na OLX desde outubro de 2025",
     "titulo": "Xbox Series S",
     "ts": 1777997088
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:04",
-    "fotoUrl": "https://img.olx.com.br/images/39/396672289149117.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/396672289149117.jpg",
-      "https://img.olx.com.br/images/40/403611281344872.jpg",
-      "https://img.olx.com.br/images/42/425650527954427.jpg",
-      "https://img.olx.com.br/images/43/435602885866542.jpg",
-      "https://img.olx.com.br/images/45/457684885020978.jpg"
-    ],
-    "id": "1499448766",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-slim-1499448766",
-    "preco": 980,
-    "precoRaw": "R$ 980",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2022",
-    "titulo": "Ps4 slim",
-    "ts": 1777997080
   }
 ]
