@@ -1,15 +1,51 @@
 [
   {
-    "id": "1499657199",
-    "titulo": "iPhone 16 Pro max",
-    "preco": 6500,
-    "precoRaw": "R$ 6.500",
-    "categoria": "iphone",
+    "id": "1499724355",
+    "titulo": "Ps4 ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:31",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1499657199",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-1499724355",
+    "fotoUrl": "https://img.olx.com.br/images/28/280675521334936.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/280675521334936.jpg",
+      "https://img.olx.com.br/images/29/297652408297684.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778074269
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:31",
+    "fotoUrl": "https://img.olx.com.br/images/92/923665288447459.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/923665288447459.jpg",
+      "https://img.olx.com.br/images/92/924676762082636.jpg",
+      "https://img.olx.com.br/images/93/939635404176278.jpg",
+      "https://img.olx.com.br/images/94/949618169140983.jpg",
+      "https://img.olx.com.br/images/95/950660160501629.jpg",
+      "https://img.olx.com.br/images/97/973668768139810.jpg"
+    ],
+    "id": "1499655307",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/playstation-5-slim-versao-1tb-semi-novo-1499655307",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Playstation 5 Slim, Versão 1tb (Semi-Novo)",
+    "ts": 1778074262
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:31",
     "fotoUrl": "https://img.olx.com.br/images/34/346605166530069.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/346605166530069.jpg",
@@ -19,7 +55,13 @@
       "https://img.olx.com.br/images/39/397663160740939.jpg",
       "https://img.olx.com.br/images/40/402652761658834.jpg"
     ],
-    "defeito": false,
+    "id": "1499657199",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1499657199",
+    "preco": 6500,
+    "precoRaw": "R$ 6.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "iPhone 16 Pro max",
     "ts": 1778074261
   },
   {
@@ -9811,47 +9853,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "The Last of Us - Part 2 - Playstation 4",
     "ts": 1777997810
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:16",
-    "fotoUrl": "https://img.olx.com.br/images/25/254658280841425.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/254658280841425.jpg",
-      "https://img.olx.com.br/images/26/260658647255951.jpg",
-      "https://img.olx.com.br/images/27/270676645563980.jpg",
-      "https://img.olx.com.br/images/28/280610880918968.jpg"
-    ],
-    "id": "1499476071",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-completo-com-150-jogos-e-3tb-de-espaco-1499476071",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "PS4 Completo com +150 Jogos e 3TB de Espaço! ?",
-    "ts": 1777997802
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:16",
-    "fotoUrl": "https://img.olx.com.br/images/98/985547478300086.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/985547478300086.jpg",
-      "https://img.olx.com.br/images/14/149518355357501.jpg",
-      "https://img.olx.com.br/images/11/114535230776251.jpg",
-      "https://img.olx.com.br/images/20/208557475536061.jpg"
-    ],
-    "id": "1458343965",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/novo-medievil-ps4-midia-fisica-lacrada-1458343965",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "[NOVO] MediEvil PS4 Mídia Física Lacrada",
-    "ts": 1777997794
   }
 ]
