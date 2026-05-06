@@ -1,22 +1,42 @@
 [
   {
-    "id": "1499855531",
-    "titulo": "Fifa 22",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1499855267",
+    "titulo": "Bloodborne",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "17:59",
     "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/fifa-22-1499855531",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/bloodborne-1499855267",
+    "fotoUrl": "https://img.olx.com.br/images/98/984697406627868.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/984697406627868.jpg",
+      "https://img.olx.com.br/images/98/986606402857252.jpg",
+      "https://img.olx.com.br/images/98/987689762998764.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778101194
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:59",
     "fotoUrl": "https://img.olx.com.br/images/98/989635405371354.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/989635405371354.jpg",
       "https://img.olx.com.br/images/98/980611167157579.jpg",
       "https://img.olx.com.br/images/98/984675400086416.jpg"
     ],
-    "defeito": false,
+    "id": "1499855531",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/fifa-22-1499855531",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Fifa 22",
     "ts": 1778101186
   },
   {
@@ -9941,25 +9961,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Bateria elétrica ",
     "ts": 1778028459
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:41",
-    "fotoUrl": "https://img.olx.com.br/images/50/500660641084526.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/500660641084526.jpg",
-      "https://img.olx.com.br/images/52/522613643077393.jpg",
-      "https://img.olx.com.br/images/53/535666769556662.jpg"
-    ],
-    "id": "1499619080",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fallout-4-playstation-4-funciona-no-ps5-1499619080",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "Fallout 4 Playstation 4 funciona no ps5",
-    "ts": 1778028077
   }
 ]
