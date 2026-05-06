@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499794135",
-    "titulo": "Xbox Win ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "xbox",
+    "id": "1499795537",
+    "titulo": "PS4 em perfeito estado com alguns jogos ",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:18",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "14:19",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-win-1499794135",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-em-perfeito-estado-com-alguns-jogos-1499795537",
+    "fotoUrl": "https://img.olx.com.br/images/61/612679889592349.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/612679889592349.jpg",
+      "https://img.olx.com.br/images/61/610603769849742.jpg",
+      "https://img.olx.com.br/images/61/615625523459619.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778087978
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:18",
     "fotoUrl": "https://img.olx.com.br/images/46/464672522968527.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/464672522968527.jpg",
       "https://img.olx.com.br/images/52/526641040060168.jpg"
     ],
-    "defeito": false,
+    "id": "1499794135",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-win-1499794135",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Xbox Win ",
     "ts": 1778087917
   },
   {
@@ -9945,24 +9965,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Mortal Kombat x",
     "ts": 1778018406
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:56",
-    "fotoUrl": "https://img.olx.com.br/images/32/328623761975812.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/328623761975812.jpg",
-      "https://img.olx.com.br/images/34/348673045881940.jpg"
-    ],
-    "id": "1499448166",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/ps4-slim-1tb-4jogos-1499448166",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "ps4 slim 1tb + 4jogos",
-    "ts": 1778018197
   }
 ]
