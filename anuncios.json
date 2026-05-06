@@ -1,22 +1,45 @@
 [
   {
-    "id": "1499829678",
-    "titulo": "Nintendo Switch Lite 32GB",
-    "preco": 900,
-    "precoRaw": "R$ 900",
+    "id": "1499822203",
+    "titulo": "nintendo switch ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
     "categoria": "switch",
     "publicado": "",
     "detectado": "17:33",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-switch-lite-32gb-1499829678",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-1499822203",
+    "fotoUrl": "https://img.olx.com.br/images/16/168602640252462.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/168602640252462.jpg",
+      "https://img.olx.com.br/images/18/186649646881599.jpg",
+      "https://img.olx.com.br/images/19/195600529598022.jpg",
+      "https://img.olx.com.br/images/20/201651527751256.jpg",
+      "https://img.olx.com.br/images/22/228644763748987.jpg",
+      "https://img.olx.com.br/images/23/232698160085852.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099621
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:33",
     "fotoUrl": "https://img.olx.com.br/images/56/569627888820716.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/569627888820716.jpg",
       "https://img.olx.com.br/images/59/599698888695811.jpg",
       "https://img.olx.com.br/images/62/625612649689380.jpg"
     ],
-    "defeito": false,
+    "id": "1499829678",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-switch-lite-32gb-1499829678",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "Nintendo Switch Lite 32GB",
     "ts": 1778099614
   },
   {
@@ -9953,23 +9976,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "VENDO PS4 COM DEFEITO!",
     "ts": 1778021077
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:38",
-    "fotoUrl": "https://img.olx.com.br/images/10/100682648165379.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/100682648165379.jpg"
-    ],
-    "id": "1499592028",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/ps4-1499592028",
-    "preco": 980,
-    "precoRaw": "R$ 980",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "ps4 ",
-    "ts": 1778020724
   }
 ]
