@@ -1,21 +1,42 @@
 [
   {
-    "id": "1499708504",
-    "titulo": "XBOX Serie S - 500GB SD",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1499697030",
+    "titulo": "Xbox Series S - Pouco Uso R$ 1.350,00",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "10:32",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-serie-s-500gb-sd-1499708504",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-series-s-pouco-uso-r-1-350-00-1499697030",
+    "fotoUrl": "https://img.olx.com.br/images/38/384639883724548.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/384639883724548.jpg",
+      "https://img.olx.com.br/images/40/403678649373228.jpg",
+      "https://img.olx.com.br/images/42/420656163702683.jpg",
+      "https://img.olx.com.br/images/45/453666289506384.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778074378
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:32",
     "fotoUrl": "https://img.olx.com.br/images/96/966692767118173.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/966692767118173.jpg",
       "https://img.olx.com.br/images/97/978679646896851.jpg"
     ],
-    "defeito": false,
+    "id": "1499708504",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-serie-s-500gb-sd-1499708504",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "XBOX Serie S - 500GB SD",
     "ts": 1778074367
   },
   {
@@ -9847,23 +9868,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "PS4 Slim 1TB + Controle + 18 Jogos (GTA V, COD, The Witcher) - Completo!",
     "ts": 1777998216
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:23",
-    "fotoUrl": "https://img.olx.com.br/images/45/452617622742567.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/452617622742567.jpg"
-    ],
-    "id": "1486872715",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/dragon-age-inquisition-playstation-4-1486872715",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Dragon Age Inquisition - Playstation 4",
-    "ts": 1777998206
   }
 ]
