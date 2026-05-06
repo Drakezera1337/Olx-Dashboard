@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499890322",
-    "titulo": "Horizon Zero Dawn PS4 Mídia Física ",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1499890020",
+    "titulo": "Resident evil 7 e death stranding",
+    "preco": 115,
+    "precoRaw": "R$ 115",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "20:12",
-    "tempoOlx": "Na OLX desde outubro de 2013",
+    "tempoOlx": "Na OLX desde junho de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/horizon-zero-dawn-ps4-midia-fisica-1499890322",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-7-e-death-stranding-1499890020",
+    "fotoUrl": "https://img.olx.com.br/images/67/674633281922725.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/674633281922725.jpg",
+      "https://img.olx.com.br/images/68/684663164222958.jpg",
+      "https://img.olx.com.br/images/69/695631525793655.jpg",
+      "https://img.olx.com.br/images/70/709671885170328.jpg",
+      "https://img.olx.com.br/images/71/714699768504359.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778109140
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:12",
     "fotoUrl": "https://img.olx.com.br/images/67/678632041839101.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/678632041839101.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/70/700698763991736.jpg",
       "https://img.olx.com.br/images/71/714653288967046.jpg"
     ],
-    "defeito": false,
+    "id": "1499890322",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/horizon-zero-dawn-ps4-midia-fisica-1499890322",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2013",
+    "titulo": "Horizon Zero Dawn PS4 Mídia Física ",
     "ts": 1778109127
   },
   {
@@ -9911,25 +9933,5 @@
     "tempoOlx": "Na OLX desde maio de 2019",
     "titulo": "Sleeping Dogs - PS3",
     "ts": 1778074418
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/24/245547178807856.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/245547178807856.jpg",
-      "https://img.olx.com.br/images/26/262523530731031.jpg",
-      "https://img.olx.com.br/images/27/279550893770983.jpg"
-    ],
-    "id": "1415104229",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/naruto-shippuden-ultimate-ninja-storm-2-ps3-usado-fisico-1415104229",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "Naruto Shippuden ultimate Ninja Storm 2 Ps3 usado Fisico",
-    "ts": 1778074407
   }
 ]
