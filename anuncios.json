@@ -1,22 +1,42 @@
 [
   {
-    "id": "1499844004",
-    "titulo": "Fifa 20 - PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1499843606",
+    "titulo": "Fifa 17 - PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:35",
     "tempoOlx": "Na OLX desde abril de 2021",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/fifa-20-ps4-1499844004",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/fifa-17-ps4-1499843606",
+    "fotoUrl": "https://img.olx.com.br/images/35/358693643877418.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/358693643877418.jpg",
+      "https://img.olx.com.br/images/36/369627283227515.jpg",
+      "https://img.olx.com.br/images/38/386675043421367.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099745
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:35",
     "fotoUrl": "https://img.olx.com.br/images/92/920622769791491.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/920622769791491.jpg",
       "https://img.olx.com.br/images/93/939696403999927.jpg",
       "https://img.olx.com.br/images/95/955671762650083.jpg"
     ],
-    "defeito": false,
+    "id": "1499844004",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/fifa-20-ps4-1499844004",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Fifa 20 - PS4",
     "ts": 1778099737
   },
   {
@@ -9948,26 +9968,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "Xbox Series S (controle com defeito precisando de conserto)",
     "ts": 1778021861
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:56",
-    "fotoUrl": "https://img.olx.com.br/images/77/775619409443190.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/775619409443190.jpg",
-      "https://img.olx.com.br/images/79/792666167509157.jpg",
-      "https://img.olx.com.br/images/81/817627408388991.jpg",
-      "https://img.olx.com.br/images/82/823695163718038.jpg"
-    ],
-    "id": "1499595627",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-portal-base-de-carregamento-1499595627",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2017",
-    "titulo": "PlayStation Portal + Base de carregamento ",
-    "ts": 1778021801
   }
 ]
