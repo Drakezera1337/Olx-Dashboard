@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499740675",
-    "titulo": "Nintendo Switch Lite (LEIA A DESCRIÇÃO)",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "categoria": "switch",
+    "id": "1499741316",
+    "titulo": "Jogos ps4",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:08",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde abril de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-leia-a-descricao-1499740675",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1499741316",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1778076524
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:08",
     "fotoUrl": "https://img.olx.com.br/images/53/537691889887143.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/537691889887143.jpg",
       "https://img.olx.com.br/images/54/544617283913394.jpg",
       "https://img.olx.com.br/images/55/554673640287888.jpg"
     ],
-    "defeito": false,
+    "id": "1499740675",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-leia-a-descricao-1499740675",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Nintendo Switch Lite (LEIA A DESCRIÇÃO)",
     "ts": 1778076516
   },
   {
@@ -9899,24 +9917,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Ps4 slim 1 TB",
     "ts": 1778011055
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:57",
-    "fotoUrl": "https://img.olx.com.br/images/87/873645643379923.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/873645643379923.jpg",
-      "https://img.olx.com.br/images/89/896615280835221.jpg"
-    ],
-    "id": "1499551177",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-1499551177",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Ps4 slim 500gb",
-    "ts": 1778011045
   }
 ]
