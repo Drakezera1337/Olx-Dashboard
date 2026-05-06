@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499634913",
-    "titulo": "Playstation 4 1tb",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
+    "id": "1499634814",
+    "titulo": "FIFA 15, 16, 17 e 19 (PS4 Original)",
+    "preco": 30,
+    "precoRaw": "R$ 30",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:54",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "22:55",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/playstation-4-1tb-1499634913",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/fifa-15-16-17-e-19-ps4-original-1499634814",
+    "fotoUrl": "https://img.olx.com.br/images/32/327661286598456.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/327661286598456.jpg",
+      "https://img.olx.com.br/images/32/325691880297890.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778032504
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:54",
     "fotoUrl": "https://img.olx.com.br/images/14/143631642206452.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/143631642206452.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/18/188646761129951.jpg",
       "https://img.olx.com.br/images/19/191641645221850.jpg"
     ],
-    "defeito": false,
+    "id": "1499634913",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/playstation-4-1tb-1499634913",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Playstation 4 1tb",
     "ts": 1778032494
   },
   {
@@ -9788,24 +9807,5 @@
     "tempoOlx": "Na OLX desde julho de 2025",
     "titulo": "Vendo Xbox ",
     "ts": 1777997219
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:06",
-    "fotoUrl": "https://img.olx.com.br/images/58/585686288505880.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/585686288505880.jpg",
-      "https://img.olx.com.br/images/60/608624642745234.jpg"
-    ],
-    "id": "1499466712",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/psp-1499466712",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2019",
-    "titulo": "PSP ",
-    "ts": 1777997210
   }
 ]
