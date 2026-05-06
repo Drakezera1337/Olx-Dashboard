@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499835215",
-    "titulo": "Ps5 slim",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1499815073",
+    "titulo": "PLAYSTATION 5",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "17:32",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps5-slim-1499835215",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-5-1499815073",
+    "fotoUrl": "https://img.olx.com.br/images/10/101674643239139.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/101674643239139.jpg",
+      "https://img.olx.com.br/images/10/107657161913773.jpg",
+      "https://img.olx.com.br/images/11/114618885647737.jpg",
+      "https://img.olx.com.br/images/11/110677169443963.jpg",
+      "https://img.olx.com.br/images/10/103619765548104.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099537
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/86/868636765942149.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/868636765942149.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/89/897651162050189.jpg",
       "https://img.olx.com.br/images/90/907696285543629.jpg"
     ],
-    "defeito": false,
+    "id": "1499835215",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps5-slim-1499835215",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Ps5 slim",
     "ts": 1778099530
   },
   {
@@ -9954,24 +9976,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Days gone",
     "ts": 1778019911
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:25",
-    "fotoUrl": "https://img.olx.com.br/images/69/693643882799287.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/693643882799287.jpg",
-      "https://img.olx.com.br/images/70/703619045560756.jpg"
-    ],
-    "id": "1499589418",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/dark-sous-3-1499589418",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Dark Sous 3",
-    "ts": 1778019902
   }
 ]
