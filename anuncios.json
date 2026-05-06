@@ -1,15 +1,32 @@
 [
   {
-    "id": "1499823512",
-    "titulo": "Playstation 5 slim 2 controles ",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "ps5",
+    "id": "1499836776",
+    "titulo": "Playstation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:32",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde agosto de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-slim-2-controles-1499823512",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/playstation-4-1499836776",
+    "fotoUrl": "https://img.olx.com.br/images/27/271689281945416.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/271689281945416.jpg",
+      "https://img.olx.com.br/images/28/284643760580912.jpg",
+      "https://img.olx.com.br/images/29/298667168587472.jpg",
+      "https://img.olx.com.br/images/30/301672167548629.jpg",
+      "https://img.olx.com.br/images/30/304661289626705.jpg",
+      "https://img.olx.com.br/images/31/317682760187261.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099555
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/26/264688762749204.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/264688762749204.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/28/283663648256873.jpg",
       "https://img.olx.com.br/images/29/291616765792132.jpg"
     ],
-    "defeito": false,
+    "id": "1499823512",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-slim-2-controles-1499823512",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Playstation 5 slim 2 controles ",
     "ts": 1778099545
   },
   {
@@ -9957,26 +9980,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "Ps4 edição limitada ",
     "ts": 1778020190
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:29",
-    "fotoUrl": "https://img.olx.com.br/images/29/294694284191907.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/294694284191907.jpg",
-      "https://img.olx.com.br/images/31/311630643315607.jpg",
-      "https://img.olx.com.br/images/32/328626401466317.jpg",
-      "https://img.olx.com.br/images/33/331675409520463.jpg"
-    ],
-    "id": "1499590585",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/sombras-de-mordor-edicao-especial-1499590585",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Sombras de mordor edição especial",
-    "ts": 1778020177
   }
 ]
