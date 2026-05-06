@@ -1,20 +1,43 @@
 [
   {
-    "id": "1499748235",
-    "titulo": "PS3 ",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps3",
+    "id": "1439667104",
+    "titulo": "Controle ps5 spider man 2",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "11:34",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "11:37",
+    "tempoOlx": "Na OLX desde julho de 2018",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps3-1499748235",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps5-spider-man-2-1439667104",
+    "fotoUrl": "https://img.olx.com.br/images/41/412508445602805.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/412508445602805.jpg",
+      "https://img.olx.com.br/images/43/432546200399757.jpg",
+      "https://img.olx.com.br/images/45/454549687083038.jpg",
+      "https://img.olx.com.br/images/47/476577802282446.jpg",
+      "https://img.olx.com.br/images/49/494574449353154.jpg",
+      "https://img.olx.com.br/images/51/515534326378172.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778078258
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:34",
     "fotoUrl": "https://img.olx.com.br/images/41/418668886934872.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/418668886934872.jpg"
     ],
-    "defeito": false,
+    "id": "1499748235",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps3-1499748235",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PS3 ",
     "ts": 1778078045
   },
   {
@@ -9894,24 +9917,5 @@
     "tempoOlx": "Na OLX desde novembro de 2019",
     "titulo": "Infamous second son ps4",
     "ts": 1778011269
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:01",
-    "fotoUrl": "https://img.olx.com.br/images/62/624603401349374.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/624603401349374.jpg",
-      "https://img.olx.com.br/images/63/635679643216725.jpg"
-    ],
-    "id": "1499543576",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/god-of-war-ragnarok-lacrado-1499543576",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "God of War Ragnarok (Lacrado)",
-    "ts": 1778011260
   }
 ]
