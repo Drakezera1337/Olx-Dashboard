@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499611071",
-    "titulo": "Xbox Série S 512 gb",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1499611927",
+    "titulo": "Jogos PS4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:06",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "21:11",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-serie-s-512-gb-1499611071",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499611927",
+    "fotoUrl": "https://img.olx.com.br/images/19/196634642831633.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/196634642831633.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778026266
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:06",
     "fotoUrl": "https://img.olx.com.br/images/20/203608162882296.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/203608162882296.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/20/201633287557612.jpg",
       "https://img.olx.com.br/images/20/206683163670439.jpg"
     ],
-    "defeito": false,
+    "id": "1499611071",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-serie-s-512-gb-1499611071",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Xbox Série S 512 gb",
     "ts": 1778025998
   },
   {
@@ -9790,25 +9808,5 @@
     "tempoOlx": "Na OLX desde julho de 2021",
     "titulo": "PS4 SLIM 500 GB",
     "ts": 1777985495
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:50",
-    "fotoUrl": "https://img.olx.com.br/images/90/902654281424661.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/902654281424661.jpg",
-      "https://img.olx.com.br/images/93/939648405440019.jpg",
-      "https://img.olx.com.br/images/95/950671407469947.jpg"
-    ],
-    "id": "1499416665",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/playstation-4-5-jogos-1499416665",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Playstation 4 + 5 jogos",
-    "ts": 1777985456
   }
 ]
