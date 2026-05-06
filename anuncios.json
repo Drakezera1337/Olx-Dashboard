@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499631183",
-    "titulo": "ps4 sem controle",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "ps4",
+    "id": "1499631243",
+    "titulo": "Ps3 slim",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "22:33",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "22:34",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-sem-controle-1499631183",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-1499631243",
+    "fotoUrl": "https://img.olx.com.br/images/36/368609169051727.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/368609169051727.jpg",
+      "https://img.olx.com.br/images/37/378687047083889.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778031247
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:33",
     "fotoUrl": "https://img.olx.com.br/images/55/559659287164678.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/559659287164678.jpg",
       "https://img.olx.com.br/images/57/577619165266262.jpg"
     ],
-    "defeito": false,
+    "id": "1499631183",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-sem-controle-1499631183",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "ps4 sem controle",
     "ts": 1778031215
   },
   {
@@ -9789,24 +9808,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Lollipop ps3",
     "ts": 1777997125
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:05",
-    "fotoUrl": "https://img.olx.com.br/images/18/183525562966382.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/183525562966382.jpg",
-      "https://img.olx.com.br/images/25/250545329895071.jpg"
-    ],
-    "id": "1440064707",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/play-3-sem-fio-1440064707",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2017",
-    "titulo": "Play 3 Sem Fio",
-    "ts": 1777997116
   }
 ]
