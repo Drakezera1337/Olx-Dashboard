@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499648789",
-    "titulo": "iPhone 11 Pro",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1499649902",
+    "titulo": "Ps4 com defeito ",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:56",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "detectado": "01:06",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-1499648789",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-com-defeito-1499649902",
+    "fotoUrl": "https://img.olx.com.br/images/81/811659764077658.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/811659764077658.jpg",
+      "https://img.olx.com.br/images/82/823689400318273.jpg",
+      "https://img.olx.com.br/images/84/842610768000689.jpg",
+      "https://img.olx.com.br/images/85/857611403884078.jpg",
+      "https://img.olx.com.br/images/87/878647526749816.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778040369
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:56",
     "fotoUrl": "https://img.olx.com.br/images/44/449627162968977.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/449627162968977.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/47/479668760330284.jpg",
       "https://img.olx.com.br/images/48/486684527076471.jpg"
     ],
-    "defeito": false,
+    "id": "1499648789",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-1499648789",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "iPhone 11 Pro",
     "ts": 1778039798
   },
   {
@@ -9831,23 +9853,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "Jogo PS4 Death Stranding Jogo Seminovo",
     "ts": 1777997651
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:14",
-    "fotoUrl": "https://img.olx.com.br/images/63/632656631664671.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/632656631664671.jpg"
-    ],
-    "id": "1490491798",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1490491798",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogos de Ps4 ",
-    "ts": 1777997641
   }
 ]
