@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499802059",
-    "titulo": "PlayStation 4",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
+    "id": "1499801904",
+    "titulo": "The Last of Us 2 (PS4) - Mídia Física Original",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:43",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/playstation-4-1499802059",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-2-ps4-midia-fisica-original-1499801904",
+    "fotoUrl": "https://img.olx.com.br/images/90/906617165417864.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/906617165417864.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778089426
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:43",
     "fotoUrl": "https://img.olx.com.br/images/23/236691884214348.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/236691884214348.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/27/279692048701204.jpg",
       "https://img.olx.com.br/images/28/287699648340064.jpg"
     ],
-    "defeito": false,
+    "id": "1499802059",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/playstation-4-1499802059",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "PlayStation 4",
     "ts": 1778089418
   },
   {
@@ -9944,28 +9962,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "titulo": "Xbox series s",
     "ts": 1778019457
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:17",
-    "fotoUrl": "https://img.olx.com.br/images/48/486639648289680.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/486639648289680.jpg",
-      "https://img.olx.com.br/images/53/530635520989701.jpg",
-      "https://img.olx.com.br/images/54/542603166905437.jpg",
-      "https://img.olx.com.br/images/56/560681041115421.jpg",
-      "https://img.olx.com.br/images/58/588660643291243.jpg",
-      "https://img.olx.com.br/images/60/603614646751461.jpg"
-    ],
-    "id": "1499588349",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-fat-com-defeito-1499588349",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Playstation 3 Fat com defeito ",
-    "ts": 1778019426
   }
 ]
