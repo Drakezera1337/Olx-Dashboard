@@ -1,21 +1,44 @@
 [
   {
-    "id": "1499845997",
-    "titulo": "Playstation 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1499877384",
+    "titulo": "Ps4 500gb com dois controles (DEFEITO)",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:19",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "detectado": "19:20",
+    "tempoOlx": "Na OLX desde abril de 2025",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-5-1499845997",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps4-500gb-com-dois-controles-defeito-1499877384",
+    "fotoUrl": "https://img.olx.com.br/images/20/204673645718666.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/204673645718666.jpg",
+      "https://img.olx.com.br/images/22/225673280765033.jpg",
+      "https://img.olx.com.br/images/26/267630645424830.jpg",
+      "https://img.olx.com.br/images/30/304677762921164.jpg",
+      "https://img.olx.com.br/images/32/321687403242641.jpg",
+      "https://img.olx.com.br/images/35/355612884476753.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778106008
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:19",
     "fotoUrl": "https://img.olx.com.br/images/70/709664889418500.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/709664889418500.jpg",
       "https://img.olx.com.br/images/71/712602766667788.jpg"
     ],
-    "defeito": false,
+    "id": "1499845997",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-5-1499845997",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "Playstation 5",
     "ts": 1778105948
   },
   {
@@ -9929,25 +9952,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Monster Huter Word (Lacrado) midia fisica Jogos ps4",
     "ts": 1778037639
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:20",
-    "fotoUrl": "https://img.olx.com.br/images/72/725534474416866.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/725534474416866.jpg",
-      "https://img.olx.com.br/images/73/739548590680472.jpg",
-      "https://img.olx.com.br/images/74/740549598505767.jpg"
-    ],
-    "id": "1463799232",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/teenage-mutant-ninja-turtles-wrath-of-the-mutants-jogos-ps4-1463799232",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Teenage Mutant Ninja Turtles: Wrath of the Mutants Jogos PS4",
-    "ts": 1778037629
   }
 ]
