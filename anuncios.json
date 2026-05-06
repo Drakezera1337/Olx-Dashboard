@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499836776",
+    "id": "1499827551",
     "titulo": "Playstation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:32",
-    "tempoOlx": "Na OLX desde agosto de 2013",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/playstation-4-1499836776",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-1499827551",
+    "fotoUrl": "https://img.olx.com.br/images/71/711656042551482.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/711656042551482.jpg",
+      "https://img.olx.com.br/images/72/725645524153988.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099563
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/27/271689281945416.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/271689281945416.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/30/304661289626705.jpg",
       "https://img.olx.com.br/images/31/317682760187261.jpg"
     ],
-    "defeito": false,
+    "id": "1499836776",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/playstation-4-1499836776",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2013",
+    "titulo": "Playstation 4",
     "ts": 1778099555
   },
   {
@@ -9960,25 +9979,5 @@
     "tempoOlx": "Na OLX desde novembro de 2021",
     "titulo": "PS4 Slim 872,8 GB",
     "ts": 1778020199
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:29",
-    "fotoUrl": "https://img.olx.com.br/images/76/766687407947538.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/766687407947538.jpg",
-      "https://img.olx.com.br/images/77/779637649186284.jpg",
-      "https://img.olx.com.br/images/78/786611284926118.jpg"
-    ],
-    "id": "1499590467",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-edicao-limitada-1499590467",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Ps4 edição limitada ",
-    "ts": 1778020190
   }
 ]
