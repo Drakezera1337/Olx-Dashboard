@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499768332",
-    "titulo": "Vende-se um Xbox series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1499768627",
+    "titulo": "JOGO FIFA 18 - PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:32",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vende-se-um-xbox-series-s-1499768332",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-fifa-18-ps4-1499768627",
+    "fotoUrl": "https://img.olx.com.br/images/35/354602404193748.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/354602404193748.jpg",
+      "https://img.olx.com.br/images/35/359664168821593.jpg",
+      "https://img.olx.com.br/images/35/353678762327352.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778081571
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:32",
     "fotoUrl": "https://img.olx.com.br/images/44/443670523936425.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/443670523936425.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/52/524673527677355.jpg",
       "https://img.olx.com.br/images/53/537637766263897.jpg"
     ],
-    "defeito": false,
+    "id": "1499768332",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vende-se-um-xbox-series-s-1499768332",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "Vende-se um Xbox series S",
     "ts": 1778081561
   },
   {
@@ -9909,24 +9929,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "COD Infinite Warfare e Modern Warfare Jogo PS4 Original + Envio",
     "ts": 1778011653
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:07",
-    "fotoUrl": "https://img.olx.com.br/images/93/933667640989006.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/933667640989006.jpg",
-      "https://img.olx.com.br/images/32/327694284868228.jpg"
-    ],
-    "id": "1499551764",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-1t-impecavel-com-2-controles-e-3-jogos-1499551764",
-    "preco": 1850,
-    "precoRaw": "R$ 1.850",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "PlayStation 4 Slim 1T impecável  com 2 controles e 3 jogos ",
-    "ts": 1778011642
   }
 ]
