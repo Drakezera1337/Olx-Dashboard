@@ -1,21 +1,42 @@
 [
   {
-    "id": "1456512264",
-    "titulo": "Days gone",
-    "preco": 85,
-    "precoRaw": "R$ 85",
-    "categoria": "outros",
+    "id": "1470981027",
+    "titulo": "Ps4 slim",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:21",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "11:22",
+    "tempoOlx": "Na OLX desde abril de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/days-gone-1456512264",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/ps4-slim-1470981027",
+    "fotoUrl": "https://img.olx.com.br/images/85/857698127543302.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/857698127543302.jpg",
+      "https://img.olx.com.br/images/87/874654364445016.jpg",
+      "https://img.olx.com.br/images/88/885614369146340.jpg",
+      "https://img.olx.com.br/images/90/909623603296715.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778077326
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:21",
     "fotoUrl": "https://img.olx.com.br/images/63/635500460932823.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/635500460932823.jpg",
       "https://img.olx.com.br/images/70/700548343469502.jpg"
     ],
-    "defeito": false,
+    "id": "1456512264",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/days-gone-1456512264",
+    "preco": 85,
+    "precoRaw": "R$ 85",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "Days gone",
     "ts": 1778077316
   },
   {
@@ -9883,23 +9904,5 @@
     "tempoOlx": "Na OLX desde maio de 2018",
     "titulo": "God of war Ragnarok para PS4 LACRADO",
     "ts": 1778011182
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:59",
-    "fotoUrl": "https://img.olx.com.br/images/96/969662880929495.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/969662880929495.jpg"
-    ],
-    "id": "1499548658",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/ps4-slim-1tb-1-jogo-1499548658",
-    "preco": 1399,
-    "precoRaw": "R$ 1.399",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2016",
-    "titulo": "PS4 SLIM 1TB + 1 JOGO",
-    "ts": 1778011174
   }
 ]
