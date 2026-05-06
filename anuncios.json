@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499793902",
-    "titulo": "Playstation 4 Slim 500GB",
-    "preco": 1599,
-    "precoRaw": "R$ 1.599",
-    "categoria": "ps4",
+    "id": "1499794135",
+    "titulo": "Xbox Win ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "14:18",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/playstation-4-slim-500gb-1499793902",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-win-1499794135",
+    "fotoUrl": "https://img.olx.com.br/images/46/464672522968527.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/464672522968527.jpg",
+      "https://img.olx.com.br/images/52/526641040060168.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778087917
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:18",
     "fotoUrl": "https://img.olx.com.br/images/78/787635649474489.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/787635649474489.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/83/833660522696579.jpg",
       "https://img.olx.com.br/images/86/866651764659254.jpg"
     ],
-    "defeito": false,
+    "id": "1499793902",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/playstation-4-slim-500gb-1499793902",
+    "preco": 1599,
+    "precoRaw": "R$ 1.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "Playstation 4 Slim 500GB",
     "ts": 1778087896
   },
   {
@@ -9945,27 +9964,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "ps4 slim 1tb + 4jogos",
     "ts": 1778018197
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:55",
-    "fotoUrl": "https://img.olx.com.br/images/34/344662521057058.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/344662521057058.jpg",
-      "https://img.olx.com.br/images/36/360652404268954.jpg",
-      "https://img.olx.com.br/images/38/385655647282916.jpg",
-      "https://img.olx.com.br/images/41/410689644874888.jpg",
-      "https://img.olx.com.br/images/43/432693166361713.jpg"
-    ],
-    "id": "1499583941",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-jogo-1499583941",
-    "preco": 970,
-    "precoRaw": "R$ 970",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "PlayStation 4 com jogo ",
-    "ts": 1778018137
   }
 ]
