@@ -1,22 +1,41 @@
 [
   {
-    "id": "1499895969",
-    "titulo": "Nintendo switch ",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "categoria": "switch",
+    "id": "1499898721",
+    "titulo": "The Last of Us ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "20:37",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "detectado": "20:49",
+    "tempoOlx": "Na OLX desde agosto de 2021",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/nintendo-switch-1499895969",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-1499898721",
+    "fotoUrl": "https://img.olx.com.br/images/23/237622160648514.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/237622160648514.jpg",
+      "https://img.olx.com.br/images/43/430608763940982.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778111377
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:37",
     "fotoUrl": "https://img.olx.com.br/images/20/205639043281778.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/205639043281778.jpg",
       "https://img.olx.com.br/images/21/211660767889790.jpg",
       "https://img.olx.com.br/images/23/236627287323987.jpg"
     ],
-    "defeito": false,
+    "id": "1499895969",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/nintendo-switch-1499895969",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Nintendo switch ",
     "ts": 1778110657
   },
   {
@@ -9873,23 +9892,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2013",
     "titulo": "Horizon Zero Down -PS4",
     "ts": 1778074614
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/84/848672752755364.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/848672752755364.jpg"
-    ],
-    "id": "1491119668",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-ps4-1491119668",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "Jogo PS4",
-    "ts": 1778074605
   }
 ]
