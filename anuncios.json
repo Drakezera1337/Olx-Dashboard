@@ -1,15 +1,32 @@
 [
   {
-    "id": "1499698059",
-    "titulo": "iPhone 13",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "iphone",
+    "id": "1491496302",
+    "titulo": "PS5 usado",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "10:30",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1499698059",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps5-usado-1491496302",
+    "fotoUrl": "https://img.olx.com.br/images/12/126649636490148.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/126649636490148.jpg",
+      "https://img.olx.com.br/images/55/550658038457882.jpg",
+      "https://img.olx.com.br/images/57/572611038858935.jpg",
+      "https://img.olx.com.br/images/59/598619517022848.jpg",
+      "https://img.olx.com.br/images/60/607649511984768.jpg",
+      "https://img.olx.com.br/images/62/623652038827694.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778074243
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:30",
     "fotoUrl": "https://img.olx.com.br/images/46/466695281333759.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/466695281333759.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/48/485616283179347.jpg",
       "https://img.olx.com.br/images/49/496612047398685.jpg"
     ],
-    "defeito": false,
+    "id": "1499698059",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1499698059",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "iPhone 13",
     "ts": 1778074238
   },
   {
@@ -9825,25 +9848,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PLAYSTATION 4 SLIM 1TB + 1 CONTROLE",
     "ts": 1777997761
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:15",
-    "fotoUrl": "https://img.olx.com.br/images/35/353670289869678.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/353670289869678.jpg",
-      "https://img.olx.com.br/images/36/362625642460484.jpg",
-      "https://img.olx.com.br/images/38/388637767905659.jpg"
-    ],
-    "id": "1499473335",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-ps4-1499473335",
-    "preco": 970,
-    "precoRaw": "R$ 970",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "vendo ps4",
-    "ts": 1777997752
   }
 ]
