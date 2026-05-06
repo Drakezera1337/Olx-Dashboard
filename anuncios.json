@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499854662",
-    "titulo": "Jogos de PS4 e PS5",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps5",
+    "id": "1499854558",
+    "titulo": "PlayStation 4",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:00",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1499854662",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-1499854558",
+    "fotoUrl": "https://img.olx.com.br/images/92/924644520844695.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/924644520844695.jpg",
+      "https://img.olx.com.br/images/94/947616287344681.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778101218
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:00",
     "fotoUrl": "https://img.olx.com.br/images/83/831609644506763.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/831609644506763.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/94/940648647005287.jpg",
       "https://img.olx.com.br/images/10/109688649893820.jpg"
     ],
-    "defeito": false,
+    "id": "1499854662",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1499854662",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Jogos de PS4 e PS5",
     "ts": 1778101209
   },
   {
@@ -9944,23 +9963,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "Lote de jogos de Plastation 4 originais ",
     "ts": 1778028512
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:48",
-    "fotoUrl": "https://img.olx.com.br/images/95/957689402239706.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/957689402239706.jpg"
-    ],
-    "id": "1499621293",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/fifa-jogo-de-ps4-pra-vender-1499621293",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2018",
-    "titulo": "FIFA jogo de ps4 pra vender",
-    "ts": 1778028503
   }
 ]
