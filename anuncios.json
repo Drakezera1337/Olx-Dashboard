@@ -1,20 +1,43 @@
 [
   {
-    "id": "1499839436",
-    "titulo": "Jogos de PS4",
-    "preco": 300,
-    "precoRaw": "R$ 300",
+    "id": "1499839248",
+    "titulo": "PlayStation 4 Fat",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:36",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-de-ps4-1499839436",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-fat-1499839248",
+    "fotoUrl": "https://img.olx.com.br/images/52/529622641875183.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/529622641875183.jpg",
+      "https://img.olx.com.br/images/54/545602045320016.jpg",
+      "https://img.olx.com.br/images/55/559648881847190.jpg",
+      "https://img.olx.com.br/images/56/569699765895417.jpg",
+      "https://img.olx.com.br/images/57/574688769140814.jpg",
+      "https://img.olx.com.br/images/58/588660640606907.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099797
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:36",
     "fotoUrl": "https://img.olx.com.br/images/35/354698643538877.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/354698643538877.jpg"
     ],
-    "defeito": false,
+    "id": "1499839436",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-de-ps4-1499839436",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Jogos de PS4",
     "ts": 1778099787
   },
   {
@@ -9946,23 +9969,5 @@
     "tempoOlx": "Na OLX desde agosto de 2021",
     "titulo": "red dead redemption 2, jogo pra ps4 e ps5",
     "ts": 1778022907
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:03",
-    "fotoUrl": "https://img.olx.com.br/images/66/664608280312290.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/664608280312290.jpg"
-    ],
-    "id": "1499597771",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps4-1499597771",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2022",
-    "titulo": "PS4",
-    "ts": 1778022186
   }
 ]
