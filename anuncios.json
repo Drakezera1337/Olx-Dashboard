@@ -1,21 +1,39 @@
 [
   {
-    "id": "1489865450",
-    "titulo": "PS4",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
+    "id": "1499757635",
+    "titulo": "Resident Evil 2 (PS4) - Mídia Física",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:08",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "detectado": "12:09",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1489865450",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-2-ps4-midia-fisica-1499757635",
+    "fotoUrl": "https://img.olx.com.br/images/48/488653522838968.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/488653522838968.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778080148
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:08",
     "fotoUrl": "https://img.olx.com.br/images/22/228694149773324.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/228694149773324.jpg",
       "https://img.olx.com.br/images/23/236604385845496.jpg"
     ],
-    "defeito": false,
+    "id": "1489865450",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1489865450",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "PS4",
     "ts": 1778080139
   },
   {
@@ -9908,25 +9926,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "titulo": "God of War Ragnarock PS4",
     "ts": 1778011492
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:04",
-    "fotoUrl": "https://img.olx.com.br/images/27/276644522902852.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/276644522902852.jpg",
-      "https://img.olx.com.br/images/26/261656041862745.jpg",
-      "https://img.olx.com.br/images/26/261634647581029.jpg"
-    ],
-    "id": "1499530438",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/pes-2020-ps4-ps5-1499530438",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Pes 2020 Ps4/Ps5",
-    "ts": 1778011484
   }
 ]
