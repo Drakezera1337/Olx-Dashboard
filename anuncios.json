@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499815073",
-    "titulo": "PLAYSTATION 5",
-    "preco": 900,
-    "precoRaw": "R$ 900",
+    "id": "1499823512",
+    "titulo": "Playstation 5 slim 2 controles ",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "17:32",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-5-1499815073",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-slim-2-controles-1499823512",
+    "fotoUrl": "https://img.olx.com.br/images/26/264688762749204.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/264688762749204.jpg",
+      "https://img.olx.com.br/images/27/277685766277049.jpg",
+      "https://img.olx.com.br/images/28/283663648256873.jpg",
+      "https://img.olx.com.br/images/29/291616765792132.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099545
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/10/101674643239139.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/101674643239139.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/11/110677169443963.jpg",
       "https://img.olx.com.br/images/10/103619765548104.jpg"
     ],
-    "defeito": false,
+    "id": "1499815073",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-5-1499815073",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "PLAYSTATION 5",
     "ts": 1778099537
   },
   {
@@ -9957,24 +9978,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Sombras de mordor edição especial",
     "ts": 1778020177
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:25",
-    "fotoUrl": "https://img.olx.com.br/images/48/484623766792374.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/484623766792374.jpg",
-      "https://img.olx.com.br/images/49/496602405591522.jpg"
-    ],
-    "id": "1499588726",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/days-gone-1499588726",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Days gone",
-    "ts": 1778019911
   }
 ]
