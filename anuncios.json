@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499853735",
-    "titulo": "Lote de Jogos",
-    "preco": 370,
-    "precoRaw": "R$ 370",
-    "categoria": "outros",
+    "id": "1499853240",
+    "titulo": "PS4 Slim Edição Especial Azul + 2 Jogos",
+    "preco": 1799,
+    "precoRaw": "R$ 1.799",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:54",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/lote-de-jogos-1499853735",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-slim-edicao-especial-azul-2-jogos-1499853240",
+    "fotoUrl": "https://img.olx.com.br/images/24/245606280621811.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/245606280621811.jpg",
+      "https://img.olx.com.br/images/26/269665405677630.jpg",
+      "https://img.olx.com.br/images/27/275648401211193.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778100849
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:54",
     "fotoUrl": "https://img.olx.com.br/images/83/832676283421870.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/832676283421870.jpg"
     ],
-    "defeito": false,
+    "id": "1499853735",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/lote-de-jogos-1499853735",
+    "preco": 370,
+    "precoRaw": "R$ 370",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "Lote de Jogos",
     "ts": 1778100841
   },
   {
@@ -9934,24 +9954,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "FIFA 14 Playstation 4",
     "ts": 1778027683
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:28",
-    "fotoUrl": "https://img.olx.com.br/images/84/849653882460675.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/849653882460675.jpg",
-      "https://img.olx.com.br/images/85/858671161345781.jpg"
-    ],
-    "id": "1499615652",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/the-witcher-3-ps4-e-ps5-1499615652",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "The witcher 3 ps4 e ps5",
-    "ts": 1778027296
   }
 ]
