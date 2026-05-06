@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499492456",
-    "titulo": "Ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1499879701",
+    "titulo": "XBOX SERIES S ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "19:27",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "detectado": "19:28",
+    "tempoOlx": "Na OLX desde abril de 2021",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1499492456",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/xbox-series-s-1499879701",
+    "fotoUrl": "https://img.olx.com.br/images/99/995694286730945.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/995694286730945.jpg",
+      "https://img.olx.com.br/images/11/117660528065956.jpg",
+      "https://img.olx.com.br/images/13/131670286973273.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778106516
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:27",
     "fotoUrl": "https://img.olx.com.br/images/67/674696408102052.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/674696408102052.jpg",
       "https://img.olx.com.br/images/68/684639524543076.jpg"
     ],
-    "defeito": false,
+    "id": "1499492456",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1499492456",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Ps4",
     "ts": 1778106427
   },
   {
@@ -9937,25 +9957,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Ever Space Stelar (Lacrado) midia física Jogos ps4",
     "ts": 1778037685
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:21",
-    "fotoUrl": "https://img.olx.com.br/images/66/663618124614443.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/663618124614443.jpg",
-      "https://img.olx.com.br/images/74/749684244714870.jpg",
-      "https://img.olx.com.br/images/79/791680720832977.jpg"
-    ],
-    "id": "1472484514",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-ps4-overwatch-usado-leia-a-descricao-1472484514",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Jogo Ps4 Overwatch - Usado (leia a descrição)",
-    "ts": 1778037676
   }
 ]
