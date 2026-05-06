@@ -1,21 +1,42 @@
 [
   {
-    "id": "1499785624",
-    "titulo": "iPhone 14",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "iphone",
+    "id": "1499787467",
+    "titulo": "PS4 ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:43",
+    "detectado": "13:47",
     "tempoOlx": "Na OLX desde fevereiro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1499785624",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ps4-1499787467",
+    "fotoUrl": "https://img.olx.com.br/images/61/619673168110723.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/619673168110723.jpg",
+      "https://img.olx.com.br/images/63/633614766359426.jpg",
+      "https://img.olx.com.br/images/65/657622521726030.jpg",
+      "https://img.olx.com.br/images/67/673684286809417.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778086028
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:43",
     "fotoUrl": "https://img.olx.com.br/images/81/819650521198695.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/819650521198695.jpg",
       "https://img.olx.com.br/images/83/836647761453946.jpg"
     ],
-    "defeito": false,
+    "id": "1499785624",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1499785624",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "iPhone 14",
     "ts": 1778085789
   },
   {
@@ -9957,25 +9978,5 @@
     "tempoOlx": "Na OLX desde julho de 2018",
     "titulo": "Lote 35 jogos PS4 Aceitamos OLX PAY ",
     "ts": 1778016655
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:30",
-    "fotoUrl": "https://img.olx.com.br/images/22/220630885369451.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/220630885369451.jpg",
-      "https://img.olx.com.br/images/23/239634169649492.jpg",
-      "https://img.olx.com.br/images/26/261647886629697.jpg"
-    ],
-    "id": "1499550320",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-evil-dead-ps4-1499550320",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2014",
-    "titulo": "The Evil Dead PS4",
-    "ts": 1778016648
   }
 ]
