@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499615652",
-    "titulo": "The witcher 3 ps4 e ps5",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps5",
+    "id": "1499617924",
+    "titulo": "FIFA 14 Playstation 4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:28",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "21:34",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/the-witcher-3-ps4-e-ps5-1499615652",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-14-playstation-4-1499617924",
+    "fotoUrl": "https://img.olx.com.br/images/60/605656648091449.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/605656648091449.jpg",
+      "https://img.olx.com.br/images/62/625627281891347.jpg",
+      "https://img.olx.com.br/images/63/633695407191627.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778027683
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:28",
     "fotoUrl": "https://img.olx.com.br/images/84/849653882460675.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/849653882460675.jpg",
       "https://img.olx.com.br/images/85/858671161345781.jpg"
     ],
-    "defeito": false,
+    "id": "1499615652",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/the-witcher-3-ps4-e-ps5-1499615652",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "The witcher 3 ps4 e ps5",
     "ts": 1778027296
   },
   {
@@ -9792,27 +9812,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "IPhone 17 Preto 256gb Novo",
     "ts": 1777996866
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:08",
-    "fotoUrl": "https://img.olx.com.br/images/42/422670886685489.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/422670886685489.jpg",
-      "https://img.olx.com.br/images/42/424677168108252.jpg",
-      "https://img.olx.com.br/images/42/423699401195775.jpg",
-      "https://img.olx.com.br/images/42/426670168596254.jpg",
-      "https://img.olx.com.br/images/43/439674046905787.jpg"
-    ],
-    "id": "1499422275",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/xbox-series-s-1499422275",
-    "preco": 1440,
-    "precoRaw": "R$ 1.440",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2017",
-    "titulo": "Xbox series s",
-    "ts": 1777986519
   }
 ]
