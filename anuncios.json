@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499737807",
-    "titulo": "Playstation 5",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "ps5",
+    "id": "1499738251",
+    "titulo": "PLAYSTATION 3 COM DEFEITO PLAYSTATION 3 PIB",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "10:55",
-    "tempoOlx": "Na OLX desde agosto de 2014",
+    "detectado": "10:56",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-5-1499737807",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-com-defeito-playstation-3-pib-1499738251",
+    "fotoUrl": "https://img.olx.com.br/images/12/129608163154616.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/129608163154616.jpg",
+      "https://img.olx.com.br/images/16/169668281333580.jpg",
+      "https://img.olx.com.br/images/20/202694408661289.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778075799
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:55",
     "fotoUrl": "https://img.olx.com.br/images/85/854695165898550.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/854695165898550.jpg"
     ],
-    "defeito": false,
+    "id": "1499737807",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-5-1499737807",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2014",
+    "titulo": "Playstation 5",
     "ts": 1778075738
   },
   {
@@ -9910,25 +9930,5 @@
     "tempoOlx": "Na OLX desde março de 2013",
     "titulo": "Mass Effect Andromeda ",
     "ts": 1778003689
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:54",
-    "fotoUrl": "https://img.olx.com.br/images/86/861653136616864.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/861653136616864.jpg",
-      "https://img.olx.com.br/images/86/865642011345166.jpg",
-      "https://img.olx.com.br/images/86/860628135211208.jpg"
-    ],
-    "id": "1477824049",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lego-batman-3-beyond-gothan-1477824049",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2013",
-    "titulo": "Lego Batman 3 Beyond Gothan",
-    "ts": 1778003680
   }
 ]
