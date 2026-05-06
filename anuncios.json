@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499865281",
-    "titulo": "Detroit PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1499864734",
+    "titulo": "Call of Duty 2X1",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "18:35",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/detroit-ps4-1499865281",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-2x1-1499864734",
+    "fotoUrl": "https://img.olx.com.br/images/78/788645400124564.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/788645400124564.jpg",
+      "https://img.olx.com.br/images/79/793674160428526.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778103346
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:35",
     "fotoUrl": "https://img.olx.com.br/images/22/223623644789910.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/223623644789910.jpg",
       "https://img.olx.com.br/images/23/233666286829506.jpg"
     ],
-    "defeito": false,
+    "id": "1499865281",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/detroit-ps4-1499865281",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Detroit PS4",
     "ts": 1778103338
   },
   {
@@ -9946,23 +9965,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "Uncharted coleção Remaster ",
     "ts": 1778030797
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:21",
-    "fotoUrl": "https://img.olx.com.br/images/13/130619406371377.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/130619406371377.jpg"
-    ],
-    "id": "1499628864",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/vendo-play-4-funcionando-normalmente-com-alguns-jogos-1499628864",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Vendo play 4 funcionando normalmente com alguns jogos",
-    "ts": 1778030495
   }
 ]
