@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499648631",
-    "titulo": "xbox séries S 512",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1499648789",
+    "titulo": "iPhone 11 Pro",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "00:55",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "detectado": "00:56",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-512-1499648631",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-1499648789",
+    "fotoUrl": "https://img.olx.com.br/images/44/449627162968977.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/449627162968977.jpg",
+      "https://img.olx.com.br/images/45/459601887574405.jpg",
+      "https://img.olx.com.br/images/46/469652641194055.jpg",
+      "https://img.olx.com.br/images/47/479668760330284.jpg",
+      "https://img.olx.com.br/images/48/486684527076471.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778039798
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:55",
     "fotoUrl": "https://img.olx.com.br/images/43/438664046880993.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/438664046880993.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/51/512685881372521.jpg",
       "https://img.olx.com.br/images/52/525645409850477.jpg"
     ],
-    "defeito": false,
+    "id": "1499648631",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-512-1499648631",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "xbox séries S 512",
     "ts": 1778039709
   },
   {
@@ -9827,23 +9849,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Jogos de Ps4 ",
     "ts": 1777997641
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:13",
-    "fotoUrl": "https://img.olx.com.br/images/83/837695404004097.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/837695404004097.jpg"
-    ],
-    "id": "1499451895",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/death-stranding-1499451895",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2022",
-    "titulo": "Death stranding",
-    "ts": 1777997634
   }
 ]
