@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499773358",
-    "titulo": "Jogos ps4/ps5",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps5",
+    "id": "1499773290",
+    "titulo": "PS4 Game",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:50",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "tempoOlx": "Na OLX desde novembro de 2024",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-ps4-ps5-1499773358",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-game-1499773290",
+    "fotoUrl": "https://img.olx.com.br/images/78/784687760881482.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/784687760881482.jpg",
+      "https://img.olx.com.br/images/79/793699648595816.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778082651
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:50",
     "fotoUrl": "https://img.olx.com.br/images/37/371678287222021.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/371678287222021.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/41/418694529138369.jpg",
       "https://img.olx.com.br/images/43/438616167111867.jpg"
     ],
-    "defeito": false,
+    "id": "1499773358",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-ps4-ps5-1499773358",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "Jogos ps4/ps5",
     "ts": 1778082643
   },
   {
@@ -9931,23 +9950,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Jogo Gran Turismo 7 PS4 Playstation 4 PS5",
     "ts": 1778012407
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:19",
-    "fotoUrl": "https://img.olx.com.br/images/28/289690648632044.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/289690648632044.jpg"
-    ],
-    "id": "1499537849",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-kena-bridge-of-spirits-deluxe-edition-ps4-playstation-4-ps5-1499537849",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Jogo Kena Bridge Of Spirits Deluxe Edition PS4 Playstation 4 PS5",
-    "ts": 1778012399
   }
 ]
