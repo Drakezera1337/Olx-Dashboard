@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499633818",
-    "titulo": "iPhone 17 pro Max ",
-    "preco": 8350,
-    "precoRaw": "R$ 8.350",
-    "categoria": "iphone",
+    "id": "1499705413",
+    "titulo": "Ps4 ",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:31",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-1499633818",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps4-1499705413",
+    "fotoUrl": "https://img.olx.com.br/images/17/170695522138384.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/170695522138384.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778074285
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:31",
     "fotoUrl": "https://img.olx.com.br/images/96/965647408622151.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/965647408622151.jpg",
       "https://img.olx.com.br/images/99/993632642632513.jpg",
       "https://img.olx.com.br/images/23/231676401229713.jpg"
     ],
-    "defeito": false,
+    "id": "1499633818",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-1499633818",
+    "preco": 8350,
+    "precoRaw": "R$ 8.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "iPhone 17 pro Max ",
     "ts": 1778074282
   },
   {
@@ -9832,26 +9850,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "PS4 usado ótimo estado",
     "ts": 1777998125
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:21",
-    "fotoUrl": "https://img.olx.com.br/images/99/993658288716339.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/993658288716339.jpg",
-      "https://img.olx.com.br/images/90/908650641402450.jpg",
-      "https://img.olx.com.br/images/91/913666043836363.jpg",
-      "https://img.olx.com.br/images/93/931693648049811.jpg"
-    ],
-    "id": "1499477517",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps5-slim-com-disco-1499477517",
-    "preco": 2599,
-    "precoRaw": "R$ 2.599",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2014",
-    "titulo": "Ps5 SLIM com disco ",
-    "ts": 1777998067
   }
 ]
