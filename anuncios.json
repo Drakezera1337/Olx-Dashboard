@@ -1,20 +1,38 @@
 [
   {
-    "id": "1422952181",
-    "titulo": "Star Wars squadrons",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "outros",
+    "id": "1425218574",
+    "titulo": "Final Fantasy XV - Playstation 4",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:18",
     "tempoOlx": "Na OLX desde setembro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/star-wars-squadrons-1422952181",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/final-fantasy-xv-playstation-4-1425218574",
+    "fotoUrl": "https://img.olx.com.br/images/28/284542192982743.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/284542192982743.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778105904
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:18",
     "fotoUrl": "https://img.olx.com.br/images/78/781690748832116.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/781690748832116.jpg"
     ],
-    "defeito": false,
+    "id": "1422952181",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/star-wars-squadrons-1422952181",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Star Wars squadrons",
     "ts": 1778105895
   },
   {
@@ -9931,25 +9949,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "Nintendo Switch *APENAS O TABLET*",
     "ts": 1778037252
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:08",
-    "fotoUrl": "https://img.olx.com.br/images/25/252675400459617.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/252675400459617.jpg",
-      "https://img.olx.com.br/images/28/282668768948977.jpg",
-      "https://img.olx.com.br/images/29/296655761588298.jpg"
-    ],
-    "id": "1499643723",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-knack-ps4-1499643723",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Jogo Knack PS4 ",
-    "ts": 1778036932
   }
 ]
