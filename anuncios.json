@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499745010",
-    "titulo": "iPhone 14 Pro 128 gb Roxo Profundo ",
-    "preco": 3300,
-    "precoRaw": "R$ 3.300",
-    "categoria": "iphone",
+    "id": "1499746101",
+    "titulo": "Playstation 4 FAT",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:22",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "11:25",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-128-gb-roxo-profundo-1499745010",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/playstation-4-fat-1499746101",
+    "fotoUrl": "https://img.olx.com.br/images/70/707606523350775.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/707606523350775.jpg",
+      "https://img.olx.com.br/images/71/713666887418549.jpg",
+      "https://img.olx.com.br/images/73/733629284599124.jpg",
+      "https://img.olx.com.br/images/74/740604168649821.jpg",
+      "https://img.olx.com.br/images/75/757625408755266.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778077537
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:22",
     "fotoUrl": "https://img.olx.com.br/images/35/353690640470771.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/353690640470771.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/46/467648407138077.jpg",
       "https://img.olx.com.br/images/50/506654529367192.jpg"
     ],
-    "defeito": false,
+    "id": "1499745010",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-128-gb-roxo-profundo-1499745010",
+    "preco": 3300,
+    "precoRaw": "R$ 3.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "iPhone 14 Pro 128 gb Roxo Profundo ",
     "ts": 1778077357
   },
   {
@@ -9889,24 +9911,5 @@
     "tempoOlx": "Na OLX desde abril de 2023",
     "titulo": "PS4 Playstation 4 slim com jogos e controle",
     "ts": 1778011199
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:59",
-    "fotoUrl": "https://img.olx.com.br/images/90/906617886413362.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/906617886413362.jpg",
-      "https://img.olx.com.br/images/92/925622165301742.jpg"
-    ],
-    "id": "1499548394",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/vendo-fifa-25-original-6-meses-de-uso-1499548394",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "VENDO FIFA 25 ORIGINAL 6 MESES DE USO",
-    "ts": 1778011190
   }
 ]
