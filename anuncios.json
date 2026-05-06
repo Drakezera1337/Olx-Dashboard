@@ -1,22 +1,41 @@
 [
   {
-    "id": "1490731622",
-    "titulo": "Bloodborne",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "outros",
+    "id": "1499845997",
+    "titulo": "Playstation 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:18",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "19:19",
+    "tempoOlx": "Na OLX desde novembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/bloodborne-1490731622",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-5-1499845997",
+    "fotoUrl": "https://img.olx.com.br/images/70/709664889418500.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/709664889418500.jpg",
+      "https://img.olx.com.br/images/71/712602766667788.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778105948
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:18",
     "fotoUrl": "https://img.olx.com.br/images/70/702609395372218.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/702609395372218.jpg",
       "https://img.olx.com.br/images/71/712645391815039.jpg",
       "https://img.olx.com.br/images/73/736635150071501.jpg"
     ],
-    "defeito": false,
+    "id": "1490731622",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/bloodborne-1490731622",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Bloodborne",
     "ts": 1778105928
   },
   {
@@ -9930,23 +9949,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Teenage Mutant Ninja Turtles: Wrath of the Mutants Jogos PS4",
     "ts": 1778037629
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:20",
-    "fotoUrl": "https://img.olx.com.br/images/28/283657644587565.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/283657644587565.jpg"
-    ],
-    "id": "1499645270",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dragon-quest-xi-s-echoes-of-an-elusive-age-ps4-1499645270",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2022",
-    "titulo": " Dragon Quest XI S: Echoes of an Elusive Age Ps4",
-    "ts": 1778037620
   }
 ]
