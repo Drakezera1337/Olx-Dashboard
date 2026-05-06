@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499864734",
-    "titulo": "Call of Duty 2X1",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "jogos",
+    "id": "1499864422",
+    "titulo": "Death Stranding PS4",
+    "preco": 85,
+    "precoRaw": "R$ 85",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:35",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-2x1-1499864734",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/death-stranding-ps4-1499864422",
+    "fotoUrl": "https://img.olx.com.br/images/92/929675649079179.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/929675649079179.jpg",
+      "https://img.olx.com.br/images/93/936639280177484.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778103354
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:35",
     "fotoUrl": "https://img.olx.com.br/images/78/788645400124564.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/788645400124564.jpg",
       "https://img.olx.com.br/images/79/793674160428526.jpg"
     ],
-    "defeito": false,
+    "id": "1499864734",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-2x1-1499864734",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Call of Duty 2X1",
     "ts": 1778103346
   },
   {
@@ -9947,23 +9966,5 @@
     "tempoOlx": "Na OLX desde novembro de 2016",
     "titulo": "GTA V PS4 com mapa.",
     "ts": 1778030806
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:26",
-    "fotoUrl": "https://img.olx.com.br/images/48/481628889231501.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/481628889231501.jpg"
-    ],
-    "id": "1499629803",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/uncharted-colecao-remaster-1499629803",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
-    "titulo": "Uncharted coleção Remaster ",
-    "ts": 1778030797
   }
 ]
