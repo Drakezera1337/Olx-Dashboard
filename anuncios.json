@@ -1,21 +1,39 @@
 [
   {
-    "id": "1499891075",
-    "titulo": "LEGO VINGADORES PS4 MARVEL ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1477940723",
+    "titulo": "Call Of Duty Black OPS 4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "20:19",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/lego-vingadores-ps4-marvel-1499891075",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-4-1477940723",
+    "fotoUrl": "https://img.olx.com.br/images/16/167668736208957.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/167668736208957.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778109572
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:19",
     "fotoUrl": "https://img.olx.com.br/images/15/156668523461831.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/156668523461831.jpg",
       "https://img.olx.com.br/images/35/355644767042483.jpg"
     ],
-    "defeito": false,
+    "id": "1499891075",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/lego-vingadores-ps4-marvel-1499891075",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "LEGO VINGADORES PS4 MARVEL ",
     "ts": 1778109564
   },
   {
@@ -9896,28 +9914,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "Ps3 slim c/ defeito liga e desliga ",
     "ts": 1778074488
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:34",
-    "fotoUrl": "https://img.olx.com.br/images/88/880663517324918.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/880663517324918.jpg",
-      "https://img.olx.com.br/images/90/905685872637272.jpg",
-      "https://img.olx.com.br/images/93/935699398807963.jpg",
-      "https://img.olx.com.br/images/95/957665515643912.jpg",
-      "https://img.olx.com.br/images/98/980646512869022.jpg",
-      "https://img.olx.com.br/images/10/105639277593961.jpg"
-    ],
-    "id": "1491376896",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/splinter-cell-trilogy-ps3-r-170-00-3x-56-00--frete-gratis-duvidas-chama-no-chat-1491376896",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2019",
-    "titulo": "Splinter Cell Trilogy PS3 - R$ 170,00 (3x 56,00 ) ( Frete Grátis) dúvidas chama no chat !!",
-    "ts": 1778074476
   }
 ]
