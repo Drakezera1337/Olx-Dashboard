@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499839248",
-    "titulo": "PlayStation 4 Fat",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1499838321",
+    "titulo": "Playstation 4 Slim 1TB Preto",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:36",
-    "tempoOlx": "Na OLX desde junho de 2016",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-fat-1499839248",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-preto-1499838321",
+    "fotoUrl": "https://img.olx.com.br/images/35/352686166630301.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/352686166630301.jpg",
+      "https://img.olx.com.br/images/36/368608284095929.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099805
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:36",
     "fotoUrl": "https://img.olx.com.br/images/52/529622641875183.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/529622641875183.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/57/574688769140814.jpg",
       "https://img.olx.com.br/images/58/588660640606907.jpg"
     ],
-    "defeito": false,
+    "id": "1499839248",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-fat-1499839248",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "titulo": "PlayStation 4 Fat",
     "ts": 1778099797
   },
   {
@@ -9949,25 +9968,5 @@
     "tempoOlx": "Na OLX desde agosto de 2021",
     "titulo": "Ps4 Slim pra sair logo",
     "ts": 1778022919
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:15",
-    "fotoUrl": "https://img.olx.com.br/images/52/522657764840778.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/522657764840778.jpg",
-      "https://img.olx.com.br/images/55/556674162142875.jpg",
-      "https://img.olx.com.br/images/57/578628646083026.jpg"
-    ],
-    "id": "1499601128",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/red-dead-redemption-2-jogo-pra-ps4-e-ps5-1499601128",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2021",
-    "titulo": "red dead redemption 2, jogo pra ps4 e ps5",
-    "ts": 1778022907
   }
 ]
