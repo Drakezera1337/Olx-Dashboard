@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498505055",
-    "titulo": "Nintendo switch OLED ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "switch",
+    "id": "1499809713",
+    "titulo": "ASTRO BOT PS5",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "17:33",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-switch-oled-1498505055",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/astro-bot-ps5-1499809713",
+    "fotoUrl": "https://img.olx.com.br/images/39/391612640288001.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/391612640288001.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778099637
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:33",
     "fotoUrl": "https://img.olx.com.br/images/88/881609286634401.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/881609286634401.jpg",
       "https://img.olx.com.br/images/90/900632046251219.jpg",
       "https://img.olx.com.br/images/92/927646648269958.jpg"
     ],
-    "defeito": false,
+    "id": "1498505055",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-switch-oled-1498505055",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Nintendo switch OLED ",
     "ts": 1778099630
   },
   {
@@ -9954,27 +9972,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Vendo 2 jogos ps4",
     "ts": 1778021166
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:44",
-    "fotoUrl": "https://img.olx.com.br/images/17/173673288663475.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/173673288663475.jpg",
-      "https://img.olx.com.br/images/20/206651408360153.jpg",
-      "https://img.olx.com.br/images/24/249676400008625.jpg",
-      "https://img.olx.com.br/images/26/263642280904066.jpg",
-      "https://img.olx.com.br/images/28/280619520655764.jpg"
-    ],
-    "id": "1499593318",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-verde-1499593318",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "IPhone 11 verde ",
-    "ts": 1778021077
   }
 ]
