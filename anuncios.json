@@ -1,21 +1,44 @@
 [
   {
-    "id": "1499865990",
-    "titulo": "The Witcher PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1499868206",
+    "titulo": "PS 04 Fat fosco ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:42",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "18:47",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-ps4-1499865990",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps-04-fat-fosco-1499868206",
+    "fotoUrl": "https://img.olx.com.br/images/79/798651164763462.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/798651164763462.jpg",
+      "https://img.olx.com.br/images/27/278672767005026.jpg",
+      "https://img.olx.com.br/images/63/638698883313789.jpg",
+      "https://img.olx.com.br/images/87/874617288083925.jpg",
+      "https://img.olx.com.br/images/15/151636647382457.jpg",
+      "https://img.olx.com.br/images/45/456688647799692.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778104058
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:42",
     "fotoUrl": "https://img.olx.com.br/images/29/292652168380525.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/292652168380525.jpg",
       "https://img.olx.com.br/images/31/318688285755693.jpg"
     ],
-    "defeito": false,
+    "id": "1499865990",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-ps4-1499865990",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "The Witcher PS4",
     "ts": 1778103720
   },
   {
@@ -9940,23 +9963,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "ps4 sem controle",
     "ts": 1778031215
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:32",
-    "fotoUrl": "https://img.olx.com.br/images/76/768555162538934.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/768555162538934.jpg"
-    ],
-    "id": "1405873630",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/bloodborne-playstation-hits-ps4-1405873630",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2014",
-    "titulo": "Bloodborne - PlayStation Hits - PS4",
-    "ts": 1778031133
   }
 ]
