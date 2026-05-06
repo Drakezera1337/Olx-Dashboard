@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499774002",
-    "titulo": "iPhone 12",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "categoria": "iphone",
+    "id": "1499775911",
+    "titulo": "Vendo ps4 slim 500gb , um controle! Com defeito",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:57",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "detectado": "13:01",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1499774002",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/vendo-ps4-slim-500gb-um-controle-com-defeito-1499775911",
+    "fotoUrl": "https://img.olx.com.br/images/22/229642046064477.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/229642046064477.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778083271
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:57",
     "fotoUrl": "https://img.olx.com.br/images/64/642691285281628.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/642691285281628.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/70/703677282699691.jpg",
       "https://img.olx.com.br/images/71/717672764013004.jpg"
     ],
-    "defeito": false,
+    "id": "1499774002",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1499774002",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "titulo": "iPhone 12",
     "ts": 1778083027
   },
   {
@@ -9938,23 +9956,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Jogo ps3",
     "ts": 1778012664
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:24",
-    "fotoUrl": "https://img.olx.com.br/images/29/295524214979720.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/295524214979720.jpg"
-    ],
-    "id": "1442595275",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1442595275",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "JOGOS DE PS4",
-    "ts": 1778012654
   }
 ]
