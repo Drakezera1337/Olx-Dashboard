@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499758896",
-    "titulo": "PS4 ",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
+    "id": "1499758334",
+    "titulo": "GTA V PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:08",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/ps4-1499758896",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/gta-v-ps4-1499758334",
+    "fotoUrl": "https://img.olx.com.br/images/65/657681169623741.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/657681169623741.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778080127
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:08",
     "fotoUrl": "https://img.olx.com.br/images/24/242627282040475.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/242627282040475.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/35/354631643256728.jpg",
       "https://img.olx.com.br/images/37/379661285692255.jpg"
     ],
-    "defeito": false,
+    "id": "1499758896",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/ps4-1499758896",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "titulo": "PS4 ",
     "ts": 1778080118
   },
   {
@@ -9909,25 +9927,5 @@
     "tempoOlx": "Na OLX desde abril de 2023",
     "titulo": "JOGOS PS5 e PS4",
     "ts": 1778011474
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:04",
-    "fotoUrl": "https://img.olx.com.br/images/43/432649642477972.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/432649642477972.jpg",
-      "https://img.olx.com.br/images/43/439671164197758.jpg",
-      "https://img.olx.com.br/images/62/625632527247071.jpg"
-    ],
-    "id": "1499531590",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-star-wars-1499531590",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "PS4 Star wars",
-    "ts": 1778011467
   }
 ]
