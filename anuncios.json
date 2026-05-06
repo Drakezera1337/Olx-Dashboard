@@ -1,21 +1,43 @@
 [
   {
-    "id": "1499767050",
-    "titulo": "God of war e bloodborne",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1499769090",
+    "titulo": "Nintendo Switch",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "12:33",
-    "tempoOlx": "Na OLX desde junho de 2017",
+    "detectado": "12:37",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/god-of-war-e-bloodborne-1499767050",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-1499769090",
+    "fotoUrl": "https://img.olx.com.br/images/35/357685282998927.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/357685282998927.jpg",
+      "https://img.olx.com.br/images/36/361630162768602.jpg",
+      "https://img.olx.com.br/images/38/383667163862941.jpg",
+      "https://img.olx.com.br/images/40/400634528033627.jpg",
+      "https://img.olx.com.br/images/41/415675529691445.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778081827
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:33",
     "fotoUrl": "https://img.olx.com.br/images/74/745666649608701.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/745666649608701.jpg",
       "https://img.olx.com.br/images/75/752628645556290.jpg"
     ],
-    "defeito": false,
+    "id": "1499767050",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/god-of-war-e-bloodborne-1499767050",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2017",
+    "titulo": "God of war e bloodborne",
     "ts": 1778081614
   },
   {
@@ -9910,26 +9932,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Red Dead Redemption 2 - Ps4 com mapa ",
     "ts": 1778011991
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:13",
-    "fotoUrl": "https://img.olx.com.br/images/15/153643286283576.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/153643286283576.jpg",
-      "https://img.olx.com.br/images/16/162668885215544.jpg",
-      "https://img.olx.com.br/images/18/184626409846320.jpg",
-      "https://img.olx.com.br/images/20/204672409473865.jpg"
-    ],
-    "id": "1499554957",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-playstation-4-lote-de-04-jogos-1499554957",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogos PlayStation 4 lote de 04 jogos",
-    "ts": 1778011982
   }
 ]
