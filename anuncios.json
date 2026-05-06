@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499868206",
-    "titulo": "PS 04 Fat fosco ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1499869075",
+    "titulo": "Xbox Series S",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "18:47",
-    "tempoOlx": "Na OLX desde outubro de 2018",
+    "tempoOlx": "Na OLX desde novembro de 2018",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps-04-fat-fosco-1499868206",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1499869075",
+    "fotoUrl": "https://img.olx.com.br/images/41/413629280913533.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/413629280913533.jpg",
+      "https://img.olx.com.br/images/43/435686885037292.jpg",
+      "https://img.olx.com.br/images/46/468696409497060.jpg",
+      "https://img.olx.com.br/images/48/481662404457607.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778104066
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:47",
     "fotoUrl": "https://img.olx.com.br/images/79/798651164763462.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/798651164763462.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/15/151636647382457.jpg",
       "https://img.olx.com.br/images/45/456688647799692.jpg"
     ],
-    "defeito": false,
+    "id": "1499868206",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps-04-fat-fosco-1499868206",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2018",
+    "titulo": "PS 04 Fat fosco ",
     "ts": 1778104058
   },
   {
@@ -9944,24 +9965,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Ps3 slim",
     "ts": 1778031247
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:33",
-    "fotoUrl": "https://img.olx.com.br/images/55/559659287164678.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/559659287164678.jpg",
-      "https://img.olx.com.br/images/57/577619165266262.jpg"
-    ],
-    "id": "1499631183",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-sem-controle-1499631183",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "ps4 sem controle",
-    "ts": 1778031215
   }
 ]
