@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499926719",
-    "titulo": "Ps4 slim 500g",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "ps4",
+    "id": "1499928132",
+    "titulo": "Vídeo game",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "23:06",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "23:15",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-500g-1499926719",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/video-game-1499928132",
+    "fotoUrl": "https://img.olx.com.br/images/89/898681764336698.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/898681764336698.jpg",
+      "https://img.olx.com.br/images/89/897606648090960.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778120107
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:06",
     "fotoUrl": "https://img.olx.com.br/images/17/177615168901620.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/177615168901620.jpg",
       "https://img.olx.com.br/images/19/193601040473952.jpg"
     ],
-    "defeito": false,
+    "id": "1499926719",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-500g-1499926719",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "Ps4 slim 500g",
     "ts": 1778119566
   },
   {
@@ -9865,23 +9884,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "Controle chroma indigo ps5 lacrado",
     "ts": 1778077116
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:14",
-    "fotoUrl": "https://img.olx.com.br/images/31/318513324652159.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/318513324652159.jpg"
-    ],
-    "id": "1439469933",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/thief-playstation-4-1439469933",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Thief - Playstation 4",
-    "ts": 1778076893
   }
 ]
