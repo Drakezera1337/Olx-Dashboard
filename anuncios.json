@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499923905",
-    "titulo": "PlayStation 4 Slim 500GB",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
+    "id": "1499923656",
+    "titulo": "PS4 500GB Standard + 3 jogos",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "22:53",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/playstation-4-slim-500gb-1499923905",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-500gb-standard-3-jogos-1499923656",
+    "fotoUrl": "https://img.olx.com.br/images/87/876664528722451.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/876664528722451.jpg",
+      "https://img.olx.com.br/images/89/898665408784939.jpg",
+      "https://img.olx.com.br/images/91/910655167110916.jpg",
+      "https://img.olx.com.br/images/93/936654166245009.jpg",
+      "https://img.olx.com.br/images/96/967666281956487.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778118799
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:53",
     "fotoUrl": "https://img.olx.com.br/images/65/653657041254258.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/653657041254258.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/69/690600884590517.jpg",
       "https://img.olx.com.br/images/70/702616284340417.jpg"
     ],
-    "defeito": false,
+    "id": "1499923905",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/playstation-4-slim-500gb-1499923905",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "PlayStation 4 Slim 500GB",
     "ts": 1778118790
   },
   {
@@ -9852,25 +9874,5 @@
     "tempoOlx": "Na OLX desde abril de 2018",
     "titulo": "Jogos ps4",
     "ts": 1778076524
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:08",
-    "fotoUrl": "https://img.olx.com.br/images/53/537691889887143.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/537691889887143.jpg",
-      "https://img.olx.com.br/images/54/544617283913394.jpg",
-      "https://img.olx.com.br/images/55/554673640287888.jpg"
-    ],
-    "id": "1499740675",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-leia-a-descricao-1499740675",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Nintendo Switch Lite (LEIA A DESCRIÇÃO)",
-    "ts": 1778076516
   }
 ]
