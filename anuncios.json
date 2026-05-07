@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499911403",
-    "titulo": "iphone XR",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1499912427",
+    "titulo": "FIFA 14",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "21:48",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "21:53",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1499911403",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/fifa-14-1499912427",
+    "fotoUrl": "https://img.olx.com.br/images/32/329618288600534.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/329618288600534.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778115218
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:48",
     "fotoUrl": "https://img.olx.com.br/images/59/592612166391723.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/592612166391723.jpg",
       "https://img.olx.com.br/images/61/610625767283511.jpg",
       "https://img.olx.com.br/images/62/622637523381039.jpg"
     ],
-    "defeito": false,
+    "id": "1499911403",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1499911403",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "iphone XR",
     "ts": 1778114888
   },
   {
@@ -9861,25 +9879,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "The Last of Us Part 2 - PS4",
     "ts": 1778074945
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:42",
-    "fotoUrl": "https://img.olx.com.br/images/90/900676403965542.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/900676403965542.jpg",
-      "https://img.olx.com.br/images/93/931652763378519.jpg",
-      "https://img.olx.com.br/images/96/968609407737548.jpg"
-    ],
-    "id": "1499717048",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/resident-evil-5-ps4-1499717048",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2019",
-    "titulo": "Resident Evil 5 - PS4 ",
-    "ts": 1778074933
   }
 ]
