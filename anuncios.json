@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499945192",
-    "titulo": "Fliperama ",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "categoria": "outros",
+    "id": "1499945755",
+    "titulo": "lego marvel + in famous - Ps4",
+    "preco": 59,
+    "precoRaw": "R$ 59",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:32",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "detectado": "00:43",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/fliperama-1499945192",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lego-marvel-in-famous-ps4-1499945755",
+    "fotoUrl": "https://img.olx.com.br/images/51/515672528345746.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/515672528345746.jpg",
+      "https://img.olx.com.br/images/53/535600283016956.jpg",
+      "https://img.olx.com.br/images/55/556609526160740.jpg",
+      "https://img.olx.com.br/images/56/567618766306205.jpg",
+      "https://img.olx.com.br/images/58/587641881112250.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778125390
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:32",
     "fotoUrl": "https://img.olx.com.br/images/22/227634647084143.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/227634647084143.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/25/252671040388918.jpg",
       "https://img.olx.com.br/images/26/268635404640066.jpg"
     ],
-    "defeito": false,
+    "id": "1499945192",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/fliperama-1499945192",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "Fliperama ",
     "ts": 1778124729
   },
   {
@@ -9866,24 +9888,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "2 Jogos Ps4",
     "ts": 1778078696
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:44",
-    "fotoUrl": "https://img.olx.com.br/images/32/328650403326971.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/328650403326971.jpg",
-      "https://img.olx.com.br/images/34/343663768689212.jpg"
-    ],
-    "id": "1499751964",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-god-of-war-ps4-1499751964",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
-    "titulo": "Jogo God of War PS4",
-    "ts": 1778078688
   }
 ]
