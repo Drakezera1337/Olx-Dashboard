@@ -1,15 +1,32 @@
 [
   {
-    "id": "1500156639",
-    "titulo": "Video gamer console ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
+    "id": "1500138775",
+    "titulo": "PS Vita Oled com defeito (GPU Crash)",
+    "preco": 550,
+    "precoRaw": "R$ 550",
     "categoria": "outros",
     "publicado": "",
     "detectado": "18:13",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/video-gamer-console-1500156639",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps-vita-oled-com-defeito-gpu-crash-1500138775",
+    "fotoUrl": "https://img.olx.com.br/images/67/677611522011694.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/677611522011694.jpg",
+      "https://img.olx.com.br/images/68/687636049744141.jpg",
+      "https://img.olx.com.br/images/69/694635520018933.jpg",
+      "https://img.olx.com.br/images/71/715660400422753.jpg",
+      "https://img.olx.com.br/images/72/727613649247187.jpg",
+      "https://img.olx.com.br/images/73/732629047858025.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188416
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:13",
     "fotoUrl": "https://img.olx.com.br/images/21/219615169764146.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/219615169764146.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/30/305631520859204.jpg",
       "https://img.olx.com.br/images/31/313637649008251.jpg"
     ],
-    "defeito": false,
+    "id": "1500156639",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/video-gamer-console-1500156639",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Video gamer console ",
     "ts": 1778188406
   },
   {
@@ -9826,28 +9849,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "PlayStation 4 Slim 500gb - PS4",
     "ts": 1778104837
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:55",
-    "fotoUrl": "https://img.olx.com.br/images/59/594672763817922.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/594672763817922.jpg",
-      "https://img.olx.com.br/images/60/608640766830002.jpg",
-      "https://img.olx.com.br/images/62/629606646430744.jpg",
-      "https://img.olx.com.br/images/64/647669765555105.jpg",
-      "https://img.olx.com.br/images/65/650633528452956.jpg",
-      "https://img.olx.com.br/images/67/673631525936665.jpg"
-    ],
-    "id": "1499871357",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-muito-novo-1499871357",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2023",
-    "titulo": "PlayStation 5 muito novo ",
-    "ts": 1778104537
   }
 ]
