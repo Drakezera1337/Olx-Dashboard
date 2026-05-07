@@ -1,21 +1,63 @@
 [
   {
-    "id": "1500003603",
-    "titulo": "IPHONE 17 256GB SEMINOVO",
-    "preco": 5400,
-    "precoRaw": "R$ 5.400",
-    "categoria": "iphone",
+    "id": "1500000209",
+    "titulo": "Ps5 portal ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "10:54",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "tempoOlx": "Na OLX desde agosto de 2013",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-256gb-seminovo-1500003603",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/ps5-portal-1500000209",
+    "fotoUrl": "https://img.olx.com.br/images/51/517661281277988.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/517661281277988.jpg",
+      "https://img.olx.com.br/images/53/533658767770614.jpg",
+      "https://img.olx.com.br/images/55/559612042420163.jpg",
+      "https://img.olx.com.br/images/56/566697766448186.jpg",
+      "https://img.olx.com.br/images/59/592664640207221.jpg",
+      "https://img.olx.com.br/images/61/616682161538547.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778162078
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:54",
+    "fotoUrl": "https://img.olx.com.br/images/58/588631755173880.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/588631755173880.jpg",
+      "https://img.olx.com.br/images/59/596644511682054.jpg"
+    ],
+    "id": "1491753687",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/stellar-blade-ps5-1491753687",
+    "preco": 210,
+    "precoRaw": "R$ 210",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "stellar blade ps5",
+    "ts": 1778162057
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:54",
     "fotoUrl": "https://img.olx.com.br/images/65/654695647377174.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/654695647377174.jpg",
       "https://img.olx.com.br/images/66/669699521131690.jpg"
     ],
-    "defeito": false,
+    "id": "1500003603",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-256gb-seminovo-1500003603",
+    "preco": 5400,
+    "precoRaw": "R$ 5.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "IPHONE 17 256GB SEMINOVO",
     "ts": 1778162055
   },
   {
@@ -9849,42 +9891,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Resident Evil 2 (PS4) - Mídia Física",
     "ts": 1778080148
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:08",
-    "fotoUrl": "https://img.olx.com.br/images/22/228694149773324.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/228694149773324.jpg",
-      "https://img.olx.com.br/images/23/236604385845496.jpg"
-    ],
-    "id": "1489865450",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1489865450",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2023",
-    "titulo": "PS4",
-    "ts": 1778080139
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:08",
-    "fotoUrl": "https://img.olx.com.br/images/65/657681169623741.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/657681169623741.jpg"
-    ],
-    "id": "1499758334",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/gta-v-ps4-1499758334",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "GTA V PS4",
-    "ts": 1778080127
   }
 ]
