@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500231208",
-    "titulo": "PlayStation 3",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps3",
+    "id": "1486611147",
+    "titulo": "Xbox Series S - Dois controles",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "20:30",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "detectado": "20:33",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-3-1500231208",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-dois-controles-1486611147",
+    "fotoUrl": "https://img.olx.com.br/images/72/721697742719097.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/721697742719097.jpg",
+      "https://img.olx.com.br/images/73/731601741699518.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778196816
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:30",
     "fotoUrl": "https://img.olx.com.br/images/90/904639645081055.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/904639645081055.jpg"
     ],
-    "defeito": false,
+    "id": "1500231208",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-3-1500231208",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "PlayStation 3",
     "ts": 1778196637
   },
   {
@@ -9815,23 +9834,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogos NieR Replicant + Bladestorm: Nightmare",
     "ts": 1778117456
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:30",
-    "fotoUrl": "https://img.olx.com.br/images/36/361595537501046.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/361595537501046.jpg"
-    ],
-    "id": "1415989780",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-15-ps4-1415989780",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "FIFA 15 - PS4",
-    "ts": 1778117447
   }
 ]
