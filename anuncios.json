@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500108113",
-    "titulo": "PLAYSTATION 3",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1500108849",
+    "titulo": "PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:58",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "12:59",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "descricao": "",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/playstation-3-1500108113",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1500108849",
+    "fotoUrl": "https://img.olx.com.br/images/22/220626769779103.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/220626769779103.jpg",
+      "https://img.olx.com.br/images/29/290673767935868.jpg",
+      "https://img.olx.com.br/images/38/387663527518077.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778169579
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:58",
     "fotoUrl": "https://img.olx.com.br/images/68/684695642079107.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/684695642079107.jpg"
     ],
-    "defeito": false,
+    "id": "1500108113",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/playstation-3-1500108113",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PLAYSTATION 3",
     "ts": 1778169519
   },
   {
@@ -9828,27 +9848,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "PLAYSTATION 5",
     "ts": 1778099537
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:32",
-    "fotoUrl": "https://img.olx.com.br/images/86/868636765942149.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/868636765942149.jpg",
-      "https://img.olx.com.br/images/87/876679887062079.jpg",
-      "https://img.olx.com.br/images/88/888688285884787.jpg",
-      "https://img.olx.com.br/images/89/897651162050189.jpg",
-      "https://img.olx.com.br/images/90/907696285543629.jpg"
-    ],
-    "id": "1499835215",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps5-slim-1499835215",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Ps5 slim",
-    "ts": 1778099530
   }
 ]
