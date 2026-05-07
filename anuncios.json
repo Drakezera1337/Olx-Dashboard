@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500096606",
-    "titulo": "PS Portal (PlayStation)",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "categoria": "outros",
+    "id": "1500098105",
+    "titulo": "Madden 19 NFL - PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:24",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "detectado": "12:28",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/consoles-de-video-game/ps-portal-playstation-1500096606",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/madden-19-nfl-ps4-1500098105",
+    "fotoUrl": "https://img.olx.com.br/images/22/222687409981505.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/222687409981505.jpg",
+      "https://img.olx.com.br/images/24/248618404235721.jpg",
+      "https://img.olx.com.br/images/25/250651884802843.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778167686
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:24",
     "fotoUrl": "https://img.olx.com.br/images/15/153673642837927.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/153673642837927.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/23/230666761333084.jpg",
       "https://img.olx.com.br/images/25/258633769302098.jpg"
     ],
-    "defeito": false,
+    "id": "1500096606",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/consoles-de-video-game/ps-portal-playstation-1500096606",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "PS Portal (PlayStation)",
     "ts": 1778167480
   },
   {
@@ -9849,23 +9869,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Playstation 4 PS4 SLIM 1Tb",
     "ts": 1778089749
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:44",
-    "fotoUrl": "https://img.olx.com.br/images/37/377553715003051.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/377553715003051.jpg"
-    ],
-    "id": "1465605637",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogo-devil-may-cry-5-ps4-br-midia-fisica-original-novo-lacrado-1465605637",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2020",
-    "titulo": "Jogo Devil May Cry 5 Ps4 Br Midia Fisica.(Original/Novo/Lacrado)",
-    "ts": 1778089452
   }
 ]
