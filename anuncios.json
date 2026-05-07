@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499917362",
-    "titulo": "PS4 + 40 jogos ",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
+    "id": "1499916745",
+    "titulo": "Jogo GTA e Injustice 2 - PS4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:18",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "22:19",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/ps4-40-jogos-1499917362",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-gta-e-injustice-2-ps4-1499916745",
+    "fotoUrl": "https://img.olx.com.br/images/74/747692889401054.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/747692889401054.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778116745
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:18",
     "fotoUrl": "https://img.olx.com.br/images/96/966655040508440.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/966655040508440.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/98/988602161229812.jpg",
       "https://img.olx.com.br/images/99/991600409546468.jpg"
     ],
-    "defeito": false,
+    "id": "1499917362",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/ps4-40-jogos-1499917362",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "PS4 + 40 jogos ",
     "ts": 1778116736
   },
   {
@@ -9848,25 +9866,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "2 jogos PS4",
     "ts": 1778075120
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:45",
-    "fotoUrl": "https://img.olx.com.br/images/27/279636285032694.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/279636285032694.jpg",
-      "https://img.olx.com.br/images/29/297614527380248.jpg",
-      "https://img.olx.com.br/images/66/661639887958413.jpg"
-    ],
-    "id": "1499734641",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps4-slim-defeituoso-1tb-1499734641",
-    "preco": 289,
-    "precoRaw": "R$ 289",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2022",
-    "titulo": "Ps4 Slim defeituoso (1TB)",
-    "ts": 1778075109
   }
 ]
