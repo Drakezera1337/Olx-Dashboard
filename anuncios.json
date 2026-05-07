@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500213356",
-    "titulo": "The last of us PT 1",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "jogos",
+    "id": "1500214179",
+    "titulo": "Ps5",
+    "preco": 1730,
+    "precoRaw": "R$ 1.730",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:10",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "detectado": "19:11",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/the-last-of-us-pt-1-1500213356",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps5-1500214179",
+    "fotoUrl": "https://img.olx.com.br/images/18/185675280873985.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/185675280873985.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778191870
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:10",
     "fotoUrl": "https://img.olx.com.br/images/73/733675882756474.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/733675882756474.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/77/776654286505665.jpg",
       "https://img.olx.com.br/images/78/782625768076137.jpg"
     ],
-    "defeito": false,
+    "id": "1500213356",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/the-last-of-us-pt-1-1500213356",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "The last of us PT 1",
     "ts": 1778191836
   },
   {
@@ -9809,26 +9827,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "Jogos PS4 (GTA V, The Elder Ring, The Witcher 3 e Dying Light)",
     "ts": 1778111404
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:49",
-    "fotoUrl": "https://img.olx.com.br/images/83/835612277378092.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/835612277378092.jpg",
-      "https://img.olx.com.br/images/86/860643150878041.jpg",
-      "https://img.olx.com.br/images/88/882696392305853.jpg",
-      "https://img.olx.com.br/images/90/907641519411339.jpg"
-    ],
-    "id": "1387385185",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/gran-turismo-sport-playstation-4-original-1387385185",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "Gran Turismo Sport - PlayStation 4 - Original ",
-    "ts": 1778111395
   }
 ]
