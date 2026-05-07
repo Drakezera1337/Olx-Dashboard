@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500073203",
-    "titulo": "Vendo iPhone 11",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "iphone",
+    "id": "1500077860",
+    "titulo": "Play4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:24",
-    "tempoOlx": "Na OLX desde novembro de 2025",
+    "detectado": "11:29",
+    "tempoOlx": "Na OLX desde novembro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-11-1500073203",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play4-1500077860",
+    "fotoUrl": "https://img.olx.com.br/images/21/218610763120175.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/218610763120175.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778164145
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:24",
     "fotoUrl": "https://img.olx.com.br/images/74/748689408471310.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/748689408471310.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/76/768674763178541.jpg",
       "https://img.olx.com.br/images/77/771639162547645.jpg"
     ],
-    "defeito": false,
+    "id": "1500073203",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-11-1500073203",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "Vendo iPhone 11",
     "ts": 1778163877
   },
   {
@@ -9845,23 +9863,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2022",
     "titulo": "Vendo esse ps2 modelo 9001 só o console não sei como ta u funcionando dele vendo a sim ",
     "ts": 1778086507
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:53",
-    "fotoUrl": "https://img.olx.com.br/images/15/151614043251624.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/151614043251624.jpg"
-    ],
-    "id": "1499788065",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/marvels-avengers-para-ps4-1499788065",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "Marvels Avengers para PS4 ",
-    "ts": 1778086393
   }
 ]
