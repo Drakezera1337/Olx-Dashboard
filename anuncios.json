@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500084722",
-    "titulo": "Playstation 4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1500085421",
+    "titulo": "nintendo eony",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "11:46",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "detectado": "11:47",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/playstation-4-1500084722",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/nintendo-eony-1500085421",
+    "fotoUrl": "https://img.olx.com.br/images/54/549640167825086.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/549640167825086.jpg",
+      "https://img.olx.com.br/images/56/567664403974320.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778165258
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:46",
     "fotoUrl": "https://img.olx.com.br/images/76/761602283091684.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/761602283091684.jpg",
       "https://img.olx.com.br/images/80/808614523553167.jpg"
     ],
-    "defeito": false,
+    "id": "1500084722",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/playstation-4-1500084722",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Playstation 4",
     "ts": 1778165194
   },
   {
@@ -9840,25 +9859,5 @@
     "tempoOlx": "Na OLX desde agosto de 2020",
     "titulo": "JOGOS XBOX360",
     "ts": 1778087716
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:15",
-    "fotoUrl": "https://img.olx.com.br/images/34/341640749700316.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/341640749700316.jpg",
-      "https://img.olx.com.br/images/36/367652741920628.jpg",
-      "https://img.olx.com.br/images/37/378603267539672.jpg"
-    ],
-    "id": "1481693277",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-diversos-ps3-1481693277",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "JOGOS  DIVERSOS PS3",
-    "ts": 1778087706
   }
 ]
