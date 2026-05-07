@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500183950",
-    "titulo": "PS5 portátil ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps5",
+    "id": "1500155842",
+    "titulo": "iPhone 11 pra vende contato *",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "18:10",
-    "tempoOlx": "Na OLX desde maio de 2017",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-portatil-1500183950",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pra-vende-contato-1500155842",
+    "fotoUrl": "https://img.olx.com.br/images/42/421655287359150.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/421655287359150.jpg",
+      "https://img.olx.com.br/images/43/434694408417621.jpg",
+      "https://img.olx.com.br/images/44/446636283316366.jpg",
+      "https://img.olx.com.br/images/45/451670048708071.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188206
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:10",
     "fotoUrl": "https://img.olx.com.br/images/20/208644648993706.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/208644648993706.jpg",
       "https://img.olx.com.br/images/21/215655281392494.jpg",
       "https://img.olx.com.br/images/23/233693164130225.jpg"
     ],
-    "defeito": false,
+    "id": "1500183950",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-portatil-1500183950",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "PS5 portátil ",
     "ts": 1778188204
   },
   {
@@ -9824,23 +9845,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2015",
     "titulo": "Vendo jogo PS4 God of war 3",
     "ts": 1778102654
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:24",
-    "fotoUrl": "https://img.olx.com.br/images/24/248694039118297.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/248694039118297.jpg"
-    ],
-    "id": "1491241141",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/vendo-jogo-ps4-unchard-1491241141",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
-    "titulo": "Vendo jogo PS4 Unchard ",
-    "ts": 1778102646
   }
 ]
