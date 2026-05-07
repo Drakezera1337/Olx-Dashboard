@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500134319",
-    "titulo": "iPhone 8 64gb",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "iphone",
+    "id": "1496481768",
+    "titulo": "PS4 Slim seminovo 500 GB + HD 1TB + Controle",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:37",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "detectado": "14:40",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-64gb-1500134319",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps4-slim-seminovo-500-gb-hd-1tb-controle-1496481768",
+    "fotoUrl": "https://img.olx.com.br/images/38/381652874555404.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/381652874555404.jpg",
+      "https://img.olx.com.br/images/40/409680755257190.jpg",
+      "https://img.olx.com.br/images/42/421659635063801.jpg",
+      "https://img.olx.com.br/images/44/443663277392881.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778175609
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:37",
     "fotoUrl": "https://img.olx.com.br/images/82/822670646863810.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/822670646863810.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/87/875620762852488.jpg",
       "https://img.olx.com.br/images/89/890621400029085.jpg"
     ],
-    "defeito": false,
+    "id": "1500134319",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-64gb-1500134319",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "iPhone 8 64gb",
     "ts": 1778175430
   },
   {
@@ -9814,24 +9835,5 @@
     "tempoOlx": "Na OLX desde agosto de 2023",
     "titulo": "Cartas M alakazan, Flareon e Entei",
     "ts": 1778101538
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:05",
-    "fotoUrl": "https://img.olx.com.br/images/83/834611407351577.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/834611407351577.jpg",
-      "https://img.olx.com.br/images/84/849630162909029.jpg"
-    ],
-    "id": "1499856867",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-nitendo-switch-lite-semi-novo-1499856867",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
-    "titulo": "Vendo nitendo switch lite semi novo",
-    "ts": 1778101508
   }
 ]
