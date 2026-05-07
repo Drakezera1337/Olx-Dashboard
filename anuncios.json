@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500077917",
-    "titulo": "Jogos PS3 e PS4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1500077327",
+    "titulo": "Jogos de PS4",
+    "preco": 75,
+    "precoRaw": "R$ 75",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:29",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps3-e-ps4-1500077917",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-de-ps4-1500077327",
+    "fotoUrl": "https://img.olx.com.br/images/87/872615047416956.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/872615047416956.jpg",
+      "https://img.olx.com.br/images/88/886616526148222.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778164168
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:29",
     "fotoUrl": "https://img.olx.com.br/images/85/857608647015351.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/857608647015351.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/93/932662408226627.jpg",
       "https://img.olx.com.br/images/94/944671048175845.jpg"
     ],
-    "defeito": false,
+    "id": "1500077917",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps3-e-ps4-1500077917",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Jogos PS3 e PS4",
     "ts": 1778164159
   },
   {
@@ -9841,27 +9860,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2017",
     "titulo": "Red Dead Redemption 2 PS4 Jogo Play 4 PlayStation 4",
     "ts": 1778086788
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:59",
-    "fotoUrl": "https://img.olx.com.br/images/12/120689880195204.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/120689880195204.jpg",
-      "https://img.olx.com.br/images/14/147654642187079.jpg",
-      "https://img.olx.com.br/images/67/677650167655075.jpg",
-      "https://img.olx.com.br/images/69/691681405262285.jpg",
-      "https://img.olx.com.br/images/70/708653406990835.jpg"
-    ],
-    "id": "1499790078",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-para-conserto-1499790078",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "PlayStation 3 para conserto",
-    "ts": 1778086779
   }
 ]
