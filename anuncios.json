@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500072364",
-    "titulo": "PlayStation 4 1TB | Controle | Caixa + jogos",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1500072955",
+    "titulo": "DREMS PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:17",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/playstation-4-1tb-controle-caixa-jogos-1500072364",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/drems-ps4-1500072955",
+    "fotoUrl": "https://img.olx.com.br/images/79/796626043870057.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/796626043870057.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778163445
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:17",
     "fotoUrl": "https://img.olx.com.br/images/99/995615167662277.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/995615167662277.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/18/188640646256907.jpg",
       "https://img.olx.com.br/images/19/197664526557834.jpg"
     ],
-    "defeito": false,
+    "id": "1500072364",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/playstation-4-1tb-controle-caixa-jogos-1500072364",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "PlayStation 4 1TB | Controle | Caixa + jogos",
     "ts": 1778163435
   },
   {
@@ -9844,24 +9862,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Eletrônico ",
     "ts": 1778085549
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:37",
-    "fotoUrl": "https://img.olx.com.br/images/92/923623400510842.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/923623400510842.jpg",
-      "https://img.olx.com.br/images/95/950612160516513.jpg"
-    ],
-    "id": "1499784281",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-completo-desbloqueado-1000-jogos-game-stick-com-20-000-jogos-retro-1499784281",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
-    "titulo": "Playstation 3 completo desbloqueado +1000 jogos +Game stick com 20.000 jogos retrô",
-    "ts": 1778085434
   }
 ]
