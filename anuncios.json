@@ -1,21 +1,40 @@
 [
   {
-    "id": "1489892820",
-    "titulo": "Until dawn ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1489892193",
+    "titulo": "Mass Effect ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "outros",
     "publicado": "",
     "detectado": "12:50",
     "tempoOlx": "Na OLX desde novembro de 2019",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/until-dawn-1489892820",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/mass-effect-1489892193",
+    "fotoUrl": "https://img.olx.com.br/images/53/538645862558735.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/538645862558735.jpg",
+      "https://img.olx.com.br/images/56/563608508297451.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778169057
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:50",
     "fotoUrl": "https://img.olx.com.br/images/23/239652148413485.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/239652148413485.jpg",
       "https://img.olx.com.br/images/26/263638749046514.jpg"
     ],
-    "defeito": false,
+    "id": "1489892820",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/until-dawn-1489892820",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Until dawn ",
     "ts": 1778169047
   },
   {
@@ -9841,25 +9860,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Nintendo Dsi Rosa Seminovo",
     "ts": 1778090317
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:57",
-    "fotoUrl": "https://img.olx.com.br/images/77/775633643680300.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/775633643680300.jpg",
-      "https://img.olx.com.br/images/79/798670760247750.jpg",
-      "https://img.olx.com.br/images/80/802670524967490.jpg"
-    ],
-    "id": "1499804633",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1499804633",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2016",
-    "titulo": "Ps4",
-    "ts": 1778090258
   }
 ]
