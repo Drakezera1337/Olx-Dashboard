@@ -1,21 +1,44 @@
 [
   {
-    "id": "1489892193",
-    "titulo": "Mass Effect ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1500107238",
+    "titulo": "iPhone 12 128GB + Carregador turbo",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "12:50",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "detectado": "12:51",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/mass-effect-1489892193",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-carregador-turbo-1500107238",
+    "fotoUrl": "https://img.olx.com.br/images/85/857659649539233.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/857659649539233.jpg",
+      "https://img.olx.com.br/images/91/910659288200285.jpg",
+      "https://img.olx.com.br/images/97/977679648233109.jpg",
+      "https://img.olx.com.br/images/14/146634163499919.jpg",
+      "https://img.olx.com.br/images/22/229678165848826.jpg",
+      "https://img.olx.com.br/images/27/278600406163382.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778169105
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:50",
     "fotoUrl": "https://img.olx.com.br/images/53/538645862558735.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/538645862558735.jpg",
       "https://img.olx.com.br/images/56/563608508297451.jpg"
     ],
-    "defeito": false,
+    "id": "1489892193",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/mass-effect-1489892193",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Mass Effect ",
     "ts": 1778169057
   },
   {
@@ -9837,28 +9860,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Xbox Series S Com 2 controles + Caixa e NF",
     "ts": 1778090438
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:58",
-    "fotoUrl": "https://img.olx.com.br/images/13/136631520673825.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/136631520673825.jpg",
-      "https://img.olx.com.br/images/48/481649289574674.jpg",
-      "https://img.olx.com.br/images/48/489635286628312.jpg",
-      "https://img.olx.com.br/images/48/480624527432954.jpg",
-      "https://img.olx.com.br/images/48/489626403664655.jpg",
-      "https://img.olx.com.br/images/48/487632400301104.jpg"
-    ],
-    "id": "1499805280",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-dsi-rosa-seminovo-1499805280",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Nintendo Dsi Rosa Seminovo",
-    "ts": 1778090317
   }
 ]
