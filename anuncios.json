@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499931980",
-    "titulo": "Lego marvel super herois - Ps4",
-    "preco": 19,
-    "precoRaw": "R$ 19",
-    "categoria": "ps4",
+    "id": "1499935025",
+    "titulo": "Mortal Kombat 11 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "23:38",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "detectado": "23:43",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lego-marvel-super-herois-ps4-1499931980",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/jogos-de-video-game/mortal-kombat-11-1499935025",
+    "fotoUrl": "https://img.olx.com.br/images/25/257685763433910.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/257685763433910.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778121817
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:38",
     "fotoUrl": "https://img.olx.com.br/images/18/180618527697969.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/180618527697969.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/21/210675643350043.jpg",
       "https://img.olx.com.br/images/23/235637401983220.jpg"
     ],
-    "defeito": false,
+    "id": "1499931980",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lego-marvel-super-herois-ps4-1499931980",
+    "preco": 19,
+    "precoRaw": "R$ 19",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Lego marvel super herois - Ps4",
     "ts": 1778121502
   },
   {
@@ -9870,28 +9888,5 @@
     "tempoOlx": "Na OLX desde maio de 2016",
     "titulo": "Playstation 4 FAT",
     "ts": 1778077537
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:22",
-    "fotoUrl": "https://img.olx.com.br/images/35/353690640470771.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/353690640470771.jpg",
-      "https://img.olx.com.br/images/38/386693760436063.jpg",
-      "https://img.olx.com.br/images/40/405657528689858.jpg",
-      "https://img.olx.com.br/images/43/437689403405601.jpg",
-      "https://img.olx.com.br/images/46/467648407138077.jpg",
-      "https://img.olx.com.br/images/50/506654529367192.jpg"
-    ],
-    "id": "1499745010",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-128-gb-roxo-profundo-1499745010",
-    "preco": 3300,
-    "precoRaw": "R$ 3.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "iPhone 14 Pro 128 gb Roxo Profundo ",
-    "ts": 1778077357
   }
 ]
