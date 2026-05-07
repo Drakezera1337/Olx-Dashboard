@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499928618",
-    "titulo": "Asus ZenFone 9 Topo de Linha ",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "outros",
+    "id": "1499928260",
+    "titulo": "PS5 FAT",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "23:20",
-    "tempoOlx": "Na OLX desde abril de 2018",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/asus-zenfone-9-topo-de-linha-1499928618",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-fat-1499928260",
+    "fotoUrl": "https://img.olx.com.br/images/99/997663409750476.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/997663409750476.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778120436
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:20",
     "fotoUrl": "https://img.olx.com.br/images/46/464644402105370.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/464644402105370.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/58/588601885351294.jpg",
       "https://img.olx.com.br/images/58/582640407046887.jpg"
     ],
-    "defeito": false,
+    "id": "1499928618",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/asus-zenfone-9-topo-de-linha-1499928618",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2018",
+    "titulo": "Asus ZenFone 9 Topo de Linha ",
     "ts": 1778120406
   },
   {
@@ -9872,25 +9890,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "JOGO - eFootball PES 2020 - PS4",
     "ts": 1778077267
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:20",
-    "fotoUrl": "https://img.olx.com.br/images/77/778540803926633.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/778540803926633.jpg",
-      "https://img.olx.com.br/images/79/790577801717055.jpg",
-      "https://img.olx.com.br/images/82/820501681907705.jpg"
-    ],
-    "id": "1436394109",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogo-plants-vs-zombies-batalha-por-neighborville--ps4-midia-digital-1436394109",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2024",
-    "titulo": "Jogo ?Plants vs Zombies Batalha por Neighborville? -  Ps4 Mídia Digital",
-    "ts": 1778077259
   }
 ]
