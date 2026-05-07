@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500155842",
-    "titulo": "iPhone 11 pra vende contato *",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "iphone",
+    "id": "1500161767",
+    "titulo": "Playstation 5 Fat com mídia física, preço negociável.",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "18:10",
-    "tempoOlx": "Na OLX desde julho de 2022",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pra-vende-contato-1500155842",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/playstation-5-fat-com-midia-fisica-preco-negociavel-1500161767",
+    "fotoUrl": "https://img.olx.com.br/images/18/189679046377007.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/189679046377007.jpg",
+      "https://img.olx.com.br/images/19/196651047870826.jpg",
+      "https://img.olx.com.br/images/20/205641163664483.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188212
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:10",
     "fotoUrl": "https://img.olx.com.br/images/42/421655287359150.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/421655287359150.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/44/446636283316366.jpg",
       "https://img.olx.com.br/images/45/451670048708071.jpg"
     ],
-    "defeito": false,
+    "id": "1500155842",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pra-vende-contato-1500155842",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "iPhone 11 pra vende contato *",
     "ts": 1778188206
   },
   {
@@ -9827,23 +9847,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Lote10  jogos ps3",
     "ts": 1778102661
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:24",
-    "fotoUrl": "https://img.olx.com.br/images/69/697678517785925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/697678517785925.jpg"
-    ],
-    "id": "1491240822",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/vendo-jogo-ps4-god-of-war-3-1491240822",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
-    "titulo": "Vendo jogo PS4 God of war 3",
-    "ts": 1778102654
   }
 ]
