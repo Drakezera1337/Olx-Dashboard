@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499904417",
-    "titulo": "Vendo playstation 4 com 3 controles e 4 jogos",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "ps4",
+    "id": "1499906688",
+    "titulo": "Xbox",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "21:20",
-    "tempoOlx": "Na OLX desde abril de 2013",
+    "detectado": "21:25",
+    "tempoOlx": "Na OLX desde maio de 2019",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/vendo-playstation-4-com-3-controles-e-4-jogos-1499904417",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-1499906688",
+    "fotoUrl": "https://img.olx.com.br/images/80/803606764484148.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/803606764484148.jpg",
+      "https://img.olx.com.br/images/81/818625285708105.jpg",
+      "https://img.olx.com.br/images/83/830694883182135.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778113537
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:20",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1499904417",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/vendo-playstation-4-com-3-controles-e-4-jogos-1499904417",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2013",
+    "titulo": "Vendo playstation 4 com 3 controles e 4 jogos",
     "ts": 1778113252
   },
   {
@@ -9864,28 +9884,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogo Greed Fall PS4 ",
     "ts": 1778074823
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:40",
-    "fotoUrl": "https://img.olx.com.br/images/27/279561831136423.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/279561831136423.jpg",
-      "https://img.olx.com.br/images/30/301554471419613.jpg",
-      "https://img.olx.com.br/images/33/336510232971714.jpg",
-      "https://img.olx.com.br/images/34/344550837908755.jpg",
-      "https://img.olx.com.br/images/36/364510232760505.jpg",
-      "https://img.olx.com.br/images/37/371521355471407.jpg"
-    ],
-    "id": "1458496859",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/colecao-jogos-dragon-ball-z-ps3-1458496859",
-    "preco": 989,
-    "precoRaw": "R$ 989",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Coleção Jogos Dragon Ball Z PS3 ",
-    "ts": 1778074814
   }
 ]
