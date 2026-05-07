@@ -1,20 +1,40 @@
 [
   {
-    "id": "1460315749",
-    "titulo": "Jogo WatchDogs PS4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "ps4",
+    "id": "1500161138",
+    "titulo": "Kingdom Hearts 3",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:20",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-watchdogs-ps4-1460315749",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/kingdom-hearts-3-1500161138",
+    "fotoUrl": "https://img.olx.com.br/images/67/676683049301650.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/676683049301650.jpg",
+      "https://img.olx.com.br/images/69/692664040291752.jpg",
+      "https://img.olx.com.br/images/70/705607524115880.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188811
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:20",
     "fotoUrl": "https://img.olx.com.br/images/79/797564236448676.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/797564236448676.jpg"
     ],
-    "defeito": false,
+    "id": "1460315749",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-watchdogs-ps4-1460315749",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Jogo WatchDogs PS4",
     "ts": 1778188802
   },
   {
@@ -9824,25 +9844,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Death Stranding p/ PS4",
     "ts": 1778107700
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:48",
-    "fotoUrl": "https://img.olx.com.br/images/27/279635521718327.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/279635521718327.jpg",
-      "https://img.olx.com.br/images/27/275657284423872.jpg",
-      "https://img.olx.com.br/images/27/276655164546478.jpg"
-    ],
-    "id": "1499761901",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-barato-pra-vender-rapido-completo-1499761901",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "PS5 Barato pra Vender Rápido | Completo",
-    "ts": 1778107690
   }
 ]
