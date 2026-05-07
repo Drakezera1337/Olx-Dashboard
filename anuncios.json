@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500034305",
-    "titulo": "iPhone 11 ",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "iphone",
+    "id": "1390859628",
+    "titulo": "Sakuna Ps4 ",
+    "preco": 245,
+    "precoRaw": "R$ 245",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:54",
-    "tempoOlx": "Na OLX desde junho de 2024",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500034305",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/sakuna-ps4-1390859628",
+    "fotoUrl": "https://img.olx.com.br/images/94/943598636381350.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/943598636381350.jpg",
+      "https://img.olx.com.br/images/96/965598515306091.jpg",
+      "https://img.olx.com.br/images/97/972528397273347.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778162048
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:54",
     "fotoUrl": "https://img.olx.com.br/images/80/801634640611692.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/801634640611692.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/79/795640766231672.jpg",
       "https://img.olx.com.br/images/51/513621646892340.jpg"
     ],
-    "defeito": false,
+    "id": "1500034305",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500034305",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2024",
+    "titulo": "iPhone 11 ",
     "ts": 1778162043
   },
   {
@@ -9870,24 +9890,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2019",
     "titulo": "PS4 ",
     "ts": 1778080118
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:03",
-    "fotoUrl": "https://img.olx.com.br/images/27/272607281868926.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/272607281868926.jpg",
-      "https://img.olx.com.br/images/28/288661763235465.jpg"
-    ],
-    "id": "1499755499",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/ps3-slim-retirada-de-pecas-1499755499",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "ps3 slim retirada de peças ",
-    "ts": 1778079819
   }
 ]
