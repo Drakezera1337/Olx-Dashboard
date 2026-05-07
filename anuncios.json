@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500111947",
-    "titulo": "Vendo ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1500111807",
+    "titulo": "Playstation 3 com Defeito - Ele Liga e Desliga após 2/3 Minutos",
+    "preco": 220,
+    "precoRaw": "R$ 220",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:10",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps4-1500111947",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-com-defeito-ele-liga-e-desliga-apos-2-3-minutos-1500111807",
+    "fotoUrl": "https://img.olx.com.br/images/30/300626407920988.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/300626407920988.jpg",
+      "https://img.olx.com.br/images/31/316613406031903.jpg",
+      "https://img.olx.com.br/images/33/331650406692447.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778170218
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:10",
     "fotoUrl": "https://img.olx.com.br/images/34/342644887607747.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/342644887607747.jpg"
     ],
-    "defeito": false,
+    "id": "1500111947",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps4-1500111947",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "Vendo ps4",
     "ts": 1778170207
   },
   {
@@ -9821,28 +9841,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Nintendo switch OLED ",
     "ts": 1778099630
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:33",
-    "fotoUrl": "https://img.olx.com.br/images/16/168602640252462.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/168602640252462.jpg",
-      "https://img.olx.com.br/images/18/186649646881599.jpg",
-      "https://img.olx.com.br/images/19/195600529598022.jpg",
-      "https://img.olx.com.br/images/20/201651527751256.jpg",
-      "https://img.olx.com.br/images/22/228644763748987.jpg",
-      "https://img.olx.com.br/images/23/232698160085852.jpg"
-    ],
-    "id": "1499822203",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-1499822203",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "nintendo switch ",
-    "ts": 1778099621
   }
 ]
