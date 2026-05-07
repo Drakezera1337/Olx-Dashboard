@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500161253",
-    "titulo": "Playstation 5 Novo",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "ps5",
+    "id": "1500136771",
+    "titulo": "iPhone 17 pro Max ",
+    "preco": 8000,
+    "precoRaw": "R$ 8.000",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "18:10",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "tempoOlx": "Na OLX desde agosto de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-novo-1500161253",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-1500136771",
+    "fotoUrl": "https://img.olx.com.br/images/22/220684644261163.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/220684644261163.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188225
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:10",
     "fotoUrl": "https://img.olx.com.br/images/98/982651164044327.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/982651164044327.jpg"
     ],
-    "defeito": false,
+    "id": "1500161253",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-novo-1500161253",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "Playstation 5 Novo",
     "ts": 1778188219
   },
   {
@@ -9834,23 +9852,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Playstation 4 1TB (PRA SAIR HOJE)",
     "ts": 1778102976
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:24",
-    "fotoUrl": "https://img.olx.com.br/images/75/754696632273435.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/754696632273435.jpg"
-    ],
-    "id": "1491566248",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/3-jogos-ps4-1491566248",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "3 jogos ps4",
-    "ts": 1778102677
   }
 ]
