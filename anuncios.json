@@ -1,21 +1,44 @@
 [
   {
-    "id": "1500190403",
-    "titulo": "XBox Series S 500 GB",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
+    "id": "1500182089",
+    "titulo": "Xbox Series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "18:12",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-500-gb-1500190403",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/xbox-series-s-1500182089",
+    "fotoUrl": "https://img.olx.com.br/images/81/818639280945234.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/818639280945234.jpg",
+      "https://img.olx.com.br/images/82/821630043346431.jpg",
+      "https://img.olx.com.br/images/83/837676887015391.jpg",
+      "https://img.olx.com.br/images/84/842681766152357.jpg",
+      "https://img.olx.com.br/images/85/855668166454053.jpg",
+      "https://img.olx.com.br/images/86/861660521049690.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188366
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:12",
     "fotoUrl": "https://img.olx.com.br/images/91/915692407202898.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/915692407202898.jpg",
       "https://img.olx.com.br/images/36/365661526591097.jpg"
     ],
-    "defeito": false,
+    "id": "1500190403",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-500-gb-1500190403",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "XBox Series S 500 GB",
     "ts": 1778188357
   },
   {
@@ -9819,26 +9842,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "Playstation 4 pro, 1tb de memoria, 1 controle original+ 4jogo",
     "ts": 1778104118
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:48",
-    "fotoUrl": "https://img.olx.com.br/images/85/850626398633302.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/850626398633302.jpg",
-      "https://img.olx.com.br/images/89/894689152955936.jpg",
-      "https://img.olx.com.br/images/93/938619393831057.jpg",
-      "https://img.olx.com.br/images/29/291679639155949.jpg"
-    ],
-    "id": "1490934337",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-fat-500g-17-jogos-venda-1490934337",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2019",
-    "titulo": "PS4 FAT 500G + 17 JOGOS - VENDA ",
-    "ts": 1778104111
   }
 ]
