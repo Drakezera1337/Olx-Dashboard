@@ -1,20 +1,41 @@
 [
   {
-    "id": "1466268297",
-    "titulo": "Jogos PS3",
-    "preco": 20,
-    "precoRaw": "R$ 20",
-    "categoria": "ps3",
+    "id": "1500134319",
+    "titulo": "iPhone 8 64gb",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "14:37",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/jogos-ps3-1466268297",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-64gb-1500134319",
+    "fotoUrl": "https://img.olx.com.br/images/82/822670646863810.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/822670646863810.jpg",
+      "https://img.olx.com.br/images/84/847699767052558.jpg",
+      "https://img.olx.com.br/images/87/875620762852488.jpg",
+      "https://img.olx.com.br/images/89/890621400029085.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778175430
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:37",
     "fotoUrl": "https://img.olx.com.br/images/90/909611729973189.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/909611729973189.jpg"
     ],
-    "defeito": false,
+    "id": "1466268297",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/jogos-ps3-1466268297",
+    "preco": 20,
+    "precoRaw": "R$ 20",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "Jogos PS3",
     "ts": 1778175426
   },
   {
@@ -9812,24 +9833,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Vendo nitendo switch lite semi novo",
     "ts": 1778101508
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:00",
-    "fotoUrl": "https://img.olx.com.br/images/92/924644520844695.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/924644520844695.jpg",
-      "https://img.olx.com.br/images/94/947616287344681.jpg"
-    ],
-    "id": "1499854558",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-1499854558",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "PlayStation 4",
-    "ts": 1778101218
   }
 ]
