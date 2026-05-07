@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500037490",
-    "titulo": "The last of us ",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1500036721",
+    "titulo": "Vídeo game",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:03",
-    "tempoOlx": "Na OLX desde setembro de 2020",
+    "tempoOlx": "Na OLX desde outubro de 2017",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/the-last-of-us-1500037490",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/video-game-1500036721",
+    "fotoUrl": "https://img.olx.com.br/images/54/547690527728826.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/547690527728826.jpg",
+      "https://img.olx.com.br/images/54/540686401940790.jpg",
+      "https://img.olx.com.br/images/54/548614407639307.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778162612
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:03",
     "fotoUrl": "https://img.olx.com.br/images/17/179613040354307.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/179613040354307.jpg"
     ],
-    "defeito": false,
+    "id": "1500037490",
+    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/the-last-of-us-1500037490",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2020",
+    "titulo": "The last of us ",
     "ts": 1778162587
   },
   {
@@ -9866,27 +9886,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Playstation 4 1TB + 4 Jogos + 1 controle",
     "ts": 1778083328
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:01",
-    "fotoUrl": "https://img.olx.com.br/images/68/688604649587927.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/688604649587927.jpg",
-      "https://img.olx.com.br/images/70/707696289960264.jpg",
-      "https://img.olx.com.br/images/71/714692524770677.jpg",
-      "https://img.olx.com.br/images/73/739618163133145.jpg",
-      "https://img.olx.com.br/images/75/752642287537016.jpg"
-    ],
-    "id": "1499774775",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/playstation-portal-1499774775",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "PlayStation portal",
-    "ts": 1778083301
   }
 ]
