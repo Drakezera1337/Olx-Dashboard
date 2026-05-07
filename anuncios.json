@@ -1,21 +1,40 @@
 [
   {
-    "id": "1486611147",
-    "titulo": "Xbox Series S - Dois controles",
+    "id": "1500231385",
+    "titulo": "Xbox 512 Series ",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "20:33",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "tempoOlx": "Na OLX desde setembro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-dois-controles-1486611147",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-512-series-1500231385",
+    "fotoUrl": "https://img.olx.com.br/images/26/267643289484000.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/267643289484000.jpg",
+      "https://img.olx.com.br/images/27/271616287118561.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778196824
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:33",
     "fotoUrl": "https://img.olx.com.br/images/72/721697742719097.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/721697742719097.jpg",
       "https://img.olx.com.br/images/73/731601741699518.jpg"
     ],
-    "defeito": false,
+    "id": "1486611147",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-dois-controles-1486611147",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Xbox Series S - Dois controles",
     "ts": 1778196816
   },
   {
@@ -9813,26 +9832,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "Jogos Ps4 e PS5",
     "ts": 1778117465
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:30",
-    "fotoUrl": "https://img.olx.com.br/images/32/324675158410455.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/324675158410455.jpg",
-      "https://img.olx.com.br/images/34/344645391149884.jpg",
-      "https://img.olx.com.br/images/36/365610519361138.jpg",
-      "https://img.olx.com.br/images/37/371668035522498.jpg"
-    ],
-    "id": "1491445958",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-nier-replicant-bladestorm-nightmare-1491445958",
-    "preco": 278,
-    "precoRaw": "R$ 278",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Jogos NieR Replicant + Bladestorm: Nightmare",
-    "ts": 1778117456
   }
 ]
