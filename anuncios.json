@@ -1,20 +1,40 @@
 [
   {
-    "id": "1498053896",
-    "titulo": "Xbox series S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1500173315",
+    "titulo": "Street Fighter 30 Anniversary Collection Nintendo Switch ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "18:13",
-    "tempoOlx": "Na OLX desde setembro de 2021",
+    "tempoOlx": "Na OLX desde março de 2023",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1498053896",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/street-fighter-30-anniversary-collection-nintendo-switch-1500173315",
+    "fotoUrl": "https://img.olx.com.br/images/44/447637041061779.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/447637041061779.jpg",
+      "https://img.olx.com.br/images/47/478605165071084.jpg",
+      "https://img.olx.com.br/images/49/492659040695835.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188389
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:13",
     "fotoUrl": "https://img.olx.com.br/images/69/694601155898832.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/694601155898832.jpg"
     ],
-    "defeito": false,
+    "id": "1498053896",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1498053896",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2021",
+    "titulo": "Xbox series S ",
     "ts": 1778188381
   },
   {
@@ -9822,25 +9842,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "ps4 slim 870 gb, sem controle, +red dead redemption 2, +gta5",
     "ts": 1778104420
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:49",
-    "fotoUrl": "https://img.olx.com.br/images/41/415617373216307.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/415617373216307.jpg",
-      "https://img.olx.com.br/images/44/441690013849928.jpg",
-      "https://img.olx.com.br/images/45/451647133222022.jpg"
-    ],
-    "id": "1480468024",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-360-original-fonte-cabos-e-carregador-da-manete-e-um-kit-de-jogos-1480468024",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Xbox 360 Original + Fonte, Cabos e carregador da manete e um kit de jogos",
-    "ts": 1778104149
   }
 ]
