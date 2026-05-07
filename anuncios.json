@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500223652",
-    "titulo": "Bloodstained - Ritual of the Night",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "categoria": "outros",
+    "id": "1500229980",
+    "titulo": "Horizon zero down",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "20:17",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "20:22",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodstained-ritual-of-the-night-1500223652",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/horizon-zero-down-1500229980",
+    "fotoUrl": "https://img.olx.com.br/images/42/426683164483618.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/426683164483618.jpg",
+      "https://img.olx.com.br/images/43/433631042669801.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778196161
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:17",
     "fotoUrl": "https://img.olx.com.br/images/63/636664404746548.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/636664404746548.jpg"
     ],
-    "defeito": false,
+    "id": "1500223652",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodstained-ritual-of-the-night-1500223652",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Bloodstained - Ritual of the Night",
     "ts": 1778195866
   },
   {
@@ -9809,24 +9828,5 @@
     "tempoOlx": "Na OLX desde novembro de 2016",
     "titulo": "Jogos PS4 ",
     "ts": 1778117094
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:24",
-    "fotoUrl": "https://img.olx.com.br/images/63/631573653071098.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/631573653071098.jpg",
-      "https://img.olx.com.br/images/65/655562773329081.jpg"
-    ],
-    "id": "1413631749",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-jogos-para-ps4-originais-1413631749",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2014",
-    "titulo": "Playstation 4 - JOGOS PARA PS4 ORIGINAIS ",
-    "ts": 1778117086
   }
 ]
