@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500190105",
-    "titulo": "Uncharted ",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "jogos",
+    "id": "1500189947",
+    "titulo": "PERSONA 3 DANCING IN MOONLIGHT PS4",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:16",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "tempoOlx": "Na OLX desde setembro de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-1500190105",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/persona-3-dancing-in-moonlight-ps4-1500189947",
+    "fotoUrl": "https://img.olx.com.br/images/78/780675884008824.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/780675884008824.jpg",
+      "https://img.olx.com.br/images/78/783651888584144.jpg",
+      "https://img.olx.com.br/images/78/787692409863083.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188603
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:16",
     "fotoUrl": "https://img.olx.com.br/images/76/760602048258180.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/760602048258180.jpg"
     ],
-    "defeito": false,
+    "id": "1500190105",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-1500190105",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "Uncharted ",
     "ts": 1778188596
   },
   {
@@ -9840,25 +9860,5 @@
     "tempoOlx": "Na OLX desde setembro de 2018",
     "titulo": "Lego Vingadores ( novo lacrado) ",
     "ts": 1778105920
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:18",
-    "fotoUrl": "https://img.olx.com.br/images/18/186620497432038.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/186620497432038.jpg",
-      "https://img.olx.com.br/images/22/227601730955315.jpg",
-      "https://img.olx.com.br/images/25/256665014980347.jpg"
-    ],
-    "id": "1422953687",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/sonic-mania-plus-estado-de-novo-1422953687",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2018",
-    "titulo": "Sonic Mania Plus (estado de novo )",
-    "ts": 1778105912
   }
 ]
