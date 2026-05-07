@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500236470",
-    "titulo": "Jogo",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1500215314",
+    "titulo": "? PS5 Edição Digital 825GB + Controle Original + Suporte RGB com Carregador",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "20:56",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "20:57",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-1500236470",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps5-edicao-digital-825gb-controle-original-suporte-rgb-com-carregador-1500215314",
+    "fotoUrl": "https://img.olx.com.br/images/52/523682880289282.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/523682880289282.jpg",
+      "https://img.olx.com.br/images/53/532612404499548.jpg",
+      "https://img.olx.com.br/images/55/550617762527427.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778198256
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:56",
     "fotoUrl": "https://img.olx.com.br/images/76/769641768376794.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/769641768376794.jpg",
       "https://img.olx.com.br/images/77/778606407331126.jpg"
     ],
-    "defeito": false,
+    "id": "1500236470",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-1500236470",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Jogo",
     "ts": 1778198182
   },
   {
@@ -9790,24 +9810,5 @@
     "tempoOlx": "Na OLX desde junho de 2022",
     "titulo": "Vídeo game",
     "ts": 1778120107
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:06",
-    "fotoUrl": "https://img.olx.com.br/images/17/177615168901620.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/177615168901620.jpg",
-      "https://img.olx.com.br/images/19/193601040473952.jpg"
-    ],
-    "id": "1499926719",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-500g-1499926719",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2017",
-    "titulo": "Ps4 slim 500g",
-    "ts": 1778119566
   }
 ]
