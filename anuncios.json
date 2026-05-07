@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499903515",
-    "titulo": "Xbox Series S e controles",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "xbox",
+    "id": "1499904977",
+    "titulo": "PS4 Slim ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:14",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "detectado": "21:19",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-e-controles-1499903515",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1499904977",
+    "fotoUrl": "https://img.olx.com.br/images/86/863609769520663.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/863609769520663.jpg",
+      "https://img.olx.com.br/images/97/976643169326107.jpg",
+      "https://img.olx.com.br/images/11/110683764349042.jpg",
+      "https://img.olx.com.br/images/17/173684765848524.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778113178
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:14",
     "fotoUrl": "https://img.olx.com.br/images/20/204655408301282.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/204655408301282.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/23/231690648594373.jpg",
       "https://img.olx.com.br/images/24/245607889618956.jpg"
     ],
-    "defeito": false,
+    "id": "1499903515",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-e-controles-1499903515",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Xbox Series S e controles",
     "ts": 1778112886
   },
   {
@@ -9865,26 +9886,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2019",
     "titulo": "jogo ps4 bloodborne - lacrado e novo",
     "ts": 1778074786
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:39",
-    "fotoUrl": "https://img.olx.com.br/images/11/116521350201059.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/116521350201059.jpg",
-      "https://img.olx.com.br/images/93/930525356478480.jpg",
-      "https://img.olx.com.br/images/96/961502117009642.jpg",
-      "https://img.olx.com.br/images/15/156598112353961.jpg"
-    ],
-    "id": "1458481379",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/novo-metal-gear-survive-ps4-midia-fisica-lacrada-1458481379",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "[NOVO] Metal Gear Survive PS4 Mídia Física Lacrada",
-    "ts": 1778074777
   }
 ]
