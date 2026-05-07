@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500209570",
-    "titulo": "Videogame",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "outros",
+    "id": "1500209985",
+    "titulo": "Mk 11 ps4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:52",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "tempoOlx": "Na OLX desde abril de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/videogame-1500209570",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/mk-11-ps4-1500209985",
+    "fotoUrl": "https://img.olx.com.br/images/69/691658524197375.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/691658524197375.jpg",
+      "https://img.olx.com.br/images/70/708683286851861.jpg",
+      "https://img.olx.com.br/images/72/726673521679397.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778190735
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:52",
     "fotoUrl": "https://img.olx.com.br/images/46/469660645969299.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/469660645969299.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/50/500675525772565.jpg",
       "https://img.olx.com.br/images/52/521616166952536.jpg"
     ],
-    "defeito": false,
+    "id": "1500209570",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/videogame-1500209570",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Videogame",
     "ts": 1778190727
   },
   {
@@ -9809,23 +9829,5 @@
     "tempoOlx": "Na OLX desde outubro de 2013",
     "titulo": "Final Fantasy XV PS4 Mídia Física ",
     "ts": 1778109585
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:19",
-    "fotoUrl": "https://img.olx.com.br/images/16/167668736208957.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/167668736208957.jpg"
-    ],
-    "id": "1477940723",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-4-1477940723",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Call Of Duty Black OPS 4",
-    "ts": 1778109572
   }
 ]
