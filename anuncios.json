@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500128432",
-    "titulo": "Iphone 13",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "iphone",
+    "id": "1500128330",
+    "titulo": "Leitor para PS5 Slim",
+    "preco": 468,
+    "precoRaw": "R$ 468",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "14:11",
-    "tempoOlx": "Na OLX desde agosto de 2018",
+    "detectado": "14:13",
+    "tempoOlx": "Na OLX desde maio de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1500128432",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/leitor-para-ps5-slim-1500128330",
+    "fotoUrl": "https://img.olx.com.br/images/94/940655524344665.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/940655524344665.jpg",
+      "https://img.olx.com.br/images/98/981606281367239.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778174016
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:11",
     "fotoUrl": "https://img.olx.com.br/images/70/706671287039537.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/706671287039537.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/73/736603528343955.jpg",
       "https://img.olx.com.br/images/74/747627647828608.jpg"
     ],
-    "defeito": false,
+    "id": "1500128432",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1500128432",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2018",
+    "titulo": "Iphone 13",
     "ts": 1778173902
   },
   {
@@ -9833,23 +9852,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Nintendo DSi - Videogame Portátil",
     "ts": 1778100107
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:41",
-    "fotoUrl": "https://img.olx.com.br/images/58/582606169801551.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/582606169801551.jpg"
-    ],
-    "id": "1499850080",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/ps4-slim-usado-1499850080",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2016",
-    "titulo": "ps4 slim usado",
-    "ts": 1778100094
   }
 ]
