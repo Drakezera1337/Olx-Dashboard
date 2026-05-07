@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500237721",
+    "id": "1500237474",
     "titulo": "Jogos ps4",
-    "preco": 230,
-    "precoRaw": "R$ 230",
+    "preco": 160,
+    "precoRaw": "R$ 160",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:56",
     "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1500237721",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1500237474",
+    "fotoUrl": "https://img.olx.com.br/images/36/360686168363807.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/360686168363807.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778198174
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:56",
     "fotoUrl": "https://img.olx.com.br/images/50/508698408582282.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/508698408582282.jpg"
     ],
-    "defeito": false,
+    "id": "1500237721",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1500237721",
+    "preco": 230,
+    "precoRaw": "R$ 230",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Jogos ps4",
     "ts": 1778198166
   },
   {
@@ -9795,23 +9813,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "PS4 500GB + Controle + 2 Jogos",
     "ts": 1778119456
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:04",
-    "fotoUrl": "https://img.olx.com.br/images/52/527694529229480.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/527694529229480.jpg"
-    ],
-    "id": "1499926017",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/troco-playstation-5-slim-1499926017",
-    "preco": 2850,
-    "precoRaw": "R$ 2.850",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "TROCO PLAYSTATION 5 Slim",
-    "ts": 1778119447
   }
 ]
