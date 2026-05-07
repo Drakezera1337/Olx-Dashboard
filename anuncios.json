@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499900205",
-    "titulo": "PES 2021",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "outros",
+    "id": "1499901817",
+    "titulo": "PS4 1tb",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:54",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "21:01",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-2021-1499900205",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-1tb-1499901817",
+    "fotoUrl": "https://img.olx.com.br/images/64/647662880469104.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/647662880469104.jpg",
+      "https://img.olx.com.br/images/67/672689646175097.jpg",
+      "https://img.olx.com.br/images/69/693684160553448.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778112100
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:54",
     "fotoUrl": "https://img.olx.com.br/images/29/296623887376687.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/296623887376687.jpg"
     ],
-    "defeito": false,
+    "id": "1499900205",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-2021-1499900205",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PES 2021",
     "ts": 1778111676
   },
   {
@@ -9873,24 +9893,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "[NOVO] Outcast Second Contact PS4 Mídia Física Lacrada",
     "ts": 1778074695
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:38",
-    "fotoUrl": "https://img.olx.com.br/images/56/567669527115520.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/567669527115520.jpg",
-      "https://img.olx.com.br/images/56/569616048935138.jpg"
-    ],
-    "id": "1499728569",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ps4-pro-1tb-3-jogos-1-controle-original-1499728569",
-    "preco": 1650,
-    "precoRaw": "R$ 1.650",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Ps4 Pro 1TB 3 JOGOS 1 CONTROLE ORIGINAL",
-    "ts": 1778074685
   }
 ]
