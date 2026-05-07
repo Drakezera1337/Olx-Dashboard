@@ -1,20 +1,42 @@
 [
   {
-    "id": "1499904110",
-    "titulo": "Xbox series s leia descrição ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1499903515",
+    "titulo": "Xbox Series S e controles",
+    "preco": 200,
+    "precoRaw": "R$ 200",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "21:14",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "tempoOlx": "Na OLX desde abril de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/xbox-series-s-leia-descricao-1499904110",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-e-controles-1499903515",
+    "fotoUrl": "https://img.olx.com.br/images/20/204655408301282.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/204655408301282.jpg",
+      "https://img.olx.com.br/images/21/213617161477614.jpg",
+      "https://img.olx.com.br/images/22/224631409731049.jpg",
+      "https://img.olx.com.br/images/23/231690648594373.jpg",
+      "https://img.olx.com.br/images/24/245607889618956.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778112886
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:14",
     "fotoUrl": "https://img.olx.com.br/images/92/927652400915548.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/927652400915548.jpg"
     ],
-    "defeito": false,
+    "id": "1499904110",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/xbox-series-s-leia-descricao-1499904110",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "Xbox series s leia descrição ",
     "ts": 1778112875
   },
   {
@@ -9864,27 +9886,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "[NOVO] Metal Gear Survive PS4 Mídia Física Lacrada",
     "ts": 1778074777
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:39",
-    "fotoUrl": "https://img.olx.com.br/images/49/490512358579942.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/490512358579942.jpg",
-      "https://img.olx.com.br/images/43/431544234986035.jpg",
-      "https://img.olx.com.br/images/46/465556355235643.jpg",
-      "https://img.olx.com.br/images/80/800543237580790.jpg",
-      "https://img.olx.com.br/images/41/417511355812540.jpg"
-    ],
-    "id": "1458482830",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/novo-pga-tour-2k21-ps4-midia-fisica-lacrada-1458482830",
-    "preco": 109,
-    "precoRaw": "R$ 109",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "[NOVO] PGA Tour 2K21 PS4 Mídia Física Lacrada",
-    "ts": 1778074767
   }
 ]
