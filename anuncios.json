@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500149216",
-    "titulo": "PS4 FAT semi novo ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1500133457",
+    "titulo": "PS4 Fat 500gb completo com 2 controles pretos",
+    "preco": 999,
+    "precoRaw": "R$ 999",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:11",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "detectado": "18:12",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-fat-semi-novo-1500149216",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-fat-500gb-completo-com-2-controles-pretos-1500133457",
+    "fotoUrl": "https://img.olx.com.br/images/95/956613529535723.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/956613529535723.jpg",
+      "https://img.olx.com.br/images/97/970602521502524.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188321
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:11",
     "fotoUrl": "https://img.olx.com.br/images/20/204623767166636.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/204623767166636.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/27/271619163946427.jpg",
       "https://img.olx.com.br/images/31/317693160051312.jpg"
     ],
-    "defeito": false,
+    "id": "1500149216",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-fat-semi-novo-1500149216",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "PS4 FAT semi novo ",
     "ts": 1778188313
   },
   {
@@ -9826,26 +9845,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "UFC PS4",
     "ts": 1778104074
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:47",
-    "fotoUrl": "https://img.olx.com.br/images/41/413629280913533.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/413629280913533.jpg",
-      "https://img.olx.com.br/images/43/435686885037292.jpg",
-      "https://img.olx.com.br/images/46/468696409497060.jpg",
-      "https://img.olx.com.br/images/48/481662404457607.jpg"
-    ],
-    "id": "1499869075",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1499869075",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "Xbox Series S",
-    "ts": 1778104066
   }
 ]
