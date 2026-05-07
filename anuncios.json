@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500205614",
-    "titulo": "Ps3 com defeito ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps3",
+    "id": "1499190703",
+    "titulo": "Xbox series S dois controles ",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "18:33",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "detectado": "18:34",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-com-defeito-1500205614",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/xbox-series-s-dois-controles-1499190703",
+    "fotoUrl": "https://img.olx.com.br/images/21/211611402185417.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/211611402185417.jpg",
+      "https://img.olx.com.br/images/25/253612280118243.jpg",
+      "https://img.olx.com.br/images/29/291667280869377.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778189646
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/71/714684408367343.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/714684408367343.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/76/769612640802838.jpg",
       "https://img.olx.com.br/images/77/774616767258359.jpg"
     ],
-    "defeito": false,
+    "id": "1500205614",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-com-defeito-1500205614",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "titulo": "Ps3 com defeito ",
     "ts": 1778189587
   },
   {
@@ -9817,27 +9837,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Jogo Batman Arkham knight de ps4",
     "ts": 1778108870
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:07",
-    "fotoUrl": "https://img.olx.com.br/images/24/240681888992077.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/240681888992077.jpg",
-      "https://img.olx.com.br/images/26/263640762118706.jpg",
-      "https://img.olx.com.br/images/27/277690406070305.jpg",
-      "https://img.olx.com.br/images/28/285680167823344.jpg",
-      "https://img.olx.com.br/images/30/304690400849899.jpg"
-    ],
-    "id": "1499887684",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/uncharted-collection-e-uncharted-4-ps4-midia-fisica-1499887684",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Uncharted Collection e Uncharted 4 PS4 Mídia Física ",
-    "ts": 1778108857
   }
 ]
