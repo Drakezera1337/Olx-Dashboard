@@ -1,21 +1,39 @@
 [
   {
-    "id": "1500128330",
-    "titulo": "Leitor para PS5 Slim",
-    "preco": 468,
-    "precoRaw": "R$ 468",
-    "categoria": "ps5",
+    "id": "1500129546",
+    "titulo": "PS4 ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:13",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "detectado": "14:16",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/leitor-para-ps5-slim-1500128330",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-1500129546",
+    "fotoUrl": "https://img.olx.com.br/images/58/584623521519544.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/584623521519544.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778174167
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:13",
     "fotoUrl": "https://img.olx.com.br/images/94/940655524344665.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/940655524344665.jpg",
       "https://img.olx.com.br/images/98/981606281367239.jpg"
     ],
-    "defeito": false,
+    "id": "1500128330",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/leitor-para-ps5-slim-1500128330",
+    "preco": 468,
+    "precoRaw": "R$ 468",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "Leitor para PS5 Slim",
     "ts": 1778174016
   },
   {
@@ -9829,28 +9847,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "JOGOS PARA PS4, Jogos diversos com valores na descrição.",
     "ts": 1778100114
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:41",
-    "fotoUrl": "https://img.olx.com.br/images/32/325693760212566.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/325693760212566.jpg",
-      "https://img.olx.com.br/images/35/350638284135517.jpg",
-      "https://img.olx.com.br/images/37/374640640690308.jpg",
-      "https://img.olx.com.br/images/39/397634168107261.jpg",
-      "https://img.olx.com.br/images/41/410648161294637.jpg",
-      "https://img.olx.com.br/images/42/423615646991761.jpg"
-    ],
-    "id": "1499850302",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-dsi-videogame-portatil-1499850302",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Nintendo DSi - Videogame Portátil",
-    "ts": 1778100107
   }
 ]
