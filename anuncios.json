@@ -1,21 +1,42 @@
 [
   {
-    "id": "1500229980",
-    "titulo": "Horizon zero down",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1500229880",
+    "titulo": "Dragonball Z Budokai Tenkaichi 3",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:22",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/horizon-zero-down-1500229980",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/dragonball-z-budokai-tenkaichi-3-1500229880",
+    "fotoUrl": "https://img.olx.com.br/images/37/373604760994925.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/373604760994925.jpg",
+      "https://img.olx.com.br/images/39/393679523397495.jpg",
+      "https://img.olx.com.br/images/41/415605160401937.jpg",
+      "https://img.olx.com.br/images/43/435670761941108.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778196170
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:22",
     "fotoUrl": "https://img.olx.com.br/images/42/426683164483618.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/426683164483618.jpg",
       "https://img.olx.com.br/images/43/433631042669801.jpg"
     ],
-    "defeito": false,
+    "id": "1500229980",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/horizon-zero-down-1500229980",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "Horizon zero down",
     "ts": 1778196161
   },
   {
@@ -9810,23 +9831,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Ps4 LEGO Marvel Super Heroes - jogo para PS4",
     "ts": 1778117101
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:24",
-    "fotoUrl": "https://img.olx.com.br/images/41/416638883085557.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/416638883085557.jpg"
-    ],
-    "id": "1499918565",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499918565",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2016",
-    "titulo": "Jogos PS4 ",
-    "ts": 1778117094
   }
 ]
