@@ -1,21 +1,42 @@
 [
   {
-    "id": "1500123410",
-    "titulo": "Ps4",
-    "preco": 700,
-    "precoRaw": "R$ 700",
+    "id": "1500123080",
+    "titulo": "PS4 Fat 500 GB ",
+    "preco": 950,
+    "precoRaw": "R$ 950",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:52",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1500123410",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-fat-500-gb-1500123080",
+    "fotoUrl": "https://img.olx.com.br/images/38/388646046027685.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/388646046027685.jpg",
+      "https://img.olx.com.br/images/40/408691281488763.jpg",
+      "https://img.olx.com.br/images/41/418601768373181.jpg",
+      "https://img.olx.com.br/images/43/437696401856795.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778172766
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:52",
     "fotoUrl": "https://img.olx.com.br/images/92/923604648048796.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/923604648048796.jpg",
       "https://img.olx.com.br/images/93/930608405550641.jpg"
     ],
-    "defeito": false,
+    "id": "1500123410",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1500123410",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Ps4",
     "ts": 1778172757
   },
   {
@@ -9832,24 +9853,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Playstation 4 slim 500GB",
     "ts": 1778099918
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:38",
-    "fotoUrl": "https://img.olx.com.br/images/17/171582293059318.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/171582293059318.jpg",
-      "https://img.olx.com.br/images/19/193598299834203.jpg"
-    ],
-    "id": "1409783483",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-15-ps4-1409783483",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "FIFA 15 PS4",
-    "ts": 1778099912
   }
 ]
