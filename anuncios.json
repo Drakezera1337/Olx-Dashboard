@@ -1,22 +1,42 @@
 [
   {
-    "id": "1500161138",
-    "titulo": "Kingdom Hearts 3",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "categoria": "outros",
+    "id": "1463626542",
+    "titulo": "Minecraft (Mídia Física)",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "18:20",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/kingdom-hearts-3-1500161138",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/minecraft-midia-fisica-1463626542",
+    "fotoUrl": "https://img.olx.com.br/images/42/421545596426987.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/421545596426987.jpg",
+      "https://img.olx.com.br/images/43/438579357741853.jpg",
+      "https://img.olx.com.br/images/44/442506717164830.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188818
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:20",
     "fotoUrl": "https://img.olx.com.br/images/67/676683049301650.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/676683049301650.jpg",
       "https://img.olx.com.br/images/69/692664040291752.jpg",
       "https://img.olx.com.br/images/70/705607524115880.jpg"
     ],
-    "defeito": false,
+    "id": "1500161138",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/kingdom-hearts-3-1500161138",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Kingdom Hearts 3",
     "ts": 1778188811
   },
   {
@@ -9824,25 +9844,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Bloodborne p/ PS4",
     "ts": 1778107709
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:48",
-    "fotoUrl": "https://img.olx.com.br/images/12/129648646663450.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/129648646663450.jpg",
-      "https://img.olx.com.br/images/22/222690884633692.jpg",
-      "https://img.olx.com.br/images/25/258601281271042.jpg"
-    ],
-    "id": "1499885004",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/death-stranding-p-ps4-1499885004",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Death Stranding p/ PS4",
-    "ts": 1778107700
   }
 ]
