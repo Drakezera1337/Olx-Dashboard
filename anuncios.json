@@ -1,22 +1,42 @@
 [
   {
-    "id": "1500111807",
-    "titulo": "Playstation 3 com Defeito - Ele Liga e Desliga após 2/3 Minutos",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "categoria": "ps3",
+    "id": "1500110777",
+    "titulo": "Play Station 3 usado",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:10",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde setembro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-com-defeito-ele-liga-e-desliga-apos-2-3-minutos-1500111807",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-station-3-usado-1500110777",
+    "fotoUrl": "https://img.olx.com.br/images/89/894682642329362.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/894682642329362.jpg",
+      "https://img.olx.com.br/images/90/907647409678277.jpg",
+      "https://img.olx.com.br/images/92/921636046486931.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778170230
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:10",
     "fotoUrl": "https://img.olx.com.br/images/30/300626407920988.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/300626407920988.jpg",
       "https://img.olx.com.br/images/31/316613406031903.jpg",
       "https://img.olx.com.br/images/33/331650406692447.jpg"
     ],
-    "defeito": false,
+    "id": "1500111807",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-com-defeito-ele-liga-e-desliga-apos-2-3-minutos-1500111807",
+    "preco": 220,
+    "precoRaw": "R$ 220",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Playstation 3 com Defeito - Ele Liga e Desliga após 2/3 Minutos",
     "ts": 1778170218
   },
   {
@@ -9821,25 +9841,5 @@
     "tempoOlx": "Na OLX desde maio de 2016",
     "titulo": "ASTRO BOT PS5",
     "ts": 1778099637
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:33",
-    "fotoUrl": "https://img.olx.com.br/images/88/881609286634401.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/881609286634401.jpg",
-      "https://img.olx.com.br/images/90/900632046251219.jpg",
-      "https://img.olx.com.br/images/92/927646648269958.jpg"
-    ],
-    "id": "1498505055",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-switch-oled-1498505055",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Nintendo switch OLED ",
-    "ts": 1778099630
   }
 ]
