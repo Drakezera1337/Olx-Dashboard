@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500088663",
-    "titulo": "Vendo Playstation 5",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
+    "id": "1500088678",
+    "titulo": "Vendo controle PS5 ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "11:54",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-playstation-5-1500088663",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/vendo-controle-ps5-1500088678",
+    "fotoUrl": "https://img.olx.com.br/images/50/503643049522806.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/503643049522806.jpg",
+      "https://img.olx.com.br/images/51/512600406456012.jpg",
+      "https://img.olx.com.br/images/52/528649880908171.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778165681
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:54",
     "fotoUrl": "https://img.olx.com.br/images/10/107673043123998.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/107673043123998.jpg"
     ],
-    "defeito": false,
+    "id": "1500088663",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-playstation-5-1500088663",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "Vendo Playstation 5",
     "ts": 1778165640
   },
   {
@@ -9841,27 +9861,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Xbox Win ",
     "ts": 1778087917
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:18",
-    "fotoUrl": "https://img.olx.com.br/images/78/787635649474489.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/787635649474489.jpg",
-      "https://img.olx.com.br/images/79/795686049801057.jpg",
-      "https://img.olx.com.br/images/81/816694287521836.jpg",
-      "https://img.olx.com.br/images/83/833660522696579.jpg",
-      "https://img.olx.com.br/images/86/866651764659254.jpg"
-    ],
-    "id": "1499793902",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/playstation-4-slim-500gb-1499793902",
-    "preco": 1599,
-    "precoRaw": "R$ 1.599",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2022",
-    "titulo": "Playstation 4 Slim 500GB",
-    "ts": 1778087896
   }
 ]
