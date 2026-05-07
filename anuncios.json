@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500036721",
-    "titulo": "Vídeo game",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1483068362",
+    "titulo": "Gta V.",
+    "preco": 135,
+    "precoRaw": "R$ 135",
     "categoria": "outros",
     "publicado": "",
     "detectado": "11:03",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/video-game-1500036721",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/gta-v-1483068362",
+    "fotoUrl": "https://img.olx.com.br/images/68/688669742752286.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/688669742752286.jpg",
+      "https://img.olx.com.br/images/70/707640742113287.jpg",
+      "https://img.olx.com.br/images/71/712624260509412.jpg",
+      "https://img.olx.com.br/images/73/736662869996186.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778162624
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:03",
     "fotoUrl": "https://img.olx.com.br/images/54/547690527728826.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/547690527728826.jpg",
       "https://img.olx.com.br/images/54/540686401940790.jpg",
       "https://img.olx.com.br/images/54/548614407639307.jpg"
     ],
-    "defeito": false,
+    "id": "1500036721",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/video-game-1500036721",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "Vídeo game",
     "ts": 1778162612
   },
   {
@@ -9865,26 +9886,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "iPhone 13 vermelho",
     "ts": 1778083420
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:02",
-    "fotoUrl": "https://img.olx.com.br/images/46/460629762123728.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/460629762123728.jpg",
-      "https://img.olx.com.br/images/48/486618289142973.jpg",
-      "https://img.olx.com.br/images/49/491620767396294.jpg",
-      "https://img.olx.com.br/images/50/504641168154640.jpg"
-    ],
-    "id": "1499775151",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1tb-4-jogos-1-controle-1499775151",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Playstation 4 1TB + 4 Jogos + 1 controle",
-    "ts": 1778083328
   }
 ]
