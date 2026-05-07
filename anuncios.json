@@ -1,15 +1,32 @@
 [
   {
-    "id": "1499864303",
-    "titulo": "Xbox Series S 512GB",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1496913464",
+    "titulo": "Xbox Series S 512GB + Biblioteca de Jogos",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "10:56",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "10:57",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-series-s-512gb-1499864303",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/xbox-series-s-512gb-biblioteca-de-jogos-1496913464",
+    "fotoUrl": "https://img.olx.com.br/images/90/906671634696996.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/906671634696996.jpg",
+      "https://img.olx.com.br/images/91/914661034963005.jpg",
+      "https://img.olx.com.br/images/92/926620511944943.jpg",
+      "https://img.olx.com.br/images/93/931674515879812.jpg",
+      "https://img.olx.com.br/images/94/949623392584777.jpg",
+      "https://img.olx.com.br/images/96/960649395630346.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778162223
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:56",
     "fotoUrl": "https://img.olx.com.br/images/85/852649529353324.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/852649529353324.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/89/894659649731311.jpg",
       "https://img.olx.com.br/images/91/915613768717596.jpg"
     ],
-    "defeito": false,
+    "id": "1499864303",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-series-s-512gb-1499864303",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Xbox Series S 512GB",
     "ts": 1778162209
   },
   {
@@ -9882,25 +9905,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "The Last of Us Parte II PlayStation 4",
     "ts": 1778081238
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:27",
-    "fotoUrl": "https://img.olx.com.br/images/79/799626406385610.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/799626406385610.jpg",
-      "https://img.olx.com.br/images/86/865669528414436.jpg",
-      "https://img.olx.com.br/images/82/825618280024370.jpg"
-    ],
-    "id": "1499766023",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-ps4-1499766023",
-    "preco": 39,
-    "precoRaw": "R$ 39",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "FIFA 20 Ps4",
-    "ts": 1778081228
   }
 ]
