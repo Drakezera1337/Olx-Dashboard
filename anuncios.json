@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499928132",
-    "titulo": "Vídeo game",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1499927495",
+    "titulo": "PlayStation 4 + 16 jogos físicos + 2 controles ",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "23:15",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/video-game-1499928132",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/playstation-4-16-jogos-fisicos-2-controles-1499927495",
+    "fotoUrl": "https://img.olx.com.br/images/33/331668040438916.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/331668040438916.jpg",
+      "https://img.olx.com.br/images/34/343693286405931.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778120114
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:15",
     "fotoUrl": "https://img.olx.com.br/images/89/898681764336698.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/898681764336698.jpg",
       "https://img.olx.com.br/images/89/897606648090960.jpg"
     ],
-    "defeito": false,
+    "id": "1499928132",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/video-game-1499928132",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "Vídeo game",
     "ts": 1778120107
   },
   {
@@ -9866,23 +9885,5 @@
     "tempoOlx": "Na OLX desde março de 2013",
     "titulo": "Headset Gamer Husky Gaming Polar",
     "ts": 1778077237
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:18",
-    "fotoUrl": "https://img.olx.com.br/images/43/431589818697433.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/431589818697433.jpg"
-    ],
-    "id": "1448397672",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-chroma-indigo-ps5-lacrado-1448397672",
-    "preco": 420,
-    "precoRaw": "R$ 420",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2014",
-    "titulo": "Controle chroma indigo ps5 lacrado",
-    "ts": 1778077116
   }
 ]
