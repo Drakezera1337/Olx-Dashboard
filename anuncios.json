@@ -1,20 +1,38 @@
 [
   {
-    "id": "1499952292",
-    "titulo": "Jogos PS4",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "ps4",
+    "id": "1499952784",
+    "titulo": "Vídeo game Xbox one x",
+    "preco": 1550,
+    "precoRaw": "R$ 1.550",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "02:02",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "detectado": "02:13",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499952292",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/video-game-xbox-one-x-1499952784",
+    "fotoUrl": "https://img.olx.com.br/images/53/538638882711201.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/538638882711201.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778130788
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "02:02",
     "fotoUrl": "https://img.olx.com.br/images/70/704677762884373.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/704677762884373.jpg"
     ],
-    "defeito": false,
+    "id": "1499952292",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499952292",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "Jogos PS4",
     "ts": 1778130156
   },
   {
@@ -9868,24 +9886,5 @@
     "tempoOlx": "Na OLX desde setembro de 2017",
     "titulo": "PS4 Slim 1000GB + Controle Original + 2 Jogos (Uncharted e FIFA)",
     "ts": 1778079782
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:02",
-    "fotoUrl": "https://img.olx.com.br/images/79/790681606660442.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/790681606660442.jpg",
-      "https://img.olx.com.br/images/81/818656124600245.jpg"
-    ],
-    "id": "1473164336",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-fifa-20-ps4-1473164336",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2023",
-    "titulo": "Jogo FIFA 20 PS4",
-    "ts": 1778079770
   }
 ]
