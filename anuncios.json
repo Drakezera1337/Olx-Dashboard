@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499951670",
-    "titulo": "Jogos Ps4!",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1499952292",
+    "titulo": "Jogos PS4",
+    "preco": 65,
+    "precoRaw": "R$ 65",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:51",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "detectado": "02:02",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogos-ps4-1499951670",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1499952292",
+    "fotoUrl": "https://img.olx.com.br/images/70/704677762884373.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/704677762884373.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778130156
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:51",
     "fotoUrl": "https://img.olx.com.br/images/53/530604522127263.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/530604522127263.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/56/562604525449464.jpg",
       "https://img.olx.com.br/images/57/574613048660768.jpg"
     ],
-    "defeito": false,
+    "id": "1499951670",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogos-ps4-1499951670",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "Jogos Ps4!",
     "ts": 1778129469
   },
   {
@@ -9869,28 +9887,5 @@
     "tempoOlx": "Na OLX desde junho de 2023",
     "titulo": "Jogo FIFA 20 PS4",
     "ts": 1778079770
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:02",
-    "fotoUrl": "https://img.olx.com.br/images/70/709504553680238.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/709504553680238.jpg",
-      "https://img.olx.com.br/images/72/728592552002622.jpg",
-      "https://img.olx.com.br/images/74/745559795310884.jpg",
-      "https://img.olx.com.br/images/76/760558198729250.jpg",
-      "https://img.olx.com.br/images/78/787503912602621.jpg",
-      "https://img.olx.com.br/images/80/805564432151001.jpg"
-    ],
-    "id": "1429300211",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/dying-light-2-stay-human-ps4-ps5-novo-1429300211",
-    "preco": 175,
-    "precoRaw": "R$ 175",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2018",
-    "titulo": "Dying Light 2 Stay Human - PS4 - PS5 Novo",
-    "ts": 1778079759
   }
 ]
