@@ -1,22 +1,42 @@
 [
   {
-    "id": "1463626542",
-    "titulo": "Minecraft (Mídia Física)",
-    "preco": 200,
-    "precoRaw": "R$ 200",
+    "id": "1463627308",
+    "titulo": "FIFA 20 (Mídia Física)",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "18:20",
     "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/minecraft-midia-fisica-1463626542",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-20-midia-fisica-1463627308",
+    "fotoUrl": "https://img.olx.com.br/images/43/433597351690601.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/433597351690601.jpg",
+      "https://img.olx.com.br/images/44/440508118740897.jpg",
+      "https://img.olx.com.br/images/46/462551358006419.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188825
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:20",
     "fotoUrl": "https://img.olx.com.br/images/42/421545596426987.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/421545596426987.jpg",
       "https://img.olx.com.br/images/43/438579357741853.jpg",
       "https://img.olx.com.br/images/44/442506717164830.jpg"
     ],
-    "defeito": false,
+    "id": "1463626542",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/minecraft-midia-fisica-1463626542",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Minecraft (Mídia Física)",
     "ts": 1778188818
   },
   {
@@ -9824,25 +9844,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "God of War Ragnarok p/ PS4 - LACRADO",
     "ts": 1778107718
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:48",
-    "fotoUrl": "https://img.olx.com.br/images/62/624650765652310.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/624650765652310.jpg",
-      "https://img.olx.com.br/images/65/659635766771913.jpg",
-      "https://img.olx.com.br/images/74/748647280386629.jpg"
-    ],
-    "id": "1499884572",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodborne-p-ps4-1499884572",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Bloodborne p/ PS4",
-    "ts": 1778107709
   }
 ]
