@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500153694",
-    "titulo": "Ps4 Slim 1Tb ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1500190403",
+    "titulo": "XBox Series S 500 GB",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "18:12",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/ps4-slim-1tb-1500153694",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-500-gb-1500190403",
+    "fotoUrl": "https://img.olx.com.br/images/91/915692407202898.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/915692407202898.jpg",
+      "https://img.olx.com.br/images/36/365661526591097.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188357
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:12",
     "fotoUrl": "https://img.olx.com.br/images/17/172697529254224.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/172697529254224.jpg"
     ],
-    "defeito": false,
+    "id": "1500153694",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/ps4-slim-1tb-1500153694",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "Ps4 Slim 1Tb ",
     "ts": 1778188345
   },
   {
@@ -9821,26 +9840,5 @@
     "tempoOlx": "Na OLX desde junho de 2019",
     "titulo": "PS4 FAT 500G + 17 JOGOS - VENDA ",
     "ts": 1778104111
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:48",
-    "fotoUrl": "https://img.olx.com.br/images/83/836679408012454.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/836679408012454.jpg",
-      "https://img.olx.com.br/images/85/854611881449845.jpg",
-      "https://img.olx.com.br/images/86/867648526905399.jpg",
-      "https://img.olx.com.br/images/87/872688640161131.jpg"
-    ],
-    "id": "1473514667",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/assassin-s-creed-valhalla-ps4-versao-completa-atualizacao-ps5-1473514667",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2022",
-    "titulo": "Assassin?s Creed Valhalla - PS4 (Versão Completa + Atualização PS5)",
-    "ts": 1778104102
   }
 ]
