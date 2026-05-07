@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500234015",
-    "titulo": "?*VENDOO*?",
-    "preco": 1950,
-    "precoRaw": "R$ 1.950",
-    "categoria": "outros",
+    "id": "1500233466",
+    "titulo": "JOGOS PARA PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:42",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/vendoo-1500234015",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-para-ps4-1500233466",
+    "fotoUrl": "https://img.olx.com.br/images/93/932675400826545.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/932675400826545.jpg",
+      "https://img.olx.com.br/images/94/948662523931056.jpg",
+      "https://img.olx.com.br/images/97/979652769482975.jpg",
+      "https://img.olx.com.br/images/99/995651647231518.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778197336
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:42",
     "fotoUrl": "https://img.olx.com.br/images/44/440605285029704.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/440605285029704.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/50/504658162569674.jpg",
       "https://img.olx.com.br/images/52/527634401538778.jpg"
     ],
-    "defeito": false,
+    "id": "1500234015",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/vendoo-1500234015",
+    "preco": 1950,
+    "precoRaw": "R$ 1.950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "?*VENDOO*?",
     "ts": 1778197327
   },
   {
@@ -9805,27 +9826,5 @@
     "tempoOlx": "Na OLX desde novembro de 2017",
     "titulo": "PlayStation 4 + 2 controles",
     "ts": 1778118069
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:36",
-    "fotoUrl": "https://img.olx.com.br/images/41/414623161384092.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/414623161384092.jpg",
-      "https://img.olx.com.br/images/42/424631766085172.jpg",
-      "https://img.olx.com.br/images/43/431601640676154.jpg",
-      "https://img.olx.com.br/images/44/440656402232471.jpg",
-      "https://img.olx.com.br/images/45/457690888652439.jpg"
-    ],
-    "id": "1499920296",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/playstation-4-slim-1tb-1499920296",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "PlayStation 4 Slim 1TB",
-    "ts": 1778117786
   }
 ]
