@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500218571",
-    "titulo": "Jogos ps4",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "categoria": "ps4",
+    "id": "1500218260",
+    "titulo": "Playstation VR 2",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:28",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "detectado": "19:29",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/jogos-de-video-game/jogos-ps4-1500218571",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/consoles-de-video-game/playstation-vr-2-1500218260",
+    "fotoUrl": "https://img.olx.com.br/images/92/924605645111419.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/924605645111419.jpg",
+      "https://img.olx.com.br/images/94/944637647970006.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778192947
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:28",
     "fotoUrl": "https://img.olx.com.br/images/83/837688403780988.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/837688403780988.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/91/913691647923841.jpg",
       "https://img.olx.com.br/images/93/939664163701473.jpg"
     ],
-    "defeito": false,
+    "id": "1500218571",
+    "link": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/jogos-de-video-game/jogos-ps4-1500218571",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Jogos ps4",
     "ts": 1778192898
   },
   {
@@ -9811,23 +9830,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "Vedeo game console retro R43 ",
     "ts": 1778112818
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:08",
-    "fotoUrl": "https://img.olx.com.br/images/79/793626408767754.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/793626408767754.jpg"
-    ],
-    "id": "1499902195",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/3-jogos-para-colecionadores-ps4-1499902195",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "3 jogos para colecionadores ps4",
-    "ts": 1778112482
   }
 ]
