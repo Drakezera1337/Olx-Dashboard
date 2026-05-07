@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499943329",
-    "titulo": "Jogos PS3 e PS4",
-    "preco": 300,
-    "precoRaw": "R$ 300",
+    "id": "1499943708",
+    "titulo": "Ps4 ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:13",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "detectado": "00:19",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-ps3-e-ps4-1499943329",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-1499943708",
+    "fotoUrl": "https://img.olx.com.br/images/38/385642529821049.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/385642529821049.jpg",
+      "https://img.olx.com.br/images/38/387657165377643.jpg",
+      "https://img.olx.com.br/images/38/385650285183752.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778123948
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:13",
     "fotoUrl": "https://img.olx.com.br/images/35/357664641909134.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/357664641909134.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/35/357652287559484.jpg",
       "https://img.olx.com.br/images/44/441639769047305.jpg"
     ],
-    "defeito": false,
+    "id": "1499943329",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-ps3-e-ps4-1499943329",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "Jogos PS3 e PS4",
     "ts": 1778123619
   },
   {
@@ -9867,23 +9887,5 @@
     "tempoOlx": "Na OLX desde julho de 2018",
     "titulo": "Controle ps5 spider man 2",
     "ts": 1778078258
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:34",
-    "fotoUrl": "https://img.olx.com.br/images/41/418668886934872.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/418668886934872.jpg"
-    ],
-    "id": "1499748235",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps3-1499748235",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "PS3 ",
-    "ts": 1778078045
   }
 ]
