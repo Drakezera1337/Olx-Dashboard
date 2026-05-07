@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500230736",
-    "titulo": "Ps4 Slim - 500GB",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1500231208",
+    "titulo": "PlayStation 3",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "20:30",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/ps4-slim-500gb-1500230736",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-3-1500231208",
+    "fotoUrl": "https://img.olx.com.br/images/90/904639645081055.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/904639645081055.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778196637
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:30",
     "fotoUrl": "https://img.olx.com.br/images/69/696662402314358.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/696662402314358.jpg",
       "https://img.olx.com.br/images/71/716651406810597.jpg",
       "https://img.olx.com.br/images/73/732678047373817.jpg"
     ],
-    "defeito": false,
+    "id": "1500230736",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/ps4-slim-500gb-1500230736",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "Ps4 Slim - 500GB",
     "ts": 1778196604
   },
   {
@@ -9815,23 +9833,5 @@
     "tempoOlx": "Na OLX desde abril de 2025",
     "titulo": "FIFA 15 - PS4",
     "ts": 1778117447
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:30",
-    "fotoUrl": "https://img.olx.com.br/images/84/845572657222321.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/845572657222321.jpg"
-    ],
-    "id": "1415990577",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-remasterizado-ps4-playstation-hits-1415990577",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "The Last of Us Remasterizado - PS4 - Playstation Hits",
-    "ts": 1778117437
   }
 ]
