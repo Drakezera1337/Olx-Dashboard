@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500000209",
-    "titulo": "Ps5 portal ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1500050860",
+    "titulo": "Ps5 slim sem problemas, vom tudo menos a caixa ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "10:54",
-    "tempoOlx": "Na OLX desde agosto de 2013",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/ps5-portal-1500000209",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-slim-sem-problemas-vom-tudo-menos-a-caixa-1500050860",
+    "fotoUrl": "https://img.olx.com.br/images/66/666674288337872.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/666674288337872.jpg",
+      "https://img.olx.com.br/images/68/688698768470509.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778162085
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:54",
     "fotoUrl": "https://img.olx.com.br/images/51/517661281277988.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/517661281277988.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/59/592664640207221.jpg",
       "https://img.olx.com.br/images/61/616682161538547.jpg"
     ],
-    "defeito": false,
+    "id": "1500000209",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/ps5-portal-1500000209",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2013",
+    "titulo": "Ps5 portal ",
     "ts": 1778162078
   },
   {
@@ -9873,23 +9892,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Ps5 ",
     "ts": 1778080295
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:09",
-    "fotoUrl": "https://img.olx.com.br/images/48/488653522838968.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/488653522838968.jpg"
-    ],
-    "id": "1499757635",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-2-ps4-midia-fisica-1499757635",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "Resident Evil 2 (PS4) - Mídia Física",
-    "ts": 1778080148
   }
 ]
