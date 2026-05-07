@@ -1,20 +1,43 @@
 [
   {
-    "id": "1500219147",
-    "titulo": "Xbox",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "xbox",
+    "id": "1500218571",
+    "titulo": "Jogos ps4",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:28",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/xbox-1500219147",
+    "link": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/jogos-de-video-game/jogos-ps4-1500218571",
+    "fotoUrl": "https://img.olx.com.br/images/83/837688403780988.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/837688403780988.jpg",
+      "https://img.olx.com.br/images/85/850667524255740.jpg",
+      "https://img.olx.com.br/images/87/875668283907978.jpg",
+      "https://img.olx.com.br/images/89/894615402200532.jpg",
+      "https://img.olx.com.br/images/91/913691647923841.jpg",
+      "https://img.olx.com.br/images/93/939664163701473.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778192898
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:28",
     "fotoUrl": "https://img.olx.com.br/images/66/669668763400304.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/669668763400304.jpg"
     ],
-    "defeito": false,
+    "id": "1500219147",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/xbox-1500219147",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Xbox",
     "ts": 1778192887
   },
   {
@@ -9806,23 +9829,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "3 jogos para colecionadores ps4",
     "ts": 1778112482
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:07",
-    "fotoUrl": "https://img.olx.com.br/images/29/298675648471997.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/298675648471997.jpg"
-    ],
-    "id": "1499902210",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-valor-referente-aos-2-1499902210",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Jogos ps4 valor referente aos 2 ",
-    "ts": 1778112474
   }
 ]
