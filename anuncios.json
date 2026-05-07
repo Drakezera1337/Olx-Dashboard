@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500051651",
-    "titulo": "PlayStation 4 Slim (PS4)",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
+    "id": "1500050993",
+    "titulo": "Ps4 ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:00",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/playstation-4-slim-ps4-1500051651",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/ps4-1500050993",
+    "fotoUrl": "https://img.olx.com.br/images/15/156611281414295.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/156611281414295.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778162408
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:00",
     "fotoUrl": "https://img.olx.com.br/images/74/746648646889694.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/746648646889694.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/43/435627889546559.jpg",
       "https://img.olx.com.br/images/57/573666048958578.jpg"
     ],
-    "defeito": false,
+    "id": "1500051651",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/playstation-4-slim-ps4-1500051651",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "PlayStation 4 Slim (PS4)",
     "ts": 1778162400
   },
   {
@@ -9879,24 +9897,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Call of Duty Black Ops 4 - PS4",
     "ts": 1778082310
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:45",
-    "fotoUrl": "https://img.olx.com.br/images/41/415618881589052.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/415618881589052.jpg",
-      "https://img.olx.com.br/images/44/443658289951440.jpg"
-    ],
-    "id": "1499771007",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/spider-man-ps4-1499771007",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Spider man ps4",
-    "ts": 1778082302
   }
 ]
