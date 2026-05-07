@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500237474",
-    "titulo": "Jogos ps4",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "categoria": "ps4",
+    "id": "1500236470",
+    "titulo": "Jogo",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:56",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1500237474",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-1500236470",
+    "fotoUrl": "https://img.olx.com.br/images/76/769641768376794.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/769641768376794.jpg",
+      "https://img.olx.com.br/images/77/778606407331126.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778198182
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:56",
     "fotoUrl": "https://img.olx.com.br/images/36/360686168363807.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/360686168363807.jpg"
     ],
-    "defeito": false,
+    "id": "1500237474",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1500237474",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Jogos ps4",
     "ts": 1778198174
   },
   {
@@ -9790,28 +9809,5 @@
     "tempoOlx": "Na OLX desde abril de 2017",
     "titulo": "Ps4 slim 500g",
     "ts": 1778119566
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:04",
-    "fotoUrl": "https://img.olx.com.br/images/54/540636767477508.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/540636767477508.jpg",
-      "https://img.olx.com.br/images/56/565680881238977.jpg",
-      "https://img.olx.com.br/images/58/588651289526633.jpg",
-      "https://img.olx.com.br/images/62/621615644459052.jpg",
-      "https://img.olx.com.br/images/68/684696646826644.jpg",
-      "https://img.olx.com.br/images/70/707611528508314.jpg"
-    ],
-    "id": "1499925787",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-500gb-controle-2-jogos-1499925787",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "PS4 500GB + Controle + 2 Jogos",
-    "ts": 1778119456
   }
 ]
