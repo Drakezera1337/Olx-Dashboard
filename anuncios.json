@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499928260",
-    "titulo": "PS5 FAT",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1499928815",
+    "titulo": "PS4 Slim + 2 jogos",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:20",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "23:21",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-fat-1499928260",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-slim-2-jogos-1499928815",
+    "fotoUrl": "https://img.olx.com.br/images/14/148669167394921.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/148669167394921.jpg",
+      "https://img.olx.com.br/images/16/162608289318767.jpg",
+      "https://img.olx.com.br/images/17/171678403463447.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778120466
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:20",
     "fotoUrl": "https://img.olx.com.br/images/99/997663409750476.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/997663409750476.jpg"
     ],
-    "defeito": false,
+    "id": "1499928260",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-fat-1499928260",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "PS5 FAT",
     "ts": 1778120436
   },
   {
@@ -9871,24 +9891,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "Gta The Trilogy ps4 novo lacrado",
     "ts": 1778077275
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:21",
-    "fotoUrl": "https://img.olx.com.br/images/42/427557694793352.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/427557694793352.jpg",
-      "https://img.olx.com.br/images/43/437563815208410.jpg"
-    ],
-    "id": "1448480285",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-efootball-pes-2020-ps4-1448480285",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "JOGO - eFootball PES 2020 - PS4",
-    "ts": 1778077267
   }
 ]
