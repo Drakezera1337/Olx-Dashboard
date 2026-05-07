@@ -1,20 +1,40 @@
 [
   {
-    "id": "1499909957",
-    "titulo": "Jogos PS4 ",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "categoria": "ps4",
+    "id": "1499911403",
+    "titulo": "iphone XR",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "21:47",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "21:48",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-ps4-1499909957",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1499911403",
+    "fotoUrl": "https://img.olx.com.br/images/59/592612166391723.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/592612166391723.jpg",
+      "https://img.olx.com.br/images/61/610625767283511.jpg",
+      "https://img.olx.com.br/images/62/622637523381039.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778114888
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:47",
     "fotoUrl": "https://img.olx.com.br/images/81/816663162869036.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/816663162869036.jpg"
     ],
-    "defeito": false,
+    "id": "1499909957",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-ps4-1499909957",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Jogos PS4 ",
     "ts": 1778114824
   },
   {
@@ -9861,24 +9881,5 @@
     "tempoOlx": "Na OLX desde novembro de 2019",
     "titulo": "Resident Evil 5 - PS4 ",
     "ts": 1778074933
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:42",
-    "fotoUrl": "https://img.olx.com.br/images/87/874531779567375.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/874531779567375.jpg",
-      "https://img.olx.com.br/images/89/890547770005720.jpg"
-    ],
-    "id": "1359283515",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/dragons-dogma-dark-arisen-ps4-1359283515",
-    "preco": 165,
-    "precoRaw": "R$ 165",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Dragons Dogma dark arisen PS4",
-    "ts": 1778074925
   }
 ]
