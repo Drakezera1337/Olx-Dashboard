@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500214179",
-    "titulo": "Ps5",
-    "preco": 1730,
-    "precoRaw": "R$ 1.730",
+    "id": "1500215683",
+    "titulo": "Astro Bot - PS5",
+    "preco": 130,
+    "precoRaw": "R$ 130",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:11",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "detectado": "19:16",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps5-1500214179",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/astro-bot-ps5-1500215683",
+    "fotoUrl": "https://img.olx.com.br/images/78/781650768444382.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/781650768444382.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778192168
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:11",
     "fotoUrl": "https://img.olx.com.br/images/18/185675280873985.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/185675280873985.jpg"
     ],
-    "defeito": false,
+    "id": "1500214179",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps5-1500214179",
+    "preco": 1730,
+    "precoRaw": "R$ 1.730",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Ps5",
     "ts": 1778191870
   },
   {
@@ -9809,23 +9827,5 @@
     "tempoOlx": "Na OLX desde agosto de 2021",
     "titulo": "God of War PS4",
     "ts": 1778111411
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:50",
-    "fotoUrl": "https://img.olx.com.br/images/20/200680287777808.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/200680287777808.jpg"
-    ],
-    "id": "1499898045",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-gta-v-the-elder-ring-the-witcher-3-e-dying-light-1499898045",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2014",
-    "titulo": "Jogos PS4 (GTA V, The Elder Ring, The Witcher 3 e Dying Light)",
-    "ts": 1778111404
   }
 ]
