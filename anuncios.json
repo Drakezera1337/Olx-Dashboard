@@ -1,15 +1,28 @@
 [
   {
-    "id": "1327664323",
-    "titulo": "Varios jogos PS4",
-    "preco": 180,
-    "precoRaw": "R$ 180",
+    "id": "1500084722",
+    "titulo": "Playstation 4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:46",
-    "tempoOlx": "Na OLX desde maio de 2017",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/varios-jogos-ps4-1327664323",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/playstation-4-1500084722",
+    "fotoUrl": "https://img.olx.com.br/images/76/761602283091684.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/761602283091684.jpg",
+      "https://img.olx.com.br/images/80/808614523553167.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778165194
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:46",
     "fotoUrl": "https://img.olx.com.br/images/61/619510908891565.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/619510908891565.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/61/610520667198941.jpg",
       "https://img.olx.com.br/images/61/617544062215595.jpg"
     ],
-    "defeito": false,
+    "id": "1327664323",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/varios-jogos-ps4-1327664323",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "Varios jogos PS4",
     "ts": 1778165184
   },
   {
@@ -9841,26 +9860,5 @@
     "tempoOlx": "Na OLX desde agosto de 2020",
     "titulo": "JOGOS  DIVERSOS PS3",
     "ts": 1778087706
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:12",
-    "fotoUrl": "https://img.olx.com.br/images/10/109687285742612.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/109687285742612.jpg",
-      "https://img.olx.com.br/images/12/128685643088334.jpg",
-      "https://img.olx.com.br/images/14/147614767318033.jpg",
-      "https://img.olx.com.br/images/16/169682888440090.jpg"
-    ],
-    "id": "1499200728",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-series-s-512gb-em-perfeito-estado-1499200728",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "Xbox Series S 512gb em perfeito estado",
-    "ts": 1778087558
   }
 ]
