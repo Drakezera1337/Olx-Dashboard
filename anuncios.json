@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500227974",
-    "titulo": "Cyberpunk 2077",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1500223652",
+    "titulo": "Bloodstained - Ritual of the Night",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:17",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/cyberpunk-2077-1500227974",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodstained-ritual-of-the-night-1500223652",
+    "fotoUrl": "https://img.olx.com.br/images/63/636664404746548.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/636664404746548.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778195866
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:17",
     "fotoUrl": "https://img.olx.com.br/images/13/137645286017583.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/137645286017583.jpg"
     ],
-    "defeito": false,
+    "id": "1500227974",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/cyberpunk-2077-1500227974",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "Cyberpunk 2077",
     "ts": 1778195859
   },
   {
@@ -9810,23 +9828,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Playstation 4 - JOGOS PARA PS4 ORIGINAIS ",
     "ts": 1778117086
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:24",
-    "fotoUrl": "https://img.olx.com.br/images/54/545637528043862.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/545637528043862.jpg"
-    ],
-    "id": "1499918872",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/lote-de-jogos-de-ps4-1499918872",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Lote de jogos de ps4!!",
-    "ts": 1778117077
   }
 ]
