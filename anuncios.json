@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499923217",
-    "titulo": "Playstation 4 - 6 jogos ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1499923905",
+    "titulo": "PlayStation 4 Slim 500GB",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:48",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "22:53",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-6-jogos-1499923217",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/playstation-4-slim-500gb-1499923905",
+    "fotoUrl": "https://img.olx.com.br/images/65/653657041254258.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/653657041254258.jpg",
+      "https://img.olx.com.br/images/67/679634764257992.jpg",
+      "https://img.olx.com.br/images/69/690600884590517.jpg",
+      "https://img.olx.com.br/images/70/702616284340417.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778118790
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:48",
     "fotoUrl": "https://img.olx.com.br/images/37/372669167594732.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/372669167594732.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/41/418624404438783.jpg",
       "https://img.olx.com.br/images/42/428636400505957.jpg"
     ],
-    "defeito": false,
+    "id": "1499923217",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-6-jogos-1499923217",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Playstation 4 - 6 jogos ",
     "ts": 1778118495
   },
   {
@@ -9851,24 +9872,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Nintendo Switch Lite (LEIA A DESCRIÇÃO)",
     "ts": 1778076516
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:08",
-    "fotoUrl": "https://img.olx.com.br/images/56/563672405637744.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/563672405637744.jpg",
-      "https://img.olx.com.br/images/60/606635527792002.jpg"
-    ],
-    "id": "1499739909",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-com-defeito-playstation-3-pib-1499739909",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2014",
-    "titulo": "PLAYSTATION 3 COM DEFEITO PLAYSTATION 3 PIB",
-    "ts": 1778076488
   }
 ]
