@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500050993",
-    "titulo": "Ps4 ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1500048024",
+    "titulo": "Jogo ps4 ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:00",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/ps4-1500050993",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-1500048024",
+    "fotoUrl": "https://img.olx.com.br/images/19/198618762458806.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/198618762458806.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778162420
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:00",
     "fotoUrl": "https://img.olx.com.br/images/15/156611281414295.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/156611281414295.jpg"
     ],
-    "defeito": false,
+    "id": "1500050993",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/ps4-1500050993",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Ps4 ",
     "ts": 1778162408
   },
   {
@@ -9878,24 +9896,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PlayStation 4 Slim 1TB ",
     "ts": 1778082319
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:45",
-    "fotoUrl": "https://img.olx.com.br/images/27/276607168759516.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/276607168759516.jpg",
-      "https://img.olx.com.br/images/29/291607405846444.jpg"
-    ],
-    "id": "1499770581",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/call-of-duty-black-ops-4-ps4-1499770581",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Call of Duty Black Ops 4 - PS4",
-    "ts": 1778082310
   }
 ]
