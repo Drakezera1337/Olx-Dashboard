@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500042039",
-    "titulo": "Xbox Series S",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1499864303",
+    "titulo": "Xbox Series S 512GB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "10:56",
-    "tempoOlx": "Na OLX desde março de 2025",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/xbox-series-s-1500042039",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-series-s-512gb-1499864303",
+    "fotoUrl": "https://img.olx.com.br/images/85/852649529353324.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/852649529353324.jpg",
+      "https://img.olx.com.br/images/86/861630887258871.jpg",
+      "https://img.olx.com.br/images/87/877686762044471.jpg",
+      "https://img.olx.com.br/images/89/894659649731311.jpg",
+      "https://img.olx.com.br/images/91/915613768717596.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778162209
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:56",
     "fotoUrl": "https://img.olx.com.br/images/95/954625882436118.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/954625882436118.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/13/137692644656532.jpg",
       "https://img.olx.com.br/images/15/156673405192994.jpg"
     ],
-    "defeito": false,
+    "id": "1500042039",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/xbox-series-s-1500042039",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2025",
+    "titulo": "Xbox Series S",
     "ts": 1778162198
   },
   {
@@ -9880,26 +9902,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "FIFA 20 Ps4",
     "ts": 1778081228
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:26",
-    "fotoUrl": "https://img.olx.com.br/images/19/192532839550068.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/192532839550068.jpg",
-      "https://img.olx.com.br/images/19/193588117448164.jpg",
-      "https://img.olx.com.br/images/80/802621132074460.jpg",
-      "https://img.olx.com.br/images/25/253639612233094.jpg"
-    ],
-    "id": "1327425862",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-de-ps4-usados-1327425862",
-    "preco": 3333,
-    "precoRaw": "R$ 3.333",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogos de PS4 usados",
-    "ts": 1778081217
   }
 ]
