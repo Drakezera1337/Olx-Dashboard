@@ -1,15 +1,30 @@
 [
   {
-    "id": "1487824748",
-    "titulo": "Super Mario 3D collection (Nintendo switch)",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "categoria": "switch",
+    "id": "1500119455",
+    "titulo": "Playstation 4 500GB + 1 controle dualshock 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:42",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "detectado": "13:45",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/super-mario-3d-collection-nintendo-switch-1487824748",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-4-500gb-1-controle-dualshock-4-1500119455",
+    "fotoUrl": "https://img.olx.com.br/images/35/359666526413330.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/359666526413330.jpg",
+      "https://img.olx.com.br/images/34/344613648719691.jpg",
+      "https://img.olx.com.br/images/34/348631886412979.jpg",
+      "https://img.olx.com.br/images/35/351610523555685.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778172337
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:42",
     "fotoUrl": "https://img.olx.com.br/images/95/953686623509533.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/953686623509533.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/99/994641628506394.jpg",
       "https://img.olx.com.br/images/10/106602627695581.jpg"
     ],
-    "defeito": false,
+    "id": "1487824748",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/super-mario-3d-collection-nintendo-switch-1487824748",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "Super Mario 3D collection (Nintendo switch)",
     "ts": 1778172131
   },
   {
@@ -9829,24 +9850,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2019",
     "titulo": "Assassins creed unity ps4",
     "ts": 1778099848
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:37",
-    "fotoUrl": "https://img.olx.com.br/images/69/697597417385280.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/697597417385280.jpg",
-      "https://img.olx.com.br/images/70/702511292891397.jpg"
-    ],
-    "id": "1409782294",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-ps4-1409782294",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "FIFA 20 - PS4",
-    "ts": 1778099839
   }
 ]
