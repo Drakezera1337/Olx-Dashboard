@@ -1,21 +1,40 @@
 [
   {
-    "id": "1425077972",
-    "titulo": "The Witcher 3 Ps4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1425078341",
+    "titulo": "UFC 1 PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:57",
     "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-3-ps4-1425077972",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ufc-1-ps4-1425078341",
+    "fotoUrl": "https://img.olx.com.br/images/31/314602841840971.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/314602841840971.jpg",
+      "https://img.olx.com.br/images/31/312610244563799.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778173077
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:57",
     "fotoUrl": "https://img.olx.com.br/images/18/184668388268495.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/184668388268495.jpg",
       "https://img.olx.com.br/images/18/181660507485587.jpg"
     ],
-    "defeito": false,
+    "id": "1425077972",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-3-ps4-1425077972",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "The Witcher 3 Ps4",
     "ts": 1778173069
   },
   {
@@ -9831,28 +9850,5 @@
     "tempoOlx": "Na OLX desde maio de 2023",
     "titulo": "Fifa 15 PS4",
     "ts": 1778099944
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:38",
-    "fotoUrl": "https://img.olx.com.br/images/72/727624523074022.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/727624523074022.jpg",
-      "https://img.olx.com.br/images/73/735656882242717.jpg",
-      "https://img.olx.com.br/images/73/736674406871301.jpg",
-      "https://img.olx.com.br/images/73/731668883012051.jpg",
-      "https://img.olx.com.br/images/73/734646642638381.jpg",
-      "https://img.olx.com.br/images/72/729610642278180.jpg"
-    ],
-    "id": "1499827998",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/console-playstation-4-slim-500gb-2-controles-2-midias-de-jogo-1499827998",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Console Playstation 4 Slim 500Gb + 2 Controles + 2 mídias de jogo",
-    "ts": 1778099936
   }
 ]
