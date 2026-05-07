@@ -1,22 +1,40 @@
 [
   {
-    "id": "1499906688",
-    "titulo": "Xbox",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1490853790",
+    "titulo": "Xbox séries S usado",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "21:25",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-1499906688",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-usado-1490853790",
+    "fotoUrl": "https://img.olx.com.br/images/94/943623871430925.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/943623871430925.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778113545
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:25",
     "fotoUrl": "https://img.olx.com.br/images/80/803606764484148.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/803606764484148.jpg",
       "https://img.olx.com.br/images/81/818625285708105.jpg",
       "https://img.olx.com.br/images/83/830694883182135.jpg"
     ],
-    "defeito": false,
+    "id": "1499906688",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-1499906688",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "Xbox",
     "ts": 1778113537
   },
   {
@@ -9864,25 +9882,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "MORTAL KOMBAT 11 - PS4",
     "ts": 1778074833
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:40",
-    "fotoUrl": "https://img.olx.com.br/images/83/831688130144455.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/831688130144455.jpg",
-      "https://img.olx.com.br/images/85/856696738598432.jpg",
-      "https://img.olx.com.br/images/87/870690251573225.jpg"
-    ],
-    "id": "1474520667",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-greed-fall-ps4-1474520667",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Jogo Greed Fall PS4 ",
-    "ts": 1778074823
   }
 ]
