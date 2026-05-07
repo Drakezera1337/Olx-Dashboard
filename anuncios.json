@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500088641",
-    "titulo": "JOGOS PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1500091924",
+    "titulo": "Vendo ou troco ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:59",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "detectado": "12:04",
+    "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1500088641",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/vendo-ou-troco-1500091924",
+    "fotoUrl": "https://img.olx.com.br/images/50/509636282654493.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/509636282654493.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778166249
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:59",
     "fotoUrl": "https://img.olx.com.br/images/83/837680161595129.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/837680161595129.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/88/885622522098096.jpg",
       "https://img.olx.com.br/images/89/895639161965313.jpg"
     ],
-    "defeito": false,
+    "id": "1500088641",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1500088641",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "JOGOS PS4",
     "ts": 1778165945
   },
   {
@@ -9845,24 +9863,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "Vendo ou troco por vídeo game ",
     "ts": 1778088278
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:24",
-    "fotoUrl": "https://img.olx.com.br/images/95/955649395674739.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/955649395674739.jpg",
-      "https://img.olx.com.br/images/99/994656515726752.jpg"
-    ],
-    "id": "1490739346",
-    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/call-of-duty-ghosts-1490739346",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
-    "titulo": "Call of Duty Ghosts",
-    "ts": 1778088245
   }
 ]
