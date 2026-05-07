@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500108252",
-    "titulo": "Ps3 slim",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps3",
+    "id": "1500110386",
+    "titulo": "PS4 Slim 1TB + 2 Controles + 7 Jogos",
+    "preco": 2299,
+    "precoRaw": "R$ 2.299",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:01",
+    "detectado": "13:02",
     "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-slim-1500108252",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-slim-1tb-2-controles-7-jogos-1500110386",
+    "fotoUrl": "https://img.olx.com.br/images/10/106629763610855.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/106629763610855.jpg",
+      "https://img.olx.com.br/images/11/116686523340460.jpg",
+      "https://img.olx.com.br/images/12/126682529336548.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778169763
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:01",
     "fotoUrl": "https://img.olx.com.br/images/49/492636404784394.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/492636404784394.jpg"
     ],
-    "defeito": false,
+    "id": "1500108252",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-slim-1500108252",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps3 slim",
     "ts": 1778169665
   },
   {
@@ -9818,28 +9838,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "Playstation 4",
     "ts": 1778099563
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:32",
-    "fotoUrl": "https://img.olx.com.br/images/27/271689281945416.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/271689281945416.jpg",
-      "https://img.olx.com.br/images/28/284643760580912.jpg",
-      "https://img.olx.com.br/images/29/298667168587472.jpg",
-      "https://img.olx.com.br/images/30/301672167548629.jpg",
-      "https://img.olx.com.br/images/30/304661289626705.jpg",
-      "https://img.olx.com.br/images/31/317682760187261.jpg"
-    ],
-    "id": "1499836776",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/playstation-4-1499836776",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2013",
-    "titulo": "Playstation 4",
-    "ts": 1778099555
   }
 ]
