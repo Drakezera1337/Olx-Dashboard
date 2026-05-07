@@ -1,15 +1,32 @@
 [
   {
-    "id": "1500183296",
-    "titulo": "Nintendo Switch Lite (azul)",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "switch",
+    "id": "1500156639",
+    "titulo": "Video gamer console ",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:13",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/nintendo-switch-lite-azul-1500183296",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/video-gamer-console-1500156639",
+    "fotoUrl": "https://img.olx.com.br/images/21/219615169764146.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/219615169764146.jpg",
+      "https://img.olx.com.br/images/23/239677765485954.jpg",
+      "https://img.olx.com.br/images/25/250695400292162.jpg",
+      "https://img.olx.com.br/images/28/289661409012668.jpg",
+      "https://img.olx.com.br/images/30/305631520859204.jpg",
+      "https://img.olx.com.br/images/31/313637649008251.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188406
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:13",
     "fotoUrl": "https://img.olx.com.br/images/36/365667523573265.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/365667523573265.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/40/401643280121928.jpg",
       "https://img.olx.com.br/images/41/416606766928244.jpg"
     ],
-    "defeito": false,
+    "id": "1500183296",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/nintendo-switch-lite-azul-1500183296",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "Nintendo Switch Lite (azul)",
     "ts": 1778188397
   },
   {
@@ -9826,24 +9849,5 @@
     "tempoOlx": "Na OLX desde março de 2023",
     "titulo": "PlayStation 5 muito novo ",
     "ts": 1778104537
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:53",
-    "fotoUrl": "https://img.olx.com.br/images/26/268636400076430.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/268636400076430.jpg",
-      "https://img.olx.com.br/images/27/277601529735103.jpg"
-    ],
-    "id": "1499870464",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/sonic-colors-ultimate-ps4-1499870464",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2019",
-    "titulo": "Sonic colors ultimate PS4",
-    "ts": 1778104431
   }
 ]
