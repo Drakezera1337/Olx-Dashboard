@@ -1,22 +1,45 @@
 [
   {
-    "id": "1499943708",
-    "titulo": "Ps4 ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1499944740",
+    "titulo": "Jogos de Playstation 4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:19",
-    "tempoOlx": "Na OLX desde junho de 2016",
+    "detectado": "00:26",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-1499943708",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-de-playstation-4-1499944740",
+    "fotoUrl": "https://img.olx.com.br/images/36/362615764682669.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/362615764682669.jpg",
+      "https://img.olx.com.br/images/38/382676882846709.jpg",
+      "https://img.olx.com.br/images/40/404694288018611.jpg",
+      "https://img.olx.com.br/images/41/411653766607607.jpg",
+      "https://img.olx.com.br/images/43/431620282352450.jpg",
+      "https://img.olx.com.br/images/45/455630761502873.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778124369
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:19",
     "fotoUrl": "https://img.olx.com.br/images/38/385642529821049.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/385642529821049.jpg",
       "https://img.olx.com.br/images/38/387657165377643.jpg",
       "https://img.olx.com.br/images/38/385650285183752.jpg"
     ],
-    "defeito": false,
+    "id": "1499943708",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-1499943708",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "titulo": "Ps4 ",
     "ts": 1778123948
   },
   {
@@ -9864,28 +9887,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Final Fantasy VII remake - PS4 (exclusivo Walmart)",
     "ts": 1778078318
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:37",
-    "fotoUrl": "https://img.olx.com.br/images/41/412508445602805.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/412508445602805.jpg",
-      "https://img.olx.com.br/images/43/432546200399757.jpg",
-      "https://img.olx.com.br/images/45/454549687083038.jpg",
-      "https://img.olx.com.br/images/47/476577802282446.jpg",
-      "https://img.olx.com.br/images/49/494574449353154.jpg",
-      "https://img.olx.com.br/images/51/515534326378172.jpg"
-    ],
-    "id": "1439667104",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps5-spider-man-2-1439667104",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2018",
-    "titulo": "Controle ps5 spider man 2",
-    "ts": 1778078258
   }
 ]
