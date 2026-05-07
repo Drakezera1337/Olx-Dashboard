@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500163859",
-    "titulo": "Ps4 500gb",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1500163186",
+    "titulo": "Cyberpunk 2077 PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:18",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-picos-e-floriano/games/jogos-de-video-game/ps4-500gb-1500163859",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-1500163186",
+    "fotoUrl": "https://img.olx.com.br/images/41/418657161219746.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/418657161219746.jpg",
+      "https://img.olx.com.br/images/41/410631161569884.jpg",
+      "https://img.olx.com.br/images/41/417685406236401.jpg",
+      "https://img.olx.com.br/images/41/413699283367195.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188726
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:18",
     "fotoUrl": "https://img.olx.com.br/images/16/169657761482785.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/169657761482785.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/18/182645529736012.jpg",
       "https://img.olx.com.br/images/19/191667643907838.jpg"
     ],
-    "defeito": false,
+    "id": "1500163859",
+    "link": "https://pi.olx.com.br/regiao-de-picos-e-floriano/games/jogos-de-video-game/ps4-500gb-1500163859",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "Ps4 500gb",
     "ts": 1778188719
   },
   {
@@ -9830,24 +9851,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "Redmi Note 13 4g, 256gb, 8gb Ram",
     "ts": 1778107027
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:37",
-    "fotoUrl": "https://img.olx.com.br/images/49/492626630715843.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/492626630715843.jpg",
-      "https://img.olx.com.br/images/51/514635634830488.jpg"
-    ],
-    "id": "1491278971",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-slim-1491278971",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "PlayStation 4 slim",
-    "ts": 1778107026
   }
 ]
