@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500208312",
-    "titulo": "Venda de jogos ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1500207987",
+    "titulo": "Fifa 20 PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:46",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/venda-de-jogos-ps4-1500208312",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-20-ps4-1500207987",
+    "fotoUrl": "https://img.olx.com.br/images/71/718639768382312.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/718639768382312.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778190399
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:46",
     "fotoUrl": "https://img.olx.com.br/images/54/547675645824003.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/547675645824003.jpg"
     ],
-    "defeito": false,
+    "id": "1500208312",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/venda-de-jogos-ps4-1500208312",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Venda de jogos ps4",
     "ts": 1778190391
   },
   {
@@ -9806,24 +9824,5 @@
     "tempoOlx": "Na OLX desde junho de 2023",
     "titulo": "LEGO VINGADORES PS4 MARVEL ",
     "ts": 1778109564
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:19",
-    "fotoUrl": "https://img.olx.com.br/images/76/761624643024033.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/761624643024033.jpg",
-      "https://img.olx.com.br/images/86/863608529410536.jpg"
-    ],
-    "id": "1499891848",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/lego-words-ps4-1499891848",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2023",
-    "titulo": "LEGO WORDS  PS4",
-    "ts": 1778109556
   }
 ]
