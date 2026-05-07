@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500107238",
-    "titulo": "iPhone 12 128GB + Carregador turbo",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "iphone",
+    "id": "1500107718",
+    "titulo": "Ps3 liga fica em torno de 1 minuto e desliga",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "12:51",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "12:52",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-carregador-turbo-1500107238",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-liga-fica-em-torno-de-1-minuto-e-desliga-1500107718",
+    "fotoUrl": "https://img.olx.com.br/images/45/458630287538912.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/458630287538912.jpg",
+      "https://img.olx.com.br/images/47/470613404375888.jpg",
+      "https://img.olx.com.br/images/48/480606285875107.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778169156
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:51",
     "fotoUrl": "https://img.olx.com.br/images/85/857659649539233.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/857659649539233.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/22/229678165848826.jpg",
       "https://img.olx.com.br/images/27/278600406163382.jpg"
     ],
-    "defeito": false,
+    "id": "1500107238",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-carregador-turbo-1500107238",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "iPhone 12 128GB + Carregador turbo",
     "ts": 1778169105
   },
   {
@@ -9837,28 +9857,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "VENDO OU TROCO IPHONE 15 PRÓ MAX LEIA O ANÚNCIO POR FAVOR!",
     "ts": 1778099513
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:00",
-    "fotoUrl": "https://img.olx.com.br/images/77/770635154944783.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/770635154944783.jpg",
-      "https://img.olx.com.br/images/79/796668514149837.jpg",
-      "https://img.olx.com.br/images/79/798609755411453.jpg",
-      "https://img.olx.com.br/images/81/813696517759221.jpg",
-      "https://img.olx.com.br/images/82/823626035930943.jpg",
-      "https://img.olx.com.br/images/83/838652510990733.jpg"
-    ],
-    "id": "1498067608",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/xbox-series-s-com-2-controles-caixa-e-nf-1498067608",
-    "preco": 1427,
-    "precoRaw": "R$ 1.427",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2014",
-    "titulo": "Xbox Series S Com 2 controles + Caixa e NF",
-    "ts": 1778090438
   }
 ]
