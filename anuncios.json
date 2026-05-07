@@ -1,22 +1,42 @@
 [
   {
-    "id": "1463627308",
-    "titulo": "FIFA 20 (Mídia Física)",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1463627638",
+    "titulo": "Call of Duty: Black Ops 4 (Mídia Física)",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "18:20",
     "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-20-midia-fisica-1463627308",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-4-midia-fisica-1463627638",
+    "fotoUrl": "https://img.olx.com.br/images/61/619541234831005.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/619541234831005.jpg",
+      "https://img.olx.com.br/images/62/622582478789666.jpg",
+      "https://img.olx.com.br/images/64/641560711319947.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778188836
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:20",
     "fotoUrl": "https://img.olx.com.br/images/43/433597351690601.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/433597351690601.jpg",
       "https://img.olx.com.br/images/44/440508118740897.jpg",
       "https://img.olx.com.br/images/46/462551358006419.jpg"
     ],
-    "defeito": false,
+    "id": "1463627308",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-20-midia-fisica-1463627308",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "FIFA 20 (Mídia Física)",
     "ts": 1778188825
   },
   {
@@ -9824,25 +9844,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "God of War (2018) p/ PS4",
     "ts": 1778107726
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:48",
-    "fotoUrl": "https://img.olx.com.br/images/57/573679645671876.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/573679645671876.jpg",
-      "https://img.olx.com.br/images/60/604683882427386.jpg",
-      "https://img.olx.com.br/images/64/646657166994172.jpg"
-    ],
-    "id": "1499884294",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-ragnarok-p-ps4-lacrado-1499884294",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "God of War Ragnarok p/ PS4 - LACRADO",
-    "ts": 1778107718
   }
 ]
