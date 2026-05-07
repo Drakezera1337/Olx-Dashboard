@@ -1,21 +1,41 @@
 [
   {
-    "id": "1490719468",
-    "titulo": "Jogo de psp",
+    "id": "1500223029",
+    "titulo": "Uncharted 4 Ps4",
     "preco": 80,
     "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:50",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "detectado": "19:52",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/jogo-de-psp-1490719468",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/uncharted-4-ps4-1500223029",
+    "fotoUrl": "https://img.olx.com.br/images/39/397688523898798.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/397688523898798.jpg",
+      "https://img.olx.com.br/images/40/402635044401115.jpg",
+      "https://img.olx.com.br/images/41/410661527075940.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778194326
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:50",
     "fotoUrl": "https://img.olx.com.br/images/67/673676152572625.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/673676152572625.jpg",
       "https://img.olx.com.br/images/69/691687872790469.jpg"
     ],
-    "defeito": false,
+    "id": "1490719468",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/jogo-de-psp-1490719468",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "Jogo de psp",
     "ts": 1778194236
   },
   {
@@ -9811,23 +9831,5 @@
     "tempoOlx": "Na OLX desde abril de 2025",
     "titulo": "IPhone 14 Pro ",
     "ts": 1778114226
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:25",
-    "fotoUrl": "https://img.olx.com.br/images/94/943623871430925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/943623871430925.jpg"
-    ],
-    "id": "1490853790",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-usado-1490853790",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2016",
-    "titulo": "Xbox séries S usado",
-    "ts": 1778113545
   }
 ]
