@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499920714",
-    "titulo": "Playstation 4 + Resident Evil 4 Remake (Midia Fisica)",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "id": "1499920296",
+    "titulo": "PlayStation 4 Slim 1TB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "22:36",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-resident-evil-4-remake-midia-fisica-1499920714",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/playstation-4-slim-1tb-1499920296",
+    "fotoUrl": "https://img.olx.com.br/images/41/414623161384092.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/414623161384092.jpg",
+      "https://img.olx.com.br/images/42/424631766085172.jpg",
+      "https://img.olx.com.br/images/43/431601640676154.jpg",
+      "https://img.olx.com.br/images/44/440656402232471.jpg",
+      "https://img.olx.com.br/images/45/457690888652439.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778117786
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:36",
     "fotoUrl": "https://img.olx.com.br/images/72/727663641441392.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/727663641441392.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/93/933626765512473.jpg",
       "https://img.olx.com.br/images/94/948659048116844.jpg"
     ],
-    "defeito": false,
+    "id": "1499920714",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-resident-evil-4-remake-midia-fisica-1499920714",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Playstation 4 + Resident Evil 4 Remake (Midia Fisica)",
     "ts": 1778117777
   },
   {
@@ -9836,25 +9858,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Ratchet clank",
     "ts": 1778076179
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:02",
-    "fotoUrl": "https://img.olx.com.br/images/59/591658281480915.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/591658281480915.jpg",
-      "https://img.olx.com.br/images/62/620632647384582.jpg",
-      "https://img.olx.com.br/images/63/634607162954642.jpg"
-    ],
-    "id": "1499739171",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-de-ps4-1499739171",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2022",
-    "titulo": "Jogos de ps4",
-    "ts": 1778076169
   }
 ]
