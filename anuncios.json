@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500538530",
-    "titulo": "Jogo de PS4 Paragon ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1500538503",
+    "titulo": "Jogos ps4",
+    "preco": 500,
+    "precoRaw": "R$ 500",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:18",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-de-ps4-paragon-1500538530",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-1500538503",
+    "fotoUrl": "https://img.olx.com.br/images/48/483635521203064.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/483635521203064.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778278725
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:18",
     "fotoUrl": "https://img.olx.com.br/images/81/819612769075291.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/819612769075291.jpg"
     ],
-    "defeito": false,
+    "id": "1500538530",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-de-ps4-paragon-1500538530",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Jogo de PS4 Paragon ",
     "ts": 1778278717
   },
   {
@@ -9838,24 +9856,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PS4 Slim",
     "ts": 1778201447
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:50",
-    "fotoUrl": "https://img.olx.com.br/images/79/799673766025000.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/799673766025000.jpg",
-      "https://img.olx.com.br/images/80/808630166234944.jpg"
-    ],
-    "id": "1500254594",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1500254594",
-    "preco": 1650,
-    "precoRaw": "R$ 1.650",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2019",
-    "titulo": "PlayStation 4 ",
-    "ts": 1778201437
   }
 ]
