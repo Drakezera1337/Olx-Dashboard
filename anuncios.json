@@ -1,20 +1,43 @@
 [
   {
-    "id": "1500536887",
-    "titulo": "Ps4 funcionando na versão 13.50",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1500253213",
+    "titulo": "Nintendo Switch Lite Turquesa ",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "19:11",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "19:12",
+    "tempoOlx": "Na OLX desde agosto de 2024",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps4-funcionando-na-versao-13-50-1500536887",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/nintendo-switch-lite-turquesa-1500253213",
+    "fotoUrl": "https://img.olx.com.br/images/61/613645405932127.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/613645405932127.jpg",
+      "https://img.olx.com.br/images/63/639621768126866.jpg",
+      "https://img.olx.com.br/images/65/656674643740975.jpg",
+      "https://img.olx.com.br/images/67/677656645179659.jpg",
+      "https://img.olx.com.br/images/69/694663048167081.jpg",
+      "https://img.olx.com.br/images/71/714669526854955.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778278327
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:11",
     "fotoUrl": "https://img.olx.com.br/images/43/436627649541936.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/436627649541936.jpg"
     ],
-    "defeito": false,
+    "id": "1500536887",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps4-funcionando-na-versao-13-50-1500536887",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps4 funcionando na versão 13.50",
     "ts": 1778278267
   },
   {
@@ -9836,24 +9859,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "Jogos de ps4",
     "ts": 1778201074
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:44",
-    "fotoUrl": "https://img.olx.com.br/images/61/616660620057063.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/616660620057063.jpg",
-      "https://img.olx.com.br/images/62/622601865147587.jpg"
-    ],
-    "id": "1483039056",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/nier-automata-1483039056",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "Nier Automata ",
-    "ts": 1778201065
   }
 ]
