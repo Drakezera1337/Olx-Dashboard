@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500245352",
-    "titulo": "Vendo jogo do ps4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1500247636",
+    "titulo": "PS4 slim 1",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:31",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "21:34",
+    "tempoOlx": "Na OLX desde julho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/vendo-jogo-do-ps4-1500245352",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-slim-1-1500247636",
+    "fotoUrl": "https://img.olx.com.br/images/85/858690044714274.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/858690044714274.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778200447
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:31",
     "fotoUrl": "https://img.olx.com.br/images/98/988631523048795.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/988631523048795.jpg"
     ],
-    "defeito": false,
+    "id": "1500245352",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/vendo-jogo-do-ps4-1500245352",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Vendo jogo do ps4",
     "ts": 1778200305
   },
   {
@@ -9786,23 +9804,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Elden ring ps4",
     "ts": 1778122177
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:43",
-    "fotoUrl": "https://img.olx.com.br/images/25/257685763433910.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/257685763433910.jpg"
-    ],
-    "id": "1499935025",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/jogos-de-video-game/mortal-kombat-11-1499935025",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "Mortal Kombat 11 ",
-    "ts": 1778121817
   }
 ]
