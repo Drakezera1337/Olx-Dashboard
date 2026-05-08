@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500514064",
-    "titulo": "Jogo de ps4",
-    "preco": 105,
-    "precoRaw": "R$ 105",
+    "id": "1500528452",
+    "titulo": "Call of Duty Black Ops 3 - Ps4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:19",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:25",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-de-ps4-1500514064",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-3-ps4-1500528452",
+    "fotoUrl": "https://img.olx.com.br/images/65/657627526983541.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/657627526983541.jpg",
+      "https://img.olx.com.br/images/66/664601168483836.jpg",
+      "https://img.olx.com.br/images/68/687668640196257.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778275509
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:19",
     "fotoUrl": "https://img.olx.com.br/images/18/183634169331406.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/183634169331406.jpg"
     ],
-    "defeito": false,
+    "id": "1500514064",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-de-ps4-1500514064",
+    "preco": 105,
+    "precoRaw": "R$ 105",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Jogo de ps4",
     "ts": 1778275156
   },
   {
@@ -9858,24 +9878,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "Boneco Kratos do clássico Good of war ",
     "ts": 1778196849
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:33",
-    "fotoUrl": "https://img.olx.com.br/images/26/267643289484000.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/267643289484000.jpg",
-      "https://img.olx.com.br/images/27/271616287118561.jpg"
-    ],
-    "id": "1500231385",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-512-series-1500231385",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "Xbox 512 Series ",
-    "ts": 1778196824
   }
 ]
