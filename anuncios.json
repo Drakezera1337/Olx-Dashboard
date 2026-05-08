@@ -1,22 +1,45 @@
 [
   {
-    "id": "1500277334",
-    "titulo": "Ps4 ",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "ps4",
+    "id": "1500278486",
+    "titulo": "Play station 4 - 1 controle e 4 jogos",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "00:15",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "detectado": "00:26",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/ps4-1500277334",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/play-station-4-1-controle-e-4-jogos-1500278486",
+    "fotoUrl": "https://img.olx.com.br/images/38/387649282325218.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/387649282325218.jpg",
+      "https://img.olx.com.br/images/71/714637769639166.jpg",
+      "https://img.olx.com.br/images/71/717651168746286.jpg",
+      "https://img.olx.com.br/images/71/713697289765382.jpg",
+      "https://img.olx.com.br/images/25/258604643481013.jpg",
+      "https://img.olx.com.br/images/53/535603880499270.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778210798
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:15",
     "fotoUrl": "https://img.olx.com.br/images/43/430600646544243.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/430600646544243.jpg",
       "https://img.olx.com.br/images/45/452653760471494.jpg",
       "https://img.olx.com.br/images/47/475621040364210.jpg"
     ],
-    "defeito": false,
+    "id": "1500277334",
+    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/ps4-1500277334",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "Ps4 ",
     "ts": 1778210148
   },
   {
@@ -9810,23 +9833,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2014",
     "titulo": "Deadrising 2 - Jogo Para Playstation 3 Novo Lacrado",
     "ts": 1778163075
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:11",
-    "fotoUrl": "https://img.olx.com.br/images/12/128609406850434.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/128609406850434.jpg"
-    ],
-    "id": "1500064004",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-super-slim-completo-pronto-pra-jogar-400-00-1500064004",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PS3 Super Slim Completo - Pronto pra jogar 400.00",
-    "ts": 1778163065
   }
 ]
