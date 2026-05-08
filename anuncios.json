@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500527680",
-    "titulo": "Rayman Legends - Ps4",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "ps4",
+    "id": "1500527672",
+    "titulo": "Uncharted 4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "18:25",
-    "tempoOlx": "Na OLX desde abril de 2019",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/rayman-legends-ps4-1500527680",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/uncharted-4-1500527672",
+    "fotoUrl": "https://img.olx.com.br/images/46/463680281951408.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/463680281951408.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778275552
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:25",
     "fotoUrl": "https://img.olx.com.br/images/15/155663288599909.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/155663288599909.jpg",
       "https://img.olx.com.br/images/18/180621289711043.jpg",
       "https://img.olx.com.br/images/19/190602287348840.jpg"
     ],
-    "defeito": false,
+    "id": "1500527680",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/rayman-legends-ps4-1500527680",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "Rayman Legends - Ps4",
     "ts": 1778275544
   },
   {
@@ -9853,26 +9871,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Gta 5 PS 4",
     "ts": 1778197343
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:42",
-    "fotoUrl": "https://img.olx.com.br/images/93/932675400826545.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/932675400826545.jpg",
-      "https://img.olx.com.br/images/94/948662523931056.jpg",
-      "https://img.olx.com.br/images/97/979652769482975.jpg",
-      "https://img.olx.com.br/images/99/995651647231518.jpg"
-    ],
-    "id": "1500233466",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-para-ps4-1500233466",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "JOGOS PARA PS4",
-    "ts": 1778197336
   }
 ]
