@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500539993",
-    "titulo": "Shadow of Mordor PS4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1500539688",
+    "titulo": "The last of us 1 PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:25",
-    "tempoOlx": "Na OLX desde julho de 2015",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/shadow-of-mordor-ps4-1500539993",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-1-ps4-1500539688",
+    "fotoUrl": "https://img.olx.com.br/images/48/486657160022530.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/486657160022530.jpg",
+      "https://img.olx.com.br/images/51/518696644233158.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778279149
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:25",
     "fotoUrl": "https://img.olx.com.br/images/77/778607762535106.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/778607762535106.jpg",
       "https://img.olx.com.br/images/80/801698642054814.jpg",
       "https://img.olx.com.br/images/82/828605043718974.jpg"
     ],
-    "defeito": false,
+    "id": "1500539993",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/shadow-of-mordor-ps4-1500539993",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2015",
+    "titulo": "Shadow of Mordor PS4",
     "ts": 1778279140
   },
   {
@@ -9833,28 +9852,5 @@
     "tempoOlx": "Na OLX desde junho de 2019",
     "titulo": "PS4 Slim 1TB (Com Defeito VISUAL no leitor de disco.) | + 2 controles + Jogos",
     "ts": 1778202486
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:07",
-    "fotoUrl": "https://img.olx.com.br/images/49/498684648672577.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/498684648672577.jpg",
-      "https://img.olx.com.br/images/52/529637287186299.jpg",
-      "https://img.olx.com.br/images/55/555644887057474.jpg",
-      "https://img.olx.com.br/images/89/892691641424498.jpg",
-      "https://img.olx.com.br/images/91/913608640961357.jpg",
-      "https://img.olx.com.br/images/92/925679764225461.jpg"
-    ],
-    "id": "1500257647",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/xbox-one-s-com-dois-controles-e-jogos-1500257647",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Xbox one s, com dois controles e jogos ",
-    "ts": 1778202457
   }
 ]
