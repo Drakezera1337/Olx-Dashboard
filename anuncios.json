@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500527952",
-    "titulo": "Jogo GTA 5 (Grand Theft Auto V) - PS4 (Mídia Física)",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1500527680",
+    "titulo": "Rayman Legends - Ps4",
+    "preco": 65,
+    "precoRaw": "R$ 65",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:25",
-    "tempoOlx": "Na OLX desde outubro de 2018",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-gta-5-grand-theft-auto-v-ps4-midia-fisica-1500527952",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/rayman-legends-ps4-1500527680",
+    "fotoUrl": "https://img.olx.com.br/images/15/155663288599909.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/155663288599909.jpg",
+      "https://img.olx.com.br/images/18/180621289711043.jpg",
+      "https://img.olx.com.br/images/19/190602287348840.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778275544
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:25",
     "fotoUrl": "https://img.olx.com.br/images/67/676667760950695.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/676667760950695.jpg",
       "https://img.olx.com.br/images/68/685658044331550.jpg"
     ],
-    "defeito": false,
+    "id": "1500527952",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-gta-5-grand-theft-auto-v-ps4-midia-fisica-1500527952",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2018",
+    "titulo": "Jogo GTA 5 (Grand Theft Auto V) - PS4 (Mídia Física)",
     "ts": 1778275535
   },
   {
@@ -9854,27 +9874,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "JOGOS PARA PS4",
     "ts": 1778197336
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:42",
-    "fotoUrl": "https://img.olx.com.br/images/44/440605285029704.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/440605285029704.jpg",
-      "https://img.olx.com.br/images/47/479689881347653.jpg",
-      "https://img.olx.com.br/images/48/483648285256891.jpg",
-      "https://img.olx.com.br/images/50/504658162569674.jpg",
-      "https://img.olx.com.br/images/52/527634401538778.jpg"
-    ],
-    "id": "1500234015",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/vendoo-1500234015",
-    "preco": 1950,
-    "precoRaw": "R$ 1.950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "?*VENDOO*?",
-    "ts": 1778197327
   }
 ]
