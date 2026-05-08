@@ -1,21 +1,41 @@
 [
   {
-    "id": "1491714877",
-    "titulo": "Crash Bandicoot Trilogy",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "outros",
+    "id": "1491490447",
+    "titulo": "Red Dead Redemption 2 - PS4 ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "09:03",
-    "tempoOlx": "Na OLX desde outubro de 2013",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/crash-bandicoot-trilogy-1491714877",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/red-dead-redemption-2-ps4-1491490447",
+    "fotoUrl": "https://img.olx.com.br/images/80/804636630103672.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/804636630103672.jpg",
+      "https://img.olx.com.br/images/83/839661511700028.jpg",
+      "https://img.olx.com.br/images/85/850607632558440.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778241818
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:03",
     "fotoUrl": "https://img.olx.com.br/images/54/545635399330744.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/545635399330744.jpg",
       "https://img.olx.com.br/images/53/532667517805794.jpg"
     ],
-    "defeito": false,
+    "id": "1491714877",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/crash-bandicoot-trilogy-1491714877",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2013",
+    "titulo": "Crash Bandicoot Trilogy",
     "ts": 1778241807
   },
   {
@@ -9811,23 +9831,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PS4 Slim 1TB + 2 Controles + 7 Jogos",
     "ts": 1778169763
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:01",
-    "fotoUrl": "https://img.olx.com.br/images/49/492636404784394.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/492636404784394.jpg"
-    ],
-    "id": "1500108252",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-slim-1500108252",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Ps3 slim",
-    "ts": 1778169665
   }
 ]
