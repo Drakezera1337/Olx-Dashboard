@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500258032",
-    "titulo": "Ps5 portátil semi novo ",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "ps5",
+    "id": "1500258589",
+    "titulo": "PS4",
+    "preco": 1950,
+    "precoRaw": "R$ 1.950",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:12",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "detectado": "22:14",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-portatil-semi-novo-1500258032",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1500258589",
+    "fotoUrl": "https://img.olx.com.br/images/61/611689645794185.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/611689645794185.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778202878
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:12",
     "fotoUrl": "https://img.olx.com.br/images/60/601698765721766.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/601698765721766.jpg",
       "https://img.olx.com.br/images/61/610613646583301.jpg",
       "https://img.olx.com.br/images/63/630670889652205.jpg"
     ],
-    "defeito": false,
+    "id": "1500258032",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-portatil-semi-novo-1500258032",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Ps5 portátil semi novo ",
     "ts": 1778202763
   },
   {
@@ -9780,27 +9798,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "Sakuna Ps4 ",
     "ts": 1778162048
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:54",
-    "fotoUrl": "https://img.olx.com.br/images/80/801634640611692.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/801634640611692.jpg",
-      "https://img.olx.com.br/images/80/808607287206060.jpg",
-      "https://img.olx.com.br/images/51/511674407306074.jpg",
-      "https://img.olx.com.br/images/79/795640766231672.jpg",
-      "https://img.olx.com.br/images/51/513621646892340.jpg"
-    ],
-    "id": "1500034305",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500034305",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2024",
-    "titulo": "iPhone 11 ",
-    "ts": 1778162043
   }
 ]
