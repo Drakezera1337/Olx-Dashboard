@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500276861",
-    "titulo": "ps4",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1500277291",
+    "titulo": "Carta pokemon Venusaur e Snivy (SM229)",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "00:09",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "detectado": "00:13",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-1500276861",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/carta-pokemon-venusaur-e-snivy-sm229-1500277291",
+    "fotoUrl": "https://img.olx.com.br/images/23/233643160349986.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/233643160349986.jpg",
+      "https://img.olx.com.br/images/25/258647407376128.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778210018
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:09",
     "fotoUrl": "https://img.olx.com.br/images/74/740600520598789.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/740600520598789.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/77/779601528361732.jpg",
       "https://img.olx.com.br/images/79/798637163190086.jpg"
     ],
-    "defeito": false,
+    "id": "1500276861",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-1500276861",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "ps4",
     "ts": 1778209787
   },
   {
@@ -9808,23 +9827,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Gran Turismo 7 PS4 ",
     "ts": 1778163032
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:10",
-    "fotoUrl": "https://img.olx.com.br/images/42/429613636726343.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/429613636726343.jpg"
-    ],
-    "id": "1491694641",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/kingdom-hearts-hd-2-8-final-chapter-prologue-ps4-midia-fisica-lacrado-1491694641",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Kingdom Hearts HD 2.8 Final Chapter Prologue PS4 - Mídia física lacrado ",
-    "ts": 1778163020
   }
 ]
