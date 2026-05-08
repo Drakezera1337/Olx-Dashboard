@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500276312",
-    "titulo": "iPhone 15 Pro Max - 256Gb",
-    "preco": 4900,
-    "precoRaw": "R$ 4.900",
-    "categoria": "iphone",
+    "id": "1500276709",
+    "titulo": "PS4 (FAT) - com DEFEITO",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:07",
-    "tempoOlx": "Na OLX desde junho de 2025",
+    "detectado": "00:09",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1500276312",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-1500276709",
+    "fotoUrl": "https://img.olx.com.br/images/46/468682760826845.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/468682760826845.jpg",
+      "https://img.olx.com.br/images/47/479618403686850.jpg",
+      "https://img.olx.com.br/images/48/488636047448058.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778209778
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:07",
     "fotoUrl": "https://img.olx.com.br/images/31/313695761294009.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/313695761294009.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/37/376664281328636.jpg",
       "https://img.olx.com.br/images/39/390653885035757.jpg"
     ],
-    "defeito": false,
+    "id": "1500276312",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1500276312",
+    "preco": 4900,
+    "precoRaw": "R$ 4.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2025",
+    "titulo": "iPhone 15 Pro Max - 256Gb",
     "ts": 1778209659
   },
   {
@@ -9803,23 +9823,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Assassins Creed Unity - PS4 - Mídia física lacrado ",
     "ts": 1778163011
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:10",
-    "fotoUrl": "https://img.olx.com.br/images/50/503675395238200.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/503675395238200.jpg"
-    ],
-    "id": "1491704629",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/detroit-become-human-ps4-midia-fisica-lacrado-1491704629",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Detroit Become Human - PS4 - Mídia física lacrado ",
-    "ts": 1778163000
   }
 ]
