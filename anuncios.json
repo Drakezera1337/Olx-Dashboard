@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500412657",
-    "titulo": "Xbox Series S",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1500391285",
+    "titulo": "Xbox Séries S ",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "13:37",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-1500412657",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1500391285",
+    "fotoUrl": "https://img.olx.com.br/images/85/852680644898758.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/852680644898758.jpg",
+      "https://img.olx.com.br/images/87/871617640419598.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258239
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:37",
     "fotoUrl": "https://img.olx.com.br/images/25/254684882424240.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/254684882424240.jpg"
     ],
-    "defeito": false,
+    "id": "1500412657",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-1500412657",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "Xbox Series S",
     "ts": 1778258230
   },
   {
@@ -9783,26 +9802,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Pes 2015 - Ps3",
     "ts": 1778174794
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:24",
-    "fotoUrl": "https://img.olx.com.br/images/77/776608402027126.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/776608402027126.jpg",
-      "https://img.olx.com.br/images/79/799651165503737.jpg",
-      "https://img.olx.com.br/images/80/806626648267656.jpg",
-      "https://img.olx.com.br/images/82/823693527716942.jpg"
-    ],
-    "id": "1500131927",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/raidou-nintendo-switch-2-1500131927",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2013",
-    "titulo": "Raidou Nintendo Switch 2",
-    "ts": 1778174650
   }
 ]
