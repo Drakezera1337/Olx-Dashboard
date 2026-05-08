@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500542113",
-    "titulo": "PlayStation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1500542923",
+    "titulo": "Xbox one s verde militar ",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "19:36",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-4-1500542113",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-verde-militar-1500542923",
+    "fotoUrl": "https://img.olx.com.br/images/21/216605404774798.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/216605404774798.jpg",
+      "https://img.olx.com.br/images/23/238663165272010.jpg",
+      "https://img.olx.com.br/images/24/242678401790498.jpg",
+      "https://img.olx.com.br/images/26/267631523807404.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778279781
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:36",
     "fotoUrl": "https://img.olx.com.br/images/12/127631161040083.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/127631161040083.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/20/206692528169720.jpg",
       "https://img.olx.com.br/images/22/229654769632576.jpg"
     ],
-    "defeito": false,
+    "id": "1500542113",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-4-1500542113",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "PlayStation 4",
     "ts": 1778279772
   },
   {
@@ -9836,24 +9857,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Torre de resfriamento Xbox Series X",
     "ts": 1778203477
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:22",
-    "fotoUrl": "https://img.olx.com.br/images/53/539615526643015.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/539615526643015.jpg",
-      "https://img.olx.com.br/images/55/554662760198234.jpg"
-    ],
-    "id": "1500259274",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/legos-ps4-1500259274",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2016",
-    "titulo": "Legos ps4",
-    "ts": 1778203326
   }
 ]
