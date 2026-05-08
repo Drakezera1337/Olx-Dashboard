@@ -1,20 +1,41 @@
 [
   {
-    "id": "1500536430",
-    "titulo": "Lote de Jogos de Pley 4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "outros",
+    "id": "1450772555",
+    "titulo": "The Last of Us LACRADO PlayStation 4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:12",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/lote-de-jogos-de-pley-4-1500536430",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/the-last-of-us-lacrado-playstation-4-1450772555",
+    "fotoUrl": "https://img.olx.com.br/images/75/752572346368112.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/752572346368112.jpg",
+      "https://img.olx.com.br/images/76/761584469121343.jpg",
+      "https://img.olx.com.br/images/78/789552821266033.jpg",
+      "https://img.olx.com.br/images/79/793568223630523.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778278364
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:12",
     "fotoUrl": "https://img.olx.com.br/images/55/559678767866950.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/559678767866950.jpg"
     ],
-    "defeito": false,
+    "id": "1500536430",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/lote-de-jogos-de-pley-4-1500536430",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Lote de Jogos de Pley 4",
     "ts": 1778278355
   },
   {
@@ -9835,24 +9856,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "Doom ",
     "ts": 1778201090
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:44",
-    "fotoUrl": "https://img.olx.com.br/images/75/752618869126986.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/752618869126986.jpg",
-      "https://img.olx.com.br/images/77/776683268082040.jpg"
-    ],
-    "id": "1483046618",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/wolfenstein-2-1483046618",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "Wolfenstein 2",
-    "ts": 1778201082
   }
 ]
