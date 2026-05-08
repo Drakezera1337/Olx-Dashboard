@@ -1,15 +1,28 @@
 [
   {
-    "id": "1483047861",
-    "titulo": "Jogos de ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1483046618",
+    "titulo": "Wolfenstein 2",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "21:44",
     "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-de-ps4-1483047861",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/wolfenstein-2-1483046618",
+    "fotoUrl": "https://img.olx.com.br/images/75/752618869126986.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/752618869126986.jpg",
+      "https://img.olx.com.br/images/77/776683268082040.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778201082
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:44",
     "fotoUrl": "https://img.olx.com.br/images/21/210667384472334.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/210667384472334.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/26/262618381619820.jpg",
       "https://img.olx.com.br/images/27/277673506902783.jpg"
     ],
-    "defeito": false,
+    "id": "1483047861",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-de-ps4-1483047861",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "Jogos de ps4",
     "ts": 1778201074
   },
   {
@@ -9788,28 +9807,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "Vendo ou troco jogos para PS4",
     "ts": 1778124378
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:26",
-    "fotoUrl": "https://img.olx.com.br/images/36/362615764682669.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/362615764682669.jpg",
-      "https://img.olx.com.br/images/38/382676882846709.jpg",
-      "https://img.olx.com.br/images/40/404694288018611.jpg",
-      "https://img.olx.com.br/images/41/411653766607607.jpg",
-      "https://img.olx.com.br/images/43/431620282352450.jpg",
-      "https://img.olx.com.br/images/45/455630761502873.jpg"
-    ],
-    "id": "1499944740",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-de-playstation-4-1499944740",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
-    "titulo": "Jogos de Playstation 4",
-    "ts": 1778124369
   }
 ]
