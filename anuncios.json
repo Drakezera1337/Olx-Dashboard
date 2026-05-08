@@ -1,21 +1,39 @@
 [
   {
-    "id": "1500303175",
-    "titulo": "iPhone 11",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "iphone",
+    "id": "1500304517",
+    "titulo": "Vendo Ps5 Slim Digital 1Tb Lacrado Garantia nota fiscal",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "02:20",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "02:29",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500303175",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vendo-ps5-slim-digital-1tb-lacrado-garantia-nota-fiscal-1500304517",
+    "fotoUrl": "https://img.olx.com.br/images/92/927654409457133.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/927654409457133.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778218177
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "02:20",
     "fotoUrl": "https://img.olx.com.br/images/13/139672400249153.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/139672400249153.jpg",
       "https://img.olx.com.br/images/16/166694760839375.jpg"
     ],
-    "defeito": false,
+    "id": "1500303175",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500303175",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "iPhone 11",
     "ts": 1778217643
   },
   {
@@ -9824,26 +9842,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogos PS4 E PS5 - GOD OF WAR, GOD OF WAR RAGNAROK E SPIDER-MAN 2",
     "ts": 1778163818
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:23",
-    "fotoUrl": "https://img.olx.com.br/images/58/581613401662795.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/581613401662795.jpg",
-      "https://img.olx.com.br/images/60/603609883025966.jpg",
-      "https://img.olx.com.br/images/62/627686284786397.jpg",
-      "https://img.olx.com.br/images/63/637662643639267.jpg"
-    ],
-    "id": "1500073912",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/fonte-de-ps4-fat-1500073912",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2025",
-    "titulo": "fonte de Ps4 FAT ",
-    "ts": 1778163806
   }
 ]
