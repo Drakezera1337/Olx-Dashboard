@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500546586",
-    "titulo": "Xbox series S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1500547411",
+    "titulo": "Console PS3 com defeito ",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "20:05",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "detectado": "20:07",
+    "tempoOlx": "Na OLX desde novembro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/xbox-series-s-1500546586",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/console-ps3-com-defeito-1500547411",
+    "fotoUrl": "https://img.olx.com.br/images/41/418681521360523.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/418681521360523.jpg",
+      "https://img.olx.com.br/images/43/431656288601336.jpg",
+      "https://img.olx.com.br/images/44/440640528275028.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778281627
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:05",
     "fotoUrl": "https://img.olx.com.br/images/22/223630169925818.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/223630169925818.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/30/305609165491554.jpg",
       "https://img.olx.com.br/images/32/328608642804267.jpg"
     ],
-    "defeito": false,
+    "id": "1500546586",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/xbox-series-s-1500546586",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Xbox series S ",
     "ts": 1778281515
   },
   {
@@ -9843,26 +9863,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Nintendo 3ds Xl Vermelho!",
     "ts": 1778205288
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:54",
-    "fotoUrl": "https://img.olx.com.br/images/93/938645401510656.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/938645401510656.jpg",
-      "https://img.olx.com.br/images/94/948693169394567.jpg",
-      "https://img.olx.com.br/images/96/960694169589864.jpg",
-      "https://img.olx.com.br/images/98/980616167720957.jpg"
-    ],
-    "id": "1500265224",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/mega-hawlucha-ex-283-217-1500265224",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Mega Hawlucha Ex 283/217 ",
-    "ts": 1778205279
   }
 ]
