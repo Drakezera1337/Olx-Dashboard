@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500550940",
-    "titulo": "Ps4 Slim 1T",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1500550898",
+    "titulo": "Jogo The Last Of Us 2 Lacrado",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "20:24",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/ps4-slim-1t-1500550940",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-the-last-of-us-2-lacrado-1500550898",
+    "fotoUrl": "https://img.olx.com.br/images/40/401685041591925.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/401685041591925.jpg",
+      "https://img.olx.com.br/images/41/416615521325793.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778282699
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:24",
     "fotoUrl": "https://img.olx.com.br/images/58/580604402943034.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/580604402943034.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/60/600678762847598.jpg",
       "https://img.olx.com.br/images/61/619625762109358.jpg"
     ],
-    "defeito": false,
+    "id": "1500550940",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/ps4-slim-1t-1500550940",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Ps4 Slim 1T",
     "ts": 1778282690
   },
   {
@@ -9850,23 +9869,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Need for speed hot pursuit ",
     "ts": 1778206320
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:11",
-    "fotoUrl": "https://img.olx.com.br/images/19/190606284271997.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/190606284271997.jpg"
-    ],
-    "id": "1500267897",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/elder-ring-1500267897",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Elder ring",
-    "ts": 1778206312
   }
 ]
