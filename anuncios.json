@@ -1,20 +1,40 @@
 [
   {
-    "id": "1472075807",
-    "titulo": "Battlefield 4 Playstation 4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1500501593",
+    "titulo": "Astrobot PS5 ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:00",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "detectado": "17:30",
+    "tempoOlx": "Na OLX desde outubro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-4-playstation-4-1472075807",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/astrobot-ps5-1500501593",
+    "fotoUrl": "https://img.olx.com.br/images/97/972696880810742.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/972696880810742.jpg",
+      "https://img.olx.com.br/images/99/993688761859118.jpg",
+      "https://img.olx.com.br/images/11/110659761995248.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272245
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:00",
     "fotoUrl": "https://img.olx.com.br/images/79/795640248389062.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/795640248389062.jpg"
     ],
-    "defeito": false,
+    "id": "1472075807",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-4-playstation-4-1472075807",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Battlefield 4 Playstation 4",
     "ts": 1778263215
   },
   {
@@ -9794,25 +9814,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Minecraft (Mídia Física)",
     "ts": 1778188818
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:20",
-    "fotoUrl": "https://img.olx.com.br/images/67/676683049301650.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/676683049301650.jpg",
-      "https://img.olx.com.br/images/69/692664040291752.jpg",
-      "https://img.olx.com.br/images/70/705607524115880.jpg"
-    ],
-    "id": "1500161138",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/kingdom-hearts-3-1500161138",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Kingdom Hearts 3",
-    "ts": 1778188811
   }
 ]
