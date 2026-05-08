@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500394333",
-    "titulo": "Playstation 3 (leia a descrição)",
+    "id": "1500065726",
+    "titulo": "Vídeo game Playstation 3",
     "preco": 400,
     "precoRaw": "R$ 400",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "13:38",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-3-leia-a-descricao-1500394333",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-playstation-3-1500065726",
+    "fotoUrl": "https://img.olx.com.br/images/50/503688285694042.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/503688285694042.jpg",
+      "https://img.olx.com.br/images/52/521619165142826.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258314
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:38",
     "fotoUrl": "https://img.olx.com.br/images/61/618608289009739.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/618608289009739.jpg",
       "https://img.olx.com.br/images/62/626654763482191.jpg"
     ],
-    "defeito": false,
+    "id": "1500394333",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-3-leia-a-descricao-1500394333",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Playstation 3 (leia a descrição)",
     "ts": 1778258301
   },
   {
@@ -9798,24 +9817,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Rainbowsix PS4",
     "ts": 1778175335
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:35",
-    "fotoUrl": "https://img.olx.com.br/images/55/558654162612766.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/558654162612766.jpg",
-      "https://img.olx.com.br/images/57/575630167327264.jpg"
-    ],
-    "id": "1500134826",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-silm-1500134826",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
-    "titulo": "PS4 Silm",
-    "ts": 1778175325
   }
 ]
