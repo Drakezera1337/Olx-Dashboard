@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500466234",
-    "titulo": "Aluguel videogame Xbox series S",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "xbox",
+    "id": "1500467600",
+    "titulo": "Ps4 + 6 jogos + 2 controles ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:36",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/aluguel-videogame-xbox-series-s-1500466234",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-6-jogos-2-controles-1500467600",
+    "fotoUrl": "https://img.olx.com.br/images/92/925634528196447.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/925634528196447.jpg",
+      "https://img.olx.com.br/images/93/939689768356981.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778261809
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:36",
     "fotoUrl": "https://img.olx.com.br/images/10/109644285285877.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/109644285285877.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/14/146620763655785.jpg",
       "https://img.olx.com.br/images/15/151629406543039.jpg"
     ],
-    "defeito": false,
+    "id": "1500466234",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/aluguel-videogame-xbox-series-s-1500466234",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Aluguel videogame Xbox series S",
     "ts": 1778261799
   },
   {
@@ -9794,24 +9813,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Call Of Duty Modern Warfare - PS4 / PS5 - Leia o anúncio",
     "ts": 1778188742
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:18",
-    "fotoUrl": "https://img.olx.com.br/images/42/426629643185154.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/426629643185154.jpg",
-      "https://img.olx.com.br/images/43/438633166931515.jpg"
-    ],
-    "id": "1500163423",
-    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/lote-jogos-ps4-1500163423",
-    "preco": 780,
-    "precoRaw": "R$ 780",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Lote jogos ps4",
-    "ts": 1778188734
   }
 ]
