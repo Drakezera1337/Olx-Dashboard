@@ -1,21 +1,43 @@
 [
   {
-    "id": "1500254594",
-    "titulo": "PlayStation 4 ",
-    "preco": 1650,
-    "precoRaw": "R$ 1.650",
+    "id": "1500254553",
+    "titulo": "PS4 Slim",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:50",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1500254594",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-slim-1500254553",
+    "fotoUrl": "https://img.olx.com.br/images/50/507663766953575.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/507663766953575.jpg",
+      "https://img.olx.com.br/images/52/523695403764943.jpg",
+      "https://img.olx.com.br/images/54/545677281098813.jpg",
+      "https://img.olx.com.br/images/56/562696529476529.jpg",
+      "https://img.olx.com.br/images/57/575692521025035.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778201447
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:50",
     "fotoUrl": "https://img.olx.com.br/images/79/799673766025000.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/799673766025000.jpg",
       "https://img.olx.com.br/images/80/808630166234944.jpg"
     ],
-    "defeito": false,
+    "id": "1500254594",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1500254594",
+    "preco": 1650,
+    "precoRaw": "R$ 1.650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "PlayStation 4 ",
     "ts": 1778201437
   },
   {
@@ -9781,27 +9803,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Lote de jogos de PS3 e ps4",
     "ts": 1778126079
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:43",
-    "fotoUrl": "https://img.olx.com.br/images/51/515672528345746.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/515672528345746.jpg",
-      "https://img.olx.com.br/images/53/535600283016956.jpg",
-      "https://img.olx.com.br/images/55/556609526160740.jpg",
-      "https://img.olx.com.br/images/56/567618766306205.jpg",
-      "https://img.olx.com.br/images/58/587641881112250.jpg"
-    ],
-    "id": "1499945755",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lego-marvel-in-famous-ps4-1499945755",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "lego marvel + in famous - Ps4",
-    "ts": 1778125390
   }
 ]
