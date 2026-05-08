@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500254553",
-    "titulo": "PS4 Slim",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1500254222",
+    "titulo": "PES 2021 ps4 mídia física",
+    "preco": 399,
+    "precoRaw": "R$ 399",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:50",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-slim-1500254553",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-2021-ps4-midia-fisica-1500254222",
+    "fotoUrl": "https://img.olx.com.br/images/60/600615045465057.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/600615045465057.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778201455
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:50",
     "fotoUrl": "https://img.olx.com.br/images/50/507663766953575.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/507663766953575.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/56/562696529476529.jpg",
       "https://img.olx.com.br/images/57/575692521025035.jpg"
     ],
-    "defeito": false,
+    "id": "1500254553",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-slim-1500254553",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PS4 Slim",
     "ts": 1778201447
   },
   {
@@ -9783,25 +9801,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "IPhone 12/13/14 - Seminovos - Com Garantia ",
     "ts": 1778126081
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:54",
-    "fotoUrl": "https://img.olx.com.br/images/23/232626641187284.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/232626641187284.jpg",
-      "https://img.olx.com.br/images/25/253601889359959.jpg",
-      "https://img.olx.com.br/images/25/251667164029853.jpg"
-    ],
-    "id": "1499947101",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lote-de-jogos-de-ps3-e-ps4-1499947101",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2017",
-    "titulo": "Lote de jogos de PS3 e ps4",
-    "ts": 1778126079
   }
 ]
