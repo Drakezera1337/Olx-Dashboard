@@ -1,22 +1,42 @@
 [
   {
-    "id": "1500487710",
-    "titulo": "Guitarra PS3 Guitar Hero",
-    "preco": 889,
-    "precoRaw": "R$ 889",
-    "categoria": "ps3",
+    "id": "1500487474",
+    "titulo": "Volante Multilaser Js090",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "17:33",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "tempoOlx": "Na OLX desde abril de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/guitarra-ps3-guitar-hero-1500487710",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/volante-multilaser-js090-1500487474",
+    "fotoUrl": "https://img.olx.com.br/images/77/775648520047758.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/775648520047758.jpg",
+      "https://img.olx.com.br/images/79/792654283457260.jpg",
+      "https://img.olx.com.br/images/80/807657404239923.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272417
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:33",
     "fotoUrl": "https://img.olx.com.br/images/70/707663644224469.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/707663644224469.jpg",
       "https://img.olx.com.br/images/70/701661404351331.jpg",
       "https://img.olx.com.br/images/70/702692165262741.jpg"
     ],
-    "defeito": false,
+    "id": "1500487710",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/guitarra-ps3-guitar-hero-1500487710",
+    "preco": 889,
+    "precoRaw": "R$ 889",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "Guitarra PS3 Guitar Hero",
     "ts": 1778272409
   },
   {
@@ -9817,23 +9837,5 @@
     "tempoOlx": "Na OLX desde outubro de 2025",
     "titulo": " Jogo PS4 The Division ",
     "ts": 1778189671
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:34",
-    "fotoUrl": "https://img.olx.com.br/images/77/775627760259790.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/775627760259790.jpg"
-    ],
-    "id": "1500206311",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-ps4-1500206311",
-    "preco": 20,
-    "precoRaw": "R$ 20",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Call of duty ps4",
-    "ts": 1778189664
   }
 ]
