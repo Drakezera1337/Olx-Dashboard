@@ -1,15 +1,48 @@
 [
   {
-    "id": "1500508250",
-    "titulo": "iPhone 17 pro Max",
-    "preco": 6800,
-    "precoRaw": "R$ 6.800",
-    "categoria": "iphone",
+    "id": "1427623994",
+    "titulo": "Nioh - PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:43",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "tempoOlx": "Na OLX desde abril de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-1500508250",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/nioh-ps4-1427623994",
+    "fotoUrl": "https://img.olx.com.br/images/12/122588197140790.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/122588197140790.jpg",
+      "https://img.olx.com.br/images/14/141507797638136.jpg",
+      "https://img.olx.com.br/images/16/166560075326146.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272996
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:43",
+    "fotoUrl": "https://img.olx.com.br/images/89/894659289847750.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/894659289847750.jpg",
+      "https://img.olx.com.br/images/47/470695402731351.jpg"
+    ],
+    "id": "1500496441",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/never-dead-ps3-lacrado-1500496441",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "titulo": "Never Dead - PS3 - (lacrado)",
+    "ts": 1778272989
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:43",
     "fotoUrl": "https://img.olx.com.br/images/49/497684040192326.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/497684040192326.jpg",
@@ -19,7 +52,13 @@
       "https://img.olx.com.br/images/57/577690408821471.jpg",
       "https://img.olx.com.br/images/58/587630401398662.jpg"
     ],
-    "defeito": false,
+    "id": "1500508250",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-1500508250",
+    "preco": 6800,
+    "precoRaw": "R$ 6.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "titulo": "iPhone 17 pro Max",
     "ts": 1778272987
   },
   {
@@ -9823,46 +9862,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Watch Dogs: Legion - PS4",
     "ts": 1778195409
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:05",
-    "fotoUrl": "https://img.olx.com.br/images/44/448544358458269.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/448544358458269.jpg",
-      "https://img.olx.com.br/images/44/449526951134886.jpg",
-      "https://img.olx.com.br/images/44/440553350953402.jpg",
-      "https://img.olx.com.br/images/44/447584115183120.jpg"
-    ],
-    "id": "1360516171",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/silent-hill-hd-collection-ps3-midia-fisica-original-impecavel-usado-1360516171",
-    "preco": 155,
-    "precoRaw": "R$ 155",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2013",
-    "titulo": "Silent Hill HD Collection PS3 Midia Fisica Original Impecavel Usado",
-    "ts": 1778195108
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:04",
-    "fotoUrl": "https://img.olx.com.br/images/89/895692605890556.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/895692605890556.jpg",
-      "https://img.olx.com.br/images/90/907662727190256.jpg",
-      "https://img.olx.com.br/images/92/922663723664763.jpg"
-    ],
-    "id": "1468199107",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/the-witcher-3-1468199107",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "The witcher 3",
-    "ts": 1778195079
   }
 ]
