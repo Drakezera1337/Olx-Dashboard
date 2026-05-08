@@ -1,21 +1,41 @@
 [
   {
-    "id": "1499659070",
-    "titulo": "PS4 SLIM",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1500371942",
+    "titulo": "Xbox",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "08:54",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "detectado": "08:55",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1499659070",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-1500371942",
+    "fotoUrl": "https://img.olx.com.br/images/72/723686643928107.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/723686643928107.jpg",
+      "https://img.olx.com.br/images/74/748670048854694.jpg",
+      "https://img.olx.com.br/images/75/753646761051364.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778241316
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:54",
     "fotoUrl": "https://img.olx.com.br/images/70/703620166404722.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/703620166404722.jpg",
       "https://img.olx.com.br/images/73/734659642286535.jpg"
     ],
-    "defeito": false,
+    "id": "1499659070",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1499659070",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "PS4 SLIM",
     "ts": 1778241298
   },
   {
@@ -9824,25 +9844,5 @@
     "tempoOlx": "Na OLX desde outubro de 2020",
     "titulo": "Oculos VR2 para PS5 + Gran Turismo 7",
     "ts": 1778164540
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:35",
-    "fotoUrl": "https://img.olx.com.br/images/93/932681270955259.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/932681270955259.jpg",
-      "https://img.olx.com.br/images/95/952689750693842.jpg",
-      "https://img.olx.com.br/images/99/999616150907477.jpg"
-    ],
-    "id": "1496655442",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/vende-se-xbox-series-s-seminovo-1496655442",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "Vende-se Xbox Series S seminovo",
-    "ts": 1778164516
   }
 ]
