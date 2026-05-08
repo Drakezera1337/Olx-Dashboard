@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500272787",
-    "titulo": "Xbox Series S",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "xbox",
+    "id": "1500262239",
+    "titulo": "Guitarra para ps3 pc Com Dongle",
+    "preco": 475,
+    "precoRaw": "R$ 475",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "23:43",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "detectado": "23:48",
+    "tempoOlx": "Na OLX desde outubro de 2017",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-series-s-1500272787",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/guitarra-para-ps3-pc-com-dongle-1500262239",
+    "fotoUrl": "https://img.olx.com.br/images/74/749679401735968.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/749679401735968.jpg",
+      "https://img.olx.com.br/images/75/755693282168152.jpg",
+      "https://img.olx.com.br/images/77/771639883690017.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778208487
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:43",
     "fotoUrl": "https://img.olx.com.br/images/34/341621523947630.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/341621523947630.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/39/391647043887543.jpg",
       "https://img.olx.com.br/images/41/414613649293522.jpg"
     ],
-    "defeito": false,
+    "id": "1500272787",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-series-s-1500272787",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "Xbox Series S",
     "ts": 1778208216
   },
   {
@@ -9782,25 +9802,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Jogo god of War (ragnarok)",
     "ts": 1778162792
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:06",
-    "fotoUrl": "https://img.olx.com.br/images/32/323684168213978.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/323684168213978.jpg",
-      "https://img.olx.com.br/images/33/334699888644978.jpg",
-      "https://img.olx.com.br/images/34/340670645672056.jpg"
-    ],
-    "id": "1500031436",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/berserk-band-of-the-hawk-ps4-1500031436",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "Berserk Band of The Hawk Ps4",
-    "ts": 1778162770
   }
 ]
