@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500496259",
-    "titulo": "Xbox series s",
+    "id": "1500485348",
+    "titulo": "Xbox serie s",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "17:32",
-    "tempoOlx": "Na OLX desde outubro de 2025",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1500496259",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-serie-s-1500485348",
+    "fotoUrl": "https://img.olx.com.br/images/33/330607761548833.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/330607761548833.jpg",
+      "https://img.olx.com.br/images/35/356667761939357.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272369
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/26/265681168849689.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/265681168849689.jpg",
       "https://img.olx.com.br/images/28/284614762343952.jpg",
       "https://img.olx.com.br/images/30/301634281566881.jpg"
     ],
-    "defeito": false,
+    "id": "1500496259",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1500496259",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2025",
+    "titulo": "Xbox series s",
     "ts": 1778272361
   },
   {
@@ -9808,23 +9827,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Bloodborne Ps4 PT BR ",
     "ts": 1778189315
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/61/610570175829780.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/610570175829780.jpg"
-    ],
-    "id": "1412401282",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/uncharted-the-lost-legacy-ps4-1412401282",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Uncharted: The Lost Legacy - PS4",
-    "ts": 1778189307
   }
 ]
