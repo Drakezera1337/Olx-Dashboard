@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500394287",
-    "titulo": "PlayStation 4 (PS4) 500GB",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps4",
+    "id": "1482036224",
+    "titulo": "PS5 1TB",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:47",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "13:48",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-ps4-500gb-1500394287",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps5-1tb-1482036224",
+    "fotoUrl": "https://img.olx.com.br/images/41/412669380119788.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/412669380119788.jpg",
+      "https://img.olx.com.br/images/45/459683264640635.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258918
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:47",
     "fotoUrl": "https://img.olx.com.br/images/93/933673162201897.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/933673162201897.jpg",
       "https://img.olx.com.br/images/94/944636767409891.jpg"
     ],
-    "defeito": false,
+    "id": "1500394287",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-ps4-500gb-1500394287",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "PlayStation 4 (PS4) 500GB",
     "ts": 1778258873
   },
   {
@@ -9790,26 +9809,5 @@
     "tempoOlx": "Na OLX desde setembro de 2022",
     "titulo": "Ps4 slim 1 tera de memória ",
     "ts": 1778188520
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:15",
-    "fotoUrl": "https://img.olx.com.br/images/43/432651526299694.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/432651526299694.jpg",
-      "https://img.olx.com.br/images/43/432639289697026.jpg",
-      "https://img.olx.com.br/images/43/434674643113567.jpg",
-      "https://img.olx.com.br/images/43/432649527003198.jpg"
-    ],
-    "id": "1500180017",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-bluetooth-ipega-jogos-e-pc-1500180017",
-    "preco": 85,
-    "precoRaw": "R$ 85",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2018",
-    "titulo": "Controle Bluetooth Ípega Jogos e PC",
-    "ts": 1778188512
   }
 ]
