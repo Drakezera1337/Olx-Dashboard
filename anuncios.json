@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500391285",
-    "titulo": "Xbox Séries S ",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
+    "id": "1500133463",
+    "titulo": "Xbox Series S - 512gb - SSD",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "13:37",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1500391285",
+    "link": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/consoles-de-video-game/xbox-series-s-512gb-ssd-1500133463",
+    "fotoUrl": "https://img.olx.com.br/images/74/742671523395424.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/742671523395424.jpg",
+      "https://img.olx.com.br/images/76/761616287577679.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258248
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:37",
     "fotoUrl": "https://img.olx.com.br/images/85/852680644898758.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/852680644898758.jpg",
       "https://img.olx.com.br/images/87/871617640419598.jpg"
     ],
-    "defeito": false,
+    "id": "1500391285",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1500391285",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox Séries S ",
     "ts": 1778258239
   },
   {
@@ -9784,23 +9803,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "GTA V Edição Premium!",
     "ts": 1778174949
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:26",
-    "fotoUrl": "https://img.olx.com.br/images/70/702588332406342.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/702588332406342.jpg"
-    ],
-    "id": "1424329070",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/pes-2015-ps3-1424329070",
-    "preco": 20,
-    "precoRaw": "R$ 20",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Pes 2015 - Ps3",
-    "ts": 1778174794
   }
 ]
