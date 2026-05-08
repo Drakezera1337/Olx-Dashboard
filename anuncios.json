@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500420149",
-    "titulo": "Astrobot PS5",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "categoria": "ps5",
+    "id": "1500413076",
+    "titulo": "Astrobot ",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:34",
-    "tempoOlx": "Na OLX desde outubro de 2021",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/astrobot-ps5-1500420149",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/astrobot-1500413076",
+    "fotoUrl": "https://img.olx.com.br/images/92/929660646936642.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/929660646936642.jpg",
+      "https://img.olx.com.br/images/95/955670644900765.jpg",
+      "https://img.olx.com.br/images/98/986680647167739.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258049
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:34",
     "fotoUrl": "https://img.olx.com.br/images/31/316681162793169.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/316681162793169.jpg"
     ],
-    "defeito": false,
+    "id": "1500420149",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/astrobot-ps5-1500420149",
+    "preco": 230,
+    "precoRaw": "R$ 230",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "Astrobot PS5",
     "ts": 1778258040
   },
   {
@@ -9789,24 +9809,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "W2K15 (WWE15) PS4",
     "ts": 1778173094
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:57",
-    "fotoUrl": "https://img.olx.com.br/images/31/314602841840971.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/314602841840971.jpg",
-      "https://img.olx.com.br/images/31/312610244563799.jpg"
-    ],
-    "id": "1425078341",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ufc-1-ps4-1425078341",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "UFC 1 PS4",
-    "ts": 1778173077
   }
 ]
