@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500486063",
-    "titulo": "JOGO DE PLAYSTATION 4 A VENDA",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1500511519",
+    "titulo": "Jogos de vídeo game 4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:01",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "18:07",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-de-playstation-4-a-venda-1500486063",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-de-video-game-4-1500511519",
+    "fotoUrl": "https://img.olx.com.br/images/92/927601640140448.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/927601640140448.jpg",
+      "https://img.olx.com.br/images/93/939689640805633.jpg",
+      "https://img.olx.com.br/images/94/945674400524102.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778274427
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:01",
     "fotoUrl": "https://img.olx.com.br/images/23/237625405621928.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/237625405621928.jpg",
       "https://img.olx.com.br/images/25/253655769839102.jpg"
     ],
-    "defeito": false,
+    "id": "1500486063",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-de-playstation-4-a-venda-1500486063",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "JOGO DE PLAYSTATION 4 A VENDA",
     "ts": 1778274093
   },
   {
@@ -9861,23 +9881,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Bloodstained - Ritual of the Night",
     "ts": 1778195866
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:17",
-    "fotoUrl": "https://img.olx.com.br/images/13/137645286017583.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/137645286017583.jpg"
-    ],
-    "id": "1500227974",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/cyberpunk-2077-1500227974",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "Cyberpunk 2077",
-    "ts": 1778195859
   }
 ]
