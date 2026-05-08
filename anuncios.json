@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500452798",
-    "titulo": "Nintendo Switch com Jogos",
-    "preco": 879,
-    "precoRaw": "R$ 879",
+    "id": "1500447186",
+    "titulo": "Nintendo Switch Lite",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "switch",
     "publicado": "",
     "detectado": "13:38",
-    "tempoOlx": "Na OLX desde julho de 2024",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/nintendo-switch-com-jogos-1500452798",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/consoles-de-video-game/nintendo-switch-lite-1500447186",
+    "fotoUrl": "https://img.olx.com.br/images/15/150637168193309.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/150637168193309.jpg",
+      "https://img.olx.com.br/images/17/172697526500057.jpg",
+      "https://img.olx.com.br/images/18/182680167347276.jpg",
+      "https://img.olx.com.br/images/19/192684281109889.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258331
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:38",
     "fotoUrl": "https://img.olx.com.br/images/97/979679527856642.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/979679527856642.jpg",
       "https://img.olx.com.br/images/98/986631527577115.jpg",
       "https://img.olx.com.br/images/11/115637285954075.jpg"
     ],
-    "defeito": false,
+    "id": "1500452798",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/nintendo-switch-com-jogos-1500452798",
+    "preco": 879,
+    "precoRaw": "R$ 879",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "titulo": "Nintendo Switch com Jogos",
     "ts": 1778258322
   },
   {
@@ -9799,24 +9820,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Destiny PS4",
     "ts": 1778175353
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:35",
-    "fotoUrl": "https://img.olx.com.br/images/62/621639027367490.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/621639027367490.jpg",
-      "https://img.olx.com.br/images/63/631618384734743.jpg"
-    ],
-    "id": "1490126564",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nba2k-20-1490126564",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "NBA2K 20",
-    "ts": 1778175343
   }
 ]
