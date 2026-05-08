@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500488134",
-    "titulo": "JOGO DE PLAYSTATION 4 A VENDA!",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1500486063",
+    "titulo": "JOGO DE PLAYSTATION 4 A VENDA",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:01",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-de-playstation-4-a-venda-1500488134",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-de-playstation-4-a-venda-1500486063",
+    "fotoUrl": "https://img.olx.com.br/images/23/237625405621928.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/237625405621928.jpg",
+      "https://img.olx.com.br/images/25/253655769839102.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778274093
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:01",
     "fotoUrl": "https://img.olx.com.br/images/98/987660406908924.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/987660406908924.jpg",
       "https://img.olx.com.br/images/99/994633882818402.jpg"
     ],
-    "defeito": false,
+    "id": "1500488134",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-de-playstation-4-a-venda-1500488134",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "JOGO DE PLAYSTATION 4 A VENDA!",
     "ts": 1778274085
   },
   {
@@ -9860,25 +9879,5 @@
     "tempoOlx": "Na OLX desde junho de 2021",
     "titulo": "Cyberpunk 2077",
     "ts": 1778195859
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:17",
-    "fotoUrl": "https://img.olx.com.br/images/25/255613157307376.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/255613157307376.jpg",
-      "https://img.olx.com.br/images/27/276610637139417.jpg",
-      "https://img.olx.com.br/images/28/282654512095915.jpg"
-    ],
-    "id": "1495198795",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-ps4-video-game-1495198795",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "PlayStation Ps4 video game",
-    "ts": 1778195848
   }
 ]
