@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500487474",
-    "titulo": "Volante Multilaser Js090",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "outros",
+    "id": "1500487108",
+    "titulo": "Nintendo Wii U Desbloqueado Deluxe",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "17:33",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/volante-multilaser-js090-1500487474",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/nintendo-wii-u-desbloqueado-deluxe-1500487108",
+    "fotoUrl": "https://img.olx.com.br/images/86/863671403843093.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/863671403843093.jpg",
+      "https://img.olx.com.br/images/88/882678164290942.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272425
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:33",
     "fotoUrl": "https://img.olx.com.br/images/77/775648520047758.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/775648520047758.jpg",
       "https://img.olx.com.br/images/79/792654283457260.jpg",
       "https://img.olx.com.br/images/80/807657404239923.jpg"
     ],
-    "defeito": false,
+    "id": "1500487474",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/volante-multilaser-js090-1500487474",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Volante Multilaser Js090",
     "ts": 1778272417
   },
   {
@@ -9819,23 +9838,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "God of War 3 Remastered PS4 Original",
     "ts": 1778189680
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:34",
-    "fotoUrl": "https://img.olx.com.br/images/61/617650611316246.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/617650611316246.jpg"
-    ],
-    "id": "1467826844",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogo-ps4-the-division-1467826844",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2025",
-    "titulo": " Jogo PS4 The Division ",
-    "ts": 1778189671
   }
 ]
