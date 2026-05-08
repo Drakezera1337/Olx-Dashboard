@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500487108",
-    "titulo": "Nintendo Wii U Desbloqueado Deluxe",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "switch",
+    "id": "1500486442",
+    "titulo": "Xbox One S 500GB com controle e Cyberpunk 2077",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "17:33",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde abril de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/nintendo-wii-u-desbloqueado-deluxe-1500487108",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/xbox-one-s-500gb-com-controle-e-cyberpunk-2077-1500486442",
+    "fotoUrl": "https://img.olx.com.br/images/11/119685525024372.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/119685525024372.jpg",
+      "https://img.olx.com.br/images/12/125685408313284.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272433
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:33",
     "fotoUrl": "https://img.olx.com.br/images/86/863671403843093.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/863671403843093.jpg",
       "https://img.olx.com.br/images/88/882678164290942.jpg"
     ],
-    "defeito": false,
+    "id": "1500487108",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/nintendo-wii-u-desbloqueado-deluxe-1500487108",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Nintendo Wii U Desbloqueado Deluxe",
     "ts": 1778272425
   },
   {
@@ -9819,24 +9838,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2022",
     "titulo": "God of war 2018",
     "ts": 1778189690
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:34",
-    "fotoUrl": "https://img.olx.com.br/images/52/521653165726881.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/521653165726881.jpg",
-      "https://img.olx.com.br/images/53/535645646476934.jpg"
-    ],
-    "id": "1500205613",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/god-of-war-3-remastered-ps4-original-1500205613",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "God of War 3 Remastered PS4 Original",
-    "ts": 1778189680
   }
 ]
