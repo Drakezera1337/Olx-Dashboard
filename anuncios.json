@@ -1,20 +1,43 @@
 [
   {
-    "id": "1332017275",
-    "titulo": "PS3 - Madagascar",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps3",
+    "id": "1500385265",
+    "titulo": "PSP Vita",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "09:23",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "09:24",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps3-madagascar-1332017275",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psp-vita-1500385265",
+    "fotoUrl": "https://img.olx.com.br/images/61/616634648517757.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/616634648517757.jpg",
+      "https://img.olx.com.br/images/62/621608166434804.jpg",
+      "https://img.olx.com.br/images/65/658614407040878.jpg",
+      "https://img.olx.com.br/images/66/662697640696701.jpg",
+      "https://img.olx.com.br/images/68/688650768462258.jpg",
+      "https://img.olx.com.br/images/69/698653041974443.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778243050
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:23",
     "fotoUrl": "https://img.olx.com.br/images/65/650565383388944.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/650565383388944.jpg"
     ],
-    "defeito": false,
+    "id": "1332017275",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps3-madagascar-1332017275",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "PS3 - Madagascar",
     "ts": 1778243016
   },
   {
@@ -9788,24 +9811,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "titulo": "Jogo Ps4 original ",
     "ts": 1778172706
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:51",
-    "fotoUrl": "https://img.olx.com.br/images/16/160659649714691.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/160659649714691.jpg",
-      "https://img.olx.com.br/images/18/186687524402779.jpg"
-    ],
-    "id": "1500123184",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-original-1500123184",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Jogo ps4 original ",
-    "ts": 1778172696
   }
 ]
