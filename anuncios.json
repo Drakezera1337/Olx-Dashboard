@@ -1,21 +1,40 @@
 [
   {
-    "id": "1474554282",
-    "titulo": "Dirt 4 PS4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1474554969",
+    "titulo": "Tekken 7 PS4",
+    "preco": 130,
+    "precoRaw": "R$ 130",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:00",
     "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dirt-4-ps4-1474554282",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/tekken-7-ps4-1474554969",
+    "fotoUrl": "https://img.olx.com.br/images/30/306668257302299.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/306668257302299.jpg",
+      "https://img.olx.com.br/images/30/303660616433538.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778241636
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:00",
     "fotoUrl": "https://img.olx.com.br/images/97/970633854118732.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/970633854118732.jpg",
       "https://img.olx.com.br/images/97/977687491876098.jpg"
     ],
-    "defeito": false,
+    "id": "1474554282",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dirt-4-ps4-1474554282",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Dirt 4 PS4",
     "ts": 1778241627
   },
   {
@@ -9805,28 +9824,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Madden 19 NFL - PS4",
     "ts": 1778167686
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:24",
-    "fotoUrl": "https://img.olx.com.br/images/15/153673642837927.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/153673642837927.jpg",
-      "https://img.olx.com.br/images/17/170646640705196.jpg",
-      "https://img.olx.com.br/images/19/191627167674181.jpg",
-      "https://img.olx.com.br/images/21/213651285080652.jpg",
-      "https://img.olx.com.br/images/23/230666761333084.jpg",
-      "https://img.olx.com.br/images/25/258633769302098.jpg"
-    ],
-    "id": "1500096606",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/consoles-de-video-game/ps-portal-playstation-1500096606",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2020",
-    "titulo": "PS Portal (PlayStation)",
-    "ts": 1778167480
   }
 ]
