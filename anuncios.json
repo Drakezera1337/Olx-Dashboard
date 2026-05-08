@@ -1,15 +1,29 @@
 [
   {
-    "id": "1492266107",
-    "titulo": "PS5 | Aluguéis ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps5",
+    "id": "1500060222",
+    "titulo": "Playstation vr2 estado de novo ",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:34",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "tempoOlx": "Na OLX desde setembro de 2020",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/ps5-alugueis-1492266107",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/playstation-vr2-estado-de-novo-1500060222",
+    "fotoUrl": "https://img.olx.com.br/images/94/949644884646440.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/949644884646440.jpg",
+      "https://img.olx.com.br/images/96/961670044174559.jpg",
+      "https://img.olx.com.br/images/98/985629166488697.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258091
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:34",
     "fotoUrl": "https://img.olx.com.br/images/87/875671270779097.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/875671270779097.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/19/193631768989244.jpg",
       "https://img.olx.com.br/images/21/214617167300632.jpg"
     ],
-    "defeito": false,
+    "id": "1492266107",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/ps5-alugueis-1492266107",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "PS5 | Aluguéis ",
     "ts": 1778258083
   },
   {
@@ -9794,24 +9814,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "The Witcher 3 Complete Edition PS4",
     "ts": 1778173143
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:58",
-    "fotoUrl": "https://img.olx.com.br/images/51/514605611873710.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/514605611873710.jpg",
-      "https://img.olx.com.br/images/51/517621016502706.jpg"
-    ],
-    "id": "1474541578",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-hardline-ps4-1474541578",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Battlefield Hardline PS4",
-    "ts": 1778173134
   }
 ]
