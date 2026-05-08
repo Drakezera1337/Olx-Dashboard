@@ -1,22 +1,41 @@
 [
   {
-    "id": "1492188233",
-    "titulo": "Batman ",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "outros",
+    "id": "1492190028",
+    "titulo": "Gran turismo 7 novo lacrado ",
+    "preco": 125,
+    "precoRaw": "R$ 125",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "08:58",
     "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/batman-1492188233",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/gran-turismo-7-novo-lacrado-1492190028",
+    "fotoUrl": "https://img.olx.com.br/images/86/860652158192197.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/860652158192197.jpg",
+      "https://img.olx.com.br/images/93/938628517790613.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778241513
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:58",
     "fotoUrl": "https://img.olx.com.br/images/45/450686039625851.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/450686039625851.jpg",
       "https://img.olx.com.br/images/48/489636150756793.jpg",
       "https://img.olx.com.br/images/51/517673755960116.jpg"
     ],
-    "defeito": false,
+    "id": "1492188233",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/batman-1492188233",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Batman ",
     "ts": 1778241505
   },
   {
@@ -9820,23 +9839,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Jogo THE LAST OF US 2 Playstation 4 usado",
     "ts": 1778166268
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:04",
-    "fotoUrl": "https://img.olx.com.br/images/50/509636282654493.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/509636282654493.jpg"
-    ],
-    "id": "1500091924",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/vendo-ou-troco-1500091924",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Vendo ou troco ",
-    "ts": 1778166249
   }
 ]
