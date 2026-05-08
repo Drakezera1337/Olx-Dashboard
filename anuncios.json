@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500448333",
-    "titulo": "iPhone 11 128 GB 70% bateria",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "iphone",
+    "id": "1500420149",
+    "titulo": "Astrobot PS5",
+    "preco": 230,
+    "precoRaw": "R$ 230",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:33",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "13:34",
+    "tempoOlx": "Na OLX desde outubro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128-gb-70-bateria-1500448333",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/astrobot-ps5-1500420149",
+    "fotoUrl": "https://img.olx.com.br/images/31/316681162793169.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/316681162793169.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258040
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:33",
     "fotoUrl": "https://img.olx.com.br/images/82/829605165604988.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/829605165604988.jpg"
     ],
-    "defeito": false,
+    "id": "1500448333",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128-gb-70-bateria-1500448333",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "iPhone 11 128 GB 70% bateria",
     "ts": 1778258035
   },
   {
@@ -9790,24 +9808,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "UFC 1 PS4",
     "ts": 1778173077
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:57",
-    "fotoUrl": "https://img.olx.com.br/images/18/184668388268495.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/184668388268495.jpg",
-      "https://img.olx.com.br/images/18/181660507485587.jpg"
-    ],
-    "id": "1425077972",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-3-ps4-1425077972",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "The Witcher 3 Ps4",
-    "ts": 1778173069
   }
 ]
