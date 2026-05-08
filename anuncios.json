@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500454185",
-    "titulo": "PS4",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "ps4",
+    "id": "1500454126",
+    "titulo": "XBOX ONE  EDIÇÃO EXCLUSIVO DO FORZA MOTORSPORT 6",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "13:49",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/consoles-de-video-game/ps4-1500454185",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-edicao-exclusivo-do-forza-motorsport-6-1500454126",
+    "fotoUrl": "https://img.olx.com.br/images/41/412616161368968.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/412616161368968.jpg",
+      "https://img.olx.com.br/images/42/425652768949995.jpg",
+      "https://img.olx.com.br/images/44/446673409716701.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258953
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:49",
     "fotoUrl": "https://img.olx.com.br/images/86/862619529799571.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/862619529799571.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/88/883695526241338.jpg",
       "https://img.olx.com.br/images/90/903660761393494.jpg"
     ],
-    "defeito": false,
+    "id": "1500454185",
+    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/consoles-de-video-game/ps4-1500454185",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "PS4",
     "ts": 1778258944
   },
   {
@@ -9789,25 +9809,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Combo Jogos PS4 Uncharted + Sombras da Guerra",
     "ts": 1778188556
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:15",
-    "fotoUrl": "https://img.olx.com.br/images/49/496691762740233.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/496691762740233.jpg",
-      "https://img.olx.com.br/images/51/513665160610834.jpg",
-      "https://img.olx.com.br/images/52/524615285122056.jpg"
-    ],
-    "id": "1500193631",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/gta-5-ps4-sem-capa-1500193631",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "GTA 5 ps4 (sem capa) ",
-    "ts": 1778188546
   }
 ]
