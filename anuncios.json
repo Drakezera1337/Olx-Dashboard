@@ -1,7 +1,7 @@
 [
   {
-    "id": "1483046618",
-    "titulo": "Wolfenstein 2",
+    "id": "1483042759",
+    "titulo": "Doom ",
     "preco": 50,
     "precoRaw": "R$ 50",
     "categoria": "outros",
@@ -9,13 +9,32 @@
     "detectado": "21:44",
     "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/wolfenstein-2-1483046618",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/doom-1483042759",
+    "fotoUrl": "https://img.olx.com.br/images/23/232671140734316.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/232671140734316.jpg",
+      "https://img.olx.com.br/images/24/246620145537704.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778201090
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:44",
     "fotoUrl": "https://img.olx.com.br/images/75/752618869126986.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/752618869126986.jpg",
       "https://img.olx.com.br/images/77/776683268082040.jpg"
     ],
-    "defeito": false,
+    "id": "1483046618",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/wolfenstein-2-1483046618",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "Wolfenstein 2",
     "ts": 1778201082
   },
   {
@@ -9786,26 +9805,5 @@
     "tempoOlx": "Na OLX desde setembro de 2022",
     "titulo": "Shadow of the Tomb Raider - Definitive Edition | PS4",
     "ts": 1778124386
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:26",
-    "fotoUrl": "https://img.olx.com.br/images/35/356644166903591.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/356644166903591.jpg",
-      "https://img.olx.com.br/images/37/375690049106398.jpg",
-      "https://img.olx.com.br/images/39/391602289040443.jpg",
-      "https://img.olx.com.br/images/40/401608760037297.jpg"
-    ],
-    "id": "1499944731",
-    "link": "https://pa.olx.com.br/regiao-de-maraba/games/jogos-de-video-game/vendo-ou-troco-jogos-para-ps4-1499944731",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2015",
-    "titulo": "Vendo ou troco jogos para PS4",
-    "ts": 1778124378
   }
 ]
