@@ -1,21 +1,42 @@
 [
   {
-    "id": "1500486442",
-    "titulo": "Xbox One S 500GB com controle e Cyberpunk 2077",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1500475052",
+    "titulo": "Playstation 4 Slim",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:33",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "detectado": "17:34",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/xbox-one-s-500gb-com-controle-e-cyberpunk-2077-1500486442",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/playstation-4-slim-1500475052",
+    "fotoUrl": "https://img.olx.com.br/images/24/247673524196994.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/247673524196994.jpg",
+      "https://img.olx.com.br/images/26/268615640865161.jpg",
+      "https://img.olx.com.br/images/27/277600649786543.jpg",
+      "https://img.olx.com.br/images/28/280608280899805.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272441
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:33",
     "fotoUrl": "https://img.olx.com.br/images/11/119685525024372.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/119685525024372.jpg",
       "https://img.olx.com.br/images/12/125685408313284.jpg"
     ],
-    "defeito": false,
+    "id": "1500486442",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/xbox-one-s-500gb-com-controle-e-cyberpunk-2077-1500486442",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Xbox One S 500GB com controle e Cyberpunk 2077",
     "ts": 1778272433
   },
   {
@@ -9818,25 +9839,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "God of War PS4 Original Mídia Física",
     "ts": 1778190008
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:34",
-    "fotoUrl": "https://img.olx.com.br/images/83/837640285250639.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/837640285250639.jpg",
-      "https://img.olx.com.br/images/85/853640642591672.jpg",
-      "https://img.olx.com.br/images/88/887640888896259.jpg"
-    ],
-    "id": "1500205592",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/god-of-war-2018-1500205592",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "God of war 2018",
-    "ts": 1778189690
   }
 ]
