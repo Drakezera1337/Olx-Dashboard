@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500440279",
-    "titulo": "PlayStation 3 fat com defeito não liga",
-    "preco": 199,
-    "precoRaw": "R$ 199",
+    "id": "1500438316",
+    "titulo": "PlayStation 3 com defeito leia a descrição",
+    "preco": 450,
+    "precoRaw": "R$ 450",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "13:37",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-fat-com-defeito-nao-liga-1500440279",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-com-defeito-leia-a-descricao-1500438316",
+    "fotoUrl": "https://img.olx.com.br/images/48/487675044644329.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/487675044644329.jpg",
+      "https://img.olx.com.br/images/50/507636768751695.jpg",
+      "https://img.olx.com.br/images/52/527667163985294.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258274
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:37",
     "fotoUrl": "https://img.olx.com.br/images/55/556606287653963.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/556606287653963.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/61/619622761448254.jpg",
       "https://img.olx.com.br/images/62/627672281030347.jpg"
     ],
-    "defeito": false,
+    "id": "1500440279",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-fat-com-defeito-nao-liga-1500440279",
+    "preco": 199,
+    "precoRaw": "R$ 199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "PlayStation 3 fat com defeito não liga",
     "ts": 1778258267
   },
   {
@@ -9790,23 +9810,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Trials Rising Edição Gold - Ps4",
     "ts": 1778174975
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:29",
-    "fotoUrl": "https://img.olx.com.br/images/95/957656725008776.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/957656725008776.jpg"
-    ],
-    "id": "1466229478",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/wrc-6-r-89-1466229478",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "WRC 6 - R$89",
-    "ts": 1778174965
   }
 ]
