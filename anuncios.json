@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500487781",
-    "titulo": "The Order 1886 Playstation 4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1500486146",
+    "titulo": "Camisa uncharted Pitica",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "17:31",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/the-order-1886-playstation-4-1500487781",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/camisa-uncharted-pitica-1500486146",
+    "fotoUrl": "https://img.olx.com.br/images/85/852643284407734.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/852643284407734.jpg",
+      "https://img.olx.com.br/images/86/868677641832252.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272303
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:31",
     "fotoUrl": "https://img.olx.com.br/images/87/879668285238634.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/879668285238634.jpg",
       "https://img.olx.com.br/images/88/880671525728900.jpg"
     ],
-    "defeito": false,
+    "id": "1500487781",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/the-order-1886-playstation-4-1500487781",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "The Order 1886 Playstation 4",
     "ts": 1778272295
   },
   {
@@ -9805,23 +9824,5 @@
     "tempoOlx": "Na OLX desde setembro de 2022",
     "titulo": "PES 2021",
     "ts": 1778188956
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:22",
-    "fotoUrl": "https://img.olx.com.br/images/51/518674283231212.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/518674283231212.jpg"
-    ],
-    "id": "1500203438",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-2018-1500203438",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
-    "titulo": "God of war 2018 ",
-    "ts": 1778188948
   }
 ]
