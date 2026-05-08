@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500267933",
-    "titulo": "PES 2020 PS4 ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1500267785",
+    "titulo": "Battlefield Bad Company 1 ",
+    "preco": 13,
+    "precoRaw": "R$ 13",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "23:10",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/pes-2020-ps4-1500267933",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-bad-company-1-1500267785",
+    "fotoUrl": "https://img.olx.com.br/images/92/927671406952782.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/927671406952782.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778206216
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:10",
     "fotoUrl": "https://img.olx.com.br/images/44/446666284972950.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/446666284972950.jpg",
       "https://img.olx.com.br/images/47/477676769776598.jpg",
       "https://img.olx.com.br/images/49/493687760374907.jpg"
     ],
-    "defeito": false,
+    "id": "1500267933",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/pes-2020-ps4-1500267933",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PES 2020 PS4 ",
     "ts": 1778206208
   },
   {
@@ -9765,26 +9783,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Ps4",
     "ts": 1778162380
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:59",
-    "fotoUrl": "https://img.olx.com.br/images/16/165698289147722.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/165698289147722.jpg",
-      "https://img.olx.com.br/images/18/188615882225263.jpg",
-      "https://img.olx.com.br/images/19/194687041091120.jpg",
-      "https://img.olx.com.br/images/20/205603280005224.jpg"
-    ],
-    "id": "1500054555",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/ps4-slim-1tb-1500054555",
-    "preco": 1299,
-    "precoRaw": "R$ 1.299",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2018",
-    "titulo": "PS4 Slim 1TB ",
-    "ts": 1778162371
   }
 ]
