@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500294764",
-    "titulo": "STEELBOOK THE LAST OF US II (PS4)",
-    "preco": 310,
-    "precoRaw": "R$ 310",
-    "categoria": "ps4",
+    "id": "1500303175",
+    "titulo": "iPhone 11",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "01:32",
-    "tempoOlx": "Na OLX desde abril de 2025",
+    "detectado": "02:20",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/steelbook-the-last-of-us-ii-ps4-1500294764",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500303175",
+    "fotoUrl": "https://img.olx.com.br/images/13/139672400249153.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/139672400249153.jpg",
+      "https://img.olx.com.br/images/16/166694760839375.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778217643
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:32",
     "fotoUrl": "https://img.olx.com.br/images/64/640674646951213.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/640674646951213.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/68/686675649172739.jpg",
       "https://img.olx.com.br/images/70/700650168533984.jpg"
     ],
-    "defeito": false,
+    "id": "1500294764",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/steelbook-the-last-of-us-ii-ps4-1500294764",
+    "preco": 310,
+    "precoRaw": "R$ 310",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "STEELBOOK THE LAST OF US II (PS4)",
     "ts": 1778214759
   },
   {
@@ -9826,23 +9845,5 @@
     "tempoOlx": "Na OLX desde outubro de 2025",
     "titulo": "fonte de Ps4 FAT ",
     "ts": 1778163806
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:23",
-    "fotoUrl": "https://img.olx.com.br/images/13/139695881182742.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/139695881182742.jpg"
-    ],
-    "id": "1499853643",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/v-t-ps5-slim-1-tb-1499853643",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "V/T Ps5 slim 1 TB",
-    "ts": 1778163789
   }
 ]
