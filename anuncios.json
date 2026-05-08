@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500484957",
-    "titulo": "PS4 slim 1TB",
-    "preco": 1295,
-    "precoRaw": "R$ 1.295",
+    "id": "1500484374",
+    "titulo": "Battlefield Hardline PS4 Seminovo",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:38",
-    "tempoOlx": "Na OLX desde março de 2025",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/ps4-slim-1tb-1500484957",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-hardline-ps4-seminovo-1500484374",
+    "fotoUrl": "https://img.olx.com.br/images/28/287670649685989.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/287670649685989.jpg",
+      "https://img.olx.com.br/images/30/301614049111080.jpg",
+      "https://img.olx.com.br/images/31/315697522619216.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272703
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:38",
     "fotoUrl": "https://img.olx.com.br/images/67/678620888195900.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/678620888195900.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/72/725630281198614.jpg",
       "https://img.olx.com.br/images/74/748626407423296.jpg"
     ],
-    "defeito": false,
+    "id": "1500484957",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/ps4-slim-1tb-1500484957",
+    "preco": 1295,
+    "precoRaw": "R$ 1.295",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2025",
+    "titulo": "PS4 slim 1TB",
     "ts": 1778272696
   },
   {
@@ -9842,24 +9862,5 @@
     "tempoOlx": "Na OLX desde maio de 2018",
     "titulo": "Xbox",
     "ts": 1778192887
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:22",
-    "fotoUrl": "https://img.olx.com.br/images/55/557649285275686.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/557649285275686.jpg",
-      "https://img.olx.com.br/images/59/598669527028895.jpg"
-    ],
-    "id": "1500216275",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/pes-2020-1500216275",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "PES 2020",
-    "ts": 1778192559
   }
 ]
