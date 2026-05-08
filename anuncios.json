@@ -1,15 +1,52 @@
 [
   {
-    "id": "1500358243",
-    "titulo": "iPhone 11",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1500352671",
+    "titulo": "iPhone 8 - Cinza Espacial 128gb",
+    "preco": 349,
+    "precoRaw": "R$ 349",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "08:54",
-    "tempoOlx": "Na OLX desde novembro de 2025",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500358243",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-cinza-espacial-128gb-1500352671",
+    "fotoUrl": "https://img.olx.com.br/images/63/630605045255161.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/630605045255161.jpg",
+      "https://img.olx.com.br/images/64/644639527164578.jpg",
+      "https://img.olx.com.br/images/65/656688886761305.jpg",
+      "https://img.olx.com.br/images/66/668624169248881.jpg",
+      "https://img.olx.com.br/images/67/671643526795687.jpg",
+      "https://img.olx.com.br/images/67/679668882435815.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778241278
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:54",
+    "fotoUrl": "https://img.olx.com.br/images/98/980608125913669.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/980608125913669.jpg",
+      "https://img.olx.com.br/images/99/992683725502404.jpg",
+      "https://img.olx.com.br/images/11/114609487872926.jpg"
+    ],
+    "id": "1469440675",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-4-fat-500-gigas-luz-azul-para-conserto-aceitamos-olx-pay-1469440675",
+    "preco": 690,
+    "precoRaw": "R$ 690",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "Play 4 FAT 500 Gigas Luz Azul Para Conserto Aceitamos OLX PAY ",
+    "ts": 1778241271
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:54",
     "fotoUrl": "https://img.olx.com.br/images/37/378647642375758.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/378647642375758.jpg",
@@ -17,7 +54,13 @@
       "https://img.olx.com.br/images/39/399686528891421.jpg",
       "https://img.olx.com.br/images/40/404622160016334.jpg"
     ],
-    "defeito": false,
+    "id": "1500358243",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500358243",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "iPhone 11",
     "ts": 1778241269
   },
   {
@@ -9800,46 +9843,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Jogos de PS4",
     "ts": 1778164168
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:29",
-    "fotoUrl": "https://img.olx.com.br/images/85/857608647015351.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/857608647015351.jpg",
-      "https://img.olx.com.br/images/87/874659284712035.jpg",
-      "https://img.olx.com.br/images/90/908633524347782.jpg",
-      "https://img.olx.com.br/images/91/910620641876800.jpg",
-      "https://img.olx.com.br/images/93/932662408226627.jpg",
-      "https://img.olx.com.br/images/94/944671048175845.jpg"
-    ],
-    "id": "1500077917",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps3-e-ps4-1500077917",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogos PS3 e PS4",
-    "ts": 1778164159
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:29",
-    "fotoUrl": "https://img.olx.com.br/images/21/218610763120175.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/218610763120175.jpg"
-    ],
-    "id": "1500077860",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play4-1500077860",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2021",
-    "titulo": "Play4",
-    "ts": 1778164145
   }
 ]
