@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500505290",
-    "titulo": "Ps4 Slim",
-    "preco": 1550,
-    "precoRaw": "R$ 1.550",
-    "categoria": "ps4",
+    "id": "1500505175",
+    "titulo": "Kit Jogos Psp Socom Fireteam Bravo / Brunswick Pro Bowling",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "17:34",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-1500505290",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/kit-jogos-psp-socom-fireteam-bravo-brunswick-pro-bowling-1500505175",
+    "fotoUrl": "https://img.olx.com.br/images/82/824692040653158.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/824692040653158.jpg",
+      "https://img.olx.com.br/images/82/827624167390930.jpg",
+      "https://img.olx.com.br/images/82/829658044397144.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272465
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:34",
     "fotoUrl": "https://img.olx.com.br/images/23/233602767866404.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/233602767866404.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/23/235647289929370.jpg",
       "https://img.olx.com.br/images/75/755648288540348.jpg"
     ],
-    "defeito": false,
+    "id": "1500505290",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-1500505290",
+    "preco": 1550,
+    "precoRaw": "R$ 1.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps4 Slim",
     "ts": 1778272457
   },
   {
@@ -9822,24 +9842,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": "Star Wars/Farcry 4/Read Dead/ Mortal Kombat 11",
     "ts": 1778190384
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:46",
-    "fotoUrl": "https://img.olx.com.br/images/97/976618049152559.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/976618049152559.jpg",
-      "https://img.olx.com.br/images/13/131665285911646.jpg"
-    ],
-    "id": "1500208710",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/killzone-shadow-fall-playstation-4-usado-1500208710",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Killzone Shadow Fall - Playstation 4 (Usado)",
-    "ts": 1778190375
   }
 ]
