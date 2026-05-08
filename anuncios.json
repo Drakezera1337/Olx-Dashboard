@@ -1,20 +1,38 @@
 [
   {
-    "id": "1483517801",
-    "titulo": "Jogo PS4 Infamous Second Son",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1500377495",
+    "titulo": "Controle de Xbox",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "09:04",
-    "tempoOlx": "Na OLX desde outubro de 2025",
+    "detectado": "09:05",
+    "tempoOlx": "Na OLX desde julho de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-ps4-infamous-second-son-1483517801",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/controle-de-xbox-1500377495",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1778241905
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:04",
     "fotoUrl": "https://img.olx.com.br/images/78/787635864163764.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/787635864163764.jpg"
     ],
-    "defeito": false,
+    "id": "1483517801",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-ps4-infamous-second-son-1483517801",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2025",
+    "titulo": "Jogo PS4 Infamous Second Son",
     "ts": 1778241874
   },
   {
@@ -9800,25 +9818,5 @@
     "tempoOlx": "Na OLX desde outubro de 2023",
     "titulo": "Vendo ps4",
     "ts": 1778170207
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:09",
-    "fotoUrl": "https://img.olx.com.br/images/51/512573317830388.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/512573317830388.jpg",
-      "https://img.olx.com.br/images/52/528515199702770.jpg",
-      "https://img.olx.com.br/images/54/549578790096500.jpg"
-    ],
-    "id": "1426016127",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/death-stranding-ps4-1426016127",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "Death Stranding PS4",
-    "ts": 1778170188
   }
 ]
