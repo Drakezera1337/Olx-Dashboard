@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500275975",
-    "titulo": "Ps4 Fat - 500GB",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1500276428",
+    "titulo": "Play Station",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "00:04",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "detectado": "00:07",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1500275975",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/play-station-1500276428",
+    "fotoUrl": "https://img.olx.com.br/images/35/352695169010100.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/352695169010100.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778209657
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:04",
     "fotoUrl": "https://img.olx.com.br/images/50/508676520087791.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/508676520087791.jpg",
       "https://img.olx.com.br/images/52/520652161317060.jpg",
       "https://img.olx.com.br/images/53/530674645635769.jpg"
     ],
-    "defeito": false,
+    "id": "1500275975",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1500275975",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "Ps4 Fat - 500GB",
     "ts": 1778209477
   },
   {
@@ -9798,23 +9816,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Red Dead Redemption 2",
     "ts": 1778162989
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:09",
-    "fotoUrl": "https://img.olx.com.br/images/53/534646638508876.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/534646638508876.jpg"
-    ],
-    "id": "1491698271",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dishonored-2-ps4-midia-fisica-lacrado-1491698271",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Dishonored 2 - PS4 - Mídia física lacrado ",
-    "ts": 1778162979
   }
 ]
