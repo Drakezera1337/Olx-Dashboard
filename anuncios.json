@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500447186",
-    "titulo": "Nintendo Switch Lite",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1500446230",
+    "titulo": "Jogo Pokémon Snap",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:38",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "detectado": "13:39",
+    "tempoOlx": "Na OLX desde setembro de 2020",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/consoles-de-video-game/nintendo-switch-lite-1500447186",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/jogo-pokemon-snap-1500446230",
+    "fotoUrl": "https://img.olx.com.br/images/90/909661161743697.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/909661161743697.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258341
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:38",
     "fotoUrl": "https://img.olx.com.br/images/15/150637168193309.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/150637168193309.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/18/182680167347276.jpg",
       "https://img.olx.com.br/images/19/192684281109889.jpg"
     ],
-    "defeito": false,
+    "id": "1500447186",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/consoles-de-video-game/nintendo-switch-lite-1500447186",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Nintendo Switch Lite",
     "ts": 1778258331
   },
   {
@@ -9801,24 +9819,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "FIFA 20 PS4",
     "ts": 1778175362
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:35",
-    "fotoUrl": "https://img.olx.com.br/images/15/155688149516063.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/155688149516063.jpg",
-      "https://img.olx.com.br/images/17/175631269241365.jpg"
-    ],
-    "id": "1488457532",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/destiny-ps4-1488457532",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Destiny PS4",
-    "ts": 1778175353
   }
 ]
