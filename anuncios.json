@@ -1,21 +1,40 @@
 [
   {
-    "id": "1492188856",
-    "titulo": "Bloodborne (novo lacrado)",
-    "preco": 65,
-    "precoRaw": "R$ 65",
+    "id": "1492191615",
+    "titulo": "Dólmen (novo lacrado)",
+    "preco": 55,
+    "precoRaw": "R$ 55",
     "categoria": "outros",
     "publicado": "",
     "detectado": "08:57",
     "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/bloodborne-novo-lacrado-1492188856",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/dolmen-novo-lacrado-1492191615",
+    "fotoUrl": "https://img.olx.com.br/images/41/419678756547854.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/419678756547854.jpg",
+      "https://img.olx.com.br/images/43/439617752829887.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778241470
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:57",
     "fotoUrl": "https://img.olx.com.br/images/72/721681274244071.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/721681274244071.jpg",
       "https://img.olx.com.br/images/74/744605630868935.jpg"
     ],
-    "defeito": false,
+    "id": "1492188856",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/bloodborne-novo-lacrado-1492188856",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Bloodborne (novo lacrado)",
     "ts": 1778241458
   },
   {
@@ -9820,24 +9839,5 @@
     "tempoOlx": "Na OLX desde julho de 2014",
     "titulo": "Jogos PS4 God of War, Nioh, Dragon Age e outros",
     "ts": 1778165924
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:58",
-    "fotoUrl": "https://img.olx.com.br/images/37/377606270741518.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/377606270741518.jpg",
-      "https://img.olx.com.br/images/39/392637637765121.jpg"
-    ],
-    "id": "1491567517",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/dark-souls-trilogy-ps4-1491567517",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "Dark souls trilogy ps4",
-    "ts": 1778165913
   }
 ]
