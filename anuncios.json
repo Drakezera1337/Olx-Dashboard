@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500307049",
-    "titulo": "Playstation 3 com defeito ",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps3",
+    "id": "1492162335",
+    "titulo": "Jogo de videogame Diablo Ultimate Evil Edition original para PS4 ",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "08:55",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "detectado": "08:56",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-com-defeito-1500307049",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-de-videogame-diablo-ultimate-evil-edition-original-para-ps4-1492162335",
+    "fotoUrl": "https://img.olx.com.br/images/35/350692755918336.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/350692755918336.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778241364
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:55",
     "fotoUrl": "https://img.olx.com.br/images/90/906643286005697.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/906643286005697.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/93/932673522018220.jpg",
       "https://img.olx.com.br/images/94/944608407085498.jpg"
     ],
-    "defeito": false,
+    "id": "1500307049",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-com-defeito-1500307049",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Playstation 3 com defeito ",
     "ts": 1778241355
   },
   {
@@ -9831,23 +9849,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Jogo Lego Ninjago: O Filme - Videogame - Ps4 Original",
     "ts": 1778165169
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:41",
-    "fotoUrl": "https://img.olx.com.br/images/27/279625757208312.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/279625757208312.jpg"
-    ],
-    "id": "1369104014",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/days-gone-importado-sem-pt-br-1369104014",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2021",
-    "titulo": "Days gone (importado) sem pt-br",
-    "ts": 1778164876
   }
 ]
