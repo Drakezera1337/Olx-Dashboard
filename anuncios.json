@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500517004",
-    "titulo": "Jogos de ps4 ",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps4",
+    "id": "1500517878",
+    "titulo": "Ps5 um controle ",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:13",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "18:14",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1500517004",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps5-um-controle-1500517878",
+    "fotoUrl": "https://img.olx.com.br/images/37/371680400414055.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/371680400414055.jpg",
+      "https://img.olx.com.br/images/38/381601281221802.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778274846
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:13",
     "fotoUrl": "https://img.olx.com.br/images/63/635658525299374.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/635658525299374.jpg",
       "https://img.olx.com.br/images/65/655683768251675.jpg"
     ],
-    "defeito": false,
+    "id": "1500517004",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1500517004",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Jogos de ps4 ",
     "ts": 1778274828
   },
   {
@@ -9857,25 +9876,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2026",
     "titulo": "PlayStation 3",
     "ts": 1778196637
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:30",
-    "fotoUrl": "https://img.olx.com.br/images/69/696662402314358.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/696662402314358.jpg",
-      "https://img.olx.com.br/images/71/716651406810597.jpg",
-      "https://img.olx.com.br/images/73/732678047373817.jpg"
-    ],
-    "id": "1500230736",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/ps4-slim-500gb-1500230736",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2022",
-    "titulo": "Ps4 Slim - 500GB",
-    "ts": 1778196604
   }
 ]
