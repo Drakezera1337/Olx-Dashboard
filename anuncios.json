@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500011245",
-    "titulo": "XBOX SERIES S 512GB",
+    "id": "1499295565",
+    "titulo": "? Xbox Series S",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "17:32",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "detectado": "17:33",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-512gb-1500011245",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1499295565",
+    "fotoUrl": "https://img.olx.com.br/images/97/970625281592864.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/970625281592864.jpg",
+      "https://img.olx.com.br/images/98/985665401441944.jpg",
+      "https://img.olx.com.br/images/10/101675405893067.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272385
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/92/926677646857523.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/926677646857523.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/94/948682409440335.jpg",
       "https://img.olx.com.br/images/96/965699280664847.jpg"
     ],
-    "defeito": false,
+    "id": "1500011245",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-512gb-1500011245",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "XBOX SERIES S 512GB",
     "ts": 1778272377
   },
   {
@@ -9812,23 +9832,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2013",
     "titulo": "Ps3 com defeito ",
     "ts": 1778189587
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/49/493567651958209.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/493567651958209.jpg"
-    ],
-    "id": "1411033899",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/fifa-22-ps4-1411033899",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "FIFA 22 - PS4",
-    "ts": 1778189323
   }
 ]
