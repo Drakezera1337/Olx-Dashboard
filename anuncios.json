@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500239793",
-    "titulo": "Troco em Series X + volta - Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1421750152",
+    "titulo": "Far Cry 6 e The Witcher 3: Wild Hunt - PS4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:16",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "21:20",
+    "tempoOlx": "Na OLX desde maio de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/troco-em-series-x-volta-xbox-series-s-1500239793",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/far-cry-6-e-the-witcher-3-wild-hunt-ps4-1421750152",
+    "fotoUrl": "https://img.olx.com.br/images/37/371577908649286.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/371577908649286.jpg",
+      "https://img.olx.com.br/images/38/383558788417384.jpg",
+      "https://img.olx.com.br/images/39/398526180068319.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778199609
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:16",
     "fotoUrl": "https://img.olx.com.br/images/98/985687407728265.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/985687407728265.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/13/139660643916207.jpg",
       "https://img.olx.com.br/images/15/155636528141448.jpg"
     ],
-    "defeito": false,
+    "id": "1500239793",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/troco-em-series-x-volta-xbox-series-s-1500239793",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Troco em Series X + volta - Xbox Series S",
     "ts": 1778199369
   },
   {
@@ -9786,25 +9806,5 @@
     "tempoOlx": "Na OLX desde outubro de 2013",
     "titulo": "Jogos PS4 Originais",
     "ts": 1778120481
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:21",
-    "fotoUrl": "https://img.olx.com.br/images/35/356604649552153.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/356604649552153.jpg",
-      "https://img.olx.com.br/images/36/366625762840131.jpg",
-      "https://img.olx.com.br/images/38/389608522754003.jpg"
-    ],
-    "id": "1499927971",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-7-jogos-1-controle-1499927971",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Ps4 slim 1tb 7 jogos +  1 controle ",
-    "ts": 1778120473
   }
 ]
