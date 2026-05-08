@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500274990",
-    "titulo": "iPhone 14 128GB ",
-    "preco": 2280,
-    "precoRaw": "R$ 2.280",
-    "categoria": "iphone",
+    "id": "1500275134",
+    "titulo": "Xbox série s",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "23:54",
-    "tempoOlx": "Na OLX desde novembro de 2021",
+    "detectado": "23:55",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-128gb-1500274990",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-serie-s-1500275134",
+    "fotoUrl": "https://img.olx.com.br/images/90/905639641638418.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/905639641638418.jpg",
+      "https://img.olx.com.br/images/91/914629161250872.jpg",
+      "https://img.olx.com.br/images/91/917673644979858.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778208936
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:54",
     "fotoUrl": "https://img.olx.com.br/images/96/968650289689560.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/968650289689560.jpg"
     ],
-    "defeito": false,
+    "id": "1500274990",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-128gb-1500274990",
+    "preco": 2280,
+    "precoRaw": "R$ 2.280",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2021",
+    "titulo": "iPhone 14 128GB ",
     "ts": 1778208847
   },
   {
@@ -9781,23 +9801,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Kingdom Hearts 3 - PS4 - Mídia física lacrado ",
     "ts": 1778162839
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:07",
-    "fotoUrl": "https://img.olx.com.br/images/95/951652398717174.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/951652398717174.jpg"
-    ],
-    "id": "1491700312",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/assassins-creed-the-ezio-collection-ps4-midia-fisica-lacrado-1491700312",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Assassins Creed The Ezio Collection - PS4 - Mídia física lacrado ",
-    "ts": 1778162830
   }
 ]
