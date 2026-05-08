@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500487982",
-    "titulo": "Sekiro",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "outros",
+    "id": "1500487263",
+    "titulo": "Assassin's Creed Valhalla PS4 Seminovo",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:37",
-    "tempoOlx": "Na OLX desde maio de 2025",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/sekiro-1500487982",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/assassin-s-creed-valhalla-ps4-seminovo-1500487263",
+    "fotoUrl": "https://img.olx.com.br/images/54/548620765551625.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/548620765551625.jpg",
+      "https://img.olx.com.br/images/56/564679409270848.jpg",
+      "https://img.olx.com.br/images/58/588616641036515.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272639
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:37",
     "fotoUrl": "https://img.olx.com.br/images/41/415672646473992.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/415672646473992.jpg"
     ],
-    "defeito": false,
+    "id": "1500487982",
+    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/sekiro-1500487982",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2025",
+    "titulo": "Sekiro",
     "ts": 1778272630
   },
   {
@@ -9837,23 +9857,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Astro Bot - PS5",
     "ts": 1778192168
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:11",
-    "fotoUrl": "https://img.olx.com.br/images/18/185675280873985.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/185675280873985.jpg"
-    ],
-    "id": "1500214179",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps5-1500214179",
-    "preco": 1730,
-    "precoRaw": "R$ 1.730",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Ps5",
-    "ts": 1778191870
   }
 ]
