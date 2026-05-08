@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500267785",
-    "titulo": "Battlefield Bad Company 1 ",
-    "preco": 13,
-    "precoRaw": "R$ 13",
-    "categoria": "jogos",
+    "id": "1500268244",
+    "titulo": "Jogos raros de PS4 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:10",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "23:11",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-bad-company-1-1500267785",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/jogos-raros-de-ps4-1500268244",
+    "fotoUrl": "https://img.olx.com.br/images/71/711628525582880.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/711628525582880.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778206296
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:10",
     "fotoUrl": "https://img.olx.com.br/images/92/927671406952782.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/927671406952782.jpg"
     ],
-    "defeito": false,
+    "id": "1500267785",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-bad-company-1-1500267785",
+    "preco": 13,
+    "precoRaw": "R$ 13",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Battlefield Bad Company 1 ",
     "ts": 1778206216
   },
   {
@@ -9765,23 +9783,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "FC24 para para PS4",
     "ts": 1778162386
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:59",
-    "fotoUrl": "https://img.olx.com.br/images/37/370655284275710.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/370655284275710.jpg"
-    ],
-    "id": "1500051879",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1500051879",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Ps4",
-    "ts": 1778162380
   }
 ]
