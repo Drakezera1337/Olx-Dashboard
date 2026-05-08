@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500267897",
-    "titulo": "Elder ring",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "categoria": "outros",
+    "id": "1500267657",
+    "titulo": "Need for speed hot pursuit ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "23:11",
+    "detectado": "23:12",
     "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/elder-ring-1500267897",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/need-for-speed-hot-pursuit-1500267657",
+    "fotoUrl": "https://img.olx.com.br/images/86/869641168464716.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/869641168464716.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778206320
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:11",
     "fotoUrl": "https://img.olx.com.br/images/19/190606284271997.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/190606284271997.jpg"
     ],
-    "defeito": false,
+    "id": "1500267897",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/elder-ring-1500267897",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Elder ring",
     "ts": 1778206312
   },
   {
@@ -9760,23 +9778,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Jogo ps4 ",
     "ts": 1778162420
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:00",
-    "fotoUrl": "https://img.olx.com.br/images/15/156611281414295.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/156611281414295.jpg"
-    ],
-    "id": "1500050993",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/ps4-1500050993",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2019",
-    "titulo": "Ps4 ",
-    "ts": 1778162408
   }
 ]
