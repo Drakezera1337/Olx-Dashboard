@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500065726",
-    "titulo": "Vídeo game Playstation 3",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps3",
+    "id": "1500452798",
+    "titulo": "Nintendo Switch com Jogos",
+    "preco": 879,
+    "precoRaw": "R$ 879",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "13:38",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-playstation-3-1500065726",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/nintendo-switch-com-jogos-1500452798",
+    "fotoUrl": "https://img.olx.com.br/images/97/979679527856642.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/979679527856642.jpg",
+      "https://img.olx.com.br/images/98/986631527577115.jpg",
+      "https://img.olx.com.br/images/11/115637285954075.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258322
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:38",
     "fotoUrl": "https://img.olx.com.br/images/50/503688285694042.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/503688285694042.jpg",
       "https://img.olx.com.br/images/52/521619165142826.jpg"
     ],
-    "defeito": false,
+    "id": "1500065726",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-playstation-3-1500065726",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Vídeo game Playstation 3",
     "ts": 1778258314
   },
   {
@@ -9798,24 +9818,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "NBA2K 20",
     "ts": 1778175343
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:35",
-    "fotoUrl": "https://img.olx.com.br/images/35/359691022513376.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/359691022513376.jpg",
-      "https://img.olx.com.br/images/37/372655501772516.jpg"
-    ],
-    "id": "1488458688",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/rainbowsix-ps4-1488458688",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Rainbowsix PS4",
-    "ts": 1778175335
   }
 ]
