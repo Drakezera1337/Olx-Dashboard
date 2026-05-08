@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500385265",
-    "titulo": "PSP Vita",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "outros",
+    "id": "1500411778",
+    "titulo": "iphone 11 128gb",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "09:24",
-    "tempoOlx": "Na OLX desde julho de 2024",
+    "detectado": "13:33",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psp-vita-1500385265",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-1500411778",
+    "fotoUrl": "https://img.olx.com.br/images/77/772661524568807.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/772661524568807.jpg",
+      "https://img.olx.com.br/images/78/789641642754796.jpg",
+      "https://img.olx.com.br/images/80/801695765158130.jpg",
+      "https://img.olx.com.br/images/82/825652881719700.jpg",
+      "https://img.olx.com.br/images/84/848666765823758.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258007
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:24",
     "fotoUrl": "https://img.olx.com.br/images/61/616634648517757.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/616634648517757.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/68/688650768462258.jpg",
       "https://img.olx.com.br/images/69/698653041974443.jpg"
     ],
-    "defeito": false,
+    "id": "1500385265",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psp-vita-1500385265",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "titulo": "PSP Vita",
     "ts": 1778243050
   },
   {
@@ -9792,24 +9814,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "Jogo Ps4 DarkSouls 2 Scholar First Sin LACRADO (Todas Dlc's no disco)",
     "ts": 1778172716
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:51",
-    "fotoUrl": "https://img.olx.com.br/images/15/156648409714115.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/156648409714115.jpg",
-      "https://img.olx.com.br/images/18/184645641128802.jpg"
-    ],
-    "id": "1500122817",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-original-1500122817",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Jogo Ps4 original ",
-    "ts": 1778172706
   }
 ]
