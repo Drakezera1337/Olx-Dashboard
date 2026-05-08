@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500238129",
-    "titulo": "Lote jogos PS4 e PS5",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps5",
+    "id": "1500237782",
+    "titulo": "Jogos ps 4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "21:03",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "tempoOlx": "Na OLX desde setembro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/lote-jogos-ps4-e-ps5-1500238129",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/jogos-ps-4-1500237782",
+    "fotoUrl": "https://img.olx.com.br/images/84/840601765708867.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/840601765708867.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778198633
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:03",
     "fotoUrl": "https://img.olx.com.br/images/86/865619521937380.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/865619521937380.jpg"
     ],
-    "defeito": false,
+    "id": "1500238129",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/lote-jogos-ps4-e-ps5-1500238129",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "Lote jogos PS4 e PS5",
     "ts": 1778198625
   },
   {
@@ -9784,28 +9802,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "PS5 FAT",
     "ts": 1778120436
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:20",
-    "fotoUrl": "https://img.olx.com.br/images/46/464644402105370.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/464644402105370.jpg",
-      "https://img.olx.com.br/images/46/460649768963533.jpg",
-      "https://img.olx.com.br/images/59/593659764737843.jpg",
-      "https://img.olx.com.br/images/59/592601280211543.jpg",
-      "https://img.olx.com.br/images/58/588601885351294.jpg",
-      "https://img.olx.com.br/images/58/582640407046887.jpg"
-    ],
-    "id": "1499928618",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/asus-zenfone-9-topo-de-linha-1499928618",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2018",
-    "titulo": "Asus ZenFone 9 Topo de Linha ",
-    "ts": 1778120406
   }
 ]
