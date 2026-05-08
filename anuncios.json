@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500453044",
-    "titulo": "Xbox series s semi novo",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
+    "id": "1500434680",
+    "titulo": "Xbox séries s",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "13:36",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "detectado": "13:37",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-semi-novo-1500453044",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-1500434680",
+    "fotoUrl": "https://img.olx.com.br/images/46/468608763622071.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/468608763622071.jpg",
+      "https://img.olx.com.br/images/47/477645649726670.jpg",
+      "https://img.olx.com.br/images/49/494600521427901.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258223
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:36",
     "fotoUrl": "https://img.olx.com.br/images/91/910604400376169.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/910604400376169.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/94/940627768841655.jpg",
       "https://img.olx.com.br/images/96/960678763573783.jpg"
     ],
-    "defeito": false,
+    "id": "1500453044",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-semi-novo-1500453044",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Xbox series s semi novo",
     "ts": 1778258214
   },
   {
@@ -9788,25 +9808,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2022",
     "titulo": "Lote Jogos PS4 e PS5",
     "ts": 1778174614
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:23",
-    "fotoUrl": "https://img.olx.com.br/images/60/606664021077990.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/606664021077990.jpg",
-      "https://img.olx.com.br/images/61/613697148436503.jpg",
-      "https://img.olx.com.br/images/63/632622509970392.jpg"
-    ],
-    "id": "1487086706",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-1487086706",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "Jogos PS4 ",
-    "ts": 1778174604
   }
 ]
