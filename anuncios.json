@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500550539",
-    "titulo": "PS4 1TB SEMI NOVO ",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "categoria": "ps4",
+    "id": "1500551928",
+    "titulo": "iPhone 16",
+    "preco": 4490,
+    "precoRaw": "R$ 4.490",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "20:25",
-    "tempoOlx": "Na OLX desde outubro de 2021",
+    "detectado": "20:27",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/ps4-1tb-semi-novo-1500550539",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-1500551928",
+    "fotoUrl": "https://img.olx.com.br/images/66/663618406432706.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/663618406432706.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778282827
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:25",
     "fotoUrl": "https://img.olx.com.br/images/94/949621167871919.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/949621167871919.jpg"
     ],
-    "defeito": false,
+    "id": "1500550539",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/ps4-1tb-semi-novo-1500550539",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "PS4 1TB SEMI NOVO ",
     "ts": 1778282707
   },
   {
@@ -9846,28 +9864,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Vendo play 3",
     "ts": 1778206717
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:12",
-    "fotoUrl": "https://img.olx.com.br/images/15/157672169972005.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/157672169972005.jpg",
-      "https://img.olx.com.br/images/16/160642408485002.jpg",
-      "https://img.olx.com.br/images/17/178649647944362.jpg",
-      "https://img.olx.com.br/images/19/195659521329951.jpg",
-      "https://img.olx.com.br/images/20/200612043353055.jpg",
-      "https://img.olx.com.br/images/22/228650641440425.jpg"
-    ],
-    "id": "1500267922",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psp-1500267922",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2018",
-    "titulo": "PSP",
-    "ts": 1778206357
   }
 ]
