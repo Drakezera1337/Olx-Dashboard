@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500237782",
-    "titulo": "Jogos ps 4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1500237749",
+    "titulo": "Red dead redemption 2 Playstation 4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:03",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "21:04",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/jogos-ps-4-1500237782",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/red-dead-redemption-2-playstation-4-1500237749",
+    "fotoUrl": "https://img.olx.com.br/images/54/545607640381710.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/545607640381710.jpg",
+      "https://img.olx.com.br/images/56/564625762546754.jpg",
+      "https://img.olx.com.br/images/57/577648405743648.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778198641
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:03",
     "fotoUrl": "https://img.olx.com.br/images/84/840601765708867.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/840601765708867.jpg"
     ],
-    "defeito": false,
+    "id": "1500237782",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/jogos-ps-4-1500237782",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Jogos ps 4",
     "ts": 1778198633
   },
   {
@@ -9784,23 +9804,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "PS4 Slim + 2 jogos",
     "ts": 1778120466
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:20",
-    "fotoUrl": "https://img.olx.com.br/images/99/997663409750476.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/997663409750476.jpg"
-    ],
-    "id": "1499928260",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-fat-1499928260",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "PS5 FAT",
-    "ts": 1778120436
   }
 ]
