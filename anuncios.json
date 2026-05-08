@@ -1,21 +1,43 @@
 [
   {
-    "id": "1500259274",
-    "titulo": "Legos ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1491666914",
+    "titulo": "Torre de resfriamento Xbox Series X",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "22:22",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "22:24",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/legos-ps4-1500259274",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/torre-de-resfriamento-xbox-series-x-1491666914",
+    "fotoUrl": "https://img.olx.com.br/images/95/952698758769763.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/952698758769763.jpg",
+      "https://img.olx.com.br/images/97/972677515147833.jpg",
+      "https://img.olx.com.br/images/99/994688394552348.jpg",
+      "https://img.olx.com.br/images/10/105650871215432.jpg",
+      "https://img.olx.com.br/images/11/113688153851758.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778203477
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:22",
     "fotoUrl": "https://img.olx.com.br/images/53/539615526643015.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/539615526643015.jpg",
       "https://img.olx.com.br/images/55/554662760198234.jpg"
     ],
-    "defeito": false,
+    "id": "1500259274",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/legos-ps4-1500259274",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Legos ps4",
     "ts": 1778203326
   },
   {
@@ -9780,23 +9802,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Assetto Corsa - PS4 - Mídia física lacrado ",
     "ts": 1778162099
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:54",
-    "fotoUrl": "https://img.olx.com.br/images/11/117650648401710.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/117650648401710.jpg"
-    ],
-    "id": "1500020851",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps5-slim-1tb-1500020851",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "Ps5 slim 1tb",
-    "ts": 1778162092
   }
 ]
