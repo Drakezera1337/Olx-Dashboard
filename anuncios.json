@@ -1,20 +1,41 @@
 [
   {
-    "id": "1500535196",
-    "titulo": "Messi legebd",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "outros",
+    "id": "1500535100",
+    "titulo": "Playstation 4 Slim",
+    "preco": 1850,
+    "precoRaw": "R$ 1.850",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:07",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/messi-legebd-1500535196",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-1500535100",
+    "fotoUrl": "https://img.olx.com.br/images/60/602648288224609.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/602648288224609.jpg",
+      "https://img.olx.com.br/images/61/618675768397854.jpg",
+      "https://img.olx.com.br/images/63/634672764253591.jpg",
+      "https://img.olx.com.br/images/64/641687646338506.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778278055
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:07",
     "fotoUrl": "https://img.olx.com.br/images/16/165636281112866.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/165636281112866.jpg"
     ],
-    "defeito": false,
+    "id": "1500535196",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/messi-legebd-1500535196",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Messi legebd",
     "ts": 1778278046
   },
   {
@@ -9839,26 +9860,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2024",
     "titulo": "jogos de ps4 - preço negociável ",
     "ts": 1778201056
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:44",
-    "fotoUrl": "https://img.olx.com.br/images/56/562696151992986.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/562696151992986.jpg",
-      "https://img.olx.com.br/images/57/576672750156509.jpg",
-      "https://img.olx.com.br/images/59/591696391408003.jpg",
-      "https://img.olx.com.br/images/60/609637752791102.jpg"
-    ],
-    "id": "1491803680",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/batman-return-to-arkham-ps4-original-2-jogos-2-discos-midia-fisica-1491803680",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2017",
-    "titulo": "Batman Return to Arkham PS4 original 2 jogos 2 discos mídia física",
-    "ts": 1778201047
   }
 ]
