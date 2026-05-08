@@ -1,20 +1,41 @@
 [
   {
-    "id": "1500454471",
-    "titulo": "Ps4 ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1500454185",
+    "titulo": "PS4",
+    "preco": 950,
+    "precoRaw": "R$ 950",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:48",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "13:49",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps4-1500454471",
+    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/consoles-de-video-game/ps4-1500454185",
+    "fotoUrl": "https://img.olx.com.br/images/86/862619529799571.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/862619529799571.jpg",
+      "https://img.olx.com.br/images/87/877682885297315.jpg",
+      "https://img.olx.com.br/images/88/883695526241338.jpg",
+      "https://img.olx.com.br/images/90/903660761393494.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258944
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:48",
     "fotoUrl": "https://img.olx.com.br/images/40/408660645239010.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/408660645239010.jpg"
     ],
-    "defeito": false,
+    "id": "1500454471",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps4-1500454471",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Ps4 ",
     "ts": 1778258935
   },
   {
@@ -9788,24 +9809,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "GTA 5 ps4 (sem capa) ",
     "ts": 1778188546
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:15",
-    "fotoUrl": "https://img.olx.com.br/images/89/897614761179863.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/897614761179863.jpg",
-      "https://img.olx.com.br/images/90/906648401010729.jpg"
-    ],
-    "id": "1500193948",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/medievil-ps4-lacrado-1500193948",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "MediEvil Ps4 Lacrado",
-    "ts": 1778188537
   }
 ]
