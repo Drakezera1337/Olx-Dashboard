@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500486146",
-    "titulo": "Camisa uncharted Pitica",
+    "id": "1500483562",
+    "titulo": "Caixa vazia ps4",
     "preco": 100,
     "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:31",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/camisa-uncharted-pitica-1500486146",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-vazia-ps4-1500483562",
+    "fotoUrl": "https://img.olx.com.br/images/55/553639644109766.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/553639644109766.jpg",
+      "https://img.olx.com.br/images/57/571695520848049.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272311
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:31",
     "fotoUrl": "https://img.olx.com.br/images/85/852643284407734.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/852643284407734.jpg",
       "https://img.olx.com.br/images/86/868677641832252.jpg"
     ],
-    "defeito": false,
+    "id": "1500486146",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/camisa-uncharted-pitica-1500486146",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "Camisa uncharted Pitica",
     "ts": 1778272303
   },
   {
@@ -9804,25 +9823,5 @@
     "tempoOlx": "Na OLX desde setembro de 2022",
     "titulo": "PES 2020",
     "ts": 1778188966
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:22",
-    "fotoUrl": "https://img.olx.com.br/images/28/280616880348940.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/280616880348940.jpg",
-      "https://img.olx.com.br/images/30/303651167629003.jpg",
-      "https://img.olx.com.br/images/31/312639163601951.jpg"
-    ],
-    "id": "1500202908",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/pes-2021-1500202908",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2022",
-    "titulo": "PES 2021",
-    "ts": 1778188956
   }
 ]
