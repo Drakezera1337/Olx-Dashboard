@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500276709",
-    "titulo": "PS4 (FAT) - com DEFEITO",
-    "preco": 450,
-    "precoRaw": "R$ 450",
+    "id": "1500276861",
+    "titulo": "ps4",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "00:09",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-1500276709",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-1500276861",
+    "fotoUrl": "https://img.olx.com.br/images/74/740600520598789.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/740600520598789.jpg",
+      "https://img.olx.com.br/images/76/762650648089341.jpg",
+      "https://img.olx.com.br/images/77/779601528361732.jpg",
+      "https://img.olx.com.br/images/79/798637163190086.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778209787
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:09",
     "fotoUrl": "https://img.olx.com.br/images/46/468682760826845.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/468682760826845.jpg",
       "https://img.olx.com.br/images/47/479618403686850.jpg",
       "https://img.olx.com.br/images/48/488636047448058.jpg"
     ],
-    "defeito": false,
+    "id": "1500276709",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-1500276709",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "PS4 (FAT) - com DEFEITO",
     "ts": 1778209778
   },
   {
@@ -9805,23 +9826,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Kingdom Hearts HD 2.8 Final Chapter Prologue PS4 - Mídia física lacrado ",
     "ts": 1778163020
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:10",
-    "fotoUrl": "https://img.olx.com.br/images/12/126629275661501.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/126629275661501.jpg"
-    ],
-    "id": "1491703123",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/assassins-creed-unity-ps4-midia-fisica-lacrado-1491703123",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Assassins Creed Unity - PS4 - Mídia física lacrado ",
-    "ts": 1778163011
   }
 ]
