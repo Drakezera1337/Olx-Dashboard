@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500420379",
-    "titulo": "PS5 - Playstation 5",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1500448333",
+    "titulo": "iPhone 11 128 GB 70% bateria",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "13:33",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps5-playstation-5-1500420379",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128-gb-70-bateria-1500448333",
+    "fotoUrl": "https://img.olx.com.br/images/82/829605165604988.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/829605165604988.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258035
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:33",
     "fotoUrl": "https://img.olx.com.br/images/26/262672640023704.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/262672640023704.jpg"
     ],
-    "defeito": false,
+    "id": "1500420379",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps5-playstation-5-1500420379",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "PS5 - Playstation 5",
     "ts": 1778258032
   },
   {
@@ -9791,24 +9809,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "The Witcher 3 Ps4",
     "ts": 1778173069
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:57",
-    "fotoUrl": "https://img.olx.com.br/images/59/596671140958348.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/596671140958348.jpg",
-      "https://img.olx.com.br/images/73/730678623614769.jpg"
-    ],
-    "id": "1425077505",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/far-cry-new-dawn-ps4-1425077505",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Far Cry New Dawn PS4",
-    "ts": 1778173059
   }
 ]
