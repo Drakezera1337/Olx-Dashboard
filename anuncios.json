@@ -1,20 +1,43 @@
 [
   {
-    "id": "1500541868",
-    "titulo": "VÍDEO GAME, NITENDO SWITC LITE ",
-    "preco": 880,
-    "precoRaw": "R$ 880",
-    "categoria": "outros",
+    "id": "1500542113",
+    "titulo": "PlayStation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:32",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "detectado": "19:36",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/video-game-nitendo-switc-lite-1500541868",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-4-1500542113",
+    "fotoUrl": "https://img.olx.com.br/images/12/127631161040083.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/127631161040083.jpg",
+      "https://img.olx.com.br/images/14/140674640290279.jpg",
+      "https://img.olx.com.br/images/16/161661528258342.jpg",
+      "https://img.olx.com.br/images/18/181611645623562.jpg",
+      "https://img.olx.com.br/images/20/206692528169720.jpg",
+      "https://img.olx.com.br/images/22/229654769632576.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778279772
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:32",
     "fotoUrl": "https://img.olx.com.br/images/96/965642408640186.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/965642408640186.jpg"
     ],
-    "defeito": false,
+    "id": "1500541868",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/video-game-nitendo-switc-lite-1500541868",
+    "preco": 880,
+    "precoRaw": "R$ 880",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "VÍDEO GAME, NITENDO SWITC LITE ",
     "ts": 1778279527
   },
   {
@@ -9832,25 +9855,5 @@
     "tempoOlx": "Na OLX desde novembro de 2016",
     "titulo": "Legos ps4",
     "ts": 1778203326
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:21",
-    "fotoUrl": "https://img.olx.com.br/images/89/899414830225345.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/899414830225345.jpg",
-      "https://img.olx.com.br/images/89/892431839961657.jpg",
-      "https://img.olx.com.br/images/89/893439837922145.jpg"
-    ],
-    "id": "1365955489",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/batman-arkham-knight-ps4-1365955489",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "Batman: Arkham Knight - PS4",
-    "ts": 1778203318
   }
 ]
