@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500256576",
-    "titulo": "PlayStation 4",
-    "preco": 1249,
-    "precoRaw": "R$ 1.249",
+    "id": "1500256422",
+    "titulo": "Ps4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "22:02",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-4-1500256576",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-1500256422",
+    "fotoUrl": "https://img.olx.com.br/images/41/412672288612152.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/412672288612152.jpg",
+      "https://img.olx.com.br/images/45/451657641612969.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778202165
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:02",
     "fotoUrl": "https://img.olx.com.br/images/62/621693641710503.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/621693641710503.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/69/691626526440346.jpg",
       "https://img.olx.com.br/images/73/735657767903135.jpg"
     ],
-    "defeito": false,
+    "id": "1500256576",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-4-1500256576",
+    "preco": 1249,
+    "precoRaw": "R$ 1.249",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "titulo": "PlayStation 4",
     "ts": 1778202157
   },
   {
@@ -9784,24 +9803,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "Dark souls 3 ps4 ",
     "ts": 1778127398
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:05",
-    "fotoUrl": "https://img.olx.com.br/images/55/554638377759182.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/554638377759182.jpg",
-      "https://img.olx.com.br/images/56/563661378354336.jpg"
-    ],
-    "id": "1475701432",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-disney-infinity-2-0-1475701432",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
-    "titulo": "Jogo DISNEY INFINITY 2.0",
-    "ts": 1778126715
   }
 ]
