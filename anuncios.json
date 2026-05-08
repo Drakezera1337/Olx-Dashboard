@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500434680",
-    "titulo": "Xbox séries s",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1500412657",
+    "titulo": "Xbox Series S",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "13:37",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "tempoOlx": "Na OLX desde junho de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-1500434680",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-1500412657",
+    "fotoUrl": "https://img.olx.com.br/images/25/254684882424240.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/254684882424240.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778258230
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:37",
     "fotoUrl": "https://img.olx.com.br/images/46/468608763622071.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/468608763622071.jpg",
       "https://img.olx.com.br/images/47/477645649726670.jpg",
       "https://img.olx.com.br/images/49/494600521427901.jpg"
     ],
-    "defeito": false,
+    "id": "1500434680",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-1500434680",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Xbox séries s",
     "ts": 1778258223
   },
   {
@@ -9786,27 +9804,5 @@
     "tempoOlx": "Na OLX desde agosto de 2013",
     "titulo": "Raidou Nintendo Switch 2",
     "ts": 1778174650
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:23",
-    "fotoUrl": "https://img.olx.com.br/images/35/353624040681413.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/353624040681413.jpg",
-      "https://img.olx.com.br/images/36/363669044776023.jpg",
-      "https://img.olx.com.br/images/39/391689168411877.jpg",
-      "https://img.olx.com.br/images/40/407605764103993.jpg",
-      "https://img.olx.com.br/images/43/438661524272145.jpg"
-    ],
-    "id": "1500131055",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-jogos-ps4-e-ps5-1500131055",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "Lote Jogos PS4 e PS5",
-    "ts": 1778174614
   }
 ]
