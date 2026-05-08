@@ -1,21 +1,42 @@
 [
   {
-    "id": "1500485348",
-    "titulo": "Xbox serie s",
+    "id": "1500011245",
+    "titulo": "XBOX SERIES S 512GB",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "17:32",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-serie-s-1500485348",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-512gb-1500011245",
+    "fotoUrl": "https://img.olx.com.br/images/92/926677646857523.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/926677646857523.jpg",
+      "https://img.olx.com.br/images/92/928634644789400.jpg",
+      "https://img.olx.com.br/images/94/948682409440335.jpg",
+      "https://img.olx.com.br/images/96/965699280664847.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778272377
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/33/330607761548833.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/330607761548833.jpg",
       "https://img.olx.com.br/images/35/356667761939357.jpg"
     ],
-    "defeito": false,
+    "id": "1500485348",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-serie-s-1500485348",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Xbox serie s",
     "ts": 1778272369
   },
   {
@@ -9809,23 +9830,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "FIFA 22 - PS4",
     "ts": 1778189323
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/92/920537210917250.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/920537210917250.jpg"
-    ],
-    "id": "1444623912",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/bloodborne-ps4-pt-br-1444623912",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Bloodborne Ps4 PT BR ",
-    "ts": 1778189315
   }
 ]
