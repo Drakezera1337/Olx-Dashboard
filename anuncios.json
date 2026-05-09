@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500799716",
-    "titulo": "Just cause 3",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1500799618",
+    "titulo": "GTA V ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "outros",
     "publicado": "",
     "detectado": "19:09",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/just-cause-3-1500799716",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/gta-v-1500799618",
+    "fotoUrl": "https://img.olx.com.br/images/40/405656409551076.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/405656409551076.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778364591
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:09",
     "fotoUrl": "https://img.olx.com.br/images/87/873608886265012.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/873608886265012.jpg"
     ],
-    "defeito": false,
+    "id": "1500799716",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/just-cause-3-1500799716",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Just cause 3",
     "ts": 1778364583
   },
   {
@@ -9893,24 +9911,5 @@
     "tempoOlx": "Na OLX desde julho de 2022",
     "titulo": "Jogo The Order: 1886 para PS4",
     "ts": 1778287546
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:45",
-    "fotoUrl": "https://img.olx.com.br/images/32/329639881175711.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/329639881175711.jpg",
-      "https://img.olx.com.br/images/34/341623523793987.jpg"
-    ],
-    "id": "1500540544",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-nioh-ps4-1500540544",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
-    "titulo": "Jogo Nioh ps4",
-    "ts": 1778287538
   }
 ]
