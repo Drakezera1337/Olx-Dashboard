@@ -1,20 +1,43 @@
 [
   {
-    "id": "1500727753",
-    "titulo": "Play 5",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1500733442",
+    "titulo": "iPhone XR 128gb preto completo na caixa",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "13:01",
-    "tempoOlx": "Na OLX desde março de 2023",
+    "detectado": "13:03",
+    "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/play-5-1500727753",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-128gb-preto-completo-na-caixa-1500733442",
+    "fotoUrl": "https://img.olx.com.br/images/32/320696282202186.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/320696282202186.jpg",
+      "https://img.olx.com.br/images/34/344604520357103.jpg",
+      "https://img.olx.com.br/images/35/352689764898876.jpg",
+      "https://img.olx.com.br/images/36/366671642135273.jpg",
+      "https://img.olx.com.br/images/38/387656527364806.jpg",
+      "https://img.olx.com.br/images/39/391682286035069.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778342587
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:01",
     "fotoUrl": "https://img.olx.com.br/images/88/884669649142224.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/884669649142224.jpg"
     ],
-    "defeito": false,
+    "id": "1500727753",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/play-5-1500727753",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "Play 5",
     "ts": 1778342495
   },
   {
@@ -9902,25 +9925,5 @@
     "tempoOlx": "Na OLX desde abril de 2023",
     "titulo": "Jogos de ps4",
     "ts": 1778258962
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:49",
-    "fotoUrl": "https://img.olx.com.br/images/41/412616161368968.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/412616161368968.jpg",
-      "https://img.olx.com.br/images/42/425652768949995.jpg",
-      "https://img.olx.com.br/images/44/446673409716701.jpg"
-    ],
-    "id": "1500454126",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-edicao-exclusivo-do-forza-motorsport-6-1500454126",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "XBOX ONE  EDIÇÃO EXCLUSIVO DO FORZA MOTORSPORT 6",
-    "ts": 1778258953
   }
 ]
