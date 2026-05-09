@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500799687",
-    "titulo": "Xbox series s ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1500799874",
+    "titulo": "ASSASSINS CREED ORIGINS (NOVO)",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:08",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "detectado": "19:09",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/xbox-series-s-1500799687",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/assassins-creed-origins-novo-1500799874",
+    "fotoUrl": "https://img.olx.com.br/images/67/679690640005669.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/679690640005669.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778364576
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:08",
     "fotoUrl": "https://img.olx.com.br/images/61/619695760518368.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/619695760518368.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/64/646646769601231.jpg",
       "https://img.olx.com.br/images/65/651623646819223.jpg"
     ],
-    "defeito": false,
+    "id": "1500799687",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/xbox-series-s-1500799687",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "Xbox series s ",
     "ts": 1778364518
   },
   {
@@ -9895,27 +9913,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Naruto storm 4 ps4",
     "ts": 1778287117
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:32",
-    "fotoUrl": "https://img.olx.com.br/images/17/172698529504999.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/172698529504999.jpg",
-      "https://img.olx.com.br/images/19/194696526620313.jpg",
-      "https://img.olx.com.br/images/20/206696762819342.jpg",
-      "https://img.olx.com.br/images/22/227628760770541.jpg",
-      "https://img.olx.com.br/images/23/233602768727194.jpg"
-    ],
-    "id": "1500569328",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-infamous-second-son-1500569328",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2022",
-    "titulo": "Jogo Infamous Second Son ",
-    "ts": 1778286767
   }
 ]
