@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500619393",
-    "titulo": "PlayStation 3 com 2 controles",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1500619622",
+    "titulo": "Uncharted 4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "00:26",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "detectado": "00:29",
+    "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-com-2-controles-1500619393",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/uncharted-4-1500619622",
+    "fotoUrl": "https://img.olx.com.br/images/60/604661769012883.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/604661769012883.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778297346
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:26",
     "fotoUrl": "https://img.olx.com.br/images/32/321622885260730.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/321622885260730.jpg"
     ],
-    "defeito": false,
+    "id": "1500619393",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-com-2-controles-1500619393",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "titulo": "PlayStation 3 com 2 controles",
     "ts": 1778297197
   },
   {
@@ -9883,24 +9901,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "THE ELDER SCROLLS ONLINE",
     "ts": 1778241761
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:02",
-    "fotoUrl": "https://img.olx.com.br/images/29/299504819555816.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/299504819555816.jpg",
-      "https://img.olx.com.br/images/31/311519338126293.jpg"
-    ],
-    "id": "1441488661",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-15-ps4-1441488661",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "FIFA 15 PS4 ",
-    "ts": 1778241753
   }
 ]
