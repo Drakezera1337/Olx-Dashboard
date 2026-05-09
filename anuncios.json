@@ -1,20 +1,43 @@
 [
   {
-    "id": "1500768244",
-    "titulo": "Jogo Minecraft Playstation 4 Edition",
-    "preco": 79,
-    "precoRaw": "R$ 79",
+    "id": "1500769977",
+    "titulo": "Ps4",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:28",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "detectado": "16:33",
+    "tempoOlx": "Na OLX desde maio de 2021",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-minecraft-playstation-4-edition-1500768244",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1500769977",
+    "fotoUrl": "https://img.olx.com.br/images/79/799606640214926.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/799606640214926.jpg",
+      "https://img.olx.com.br/images/81/816631520769745.jpg",
+      "https://img.olx.com.br/images/83/830647881237388.jpg",
+      "https://img.olx.com.br/images/84/845633760003511.jpg",
+      "https://img.olx.com.br/images/86/866626642847360.jpg",
+      "https://img.olx.com.br/images/87/876674042776821.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778355218
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:28",
     "fotoUrl": "https://img.olx.com.br/images/73/738622168119081.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/738622168119081.jpg"
     ],
-    "defeito": false,
+    "id": "1500768244",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-minecraft-playstation-4-edition-1500768244",
+    "preco": 79,
+    "precoRaw": "R$ 79",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "titulo": "Jogo Minecraft Playstation 4 Edition",
     "ts": 1778354935
   },
   {
@@ -9927,26 +9950,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Lote de jogos de Pley 4",
     "ts": 1778278371
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:12",
-    "fotoUrl": "https://img.olx.com.br/images/75/752572346368112.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/752572346368112.jpg",
-      "https://img.olx.com.br/images/76/761584469121343.jpg",
-      "https://img.olx.com.br/images/78/789552821266033.jpg",
-      "https://img.olx.com.br/images/79/793568223630523.jpg"
-    ],
-    "id": "1450772555",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/the-last-of-us-lacrado-playstation-4-1450772555",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "The Last of Us LACRADO PlayStation 4",
-    "ts": 1778278364
   }
 ]
