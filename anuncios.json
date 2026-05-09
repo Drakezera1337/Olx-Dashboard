@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500684693",
-    "titulo": "iphone 15 pro ",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
-    "categoria": "iphone",
+    "id": "1475522057",
+    "titulo": "PlayStation VR2",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "12:21",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-1500684693",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/playstation-vr2-1475522057",
+    "fotoUrl": "https://img.olx.com.br/images/30/307670374598255.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/307670374598255.jpg",
+      "https://img.olx.com.br/images/31/316678017252922.jpg",
+      "https://img.olx.com.br/images/31/311645739631021.jpg",
+      "https://img.olx.com.br/images/32/328680491040273.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340087
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:21",
     "fotoUrl": "https://img.olx.com.br/images/92/927600763232399.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/927600763232399.jpg",
       "https://img.olx.com.br/images/94/949658169900500.jpg",
       "https://img.olx.com.br/images/96/964654289258545.jpg"
     ],
-    "defeito": false,
+    "id": "1500684693",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-1500684693",
+    "preco": 4000,
+    "precoRaw": "R$ 4.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "iphone 15 pro ",
     "ts": 1778340082
   },
   {
@@ -9889,23 +9910,5 @@
     "tempoOlx": "Na OLX desde março de 2021",
     "titulo": " GameStick X2+ Wireless 128 Gb.",
     "ts": 1778242237
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:07",
-    "fotoUrl": "https://img.olx.com.br/images/84/842631021787852.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/842631021787852.jpg"
-    ],
-    "id": "1487620205",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/ps4-slim-500gb-com-varios-jogos-1487620205",
-    "preco": 1650,
-    "precoRaw": "R$ 1.650",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
-    "titulo": "Ps4 slim 500gb com vários jogos",
-    "ts": 1778242035
   }
 ]
