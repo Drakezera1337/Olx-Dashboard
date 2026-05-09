@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500801793",
-    "titulo": "IPHONE XR ",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "categoria": "iphone",
+    "id": "1500802141",
+    "titulo": "PS3 destravado, está com defeito .",
+    "preco": 199,
+    "precoRaw": "R$ 199",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "19:22",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "19:27",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1500801793",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-destravado-esta-com-defeito-1500802141",
+    "fotoUrl": "https://img.olx.com.br/images/77/773612644242391.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/773612644242391.jpg",
+      "https://img.olx.com.br/images/78/782619403092129.jpg",
+      "https://img.olx.com.br/images/79/796610649864214.jpg",
+      "https://img.olx.com.br/images/81/818664289350145.jpg",
+      "https://img.olx.com.br/images/82/828633647914685.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778365637
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:22",
     "fotoUrl": "https://img.olx.com.br/images/44/444648645395307.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/444648645395307.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/54/549696282851933.jpg",
       "https://img.olx.com.br/images/55/558640648899891.jpg"
     ],
-    "defeito": false,
+    "id": "1500801793",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1500801793",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "IPHONE XR ",
     "ts": 1778365327
   },
   {
@@ -9883,26 +9905,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "Lote 6 jogos de PS4 e Envio por Olx ",
     "ts": 1778289305
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:14",
-    "fotoUrl": "https://img.olx.com.br/images/26/267674405703528.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/267674405703528.jpg",
-      "https://img.olx.com.br/images/28/287683644960439.jpg",
-      "https://img.olx.com.br/images/29/295621521971971.jpg",
-      "https://img.olx.com.br/images/31/317661649878339.jpg"
-    ],
-    "id": "1500582694",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/jogos-ps4-precos-na-descricao-abaixo-1500582694",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2013",
-    "titulo": "Jogos Ps4 (preços na descrição abaixo)",
-    "ts": 1778289296
   }
 ]
