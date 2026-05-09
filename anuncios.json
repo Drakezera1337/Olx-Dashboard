@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500578725",
-    "titulo": "Jogo Concrete Genie para PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1500576224",
+    "titulo": "Jogo Rocksmith para PS4",
+    "preco": 270,
+    "precoRaw": "R$ 270",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:56",
     "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-concrete-genie-para-ps4-1500578725",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-rocksmith-para-ps4-1500576224",
+    "fotoUrl": "https://img.olx.com.br/images/20/202637041531844.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/202637041531844.jpg",
+      "https://img.olx.com.br/images/22/226649164054269.jpg",
+      "https://img.olx.com.br/images/23/230690282819404.jpg",
+      "https://img.olx.com.br/images/24/243698287607744.jpg",
+      "https://img.olx.com.br/images/26/263640040699396.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778288205
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:56",
     "fotoUrl": "https://img.olx.com.br/images/90/901616647379908.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/901616647379908.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/94/948666402669131.jpg",
       "https://img.olx.com.br/images/96/964645880804197.jpg"
     ],
-    "defeito": false,
+    "id": "1500578725",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-concrete-genie-para-ps4-1500578725",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Jogo Concrete Genie para PS4",
     "ts": 1778288197
   },
   {
@@ -9843,28 +9865,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "PS4 (FAT) - com DEFEITO",
     "ts": 1778209778
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:07",
-    "fotoUrl": "https://img.olx.com.br/images/31/313695761294009.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/313695761294009.jpg",
-      "https://img.olx.com.br/images/33/335689767761338.jpg",
-      "https://img.olx.com.br/images/34/348649288111699.jpg",
-      "https://img.olx.com.br/images/36/360658643812280.jpg",
-      "https://img.olx.com.br/images/37/376664281328636.jpg",
-      "https://img.olx.com.br/images/39/390653885035757.jpg"
-    ],
-    "id": "1500276312",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1500276312",
-    "preco": 4900,
-    "precoRaw": "R$ 4.900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "iPhone 15 Pro Max - 256Gb",
-    "ts": 1778209659
   }
 ]
