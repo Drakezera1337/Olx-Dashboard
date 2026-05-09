@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500756829",
-    "titulo": "Playstation 4 Slim 1TB + 6 Jogos (2 lacrados)",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1481558317",
+    "titulo": "PS3 SLIM COM DEFEITO",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:19",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "detectado": "15:20",
+    "tempoOlx": "Na OLX desde setembro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-6-jogos-2-lacrados-1500756829",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-slim-com-defeito-1481558317",
+    "fotoUrl": "https://img.olx.com.br/images/17/177657377904636.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/177657377904636.jpg",
+      "https://img.olx.com.br/images/20/207648733555561.jpg",
+      "https://img.olx.com.br/images/22/226621497984464.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778350836
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:19",
     "fotoUrl": "https://img.olx.com.br/images/24/244666288843956.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/244666288843956.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/29/292613645658387.jpg",
       "https://img.olx.com.br/images/31/310674280447248.jpg"
     ],
-    "defeito": false,
+    "id": "1500756829",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-6-jogos-2-lacrados-1500756829",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "Playstation 4 Slim 1TB + 6 Jogos (2 lacrados)",
     "ts": 1778350779
   },
   {
@@ -9913,24 +9933,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "JOGO DE PLAYSTATION 4 A VENDA",
     "ts": 1778274093
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:01",
-    "fotoUrl": "https://img.olx.com.br/images/98/987660406908924.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/987660406908924.jpg",
-      "https://img.olx.com.br/images/99/994633882818402.jpg"
-    ],
-    "id": "1500488134",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-de-playstation-4-a-venda-1500488134",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "JOGO DE PLAYSTATION 4 A VENDA!",
-    "ts": 1778274085
   }
 ]
