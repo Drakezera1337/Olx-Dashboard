@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500768920",
-    "titulo": "PlayStation 4 Fat 2TB com 7 Jogos",
-    "preco": 1599,
-    "precoRaw": "R$ 1.599",
+    "id": "1500768244",
+    "titulo": "Jogo Minecraft Playstation 4 Edition",
+    "preco": 79,
+    "precoRaw": "R$ 79",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "16:28",
-    "tempoOlx": "Na OLX desde março de 2016",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-fat-2tb-com-7-jogos-1500768920",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-minecraft-playstation-4-edition-1500768244",
+    "fotoUrl": "https://img.olx.com.br/images/73/738622168119081.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/738622168119081.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778354935
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:28",
     "fotoUrl": "https://img.olx.com.br/images/68/680647645757900.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/680647645757900.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/74/745682168024159.jpg",
       "https://img.olx.com.br/images/76/761668522801176.jpg"
     ],
-    "defeito": false,
+    "id": "1500768920",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-fat-2tb-com-7-jogos-1500768920",
+    "preco": 1599,
+    "precoRaw": "R$ 1.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2016",
+    "titulo": "PlayStation 4 Fat 2TB com 7 Jogos",
     "ts": 1778354927
   },
   {
@@ -9930,23 +9948,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "The Last of Us LACRADO PlayStation 4",
     "ts": 1778278364
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:12",
-    "fotoUrl": "https://img.olx.com.br/images/55/559678767866950.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/559678767866950.jpg"
-    ],
-    "id": "1500536430",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/lote-de-jogos-de-pley-4-1500536430",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Lote de Jogos de Pley 4",
-    "ts": 1778278355
   }
 ]
