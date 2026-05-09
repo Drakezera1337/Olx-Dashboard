@@ -1,21 +1,40 @@
 [
   {
-    "id": "1399987306",
-    "titulo": "Deus Ex PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1459591553",
+    "titulo": "Zombie Army 4 PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "16:24",
     "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/deus-ex-ps4-1399987306",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/zombie-army-4-ps4-1459591553",
+    "fotoUrl": "https://img.olx.com.br/images/85/851694480291045.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/851694480291045.jpg",
+      "https://img.olx.com.br/images/85/854674126842595.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778354667
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:24",
     "fotoUrl": "https://img.olx.com.br/images/55/554670364486525.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/554670364486525.jpg",
       "https://img.olx.com.br/images/55/553603843691906.jpg"
     ],
-    "defeito": false,
+    "id": "1399987306",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/deus-ex-ps4-1399987306",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Deus Ex PS4",
     "ts": 1778354658
   },
   {
@@ -9930,23 +9949,5 @@
     "tempoOlx": "Na OLX desde setembro de 2018",
     "titulo": "Jogos de Ps4",
     "ts": 1778278006
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:06",
-    "fotoUrl": "https://img.olx.com.br/images/98/984628287631963.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/984628287631963.jpg"
-    ],
-    "id": "1500536091",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/lote-de-jogos-de-pley-4-1500536091",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Lote de jogos de Pley 4",
-    "ts": 1778277997
   }
 ]
