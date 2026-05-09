@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500621846",
-    "titulo": "Jogos ps4",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps4",
+    "id": "1500622702",
+    "titulo": "Nintendo Switch OLED desbloqueado ",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "00:40",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "detectado": "00:43",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogos-ps4-1500621846",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-desbloqueado-1500622702",
+    "fotoUrl": "https://img.olx.com.br/images/91/915679644480115.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/915679644480115.jpg",
+      "https://img.olx.com.br/images/92/929674528826418.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778298186
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:40",
     "fotoUrl": "https://img.olx.com.br/images/58/584624403857662.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/584624403857662.jpg"
     ],
-    "defeito": false,
+    "id": "1500621846",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogos-ps4-1500621846",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Jogos ps4",
     "ts": 1778298045
   },
   {
@@ -9876,25 +9895,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Jogos Ps4",
     "ts": 1778241827
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:03",
-    "fotoUrl": "https://img.olx.com.br/images/80/804636630103672.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/804636630103672.jpg",
-      "https://img.olx.com.br/images/83/839661511700028.jpg",
-      "https://img.olx.com.br/images/85/850607632558440.jpg"
-    ],
-    "id": "1491490447",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/red-dead-redemption-2-ps4-1491490447",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Red Dead Redemption 2 - PS4 ",
-    "ts": 1778241818
   }
 ]
