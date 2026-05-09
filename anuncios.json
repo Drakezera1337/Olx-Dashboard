@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500576224",
-    "titulo": "Jogo Rocksmith para PS4",
-    "preco": 270,
-    "precoRaw": "R$ 270",
+    "id": "1500576184",
+    "titulo": "Minecraft Ps4 Edition",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:56",
-    "tempoOlx": "Na OLX desde julho de 2022",
+    "tempoOlx": "Na OLX desde junho de 2014",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-rocksmith-para-ps4-1500576224",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/minecraft-ps4-edition-1500576184",
+    "fotoUrl": "https://img.olx.com.br/images/58/586614887761097.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/586614887761097.jpg",
+      "https://img.olx.com.br/images/60/602634287744272.jpg",
+      "https://img.olx.com.br/images/61/611692765060434.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778288213
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:56",
     "fotoUrl": "https://img.olx.com.br/images/20/202637041531844.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/202637041531844.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/24/243698287607744.jpg",
       "https://img.olx.com.br/images/26/263640040699396.jpg"
     ],
-    "defeito": false,
+    "id": "1500576224",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-rocksmith-para-ps4-1500576224",
+    "preco": 270,
+    "precoRaw": "R$ 270",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Jogo Rocksmith para PS4",
     "ts": 1778288205
   },
   {
@@ -9845,25 +9865,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "ps4",
     "ts": 1778209787
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:09",
-    "fotoUrl": "https://img.olx.com.br/images/46/468682760826845.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/468682760826845.jpg",
-      "https://img.olx.com.br/images/47/479618403686850.jpg",
-      "https://img.olx.com.br/images/48/488636047448058.jpg"
-    ],
-    "id": "1500276709",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-1500276709",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "PS4 (FAT) - com DEFEITO",
-    "ts": 1778209778
   }
 ]
