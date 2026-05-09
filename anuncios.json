@@ -1,15 +1,27 @@
 [
   {
-    "id": "1487332207",
-    "titulo": "Vídeo Game ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "outros",
+    "id": "1384232550",
+    "titulo": "2 Controle de videogame para PS3, PS4 e PC",
+    "preco": 48,
+    "precoRaw": "R$ 48",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:24",
-    "tempoOlx": "Na OLX desde novembro de 2017",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/video-game-1487332207",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/2-controle-de-videogame-para-ps3-ps4-e-pc-1384232550",
+    "fotoUrl": "https://img.olx.com.br/images/51/519546387201031.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/519546387201031.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340252
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:24",
     "fotoUrl": "https://img.olx.com.br/images/26/269612740189960.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/269612740189960.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/33/331609508989362.jpg",
       "https://img.olx.com.br/images/35/356671383462396.jpg"
     ],
-    "defeito": false,
+    "id": "1487332207",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/video-game-1487332207",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2017",
+    "titulo": "Vídeo Game ",
     "ts": 1778340246
   },
   {
@@ -9901,23 +9919,5 @@
     "tempoOlx": "Na OLX desde outubro de 2021",
     "titulo": "Astrobot PS5",
     "ts": 1778258040
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:33",
-    "fotoUrl": "https://img.olx.com.br/images/82/829605165604988.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/829605165604988.jpg"
-    ],
-    "id": "1500448333",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128-gb-70-bateria-1500448333",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "iPhone 11 128 GB 70% bateria",
-    "ts": 1778258035
   }
 ]
