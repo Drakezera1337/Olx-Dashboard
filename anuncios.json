@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500751567",
-    "titulo": "Games ",
-    "preco": 490,
-    "precoRaw": "R$ 490",
-    "categoria": "outros",
+    "id": "1500751550",
+    "titulo": "Call Of Duty Advanced Warfare",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "14:45",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/games-1500751567",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/call-of-duty-advanced-warfare-1500751550",
+    "fotoUrl": "https://img.olx.com.br/images/79/797678401673746.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/797678401673746.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778348742
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:45",
     "fotoUrl": "https://img.olx.com.br/images/37/374651287897940.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/374651287897940.jpg"
     ],
-    "defeito": false,
+    "id": "1500751567",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/games-1500751567",
+    "preco": 490,
+    "precoRaw": "R$ 490",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Games ",
     "ts": 1778348734
   },
   {
@@ -9912,25 +9930,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "JOGO FIFA 15 PS4",
     "ts": 1778272752
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:39",
-    "fotoUrl": "https://img.olx.com.br/images/95/959619520066330.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/959619520066330.jpg",
-      "https://img.olx.com.br/images/97/973644282225737.jpg",
-      "https://img.olx.com.br/images/98/986606643666771.jpg"
-    ],
-    "id": "1500481198",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/watch-dogs-legion-ps4-seminovo-1500481198",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Watch Dogs Legion PS4 Seminovo",
-    "ts": 1778272743
   }
 ]
