@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500678788",
-    "titulo": "iPhone 12 128gb",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1500233138",
+    "titulo": "PlayStation 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "12:21",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-1500678788",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1500233138",
+    "fotoUrl": "https://img.olx.com.br/images/37/372646165971528.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/372646165971528.jpg",
+      "https://img.olx.com.br/images/39/398601649325366.jpg",
+      "https://img.olx.com.br/images/44/443662288344959.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340095
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:21",
     "fotoUrl": "https://img.olx.com.br/images/70/709617888145206.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/709617888145206.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/73/731676162459846.jpg",
       "https://img.olx.com.br/images/74/748612280644794.jpg"
     ],
-    "defeito": false,
+    "id": "1500678788",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-1500678788",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "iPhone 12 128gb",
     "ts": 1778340091
   },
   {
@@ -9895,23 +9915,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": "Detroit PS4 ",
     "ts": 1778242255
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:10",
-    "fotoUrl": "https://img.olx.com.br/images/92/929525653003408.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/929525653003408.jpg"
-    ],
-    "id": "1414877738",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/evil-within-2-1414877738",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "Evil within 2",
-    "ts": 1778242247
   }
 ]
