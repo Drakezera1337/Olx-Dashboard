@@ -1,22 +1,45 @@
 [
   {
-    "id": "1500803828",
-    "titulo": "XBOX SERIES S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1466072385",
+    "titulo": "Detroit Become Human PS4 ",
+    "preco": 69,
+    "precoRaw": "R$ 69",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:38",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "detectado": "19:44",
+    "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1500803828",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/detroit-become-human-ps4-1466072385",
+    "fotoUrl": "https://img.olx.com.br/images/34/346691602336778.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/346691602336778.jpg",
+      "https://img.olx.com.br/images/37/375695487844378.jpg",
+      "https://img.olx.com.br/images/38/386630244223566.jpg",
+      "https://img.olx.com.br/images/39/397674244919781.jpg",
+      "https://img.olx.com.br/images/41/413606240177458.jpg",
+      "https://img.olx.com.br/images/42/420680128064426.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778366679
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:38",
     "fotoUrl": "https://img.olx.com.br/images/88/882694162751977.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/882694162751977.jpg",
       "https://img.olx.com.br/images/89/893690401200989.jpg",
       "https://img.olx.com.br/images/91/919617647074996.jpg"
     ],
-    "defeito": false,
+    "id": "1500803828",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1500803828",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "XBOX SERIES S ",
     "ts": 1778366318
   },
   {
@@ -9881,25 +9904,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "Jogo PS4 Lego Marvel collection",
     "ts": 1778289645
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:20",
-    "fotoUrl": "https://img.olx.com.br/images/14/146435669792529.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/146435669792529.jpg",
-      "https://img.olx.com.br/images/14/148484900019225.jpg",
-      "https://img.olx.com.br/images/14/142472908614651.jpg"
-    ],
-    "id": "1319554753",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/formula-1-2015-ps-4-1319554753",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Formula 1   2015   PS 4 ",
-    "ts": 1778289636
   }
 ]
