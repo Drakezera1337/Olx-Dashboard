@@ -1,21 +1,41 @@
 [
   {
-    "id": "1492552705",
-    "titulo": "Coleção Assassins Creed",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "categoria": "jogos",
+    "id": "1492555645",
+    "titulo": "Coleção Persona 5",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:15",
     "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/colecao-assassins-creed-1492552705",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/colecao-persona-5-1492555645",
+    "fotoUrl": "https://img.olx.com.br/images/99/991633151141363.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/991633151141363.jpg",
+      "https://img.olx.com.br/images/10/100652397620564.jpg",
+      "https://img.olx.com.br/images/99/999668516964123.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778343347
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:15",
     "fotoUrl": "https://img.olx.com.br/images/89/894640152336030.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/894640152336030.jpg",
       "https://img.olx.com.br/images/89/895690758126733.jpg"
     ],
-    "defeito": false,
+    "id": "1492552705",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/colecao-assassins-creed-1492552705",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Coleção Assassins Creed",
     "ts": 1778343339
   },
   {
@@ -9906,25 +9926,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Ps4 com 2 controles e God of War 2018",
     "ts": 1778259938
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:00",
-    "fotoUrl": "https://img.olx.com.br/images/25/250650766400401.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/250650766400401.jpg",
-      "https://img.olx.com.br/images/27/274646405790964.jpg",
-      "https://img.olx.com.br/images/28/282693169571835.jpg"
-    ],
-    "id": "1500452017",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ghost-recon-wildlands-ps4-1500452017",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2021",
-    "titulo": "Ghost Recon Wildlands - PS4",
-    "ts": 1778259644
   }
 ]
