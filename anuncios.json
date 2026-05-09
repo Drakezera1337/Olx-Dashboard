@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500751802",
-    "titulo": "FIFA 19",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1467065744",
+    "titulo": "DESTINY COLECTION - PS4 ",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:45",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "tempoOlx": "Na OLX desde outubro de 2017",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/fifa-19-1500751802",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/destiny-colection-ps4-1467065744",
+    "fotoUrl": "https://img.olx.com.br/images/63/635642000246627.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/635642000246627.jpg",
+      "https://img.olx.com.br/images/64/640602484173846.jpg",
+      "https://img.olx.com.br/images/66/667695605264971.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778348725
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:45",
     "fotoUrl": "https://img.olx.com.br/images/73/732613289878056.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/732613289878056.jpg"
     ],
-    "defeito": false,
+    "id": "1500751802",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/fifa-19-1500751802",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "FIFA 19",
     "ts": 1778348716
   },
   {
@@ -9914,25 +9934,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "JOGO CONCRETE GENIE - PS4",
     "ts": 1778272736
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:38",
-    "fotoUrl": "https://img.olx.com.br/images/38/384692529986508.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/384692529986508.jpg",
-      "https://img.olx.com.br/images/40/407677524751202.jpg",
-      "https://img.olx.com.br/images/41/416645161055316.jpg"
-    ],
-    "id": "1500482400",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-1-ps4-seminovo-1500482400",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Battlefield 1 PS4 Seminovo",
-    "ts": 1778272728
   }
 ]
