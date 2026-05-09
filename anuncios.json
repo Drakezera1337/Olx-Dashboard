@@ -1,15 +1,28 @@
 [
   {
-    "id": "1432168523",
-    "titulo": "Xbox One S - 1 Tera",
-    "preco": 900,
-    "precoRaw": "R$ 900",
+    "id": "1498580576",
+    "titulo": "xbox one S 500GB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "12:23",
-    "tempoOlx": "Na OLX desde setembro de 2014",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1-tera-1432168523",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-one-s-500gb-1498580576",
+    "fotoUrl": "https://img.olx.com.br/images/72/727619400761040.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/727619400761040.jpg",
+      "https://img.olx.com.br/images/73/732620522666458.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340223
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:23",
     "fotoUrl": "https://img.olx.com.br/images/48/487504316591615.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/487504316591615.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/48/482510553132425.jpg",
       "https://img.olx.com.br/images/48/486571678854118.jpg"
     ],
-    "defeito": false,
+    "id": "1432168523",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1-tera-1432168523",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "Xbox One S - 1 Tera",
     "ts": 1778340216
   },
   {
@@ -9898,23 +9917,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": "iphone 15 - 256gb",
     "ts": 1778258022
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:33",
-    "fotoUrl": "https://img.olx.com.br/images/85/854656883990516.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/854656883990516.jpg"
-    ],
-    "id": "1500423074",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-1500423074",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2015",
-    "titulo": "Ps5 ",
-    "ts": 1778258016
   }
 ]
