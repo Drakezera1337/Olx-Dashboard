@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500608481",
-    "titulo": "Jogos PS4/PS5 (Novos e Lacrados)",
-    "preco": 259,
-    "precoRaw": "R$ 259",
+    "id": "1500608593",
+    "titulo": "Playstation 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "00:01",
-    "tempoOlx": "Na OLX desde maio de 2017",
+    "detectado": "00:02",
+    "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-novos-e-lacrados-1500608481",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/playstation-5-1500608593",
+    "fotoUrl": "https://img.olx.com.br/images/14/146675643820121.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/146675643820121.jpg",
+      "https://img.olx.com.br/images/53/536630287465309.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778295757
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:01",
     "fotoUrl": "https://img.olx.com.br/images/72/725617642546125.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/725617642546125.jpg",
       "https://img.olx.com.br/images/74/741671281852943.jpg",
       "https://img.olx.com.br/images/75/752646642892097.jpg"
     ],
-    "defeito": false,
+    "id": "1500608481",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-novos-e-lacrados-1500608481",
+    "preco": 259,
+    "precoRaw": "R$ 259",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "Jogos PS4/PS5 (Novos e Lacrados)",
     "ts": 1778295697
   },
   {
@@ -9882,24 +9901,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Warhammer the ends times vermintide PS4",
     "ts": 1778241690
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:01",
-    "fotoUrl": "https://img.olx.com.br/images/26/264561556518915.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/264561556518915.jpg",
-      "https://img.olx.com.br/images/28/288578439564138.jpg"
-    ],
-    "id": "1425085299",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-18-ps4-1425085299",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "FIFA 18 - PS4",
-    "ts": 1778241675
   }
 ]
