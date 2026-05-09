@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500797967",
-    "titulo": "Assassin's Creed shadows",
-    "preco": 189,
-    "precoRaw": "R$ 189",
-    "categoria": "jogos",
+    "id": "1500797788",
+    "titulo": "PS5 Slim Digital ",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:56",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "18:58",
+    "tempoOlx": "Na OLX desde abril de 2018",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/assassin-s-creed-shadows-1500797967",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-slim-digital-1500797788",
+    "fotoUrl": "https://img.olx.com.br/images/18/189689528168289.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/189689528168289.jpg",
+      "https://img.olx.com.br/images/19/190644048570340.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778363915
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:56",
     "fotoUrl": "https://img.olx.com.br/images/36/367602402139893.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/367602402139893.jpg"
     ],
-    "defeito": false,
+    "id": "1500797967",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/assassin-s-creed-shadows-1500797967",
+    "preco": 189,
+    "precoRaw": "R$ 189",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Assassin's Creed shadows",
     "ts": 1778363804
   },
   {
@@ -9892,25 +9911,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Jogos ps4 Originais ",
     "ts": 1778286434
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:27",
-    "fotoUrl": "https://img.olx.com.br/images/64/647601401323198.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/647601401323198.jpg",
-      "https://img.olx.com.br/images/66/665693289941049.jpg",
-      "https://img.olx.com.br/images/67/675651647198465.jpg"
-    ],
-    "id": "1500567976",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-modelo-cuh-2116a-2-controles-e-jogos-1500567976",
-    "preco": 1820,
-    "precoRaw": "R$ 1.820",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
-    "titulo": "PS4 Slim (modelo CUH-2116A) + 2 controles e jogos",
-    "ts": 1778286426
   }
 ]
