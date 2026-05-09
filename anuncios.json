@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500807805",
-    "titulo": "Xbox Seris S ",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "xbox",
+    "id": "1500808112",
+    "titulo": "Jogo Red Dead Redemption Ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:07",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-seris-s-1500807805",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-red-dead-redemption-ps4-1500808112",
+    "fotoUrl": "https://img.olx.com.br/images/61/611641282432239.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/611641282432239.jpg",
+      "https://img.olx.com.br/images/63/635609648276953.jpg",
+      "https://img.olx.com.br/images/78/789671642822705.jpg",
+      "https://img.olx.com.br/images/94/948690527350856.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778368035
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:07",
     "fotoUrl": "https://img.olx.com.br/images/80/805620044054912.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/805620044054912.jpg",
       "https://img.olx.com.br/images/82/820676884281484.jpg",
       "https://img.olx.com.br/images/83/839680040783231.jpg"
     ],
-    "defeito": false,
+    "id": "1500807805",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-seris-s-1500807805",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Xbox Seris S ",
     "ts": 1778368028
   },
   {
@@ -9866,23 +9887,5 @@
     "tempoOlx": "Na OLX desde abril de 2018",
     "titulo": "PS4 - God of War Ragnarok",
     "ts": 1778292472
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:07",
-    "fotoUrl": "https://img.olx.com.br/images/98/988676767085010.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/988676767085010.jpg"
-    ],
-    "id": "1500596871",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-uncharted-4-1500596871",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2018",
-    "titulo": "PS4 - Uncharted 4",
-    "ts": 1778292464
   }
 ]
