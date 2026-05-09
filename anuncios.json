@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500631636",
-    "titulo": "Jogo Devil May Cry 5",
+    "id": "1500631553",
+    "titulo": "Jogo Dragon ball kakarot",
     "preco": 100,
     "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "02:02",
     "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogo-devil-may-cry-5-1500631636",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogo-dragon-ball-kakarot-1500631553",
+    "fotoUrl": "https://img.olx.com.br/images/55/554695409144709.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/554695409144709.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778302945
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "02:02",
     "fotoUrl": "https://img.olx.com.br/images/59/593676762254568.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/593676762254568.jpg"
     ],
-    "defeito": false,
+    "id": "1500631636",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogo-devil-may-cry-5-1500631636",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "Jogo Devil May Cry 5",
     "ts": 1778302936
   },
   {
@@ -9881,25 +9899,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Homefront The Revolution PS4 | Jogo original",
     "ts": 1778241959
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:05",
-    "fotoUrl": "https://img.olx.com.br/images/64/649630510168008.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/649630510168008.jpg",
-      "https://img.olx.com.br/images/65/654695274746192.jpg",
-      "https://img.olx.com.br/images/66/662626399175632.jpg"
-    ],
-    "id": "1491505384",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-ghosts-ps4-midia-fisica-1491505384",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
-    "titulo": "Call of duty ghosts ps4 midia fisica",
-    "ts": 1778241951
   }
 ]
