@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500738578",
-    "titulo": "Ps4 slim desbloqueável (11.02/Com defeito/HD crítico)",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1500738481",
+    "titulo": "Ps5 mídia física com defeito ",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:58",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "detectado": "13:59",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps4-slim-desbloqueavel-11-02-com-defeito-hd-critico-1500738578",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps5-midia-fisica-com-defeito-1500738481",
+    "fotoUrl": "https://img.olx.com.br/images/41/414680649308036.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/414680649308036.jpg",
+      "https://img.olx.com.br/images/43/435681283826061.jpg",
+      "https://img.olx.com.br/images/45/450696882917450.jpg",
+      "https://img.olx.com.br/images/52/527619404777645.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778345947
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:58",
     "fotoUrl": "https://img.olx.com.br/images/23/234697524734512.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/234697524734512.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/25/255626160278305.jpg",
       "https://img.olx.com.br/images/26/264623767223979.jpg"
     ],
-    "defeito": false,
+    "id": "1500738578",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps4-slim-desbloqueavel-11-02-com-defeito-hd-critico-1500738578",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "Ps4 slim desbloqueável (11.02/Com defeito/HD crítico)",
     "ts": 1778345916
   },
   {
@@ -9929,26 +9950,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "? Xbox Series S",
     "ts": 1778272385
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:32",
-    "fotoUrl": "https://img.olx.com.br/images/92/926677646857523.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/926677646857523.jpg",
-      "https://img.olx.com.br/images/92/928634644789400.jpg",
-      "https://img.olx.com.br/images/94/948682409440335.jpg",
-      "https://img.olx.com.br/images/96/965699280664847.jpg"
-    ],
-    "id": "1500011245",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-512gb-1500011245",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "XBOX SERIES S 512GB",
-    "ts": 1778272377
   }
 ]
