@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500801821",
-    "titulo": "Jogos PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1500759990",
+    "titulo": "PS5 SLIM 1TB",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:27",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "detectado": "19:32",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-1500801821",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-slim-1tb-1500759990",
+    "fotoUrl": "https://img.olx.com.br/images/40/404650168480301.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/404650168480301.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778365956
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:27",
     "fotoUrl": "https://img.olx.com.br/images/20/205686049947480.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/205686049947480.jpg",
       "https://img.olx.com.br/images/21/215647885045669.jpg",
       "https://img.olx.com.br/images/23/238688761612166.jpg"
     ],
-    "defeito": false,
+    "id": "1500801821",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-1500801821",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "titulo": "Jogos PS4",
     "ts": 1778365673
   },
   {
@@ -9883,27 +9901,6 @@
     "publicado": "",
     "tempoOlx": "Na OLX desde janeiro de 2013",
     "titulo": "iPhone 13 Pro Max 512GB",
-    "ts": 1778289548
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:19",
-    "fotoUrl": "https://img.olx.com.br/images/45/456673645187662.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/456673645187662.jpg",
-      "https://img.olx.com.br/images/46/467679284924782.jpg",
-      "https://img.olx.com.br/images/48/487608282468008.jpg",
-      "https://img.olx.com.br/images/49/493668162516637.jpg"
-    ],
-    "id": "1500583949",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/astro-bot-ps5-1500583949",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Astro Bot - PS5",
     "ts": 1778289548
   }
 ]
