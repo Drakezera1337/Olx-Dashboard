@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500601124",
-    "titulo": "PS4 FAT",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1500607297",
+    "titulo": "PS4 - PES 2017",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "23:54",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "tempoOlx": "Na OLX desde abril de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-1500601124",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-pes-2017-1500607297",
+    "fotoUrl": "https://img.olx.com.br/images/33/331694882895302.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/331694882895302.jpg",
+      "https://img.olx.com.br/images/34/342693529361396.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778295276
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:54",
     "fotoUrl": "https://img.olx.com.br/images/39/390648642785139.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/390648642785139.jpg",
       "https://img.olx.com.br/images/40/408659763959332.jpg",
       "https://img.olx.com.br/images/41/416682403385265.jpg"
     ],
-    "defeito": false,
+    "id": "1500601124",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-1500601124",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "PS4 FAT",
     "ts": 1778295248
   },
   {
@@ -9879,24 +9898,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Tekken 7 PS4",
     "ts": 1778241636
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:00",
-    "fotoUrl": "https://img.olx.com.br/images/97/970633854118732.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/970633854118732.jpg",
-      "https://img.olx.com.br/images/97/977687491876098.jpg"
-    ],
-    "id": "1474554282",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dirt-4-ps4-1474554282",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Dirt 4 PS4",
-    "ts": 1778241627
   }
 ]
