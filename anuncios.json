@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500740163",
-    "titulo": "xbox série s 512GB C/6 jogos digitais ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1500775664",
+    "titulo": "PS4",
+    "preco": 890,
+    "precoRaw": "R$ 890",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:05",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "17:07",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-serie-s-512gb-c-6-jogos-digitais-1500740163",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-1500775664",
+    "fotoUrl": "https://img.olx.com.br/images/41/415612523352415.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/415612523352415.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778357227
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:05",
     "fotoUrl": "https://img.olx.com.br/images/33/335661527307293.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/335661527307293.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/50/502684640552040.jpg",
       "https://img.olx.com.br/images/56/566601522812699.jpg"
     ],
-    "defeito": false,
+    "id": "1500740163",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-serie-s-512gb-c-6-jogos-digitais-1500740163",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "xbox série s 512GB C/6 jogos digitais ",
     "ts": 1778357107
   },
   {
@@ -9926,23 +9944,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Jogo Bloodborne para Playstation 4",
     "ts": 1778279494
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:31",
-    "fotoUrl": "https://img.olx.com.br/images/32/324618405980021.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/324618405980021.jpg"
-    ],
-    "id": "1500541411",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogos-de-ps4-aceito-ofertas-1500541411",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
-    "titulo": "Jogos de PS4 - Aceito ofertas!!!",
-    "ts": 1778279484
   }
 ]
