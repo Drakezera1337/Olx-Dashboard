@@ -1,22 +1,65 @@
 [
   {
-    "id": "1500783416",
-    "titulo": "Ps3 slim com defeito",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps3",
+    "id": "1500784412",
+    "titulo": "Marvel Spider Man Midia Fisica PS4",
+    "preco": 69,
+    "precoRaw": "R$ 69",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:58",
-    "tempoOlx": "Na OLX desde agosto de 2025",
+    "detectado": "18:00",
+    "tempoOlx": "Na OLX desde junho de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-com-defeito-1500783416",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/marvel-spider-man-midia-fisica-ps4-1500784412",
+    "fotoUrl": "https://img.olx.com.br/images/29/295692160368333.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/295692160368333.jpg",
+      "https://img.olx.com.br/images/29/293642047187824.jpg",
+      "https://img.olx.com.br/images/29/297678288298690.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778360436
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:58",
+    "fotoUrl": "https://img.olx.com.br/images/58/586684764727514.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/586684764727514.jpg",
+      "https://img.olx.com.br/images/58/589623520400889.jpg",
+      "https://img.olx.com.br/images/58/580602527657364.jpg",
+      "https://img.olx.com.br/images/58/586634169000684.jpg",
+      "https://img.olx.com.br/images/58/580642280742048.jpg",
+      "https://img.olx.com.br/images/58/586640160857983.jpg"
+    ],
+    "id": "1500783776",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-verde-perfeito-nota-fiscal-caixa-original-1500783776",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "iPhone 15 128Gb Verde - Perfeito + Nota Fiscal + Caixa Original",
+    "ts": 1778360318
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:58",
     "fotoUrl": "https://img.olx.com.br/images/58/586680403776581.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/586680403776581.jpg",
       "https://img.olx.com.br/images/60/600686761876787.jpg",
       "https://img.olx.com.br/images/62/624658649427061.jpg"
     ],
-    "defeito": false,
+    "id": "1500783416",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-com-defeito-1500783416",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2025",
+    "titulo": "Ps3 slim com defeito",
     "ts": 1778360317
   },
   {
@@ -9890,42 +9933,5 @@
     "tempoOlx": "Na OLX desde junho de 2020",
     "titulo": "PS4 slim 500gb",
     "ts": 1778282681
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:18",
-    "fotoUrl": "https://img.olx.com.br/images/88/883663886508212.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/883663886508212.jpg"
-    ],
-    "id": "1500549748",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-ps4-novo-lacrado-1500549748",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Ghost of tsushima ps4 (NOVO LACRADO)",
-    "ts": 1778282316
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:16",
-    "fotoUrl": "https://img.olx.com.br/images/59/597651289741877.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/597651289741877.jpg",
-      "https://img.olx.com.br/images/61/610680765928457.jpg"
-    ],
-    "id": "1500052897",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-1tb-ultima-versao-extras-1500052897",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "PlayStation 4 1TB - Última Versão + Extras! ",
-    "ts": 1778282196
   }
 ]
