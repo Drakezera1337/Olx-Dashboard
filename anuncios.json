@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500729180",
-    "titulo": "Fifa 18 Ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1500740837",
+    "titulo": "PlayStation 4",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:47",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "13:48",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/fifa-18-ps4-1500729180",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1500740837",
+    "fotoUrl": "https://img.olx.com.br/images/50/505691044505681.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/505691044505681.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778345285
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:47",
     "fotoUrl": "https://img.olx.com.br/images/81/811645045225532.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/811645045225532.jpg",
       "https://img.olx.com.br/images/83/838664646920013.jpg",
       "https://img.olx.com.br/images/85/854620641345786.jpg"
     ],
-    "defeito": false,
+    "id": "1500729180",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/fifa-18-ps4-1500729180",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Fifa 18 Ps4",
     "ts": 1778345271
   },
   {
@@ -9926,27 +9944,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "The Order 1886 Playstation 4",
     "ts": 1778272295
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:31",
-    "fotoUrl": "https://img.olx.com.br/images/26/263655647291668.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/263655647291668.jpg",
-      "https://img.olx.com.br/images/27/276672047244348.jpg",
-      "https://img.olx.com.br/images/29/298608646795324.jpg",
-      "https://img.olx.com.br/images/30/302690280232757.jpg",
-      "https://img.olx.com.br/images/31/315631647033667.jpg"
-    ],
-    "id": "1500482052",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-max-1500482052",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2018",
-    "titulo": "Iphone 12 pro max",
-    "ts": 1778272293
   }
 ]
