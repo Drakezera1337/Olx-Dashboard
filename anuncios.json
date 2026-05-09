@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500794923",
-    "titulo": "FALLOUT 4 ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1500794346",
+    "titulo": "Horizon Forbidden West PS4 ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:33",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fallout-4-1500794923",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-ps4-1500794346",
+    "fotoUrl": "https://img.olx.com.br/images/66/665607166227848.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/665607166227848.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778362395
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/86/861687289224208.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/861687289224208.jpg",
       "https://img.olx.com.br/images/89/895682405095969.jpg",
       "https://img.olx.com.br/images/91/918658649530319.jpg"
     ],
-    "defeito": false,
+    "id": "1500794923",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fallout-4-1500794923",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "FALLOUT 4 ",
     "ts": 1778362387
   },
   {
@@ -9904,25 +9922,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "PS 4 ",
     "ts": 1778283577
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:38",
-    "fotoUrl": "https://img.olx.com.br/images/69/693648402532556.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/693648402532556.jpg",
-      "https://img.olx.com.br/images/70/708662767684458.jpg",
-      "https://img.olx.com.br/images/71/717653408856530.jpg"
-    ],
-    "id": "1500554325",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/conta-de-nintendo-switch-2-com-mario-kart-word-mais-jogos-na-descricao-1500554325",
-    "preco": 299,
-    "precoRaw": "R$ 299",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2025",
-    "titulo": "Conta de Nintendo switch 2 com Mario kart word (mais jogos na descrição)",
-    "ts": 1778283496
   }
 ]
