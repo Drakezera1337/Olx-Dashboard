@@ -1,21 +1,42 @@
 [
   {
-    "id": "1500779020",
-    "titulo": "Xbox series S",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1500779273",
+    "titulo": "PS3 Slim + 2 Controles + Jogos | Para Reparo",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "17:28",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-1500779020",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/ps3-slim-2-controles-jogos-para-reparo-1500779273",
+    "fotoUrl": "https://img.olx.com.br/images/73/736695769009210.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/736695769009210.jpg",
+      "https://img.olx.com.br/images/74/742612523838851.jpg",
+      "https://img.olx.com.br/images/75/753612760195127.jpg",
+      "https://img.olx.com.br/images/77/779653282502842.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778358517
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:28",
     "fotoUrl": "https://img.olx.com.br/images/14/142657647569120.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/142657647569120.jpg",
       "https://img.olx.com.br/images/16/160615043949140.jpg"
     ],
-    "defeito": false,
+    "id": "1500779020",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-1500779020",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Xbox series S",
     "ts": 1778358487
   },
   {
@@ -9926,25 +9947,5 @@
     "tempoOlx": "Na OLX desde agosto de 2022",
     "titulo": "Kit 5 Jogos PS4 Original Mídia Física Promoção Aceito Proposta",
     "ts": 1778279845
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:37",
-    "fotoUrl": "https://img.olx.com.br/images/12/128609270105776.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/128609270105776.jpg",
-      "https://img.olx.com.br/images/14/144654038534867.jpg",
-      "https://img.olx.com.br/images/97/978687517518029.jpg"
-    ],
-    "id": "1490957317",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-v-ps4-original-completo-midia-fisica-mapa-otimo-estado-1490957317",
-    "preco": 94,
-    "precoRaw": "R$ 94",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2022",
-    "titulo": "GTA V PS4 Original Completo Mídia Física + Mapa Ótimo Estado ",
-    "ts": 1778279837
   }
 ]
