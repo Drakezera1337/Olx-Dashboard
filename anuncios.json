@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500767172",
-    "titulo": "PS5 USADO 2 CONTROLES",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "ps5",
+    "id": "1500767886",
+    "titulo": "Jogo para Playstation 4 The Order 1886",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:22",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "tempoOlx": "Na OLX desde julho de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-usado-2-controles-1500767172",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-para-playstation-4-the-order-1886-1500767886",
+    "fotoUrl": "https://img.olx.com.br/images/55/552639408908437.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/552639408908437.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778354575
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:22",
     "fotoUrl": "https://img.olx.com.br/images/19/196617281510931.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/196617281510931.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/25/252610769428603.jpg",
       "https://img.olx.com.br/images/26/261686161470724.jpg"
     ],
-    "defeito": false,
+    "id": "1500767172",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-usado-2-controles-1500767172",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "PS5 USADO 2 CONTROLES",
     "ts": 1778354567
   },
   {
@@ -9918,25 +9936,5 @@
     "tempoOlx": "Na OLX desde março de 2016",
     "titulo": "playstation 4",
     "ts": 1778276766
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:38",
-    "fotoUrl": "https://img.olx.com.br/images/44/440605768194307.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/440605768194307.jpg",
-      "https://img.olx.com.br/images/46/460632282159070.jpg",
-      "https://img.olx.com.br/images/49/495625885049466.jpg"
-    ],
-    "id": "1500530270",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogo-original-ps3-motor-storm-1500530270",
-    "preco": 42,
-    "precoRaw": "R$ 42",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Jogo original PS3 motor storm",
-    "ts": 1778276287
   }
 ]
