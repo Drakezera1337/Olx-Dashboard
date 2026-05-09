@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500750283",
-    "titulo": "Horizon zero dawn Complete Edition ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1500750175",
+    "titulo": "Days gone ps4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:39",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/horizon-zero-dawn-complete-edition-1500750283",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/days-gone-ps4-1500750175",
+    "fotoUrl": "https://img.olx.com.br/images/67/675673766445723.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/675673766445723.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778348371
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:39",
     "fotoUrl": "https://img.olx.com.br/images/35/356619403201087.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/356619403201087.jpg",
       "https://img.olx.com.br/images/37/374668527699178.jpg",
       "https://img.olx.com.br/images/39/396630523593544.jpg"
     ],
-    "defeito": false,
+    "id": "1500750283",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/horizon-zero-dawn-complete-edition-1500750283",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Horizon zero dawn Complete Edition ",
     "ts": 1778348363
   },
   {
@@ -9918,25 +9936,5 @@
     "tempoOlx": "Na OLX desde março de 2025",
     "titulo": "PS4 slim 1TB",
     "ts": 1778272696
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:38",
-    "fotoUrl": "https://img.olx.com.br/images/23/231676527718166.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/231676527718166.jpg",
-      "https://img.olx.com.br/images/25/259622287624467.jpg",
-      "https://img.olx.com.br/images/27/279624402098608.jpg"
-    ],
-    "id": "1500485152",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/ghost-of-tsushima-ps4-1500485152",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Ghost of tsushima ps4",
-    "ts": 1778272686
   }
 ]
