@@ -1,20 +1,41 @@
 [
   {
-    "id": "1500778993",
-    "titulo": "Xbox série s",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "categoria": "xbox",
+    "id": "1500780077",
+    "titulo": "Playstation 4 slim",
+    "preco": 1550,
+    "precoRaw": "R$ 1.550",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:31",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "detectado": "17:37",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-serie-s-1500778993",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/playstation-4-slim-1500780077",
+    "fotoUrl": "https://img.olx.com.br/images/11/117681763438756.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/117681763438756.jpg",
+      "https://img.olx.com.br/images/13/136634523315765.jpg",
+      "https://img.olx.com.br/images/14/148628524050584.jpg",
+      "https://img.olx.com.br/images/15/156676646628473.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778359057
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:31",
     "fotoUrl": "https://img.olx.com.br/images/15/151632287657551.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/151632287657551.jpg"
     ],
-    "defeito": false,
+    "id": "1500778993",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-serie-s-1500778993",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Xbox série s",
     "ts": 1778358666
   },
   {
@@ -9925,24 +9946,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2020",
     "titulo": "GTA The Trilogy",
     "ts": 1778280188
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:37",
-    "fotoUrl": "https://img.olx.com.br/images/67/673686512056905.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/673686512056905.jpg",
-      "https://img.olx.com.br/images/70/703618632606380.jpg"
-    ],
-    "id": "1490961527",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/street-fighter-v-ps4-original-midia-fisica-semi-novo-barato-1490961527",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2022",
-    "titulo": "Street Fighter V PS4 Original Mídia Física Semi Novo Barato ",
-    "ts": 1778279871
   }
 ]
