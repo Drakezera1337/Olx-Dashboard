@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500802141",
-    "titulo": "PS3 destravado, está com defeito .",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "categoria": "ps3",
+    "id": "1500802433",
+    "titulo": "Carta pokemon",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:27",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-destravado-esta-com-defeito-1500802141",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/carta-pokemon-1500802433",
+    "fotoUrl": "https://img.olx.com.br/images/91/913643402223807.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/913643402223807.jpg",
+      "https://img.olx.com.br/images/92/924609647894030.jpg",
+      "https://img.olx.com.br/images/93/934635286136340.jpg",
+      "https://img.olx.com.br/images/94/942682767029512.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778365657
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:27",
     "fotoUrl": "https://img.olx.com.br/images/77/773612644242391.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/773612644242391.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/81/818664289350145.jpg",
       "https://img.olx.com.br/images/82/828633647914685.jpg"
     ],
-    "defeito": false,
+    "id": "1500802141",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-destravado-esta-com-defeito-1500802141",
+    "preco": 199,
+    "precoRaw": "R$ 199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "PS3 destravado, está com defeito .",
     "ts": 1778365637
   },
   {
@@ -9887,23 +9908,5 @@
     "tempoOlx": "Na OLX desde agosto de 2023",
     "titulo": "DEAD SPACE 2 PS3 limited edition",
     "ts": 1778289314
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:15",
-    "fotoUrl": "https://img.olx.com.br/images/17/178613883961026.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/178613883961026.jpg"
-    ],
-    "id": "1500582624",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-6-jogos-de-ps4-e-envio-por-olx-1500582624",
-    "preco": 309,
-    "precoRaw": "R$ 309",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "Lote 6 jogos de PS4 e Envio por Olx ",
-    "ts": 1778289305
   }
 ]
