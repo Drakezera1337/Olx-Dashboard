@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500755608",
-    "titulo": "CALLISTO PROTOCOL PS4 - PS5",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps5",
+    "id": "1500755273",
+    "titulo": "Final Fantasy XII - PS4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "15:07",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/callisto-protocol-ps4-ps5-1500755608",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/final-fantasy-xii-ps4-1500755273",
+    "fotoUrl": "https://img.olx.com.br/images/58/585625763501341.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/585625763501341.jpg",
+      "https://img.olx.com.br/images/59/598676527037299.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778350037
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:07",
     "fotoUrl": "https://img.olx.com.br/images/90/909627166752022.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/909627166752022.jpg",
       "https://img.olx.com.br/images/91/919665409581902.jpg",
       "https://img.olx.com.br/images/92/928669043071609.jpg"
     ],
-    "defeito": false,
+    "id": "1500755608",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/callisto-protocol-ps4-ps5-1500755608",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "CALLISTO PROTOCOL PS4 - PS5",
     "ts": 1778350029
   },
   {
@@ -9909,25 +9928,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Spider-Man Game of The Year Edition PS4/PS5 - Seminovo",
     "ts": 1778273033
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:43",
-    "fotoUrl": "https://img.olx.com.br/images/10/107661401721445.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/107661401721445.jpg",
-      "https://img.olx.com.br/images/11/115669403426857.jpg",
-      "https://img.olx.com.br/images/14/144656162874779.jpg"
-    ],
-    "id": "1500509768",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/assassins-creed-black-flag-ps4-1500509768",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2018",
-    "titulo": "Assassins Creed Black Flag - Ps4 ",
-    "ts": 1778273025
   }
 ]
