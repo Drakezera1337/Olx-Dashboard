@@ -1,22 +1,44 @@
 [
   {
-    "id": "1500233138",
-    "titulo": "PlayStation 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1500661109",
+    "titulo": "Iphone 11 128gb",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "12:21",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1500233138",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-1500661109",
+    "fotoUrl": "https://img.olx.com.br/images/24/241608647277915.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/241608647277915.jpg",
+      "https://img.olx.com.br/images/24/240661049056346.jpg",
+      "https://img.olx.com.br/images/24/248623289659569.jpg",
+      "https://img.olx.com.br/images/24/247618760012415.jpg",
+      "https://img.olx.com.br/images/24/240672282196512.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340100
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:21",
     "fotoUrl": "https://img.olx.com.br/images/37/372646165971528.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/372646165971528.jpg",
       "https://img.olx.com.br/images/39/398601649325366.jpg",
       "https://img.olx.com.br/images/44/443662288344959.jpg"
     ],
-    "defeito": false,
+    "id": "1500233138",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1500233138",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PlayStation 5",
     "ts": 1778340095
   },
   {
@@ -9897,23 +9919,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2021",
     "titulo": "Jogo ps4 death stranding ",
     "ts": 1778242263
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:10",
-    "fotoUrl": "https://img.olx.com.br/images/62/621594566770310.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/621594566770310.jpg"
-    ],
-    "id": "1433722759",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/detroit-ps4-1433722759",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "Detroit PS4 ",
-    "ts": 1778242255
   }
 ]
