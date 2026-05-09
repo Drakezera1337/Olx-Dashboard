@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500799874",
-    "titulo": "ASSASSINS CREED ORIGINS (NOVO)",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1500799716",
+    "titulo": "Just cause 3",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:09",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/assassins-creed-origins-novo-1500799874",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/just-cause-3-1500799716",
+    "fotoUrl": "https://img.olx.com.br/images/87/873608886265012.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/873608886265012.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778364583
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:09",
     "fotoUrl": "https://img.olx.com.br/images/67/679690640005669.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/679690640005669.jpg"
     ],
-    "defeito": false,
+    "id": "1500799874",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/assassins-creed-origins-novo-1500799874",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "ASSASSINS CREED ORIGINS (NOVO)",
     "ts": 1778364576
   },
   {
@@ -9894,24 +9912,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Jogo Nioh ps4",
     "ts": 1778287538
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:38",
-    "fotoUrl": "https://img.olx.com.br/images/56/563665280199943.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/563665280199943.jpg",
-      "https://img.olx.com.br/images/58/589632405468793.jpg"
-    ],
-    "id": "1500572208",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/naruto-storm-4-ps4-1500572208",
-    "preco": 74,
-    "precoRaw": "R$ 74",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Naruto storm 4 ps4",
-    "ts": 1778287117
   }
 ]
