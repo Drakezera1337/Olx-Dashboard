@@ -1,15 +1,32 @@
 [
   {
-    "id": "1500769085",
-    "titulo": "Xbox Série S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1500768920",
+    "titulo": "PlayStation 4 Fat 2TB com 7 Jogos",
+    "preco": 1599,
+    "precoRaw": "R$ 1.599",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:28",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "tempoOlx": "Na OLX desde março de 2016",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/xbox-serie-s-1500769085",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-fat-2tb-com-7-jogos-1500768920",
+    "fotoUrl": "https://img.olx.com.br/images/68/680647645757900.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/680647645757900.jpg",
+      "https://img.olx.com.br/images/69/693632408129483.jpg",
+      "https://img.olx.com.br/images/70/702695648709539.jpg",
+      "https://img.olx.com.br/images/72/723669767226455.jpg",
+      "https://img.olx.com.br/images/74/745682168024159.jpg",
+      "https://img.olx.com.br/images/76/761668522801176.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778354927
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:28",
     "fotoUrl": "https://img.olx.com.br/images/94/946693401980393.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/946693401980393.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/97/978667409002142.jpg",
       "https://img.olx.com.br/images/98/980697529726736.jpg"
     ],
-    "defeito": false,
+    "id": "1500769085",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/xbox-serie-s-1500769085",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Xbox Série S ",
     "ts": 1778354919
   },
   {
@@ -9925,28 +9948,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Lote de Jogos de Pley 4",
     "ts": 1778278355
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:12",
-    "fotoUrl": "https://img.olx.com.br/images/61/613645405932127.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/613645405932127.jpg",
-      "https://img.olx.com.br/images/63/639621768126866.jpg",
-      "https://img.olx.com.br/images/65/656674643740975.jpg",
-      "https://img.olx.com.br/images/67/677656645179659.jpg",
-      "https://img.olx.com.br/images/69/694663048167081.jpg",
-      "https://img.olx.com.br/images/71/714669526854955.jpg"
-    ],
-    "id": "1500253213",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/nintendo-switch-lite-turquesa-1500253213",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2024",
-    "titulo": "Nintendo Switch Lite Turquesa ",
-    "ts": 1778278327
   }
 ]
