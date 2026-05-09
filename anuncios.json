@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500595216",
-    "titulo": "Ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1500597166",
+    "titulo": "PS4 - The Last of Us Remasterizado",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:00",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "23:07",
+    "tempoOlx": "Na OLX desde abril de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1500595216",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-the-last-of-us-remasterizado-1500597166",
+    "fotoUrl": "https://img.olx.com.br/images/19/191650523948381.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/191650523948381.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778292457
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:00",
     "fotoUrl": "https://img.olx.com.br/images/57/579668400327056.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/579668400327056.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/62/623690522318996.jpg",
       "https://img.olx.com.br/images/64/649696521278541.jpg"
     ],
-    "defeito": false,
+    "id": "1500595216",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1500595216",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "Ps4",
     "ts": 1778292007
   },
   {
@@ -9867,23 +9885,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2026",
     "titulo": "Jogo de videogame Batman Arkham Asylum para Microsoft Xbox 360 original ",
     "ts": 1778241375
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:56",
-    "fotoUrl": "https://img.olx.com.br/images/35/350692755918336.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/350692755918336.jpg"
-    ],
-    "id": "1492162335",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-de-videogame-diablo-ultimate-evil-edition-original-para-ps4-1492162335",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Jogo de videogame Diablo Ultimate Evil Edition original para PS4 ",
-    "ts": 1778241364
   }
 ]
