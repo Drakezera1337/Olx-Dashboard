@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500730041",
-    "titulo": "Xbox Series S (Seminovo)",
+    "id": "1500729870",
+    "titulo": "Xbox séries S",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "12:45",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde outubro de 2017",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-seminovo-1500730041",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1500729870",
+    "fotoUrl": "https://img.olx.com.br/images/54/544670408501775.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/544670408501775.jpg",
+      "https://img.olx.com.br/images/55/551681044426905.jpg",
+      "https://img.olx.com.br/images/57/574676524321804.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778341547
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:45",
     "fotoUrl": "https://img.olx.com.br/images/97/977694520032072.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/977694520032072.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/10/100633767695156.jpg",
       "https://img.olx.com.br/images/15/155658288195343.jpg"
     ],
-    "defeito": false,
+    "id": "1500730041",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-seminovo-1500730041",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox Series S (Seminovo)",
     "ts": 1778341538
   },
   {
@@ -9887,25 +9907,5 @@
     "tempoOlx": "Na OLX desde junho de 2019",
     "titulo": "Jogo Playstation 4/ ps4 mafia 3 completo com mapa",
     "ts": 1778258753
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:45",
-    "fotoUrl": "https://img.olx.com.br/images/95/957683769859979.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/957683769859979.jpg",
-      "https://img.olx.com.br/images/96/964663289417138.jpg",
-      "https://img.olx.com.br/images/97/977639162675093.jpg"
-    ],
-    "id": "1500443368",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lego-harry-potter-collection-ps4-1500443368",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "Lego Harry Potter Collection PS4",
-    "ts": 1778258740
   }
 ]
