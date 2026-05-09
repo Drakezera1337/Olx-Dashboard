@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500800590",
-    "titulo": "Ps5 portal",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "ps5",
+    "id": "1500800374",
+    "titulo": "SOMBRAS DE MORDOR ",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:14",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "detectado": "19:15",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps5-portal-1500800590",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/sombras-de-mordor-1500800374",
+    "fotoUrl": "https://img.olx.com.br/images/32/327680762479539.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/327680762479539.jpg",
+      "https://img.olx.com.br/images/33/337604168902778.jpg",
+      "https://img.olx.com.br/images/35/352612768453501.jpg",
+      "https://img.olx.com.br/images/37/379609768599544.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778364906
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:14",
     "fotoUrl": "https://img.olx.com.br/images/78/789604648131463.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/789604648131463.jpg",
       "https://img.olx.com.br/images/80/809684405412176.jpg",
       "https://img.olx.com.br/images/81/814663526282204.jpg"
     ],
-    "defeito": false,
+    "id": "1500800590",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps5-portal-1500800590",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "Ps5 portal",
     "ts": 1778364848
   },
   {
@@ -9887,27 +9908,5 @@
     "tempoOlx": "Na OLX desde julho de 2022",
     "titulo": "Jogo Rocksmith para PS4",
     "ts": 1778288205
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:56",
-    "fotoUrl": "https://img.olx.com.br/images/90/901616647379908.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/901616647379908.jpg",
-      "https://img.olx.com.br/images/92/929690046745881.jpg",
-      "https://img.olx.com.br/images/93/930612525438034.jpg",
-      "https://img.olx.com.br/images/94/948666402669131.jpg",
-      "https://img.olx.com.br/images/96/964645880804197.jpg"
-    ],
-    "id": "1500578725",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-concrete-genie-para-ps4-1500578725",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2022",
-    "titulo": "Jogo Concrete Genie para PS4",
-    "ts": 1778288197
   }
 ]
