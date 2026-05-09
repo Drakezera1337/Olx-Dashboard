@@ -1,21 +1,43 @@
 [
   {
-    "id": "1500703803",
-    "titulo": "Ps3",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps3",
+    "id": "1487332207",
+    "titulo": "Vídeo Game ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:23",
-    "tempoOlx": "Na OLX desde agosto de 2021",
+    "detectado": "12:24",
+    "tempoOlx": "Na OLX desde novembro de 2017",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-1500703803",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/video-game-1487332207",
+    "fotoUrl": "https://img.olx.com.br/images/26/269612740189960.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/269612740189960.jpg",
+      "https://img.olx.com.br/images/29/299631266821924.jpg",
+      "https://img.olx.com.br/images/31/316610147226763.jpg",
+      "https://img.olx.com.br/images/33/331609508989362.jpg",
+      "https://img.olx.com.br/images/35/356671383462396.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340246
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:23",
     "fotoUrl": "https://img.olx.com.br/images/29/299682402333606.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/299682402333606.jpg",
       "https://img.olx.com.br/images/32/326655409808971.jpg"
     ],
-    "defeito": false,
+    "id": "1500703803",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-1500703803",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2021",
+    "titulo": "Ps3",
     "ts": 1778340238
   },
   {
@@ -9897,23 +9919,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "iPhone 11 128 GB 70% bateria",
     "ts": 1778258035
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:33",
-    "fotoUrl": "https://img.olx.com.br/images/26/262672640023704.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/262672640023704.jpg"
-    ],
-    "id": "1500420379",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps5-playstation-5-1500420379",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2018",
-    "titulo": "PS5 - Playstation 5",
-    "ts": 1778258032
   }
 ]
