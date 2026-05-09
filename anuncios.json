@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500756019",
-    "titulo": "Playstation 4 com defeito + Placa ps4 danificada",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "ps4",
+    "id": "1500756371",
+    "titulo": "Ps5 slin ",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "15:13",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-com-defeito-placa-ps4-danificada-1500756019",
+    "link": "https://pi.olx.com.br/regiao-de-picos-e-floriano/games/jogos-de-video-game/ps5-slin-1500756371",
+    "fotoUrl": "https://img.olx.com.br/images/68/685618042647800.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/685618042647800.jpg",
+      "https://img.olx.com.br/images/71/711633045967472.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778350403
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:13",
     "fotoUrl": "https://img.olx.com.br/images/77/777608647898178.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/777608647898178.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/79/792669889016115.jpg",
       "https://img.olx.com.br/images/80/800623768142914.jpg"
     ],
-    "defeito": false,
+    "id": "1500756019",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-com-defeito-placa-ps4-danificada-1500756019",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "titulo": "Playstation 4 com defeito + Placa ps4 danificada",
     "ts": 1778350395
   },
   {
@@ -9905,28 +9924,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Tom Clancy´s Ghost Recon Breakpoint - PS4/PS5 - Seminovo",
     "ts": 1778273358
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:49",
-    "fotoUrl": "https://img.olx.com.br/images/36/367688401612023.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/367688401612023.jpg",
-      "https://img.olx.com.br/images/37/379690400238791.jpg",
-      "https://img.olx.com.br/images/39/393685289118870.jpg",
-      "https://img.olx.com.br/images/41/415646640055710.jpg",
-      "https://img.olx.com.br/images/43/434657169528747.jpg",
-      "https://img.olx.com.br/images/44/443606644749828.jpg"
-    ],
-    "id": "1500512390",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps4-1500512390",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Vendo ps4",
-    "ts": 1778273347
   }
 ]
