@@ -1,7 +1,7 @@
 [
   {
-    "id": "1500597166",
-    "titulo": "PS4 - The Last of Us Remasterizado",
+    "id": "1500596871",
+    "titulo": "PS4 - Uncharted 4",
     "preco": 50,
     "precoRaw": "R$ 50",
     "categoria": "ps4",
@@ -9,12 +9,30 @@
     "detectado": "23:07",
     "tempoOlx": "Na OLX desde abril de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-the-last-of-us-remasterizado-1500597166",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-uncharted-4-1500596871",
+    "fotoUrl": "https://img.olx.com.br/images/98/988676767085010.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/988676767085010.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778292464
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:07",
     "fotoUrl": "https://img.olx.com.br/images/19/191650523948381.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/191650523948381.jpg"
     ],
-    "defeito": false,
+    "id": "1500597166",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-the-last-of-us-remasterizado-1500597166",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2018",
+    "titulo": "PS4 - The Last of Us Remasterizado",
     "ts": 1778292457
   },
   {
@@ -9867,23 +9885,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Tower of Guns Special Edition",
     "ts": 1778241384
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:56",
-    "fotoUrl": "https://img.olx.com.br/images/11/119681632805391.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/119681632805391.jpg"
-    ],
-    "id": "1492163977",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-de-videogame-batman-arkham-asylum-para-microsoft-xbox-360-original-1492163977",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Jogo de videogame Batman Arkham Asylum para Microsoft Xbox 360 original ",
-    "ts": 1778241375
   }
 ]
