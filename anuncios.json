@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500596871",
-    "titulo": "PS4 - Uncharted 4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1500596564",
+    "titulo": "PS4 - God of War Ragnarok",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "23:07",
     "tempoOlx": "Na OLX desde abril de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-uncharted-4-1500596871",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-god-of-war-ragnarok-1500596564",
+    "fotoUrl": "https://img.olx.com.br/images/27/277683646578075.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/277683646578075.jpg",
+      "https://img.olx.com.br/images/29/291658286225915.jpg",
+      "https://img.olx.com.br/images/31/314621520550116.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778292472
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:07",
     "fotoUrl": "https://img.olx.com.br/images/98/988676767085010.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/988676767085010.jpg"
     ],
-    "defeito": false,
+    "id": "1500596871",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-uncharted-4-1500596871",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2018",
+    "titulo": "PS4 - Uncharted 4",
     "ts": 1778292464
   },
   {
@@ -9867,23 +9887,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "The Last of Us Remasterizado para PlayStation 4",
     "ts": 1778241392
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:56",
-    "fotoUrl": "https://img.olx.com.br/images/36/360661620003800.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/360661620003800.jpg"
-    ],
-    "id": "1483441524",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/tower-of-guns-special-edition-1483441524",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Tower of Guns Special Edition",
-    "ts": 1778241384
   }
 ]
