@@ -1,21 +1,39 @@
 [
   {
-    "id": "1500787370",
-    "titulo": "iPhone 7 com defeito",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "iphone",
+    "id": "1500700529",
+    "titulo": "XBOX SERIES S - SEMINOVO",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "18:16",
-    "tempoOlx": "Na OLX desde agosto de 2024",
+    "detectado": "18:18",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-com-defeito-1500787370",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-seminovo-1500700529",
+    "fotoUrl": "https://img.olx.com.br/images/44/448633167518963.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/448633167518963.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778361515
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:16",
     "fotoUrl": "https://img.olx.com.br/images/40/408615524150932.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/408615524150932.jpg",
       "https://img.olx.com.br/images/41/412606766827662.jpg"
     ],
-    "defeito": false,
+    "id": "1500787370",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-com-defeito-1500787370",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "titulo": "iPhone 7 com defeito",
     "ts": 1778361396
   },
   {
@@ -9908,25 +9926,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "The last of us part 2 ps4",
     "ts": 1778283048
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:30",
-    "fotoUrl": "https://img.olx.com.br/images/83/834660881293661.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/834660881293661.jpg",
-      "https://img.olx.com.br/images/86/864691883099240.jpg",
-      "https://img.olx.com.br/images/88/882672523268184.jpg"
-    ],
-    "id": "1500552690",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/final-fantasy-xv-ps4-jogo-1500552690",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2022",
-    "titulo": "FINAL FANTASY XV - PS4 JOGO",
-    "ts": 1778283037
   }
 ]
