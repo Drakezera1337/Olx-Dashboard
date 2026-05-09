@@ -1,15 +1,31 @@
 [
   {
-    "id": "1499818959",
-    "titulo": "Xbox séries s",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "xbox",
+    "id": "1500731259",
+    "titulo": "Nintendo switch lite desbloqueado ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "12:51",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/xbox-series-s-1499818959",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-desbloqueado-1500731259",
+    "fotoUrl": "https://img.olx.com.br/images/65/659602168014243.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/659602168014243.jpg",
+      "https://img.olx.com.br/images/67/678638645381570.jpg",
+      "https://img.olx.com.br/images/68/689663641700150.jpg",
+      "https://img.olx.com.br/images/70/704684641717108.jpg",
+      "https://img.olx.com.br/images/71/717616881743637.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778341907
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:51",
     "fotoUrl": "https://img.olx.com.br/images/22/228629640815823.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/228629640815823.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/26/265644409232729.jpg",
       "https://img.olx.com.br/images/27/279653882018649.jpg"
     ],
-    "defeito": false,
+    "id": "1499818959",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/xbox-series-s-1499818959",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Xbox séries s",
     "ts": 1778341898
   },
   {
@@ -9894,23 +9916,5 @@
     "tempoOlx": "Na OLX desde junho de 2016",
     "titulo": "PS4 Dark Souls III Completo",
     "ts": 1778258814
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:46",
-    "fotoUrl": "https://img.olx.com.br/images/30/306617402570958.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/306617402570958.jpg"
-    ],
-    "id": "1500442441",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-resident-evil-village-1500442441",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "PS4 Resident Evil Village",
-    "ts": 1778258806
   }
 ]
