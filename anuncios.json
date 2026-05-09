@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500729870",
-    "titulo": "Xbox séries S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1500729342",
+    "titulo": "Psvita Branco Quebrado ",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "12:45",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1500729870",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psvita-branco-quebrado-1500729342",
+    "fotoUrl": "https://img.olx.com.br/images/78/786640408965926.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/786640408965926.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778341554
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:45",
     "fotoUrl": "https://img.olx.com.br/images/54/544670408501775.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/544670408501775.jpg",
       "https://img.olx.com.br/images/55/551681044426905.jpg",
       "https://img.olx.com.br/images/57/574676524321804.jpg"
     ],
-    "defeito": false,
+    "id": "1500729870",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1500729870",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "Xbox séries S",
     "ts": 1778341547
   },
   {
@@ -9886,26 +9904,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "God of War Ragnarok PS4",
     "ts": 1778258761
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:45",
-    "fotoUrl": "https://img.olx.com.br/images/33/333624166779460.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/333624166779460.jpg",
-      "https://img.olx.com.br/images/35/359618525149412.jpg",
-      "https://img.olx.com.br/images/39/392650042270610.jpg",
-      "https://img.olx.com.br/images/41/417674769719114.jpg"
-    ],
-    "id": "1500443358",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-playstation-4-ps4-mafia-3-completo-com-mapa-1500443358",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2019",
-    "titulo": "Jogo Playstation 4/ ps4 mafia 3 completo com mapa",
-    "ts": 1778258753
   }
 ]
