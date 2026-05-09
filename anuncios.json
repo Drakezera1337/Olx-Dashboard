@@ -1,5 +1,46 @@
 [
   {
+    "id": "1500801335",
+    "titulo": "Xbox s",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "xbox",
+    "publicado": "",
+    "detectado": "19:19",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "descricao": "",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-s-1500801335",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1778365145
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:16",
+    "fotoUrl": "https://img.olx.com.br/images/68/683514224799571.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/683514224799571.jpg",
+      "https://img.olx.com.br/images/68/681568109876552.jpg",
+      "https://img.olx.com.br/images/68/688584705854973.jpg",
+      "https://img.olx.com.br/images/68/688542820023227.jpg",
+      "https://img.olx.com.br/images/68/687514582116659.jpg",
+      "https://img.olx.com.br/images/68/681536228714865.jpg"
+    ],
+    "id": "1449937677",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogo-darius-burst-ex-plus-another-chronicle-nintendo-switch-1449937677",
+    "preco": 449,
+    "precoRaw": "R$ 449",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2013",
+    "titulo": "Jogo Darius Burst Ex Plus Another Chronicle Nintendo Switch",
+    "ts": 1778364967
+  },
+  {
     "id": "1500800672",
     "titulo": "Iphone 12 64gb Branco",
     "preco": 1800,
@@ -9867,48 +9908,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "PS4 Slim 500GB Gabe",
     "ts": 1778288288
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:57",
-    "fotoUrl": "https://img.olx.com.br/images/54/541616523595003.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/541616523595003.jpg",
-      "https://img.olx.com.br/images/55/553642761975776.jpg",
-      "https://img.olx.com.br/images/57/571632645809337.jpg",
-      "https://img.olx.com.br/images/58/580633526726805.jpg",
-      "https://img.olx.com.br/images/60/605603280520768.jpg"
-    ],
-    "id": "1500575508",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-tom-clancy-s-the-division-para-ps4-1500575508",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2022",
-    "titulo": "Jogo Tom Clancy's: The Division para PS4",
-    "ts": 1778288257
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:57",
-    "fotoUrl": "https://img.olx.com.br/images/72/725627150475196.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/725627150475196.jpg",
-      "https://img.olx.com.br/images/73/731697754152308.jpg",
-      "https://img.olx.com.br/images/74/749622272230020.jpg",
-      "https://img.olx.com.br/images/76/760690159961651.jpg"
-    ],
-    "id": "1491222753",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-red-dead-ii-redenption-2-cds-estado-de-novo-1491222753",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "Jogo PS4 Red Dead II Redenption 2 cds estado de novo",
-    "ts": 1778288248
   }
 ]
