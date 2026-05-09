@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500759990",
-    "titulo": "PS5 SLIM 1TB",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1500803828",
+    "titulo": "XBOX SERIES S ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "19:32",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "19:38",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-slim-1tb-1500759990",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1500803828",
+    "fotoUrl": "https://img.olx.com.br/images/88/882694162751977.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/882694162751977.jpg",
+      "https://img.olx.com.br/images/89/893690401200989.jpg",
+      "https://img.olx.com.br/images/91/919617647074996.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778366318
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:32",
     "fotoUrl": "https://img.olx.com.br/images/40/404650168480301.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/404650168480301.jpg"
     ],
-    "defeito": false,
+    "id": "1500759990",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-slim-1tb-1500759990",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS5 SLIM 1TB",
     "ts": 1778365956
   },
   {
@@ -9881,26 +9901,5 @@
     "tempoOlx": "Na OLX desde outubro de 2013",
     "titulo": "Formula 1   2015   PS 4 ",
     "ts": 1778289636
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:19",
-    "fotoUrl": "https://img.olx.com.br/images/23/238625288442467.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/238625288442467.jpg",
-      "https://img.olx.com.br/images/25/251679047889212.jpg",
-      "https://img.olx.com.br/images/26/260641169009900.jpg",
-      "https://img.olx.com.br/images/28/286639760313569.jpg"
-    ],
-    "id": "1500583819",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-512gb-1500583819",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
-    "titulo": "iPhone 13 Pro Max 512GB",
-    "ts": 1778289548
   }
 ]
