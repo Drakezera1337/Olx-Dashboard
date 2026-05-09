@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500811432",
-    "titulo": "XBOX SÉRIES S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1500811796",
+    "titulo": "Jogo PS3 Lacrado Uncharted 2 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "20:36",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-series-s-1500811432",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogo-ps3-lacrado-uncharted-2-1500811796",
+    "fotoUrl": "https://img.olx.com.br/images/30/307674525207218.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/307674525207218.jpg",
+      "https://img.olx.com.br/images/38/381617764014407.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778369797
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:36",
     "fotoUrl": "https://img.olx.com.br/images/56/563655887659695.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/563655887659695.jpg",
       "https://img.olx.com.br/images/58/589629162539226.jpg"
     ],
-    "defeito": false,
+    "id": "1500811432",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-series-s-1500811432",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "titulo": "XBOX SÉRIES S ",
     "ts": 1778369770
   },
   {
@@ -9874,23 +9893,5 @@
     "tempoOlx": "Na OLX desde abril de 2018",
     "titulo": "PS4 - Final Fantasy XV - Edição Day One",
     "ts": 1778293123
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:18",
-    "fotoUrl": "https://img.olx.com.br/images/37/371513451131826.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/371513451131826.jpg"
-    ],
-    "id": "1447164215",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/the-last-of-us-parte-2-de-ps4-original-novo-e-lacrado-aceito-cartao-1447164215",
-    "preco": 149,
-    "precoRaw": "R$ 149",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2019",
-    "titulo": "The Last Of Us Parte 2 de PS4 Original Novo e Lacrado | Aceito Cartão!!!",
-    "ts": 1778293115
   }
 ]
