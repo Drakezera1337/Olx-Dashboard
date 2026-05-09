@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500752591",
-    "titulo": "Vendo PS4 revisado ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1500752295",
+    "titulo": "Jogos de Vídeo game ",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "14:51",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "tempoOlx": "Na OLX desde outubro de 2021",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-divinopolis/games/jogos-de-video-game/vendo-ps4-revisado-1500752591",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-video-game-1500752295",
+    "fotoUrl": "https://img.olx.com.br/images/44/440606282383674.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/440606282383674.jpg",
+      "https://img.olx.com.br/images/45/452699163340920.jpg",
+      "https://img.olx.com.br/images/46/462615042976267.jpg",
+      "https://img.olx.com.br/images/47/473673886909208.jpg",
+      "https://img.olx.com.br/images/49/491674642797169.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778349076
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:51",
     "fotoUrl": "https://img.olx.com.br/images/18/188685161728551.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/188685161728551.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/20/207684640556096.jpg",
       "https://img.olx.com.br/images/21/218697644663332.jpg"
     ],
-    "defeito": false,
+    "id": "1500752591",
+    "link": "https://mg.olx.com.br/regiao-de-divinopolis/games/jogos-de-video-game/vendo-ps4-revisado-1500752591",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Vendo PS4 revisado ",
     "ts": 1778349068
   },
   {
@@ -9908,25 +9930,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "JOGO FIFA 17 PS4",
     "ts": 1778272795
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:39",
-    "fotoUrl": "https://img.olx.com.br/images/75/755642401716415.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/755642401716415.jpg",
-      "https://img.olx.com.br/images/77/777638046843842.jpg",
-      "https://img.olx.com.br/images/81/817602289768998.jpg"
-    ],
-    "id": "1500479455",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/playstation-4-pro-edition-the-last-of-us-2-1tb-1500479455",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
-    "titulo": "Playstation 4 Pro Edition The Last of Us 2 1TB",
-    "ts": 1778272788
   }
 ]
