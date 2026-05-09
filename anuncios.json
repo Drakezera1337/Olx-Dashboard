@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500586059",
-    "titulo": "Ps3 Slim CFW - Defeito HDMI",
-    "preco": 399,
-    "precoRaw": "R$ 399",
-    "categoria": "ps3",
+    "id": "1500587093",
+    "titulo": "Jogo Plants vs Zombie 2 Ps4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:23",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "detectado": "22:26",
+    "tempoOlx": "Na OLX desde junho de 2014",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-slim-cfw-defeito-hdmi-1500586059",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogo-plants-vs-zombie-2-ps4-1500587093",
+    "fotoUrl": "https://img.olx.com.br/images/91/919623521727708.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/919623521727708.jpg",
+      "https://img.olx.com.br/images/93/931687405369812.jpg",
+      "https://img.olx.com.br/images/94/943659041902978.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778289998
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:23",
     "fotoUrl": "https://img.olx.com.br/images/23/237620165692042.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/237620165692042.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/26/264642642876910.jpg",
       "https://img.olx.com.br/images/22/220673403839141.jpg"
     ],
-    "defeito": false,
+    "id": "1500586059",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-slim-cfw-defeito-hdmi-1500586059",
+    "preco": 399,
+    "precoRaw": "R$ 399",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Ps3 Slim CFW - Defeito HDMI",
     "ts": 1778289817
   },
   {
@@ -9858,24 +9878,5 @@
     "tempoOlx": "Na OLX desde maio de 2016",
     "titulo": "Vendo Ps5 Slim Digital 1Tb Lacrado Garantia nota fiscal",
     "ts": 1778218177
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:20",
-    "fotoUrl": "https://img.olx.com.br/images/13/139672400249153.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/139672400249153.jpg",
-      "https://img.olx.com.br/images/16/166694760839375.jpg"
-    ],
-    "id": "1500303175",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500303175",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2017",
-    "titulo": "iPhone 11",
-    "ts": 1778217643
   }
 ]
