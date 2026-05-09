@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500800937",
-    "titulo": "Ps5 ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1500801404",
+    "titulo": "GTA 5 mais Lego",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:20",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "detectado": "19:21",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-1500800937",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-5-mais-lego-1500801404",
+    "fotoUrl": "https://img.olx.com.br/images/42/423623765881606.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/423623765881606.jpg",
+      "https://img.olx.com.br/images/44/445638165739047.jpg",
+      "https://img.olx.com.br/images/46/464602766226378.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778365267
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:20",
     "fotoUrl": "https://img.olx.com.br/images/71/718648644370133.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/718648644370133.jpg"
     ],
-    "defeito": false,
+    "id": "1500800937",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-1500800937",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "Ps5 ",
     "ts": 1778365235
   },
   {
@@ -9883,25 +9903,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Lote Jogos PS4 e PS5 Originais - FF7 Rebirth, TLOU, Ragnarök e mais",
     "ts": 1778289278
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:08",
-    "fotoUrl": "https://img.olx.com.br/images/81/810616283043886.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/810616283043886.jpg",
-      "https://img.olx.com.br/images/83/830638163277257.jpg",
-      "https://img.olx.com.br/images/36/363658400793914.jpg"
-    ],
-    "id": "1500580679",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-18-ps4-1500580679",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "FIFA 18 PS4",
-    "ts": 1778288918
   }
 ]
