@@ -1,22 +1,42 @@
 [
   {
-    "id": "1500609243",
-    "titulo": "iPhone 13 Pro Max 128gb grafite",
-    "preco": 3090,
-    "precoRaw": "R$ 3.090",
-    "categoria": "iphone",
+    "id": "1500605467",
+    "titulo": "PS4 - Sombras da Guerra - Edição Exclusiva ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:08",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "detectado": "00:12",
+    "tempoOlx": "Na OLX desde abril de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-128gb-grafite-1500609243",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-sombras-da-guerra-edicao-exclusiva-1500605467",
+    "fotoUrl": "https://img.olx.com.br/images/44/449636047192357.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/449636047192357.jpg",
+      "https://img.olx.com.br/images/45/451650766463683.jpg",
+      "https://img.olx.com.br/images/47/474628526281449.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778296327
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:08",
     "fotoUrl": "https://img.olx.com.br/images/10/100655166795657.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/100655166795657.jpg",
       "https://img.olx.com.br/images/12/128642520598032.jpg",
       "https://img.olx.com.br/images/13/133653527572909.jpg"
     ],
-    "defeito": false,
+    "id": "1500609243",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-128gb-grafite-1500609243",
+    "preco": 3090,
+    "precoRaw": "R$ 3.090",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "titulo": "iPhone 13 Pro Max 128gb grafite",
     "ts": 1778296118
   },
   {
@@ -9881,26 +9901,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Kill Zone Shadow Fall PS4",
     "ts": 1778241710
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:01",
-    "fotoUrl": "https://img.olx.com.br/images/97/977584688701677.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/977584688701677.jpg",
-      "https://img.olx.com.br/images/98/989575807004914.jpg",
-      "https://img.olx.com.br/images/97/973524201632293.jpg",
-      "https://img.olx.com.br/images/98/987556449582122.jpg"
-    ],
-    "id": "1433348679",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-1433348679",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Cyberpunk 2077 PS4",
-    "ts": 1778241701
   }
 ]
