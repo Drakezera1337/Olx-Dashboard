@@ -1,20 +1,41 @@
 [
   {
-    "id": "1500785789",
-    "titulo": "PLAYSTATION 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1500784838",
+    "titulo": "Playstation Portal",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:09",
-    "tempoOlx": "Na OLX desde março de 2025",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-1500785789",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-portal-1500784838",
+    "fotoUrl": "https://img.olx.com.br/images/66/660647645060909.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/660647645060909.jpg",
+      "https://img.olx.com.br/images/67/677653769511228.jpg",
+      "https://img.olx.com.br/images/71/713633402553218.jpg",
+      "https://img.olx.com.br/images/72/726666762736364.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778360953
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:09",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1500785789",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-1500785789",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2025",
+    "titulo": "PLAYSTATION 5",
     "ts": 1778360946
   },
   {
@@ -9910,23 +9931,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "iPhone 16",
     "ts": 1778282827
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:25",
-    "fotoUrl": "https://img.olx.com.br/images/94/949621167871919.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/949621167871919.jpg"
-    ],
-    "id": "1500550539",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/ps4-1tb-semi-novo-1500550539",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2021",
-    "titulo": "PS4 1TB SEMI NOVO ",
-    "ts": 1778282707
   }
 ]
