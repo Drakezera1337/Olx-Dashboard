@@ -1,15 +1,30 @@
 [
   {
-    "id": "1446280512",
-    "titulo": "Jogos PlayStation 3",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "categoria": "ps3",
+    "id": "1491572926",
+    "titulo": "Jogo de PS4/PS5 - Spiderman",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "20:28",
-    "tempoOlx": "Na OLX desde abril de 2025",
+    "detectado": "20:31",
+    "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-playstation-3-1446280512",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-de-ps4-ps5-spiderman-1491572926",
+    "fotoUrl": "https://img.olx.com.br/images/96/967617753326345.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/967617753326345.jpg",
+      "https://img.olx.com.br/images/97/972664038694238.jpg",
+      "https://img.olx.com.br/images/13/131674632313926.jpg",
+      "https://img.olx.com.br/images/15/152692516218355.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778369469
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:28",
     "fotoUrl": "https://img.olx.com.br/images/82/825507455130554.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/825507455130554.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/84/841590097961151.jpg",
       "https://img.olx.com.br/images/86/869586218562656.jpg"
     ],
-    "defeito": false,
+    "id": "1446280512",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-playstation-3-1446280512",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "Jogos PlayStation 3",
     "ts": 1778369297
   },
   {
@@ -9868,26 +9889,5 @@
     "tempoOlx": "Na OLX desde abril de 2018",
     "titulo": "PS4 - FIFA 18",
     "ts": 1778292850
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:14",
-    "fotoUrl": "https://img.olx.com.br/images/92/926697525099673.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/926697525099673.jpg",
-      "https://img.olx.com.br/images/93/935696165126223.jpg",
-      "https://img.olx.com.br/images/94/947604284462359.jpg",
-      "https://img.olx.com.br/images/95/956689762228436.jpg"
-    ],
-    "id": "1500597852",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-evil-within-2-ps4-jogo-original-1500597852",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
-    "titulo": "The Evil Within 2 - PS4 - Jogo Original.",
-    "ts": 1778292843
   }
 ]
