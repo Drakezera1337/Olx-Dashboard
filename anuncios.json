@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500751944",
-    "titulo": "XBOX SÉRIES S ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1500752591",
+    "titulo": "Vendo PS4 revisado ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:48",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "detectado": "14:51",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1500751944",
+    "link": "https://mg.olx.com.br/regiao-de-divinopolis/games/jogos-de-video-game/vendo-ps4-revisado-1500752591",
+    "fotoUrl": "https://img.olx.com.br/images/18/188685161728551.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/188685161728551.jpg",
+      "https://img.olx.com.br/images/19/199689407270616.jpg",
+      "https://img.olx.com.br/images/20/207684640556096.jpg",
+      "https://img.olx.com.br/images/21/218697644663332.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778349068
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:48",
     "fotoUrl": "https://img.olx.com.br/images/92/921636408310954.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/921636408310954.jpg",
       "https://img.olx.com.br/images/94/942633880304029.jpg",
       "https://img.olx.com.br/images/95/957678161843300.jpg"
     ],
-    "defeito": false,
+    "id": "1500751944",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1500751944",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "titulo": "XBOX SÉRIES S ",
     "ts": 1778348886
   },
   {
@@ -9907,26 +9928,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2019",
     "titulo": "Playstation 4 Pro Edition The Last of Us 2 1TB",
     "ts": 1778272788
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:39",
-    "fotoUrl": "https://img.olx.com.br/images/51/516682646922645.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/516682646922645.jpg",
-      "https://img.olx.com.br/images/53/538662166673138.jpg",
-      "https://img.olx.com.br/images/57/575670048211973.jpg",
-      "https://img.olx.com.br/images/60/606665403165429.jpg"
-    ],
-    "id": "1500479472",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/horizon-forbbiden-west-para-ps4-ps5-1500479472",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2021",
-    "titulo": "Horizon Forbbiden West para PS4/PS5",
-    "ts": 1778272779
   }
 ]
