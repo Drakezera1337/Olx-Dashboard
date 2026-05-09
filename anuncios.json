@@ -1,15 +1,29 @@
 [
   {
-    "id": "1477320710",
-    "titulo": "Xbox one s",
-    "preco": 1099,
-    "precoRaw": "R$ 1.099",
-    "categoria": "xbox",
+    "id": "1500732172",
+    "titulo": "PS Portal",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "12:56",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "tempoOlx": "Na OLX desde novembro de 2014",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1477320710",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/ps-portal-1500732172",
+    "fotoUrl": "https://img.olx.com.br/images/20/208627761427946.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/208627761427946.jpg",
+      "https://img.olx.com.br/images/21/214680162135179.jpg",
+      "https://img.olx.com.br/images/22/229650162126488.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778342196
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:56",
     "fotoUrl": "https://img.olx.com.br/images/73/738677610237489.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/738677610237489.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/80/805627612718045.jpg",
       "https://img.olx.com.br/images/82/821641250150399.jpg"
     ],
-    "defeito": false,
+    "id": "1477320710",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1477320710",
+    "preco": 1099,
+    "precoRaw": "R$ 1.099",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Xbox one s",
     "ts": 1778342167
   },
   {
@@ -9907,23 +9927,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "star ocean.ps4",
     "ts": 1778258855
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:47",
-    "fotoUrl": "https://img.olx.com.br/images/34/342668483318233.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/342668483318233.jpg"
-    ],
-    "id": "1473997195",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/judgmento-ps4-1473997195",
-    "preco": 159,
-    "precoRaw": "R$ 159",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "judgmento ps4",
-    "ts": 1778258847
   }
 ]
