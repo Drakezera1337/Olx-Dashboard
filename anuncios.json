@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500716375",
-    "titulo": "Uncharted 4 ps4",
-    "preco": 44,
-    "precoRaw": "R$ 44",
+    "id": "1500716115",
+    "titulo": "Ghost Of Tsushima Versão do Diretor - PS4 - Lacrado",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:28",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/uncharted-4-ps4-1500716375",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-versao-do-diretor-ps4-lacrado-1500716115",
+    "fotoUrl": "https://img.olx.com.br/images/34/347601162524917.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/347601162524917.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340535
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:28",
     "fotoUrl": "https://img.olx.com.br/images/85/851637044060774.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/851637044060774.jpg",
       "https://img.olx.com.br/images/86/869607284154873.jpg",
       "https://img.olx.com.br/images/88/886625049175367.jpg"
     ],
-    "defeito": false,
+    "id": "1500716375",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/uncharted-4-ps4-1500716375",
+    "preco": 44,
+    "precoRaw": "R$ 44",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Uncharted 4 ps4",
     "ts": 1778340527
   },
   {
@@ -9900,26 +9918,5 @@
     "tempoOlx": "Na OLX desde setembro de 2020",
     "titulo": "Jogo Pokémon Snap",
     "ts": 1778258341
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:38",
-    "fotoUrl": "https://img.olx.com.br/images/15/150637168193309.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/150637168193309.jpg",
-      "https://img.olx.com.br/images/17/172697526500057.jpg",
-      "https://img.olx.com.br/images/18/182680167347276.jpg",
-      "https://img.olx.com.br/images/19/192684281109889.jpg"
-    ],
-    "id": "1500447186",
-    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/consoles-de-video-game/nintendo-switch-lite-1500447186",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
-    "titulo": "Nintendo Switch Lite",
-    "ts": 1778258331
   }
 ]
