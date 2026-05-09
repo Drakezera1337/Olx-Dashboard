@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500754018",
-    "titulo": "Vende-se PlayStation 4 ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1500754731",
+    "titulo": "HORIZON ZERO DAWN COMPLETE EDITION - PS4 - PS5",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:01",
+    "detectado": "15:02",
     "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vende-se-playstation-4-1500754018",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/horizon-zero-dawn-complete-edition-ps4-ps5-1500754731",
+    "fotoUrl": "https://img.olx.com.br/images/85/850696041267288.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/850696041267288.jpg",
+      "https://img.olx.com.br/images/86/863642529599910.jpg",
+      "https://img.olx.com.br/images/90/905644646960069.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778349727
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:01",
     "fotoUrl": "https://img.olx.com.br/images/81/813622409296861.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/813622409296861.jpg",
       "https://img.olx.com.br/images/81/819638044210379.jpg"
     ],
-    "defeito": false,
+    "id": "1500754018",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vende-se-playstation-4-1500754018",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Vende-se PlayStation 4 ",
     "ts": 1778349696
   },
   {
@@ -9913,28 +9933,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "Never Dead - PS3 - (lacrado)",
     "ts": 1778272989
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:43",
-    "fotoUrl": "https://img.olx.com.br/images/49/497684040192326.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/497684040192326.jpg",
-      "https://img.olx.com.br/images/53/532670402900069.jpg",
-      "https://img.olx.com.br/images/54/541618762986310.jpg",
-      "https://img.olx.com.br/images/55/551690643320743.jpg",
-      "https://img.olx.com.br/images/57/577690408821471.jpg",
-      "https://img.olx.com.br/images/58/587630401398662.jpg"
-    ],
-    "id": "1500508250",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-1500508250",
-    "preco": 6800,
-    "precoRaw": "R$ 6.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "iPhone 17 pro Max",
-    "ts": 1778272987
   }
 ]
