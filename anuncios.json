@@ -1,22 +1,42 @@
 [
   {
-    "id": "1500686548",
-    "titulo": "Xbox séries S ",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
+    "id": "1491642453",
+    "titulo": "XBOX SERIE X",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "12:25",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1500686548",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-serie-x-1491642453",
+    "fotoUrl": "https://img.olx.com.br/images/61/617639395069751.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/617639395069751.jpg",
+      "https://img.olx.com.br/images/62/625640512155927.jpg",
+      "https://img.olx.com.br/images/62/620656272366468.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340334
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:25",
     "fotoUrl": "https://img.olx.com.br/images/68/688677526471656.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/688677526471656.jpg",
       "https://img.olx.com.br/images/69/692674886926057.jpg",
       "https://img.olx.com.br/images/69/696669887875749.jpg"
     ],
-    "defeito": false,
+    "id": "1500686548",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1500686548",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Xbox séries S ",
     "ts": 1778340327
   },
   {
@@ -9900,23 +9920,5 @@
     "tempoOlx": "Na OLX desde junho de 2017",
     "titulo": "Jogos Ps4",
     "ts": 1778258132
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:35",
-    "fotoUrl": "https://img.olx.com.br/images/10/108675041507360.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/108675041507360.jpg"
-    ],
-    "id": "1500447655",
-    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/consoles-de-video-game/hotwheels-scuderia-ferrari-formula-1-1500447655",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Hotwheels Scuderia Ferrari Fórmula 1",
-    "ts": 1778258124
   }
 ]
