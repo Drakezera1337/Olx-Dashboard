@@ -1,21 +1,42 @@
 [
   {
-    "id": "1500688705",
-    "titulo": "Xbox 360 Super Slim, Desbloqueado",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1432168523",
+    "titulo": "Xbox One S - 1 Tera",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "12:23",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "tempoOlx": "Na OLX desde setembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/xbox-360-super-slim-desbloqueado-1500688705",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1-tera-1432168523",
+    "fotoUrl": "https://img.olx.com.br/images/48/487504316591615.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/487504316591615.jpg",
+      "https://img.olx.com.br/images/48/488517076390400.jpg",
+      "https://img.olx.com.br/images/48/482510553132425.jpg",
+      "https://img.olx.com.br/images/48/486571678854118.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340216
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:23",
     "fotoUrl": "https://img.olx.com.br/images/62/620678165307331.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/620678165307331.jpg",
       "https://img.olx.com.br/images/64/649626641994859.jpg"
     ],
-    "defeito": false,
+    "id": "1500688705",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/xbox-360-super-slim-desbloqueado-1500688705",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "Xbox 360 Super Slim, Desbloqueado",
     "ts": 1778340206
   },
   {
@@ -9895,24 +9916,5 @@
     "tempoOlx": "Na OLX desde julho de 2015",
     "titulo": "Ps5 ",
     "ts": 1778258016
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:33",
-    "fotoUrl": "https://img.olx.com.br/images/28/280639769306257.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/280639769306257.jpg",
-      "https://img.olx.com.br/images/29/296600527628306.jpg"
-    ],
-    "id": "1500451858",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-2300-1500451858",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2015",
-    "titulo": "PlayStation 5 $2300",
-    "ts": 1778258007
   }
 ]
