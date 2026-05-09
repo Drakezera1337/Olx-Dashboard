@@ -1,20 +1,42 @@
 [
   {
-    "id": "1500577010",
-    "titulo": "PS5 slim",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "categoria": "ps5",
+    "id": "1500578725",
+    "titulo": "Jogo Concrete Genie para PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:54",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "detectado": "21:56",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-slim-1500577010",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-concrete-genie-para-ps4-1500578725",
+    "fotoUrl": "https://img.olx.com.br/images/90/901616647379908.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/901616647379908.jpg",
+      "https://img.olx.com.br/images/92/929690046745881.jpg",
+      "https://img.olx.com.br/images/93/930612525438034.jpg",
+      "https://img.olx.com.br/images/94/948666402669131.jpg",
+      "https://img.olx.com.br/images/96/964645880804197.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778288197
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:54",
     "fotoUrl": "https://img.olx.com.br/images/56/561622163075344.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/561622163075344.jpg"
     ],
-    "defeito": false,
+    "id": "1500577010",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-slim-1500577010",
+    "preco": 2550,
+    "precoRaw": "R$ 2.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "PS5 slim",
     "ts": 1778288076
   },
   {
@@ -9844,23 +9866,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "iPhone 15 Pro Max - 256Gb",
     "ts": 1778209659
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:07",
-    "fotoUrl": "https://img.olx.com.br/images/35/352695169010100.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/352695169010100.jpg"
-    ],
-    "id": "1500276428",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/play-station-1500276428",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2025",
-    "titulo": "Play Station",
-    "ts": 1778209657
   }
 ]
