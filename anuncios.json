@@ -1,22 +1,40 @@
 [
   {
-    "id": "1465463719",
-    "titulo": "Jogo ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1500619393",
+    "titulo": "PlayStation 3 com 2 controles",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "00:22",
-    "tempoOlx": "Na OLX desde abril de 2016",
+    "detectado": "00:26",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-1465463719",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-com-2-controles-1500619393",
+    "fotoUrl": "https://img.olx.com.br/images/32/321622885260730.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/321622885260730.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778297197
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:22",
     "fotoUrl": "https://img.olx.com.br/images/92/923515713380880.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/923515713380880.jpg",
       "https://img.olx.com.br/images/93/931504352695483.jpg",
       "https://img.olx.com.br/images/93/936539352146198.jpg"
     ],
-    "defeito": false,
+    "id": "1465463719",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-1465463719",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "Jogo ps4",
     "ts": 1778296964
   },
   {
@@ -9884,24 +9902,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "FIFA 15 PS4 ",
     "ts": 1778241753
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:02",
-    "fotoUrl": "https://img.olx.com.br/images/74/746501813550787.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/746501813550787.jpg",
-      "https://img.olx.com.br/images/74/748509573432784.jpg"
-    ],
-    "id": "1441474967",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-minecraft-ps4-1441474967",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Jogo Minecraft PS4 ",
-    "ts": 1778241742
   }
 ]
