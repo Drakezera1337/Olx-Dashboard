@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500733960",
-    "titulo": "Residente Evil 7 PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1492552705",
+    "titulo": "Coleção Assassins Creed",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "13:10",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "13:15",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/residente-evil-7-ps4-1500733960",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/colecao-assassins-creed-1492552705",
+    "fotoUrl": "https://img.olx.com.br/images/89/894640152336030.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/894640152336030.jpg",
+      "https://img.olx.com.br/images/89/895690758126733.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778343339
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:10",
     "fotoUrl": "https://img.olx.com.br/images/41/411675168693658.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/411675168693658.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/45/459671648923272.jpg",
       "https://img.olx.com.br/images/46/465602528340231.jpg"
     ],
-    "defeito": false,
+    "id": "1500733960",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/residente-evil-7-ps4-1500733960",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Residente Evil 7 PS4",
     "ts": 1778343003
   },
   {
@@ -9907,23 +9926,5 @@
     "tempoOlx": "Na OLX desde outubro de 2021",
     "titulo": "Ghost Recon Wildlands - PS4",
     "ts": 1778259644
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:00",
-    "fotoUrl": "https://img.olx.com.br/images/85/851683407919078.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/851683407919078.jpg"
-    ],
-    "id": "1500459236",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-1500459236",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2016",
-    "titulo": "Playstation 4",
-    "ts": 1778259635
   }
 ]
