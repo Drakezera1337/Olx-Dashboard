@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500765937",
-    "titulo": "PS4",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1500745506",
+    "titulo": "? Call of Duty: WWII - PS4 ?",
+    "preco": 199,
+    "precoRaw": "R$ 199",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:13",
-    "tempoOlx": "Na OLX desde março de 2016",
+    "detectado": "16:14",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-1500765937",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/call-of-duty-wwii-ps4-1500745506",
+    "fotoUrl": "https://img.olx.com.br/images/40/405603161868130.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/405603161868130.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778354045
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:13",
     "fotoUrl": "https://img.olx.com.br/images/95/951628402385463.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/951628402385463.jpg"
     ],
-    "defeito": false,
+    "id": "1500765937",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-1500765937",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2016",
+    "titulo": "PS4",
     "ts": 1778354037
   },
   {
@@ -9919,23 +9937,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "Legendary Fishing PS4 Mídia Física Original Americano",
     "ts": 1778276213
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:36",
-    "fotoUrl": "https://img.olx.com.br/images/27/276632764465106.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/276632764465106.jpg"
-    ],
-    "id": "1500530386",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/lote-com-51-jogos-de-ps3-1500530386",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Lote com 51 jogos de ps3 ",
-    "ts": 1778276204
   }
 ]
