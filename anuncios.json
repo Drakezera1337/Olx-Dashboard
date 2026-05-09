@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500769977",
-    "titulo": "Ps4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1500754141",
+    "titulo": "Ps4 slim",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:33",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "detectado": "16:37",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1500769977",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-slim-1500754141",
+    "fotoUrl": "https://img.olx.com.br/images/12/126676764932470.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/126676764932470.jpg",
+      "https://img.olx.com.br/images/14/147614166549546.jpg",
+      "https://img.olx.com.br/images/15/154662400175213.jpg",
+      "https://img.olx.com.br/images/17/176652281511773.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778355456
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:33",
     "fotoUrl": "https://img.olx.com.br/images/79/799606640214926.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/799606640214926.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/86/866626642847360.jpg",
       "https://img.olx.com.br/images/87/876674042776821.jpg"
     ],
-    "defeito": false,
+    "id": "1500769977",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1500769977",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "Ps4",
     "ts": 1778355218
   },
   {
@@ -9932,23 +9953,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "GTA IV PS3 Original Completo + Mapa<br>Excelente estado",
     "ts": 1778278446
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:12",
-    "fotoUrl": "https://img.olx.com.br/images/73/733698289295005.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/733698289295005.jpg"
-    ],
-    "id": "1500536248",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/lote-de-jogos-de-pley-4-1500536248",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Lote de jogos de Pley 4",
-    "ts": 1778278371
   }
 ]
