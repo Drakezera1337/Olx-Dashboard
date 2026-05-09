@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500592223",
-    "titulo": "Vendo jogos de ps4 ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1481603315",
+    "titulo": "Jogos PS4 [Todos]",
+    "preco": 450,
+    "precoRaw": "R$ 450",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "22:50",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "tempoOlx": "Na OLX desde outubro de 2022",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/vendo-jogos-de-ps4-1500592223",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-todos-1481603315",
+    "fotoUrl": "https://img.olx.com.br/images/28/280602499119189.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/280602499119189.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778291426
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:50",
     "fotoUrl": "https://img.olx.com.br/images/73/737651165611254.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/737651165611254.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/79/798626405058200.jpg",
       "https://img.olx.com.br/images/80/802606404718234.jpg"
     ],
-    "defeito": false,
+    "id": "1500592223",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/vendo-jogos-de-ps4-1500592223",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Vendo jogos de ps4 ",
     "ts": 1778291417
   },
   {
@@ -9870,25 +9888,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "Ps3 funcionando",
     "ts": 1778241326
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:55",
-    "fotoUrl": "https://img.olx.com.br/images/72/723686643928107.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/723686643928107.jpg",
-      "https://img.olx.com.br/images/74/748670048854694.jpg",
-      "https://img.olx.com.br/images/75/753646761051364.jpg"
-    ],
-    "id": "1500371942",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-1500371942",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox",
-    "ts": 1778241316
   }
 ]
