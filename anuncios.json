@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500771788",
-    "titulo": "Jogo de ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1500772643",
+    "titulo": "X-Box one Séries S ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "16:50",
-    "tempoOlx": "Na OLX desde abril de 2018",
+    "detectado": "16:52",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-de-ps4-1500771788",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/x-box-one-series-s-1500772643",
+    "fotoUrl": "https://img.olx.com.br/images/30/302636523755104.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/302636523755104.jpg",
+      "https://img.olx.com.br/images/32/327662525256691.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778356327
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:50",
     "fotoUrl": "https://img.olx.com.br/images/51/517650403516060.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/517650403516060.jpg",
       "https://img.olx.com.br/images/53/536698765229681.jpg",
       "https://img.olx.com.br/images/54/545634400018554.jpg"
     ],
-    "defeito": false,
+    "id": "1500771788",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-de-ps4-1500771788",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2018",
+    "titulo": "Jogo de ps4",
     "ts": 1778356207
   },
   {
@@ -9932,24 +9951,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Ps4 slim 500gb ( 1 controle )",
     "ts": 1778279088
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:19",
-    "fotoUrl": "https://img.olx.com.br/images/76/769433820413422.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/769433820413422.jpg",
-      "https://img.olx.com.br/images/76/761414708185382.jpg"
-    ],
-    "id": "1356570457",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/metal-gear-survive-para-ps4-novo-e-lacrado-1356570457",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "Metal Gear Survive para PS4 novo e lacrado",
-    "ts": 1778278761
   }
 ]
