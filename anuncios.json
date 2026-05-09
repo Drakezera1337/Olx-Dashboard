@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500751472",
-    "titulo": "PlayStation 4 (com defeito) Leia a descrição",
-    "preco": 399,
-    "precoRaw": "R$ 399",
-    "categoria": "ps4",
+    "id": "1500751802",
+    "titulo": "FIFA 19",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "14:45",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-com-defeito-leia-a-descricao-1500751472",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/fifa-19-1500751802",
+    "fotoUrl": "https://img.olx.com.br/images/73/732613289878056.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/732613289878056.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778348716
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:45",
     "fotoUrl": "https://img.olx.com.br/images/55/559690406106623.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/559690406106623.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/58/587682523946303.jpg",
       "https://img.olx.com.br/images/59/597684162843663.jpg"
     ],
-    "defeito": false,
+    "id": "1500751472",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-com-defeito-leia-a-descricao-1500751472",
+    "preco": 399,
+    "precoRaw": "R$ 399",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "PlayStation 4 (com defeito) Leia a descrição",
     "ts": 1778348709
   },
   {
@@ -9916,25 +9934,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2023",
     "titulo": "Battlefield 1 PS4 Seminovo",
     "ts": 1778272728
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:38",
-    "fotoUrl": "https://img.olx.com.br/images/96/962683166460710.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/962683166460710.jpg",
-      "https://img.olx.com.br/images/10/108603529558740.jpg",
-      "https://img.olx.com.br/images/11/115623285034948.jpg"
-    ],
-    "id": "1500482963",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/star-wars-battlefront-ps4-seminovo-1500482963",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Star Wars Battlefront PS4 Seminovo",
-    "ts": 1778272720
   }
 ]
