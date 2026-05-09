@@ -1,21 +1,40 @@
 [
   {
-    "id": "1482995089",
-    "titulo": "FIFA 22 PS4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1459589844",
+    "titulo": "South Park PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:23",
+    "detectado": "16:24",
     "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-22-ps4-1482995089",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/south-park-ps4-1459589844",
+    "fotoUrl": "https://img.olx.com.br/images/98/989584957891006.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/989584957891006.jpg",
+      "https://img.olx.com.br/images/98/989572718729664.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778354642
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:23",
     "fotoUrl": "https://img.olx.com.br/images/97/972603878648639.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/972603878648639.jpg",
       "https://img.olx.com.br/images/97/970616519580269.jpg"
     ],
-    "defeito": false,
+    "id": "1482995089",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-22-ps4-1482995089",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "FIFA 22 PS4",
     "ts": 1778354635
   },
   {
@@ -9927,26 +9946,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Horizon Zero Dawn - Ps4",
     "ts": 1778277649
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:00",
-    "fotoUrl": "https://img.olx.com.br/images/37/370651888911511.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/370651888911511.jpg",
-      "https://img.olx.com.br/images/38/383625283226997.jpg",
-      "https://img.olx.com.br/images/40/408643408573741.jpg",
-      "https://img.olx.com.br/images/41/414639285473524.jpg"
-    ],
-    "id": "1500535079",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/dragon-quest-xi-echoes-of-an-elusive-age-definitive-edition-ps4-1500535079",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "Dragon Quest XI: Echoes Of An Elusive Age - Definitive Edition - PS4",
-    "ts": 1778277641
   }
 ]
