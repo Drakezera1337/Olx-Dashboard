@@ -1,22 +1,41 @@
 [
   {
-    "id": "1481558317",
-    "titulo": "PS3 SLIM COM DEFEITO",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps3",
+    "id": "1498674791",
+    "titulo": "Ps4 Slim Versão Prata 500gb",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:20",
-    "tempoOlx": "Na OLX desde setembro de 2020",
+    "detectado": "15:21",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-slim-com-defeito-1481558317",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-slim-versao-prata-500gb-1498674791",
+    "fotoUrl": "https://img.olx.com.br/images/91/913653528520062.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/913653528520062.jpg",
+      "https://img.olx.com.br/images/93/933698880049203.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778350869
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:20",
     "fotoUrl": "https://img.olx.com.br/images/17/177657377904636.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/177657377904636.jpg",
       "https://img.olx.com.br/images/20/207648733555561.jpg",
       "https://img.olx.com.br/images/22/226621497984464.jpg"
     ],
-    "defeito": false,
+    "id": "1481558317",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-slim-com-defeito-1481558317",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2020",
+    "titulo": "PS3 SLIM COM DEFEITO",
     "ts": 1778350836
   },
   {
@@ -9914,24 +9933,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Jogos de vídeo game 4",
     "ts": 1778274427
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:01",
-    "fotoUrl": "https://img.olx.com.br/images/23/237625405621928.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/237625405621928.jpg",
-      "https://img.olx.com.br/images/25/253655769839102.jpg"
-    ],
-    "id": "1500486063",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-de-playstation-4-a-venda-1500486063",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "JOGO DE PLAYSTATION 4 A VENDA",
-    "ts": 1778274093
   }
 ]
