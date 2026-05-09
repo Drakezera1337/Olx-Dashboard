@@ -1,22 +1,45 @@
 [
   {
-    "id": "1319554753",
-    "titulo": "Formula 1   2015   PS 4 ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1500584557",
+    "titulo": "Jogo PS4 Lego Marvel collection",
+    "preco": 25,
+    "precoRaw": "R$ 25",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "22:20",
-    "tempoOlx": "Na OLX desde outubro de 2013",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/formula-1-2015-ps-4-1319554753",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogo-ps4-lego-marvel-collection-1500584557",
+    "fotoUrl": "https://img.olx.com.br/images/86/862684282047720.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/862684282047720.jpg",
+      "https://img.olx.com.br/images/88/881697880811204.jpg",
+      "https://img.olx.com.br/images/89/899639764736528.jpg",
+      "https://img.olx.com.br/images/91/915641762966697.jpg",
+      "https://img.olx.com.br/images/92/925611041268288.jpg",
+      "https://img.olx.com.br/images/94/948631525604284.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778289645
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:20",
     "fotoUrl": "https://img.olx.com.br/images/14/146435669792529.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/146435669792529.jpg",
       "https://img.olx.com.br/images/14/148484900019225.jpg",
       "https://img.olx.com.br/images/14/142472908614651.jpg"
     ],
-    "defeito": false,
+    "id": "1319554753",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/formula-1-2015-ps-4-1319554753",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2013",
+    "titulo": "Formula 1   2015   PS 4 ",
     "ts": 1778289636
   },
   {
@@ -41,16 +64,10 @@
     "ts": 1778289548
   },
   {
-    "id": "1500583949",
-    "titulo": "Astro Bot - PS5",
-    "preco": 150,
-    "precoRaw": "R$ 150",
     "categoria": "ps5",
-    "publicado": "",
-    "detectado": "22:19",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/astro-bot-ps5-1500583949",
+    "detectado": "22:19",
     "fotoUrl": "https://img.olx.com.br/images/45/456673645187662.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/456673645187662.jpg",
@@ -58,7 +75,13 @@
       "https://img.olx.com.br/images/48/487608282468008.jpg",
       "https://img.olx.com.br/images/49/493668162516637.jpg"
     ],
-    "defeito": false,
+    "id": "1500583949",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/astro-bot-ps5-1500583949",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "Astro Bot - PS5",
     "ts": 1778289548
   },
   {
@@ -9855,23 +9878,5 @@
     "tempoOlx": "Na OLX desde abril de 2025",
     "titulo": "STEELBOOK THE LAST OF US II (PS4)",
     "ts": 1778214759
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:26",
-    "fotoUrl": "https://img.olx.com.br/images/82/823696761586966.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/823696761586966.jpg"
-    ],
-    "id": "1500293188",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-3-fat-1500293188",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2018",
-    "titulo": "Playstation 3 FAT",
-    "ts": 1778214398
   }
 ]
