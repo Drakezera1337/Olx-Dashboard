@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500778498",
-    "titulo": "PS5",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1500779020",
+    "titulo": "Xbox series S",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "17:22",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "detectado": "17:28",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1500778498",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-1500779020",
+    "fotoUrl": "https://img.olx.com.br/images/14/142657647569120.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/142657647569120.jpg",
+      "https://img.olx.com.br/images/16/160615043949140.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778358487
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:22",
     "fotoUrl": "https://img.olx.com.br/images/29/291610526166734.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/291610526166734.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/31/317683169331896.jpg",
       "https://img.olx.com.br/images/32/328622641328321.jpg"
     ],
-    "defeito": false,
+    "id": "1500778498",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1500778498",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "PS5",
     "ts": 1778358158
   },
   {
@@ -9927,24 +9946,5 @@
     "tempoOlx": "Na OLX desde agosto de 2022",
     "titulo": "GTA V PS4 Original Completo Mídia Física + Mapa Ótimo Estado ",
     "ts": 1778279837
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:37",
-    "fotoUrl": "https://img.olx.com.br/images/25/254675635524132.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/254675635524132.jpg",
-      "https://img.olx.com.br/images/28/281619036406693.jpg"
-    ],
-    "id": "1490958960",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/doom-ps4-original-midia-fisica-completo-otimo-estado-barato-1490958960",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2022",
-    "titulo": "Doom PS4 Original Mídia Física Completo Ótimo Estado Barato",
-    "ts": 1778279826
   }
 ]
