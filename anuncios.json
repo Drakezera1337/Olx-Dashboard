@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500721795",
-    "titulo": "Play station 4",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "outros",
+    "id": "1500659419",
+    "titulo": "IPHONE 11",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "12:21",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-station-4-1500721795",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1500659419",
+    "fotoUrl": "https://img.olx.com.br/images/37/371661885930598.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/371661885930598.jpg",
+      "https://img.olx.com.br/images/38/387671042169728.jpg",
+      "https://img.olx.com.br/images/39/397620403942972.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778340116
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:21",
     "fotoUrl": "https://img.olx.com.br/images/98/989672766079924.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/989672766079924.jpg",
       "https://img.olx.com.br/images/99/995691165754148.jpg"
     ],
-    "defeito": false,
+    "id": "1500721795",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-station-4-1500721795",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "Play station 4",
     "ts": 1778340110
   },
   {
@@ -9901,24 +9921,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogo Gear Club 2 PS4 ",
     "ts": 1778242617
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:16",
-    "fotoUrl": "https://img.olx.com.br/images/93/933541694344137.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/933541694344137.jpg",
-      "https://img.olx.com.br/images/94/945523815113919.jpg"
-    ],
-    "id": "1441500276",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/tumblestone-ps4-lacrado-1441500276",
-    "preco": 259,
-    "precoRaw": "R$ 259",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Tumblestone PS4 lacrado ",
-    "ts": 1778242606
   }
 ]
