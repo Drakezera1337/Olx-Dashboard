@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500619622",
-    "titulo": "Uncharted 4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1500616362",
+    "titulo": "God of war ragnarok",
+    "preco": 130,
+    "precoRaw": "R$ 130",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "00:29",
     "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/uncharted-4-1500619622",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/god-of-war-ragnarok-1500616362",
+    "fotoUrl": "https://img.olx.com.br/images/11/114614405217426.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/114614405217426.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778297353
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:29",
     "fotoUrl": "https://img.olx.com.br/images/60/604661769012883.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/604661769012883.jpg"
     ],
-    "defeito": false,
+    "id": "1500619622",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/uncharted-4-1500619622",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Uncharted 4",
     "ts": 1778297346
   },
   {
@@ -9882,24 +9900,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Jogo Resident Evil 8 Village PS4",
     "ts": 1778241772
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:02",
-    "fotoUrl": "https://img.olx.com.br/images/56/563526570297440.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/563526570297440.jpg",
-      "https://img.olx.com.br/images/57/577517338581230.jpg"
-    ],
-    "id": "1441489403",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-elder-scrolls-online-1441489403",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "THE ELDER SCROLLS ONLINE",
-    "ts": 1778241761
   }
 ]
