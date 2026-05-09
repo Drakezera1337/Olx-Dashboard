@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500751310",
-    "titulo": "Call Of duty Infinite Warfare",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1500751944",
+    "titulo": "XBOX SÉRIES S ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "14:46",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "14:48",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/call-of-duty-infinite-warfare-1500751310",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1500751944",
+    "fotoUrl": "https://img.olx.com.br/images/92/921636408310954.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/921636408310954.jpg",
+      "https://img.olx.com.br/images/94/942633880304029.jpg",
+      "https://img.olx.com.br/images/95/957678161843300.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778348886
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:46",
     "fotoUrl": "https://img.olx.com.br/images/88/887655526295458.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/887655526295458.jpg"
     ],
-    "defeito": false,
+    "id": "1500751310",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/call-of-duty-infinite-warfare-1500751310",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Call Of duty Infinite Warfare",
     "ts": 1778348760
   },
   {
@@ -9908,25 +9928,5 @@
     "tempoOlx": "Na OLX desde outubro de 2021",
     "titulo": "Horizon Forbbiden West para PS4/PS5",
     "ts": 1778272779
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:39",
-    "fotoUrl": "https://img.olx.com.br/images/72/727664408074106.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/727664408074106.jpg",
-      "https://img.olx.com.br/images/74/741631163151457.jpg",
-      "https://img.olx.com.br/images/76/760690281888482.jpg"
-    ],
-    "id": "1500480099",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/no-man-sky-para-ps4-ps5-1500480099",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2021",
-    "titulo": "No Man Sky para PS4/PS5",
-    "ts": 1778272769
   }
 ]
