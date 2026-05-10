@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500830681",
-    "titulo": "PS5 FAT",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1500831333",
+    "titulo": "Spyro trilogy - PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:21",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "23:22",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-fat-1500830681",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/spyro-trilogy-ps4-1500831333",
+    "fotoUrl": "https://img.olx.com.br/images/93/932607282980664.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/932607282980664.jpg",
+      "https://img.olx.com.br/images/94/945673640117300.jpg",
+      "https://img.olx.com.br/images/96/966670044746093.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778379759
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:21",
     "fotoUrl": "https://img.olx.com.br/images/53/532655645901886.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/532655645901886.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/57/577621400020375.jpg",
       "https://img.olx.com.br/images/58/583611163058731.jpg"
     ],
-    "defeito": false,
+    "id": "1500830681",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-fat-1500830681",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "PS5 FAT",
     "ts": 1778379697
   },
   {
@@ -9884,26 +9904,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "iPhone 12 128gb",
     "ts": 1778340091
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:21",
-    "fotoUrl": "https://img.olx.com.br/images/30/307670374598255.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/307670374598255.jpg",
-      "https://img.olx.com.br/images/31/316678017252922.jpg",
-      "https://img.olx.com.br/images/31/311645739631021.jpg",
-      "https://img.olx.com.br/images/32/328680491040273.jpg"
-    ],
-    "id": "1475522057",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/playstation-vr2-1475522057",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2025",
-    "titulo": "PlayStation VR2",
-    "ts": 1778340087
   }
 ]
