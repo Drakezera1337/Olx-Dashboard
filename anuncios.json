@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500816531",
-    "titulo": "Resident evil 5",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1500817533",
+    "titulo": "Placa de ps3 slim ",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "21:10",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "21:16",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/resident-evil-5-1500816531",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/placa-de-ps3-slim-1500817533",
+    "fotoUrl": "https://img.olx.com.br/images/89/890656285620868.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/890656285620868.jpg",
+      "https://img.olx.com.br/images/90/904643880879591.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778372198
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:10",
     "fotoUrl": "https://img.olx.com.br/images/91/912671282279801.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/912671282279801.jpg"
     ],
-    "defeito": false,
+    "id": "1500816531",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/resident-evil-5-1500816531",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Resident evil 5",
     "ts": 1778371846
   },
   {
@@ -9872,25 +9891,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Dark Souls II PS4 (Novo e lacrado)",
     "ts": 1778294930
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:48",
-    "fotoUrl": "https://img.olx.com.br/images/41/417665169051925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/417665169051925.jpg",
-      "https://img.olx.com.br/images/42/423628047780266.jpg",
-      "https://img.olx.com.br/images/44/443651285135111.jpg"
-    ],
-    "id": "1500604916",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-pra-ps4-for-honor-1500604916",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Jogo pra ps4 for honor ",
-    "ts": 1778294921
   }
 ]
