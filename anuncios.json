@@ -1,20 +1,41 @@
 [
   {
-    "id": "1500819994",
-    "titulo": "Xbox séries s 500gb",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "categoria": "xbox",
+    "id": "1500821334",
+    "titulo": "Coleção dark souls limited edition",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "21:42",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "detectado": "21:53",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-500gb-1500819994",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/colecao-dark-souls-limited-edition-1500821334",
+    "fotoUrl": "https://img.olx.com.br/images/37/379645400492081.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/379645400492081.jpg",
+      "https://img.olx.com.br/images/37/370613160907165.jpg",
+      "https://img.olx.com.br/images/37/376602168182801.jpg",
+      "https://img.olx.com.br/images/37/372606649309820.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778374390
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:42",
     "fotoUrl": "https://img.olx.com.br/images/10/106630282057803.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/106630282057803.jpg"
     ],
-    "defeito": false,
+    "id": "1500819994",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-500gb-1500819994",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "titulo": "Xbox séries s 500gb",
     "ts": 1778373757
   },
   {
@@ -9868,23 +9889,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Jogo ps4",
     "ts": 1778296964
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:22",
-    "fotoUrl": "https://img.olx.com.br/images/95/954692645180028.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/954692645180028.jpg"
-    ],
-    "id": "1500613982",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/the-last-of-us-remastered-e-o-2-1500613982",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2018",
-    "titulo": "The Last of us Remastered e o 2",
-    "ts": 1778296956
   }
 ]
