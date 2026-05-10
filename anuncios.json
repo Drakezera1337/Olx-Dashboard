@@ -1,20 +1,41 @@
 [
   {
-    "id": "1479863095",
-    "titulo": "JOGOS PS4 (EA FC, COD, DARK SOULS, RATCHET, UNTIL DAWN)",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "ps4",
+    "id": "1500830681",
+    "titulo": "PS5 FAT",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "23:16",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "detectado": "23:21",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-ea-fc-cod-dark-souls-ratchet-until-dawn-1479863095",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-fat-1500830681",
+    "fotoUrl": "https://img.olx.com.br/images/53/532655645901886.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/532655645901886.jpg",
+      "https://img.olx.com.br/images/55/552658646216145.jpg",
+      "https://img.olx.com.br/images/57/577621400020375.jpg",
+      "https://img.olx.com.br/images/58/583611163058731.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778379697
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:16",
     "fotoUrl": "https://img.olx.com.br/images/43/435650253549311.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/435650253549311.jpg"
     ],
-    "defeito": false,
+    "id": "1479863095",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-ea-fc-cod-dark-souls-ratchet-until-dawn-1479863095",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "JOGOS PS4 (EA FC, COD, DARK SOULS, RATCHET, UNTIL DAWN)",
     "ts": 1778379412
   },
   {
@@ -9884,25 +9905,5 @@
     "tempoOlx": "Na OLX desde julho de 2025",
     "titulo": "PlayStation VR2",
     "ts": 1778340087
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:21",
-    "fotoUrl": "https://img.olx.com.br/images/92/927600763232399.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/927600763232399.jpg",
-      "https://img.olx.com.br/images/94/949658169900500.jpg",
-      "https://img.olx.com.br/images/96/964654289258545.jpg"
-    ],
-    "id": "1500684693",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-1500684693",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "iphone 15 pro ",
-    "ts": 1778340082
   }
 ]
