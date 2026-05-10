@@ -1,20 +1,41 @@
 [
   {
-    "id": "1498799856",
-    "titulo": "iPhone 12 - 64GB",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
+    "id": "1498744731",
+    "titulo": "iPhone 12 pró max 128gb",
+    "preco": 2250,
+    "precoRaw": "R$ 2.250",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "18:47",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1498799856",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-max-128gb-1498744731",
+    "fotoUrl": "https://img.olx.com.br/images/62/626649645592475.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/626649645592475.jpg",
+      "https://img.olx.com.br/images/69/696622167614365.jpg",
+      "https://img.olx.com.br/images/75/757695042895746.jpg",
+      "https://img.olx.com.br/images/80/808664888131541.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778449649
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:47",
     "fotoUrl": "https://img.olx.com.br/images/11/111641400320940.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/111641400320940.jpg"
     ],
-    "defeito": false,
+    "id": "1498799856",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1498799856",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "titulo": "iPhone 12 - 64GB",
     "ts": 1778449640
   },
   {
@@ -9826,26 +9847,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2021",
     "titulo": "Dark Souls Trilogy Steelbook Edition Edição Americana PS4",
     "ts": 1778377597
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:34",
-    "fotoUrl": "https://img.olx.com.br/images/99/998636169064113.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/998636169064113.jpg",
-      "https://img.olx.com.br/images/10/104669886694036.jpg",
-      "https://img.olx.com.br/images/11/115621880399258.jpg",
-      "https://img.olx.com.br/images/13/131603760540743.jpg"
-    ],
-    "id": "1500815832",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/vendos-os-jogos-e-os-controles-1500815832",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2025",
-    "titulo": "Vendos os jogos e os controles",
-    "ts": 1778376887
   }
 ]
