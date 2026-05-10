@@ -1,15 +1,32 @@
 [
   {
-    "id": "1492701353",
-    "titulo": "Nintendo Switch lite",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1500881766",
+    "titulo": "iPhone 14 Pro Max 128g ",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "11:27",
-    "tempoOlx": "Na OLX desde maio de 2025",
+    "detectado": "11:30",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1492701353",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-128g-1500881766",
+    "fotoUrl": "https://img.olx.com.br/images/89/894698040685855.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/894698040685855.jpg",
+      "https://img.olx.com.br/images/97/976695161228144.jpg",
+      "https://img.olx.com.br/images/99/996608287923674.jpg",
+      "https://img.olx.com.br/images/12/129626886549354.jpg",
+      "https://img.olx.com.br/images/14/144655641745060.jpg",
+      "https://img.olx.com.br/images/15/155655886956821.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778423410
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:27",
     "fotoUrl": "https://img.olx.com.br/images/34/342610032636834.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/342610032636834.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/40/407679272952258.jpg",
       "https://img.olx.com.br/images/41/414638154763788.jpg"
     ],
-    "defeito": false,
+    "id": "1492701353",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1492701353",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2025",
+    "titulo": "Nintendo Switch lite",
     "ts": 1778423226
   },
   {
@@ -9830,26 +9853,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "Jogo Lego Worlds - Ps4 Usado Mídia Física",
     "ts": 1778346567
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:09",
-    "fotoUrl": "https://img.olx.com.br/images/84/847404590291003.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/847404590291003.jpg",
-      "https://img.olx.com.br/images/84/849405837924258.jpg",
-      "https://img.olx.com.br/images/84/841426839150782.jpg",
-      "https://img.olx.com.br/images/84/848459597768162.jpg"
-    ],
-    "id": "1360640303",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogo-monster-hunter-world-ps4-1360640303",
-    "preco": 52,
-    "precoRaw": "R$ 52",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "Jogo Monster Hunter World - Ps4",
-    "ts": 1778346559
   }
 ]
