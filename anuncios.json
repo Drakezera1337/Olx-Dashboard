@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500823862",
-    "titulo": "Vendo jogos de PS4",
-    "preco": 25,
-    "precoRaw": "R$ 25",
-    "categoria": "ps4",
+    "id": "1500823770",
+    "titulo": "xbox series s, pra vender rápido!",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "22:11",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "22:12",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/vendo-jogos-de-ps4-1500823862",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/xbox-series-s-pra-vender-rapido-1500823770",
+    "fotoUrl": "https://img.olx.com.br/images/76/769680047863298.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/769680047863298.jpg",
+      "https://img.olx.com.br/images/78/785625287339092.jpg",
+      "https://img.olx.com.br/images/80/800609760128311.jpg",
+      "https://img.olx.com.br/images/81/810647767125427.jpg",
+      "https://img.olx.com.br/images/83/837657168891662.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778375557
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:11",
     "fotoUrl": "https://img.olx.com.br/images/10/104614648405921.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/104614648405921.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/14/142670409284804.jpg",
       "https://img.olx.com.br/images/16/165608160802074.jpg"
     ],
-    "defeito": false,
+    "id": "1500823862",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/vendo-jogos-de-ps4-1500823862",
+    "preco": 25,
+    "precoRaw": "R$ 25",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Vendo jogos de PS4",
     "ts": 1778375467
   },
   {
@@ -9875,23 +9897,5 @@
     "tempoOlx": "Na OLX desde março de 2018",
     "titulo": "God of war ragnarok",
     "ts": 1778297353
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:29",
-    "fotoUrl": "https://img.olx.com.br/images/60/604661769012883.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/604661769012883.jpg"
-    ],
-    "id": "1500619622",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/uncharted-4-1500619622",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2018",
-    "titulo": "Uncharted 4",
-    "ts": 1778297346
   }
 ]
