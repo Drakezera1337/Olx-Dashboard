@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500825944",
-    "titulo": "Nintendo Switch lite ",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1500825614",
+    "titulo": "The Last of us remasterizado - ps4 (novo / lacrado)",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:27",
-    "tempoOlx": "Na OLX desde março de 2017",
+    "detectado": "22:29",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/nintendo-switch-lite-1500825944",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/the-last-of-us-remasterizado-ps4-novo-lacrado-1500825614",
+    "fotoUrl": "https://img.olx.com.br/images/72/728650523916676.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/728650523916676.jpg",
+      "https://img.olx.com.br/images/72/723689768087388.jpg",
+      "https://img.olx.com.br/images/72/726614523587003.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778376547
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:27",
     "fotoUrl": "https://img.olx.com.br/images/60/603668524367964.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/603668524367964.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/91/910660162623167.jpg",
       "https://img.olx.com.br/images/92/921672880167669.jpg"
     ],
-    "defeito": false,
+    "id": "1500825944",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/nintendo-switch-lite-1500825944",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "Nintendo Switch lite ",
     "ts": 1778376457
   },
   {
@@ -9888,24 +9908,5 @@
     "tempoOlx": "Na OLX desde novembro de 2019",
     "titulo": "Jogos ps4",
     "ts": 1778298045
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:40",
-    "fotoUrl": "https://img.olx.com.br/images/48/481680283144823.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/481680283144823.jpg",
-      "https://img.olx.com.br/images/49/496690048705065.jpg"
-    ],
-    "id": "1500622132",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/ps4-slim-1500622132",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2022",
-    "titulo": "Ps4 Slim ",
-    "ts": 1778298037
   }
 ]
