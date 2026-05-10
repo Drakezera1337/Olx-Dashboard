@@ -1,20 +1,39 @@
 [
   {
-    "id": "1496822601",
-    "titulo": "IPHONE 15 PRO MAX 256 ",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "categoria": "iphone",
+    "id": "1498970085",
+    "titulo": "PS5 slim digital com controles",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "19:54",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-1496822601",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps5-slim-digital-com-controles-1498970085",
+    "fotoUrl": "https://img.olx.com.br/images/76/767608166879591.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/767608166879591.jpg",
+      "https://img.olx.com.br/images/76/768622045529773.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778453691
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:54",
     "fotoUrl": "https://img.olx.com.br/images/43/435647272110219.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/435647272110219.jpg"
     ],
-    "defeito": false,
+    "id": "1496822601",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-1496822601",
+    "preco": 5000,
+    "precoRaw": "R$ 5.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "IPHONE 15 PRO MAX 256 ",
     "ts": 1778453685
   },
   {
@@ -9841,28 +9860,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Last Guardian - PS4 Nacional",
     "ts": 1778384716
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:45",
-    "fotoUrl": "https://img.olx.com.br/images/99/995600141258454.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/995600141258454.jpg",
-      "https://img.olx.com.br/images/12/128621264488919.jpg",
-      "https://img.olx.com.br/images/17/171651145660064.jpg",
-      "https://img.olx.com.br/images/21/211603385992495.jpg",
-      "https://img.olx.com.br/images/47/475630380839347.jpg",
-      "https://img.olx.com.br/images/51/513601501065016.jpg"
-    ],
-    "id": "1483674548",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/uncharted-the-nathan-drake-collection-e-uncharted-4-a-thief-s-end-ps4-versao-nacional-1483674548",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Uncharted The Nathan Drake Collection e Uncharted 4 A Thief's End - PS4 versão Nacional",
-    "ts": 1778384708
   }
 ]
