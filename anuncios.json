@@ -1,21 +1,39 @@
 [
   {
-    "id": "1500838608",
-    "titulo": "Jogos de ps4",
-    "preco": 400,
-    "precoRaw": "R$ 400",
+    "id": "1500838830",
+    "titulo": "Jogos mídia física ps4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:03",
+    "detectado": "01:09",
     "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-de-ps4-1500838608",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-midia-fisica-ps4-1500838830",
+    "fotoUrl": "https://img.olx.com.br/images/51/514669403278567.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/514669403278567.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778386149
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:03",
     "fotoUrl": "https://img.olx.com.br/images/68/680649641186682.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/680649641186682.jpg",
       "https://img.olx.com.br/images/70/703633285384023.jpg"
     ],
-    "defeito": false,
+    "id": "1500838608",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-de-ps4-1500838608",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Jogos de ps4",
     "ts": 1778385788
   },
   {
@@ -9888,25 +9906,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "XBOX SERIE X",
     "ts": 1778340334
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:25",
-    "fotoUrl": "https://img.olx.com.br/images/68/688677526471656.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/688677526471656.jpg",
-      "https://img.olx.com.br/images/69/692674886926057.jpg",
-      "https://img.olx.com.br/images/69/696669887875749.jpg"
-    ],
-    "id": "1500686548",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1500686548",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Xbox séries S ",
-    "ts": 1778340327
   }
 ]
