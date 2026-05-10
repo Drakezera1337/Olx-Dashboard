@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500924875",
-    "titulo": "Back to the future: The Game - PS4 ",
-    "preco": 1050,
-    "precoRaw": "R$ 1.050",
+    "id": "1500924850",
+    "titulo": "Alien Isolation PS4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:13",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "detectado": "17:14",
+    "tempoOlx": "Na OLX desde setembro de 2020",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/back-to-the-future-the-game-ps4-1500924875",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/alien-isolation-ps4-1500924850",
+    "fotoUrl": "https://img.olx.com.br/images/94/947607769559899.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/947607769559899.jpg",
+      "https://img.olx.com.br/images/96/966676766848861.jpg",
+      "https://img.olx.com.br/images/98/984667161268169.jpg",
+      "https://img.olx.com.br/images/10/100685520140426.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778444047
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:13",
     "fotoUrl": "https://img.olx.com.br/images/91/914692282798488.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/914692282798488.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/96/969675403877657.jpg",
       "https://img.olx.com.br/images/98/980612165015187.jpg"
     ],
-    "defeito": false,
+    "id": "1500924875",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/back-to-the-future-the-game-ps4-1500924875",
+    "preco": 1050,
+    "precoRaw": "R$ 1.050",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "Back to the future: The Game - PS4 ",
     "ts": 1778444036
   },
   {
@@ -9846,28 +9867,5 @@
     "tempoOlx": "Na OLX desde agosto de 2022",
     "titulo": "Xbox s",
     "ts": 1778365145
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:16",
-    "fotoUrl": "https://img.olx.com.br/images/68/683514224799571.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/683514224799571.jpg",
-      "https://img.olx.com.br/images/68/681568109876552.jpg",
-      "https://img.olx.com.br/images/68/688584705854973.jpg",
-      "https://img.olx.com.br/images/68/688542820023227.jpg",
-      "https://img.olx.com.br/images/68/687514582116659.jpg",
-      "https://img.olx.com.br/images/68/681536228714865.jpg"
-    ],
-    "id": "1449937677",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogo-darius-burst-ex-plus-another-chronicle-nintendo-switch-1449937677",
-    "preco": 449,
-    "precoRaw": "R$ 449",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2013",
-    "titulo": "Jogo Darius Burst Ex Plus Another Chronicle Nintendo Switch",
-    "ts": 1778364967
   }
 ]
