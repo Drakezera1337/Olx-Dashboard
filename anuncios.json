@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500907387",
-    "titulo": "Ps4",
-    "preco": 850,
-    "precoRaw": "R$ 850",
+    "id": "1492757266",
+    "titulo": "Jogos ps4",
+    "preco": 135,
+    "precoRaw": "R$ 135",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:49",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "14:50",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1500907387",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-1492757266",
+    "fotoUrl": "https://img.olx.com.br/images/85/859629871679125.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/859629871679125.jpg",
+      "https://img.olx.com.br/images/86/867643278869418.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778435411
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:49",
     "fotoUrl": "https://img.olx.com.br/images/43/436650288711948.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/436650288711948.jpg",
       "https://img.olx.com.br/images/44/445680286546146.jpg",
       "https://img.olx.com.br/images/45/456671645039067.jpg"
     ],
-    "defeito": false,
+    "id": "1500907387",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1500907387",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Ps4",
     "ts": 1778435390
   },
   {
@@ -9828,25 +9847,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "PS5",
     "ts": 1778358158
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:13",
-    "fotoUrl": "https://img.olx.com.br/images/32/328539222695817.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/328539222695817.jpg",
-      "https://img.olx.com.br/images/43/436562820694698.jpg",
-      "https://img.olx.com.br/images/52/526552944018971.jpg"
-    ],
-    "id": "1458151851",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-bomberman-r-ps4-1458151851",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "JOGO BOMBERMAN R - PS4",
-    "ts": 1778357594
   }
 ]
