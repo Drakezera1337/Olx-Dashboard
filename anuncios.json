@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500843746",
-    "titulo": "ps5",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
+    "id": "1500961993",
+    "titulo": "days gone PS5/PS5",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "20:51",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "detectado": "20:52",
+    "tempoOlx": "Na OLX desde novembro de 2019",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1500843746",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/days-gone-ps5-ps5-1500961993",
+    "fotoUrl": "https://img.olx.com.br/images/78/780601401277771.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/780601401277771.jpg",
+      "https://img.olx.com.br/images/79/790696529356029.jpg",
+      "https://img.olx.com.br/images/80/804612769261081.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778457159
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:51",
     "fotoUrl": "https://img.olx.com.br/images/21/218672400179102.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/218672400179102.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/23/234608163886698.jpg",
       "https://img.olx.com.br/images/24/246669285654604.jpg"
     ],
-    "defeito": false,
+    "id": "1500843746",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1500843746",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "ps5",
     "ts": 1778457068
   },
   {
@@ -9836,23 +9856,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Jogo Horizon Forbidden West PS4 Playstation 4 + PS5",
     "ts": 1778417092
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:44",
-    "fotoUrl": "https://img.olx.com.br/images/97/970633615088769.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/970633615088769.jpg"
-    ],
-    "id": "1474557833",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-just-cause-4-edicao-day-one-ps4-playstation-4-1474557833",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Jogo Just Cause 4 Edição Day One PS4 Playstation 4",
-    "ts": 1778417085
   }
 ]
