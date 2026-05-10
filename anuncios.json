@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500910802",
-    "titulo": "Jogos para Playstation 4",
-    "preco": 130,
-    "precoRaw": "R$ 130",
+    "id": "1500910576",
+    "titulo": "Jogos ps4 promoção",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:13",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "detectado": "15:14",
+    "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-para-playstation-4-1500910802",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/jogos-ps4-promocao-1500910576",
+    "fotoUrl": "https://img.olx.com.br/images/82/822618167663823.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/822618167663823.jpg",
+      "https://img.olx.com.br/images/84/843692888527105.jpg",
+      "https://img.olx.com.br/images/85/857615169284677.jpg",
+      "https://img.olx.com.br/images/87/874678887860102.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778436843
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:13",
     "fotoUrl": "https://img.olx.com.br/images/49/492667763473081.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/492667763473081.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/52/521657529479815.jpg",
       "https://img.olx.com.br/images/53/530669404946724.jpg"
     ],
-    "defeito": false,
+    "id": "1500910802",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-para-playstation-4-1500910802",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "Jogos para Playstation 4",
     "ts": 1778436829
   },
   {
@@ -9827,23 +9848,5 @@
     "tempoOlx": "Na OLX desde abril de 2018",
     "titulo": "PS5 Console Digital",
     "ts": 1778359596
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:45",
-    "fotoUrl": "https://img.olx.com.br/images/63/636649648490776.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/636649648490776.jpg"
-    ],
-    "id": "1500781165",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/xbox-series-s-branco-1500781165",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Xbox series s branco ",
-    "ts": 1778359505
   }
 ]
