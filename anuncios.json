@@ -1,21 +1,39 @@
 [
   {
-    "id": "1500945940",
-    "titulo": "Fifa 20",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "categoria": "jogos",
+    "id": "1458264615",
+    "titulo": "JOGOS PS4",
+    "preco": 79,
+    "precoRaw": "R$ 79",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:34",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde outubro de 2023",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-20-1500945940",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-ps4-1458264615",
+    "fotoUrl": "https://img.olx.com.br/images/60/608649636235252.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/608649636235252.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778452486
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:34",
     "fotoUrl": "https://img.olx.com.br/images/73/734661168150416.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/734661168150416.jpg",
       "https://img.olx.com.br/images/74/742634160381199.jpg"
     ],
-    "defeito": false,
+    "id": "1500945940",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-20-1500945940",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Fifa 20",
     "ts": 1778452475
   },
   {
@@ -9846,25 +9864,5 @@
     "tempoOlx": "Na OLX desde outubro de 2018",
     "titulo": "Sonic team Racing - PS4",
     "ts": 1778380482
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:28",
-    "fotoUrl": "https://img.olx.com.br/images/13/138682283300883.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/138682283300883.jpg",
-      "https://img.olx.com.br/images/14/140636040423641.jpg",
-      "https://img.olx.com.br/images/15/157632049625709.jpg"
-    ],
-    "id": "1500831609",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/monster-hunter-world-ps4-1500831609",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2018",
-    "titulo": "Monster Hunter world - ps4",
-    "ts": 1778380117
   }
 ]
