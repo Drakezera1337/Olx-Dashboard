@@ -1,21 +1,43 @@
 [
   {
-    "id": "1498970085",
-    "titulo": "PS5 slim digital com controles",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1498891263",
+    "titulo": "Playstation Portal (PS PORTAL)",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:54",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "detectado": "19:55",
+    "tempoOlx": "Na OLX desde julho de 2016",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps5-slim-digital-com-controles-1498970085",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-portal-ps-portal-1498891263",
+    "fotoUrl": "https://img.olx.com.br/images/96/967692282468883.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/967692282468883.jpg",
+      "https://img.olx.com.br/images/86/860630764198903.jpg",
+      "https://img.olx.com.br/images/86/866655285621734.jpg",
+      "https://img.olx.com.br/images/86/866686523311714.jpg",
+      "https://img.olx.com.br/images/86/866600162326406.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778453701
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:54",
     "fotoUrl": "https://img.olx.com.br/images/76/767608166879591.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/767608166879591.jpg",
       "https://img.olx.com.br/images/76/768622045529773.jpg"
     ],
-    "defeito": false,
+    "id": "1498970085",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps5-slim-digital-com-controles-1498970085",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "PS5 slim digital com controles",
     "ts": 1778453691
   },
   {
@@ -9839,26 +9861,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Cyberpunk - PS4 versão Nacional",
     "ts": 1778384725
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:45",
-    "fotoUrl": "https://img.olx.com.br/images/80/803651625506488.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/803651625506488.jpg",
-      "https://img.olx.com.br/images/83/830645509274468.jpg",
-      "https://img.olx.com.br/images/87/878686624872342.jpg",
-      "https://img.olx.com.br/images/90/900670148817059.jpg"
-    ],
-    "id": "1483672485",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/last-guardian-ps4-nacional-1483672485",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Last Guardian - PS4 Nacional",
-    "ts": 1778384716
   }
 ]
