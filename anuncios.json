@@ -1,21 +1,42 @@
 [
   {
-    "id": "1500914584",
-    "titulo": "Ps4",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
+    "id": "1500915381",
+    "titulo": "Playstation 4 slim com defeito",
+    "preco": 380,
+    "precoRaw": "R$ 380",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:52",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "15:54",
+    "tempoOlx": "Na OLX desde julho de 2016",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/ps4-1500914584",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-slim-com-defeito-1500915381",
+    "fotoUrl": "https://img.olx.com.br/images/16/168687761130831.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/168687761130831.jpg",
+      "https://img.olx.com.br/images/18/185620162089920.jpg",
+      "https://img.olx.com.br/images/19/190690405087573.jpg",
+      "https://img.olx.com.br/images/20/201665160729218.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778439253
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:52",
     "fotoUrl": "https://img.olx.com.br/images/67/670643520552687.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/670643520552687.jpg",
       "https://img.olx.com.br/images/69/694644285115373.jpg"
     ],
-    "defeito": false,
+    "id": "1500914584",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/ps4-1500914584",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps4",
     "ts": 1778439133
   },
   {
@@ -9858,24 +9879,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "The Elder Scrolls ",
     "ts": 1778362695
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:38",
-    "fotoUrl": "https://img.olx.com.br/images/44/448616514489877.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/448616514489877.jpg",
-      "https://img.olx.com.br/images/45/455622519631641.jpg"
-    ],
-    "id": "1491316185",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-last-of-us-parte-i-remastered-ps4-1491316185",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "The last of us parte I Remastered - PS4",
-    "ts": 1778362687
   }
 ]
