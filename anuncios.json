@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500957194",
-    "titulo": "Jogo de ps4 ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1500957145",
+    "titulo": "PS4 ",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:29",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "tempoOlx": "Na OLX desde maio de 2023",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogo-de-ps4-1500957194",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-1500957145",
+    "fotoUrl": "https://img.olx.com.br/images/45/456624644455172.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/456624644455172.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778455758
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:29",
     "fotoUrl": "https://img.olx.com.br/images/89/892635641806213.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/892635641806213.jpg"
     ],
-    "defeito": false,
+    "id": "1500957194",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogo-de-ps4-1500957194",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Jogo de ps4 ",
     "ts": 1778455748
   },
   {
@@ -9824,24 +9842,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "Bloodborne ps4 Lacrado",
     "ts": 1778417024
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:43",
-    "fotoUrl": "https://img.olx.com.br/images/20/201593309528535.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/201593309528535.jpg",
-      "https://img.olx.com.br/images/26/269537786279157.jpg"
-    ],
-    "id": "1391715771",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/days-gone-ps4-1391715771",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Days Gone PS4",
-    "ts": 1778417014
   }
 ]
