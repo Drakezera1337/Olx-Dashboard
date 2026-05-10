@@ -1,21 +1,43 @@
 [
   {
-    "id": "1500833538",
-    "titulo": "Sony PSP 3000",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1500833501",
+    "titulo": "Ps3 com Minecraft ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "23:51",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "detectado": "23:52",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/sony-psp-3000-1500833538",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-com-minecraft-1500833501",
+    "fotoUrl": "https://img.olx.com.br/images/37/371690402978430.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/371690402978430.jpg",
+      "https://img.olx.com.br/images/39/397645281503471.jpg",
+      "https://img.olx.com.br/images/40/409693641813814.jpg",
+      "https://img.olx.com.br/images/42/423626402691345.jpg",
+      "https://img.olx.com.br/images/44/447634287663731.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778381556
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:51",
     "fotoUrl": "https://img.olx.com.br/images/30/308694882029107.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/308694882029107.jpg",
       "https://img.olx.com.br/images/31/312668283613433.jpg"
     ],
-    "defeito": false,
+    "id": "1500833538",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/sony-psp-3000-1500833538",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Sony PSP 3000",
     "ts": 1778381466
   },
   {
@@ -9874,26 +9896,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "PlayStation 4 Slim 1TB - Conservado, com Caixa",
     "ts": 1778340198
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:23",
-    "fotoUrl": "https://img.olx.com.br/images/80/800628744992478.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/800628744992478.jpg",
-      "https://img.olx.com.br/images/81/812616743290899.jpg",
-      "https://img.olx.com.br/images/80/800605621894008.jpg",
-      "https://img.olx.com.br/images/80/806609261075578.jpg"
-    ],
-    "id": "1488667059",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-slim-1tb-ps4-1000gb-1488667059",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2021",
-    "titulo": "playstation 4 slim 1tb  ps4 1000gb",
-    "ts": 1778340191
   }
 ]
