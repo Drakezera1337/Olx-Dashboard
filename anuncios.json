@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500890749",
-    "titulo": "iPhone 13 128gb",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "categoria": "iphone",
+    "id": "1500890322",
+    "titulo": "Resident Evil Revelations 2 PS4 - Original c/ Caixa",
+    "preco": 95,
+    "precoRaw": "R$ 95",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:32",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "detectado": "12:33",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-1500890749",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/resident-evil-revelations-2-ps4-original-c-caixa-1500890322",
+    "fotoUrl": "https://img.olx.com.br/images/25/255664405468694.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/255664405468694.jpg",
+      "https://img.olx.com.br/images/25/258698407278179.jpg",
+      "https://img.olx.com.br/images/25/259615166694633.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778427189
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:32",
     "fotoUrl": "https://img.olx.com.br/images/97/970638885193942.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/970638885193942.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/30/308696765060736.jpg",
       "https://img.olx.com.br/images/33/332672883825575.jpg"
     ],
-    "defeito": false,
+    "id": "1500890749",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-1500890749",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "iPhone 13 128gb",
     "ts": 1778427157
   },
   {
@@ -9851,23 +9871,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2019",
     "titulo": "XBOX SÉRIES S ",
     "ts": 1778348886
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:46",
-    "fotoUrl": "https://img.olx.com.br/images/88/887655526295458.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/887655526295458.jpg"
-    ],
-    "id": "1500751310",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/call-of-duty-infinite-warfare-1500751310",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "Call Of duty Infinite Warfare",
-    "ts": 1778348760
   }
 ]
