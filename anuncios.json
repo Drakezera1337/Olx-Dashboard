@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500833288",
-    "titulo": "Jogo de PS4 mídia física  - Spider-Man",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1500833200",
+    "titulo": "Jogo de PS4 mídia física - Infamous Second Son",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "23:46",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-de-ps4-midia-fisica-spider-man-1500833288",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-de-ps4-midia-fisica-infamous-second-son-1500833200",
+    "fotoUrl": "https://img.olx.com.br/images/11/110675287681242.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/110675287681242.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778381205
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:46",
     "fotoUrl": "https://img.olx.com.br/images/89/898687168925632.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/898687168925632.jpg"
     ],
-    "defeito": false,
+    "id": "1500833288",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-de-ps4-midia-fisica-spider-man-1500833288",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jogo de PS4 mídia física  - Spider-Man",
     "ts": 1778381196
   },
   {
@@ -9879,23 +9897,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "Ps4 slim defeito ",
     "ts": 1778340174
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:22",
-    "fotoUrl": "https://img.olx.com.br/images/10/107690040960189.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/107690040960189.jpg"
-    ],
-    "id": "1500637154",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps4-1500637154",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Ps4",
-    "ts": 1778340167
   }
 ]
