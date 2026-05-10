@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500942003",
-    "titulo": "Jogos ",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "outros",
+    "id": "1500941983",
+    "titulo": "Sekiro Ps4",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:39",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-1500942003",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/sekiro-ps4-1500941983",
+    "fotoUrl": "https://img.olx.com.br/images/83/838643643448052.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/838643643448052.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778449191
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:39",
     "fotoUrl": "https://img.olx.com.br/images/92/928649408817148.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/928649408817148.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/10/106661885538731.jpg",
       "https://img.olx.com.br/images/11/115682640790256.jpg"
     ],
-    "defeito": false,
+    "id": "1500942003",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-1500942003",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Jogos ",
     "ts": 1778449181
   },
   {
@@ -9841,23 +9859,5 @@
     "tempoOlx": "Na OLX desde julho de 2014",
     "titulo": "Nintendo DS XL (USADO)",
     "ts": 1778372377
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:18",
-    "fotoUrl": "https://img.olx.com.br/images/22/227613647830818.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/227613647830818.jpg"
-    ],
-    "id": "1500817521",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-slim-1500817521",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "Ps4 slim",
-    "ts": 1778372286
   }
 ]
