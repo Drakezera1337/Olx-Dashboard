@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500926147",
-    "titulo": "SPIDER MAN PLAYSTATION 4 ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1500925965",
+    "titulo": "ZOMBIE ARMY LACRADO PLAYSTATION 4 ",
+    "preco": 75,
+    "precoRaw": "R$ 75",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:24",
+    "detectado": "17:25",
     "tempoOlx": "Na OLX desde junho de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/spider-man-playstation-4-1500926147",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/zombie-army-lacrado-playstation-4-1500925965",
+    "fotoUrl": "https://img.olx.com.br/images/71/713602287014367.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/713602287014367.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778444700
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:24",
     "fotoUrl": "https://img.olx.com.br/images/43/439674046248635.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/439674046248635.jpg"
     ],
-    "defeito": false,
+    "id": "1500926147",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/spider-man-playstation-4-1500926147",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2013",
+    "titulo": "SPIDER MAN PLAYSTATION 4 ",
     "ts": 1778444691
   },
   {
@@ -9843,23 +9861,5 @@
     "tempoOlx": "Na OLX desde maio de 2018",
     "titulo": "XBOX SERIES S ",
     "ts": 1778366318
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:32",
-    "fotoUrl": "https://img.olx.com.br/images/40/404650168480301.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/404650168480301.jpg"
-    ],
-    "id": "1500759990",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-slim-1tb-1500759990",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PS5 SLIM 1TB",
-    "ts": 1778365956
   }
 ]
