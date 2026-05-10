@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500941983",
-    "titulo": "Sekiro Ps4",
-    "preco": 300,
-    "precoRaw": "R$ 300",
+    "id": "1500941806",
+    "titulo": "[Novo/Lacrado] Horizon Zero Dawn - Complete Edition PS4",
+    "preco": 149,
+    "precoRaw": "R$ 149",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:39",
-    "tempoOlx": "Na OLX desde abril de 2019",
+    "detectado": "18:40",
+    "tempoOlx": "Na OLX desde agosto de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/sekiro-ps4-1500941983",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/novo-lacrado-horizon-zero-dawn-complete-edition-ps4-1500941806",
+    "fotoUrl": "https://img.olx.com.br/images/70/706630403743966.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/706630403743966.jpg",
+      "https://img.olx.com.br/images/73/735697168743675.jpg",
+      "https://img.olx.com.br/images/77/772680046573254.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778449201
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:39",
     "fotoUrl": "https://img.olx.com.br/images/83/838643643448052.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/838643643448052.jpg"
     ],
-    "defeito": false,
+    "id": "1500941983",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/sekiro-ps4-1500941983",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "Sekiro Ps4",
     "ts": 1778449191
   },
   {
@@ -9839,25 +9859,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Red Dead Redemption 1 Mídia Fisica PS4",
     "ts": 1778372587
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:19",
-    "fotoUrl": "https://img.olx.com.br/images/73/739669406845411.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/739669406845411.jpg",
-      "https://img.olx.com.br/images/73/737695766487435.jpg",
-      "https://img.olx.com.br/images/74/747641769929739.jpg"
-    ],
-    "id": "1500817591",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-ds-xl-usado-1500817591",
-    "preco": 480,
-    "precoRaw": "R$ 480",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2014",
-    "titulo": "Nintendo DS XL (USADO)",
-    "ts": 1778372377
   }
 ]
