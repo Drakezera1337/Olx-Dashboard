@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500874344",
-    "titulo": "Desapego desses jogos. Preços variados ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1466213106",
+    "titulo": "Jogo ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:37",
-    "tempoOlx": "Na OLX desde dezembro de 2014",
+    "detectado": "10:38",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/desapego-desses-jogos-precos-variados-1500874344",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-1466213106",
+    "fotoUrl": "https://img.olx.com.br/images/21/216684721997025.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/216684721997025.jpg",
+      "https://img.olx.com.br/images/23/238654601623035.jpg",
+      "https://img.olx.com.br/images/24/244672126634276.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778420290
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:37",
     "fotoUrl": "https://img.olx.com.br/images/32/324683160607458.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/324683160607458.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/37/376615160913141.jpg",
       "https://img.olx.com.br/images/40/402680647480569.jpg"
     ],
-    "defeito": false,
+    "id": "1500874344",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/desapego-desses-jogos-precos-variados-1500874344",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
+    "titulo": "Desapego desses jogos. Preços variados ",
     "ts": 1778420279
   },
   {
@@ -9835,26 +9855,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "Jogo Plants Vs. Zombies: Garden Warfare Garden Warfare Ps4",
     "ts": 1778345213
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:46",
-    "fotoUrl": "https://img.olx.com.br/images/66/668419357776355.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/668419357776355.jpg",
-      "https://img.olx.com.br/images/65/651461599362053.jpg",
-      "https://img.olx.com.br/images/66/669426111451368.jpg",
-      "https://img.olx.com.br/images/64/647473596569391.jpg"
-    ],
-    "id": "1359393461",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogo-payday-2-crimewave-edition-ps4-1359393461",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "Jogo Payday 2 Crimewave Edition Ps4",
-    "ts": 1778345204
   }
 ]
