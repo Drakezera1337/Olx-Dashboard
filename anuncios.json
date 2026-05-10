@@ -1,22 +1,42 @@
 [
   {
-    "id": "1500913558",
-    "titulo": "South Park: The Stick Of Truth ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1500913095",
+    "titulo": "Pes 19",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "outros",
     "publicado": "",
     "detectado": "15:39",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/south-park-the-stick-of-truth-1500913558",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-19-1500913095",
+    "fotoUrl": "https://img.olx.com.br/images/51/511615641792211.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/511615641792211.jpg",
+      "https://img.olx.com.br/images/52/528632403256534.jpg",
+      "https://img.olx.com.br/images/53/532606161808680.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778438375
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:39",
     "fotoUrl": "https://img.olx.com.br/images/28/287669281525754.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/287669281525754.jpg",
       "https://img.olx.com.br/images/30/304639888698522.jpg",
       "https://img.olx.com.br/images/31/319672766627573.jpg"
     ],
-    "defeito": false,
+    "id": "1500913558",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/south-park-the-stick-of-truth-1500913558",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "South Park: The Stick Of Truth ",
     "ts": 1778438358
   },
   {
@@ -9843,23 +9863,5 @@
     "tempoOlx": "Na OLX desde agosto de 2024",
     "titulo": "iPhone 7 com defeito",
     "ts": 1778361396
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:14",
-    "fotoUrl": "https://img.olx.com.br/images/40/408667282057192.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/408667282057192.jpg"
-    ],
-    "id": "1500787003",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/kit-jogos-ps4-original-resident-evil-revelations-2-watch-dogs-uncharted-4-fc24-1500787003",
-    "preco": 299,
-    "precoRaw": "R$ 299",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "KIT JOGOS PS4 ORIGINAL - Resident Evil Revelations 2 + Watch Dogs + Uncharted 4 + FC24",
-    "ts": 1778361277
   }
 ]
