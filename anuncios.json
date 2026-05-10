@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500829743",
-    "titulo": "Xbox Series s 512GB",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "xbox",
+    "id": "1500829597",
+    "titulo": "Ps4 slim",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "23:10",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-512gb-1500829743",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-1500829597",
+    "fotoUrl": "https://img.olx.com.br/images/20/201683041822114.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/201683041822114.jpg",
+      "https://img.olx.com.br/images/21/211626166938559.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778379045
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:10",
     "fotoUrl": "https://img.olx.com.br/images/77/773618643419950.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/773618643419950.jpg"
     ],
-    "defeito": false,
+    "id": "1500829743",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-512gb-1500829743",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Xbox Series s 512GB",
     "ts": 1778379037
   },
   {
@@ -9900,23 +9919,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2026",
     "titulo": "GTA 4 Para PS4",
     "ts": 1778303261
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:02",
-    "fotoUrl": "https://img.olx.com.br/images/55/554695409144709.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/554695409144709.jpg"
-    ],
-    "id": "1500631553",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogo-dragon-ball-kakarot-1500631553",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "Jogo Dragon ball kakarot",
-    "ts": 1778302945
   }
 ]
