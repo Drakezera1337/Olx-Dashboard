@@ -1,21 +1,44 @@
 [
   {
-    "id": "1500957498",
-    "titulo": "Resident evil 2",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "categoria": "jogos",
+    "id": "1500957351",
+    "titulo": "Vendo Ps4 Slim 1TB",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:28",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/resident-evil-2-1500957498",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/vendo-ps4-slim-1tb-1500957351",
+    "fotoUrl": "https://img.olx.com.br/images/24/243623649012227.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/243623649012227.jpg",
+      "https://img.olx.com.br/images/27/277676040300175.jpg",
+      "https://img.olx.com.br/images/29/290656407285395.jpg",
+      "https://img.olx.com.br/images/32/329613525987435.jpg",
+      "https://img.olx.com.br/images/34/341618165278983.jpg",
+      "https://img.olx.com.br/images/37/378667529185511.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778455739
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:28",
     "fotoUrl": "https://img.olx.com.br/images/87/877660764870782.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/877660764870782.jpg",
       "https://img.olx.com.br/images/89/895690166348031.jpg"
     ],
-    "defeito": false,
+    "id": "1500957498",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/resident-evil-2-1500957498",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Resident evil 2",
     "ts": 1778455731
   },
   {
@@ -9821,23 +9844,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Ghost Of Tsushima PS4 ",
     "ts": 1778417006
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:43",
-    "fotoUrl": "https://img.olx.com.br/images/97/973638648543757.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/973638648543757.jpg"
-    ],
-    "id": "1500864657",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/spider-man-ps4-1500864657",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2014",
-    "titulo": "Spider Man ps4 ",
-    "ts": 1778416997
   }
 ]
