@@ -1,22 +1,44 @@
 [
   {
-    "id": "1500919812",
-    "titulo": "Jogos de ps4 ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
+    "id": "1500920424",
+    "titulo": "Playstation 4 fat",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:33",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "16:40",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1500919812",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-fat-1500920424",
+    "fotoUrl": "https://img.olx.com.br/images/99/994605283146300.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/994605283146300.jpg",
+      "https://img.olx.com.br/images/99/990692884523437.jpg",
+      "https://img.olx.com.br/images/99/999632524670153.jpg",
+      "https://img.olx.com.br/images/23/230673641265183.jpg",
+      "https://img.olx.com.br/images/23/234686766373819.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778442009
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:33",
     "fotoUrl": "https://img.olx.com.br/images/77/774637883218877.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/774637883218877.jpg",
       "https://img.olx.com.br/images/78/787603160340948.jpg",
       "https://img.olx.com.br/images/80/808616282962992.jpg"
     ],
-    "defeito": false,
+    "id": "1500919812",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1500919812",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Jogos de ps4 ",
     "ts": 1778441595
   },
   {
@@ -9862,23 +9884,5 @@
     "tempoOlx": "Na OLX desde abril de 2018",
     "titulo": "PS5 Slim Digital ",
     "ts": 1778363915
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:56",
-    "fotoUrl": "https://img.olx.com.br/images/36/367602402139893.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/367602402139893.jpg"
-    ],
-    "id": "1500797967",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/assassin-s-creed-shadows-1500797967",
-    "preco": 189,
-    "precoRaw": "R$ 189",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2018",
-    "titulo": "Assassin's Creed shadows",
-    "ts": 1778363804
   }
 ]
