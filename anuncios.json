@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500840575",
-    "titulo": "Spider Man",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "outros",
+    "id": "1500866020",
+    "titulo": "PS5 Portal",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "01:57",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "detectado": "09:39",
+    "tempoOlx": "Na OLX desde abril de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spider-man-1500840575",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps5-portal-1500866020",
+    "fotoUrl": "https://img.olx.com.br/images/41/412671046991463.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/412671046991463.jpg",
+      "https://img.olx.com.br/images/43/439655641402743.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778416797
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:57",
     "fotoUrl": "https://img.olx.com.br/images/54/543690640053140.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/543690640053140.jpg",
       "https://img.olx.com.br/images/58/583615286748640.jpg",
       "https://img.olx.com.br/images/61/610688167283800.jpg"
     ],
-    "defeito": false,
+    "id": "1500840575",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spider-man-1500840575",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Spider Man",
     "ts": 1778389046
   },
   {
@@ -9900,28 +9919,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "JOGO PS4 KILLZONE MIDIA FÍSICA",
     "ts": 1778340476
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:27",
-    "fotoUrl": "https://img.olx.com.br/images/51/512664040840245.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/512664040840245.jpg",
-      "https://img.olx.com.br/images/53/531605888258703.jpg",
-      "https://img.olx.com.br/images/55/551624648872362.jpg",
-      "https://img.olx.com.br/images/56/560632526860690.jpg",
-      "https://img.olx.com.br/images/58/584662880814985.jpg",
-      "https://img.olx.com.br/images/59/598614406698306.jpg"
-    ],
-    "id": "1500719575",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/homem-aranha-jogo-ps4-1500719575",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2025",
-    "titulo": "Homem Aranha - Jogo PS4",
-    "ts": 1778340466
   }
 ]
