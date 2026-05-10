@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500840545",
-    "titulo": "The Last of Us Part II",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1500840535",
+    "titulo": "Days Gone ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "01:51",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/the-last-of-us-part-ii-1500840545",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/days-gone-1500840535",
+    "fotoUrl": "https://img.olx.com.br/images/54/543666522932933.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/543666522932933.jpg",
+      "https://img.olx.com.br/images/57/578617404861308.jpg",
+      "https://img.olx.com.br/images/60/603675527801829.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778388681
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:51",
     "fotoUrl": "https://img.olx.com.br/images/41/417687404849193.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/417687404849193.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/48/484655884948604.jpg",
       "https://img.olx.com.br/images/50/505653400336179.jpg"
     ],
-    "defeito": false,
+    "id": "1500840545",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/the-last-of-us-part-ii-1500840545",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "The Last of Us Part II",
     "ts": 1778388671
   },
   {
@@ -9891,23 +9911,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "horizon west.ps4 ( lacrado ) ",
     "ts": 1778340413
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:26",
-    "fotoUrl": "https://img.olx.com.br/images/13/132692366227125.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/132692366227125.jpg"
-    ],
-    "id": "1473999852",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/days-gone-ps4-1473999852",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Days gone ps4",
-    "ts": 1778340404
   }
 ]
