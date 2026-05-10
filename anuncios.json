@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500926975",
-    "titulo": "PlayStation 4 PRO.",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "ps4",
+    "id": "1500927457",
+    "titulo": "Game",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "17:30",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "detectado": "17:34",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "descricao": "",
-    "link": "https://ap.olx.com.br/amapa/games/jogos-de-video-game/playstation-4-pro-1500926975",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/game-1500927457",
+    "fotoUrl": "https://img.olx.com.br/images/93/939675880434523.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/939675880434523.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778445249
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:30",
     "fotoUrl": "https://img.olx.com.br/images/48/483645163332533.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/483645163332533.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/53/534655280534790.jpg",
       "https://img.olx.com.br/images/54/547645885970281.jpg"
     ],
-    "defeito": false,
+    "id": "1500926975",
+    "link": "https://ap.olx.com.br/amapa/games/jogos-de-video-game/playstation-4-pro-1500926975",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "PlayStation 4 PRO.",
     "ts": 1778445013
   },
   {
@@ -9845,23 +9863,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2014",
     "titulo": "Uncharted 4: A Thief's End PS4 - Completo e Impecável",
     "ts": 1778367054
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:50",
-    "fotoUrl": "https://img.olx.com.br/images/53/537634400085136.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/537634400085136.jpg"
-    ],
-    "id": "1500805296",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/infamous-second-son-ps4-1500805296",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2020",
-    "titulo": "Infamous second son ps4",
-    "ts": 1778367045
   }
 ]
