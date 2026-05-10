@@ -1,15 +1,32 @@
 [
   {
-    "id": "1500926942",
-    "titulo": "Console game",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "outros",
+    "id": "1500927721",
+    "titulo": "vendo jogo de PS4 ou troco por algum outro jogo do meu interesse ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:34",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "detectado": "17:36",
+    "tempoOlx": "Na OLX desde novembro de 2021",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/console-game-1500926942",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/vendo-jogo-de-ps4-ou-troco-por-algum-outro-jogo-do-meu-interesse-1500927721",
+    "fotoUrl": "https://img.olx.com.br/images/46/466678767062888.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/466678767062888.jpg",
+      "https://img.olx.com.br/images/48/489698524208920.jpg",
+      "https://img.olx.com.br/images/52/524652887829170.jpg",
+      "https://img.olx.com.br/images/55/559692881087525.jpg",
+      "https://img.olx.com.br/images/58/580629884256934.jpg",
+      "https://img.olx.com.br/images/61/615693887912405.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778445403
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:34",
     "fotoUrl": "https://img.olx.com.br/images/86/863691283519434.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/863691283519434.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/89/895650884803159.jpg",
       "https://img.olx.com.br/images/91/913629407784167.jpg"
     ],
-    "defeito": false,
+    "id": "1500926942",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/console-game-1500926942",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Console game",
     "ts": 1778445260
   },
   {
@@ -9845,24 +9868,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Resident Evil 4 Remake PS4",
     "ts": 1778367073
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:51",
-    "fotoUrl": "https://img.olx.com.br/images/57/579601527721059.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/579601527721059.jpg",
-      "https://img.olx.com.br/images/59/594660764076160.jpg"
-    ],
-    "id": "1500805283",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-terraria-ps4-usado-1500805283",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2024",
-    "titulo": "JOGO TERRARIA PS4 USADO",
-    "ts": 1778367062
   }
 ]
