@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500947614",
-    "titulo": "PS4 SLIM + 6 JOGOS",
-    "preco": 1750,
-    "precoRaw": "R$ 1.750",
+    "id": "1500947349",
+    "titulo": "Jogos ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:46",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-slim-6-jogos-1500947614",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-ps4-1500947349",
+    "fotoUrl": "https://img.olx.com.br/images/91/912648647264942.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/912648647264942.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778453183
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:46",
     "fotoUrl": "https://img.olx.com.br/images/51/511694168525847.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/511694168525847.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/57/576604528568193.jpg",
       "https://img.olx.com.br/images/59/599690526747426.jpg"
     ],
-    "defeito": false,
+    "id": "1500947614",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-slim-6-jogos-1500947614",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4 SLIM + 6 JOGOS",
     "ts": 1778453172
   },
   {
@@ -9843,23 +9861,5 @@
     "tempoOlx": "Na OLX desde outubro de 2018",
     "titulo": "Minecraft - PS4",
     "ts": 1778380844
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:40",
-    "fotoUrl": "https://img.olx.com.br/images/64/647614882682016.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/647614882682016.jpg"
-    ],
-    "id": "1500832976",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-de-ps4-midia-fisica-the-last-of-us-remastered-1500832976",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Jogo de PS4 mídia física - The Last of Us Remastered",
-    "ts": 1778380835
   }
 ]
