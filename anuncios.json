@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500885986",
-    "titulo": "iPhone 12 Pro Max 128GB",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "categoria": "iphone",
+    "id": "1500886888",
+    "titulo": "Jogos de ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:02",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "12:07",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-max-128gb-1500885986",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/jogos-de-ps4-1500886888",
+    "fotoUrl": "https://img.olx.com.br/images/98/982616524868321.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/982616524868321.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778425655
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:02",
     "fotoUrl": "https://img.olx.com.br/images/79/790694167872284.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/790694167872284.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/81/810657766159940.jpg",
       "https://img.olx.com.br/images/82/821688402021414.jpg"
     ],
-    "defeito": false,
+    "id": "1500885986",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-max-128gb-1500885986",
+    "preco": 2550,
+    "precoRaw": "R$ 2.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "iPhone 12 Pro Max 128GB",
     "ts": 1778425343
   },
   {
@@ -9831,25 +9849,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2024",
     "titulo": "PES 2020 PS4 MÍDIA FÍSICA",
     "ts": 1778347645
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:27",
-    "fotoUrl": "https://img.olx.com.br/images/48/486651281622310.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/486651281622310.jpg",
-      "https://img.olx.com.br/images/50/501655289931795.jpg",
-      "https://img.olx.com.br/images/52/527605283365495.jpg"
-    ],
-    "id": "1500748280",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/diablo-reaper-of-souls-ps4-1500748280",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Diablo reaper of souls ps4",
-    "ts": 1778347637
   }
 ]
