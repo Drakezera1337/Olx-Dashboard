@@ -1,15 +1,27 @@
 [
   {
-    "id": "1498891263",
-    "titulo": "Playstation Portal (PS PORTAL)",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "outros",
+    "id": "1498236437",
+    "titulo": "PlayStation 5 Slim",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "19:55",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-portal-ps-portal-1498891263",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-5-slim-1498236437",
+    "fotoUrl": "https://img.olx.com.br/images/87/874672517170774.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/874672517170774.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778453711
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:55",
     "fotoUrl": "https://img.olx.com.br/images/96/967692282468883.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/967692282468883.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/86/866686523311714.jpg",
       "https://img.olx.com.br/images/86/866600162326406.jpg"
     ],
-    "defeito": false,
+    "id": "1498891263",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-portal-ps-portal-1498891263",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Playstation Portal (PS PORTAL)",
     "ts": 1778453701
   },
   {
@@ -9839,27 +9857,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": " God of War Ragnarok - ps4",
     "ts": 1778384733
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:45",
-    "fotoUrl": "https://img.olx.com.br/images/90/901693389471147.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/901693389471147.jpg",
-      "https://img.olx.com.br/images/72/725618268611880.jpg",
-      "https://img.olx.com.br/images/94/942667502518240.jpg",
-      "https://img.olx.com.br/images/87/872687504616997.jpg",
-      "https://img.olx.com.br/images/32/328627144409229.jpg"
-    ],
-    "id": "1483673474",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/cyberpunk-ps4-versao-nacional-1483673474",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Cyberpunk - PS4 versão Nacional",
-    "ts": 1778384725
   }
 ]
