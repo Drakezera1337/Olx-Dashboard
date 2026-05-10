@@ -1,5 +1,45 @@
 [
   {
+    "id": "1492795318",
+    "titulo": "Controle ps5 homem aranha ",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "categoria": "ps5",
+    "publicado": "",
+    "detectado": "09:40",
+    "tempoOlx": "Na OLX desde maio de 2015",
+    "descricao": "",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/controle-ps5-homem-aranha-1492795318",
+    "fotoUrl": "https://img.olx.com.br/images/53/537691036289292.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/537691036289292.jpg",
+      "https://img.olx.com.br/images/55/550683152719376.jpg",
+      "https://img.olx.com.br/images/56/562633638418341.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778416821
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:40",
+    "fotoUrl": "https://img.olx.com.br/images/81/818642164131470.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/818642164131470.jpg",
+      "https://img.olx.com.br/images/83/835616641375929.jpg",
+      "https://img.olx.com.br/images/86/864644045223762.jpg"
+    ],
+    "id": "1500860638",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-256gb-na-garantia-apple-1500860638",
+    "preco": 5400,
+    "precoRaw": "R$ 5.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "IPHONE 17 256GB NA GARANTIA APPLE",
+    "ts": 1778416814
+  },
+  {
     "id": "1500862482",
     "titulo": "PlayStation 5 usado ",
     "preco": 2550,
@@ -41,22 +81,22 @@
     "ts": 1778416804
   },
   {
-    "id": "1500864526",
-    "titulo": "Ps5 digital 825 gb ",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
     "categoria": "ps5",
-    "publicado": "",
-    "detectado": "09:40",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "defeito": false,
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-digital-825-gb-1500864526",
+    "detectado": "09:40",
     "fotoUrl": "https://img.olx.com.br/images/96/966605404187050.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/966605404187050.jpg",
       "https://img.olx.com.br/images/99/993699529180612.jpg"
     ],
-    "defeito": false,
+    "id": "1500864526",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-digital-825-gb-1500864526",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Ps5 digital 825 gb ",
     "ts": 1778416804
   },
   {
@@ -9876,47 +9916,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "The Cruel King and the Great Hero PS4 Japonês",
     "ts": 1778340519
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:28",
-    "fotoUrl": "https://img.olx.com.br/images/68/687695648505439.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/687695648505439.jpg",
-      "https://img.olx.com.br/images/69/692685047519749.jpg",
-      "https://img.olx.com.br/images/71/717633402267128.jpg"
-    ],
-    "id": "1500716686",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/god-of-war-ps4-1500716686",
-    "preco": 74,
-    "precoRaw": "R$ 74",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "God of war ps4",
-    "ts": 1778340510
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:28",
-    "fotoUrl": "https://img.olx.com.br/images/86/865669405550434.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/865669405550434.jpg",
-      "https://img.olx.com.br/images/88/883692168203944.jpg",
-      "https://img.olx.com.br/images/90/901605161008857.jpg",
-      "https://img.olx.com.br/images/92/922600648132758.jpg",
-      "https://img.olx.com.br/images/93/931695283919138.jpg"
-    ],
-    "id": "1500717124",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/gta-5-midia-fisica-ps4-1500717124",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "GTA 5 Mídia física - PS4",
-    "ts": 1778340501
   }
 ]
