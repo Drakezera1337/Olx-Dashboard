@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500838830",
-    "titulo": "Jogos mídia física ps4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1500838775",
+    "titulo": "Final Fantasy XV PS4",
+    "preco": 75,
+    "precoRaw": "R$ 75",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "01:09",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "tempoOlx": "Na OLX desde outubro de 2025",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-midia-fisica-ps4-1500838830",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/final-fantasy-xv-ps4-1500838775",
+    "fotoUrl": "https://img.olx.com.br/images/59/597631767633587.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/597631767633587.jpg",
+      "https://img.olx.com.br/images/59/598640889200410.jpg",
+      "https://img.olx.com.br/images/59/597619166032055.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778386158
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:09",
     "fotoUrl": "https://img.olx.com.br/images/51/514669403278567.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/514669403278567.jpg"
     ],
-    "defeito": false,
+    "id": "1500838830",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-midia-fisica-ps4-1500838830",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Jogos mídia física ps4",
     "ts": 1778386149
   },
   {
@@ -9886,25 +9906,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2026",
     "titulo": "Jogo de videogame South Park The Fractured But Whole original para PS4 ",
     "ts": 1778340342
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:25",
-    "fotoUrl": "https://img.olx.com.br/images/61/617639395069751.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/617639395069751.jpg",
-      "https://img.olx.com.br/images/62/625640512155927.jpg",
-      "https://img.olx.com.br/images/62/620656272366468.jpg"
-    ],
-    "id": "1491642453",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-serie-x-1491642453",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "XBOX SERIE X",
-    "ts": 1778340334
   }
 ]
