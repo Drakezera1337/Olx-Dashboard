@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498987261",
-    "titulo": "? iPhone 16 Pro Max disponível!",
-    "preco": 6199,
-    "precoRaw": "R$ 6.199",
+    "id": "1498930740",
+    "titulo": "Vendo iPhone 13",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "18:41",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-disponivel-1498987261",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-13-1498930740",
+    "fotoUrl": "https://img.olx.com.br/images/50/500659041783683.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/500659041783683.jpg",
+      "https://img.olx.com.br/images/52/520655402166167.jpg",
+      "https://img.olx.com.br/images/55/550601646551316.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778449279
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:41",
     "fotoUrl": "https://img.olx.com.br/images/34/340639643965883.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/340639643965883.jpg",
       "https://img.olx.com.br/images/35/357658162610112.jpg"
     ],
-    "defeito": false,
+    "id": "1498987261",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-disponivel-1498987261",
+    "preco": 6199,
+    "precoRaw": "R$ 6.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "? iPhone 16 Pro Max disponível!",
     "ts": 1778449270
   },
   {
@@ -9842,25 +9862,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2015",
     "titulo": "Xbox séries s 500gb",
     "ts": 1778373757
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:41",
-    "fotoUrl": "https://img.olx.com.br/images/51/514623638866090.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/514623638866090.jpg",
-      "https://img.olx.com.br/images/50/506627757062610.jpg",
-      "https://img.olx.com.br/images/50/503630399830166.jpg"
-    ],
-    "id": "1490961157",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/2-jogos-de-ps4-mortal-kombat-xl-e-mortal-kombat-11-1490961157",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2014",
-    "titulo": "2 Jogos de PS4 - Mortal Kombat XL e Mortal Kombat 11",
-    "ts": 1778373684
   }
 ]
