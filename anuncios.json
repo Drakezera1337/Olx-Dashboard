@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500830444",
-    "titulo": "Placa mãe Playstation 4 slim",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "ps4",
+    "id": "1500830337",
+    "titulo": "Coleção - God of War (PS3)",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "23:15",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/placa-mae-playstation-4-slim-1500830444",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/colecao-god-of-war-ps3-1500830337",
+    "fotoUrl": "https://img.olx.com.br/images/49/494670167075914.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/494670167075914.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778379345
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:15",
     "fotoUrl": "https://img.olx.com.br/images/17/179661525063554.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/179661525063554.jpg"
     ],
-    "defeito": false,
+    "id": "1500830444",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/placa-mae-playstation-4-slim-1500830444",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Placa mãe Playstation 4 slim",
     "ts": 1778379337
   },
   {
@@ -9892,27 +9910,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "PS4 PRO - Oportunidade",
     "ts": 1778340071
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:21",
-    "fotoUrl": "https://img.olx.com.br/images/81/818679645192357.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/818679645192357.jpg",
-      "https://img.olx.com.br/images/82/828643406235620.jpg",
-      "https://img.olx.com.br/images/85/853684640233355.jpg",
-      "https://img.olx.com.br/images/86/860636409448033.jpg",
-      "https://img.olx.com.br/images/88/888686641089145.jpg"
-    ],
-    "id": "1500693944",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1500693944",
-    "preco": 1850,
-    "precoRaw": "R$ 1.850",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "iPhone 13",
-    "ts": 1778340063
   }
 ]
