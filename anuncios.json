@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499025524",
-    "titulo": "iPhone 15 Pro Max 256GB Titânio Natural",
-    "preco": 4800,
-    "precoRaw": "R$ 4.800",
+    "id": "1499023283",
+    "titulo": "Apple Iphone 14 128GB",
+    "preco": 2670,
+    "precoRaw": "R$ 2.670",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "18:40",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "tempoOlx": "Na OLX desde maio de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-titanio-natural-1499025524",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-14-128gb-1499023283",
+    "fotoUrl": "https://img.olx.com.br/images/70/702690289566900.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/702690289566900.jpg",
+      "https://img.olx.com.br/images/42/421657886474882.jpg",
+      "https://img.olx.com.br/images/47/474607641269633.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778449250
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:40",
     "fotoUrl": "https://img.olx.com.br/images/90/906649640076992.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/906649640076992.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/90/904615529144186.jpg",
       "https://img.olx.com.br/images/90/902615289074440.jpg"
     ],
-    "defeito": false,
+    "id": "1499025524",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-titanio-natural-1499025524",
+    "preco": 4800,
+    "precoRaw": "R$ 4.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "iPhone 15 Pro Max 256GB Titânio Natural",
     "ts": 1778449241
   },
   {
@@ -9843,24 +9863,5 @@
     "tempoOlx": "Na OLX desde junho de 2014",
     "titulo": "2 Jogos de PS4 - God of War III Remasterizado + God of War",
     "ts": 1778373676
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:41",
-    "fotoUrl": "https://img.olx.com.br/images/16/163646524079430.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/163646524079430.jpg",
-      "https://img.olx.com.br/images/17/172614644235508.jpg"
-    ],
-    "id": "1500820069",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/vendo-jogo-hades-ps4-lacrado-1500820069",
-    "preco": 270,
-    "precoRaw": "R$ 270",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2024",
-    "titulo": "VENDO JOGO HADES PS4 LACRADO ",
-    "ts": 1778373669
   }
 ]
