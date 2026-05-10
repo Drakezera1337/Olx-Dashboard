@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500817591",
-    "titulo": "Nintendo DS XL (USADO)",
-    "preco": 480,
-    "precoRaw": "R$ 480",
-    "categoria": "switch",
+    "id": "1500818098",
+    "titulo": "Red Dead Redemption 1 Mídia Fisica PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:19",
-    "tempoOlx": "Na OLX desde julho de 2014",
+    "detectado": "21:23",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-ds-xl-usado-1500817591",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/red-dead-redemption-1-midia-fisica-ps4-1500818098",
+    "fotoUrl": "https://img.olx.com.br/images/28/282680163545860.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/282680163545860.jpg",
+      "https://img.olx.com.br/images/30/305654525318268.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778372587
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:19",
     "fotoUrl": "https://img.olx.com.br/images/73/739669406845411.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/739669406845411.jpg",
       "https://img.olx.com.br/images/73/737695766487435.jpg",
       "https://img.olx.com.br/images/74/747641769929739.jpg"
     ],
-    "defeito": false,
+    "id": "1500817591",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-ds-xl-usado-1500817591",
+    "preco": 480,
+    "precoRaw": "R$ 480",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2014",
+    "titulo": "Nintendo DS XL (USADO)",
     "ts": 1778372377
   },
   {
@@ -9870,24 +9889,5 @@
     "tempoOlx": "Na OLX desde abril de 2022",
     "titulo": "Vendo chuteira predador ",
     "ts": 1778295341
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:54",
-    "fotoUrl": "https://img.olx.com.br/images/11/116667160677459.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/116667160677459.jpg",
-      "https://img.olx.com.br/images/12/129624163385941.jpg"
-    ],
-    "id": "1500606125",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-efootball-pes-2020-1500606125",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2018",
-    "titulo": "PS4 - eFootball PES 2020",
-    "ts": 1778295292
   }
 ]
