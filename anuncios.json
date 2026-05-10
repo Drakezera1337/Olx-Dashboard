@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500817467",
-    "titulo": "Ratchet Clank - PS4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "ps4",
+    "id": "1500817091",
+    "titulo": "Não troco ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "21:17",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "tempoOlx": "Na OLX desde março de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ratchet-clank-ps4-1500817467",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nao-troco-1500817091",
+    "fotoUrl": "https://img.olx.com.br/images/79/792672767163160.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/792672767163160.jpg",
+      "https://img.olx.com.br/images/81/811659284841931.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778372235
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:17",
     "fotoUrl": "https://img.olx.com.br/images/60/602663401506261.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/602663401506261.jpg",
       "https://img.olx.com.br/images/62/625668649463627.jpg",
       "https://img.olx.com.br/images/65/650632525200041.jpg"
     ],
-    "defeito": false,
+    "id": "1500817467",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ratchet-clank-ps4-1500817467",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Ratchet Clank - PS4",
     "ts": 1778372227
   },
   {
@@ -9871,25 +9890,5 @@
     "tempoOlx": "Na OLX desde abril de 2018",
     "titulo": "PS4 - PES 2017",
     "ts": 1778295276
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:54",
-    "fotoUrl": "https://img.olx.com.br/images/39/390648642785139.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/390648642785139.jpg",
-      "https://img.olx.com.br/images/40/408659763959332.jpg",
-      "https://img.olx.com.br/images/41/416682403385265.jpg"
-    ],
-    "id": "1500601124",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-1500601124",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "PS4 FAT",
-    "ts": 1778295248
   }
 ]
