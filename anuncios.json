@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500840638",
-    "titulo": "GTA V para Playstation 4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1500840575",
+    "titulo": "Spider Man",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "01:57",
     "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-v-para-playstation-4-1500840638",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spider-man-1500840575",
+    "fotoUrl": "https://img.olx.com.br/images/54/543690640053140.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/543690640053140.jpg",
+      "https://img.olx.com.br/images/58/583615286748640.jpg",
+      "https://img.olx.com.br/images/61/610688167283800.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778389046
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:57",
     "fotoUrl": "https://img.olx.com.br/images/85/859653160156056.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/859653160156056.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/90/905668282564802.jpg",
       "https://img.olx.com.br/images/94/946688282209532.jpg"
     ],
-    "defeito": false,
+    "id": "1500840638",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-v-para-playstation-4-1500840638",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "GTA V para Playstation 4",
     "ts": 1778389037
   },
   {
@@ -9903,23 +9923,5 @@
     "tempoOlx": "Na OLX desde março de 2025",
     "titulo": "Homem Aranha - Jogo PS4",
     "ts": 1778340466
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:27",
-    "fotoUrl": "https://img.olx.com.br/images/70/707662882370770.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/707662882370770.jpg"
-    ],
-    "id": "1500720372",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/mortal-kombat-x-ps4-1500720372",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "Mortal Kombat x ps4",
-    "ts": 1778340456
   }
 ]
