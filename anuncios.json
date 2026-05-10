@@ -1,22 +1,45 @@
 [
   {
-    "id": "1500899193",
-    "titulo": "Playstation 4 Slim",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1500899309",
+    "titulo": "Playstation Portal ",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:38",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "detectado": "13:39",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-slim-1500899193",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/playstation-portal-1500899309",
+    "fotoUrl": "https://img.olx.com.br/images/23/237609640666158.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/237609640666158.jpg",
+      "https://img.olx.com.br/images/24/243604049732377.jpg",
+      "https://img.olx.com.br/images/26/268608880346712.jpg",
+      "https://img.olx.com.br/images/28/281636529808782.jpg",
+      "https://img.olx.com.br/images/30/303686520024689.jpg",
+      "https://img.olx.com.br/images/31/311628288369869.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778431149
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:38",
     "fotoUrl": "https://img.olx.com.br/images/98/985680281892176.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/985680281892176.jpg",
       "https://img.olx.com.br/images/10/102671403049644.jpg",
       "https://img.olx.com.br/images/14/146616761796477.jpg"
     ],
-    "defeito": false,
+    "id": "1500899193",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-slim-1500899193",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "Playstation 4 Slim",
     "ts": 1778431087
   },
   {
@@ -9825,24 +9848,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Call Of Duty Advance Warfare PS4 ",
     "ts": 1778354674
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:24",
-    "fotoUrl": "https://img.olx.com.br/images/85/851694480291045.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/851694480291045.jpg",
-      "https://img.olx.com.br/images/85/854674126842595.jpg"
-    ],
-    "id": "1459591553",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/zombie-army-4-ps4-1459591553",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Zombie Army 4 PS4",
-    "ts": 1778354667
   }
 ]
