@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500896297",
-    "titulo": "Vendo Xbox séries  com defeito  ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "xbox",
+    "id": "1500896776",
+    "titulo": "PlayStation 4 slim - 500 gigas - controle e cabos originais",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:13",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "13:17",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/vendo-xbox-series-com-defeito-1500896297",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-500-gigas-controle-e-cabos-originais-1500896776",
+    "fotoUrl": "https://img.olx.com.br/images/46/468607404252153.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/468607404252153.jpg",
+      "https://img.olx.com.br/images/46/464659400616634.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778429861
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:13",
     "fotoUrl": "https://img.olx.com.br/images/66/661684647370912.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/661684647370912.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/70/700694642473827.jpg",
       "https://img.olx.com.br/images/71/711668168013888.jpg"
     ],
-    "defeito": false,
+    "id": "1500896297",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/vendo-xbox-series-com-defeito-1500896297",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "Vendo Xbox séries  com defeito  ",
     "ts": 1778429619
   },
   {
@@ -9830,24 +9849,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Jogo Assassins Creed: The Ezio Collection PS4",
     "ts": 1778353998
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:13",
-    "fotoUrl": "https://img.olx.com.br/images/31/313684758915615.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/313684758915615.jpg",
-      "https://img.olx.com.br/images/31/311680159179426.jpg"
-    ],
-    "id": "1466006874",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-3-ps4-1466006874",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "God Of War 3 PS4",
-    "ts": 1778353988
   }
 ]
