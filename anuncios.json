@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500832226",
-    "titulo": "Xbox series s",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "xbox",
+    "id": "1500832807",
+    "titulo": "Volante Logitech G29 Driving Force para PS5, PS4, PS3 e PC",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "23:36",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "23:40",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-1500832226",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/volante-logitech-g29-driving-force-para-ps5-ps4-ps3-e-pc-1500832807",
+    "fotoUrl": "https://img.olx.com.br/images/17/172654162991464.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/172654162991464.jpg",
+      "https://img.olx.com.br/images/18/187611641952221.jpg",
+      "https://img.olx.com.br/images/20/209637523201693.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778380813
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:36",
     "fotoUrl": "https://img.olx.com.br/images/26/262622643082397.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/262622643082397.jpg"
     ],
-    "defeito": false,
+    "id": "1500832226",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-1500832226",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Xbox series s",
     "ts": 1778380566
   },
   {
@@ -9877,26 +9897,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Play station 4",
     "ts": 1778340110
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:21",
-    "fotoUrl": "https://img.olx.com.br/images/56/560626161176600.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/560626161176600.jpg",
-      "https://img.olx.com.br/images/57/576638160436080.jpg",
-      "https://img.olx.com.br/images/58/585617526102520.jpg",
-      "https://img.olx.com.br/images/60/602614761720346.jpg"
-    ],
-    "id": "1500660265",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-256-gb-saude-bateria-77-1500660265",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Iphone 11 256 gb saúde bateria 77%",
-    "ts": 1778340108
   }
 ]
