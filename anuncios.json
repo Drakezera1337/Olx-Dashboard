@@ -1,21 +1,39 @@
 [
   {
-    "id": "1500449836",
-    "titulo": "Xbox series s ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1500869179",
+    "titulo": "PS4 PRO COM DEFEITO N LIGA HD 1TB",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "09:49",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "detectado": "09:55",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1500449836",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-pro-com-defeito-n-liga-hd-1tb-1500869179",
+    "fotoUrl": "https://img.olx.com.br/images/69/695602881713280.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/695602881713280.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778417740
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:49",
     "fotoUrl": "https://img.olx.com.br/images/90/902601880692166.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/902601880692166.jpg",
       "https://img.olx.com.br/images/91/919639885578333.jpg"
     ],
-    "defeito": false,
+    "id": "1500449836",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1500449836",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Xbox series s ",
     "ts": 1778417377
   },
   {
@@ -9868,28 +9886,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "PS Portal",
     "ts": 1778342196
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:56",
-    "fotoUrl": "https://img.olx.com.br/images/73/738677610237489.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/738677610237489.jpg",
-      "https://img.olx.com.br/images/75/752693732778897.jpg",
-      "https://img.olx.com.br/images/77/775660499776330.jpg",
-      "https://img.olx.com.br/images/78/784645734857793.jpg",
-      "https://img.olx.com.br/images/80/805627612718045.jpg",
-      "https://img.olx.com.br/images/82/821641250150399.jpg"
-    ],
-    "id": "1477320710",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1477320710",
-    "preco": 1099,
-    "precoRaw": "R$ 1.099",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2022",
-    "titulo": "Xbox one s",
-    "ts": 1778342167
   }
 ]
