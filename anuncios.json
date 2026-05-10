@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500897983",
-    "titulo": "IPHONE 8 BOM ESTADO",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "iphone",
+    "id": "1500899298",
+    "titulo": "Jogos ps4 3 jogos por $120",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:30",
-    "tempoOlx": "Na OLX desde março de 2020",
+    "detectado": "13:36",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-bom-estado-1500897983",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/jogos-ps4-3-jogos-por-120-1500899298",
+    "fotoUrl": "https://img.olx.com.br/images/69/697610645822309.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/697610645822309.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778430999
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:30",
     "fotoUrl": "https://img.olx.com.br/images/26/268606286625495.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/268606286625495.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/31/315667521945706.jpg",
       "https://img.olx.com.br/images/18/180694885310043.jpg"
     ],
-    "defeito": false,
+    "id": "1500897983",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-bom-estado-1500897983",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2020",
+    "titulo": "IPHONE 8 BOM ESTADO",
     "ts": 1778430642
   },
   {
@@ -9825,24 +9843,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "South Park PS4",
     "ts": 1778354642
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:23",
-    "fotoUrl": "https://img.olx.com.br/images/97/972603878648639.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/972603878648639.jpg",
-      "https://img.olx.com.br/images/97/970616519580269.jpg"
-    ],
-    "id": "1482995089",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-22-ps4-1482995089",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "FIFA 22 PS4",
-    "ts": 1778354635
   }
 ]
