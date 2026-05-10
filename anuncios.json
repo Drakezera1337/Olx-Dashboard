@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500940542",
-    "titulo": "Ps4 Slim 500GB na caixa + 120 Jogos + Controle",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
+    "id": "1500940505",
+    "titulo": "PS4 fat ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:27",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-500gb-na-caixa-120-jogos-controle-1500940542",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-fat-1500940505",
+    "fotoUrl": "https://img.olx.com.br/images/87/878604169537965.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/878604169537965.jpg",
+      "https://img.olx.com.br/images/88/888629523890605.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778448469
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:27",
     "fotoUrl": "https://img.olx.com.br/images/90/900653288022797.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/900653288022797.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/19/197679164759898.jpg",
       "https://img.olx.com.br/images/21/218684523633075.jpg"
     ],
-    "defeito": false,
+    "id": "1500940542",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-500gb-na-caixa-120-jogos-controle-1500940542",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "Ps4 Slim 500GB na caixa + 120 Jogos + Controle",
     "ts": 1778448461
   },
   {
@@ -9835,24 +9854,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "Assassin's Creed Rogue coleção PS4",
     "ts": 1778371838
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:06",
-    "fotoUrl": "https://img.olx.com.br/images/77/776688041554425.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/776688041554425.jpg",
-      "https://img.olx.com.br/images/79/797672883332231.jpg"
-    ],
-    "id": "1500815936",
-    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/consoles-de-video-game/nintendo-switch-lite-1500815936",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2022",
-    "titulo": "Nintendo switch lite ",
-    "ts": 1778371567
   }
 ]
