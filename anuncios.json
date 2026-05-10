@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500891145",
-    "titulo": "Iphone 11 branco 126gb",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "iphone",
+    "id": "1475645969",
+    "titulo": "Jogo The Witcher 3: Wild Hunt - PS4",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:38",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-branco-126gb-1500891145",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogo-the-witcher-3-wild-hunt-ps4-1475645969",
+    "fotoUrl": "https://img.olx.com.br/images/62/629623853674338.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/629623853674338.jpg",
+      "https://img.olx.com.br/images/65/656694857382594.jpg",
+      "https://img.olx.com.br/images/68/687666735846525.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778427537
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:38",
     "fotoUrl": "https://img.olx.com.br/images/44/448687768326451.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/448687768326451.jpg",
       "https://img.olx.com.br/images/45/450694043798618.jpg"
     ],
-    "defeito": false,
+    "id": "1500891145",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-branco-126gb-1500891145",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "Iphone 11 branco 126gb",
     "ts": 1778427528
   },
   {
@@ -9842,26 +9862,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Death Stranding PS4 ",
     "ts": 1778349407
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:56",
-    "fotoUrl": "https://img.olx.com.br/images/60/606680048156043.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/606680048156043.jpg",
-      "https://img.olx.com.br/images/62/628633407282143.jpg",
-      "https://img.olx.com.br/images/63/635638889172663.jpg",
-      "https://img.olx.com.br/images/64/646683168267399.jpg"
-    ],
-    "id": "1500753490",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/gta-v-ps4-ps5-1500753490",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "GTA V - PS4 - PS5",
-    "ts": 1778349399
   }
 ]
