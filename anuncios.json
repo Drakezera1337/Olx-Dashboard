@@ -1,20 +1,39 @@
 [
   {
-    "id": "1500954579",
-    "titulo": "Playstation 3 fat com defeito ",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "ps3",
+    "id": "1500955279",
+    "titulo": "Spider-Man e Resident Evil 2",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "20:08",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "20:10",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-fat-com-defeito-1500954579",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/spider-man-e-resident-evil-2-1500955279",
+    "fotoUrl": "https://img.olx.com.br/images/96/967678409148735.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/967678409148735.jpg",
+      "https://img.olx.com.br/images/99/991638169584392.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778454640
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:08",
     "fotoUrl": "https://img.olx.com.br/images/83/834680281841660.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/834680281841660.jpg"
     ],
-    "defeito": false,
+    "id": "1500954579",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-fat-com-defeito-1500954579",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Playstation 3 fat com defeito ",
     "ts": 1778454490
   },
   {
@@ -9815,23 +9834,5 @@
     "tempoOlx": "Na OLX desde junho de 2016",
     "titulo": "God of war 3 PS4",
     "ts": 1778416903
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:41",
-    "fotoUrl": "https://img.olx.com.br/images/54/549683286928668.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/549683286928668.jpg"
-    ],
-    "id": "1500867491",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-17-ps4-1500867491",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "Fifa 17 PS4 ",
-    "ts": 1778416895
   }
 ]
