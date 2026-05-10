@@ -1,15 +1,32 @@
 [
   {
-    "id": "1500926800",
-    "titulo": "Nintendo 3ds desbloqueado",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "switch",
+    "id": "1500926975",
+    "titulo": "PlayStation 4 PRO.",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:29",
-    "tempoOlx": "Na OLX desde abril de 2024",
+    "detectado": "17:30",
+    "tempoOlx": "Na OLX desde março de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-3ds-desbloqueado-1500926800",
+    "link": "https://ap.olx.com.br/amapa/games/jogos-de-video-game/playstation-4-pro-1500926975",
+    "fotoUrl": "https://img.olx.com.br/images/48/483645163332533.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/483645163332533.jpg",
+      "https://img.olx.com.br/images/49/499665526939656.jpg",
+      "https://img.olx.com.br/images/51/511614523113880.jpg",
+      "https://img.olx.com.br/images/52/529652287188341.jpg",
+      "https://img.olx.com.br/images/53/534655280534790.jpg",
+      "https://img.olx.com.br/images/54/547645885970281.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778445013
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:29",
     "fotoUrl": "https://img.olx.com.br/images/60/603673167119159.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/603673167119159.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/63/637652404766363.jpg",
       "https://img.olx.com.br/images/70/705683764853029.jpg"
     ],
-    "defeito": false,
+    "id": "1500926800",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-3ds-desbloqueado-1500926800",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2024",
+    "titulo": "Nintendo 3ds desbloqueado",
     "ts": 1778444952
   },
   {
@@ -9840,25 +9863,5 @@
     "tempoOlx": "Na OLX desde junho de 2020",
     "titulo": "Infamous second son ps4",
     "ts": 1778367045
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:50",
-    "fotoUrl": "https://img.olx.com.br/images/38/382680132183842.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/382680132183842.jpg",
-      "https://img.olx.com.br/images/38/389605737124487.jpg",
-      "https://img.olx.com.br/images/38/387637612942267.jpg"
-    ],
-    "id": "1480594510",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/assassin-s-creed-odyssey-ps4-midia-fisica-1480594510",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2014",
-    "titulo": "Assassin's Creed Odyssey PS4 - Mídia Física",
-    "ts": 1778367037
   }
 ]
