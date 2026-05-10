@@ -1,20 +1,41 @@
 [
   {
-    "id": "1500840614",
-    "titulo": "Xbox one série S um controle 4 jogos ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1500840638",
+    "titulo": "GTA V para Playstation 4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "01:57",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-one-serie-s-um-controle-4-jogos-1500840614",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-v-para-playstation-4-1500840638",
+    "fotoUrl": "https://img.olx.com.br/images/85/859653160156056.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/859653160156056.jpg",
+      "https://img.olx.com.br/images/88/886657643939322.jpg",
+      "https://img.olx.com.br/images/90/905668282564802.jpg",
+      "https://img.olx.com.br/images/94/946688282209532.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778389037
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:57",
     "fotoUrl": "https://img.olx.com.br/images/22/222670402551422.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/222670402551422.jpg"
     ],
-    "defeito": false,
+    "id": "1500840614",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-one-serie-s-um-controle-4-jogos-1500840614",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Xbox one série S um controle 4 jogos ",
     "ts": 1778389028
   },
   {
@@ -9900,25 +9921,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "Mortal Kombat x ps4",
     "ts": 1778340456
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:27",
-    "fotoUrl": "https://img.olx.com.br/images/41/415634167206959.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/415634167206959.jpg",
-      "https://img.olx.com.br/images/43/434669168872690.jpg",
-      "https://img.olx.com.br/images/44/449627164247723.jpg"
-    ],
-    "id": "1500720715",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-ps4-semi-novo-1500720715",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Ghost of Tsushima PS4 Semi-Novo ",
-    "ts": 1778340448
   }
 ]
