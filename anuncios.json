@@ -1,20 +1,38 @@
 [
   {
-    "id": "1453479683",
-    "titulo": "Jogo PS4 Until Dawn",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1453479295",
+    "titulo": "Jogo PS4 Farcry 5",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:30",
     "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-until-dawn-1453479683",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-farcry-5-1453479295",
+    "fotoUrl": "https://img.olx.com.br/images/29/296571104096098.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/296571104096098.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778423430
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:30",
     "fotoUrl": "https://img.olx.com.br/images/52/520543941004889.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/520543941004889.jpg"
     ],
-    "defeito": false,
+    "id": "1453479683",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-until-dawn-1453479683",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "Jogo PS4 Until Dawn",
     "ts": 1778423422
   },
   {
@@ -9832,25 +9850,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Battlefield 4 PS4",
     "ts": 1778346907
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:15",
-    "fotoUrl": "https://img.olx.com.br/images/71/715644648137551.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/715644648137551.jpg",
-      "https://img.olx.com.br/images/72/721602880370669.jpg",
-      "https://img.olx.com.br/images/74/741676160957865.jpg"
-    ],
-    "id": "1500746152",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-iphone-11-pra-vende-rapido-1500746152",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2022",
-    "titulo": "celular ? iPhone 11 pra vende rápido *",
-    "ts": 1778346906
   }
 ]
