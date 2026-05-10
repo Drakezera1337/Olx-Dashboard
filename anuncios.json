@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500836619",
-    "titulo": "Ps5",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1500534353",
+    "titulo": " Nintendo switch,  troco por xbox série S ou one x ou ps4",
+    "preco": 11,
+    "precoRaw": "R$ 11",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:32",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "detectado": "00:33",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1500836619",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/nintendo-switch-troco-por-xbox-serie-s-ou-one-x-ou-ps4-1500534353",
+    "fotoUrl": "https://img.olx.com.br/images/86/861613165849882.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/861613165849882.jpg",
+      "https://img.olx.com.br/images/88/888676641987351.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778383987
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:32",
     "fotoUrl": "https://img.olx.com.br/images/34/347689763556412.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/347689763556412.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/36/367668641731307.jpg",
       "https://img.olx.com.br/images/37/376653765950068.jpg"
     ],
-    "defeito": false,
+    "id": "1500836619",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1500836619",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "Ps5",
     "ts": 1778383958
   },
   {
@@ -9878,24 +9897,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "Ps3 desbloqueado vendo ou troco no iPhone leia a descrição ",
     "ts": 1778340230
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:23",
-    "fotoUrl": "https://img.olx.com.br/images/72/727619400761040.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/727619400761040.jpg",
-      "https://img.olx.com.br/images/73/732620522666458.jpg"
-    ],
-    "id": "1498580576",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-one-s-500gb-1498580576",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2023",
-    "titulo": "xbox one S 500GB",
-    "ts": 1778340223
   }
 ]
