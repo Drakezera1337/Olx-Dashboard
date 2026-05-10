@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500631680",
-    "titulo": "Vendo/ troco por IPhone ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "iphone",
+    "id": "1479158218",
+    "titulo": "Nintendo Switch Oled",
+    "preco": 2280,
+    "precoRaw": "R$ 2.280",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "23:43",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "detectado": "23:45",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-troco-por-iphone-1500631680",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-1479158218",
+    "fotoUrl": "https://img.olx.com.br/images/52/525658855113511.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/525658855113511.jpg",
+      "https://img.olx.com.br/images/53/536680130641607.jpg",
+      "https://img.olx.com.br/images/55/557663494458323.jpg",
+      "https://img.olx.com.br/images/57/575613250619514.jpg",
+      "https://img.olx.com.br/images/58/588677379983520.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778381106
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:43",
     "fotoUrl": "https://img.olx.com.br/images/20/207644402059383.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/207644402059383.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/25/257645528482577.jpg",
       "https://img.olx.com.br/images/28/287698047295749.jpg"
     ],
-    "defeito": false,
+    "id": "1500631680",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-troco-por-iphone-1500631680",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "Vendo/ troco por IPhone ",
     "ts": 1778380986
   },
   {
@@ -9875,25 +9897,5 @@
     "tempoOlx": "Na OLX desde novembro de 2021",
     "titulo": "Kit Jogos Playstation 4",
     "ts": 1778340161
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:22",
-    "fotoUrl": "https://img.olx.com.br/images/71/711629380017492.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/711629380017492.jpg",
-      "https://img.olx.com.br/images/72/729686747088017.jpg",
-      "https://img.olx.com.br/images/74/746612024661925.jpg"
-    ],
-    "id": "1490144995",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-formatado-1490144995",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2023",
-    "titulo": "PS4 - FORMATADO",
-    "ts": 1778340154
   }
 ]
