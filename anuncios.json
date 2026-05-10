@@ -1,15 +1,32 @@
 [
   {
-    "id": "1500910104",
-    "titulo": "Pa4 com Jogos",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "outros",
+    "id": "1500914120",
+    "titulo": "PlayStation 4 Ps4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:39",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "15:46",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/pa4-com-jogos-1500910104",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-ps4-1500914120",
+    "fotoUrl": "https://img.olx.com.br/images/95/955605161458159.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/955605161458159.jpg",
+      "https://img.olx.com.br/images/98/984622288416809.jpg",
+      "https://img.olx.com.br/images/46/463649526105093.jpg",
+      "https://img.olx.com.br/images/48/489688401668013.jpg",
+      "https://img.olx.com.br/images/49/499622407889448.jpg",
+      "https://img.olx.com.br/images/51/517651280241544.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778438778
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:39",
     "fotoUrl": "https://img.olx.com.br/images/33/332626769491302.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/332626769491302.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/37/374689763004329.jpg",
       "https://img.olx.com.br/images/57/579668162569529.jpg"
     ],
-    "defeito": false,
+    "id": "1500910104",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/pa4-com-jogos-1500910104",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Pa4 com Jogos",
     "ts": 1778438388
   },
   {
@@ -9847,23 +9870,5 @@
     "tempoOlx": "Na OLX desde março de 2017",
     "titulo": "PS4 FAT 1tb com HD EXTERNO",
     "ts": 1778361786
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:18",
-    "fotoUrl": "https://img.olx.com.br/images/44/448633167518963.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/448633167518963.jpg"
-    ],
-    "id": "1500700529",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-seminovo-1500700529",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "XBOX SERIES S - SEMINOVO",
-    "ts": 1778361515
   }
 ]
