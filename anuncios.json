@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500926260",
-    "titulo": "Nintendo Switch LITE ",
-    "preco": 780,
-    "precoRaw": "R$ 780",
+    "id": "1500926800",
+    "titulo": "Nintendo 3ds desbloqueado",
+    "preco": 800,
+    "precoRaw": "R$ 800",
     "categoria": "switch",
     "publicado": "",
-    "detectado": "17:27",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "detectado": "17:29",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/nintendo-switch-lite-1500926260",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-3ds-desbloqueado-1500926800",
+    "fotoUrl": "https://img.olx.com.br/images/60/603673167119159.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/603673167119159.jpg",
+      "https://img.olx.com.br/images/62/626683520858708.jpg",
+      "https://img.olx.com.br/images/63/637652404766363.jpg",
+      "https://img.olx.com.br/images/70/705683764853029.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778444952
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:27",
     "fotoUrl": "https://img.olx.com.br/images/72/723624643584231.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/723624643584231.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/79/792601524844516.jpg",
       "https://img.olx.com.br/images/80/809654526187313.jpg"
     ],
-    "defeito": false,
+    "id": "1500926260",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/nintendo-switch-lite-1500926260",
+    "preco": 780,
+    "precoRaw": "R$ 780",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "titulo": "Nintendo Switch LITE ",
     "ts": 1778444863
   },
   {
@@ -9839,23 +9860,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2014",
     "titulo": "Assassin's Creed Odyssey PS4 - Mídia Física",
     "ts": 1778367037
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:50",
-    "fotoUrl": "https://img.olx.com.br/images/53/532640401331906.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/532640401331906.jpg"
-    ],
-    "id": "1499536106",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-serie-s-com-nota-fiscal-pouco-uso-perfeito-estado-1499536106",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Xbox Serie S, com nota fiscal, POUCO USO, PERFEITO ESTADO!",
-    "ts": 1778367007
   }
 ]
