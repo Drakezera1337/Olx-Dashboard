@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500931103",
-    "titulo": "PS4 Slim 1TB ",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "categoria": "ps4",
+    "id": "1500932105",
+    "titulo": "Nintendo Switch Lite + Case + SD Card",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "17:59",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:05",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-1500931103",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/nintendo-switch-lite-case-sd-card-1500932105",
+    "fotoUrl": "https://img.olx.com.br/images/86/861639284488857.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/861639284488857.jpg",
+      "https://img.olx.com.br/images/88/881681527997027.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778447142
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:59",
     "fotoUrl": "https://img.olx.com.br/images/15/157665043284622.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/157665043284622.jpg",
       "https://img.olx.com.br/images/16/167665528894655.jpg"
     ],
-    "defeito": false,
+    "id": "1500931103",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-1500931103",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4 Slim 1TB ",
     "ts": 1778446782
   },
   {
@@ -9849,25 +9868,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Jogo Red Dead Redemption Ps4",
     "ts": 1778368035
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:07",
-    "fotoUrl": "https://img.olx.com.br/images/80/805620044054912.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/805620044054912.jpg",
-      "https://img.olx.com.br/images/82/820676884281484.jpg",
-      "https://img.olx.com.br/images/83/839680040783231.jpg"
-    ],
-    "id": "1500807805",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-seris-s-1500807805",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Xbox Seris S ",
-    "ts": 1778368028
   }
 ]
