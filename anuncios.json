@@ -1,22 +1,40 @@
 [
   {
-    "id": "1500829181",
-    "titulo": "Xbox series s ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1500829743",
+    "titulo": "Xbox Series s 512GB",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "23:06",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "detectado": "23:10",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/xbox-series-s-1500829181",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-512gb-1500829743",
+    "fotoUrl": "https://img.olx.com.br/images/77/773618643419950.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/773618643419950.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778379037
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:06",
     "fotoUrl": "https://img.olx.com.br/images/69/694631644294471.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/694631644294471.jpg",
       "https://img.olx.com.br/images/70/704613401452898.jpg",
       "https://img.olx.com.br/images/70/706640289692619.jpg"
     ],
-    "defeito": false,
+    "id": "1500829181",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/xbox-series-s-1500829181",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "Xbox series s ",
     "ts": 1778378766
   },
   {
@@ -9900,23 +9918,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Jogo Dragon ball kakarot",
     "ts": 1778302945
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:02",
-    "fotoUrl": "https://img.olx.com.br/images/59/593676762254568.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/593676762254568.jpg"
-    ],
-    "id": "1500631636",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogo-devil-may-cry-5-1500631636",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "Jogo Devil May Cry 5",
-    "ts": 1778302936
   }
 ]
