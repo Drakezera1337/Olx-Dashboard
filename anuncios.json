@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500899309",
-    "titulo": "Playstation Portal ",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "categoria": "outros",
+    "id": "1500899628",
+    "titulo": "Vendo ps4! 1 TB",
+    "preco": 1370,
+    "precoRaw": "R$ 1.370",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:39",
+    "detectado": "13:41",
     "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/playstation-portal-1500899309",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-ps4-1-tb-1500899628",
+    "fotoUrl": "https://img.olx.com.br/images/30/302661282132974.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/302661282132974.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778431298
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:39",
     "fotoUrl": "https://img.olx.com.br/images/23/237609640666158.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/237609640666158.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/30/303686520024689.jpg",
       "https://img.olx.com.br/images/31/311628288369869.jpg"
     ],
-    "defeito": false,
+    "id": "1500899309",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/playstation-portal-1500899309",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Playstation Portal ",
     "ts": 1778431149
   },
   {
@@ -9829,24 +9847,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Assassins Creed Origins PS4",
     "ts": 1778354683
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:24",
-    "fotoUrl": "https://img.olx.com.br/images/46/462617140018089.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/462617140018089.jpg",
-      "https://img.olx.com.br/images/46/463663506150488.jpg"
-    ],
-    "id": "1399986881",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-advance-warfare-ps4-1399986881",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Call Of Duty Advance Warfare PS4 ",
-    "ts": 1778354674
   }
 ]
