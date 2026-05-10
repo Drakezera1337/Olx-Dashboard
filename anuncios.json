@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500839638",
-    "titulo": "Xbox série S",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1500839728",
+    "titulo": "Jogo de ps4",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:27",
-    "tempoOlx": "Na OLX desde outubro de 2025",
+    "detectado": "01:33",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-serie-s-1500839638",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/jogo-de-ps4-1500839728",
+    "fotoUrl": "https://img.olx.com.br/images/33/336633649082996.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/336633649082996.jpg",
+      "https://img.olx.com.br/images/35/356690524429378.jpg",
+      "https://img.olx.com.br/images/37/376696161771370.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778387588
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:27",
     "fotoUrl": "https://img.olx.com.br/images/45/459696282372597.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/459696282372597.jpg",
       "https://img.olx.com.br/images/47/474691166967722.jpg"
     ],
-    "defeito": false,
+    "id": "1500839638",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-serie-s-1500839638",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2025",
+    "titulo": "Xbox série S",
     "ts": 1778387229
   },
   {
@@ -9887,24 +9907,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "PlayStation 4 PS4 Slim + 1 Controle + Base Cooler + Jogos Originais",
     "ts": 1778340382
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:26",
-    "fotoUrl": "https://img.olx.com.br/images/36/368672408940757.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/368672408940757.jpg",
-      "https://img.olx.com.br/images/37/376659406631080.jpg"
-    ],
-    "id": "1500723669",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/play-station-4-com-4-jogos-1500723669",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "Play station 4 com 4 JOGOS ",
-    "ts": 1778340374
   }
 ]
