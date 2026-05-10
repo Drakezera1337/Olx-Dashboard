@@ -1,15 +1,31 @@
 [
   {
-    "id": "1483672485",
-    "titulo": "Last Guardian - PS4 Nacional",
-    "preco": 65,
-    "precoRaw": "R$ 65",
+    "id": "1483673474",
+    "titulo": "Cyberpunk - PS4 versão Nacional",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "00:45",
     "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/last-guardian-ps4-nacional-1483672485",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/cyberpunk-ps4-versao-nacional-1483673474",
+    "fotoUrl": "https://img.olx.com.br/images/90/901693389471147.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/901693389471147.jpg",
+      "https://img.olx.com.br/images/72/725618268611880.jpg",
+      "https://img.olx.com.br/images/94/942667502518240.jpg",
+      "https://img.olx.com.br/images/87/872687504616997.jpg",
+      "https://img.olx.com.br/images/32/328627144409229.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778384725
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:45",
     "fotoUrl": "https://img.olx.com.br/images/80/803651625506488.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/803651625506488.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/87/878686624872342.jpg",
       "https://img.olx.com.br/images/90/900670148817059.jpg"
     ],
-    "defeito": false,
+    "id": "1483672485",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/last-guardian-ps4-nacional-1483672485",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Last Guardian - PS4 Nacional",
     "ts": 1778384716
   },
   {
@@ -9880,26 +9902,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Nintendo switch lite desbloqueado ",
     "ts": 1778340268
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:24",
-    "fotoUrl": "https://img.olx.com.br/images/11/112658648628865.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/112658648628865.jpg",
-      "https://img.olx.com.br/images/12/121694161600405.jpg",
-      "https://img.olx.com.br/images/14/149600407014669.jpg",
-      "https://img.olx.com.br/images/15/152685887509819.jpg"
-    ],
-    "id": "1500712850",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogo-astral-chain-switch-midia-fisica-1500712850",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2024",
-    "titulo": "Jogo Astral Chain Switch Midia Fisica",
-    "ts": 1778340260
   }
 ]
