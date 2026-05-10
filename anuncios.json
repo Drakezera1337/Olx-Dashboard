@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500835908",
-    "titulo": "Jedi Fallen Order PS4 Mídia física",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "categoria": "ps4",
+    "id": "1500836619",
+    "titulo": "Ps5",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "00:27",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "00:32",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jedi-fallen-order-ps4-midia-fisica-1500835908",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1500836619",
+    "fotoUrl": "https://img.olx.com.br/images/34/347689763556412.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/347689763556412.jpg",
+      "https://img.olx.com.br/images/35/350657408576521.jpg",
+      "https://img.olx.com.br/images/36/367668641731307.jpg",
+      "https://img.olx.com.br/images/37/376653765950068.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778383958
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:27",
     "fotoUrl": "https://img.olx.com.br/images/90/902663048977665.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/902663048977665.jpg",
       "https://img.olx.com.br/images/92/920670529047157.jpg",
       "https://img.olx.com.br/images/93/939645161420782.jpg"
     ],
-    "defeito": false,
+    "id": "1500835908",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jedi-fallen-order-ps4-midia-fisica-1500835908",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jedi Fallen Order PS4 Mídia física",
     "ts": 1778383645
   },
   {
@@ -9876,26 +9897,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "xbox one S 500GB",
     "ts": 1778340223
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:23",
-    "fotoUrl": "https://img.olx.com.br/images/48/487504316591615.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/487504316591615.jpg",
-      "https://img.olx.com.br/images/48/488517076390400.jpg",
-      "https://img.olx.com.br/images/48/482510553132425.jpg",
-      "https://img.olx.com.br/images/48/486571678854118.jpg"
-    ],
-    "id": "1432168523",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1-tera-1432168523",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "Xbox One S - 1 Tera",
-    "ts": 1778340216
   }
 ]
