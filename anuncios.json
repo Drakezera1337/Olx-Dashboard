@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500879424",
-    "titulo": "Nintendo Switch Lite",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "categoria": "switch",
+    "id": "1449184249",
+    "titulo": "Tampa de console PS5 Ghost of Yotei",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "11:39",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "11:41",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/nintendo-switch-lite-1500879424",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/tampa-de-console-ps5-ghost-of-yotei-1449184249",
+    "fotoUrl": "https://img.olx.com.br/images/39/399568930014240.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/399568930014240.jpg",
+      "https://img.olx.com.br/images/40/405522456955051.jpg",
+      "https://img.olx.com.br/images/41/411570810939729.jpg",
+      "https://img.olx.com.br/images/62/627505346559958.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778424069
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
     "fotoUrl": "https://img.olx.com.br/images/16/161615882140238.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/161615882140238.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/22/225657525342857.jpg",
       "https://img.olx.com.br/images/24/245663522619873.jpg"
     ],
-    "defeito": false,
+    "id": "1500879424",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/nintendo-switch-lite-1500879424",
+    "preco": 890,
+    "precoRaw": "R$ 890",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Nintendo Switch Lite",
     "ts": 1778423948
   },
   {
@@ -9832,23 +9853,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PlayStation PS4",
     "ts": 1778346932
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:15",
-    "fotoUrl": "https://img.olx.com.br/images/91/917654404795530.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/917654404795530.jpg"
-    ],
-    "id": "1500715429",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1500715429",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2017",
-    "titulo": "Jogos Ps4",
-    "ts": 1778346923
   }
 ]
