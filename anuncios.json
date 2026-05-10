@@ -1,15 +1,29 @@
 [
   {
-    "id": "1484162624",
-    "titulo": "Battlefield 4 - Ps4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1500912876",
+    "titulo": "Ps3 fat",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:33",
-    "tempoOlx": "Na OLX desde julho de 2022",
+    "detectado": "15:37",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-4-ps4-1484162624",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-fat-1500912876",
+    "fotoUrl": "https://img.olx.com.br/images/48/480672043671776.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/480672043671776.jpg",
+      "https://img.olx.com.br/images/50/506617644098285.jpg",
+      "https://img.olx.com.br/images/51/510663523208236.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778438237
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:33",
     "fotoUrl": "https://img.olx.com.br/images/11/119649863545367.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/119649863545367.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/14/143687382475601.jpg",
       "https://img.olx.com.br/images/16/163697261448728.jpg"
     ],
-    "defeito": false,
+    "id": "1484162624",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-4-ps4-1484162624",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Battlefield 4 - Ps4",
     "ts": 1778438021
   },
   {
@@ -9842,23 +9862,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2020",
     "titulo": "Playstation Portal",
     "ts": 1778360953
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:09",
-    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
-    "fotosUrls": [
-      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
-    ],
-    "id": "1500785789",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-1500785789",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2025",
-    "titulo": "PLAYSTATION 5",
-    "ts": 1778360946
   }
 ]
