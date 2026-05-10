@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500825343",
-    "titulo": "PS4 Slim 1 Terabyte + 3 JOGOS",
-    "preco": 1470,
-    "precoRaw": "R$ 1.470",
-    "categoria": "ps4",
+    "id": "1500825944",
+    "titulo": "Nintendo Switch lite ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "22:23",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "detectado": "22:27",
+    "tempoOlx": "Na OLX desde março de 2017",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ps4-slim-1-terabyte-3-jogos-1500825343",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/nintendo-switch-lite-1500825944",
+    "fotoUrl": "https://img.olx.com.br/images/60/603668524367964.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/603668524367964.jpg",
+      "https://img.olx.com.br/images/89/895638764740532.jpg",
+      "https://img.olx.com.br/images/90/905680163037007.jpg",
+      "https://img.olx.com.br/images/91/910660162623167.jpg",
+      "https://img.olx.com.br/images/92/921672880167669.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778376457
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:23",
     "fotoUrl": "https://img.olx.com.br/images/62/626680408197115.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/626680408197115.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/68/681680408770077.jpg",
       "https://img.olx.com.br/images/70/702613166952406.jpg"
     ],
-    "defeito": false,
+    "id": "1500825343",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ps4-slim-1-terabyte-3-jogos-1500825343",
+    "preco": 1470,
+    "precoRaw": "R$ 1.470",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "titulo": "PS4 Slim 1 Terabyte + 3 JOGOS",
     "ts": 1778376188
   },
   {
@@ -9885,24 +9907,5 @@
     "tempoOlx": "Na OLX desde agosto de 2022",
     "titulo": "Ps4 Slim ",
     "ts": 1778298037
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:34",
-    "fotoUrl": "https://img.olx.com.br/images/15/156697640610523.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/156697640610523.jpg",
-      "https://img.olx.com.br/images/15/153676287208099.jpg"
-    ],
-    "id": "1500621159",
-    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/lote-de-jogos-ps4-1500621159",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Lote de Jogos PS4",
-    "ts": 1778297684
   }
 ]
