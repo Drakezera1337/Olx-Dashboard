@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500831594",
-    "titulo": "Xbox 360",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "xbox",
+    "id": "1500831609",
+    "titulo": "Monster Hunter world - ps4",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:27",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "23:28",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-360-1500831594",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/monster-hunter-world-ps4-1500831609",
+    "fotoUrl": "https://img.olx.com.br/images/13/138682283300883.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/138682283300883.jpg",
+      "https://img.olx.com.br/images/14/140636040423641.jpg",
+      "https://img.olx.com.br/images/15/157632049625709.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778380117
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:27",
     "fotoUrl": "https://img.olx.com.br/images/90/904684164595294.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/904684164595294.jpg",
       "https://img.olx.com.br/images/91/910624403862544.jpg"
     ],
-    "defeito": false,
+    "id": "1500831594",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-360-1500831594",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Xbox 360",
     "ts": 1778380057
   },
   {
@@ -9881,25 +9901,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Iphone 11 128gb",
     "ts": 1778340100
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:21",
-    "fotoUrl": "https://img.olx.com.br/images/37/372646165971528.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/372646165971528.jpg",
-      "https://img.olx.com.br/images/39/398601649325366.jpg",
-      "https://img.olx.com.br/images/44/443662288344959.jpg"
-    ],
-    "id": "1500233138",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1500233138",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "PlayStation 5",
-    "ts": 1778340095
   }
 ]
