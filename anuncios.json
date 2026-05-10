@@ -1,22 +1,40 @@
 [
   {
-    "id": "1498825919",
-    "titulo": "iPhone 16 Pro Max ",
-    "preco": 7000,
-    "precoRaw": "R$ 7.000",
+    "id": "1498799856",
+    "titulo": "iPhone 12 - 64GB",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "18:47",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1498825919",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1498799856",
+    "fotoUrl": "https://img.olx.com.br/images/11/111641400320940.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/111641400320940.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778449640
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:47",
     "fotoUrl": "https://img.olx.com.br/images/44/442648887806871.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/442648887806871.jpg",
       "https://img.olx.com.br/images/45/454682044160759.jpg",
       "https://img.olx.com.br/images/46/463631406009725.jpg"
     ],
-    "defeito": false,
+    "id": "1498825919",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1498825919",
+    "preco": 7000,
+    "precoRaw": "R$ 7.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "iPhone 16 Pro Max ",
     "ts": 1778449630
   },
   {
@@ -9829,25 +9847,5 @@
     "tempoOlx": "Na OLX desde março de 2025",
     "titulo": "Vendos os jogos e os controles",
     "ts": 1778376887
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:29",
-    "fotoUrl": "https://img.olx.com.br/images/72/728650523916676.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/728650523916676.jpg",
-      "https://img.olx.com.br/images/72/723689768087388.jpg",
-      "https://img.olx.com.br/images/72/726614523587003.jpg"
-    ],
-    "id": "1500825614",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/the-last-of-us-remasterizado-ps4-novo-lacrado-1500825614",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "The Last of us remasterizado - ps4 (novo / lacrado)",
-    "ts": 1778376547
   }
 ]
