@@ -1,15 +1,31 @@
 [
   {
-    "id": "1498744731",
-    "titulo": "iPhone 12 pró max 128gb",
-    "preco": 2250,
-    "precoRaw": "R$ 2.250",
+    "id": "1498743053",
+    "titulo": "iPhone 14",
+    "preco": 2700,
+    "precoRaw": "R$ 2.700",
     "categoria": "iphone",
     "publicado": "",
-    "detectado": "18:47",
+    "detectado": "18:48",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-max-128gb-1498744731",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1498743053",
+    "fotoUrl": "https://img.olx.com.br/images/13/138604168805535.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/138604168805535.jpg",
+      "https://img.olx.com.br/images/14/143617526241671.jpg",
+      "https://img.olx.com.br/images/16/167625648260208.jpg",
+      "https://img.olx.com.br/images/18/181696642899623.jpg",
+      "https://img.olx.com.br/images/21/218624286439442.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778449714
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:47",
     "fotoUrl": "https://img.olx.com.br/images/62/626649645592475.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/626649645592475.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/75/757695042895746.jpg",
       "https://img.olx.com.br/images/80/808664888131541.jpg"
     ],
-    "defeito": false,
+    "id": "1498744731",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-max-128gb-1498744731",
+    "preco": 2250,
+    "precoRaw": "R$ 2.250",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 12 pró max 128gb",
     "ts": 1778449649
   },
   {
@@ -9825,27 +9847,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Kung fu panda confronto de lendas ps4",
     "ts": 1778377605
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:46",
-    "fotoUrl": "https://img.olx.com.br/images/38/387677166468169.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/387677166468169.jpg",
-      "https://img.olx.com.br/images/38/386654643940366.jpg",
-      "https://img.olx.com.br/images/38/384654288531640.jpg",
-      "https://img.olx.com.br/images/38/382665880183197.jpg",
-      "https://img.olx.com.br/images/38/382604043336835.jpg"
-    ],
-    "id": "1500827359",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-trilogy-steelbook-edition-edicao-americana-ps4-1500827359",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
-    "titulo": "Dark Souls Trilogy Steelbook Edition Edição Americana PS4",
-    "ts": 1778377597
   }
 ]
