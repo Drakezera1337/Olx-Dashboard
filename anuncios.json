@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500817521",
-    "titulo": "Ps4 slim",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1500817591",
+    "titulo": "Nintendo DS XL (USADO)",
+    "preco": 480,
+    "precoRaw": "R$ 480",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "21:18",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "detectado": "21:19",
+    "tempoOlx": "Na OLX desde julho de 2014",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-slim-1500817521",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-ds-xl-usado-1500817591",
+    "fotoUrl": "https://img.olx.com.br/images/73/739669406845411.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/739669406845411.jpg",
+      "https://img.olx.com.br/images/73/737695766487435.jpg",
+      "https://img.olx.com.br/images/74/747641769929739.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778372377
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:18",
     "fotoUrl": "https://img.olx.com.br/images/22/227613647830818.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/227613647830818.jpg"
     ],
-    "defeito": false,
+    "id": "1500817521",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-slim-1500817521",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Ps4 slim",
     "ts": 1778372286
   },
   {
@@ -9869,25 +9889,5 @@
     "tempoOlx": "Na OLX desde abril de 2018",
     "titulo": "PS4 - eFootball PES 2020",
     "ts": 1778295292
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:54",
-    "fotoUrl": "https://img.olx.com.br/images/80/805652406014681.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/805652406014681.jpg",
-      "https://img.olx.com.br/images/85/851639760368368.jpg",
-      "https://img.olx.com.br/images/89/890636762125593.jpg"
-    ],
-    "id": "1500606236",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-god-of-war-ragnar-k-de-ps4-lacrado-1500606236",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Vendo God Of War Ragnarök de Ps4 LACRADO!! ",
-    "ts": 1778295284
   }
 ]
