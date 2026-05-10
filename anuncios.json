@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500945057",
-    "titulo": "Fifa 22/20",
-    "preco": 165,
-    "precoRaw": "R$ 165",
-    "categoria": "jogos",
+    "id": "1500886571",
+    "titulo": "Ps4 slim  ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:10",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "19:11",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-22-20-1500945057",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps4-slim-1500886571",
+    "fotoUrl": "https://img.olx.com.br/images/72/729661762666850.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/729661762666850.jpg",
+      "https://img.olx.com.br/images/69/697654043349532.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778451067
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:10",
     "fotoUrl": "https://img.olx.com.br/images/90/903649769384173.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/903649769384173.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/93/932621285132767.jpg",
       "https://img.olx.com.br/images/95/951601281846376.jpg"
     ],
-    "defeito": false,
+    "id": "1500945057",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-22-20-1500945057",
+    "preco": 165,
+    "precoRaw": "R$ 165",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Fifa 22/20",
     "ts": 1778451023
   },
   {
@@ -9845,23 +9864,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "Placa mãe Playstation 4 slim",
     "ts": 1778379337
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:11",
-    "fotoUrl": "https://img.olx.com.br/images/39/391655600273373.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/391655600273373.jpg"
-    ],
-    "id": "1471852022",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-ps5-consultar-valores-e-disponibilidade-no-chat-1471852022",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "JOGOS PS4/PS5 (CONSULTAR VALORES E DISPONIBILIDADE NO CHAT)",
-    "ts": 1778379060
   }
 ]
