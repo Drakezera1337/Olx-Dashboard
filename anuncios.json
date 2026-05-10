@@ -1,15 +1,47 @@
 [
   {
-    "id": "1500881766",
-    "titulo": "iPhone 14 Pro Max 128g ",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "categoria": "iphone",
+    "id": "1453479683",
+    "titulo": "Jogo PS4 Until Dawn",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:30",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-128g-1500881766",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-until-dawn-1453479683",
+    "fotoUrl": "https://img.olx.com.br/images/52/520543941004889.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/520543941004889.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778423422
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:30",
+    "fotoUrl": "https://img.olx.com.br/images/82/823698284676485.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/823698284676485.jpg",
+      "https://img.olx.com.br/images/82/821689282905563.jpg",
+      "https://img.olx.com.br/images/82/828653646990192.jpg"
+    ],
+    "id": "1500882281",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-advanced-warfare-ps4-original-midia-fisica-1500882281",
+    "preco": 89,
+    "precoRaw": "R$ 89",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "    Call of Duty Advanced Warfare PS4 Original Mídia Física",
+    "ts": 1778423411
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:30",
     "fotoUrl": "https://img.olx.com.br/images/89/894698040685855.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/894698040685855.jpg",
@@ -19,7 +51,13 @@
       "https://img.olx.com.br/images/14/144655641745060.jpg",
       "https://img.olx.com.br/images/15/155655886956821.jpg"
     ],
-    "defeito": false,
+    "id": "1500881766",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-128g-1500881766",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "iPhone 14 Pro Max 128g ",
     "ts": 1778423410
   },
   {
@@ -9814,44 +9852,5 @@
     "tempoOlx": "Na OLX desde julho de 2022",
     "titulo": "celular ? iPhone 11 pra vende rápido *",
     "ts": 1778346906
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:12",
-    "fotoUrl": "https://img.olx.com.br/images/68/683691164712173.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/683691164712173.jpg"
-    ],
-    "id": "1500745264",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/lego-star-wars-piloto-rebelde-minifigura-original-1500745264",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "LEGO Star Wars - Piloto Rebelde Minifigura Original ",
-    "ts": 1778346729
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:09",
-    "fotoUrl": "https://img.olx.com.br/images/15/151419718179837.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/151419718179837.jpg",
-      "https://img.olx.com.br/images/15/156492832415320.jpg",
-      "https://img.olx.com.br/images/15/151488717727537.jpg",
-      "https://img.olx.com.br/images/15/153454713701905.jpg"
-    ],
-    "id": "1360603271",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogo-lego-worlds-ps4-usado-midia-fisica-1360603271",
-    "preco": 41,
-    "precoRaw": "R$ 41",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "Jogo Lego Worlds - Ps4 Usado Mídia Física",
-    "ts": 1778346567
   }
 ]
