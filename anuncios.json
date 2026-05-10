@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500944053",
-    "titulo": "iPhone XR perfeito estado ",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "iphone",
+    "id": "1500944840",
+    "titulo": "Playstation 3 PS3 Super Slim com defeito (Liga e dá imagem)",
+    "preco": 290,
+    "precoRaw": "R$ 290",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "18:55",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "19:07",
+    "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-perfeito-estado-1500944053",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/playstation-3-ps3-super-slim-com-defeito-liga-e-da-imagem-1500944840",
+    "fotoUrl": "https://img.olx.com.br/images/26/264691284082485.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/264691284082485.jpg",
+      "https://img.olx.com.br/images/32/326613641148513.jpg",
+      "https://img.olx.com.br/images/34/349618288005269.jpg",
+      "https://img.olx.com.br/images/37/372690769788378.jpg",
+      "https://img.olx.com.br/images/40/403641041859390.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778450832
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:55",
     "fotoUrl": "https://img.olx.com.br/images/96/960623283084250.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/960623283084250.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/12/125659646909887.jpg",
       "https://img.olx.com.br/images/72/722607528558530.jpg"
     ],
-    "defeito": false,
+    "id": "1500944053",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-perfeito-estado-1500944053",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "iPhone XR perfeito estado ",
     "ts": 1778450141
   },
   {
@@ -9834,23 +9856,5 @@
     "tempoOlx": "Na OLX desde setembro de 2017",
     "titulo": "Ps4 slim",
     "ts": 1778379045
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:10",
-    "fotoUrl": "https://img.olx.com.br/images/77/773618643419950.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/773618643419950.jpg"
-    ],
-    "id": "1500829743",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-512gb-1500829743",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "Xbox Series s 512GB",
-    "ts": 1778379037
   }
 ]
