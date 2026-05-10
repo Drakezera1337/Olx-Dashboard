@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500883473",
-    "titulo": "Gta V Premium Edition",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1500883477",
+    "titulo": "iPhone 12 64gb!",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "11:42",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "11:43",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/gta-v-premium-edition-1500883473",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1500883477",
+    "fotoUrl": "https://img.olx.com.br/images/12/122684401987035.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/122684401987035.jpg",
+      "https://img.olx.com.br/images/14/143673888767464.jpg",
+      "https://img.olx.com.br/images/16/168661527567810.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778424187
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:42",
     "fotoUrl": "https://img.olx.com.br/images/85/854621407860303.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/854621407860303.jpg"
     ],
-    "defeito": false,
+    "id": "1500883473",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/gta-v-premium-edition-1500883473",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Gta V Premium Edition",
     "ts": 1778424165
   },
   {
@@ -9833,27 +9853,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Batman Arkham Knight PS4",
     "ts": 1778347275
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:21",
-    "fotoUrl": "https://img.olx.com.br/images/26/265635526707314.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/265635526707314.jpg",
-      "https://img.olx.com.br/images/27/278624167907789.jpg",
-      "https://img.olx.com.br/images/28/281698047708797.jpg",
-      "https://img.olx.com.br/images/30/308618289736285.jpg",
-      "https://img.olx.com.br/images/32/329664401717910.jpg"
-    ],
-    "id": "1500747719",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/plastation-3-liga-e-desliga-1500747719",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "PLASTATION 3 , LIGA E DESLIGA ",
-    "ts": 1778347267
   }
 ]
