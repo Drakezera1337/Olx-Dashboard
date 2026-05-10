@@ -1,20 +1,41 @@
 [
   {
-    "id": "1500927457",
-    "titulo": "Game",
-    "preco": 350,
-    "precoRaw": "R$ 350",
+    "id": "1500926942",
+    "titulo": "Console game",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "outros",
     "publicado": "",
     "detectado": "17:34",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/game-1500927457",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/console-game-1500926942",
+    "fotoUrl": "https://img.olx.com.br/images/86/863691283519434.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/863691283519434.jpg",
+      "https://img.olx.com.br/images/88/880670645249198.jpg",
+      "https://img.olx.com.br/images/89/895650884803159.jpg",
+      "https://img.olx.com.br/images/91/913629407784167.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778445260
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:34",
     "fotoUrl": "https://img.olx.com.br/images/93/939675880434523.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/939675880434523.jpg"
     ],
-    "defeito": false,
+    "id": "1500927457",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/game-1500927457",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Game",
     "ts": 1778445249
   },
   {
@@ -9843,25 +9864,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "JOGO TERRARIA PS4 USADO",
     "ts": 1778367062
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:50",
-    "fotoUrl": "https://img.olx.com.br/images/32/323645614180122.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/323645614180122.jpg",
-      "https://img.olx.com.br/images/32/322652371170007.jpg",
-      "https://img.olx.com.br/images/32/321640250248836.jpg"
-    ],
-    "id": "1480596681",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/uncharted-4-a-thief-s-end-ps4-completo-e-impecavel-1480596681",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2014",
-    "titulo": "Uncharted 4: A Thief's End PS4 - Completo e Impecável",
-    "ts": 1778367054
   }
 ]
