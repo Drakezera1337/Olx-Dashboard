@@ -1,21 +1,40 @@
 [
   {
-    "id": "1492757266",
-    "titulo": "Jogos ps4",
-    "preco": 135,
-    "precoRaw": "R$ 135",
+    "id": "1500907635",
+    "titulo": "FIFA Jogo PS4 original",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:50",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "tempoOlx": "Na OLX desde abril de 2015",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-1492757266",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/fifa-jogo-ps4-original-1500907635",
+    "fotoUrl": "https://img.olx.com.br/images/78/782668280177651.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/782668280177651.jpg",
+      "https://img.olx.com.br/images/81/819655408997867.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778435420
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:50",
     "fotoUrl": "https://img.olx.com.br/images/85/859629871679125.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/859629871679125.jpg",
       "https://img.olx.com.br/images/86/867643278869418.jpg"
     ],
-    "defeito": false,
+    "id": "1492757266",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-1492757266",
+    "preco": 135,
+    "precoRaw": "R$ 135",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "titulo": "Jogos ps4",
     "ts": 1778435411
   },
   {
@@ -9826,26 +9845,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Xbox series S",
     "ts": 1778358487
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:22",
-    "fotoUrl": "https://img.olx.com.br/images/29/291610526166734.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/291610526166734.jpg",
-      "https://img.olx.com.br/images/30/308616884157837.jpg",
-      "https://img.olx.com.br/images/31/317683169331896.jpg",
-      "https://img.olx.com.br/images/32/328622641328321.jpg"
-    ],
-    "id": "1500778498",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1500778498",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2023",
-    "titulo": "PS5",
-    "ts": 1778358158
   }
 ]
