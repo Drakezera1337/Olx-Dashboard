@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500909368",
-    "titulo": "Jogo Videogame ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "outros",
+    "id": "1500909379",
+    "titulo": "Jogo ps4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:07",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "detectado": "15:08",
+    "tempoOlx": "Na OLX desde novembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogo-videogame-1500909368",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-ps4-1500909379",
+    "fotoUrl": "https://img.olx.com.br/images/16/167698521413468.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/167698521413468.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778436485
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:07",
     "fotoUrl": "https://img.olx.com.br/images/59/596678648397490.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/596678648397490.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/62/620656402174219.jpg",
       "https://img.olx.com.br/images/64/646643760630313.jpg"
     ],
-    "defeito": false,
+    "id": "1500909368",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogo-videogame-1500909368",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Jogo Videogame ",
     "ts": 1778436472
   },
   {
@@ -9822,23 +9840,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2018",
     "titulo": "Far cry New Dawn - 4k 60fps no ps5",
     "ts": 1778359472
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:44",
-    "fotoUrl": "https://img.olx.com.br/images/60/606648034055194.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/606648034055194.jpg"
-    ],
-    "id": "1492490900",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/dragons-dogma-dark-arisen-lacrado-1492490900",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
-    "titulo": "Dragons Dogma Dark Arisen - Lacrado",
-    "ts": 1778359465
   }
 ]
