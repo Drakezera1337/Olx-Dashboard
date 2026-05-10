@@ -1,21 +1,44 @@
 [
   {
-    "id": "1500880920",
-    "titulo": "Jogo PES 2018",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1492701353",
+    "titulo": "Nintendo Switch lite",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "11:24",
-    "tempoOlx": "Na OLX desde setembro de 2014",
+    "detectado": "11:27",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-pes-2018-1500880920",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1492701353",
+    "fotoUrl": "https://img.olx.com.br/images/34/342610032636834.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/342610032636834.jpg",
+      "https://img.olx.com.br/images/36/362626391816669.jpg",
+      "https://img.olx.com.br/images/38/380614155748834.jpg",
+      "https://img.olx.com.br/images/39/390629511824538.jpg",
+      "https://img.olx.com.br/images/40/407679272952258.jpg",
+      "https://img.olx.com.br/images/41/414638154763788.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778423226
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:24",
     "fotoUrl": "https://img.olx.com.br/images/44/442618765872315.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/442618765872315.jpg",
       "https://img.olx.com.br/images/47/470660768915697.jpg"
     ],
-    "defeito": false,
+    "id": "1500880920",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-pes-2018-1500880920",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "Jogo PES 2018",
     "ts": 1778423073
   },
   {
@@ -9828,26 +9851,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "Jogo Monster Hunter World - Ps4",
     "ts": 1778346559
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:09",
-    "fotoUrl": "https://img.olx.com.br/images/27/275470718986530.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/275470718986530.jpg",
-      "https://img.olx.com.br/images/27/276431350903425.jpg",
-      "https://img.olx.com.br/images/27/279418957867949.jpg",
-      "https://img.olx.com.br/images/27/279409113411905.jpg"
-    ],
-    "id": "1360629708",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogo-lego-batman-3-beyond-gotham-ps4-midia-fisica-seminovo-1360629708",
-    "preco": 41,
-    "precoRaw": "R$ 41",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "Jogo Lego Batman 3 Beyond Gotham Ps4 Mídia Física Seminovo",
-    "ts": 1778346549
   }
 ]
