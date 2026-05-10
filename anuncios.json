@@ -1,21 +1,39 @@
 [
   {
-    "id": "1500915877",
-    "titulo": "PS3 ",
-    "preco": 399,
-    "precoRaw": "R$ 399",
-    "categoria": "ps3",
+    "id": "1500916484",
+    "titulo": "jogos ps4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:00",
-    "tempoOlx": "Na OLX desde julho de 2014",
+    "detectado": "16:03",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-1500915877",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-ps4-1500916484",
+    "fotoUrl": "https://img.olx.com.br/images/42/424697760447730.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/424697760447730.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778439795
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:00",
     "fotoUrl": "https://img.olx.com.br/images/73/737681524926369.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/737681524926369.jpg",
       "https://img.olx.com.br/images/74/745623769757726.jpg"
     ],
-    "defeito": false,
+    "id": "1500915877",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-1500915877",
+    "preco": 399,
+    "precoRaw": "R$ 399",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2014",
+    "titulo": "PS3 ",
     "ts": 1778439613
   },
   {
@@ -9860,23 +9878,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "FAR CRY 4 LIMITED EDITION ",
     "ts": 1778363018
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:40",
-    "fotoUrl": "https://img.olx.com.br/images/97/971697523495104.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/971697523495104.jpg"
-    ],
-    "id": "1500795733",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-1500795733",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "PS4",
-    "ts": 1778362840
   }
 ]
