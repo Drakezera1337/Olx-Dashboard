@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500966523",
-    "titulo": "Jogo Rainbow Six",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1500966386",
+    "titulo": "Jogo The Last Of Us (Blue Label)",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "22:23",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-rainbow-six-1500966523",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-the-last-of-us-blue-label-1500966386",
+    "fotoUrl": "https://img.olx.com.br/images/88/883690766590732.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/883690766590732.jpg",
+      "https://img.olx.com.br/images/91/912668288598039.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778462603
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:23",
     "fotoUrl": "https://img.olx.com.br/images/72/723651403398938.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/723651403398938.jpg",
       "https://img.olx.com.br/images/74/740684522157049.jpg"
     ],
-    "defeito": false,
+    "id": "1500966523",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-rainbow-six-1500966523",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jogo Rainbow Six",
     "ts": 1778462593
   },
   {
@@ -9824,23 +9843,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "Jogo LEGO Worlds - PS4",
     "ts": 1778419511
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:20",
-    "fotoUrl": "https://img.olx.com.br/images/47/470634888604807.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/470634888604807.jpg"
-    ],
-    "id": "1500862878",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-com-2-controles-e-8-jogos-1500862878",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2021",
-    "titulo": "PS4 COM 2 CONTROLES E 8 JOGOS",
-    "ts": 1778419213
   }
 ]
