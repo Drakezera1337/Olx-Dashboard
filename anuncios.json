@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500489879",
-    "titulo": "Playstation 5",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "categoria": "ps5",
+    "id": "1432805850",
+    "titulo": "Dock Nintendo switch",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "21:27",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "detectado": "21:28",
+    "tempoOlx": "Na OLX desde maio de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-1500489879",
+    "link": "https://to.olx.com.br/tocantins/games/consoles-de-video-game/dock-nintendo-switch-1432805850",
+    "fotoUrl": "https://img.olx.com.br/images/74/748518435712105.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/748518435712105.jpg",
+      "https://img.olx.com.br/images/74/748557559519664.jpg",
+      "https://img.olx.com.br/images/74/742576550732013.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778459289
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:27",
     "fotoUrl": "https://img.olx.com.br/images/19/195657644616962.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/195657644616962.jpg",
       "https://img.olx.com.br/images/20/205652406004495.jpg"
     ],
-    "defeito": false,
+    "id": "1500489879",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-1500489879",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "Playstation 5",
     "ts": 1778459228
   },
   {
@@ -9828,23 +9848,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Jogo crsh ps4",
     "ts": 1778417283
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:47",
-    "fotoUrl": "https://img.olx.com.br/images/88/882629144693904.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/882629144693904.jpg"
-    ],
-    "id": "1489580138",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-batman-ps4-1489580138",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogo batman ps4",
-    "ts": 1778417276
   }
 ]
