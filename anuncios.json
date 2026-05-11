@@ -1,20 +1,39 @@
 [
   {
-    "id": "1501142673",
-    "titulo": "Jogos play 4 ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1501144103",
+    "titulo": "Vídeo game",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "16:15",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "detectado": "16:17",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-play-4-1501142673",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/video-game-1501144103",
+    "fotoUrl": "https://img.olx.com.br/images/58/581623168933058.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/581623168933058.jpg",
+      "https://img.olx.com.br/images/58/580639044763841.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778527056
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:15",
     "fotoUrl": "https://img.olx.com.br/images/67/672670763943584.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/672670763943584.jpg"
     ],
-    "defeito": false,
+    "id": "1501142673",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-play-4-1501142673",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "Jogos play 4 ",
     "ts": 1778526900
   },
   {
@@ -9941,26 +9960,5 @@
     "tempoOlx": "Na OLX desde março de 2018",
     "titulo": "X box séries S ",
     "ts": 1778470151
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:25",
-    "fotoUrl": "https://img.olx.com.br/images/67/677622153324074.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/677622153324074.jpg",
-      "https://img.olx.com.br/images/67/679685636602828.jpg",
-      "https://img.olx.com.br/images/67/673684159899072.jpg",
-      "https://img.olx.com.br/images/67/678668270056962.jpg"
-    ],
-    "id": "1498201458",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/consoles-de-video-game/x-box-one-1498201458",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
-    "titulo": "X Box One",
-    "ts": 1778469942
   }
 ]
