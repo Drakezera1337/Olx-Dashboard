@@ -1,5 +1,23 @@
 [
   {
+    "id": "1501060139",
+    "titulo": "Xbox Series S",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "xbox",
+    "publicado": "",
+    "detectado": "11:40",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "descricao": "",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1501060139",
+    "fotoUrl": "https://img.olx.com.br/images/18/185653524705951.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/185653524705951.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778510413
+  },
+  {
     "categoria": "iphone",
     "defeito": false,
     "descricao": "",
@@ -9843,23 +9861,5 @@
     "tempoOlx": "Na OLX desde novembro de 2019",
     "titulo": "Jogo Videogame ",
     "ts": 1778436472
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:07",
-    "fotoUrl": "https://img.olx.com.br/images/33/339618514558057.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/339618514558057.jpg"
-    ],
-    "id": "1492643477",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/joge-de-video-game-para-ps4-1492643477",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "Joge de video game para PS4",
-    "ts": 1778436460
   }
 ]
