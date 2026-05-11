@@ -1,20 +1,39 @@
 [
   {
-    "id": "1501213996",
-    "titulo": "Jogos ps4",
-    "preco": 670,
-    "precoRaw": "R$ 670",
+    "id": "1501213956",
+    "titulo": "Injustice PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:22",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1501213996",
+    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/jogos-de-video-game/injustice-ps4-1501213956",
+    "fotoUrl": "https://img.olx.com.br/images/44/447610525701322.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/447610525701322.jpg",
+      "https://img.olx.com.br/images/45/455610045507728.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778538168
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:22",
     "fotoUrl": "https://img.olx.com.br/images/97/970660521558752.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/970660521558752.jpg"
     ],
-    "defeito": false,
+    "id": "1501213996",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1501213996",
+    "preco": 670,
+    "precoRaw": "R$ 670",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "Jogos ps4",
     "ts": 1778538160
   },
   {
@@ -9911,28 +9930,5 @@
     "tempoOlx": "Na OLX desde agosto de 2023",
     "titulo": "PS3 com defeito",
     "ts": 1778511021
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:50",
-    "fotoUrl": "https://img.olx.com.br/images/34/343604753521064.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/343604753521064.jpg",
-      "https://img.olx.com.br/images/35/356693756129521.jpg",
-      "https://img.olx.com.br/images/37/377652392571260.jpg",
-      "https://img.olx.com.br/images/40/409685752921342.jpg",
-      "https://img.olx.com.br/images/76/768617636309583.jpg",
-      "https://img.olx.com.br/images/78/785629517223659.jpg"
-    ],
-    "id": "1491436388",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-ps3-slim-com-caixa-controle-e-manual-nao-liga-1491436388",
-    "preco": 309,
-    "precoRaw": "R$ 309",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "VÍDEO GAME PS3 SLIM COM CAIXA + CONTROLE E MANUAL - NÃO LIGA",
-    "ts": 1778511009
   }
 ]
