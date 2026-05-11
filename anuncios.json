@@ -1,20 +1,39 @@
 [
   {
-    "id": "1501212943",
-    "titulo": "jogos de ps4",
-    "preco": 370,
-    "precoRaw": "R$ 370",
+    "id": "1501212838",
+    "titulo": "GTA 5 PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:16",
-    "tempoOlx": "Na OLX desde março de 2023",
+    "detectado": "19:17",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-de-ps4-1501212943",
+    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/jogos-de-video-game/gta-5-ps4-1501212838",
+    "fotoUrl": "https://img.olx.com.br/images/18/180667648998899.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/180667648998899.jpg",
+      "https://img.olx.com.br/images/20/203623526072528.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778537820
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:16",
     "fotoUrl": "https://img.olx.com.br/images/35/351649645327196.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/351649645327196.jpg"
     ],
-    "defeito": false,
+    "id": "1501212943",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-de-ps4-1501212943",
+    "preco": 370,
+    "precoRaw": "R$ 370",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "jogos de ps4",
     "ts": 1778537813
   },
   {
@@ -9917,23 +9936,5 @@
     "tempoOlx": "Na OLX desde maio de 2019",
     "titulo": "CYBERPUNK 2077",
     "ts": 1778510869
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:47",
-    "fotoUrl": "https://img.olx.com.br/images/53/532696730395297.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/532696730395297.jpg"
-    ],
-    "id": "1475140195",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-18-1475140195",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2019",
-    "titulo": "FIFA 18",
-    "ts": 1778510861
   }
 ]
