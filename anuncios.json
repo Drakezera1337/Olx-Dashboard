@@ -1,15 +1,30 @@
 [
   {
-    "id": "1484219409",
-    "titulo": "Song of the Deep - Ps4/Ps5",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1484208471",
+    "titulo": "Assetto Corsa - Ps4/Ps5",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "09:54",
     "tempoOlx": "Na OLX desde agosto de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/song-of-the-deep-ps4-ps5-1484219409",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/assetto-corsa-ps4-ps5-1484208471",
+    "fotoUrl": "https://img.olx.com.br/images/65/654672742631016.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/654672742631016.jpg",
+      "https://img.olx.com.br/images/66/663669508344141.jpg",
+      "https://img.olx.com.br/images/68/688631500717975.jpg",
+      "https://img.olx.com.br/images/72/723616744358273.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778504066
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:54",
     "fotoUrl": "https://img.olx.com.br/images/15/156683147755890.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/156683147755890.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/20/209618260125191.jpg",
       "https://img.olx.com.br/images/23/234648261808509.jpg"
     ],
-    "defeito": false,
+    "id": "1484219409",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/song-of-the-deep-ps4-ps5-1484219409",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "Song of the Deep - Ps4/Ps5",
     "ts": 1778504054
   },
   {
@@ -9834,23 +9855,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "PlayStation 4 ",
     "ts": 1778434121
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:22",
-    "fotoUrl": "https://img.olx.com.br/images/95/951683645560376.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/951683645560376.jpg"
-    ],
-    "id": "1500904599",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1500904599",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Jogos ps4",
-    "ts": 1778433767
   }
 ]
