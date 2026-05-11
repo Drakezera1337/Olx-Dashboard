@@ -1,20 +1,38 @@
 [
   {
-    "id": "1501209922",
-    "titulo": "Jogos ps4",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "ps4",
+    "id": "1501209300",
+    "titulo": "Trilogia Metro Redux e Exodus PS4 e PS5",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "18:59",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-1501209922",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/trilogia-metro-redux-e-exodus-ps4-e-ps5-1501209300",
+    "fotoUrl": "https://img.olx.com.br/images/38/385698281229282.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/385698281229282.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778536784
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:59",
     "fotoUrl": "https://img.olx.com.br/images/80/804657528684012.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/804657528684012.jpg"
     ],
-    "defeito": false,
+    "id": "1501209922",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-1501209922",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Jogos ps4",
     "ts": 1778536776
   },
   {
@@ -9929,27 +9947,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Spider Man ps4 ",
     "ts": 1778510728
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:45",
-    "fotoUrl": "https://img.olx.com.br/images/55/558668282966061.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/558668282966061.jpg",
-      "https://img.olx.com.br/images/57/579690522552387.jpg",
-      "https://img.olx.com.br/images/59/596640765434723.jpg",
-      "https://img.olx.com.br/images/60/603625646785172.jpg",
-      "https://img.olx.com.br/images/61/618691641835775.jpg"
-    ],
-    "id": "1501054450",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-part-2-vps4-ps5-1501054450",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "The Last Of Us Part.2 VPS4 / PS5",
-    "ts": 1778510718
   }
 ]
