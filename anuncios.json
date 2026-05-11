@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501046117",
-    "titulo": "Apple iPhone 14 Plus",
-    "preco": 2999,
-    "precoRaw": "R$ 2.999",
+    "id": "1501045915",
+    "titulo": "Apple iPhone 13 Pro 256GB",
+    "preco": 3399,
+    "precoRaw": "R$ 3.399",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "11:39",
     "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-14-plus-1501046117",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-13-pro-256gb-1501045915",
+    "fotoUrl": "https://img.olx.com.br/images/73/736660762116838.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/736660762116838.jpg",
+      "https://img.olx.com.br/images/74/747698401253858.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778510374
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
     "fotoUrl": "https://img.olx.com.br/images/59/592672521948562.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/592672521948562.jpg",
       "https://img.olx.com.br/images/61/616687403578367.jpg"
     ],
-    "defeito": false,
+    "id": "1501046117",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-14-plus-1501046117",
+    "preco": 2999,
+    "precoRaw": "R$ 2.999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "Apple iPhone 14 Plus",
     "ts": 1778510366
   },
   {
@@ -9842,23 +9861,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "Joge de video game para PS4",
     "ts": 1778436460
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:07",
-    "fotoUrl": "https://img.olx.com.br/images/81/811668284668505.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/811668284668505.jpg"
-    ],
-    "id": "1500909941",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/fifa-e-pes-jogo-de-ps4-1500909941",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2018",
-    "titulo": "FIFA e PES jogo de ps4",
-    "ts": 1778436447
   }
 ]
