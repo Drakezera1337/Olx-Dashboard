@@ -1,15 +1,29 @@
 [
   {
-    "id": "1466873573",
-    "titulo": "Xbox séries x, único dono.",
-    "preco": 3300,
-    "precoRaw": "R$ 3.300",
-    "categoria": "xbox",
+    "id": "1501089958",
+    "titulo": "Jogos PS4 - Call of Duty Ghosts, Crash e Horizon Zero Dawn",
+    "preco": 220,
+    "precoRaw": "R$ 220",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:49",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-x-unico-dono-1466873573",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-call-of-duty-ghosts-crash-e-horizon-zero-dawn-1501089958",
+    "fotoUrl": "https://img.olx.com.br/images/97/976659643611284.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/976659643611284.jpg",
+      "https://img.olx.com.br/images/10/105682284485970.jpg",
+      "https://img.olx.com.br/images/13/136616168454366.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778514567
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:49",
     "fotoUrl": "https://img.olx.com.br/images/21/210608123385774.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/210608123385774.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/29/295679142507047.jpg",
       "https://img.olx.com.br/images/32/320674505135203.jpg"
     ],
-    "defeito": false,
+    "id": "1466873573",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-x-unico-dono-1466873573",
+    "preco": 3300,
+    "precoRaw": "R$ 3.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Xbox séries x, único dono.",
     "ts": 1778514557
   },
   {
@@ -9881,23 +9901,5 @@
     "tempoOlx": "Na OLX desde junho de 2020",
     "titulo": "FC26 PS4",
     "ts": 1778453936
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:58",
-    "fotoUrl": "https://img.olx.com.br/images/60/606667288916604.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/606667288916604.jpg"
-    ],
-    "id": "1500951280",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/vendo-ps4-slim-com-4-jogos-1500951280",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Vendo ps4 slim com 4 jogos ",
-    "ts": 1778453925
   }
 ]
