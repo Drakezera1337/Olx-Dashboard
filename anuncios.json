@@ -1,22 +1,40 @@
 [
   {
-    "id": "1501237723",
-    "titulo": "F1 2024 PS4",
-    "preco": 380,
-    "precoRaw": "R$ 380",
+    "id": "1501237033",
+    "titulo": "Red Dead Redemption II ps4",
+    "preco": 45,
+    "precoRaw": "R$ 45",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:53",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/f1-2024-ps4-1501237723",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/red-dead-redemption-ii-ps4-1501237033",
+    "fotoUrl": "https://img.olx.com.br/images/61/612640285799260.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/612640285799260.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778543596
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:53",
     "fotoUrl": "https://img.olx.com.br/images/32/322668648265981.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/322668648265981.jpg",
       "https://img.olx.com.br/images/33/338637884548841.jpg",
       "https://img.olx.com.br/images/34/344636288409554.jpg"
     ],
-    "defeito": false,
+    "id": "1501237723",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/f1-2024-ps4-1501237723",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "F1 2024 PS4",
     "ts": 1778543588
   },
   {
@@ -9846,26 +9864,5 @@
     "tempoOlx": "Na OLX desde julho de 2019",
     "titulo": "IPHONE 14 AZUL 128GB",
     "ts": 1778513119
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:24",
-    "fotoUrl": "https://img.olx.com.br/images/19/196617888180862.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/196617888180862.jpg",
-      "https://img.olx.com.br/images/20/207686281139740.jpg",
-      "https://img.olx.com.br/images/21/216698164892811.jpg",
-      "https://img.olx.com.br/images/22/228649160789425.jpg"
-    ],
-    "id": "1501082188",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps5-fat-digital-negociavel-1501082188",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "PS5 FAT DIGITAL - Negociavel",
-    "ts": 1778513092
   }
 ]
