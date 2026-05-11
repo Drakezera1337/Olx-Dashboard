@@ -1,15 +1,32 @@
 [
   {
-    "id": "1487094044",
-    "titulo": "Playstation 4 com 12 jogos ",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1487572995",
+    "titulo": "Playstation 3 - desbloqueado",
+    "preco": 1099,
+    "precoRaw": "R$ 1.099",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:38",
-    "tempoOlx": "Na OLX desde março de 2023",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-com-12-jogos-1487094044",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-3-desbloqueado-1487572995",
+    "fotoUrl": "https://img.olx.com.br/images/32/329680506352301.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/329680506352301.jpg",
+      "https://img.olx.com.br/images/33/339624148634428.jpg",
+      "https://img.olx.com.br/images/33/338686742937977.jpg",
+      "https://img.olx.com.br/images/35/356609505176628.jpg",
+      "https://img.olx.com.br/images/35/353644383921741.jpg",
+      "https://img.olx.com.br/images/33/333622023884629.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778517516
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:38",
     "fotoUrl": "https://img.olx.com.br/images/26/269655506792499.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/269655506792499.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/30/307675146793166.jpg",
       "https://img.olx.com.br/images/32/327608863226393.jpg"
     ],
-    "defeito": false,
+    "id": "1487094044",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-com-12-jogos-1487094044",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "Playstation 4 com 12 jogos ",
     "ts": 1778517486
   },
   {
@@ -9901,24 +9924,5 @@
     "tempoOlx": "Na OLX desde junho de 2024",
     "titulo": "ps4 Pro 1tb",
     "ts": 1778457881
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:59",
-    "fotoUrl": "https://img.olx.com.br/images/57/578668401547756.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/578668401547756.jpg",
-      "https://img.olx.com.br/images/57/578647282075412.jpg"
-    ],
-    "id": "1500962377",
-    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/jogos-de-video-game/fifa18-ps4-1500962377",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Fifa18 ps4",
-    "ts": 1778457559
   }
 ]
