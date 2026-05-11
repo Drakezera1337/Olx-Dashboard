@@ -1,5 +1,24 @@
 [
   {
+    "id": "1501014743",
+    "titulo": "iPhone 11",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "iphone",
+    "publicado": "",
+    "detectado": "09:46",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "descricao": "",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1501014743",
+    "fotoUrl": "https://img.olx.com.br/images/71/714662281734188.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/714662281734188.jpg",
+      "https://img.olx.com.br/images/73/730622167821013.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778503573
+  },
+  {
     "categoria": "jogos",
     "defeito": false,
     "descricao": "",
@@ -9797,25 +9816,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "CONTROLE PLAYSTATION 4 DUAL SHOCK",
     "ts": 1778429077
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:02",
-    "fotoUrl": "https://img.olx.com.br/images/28/284508453349327.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/284508453349327.jpg",
-      "https://img.olx.com.br/images/30/307548699402788.jpg",
-      "https://img.olx.com.br/images/32/321519219446378.jpg"
-    ],
-    "id": "1442375449",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-redout-light-speed-1442375449",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "Jogo Ps4 Redout Light Speed ",
-    "ts": 1778428930
   }
 ]
