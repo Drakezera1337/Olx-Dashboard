@@ -1,15 +1,32 @@
 [
   {
-    "id": "1500895920",
-    "titulo": "Xbox séries ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1500169681",
+    "titulo": "xbox serie s",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:19",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "12:21",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-1500895920",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-serie-s-1500169681",
+    "fotoUrl": "https://img.olx.com.br/images/84/842683406617682.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/842683406617682.jpg",
+      "https://img.olx.com.br/images/85/856601766144450.jpg",
+      "https://img.olx.com.br/images/87/875687286616653.jpg",
+      "https://img.olx.com.br/images/88/888651527662008.jpg",
+      "https://img.olx.com.br/images/90/902606408263044.jpg",
+      "https://img.olx.com.br/images/91/914617281513460.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778512870
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:19",
     "fotoUrl": "https://img.olx.com.br/images/66/661684647370912.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/661684647370912.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/70/700694642473827.jpg",
       "https://img.olx.com.br/images/71/711668168013888.jpg"
     ],
-    "defeito": false,
+    "id": "1500895920",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-1500895920",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "Xbox séries ",
     "ts": 1778512776
   },
   {
@@ -9881,26 +9904,5 @@
     "tempoOlx": "Na OLX desde junho de 2013",
     "titulo": "Jogos ps4",
     "ts": 1778449221
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:40",
-    "fotoUrl": "https://img.olx.com.br/images/14/144628000617505.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/144628000617505.jpg",
-      "https://img.olx.com.br/images/19/199632725395397.jpg",
-      "https://img.olx.com.br/images/22/227609008674717.jpg",
-      "https://img.olx.com.br/images/24/240614362844697.jpg"
-    ],
-    "id": "1468259554",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1468259554",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2013",
-    "titulo": "Jogos ps4",
-    "ts": 1778449212
   }
 ]
