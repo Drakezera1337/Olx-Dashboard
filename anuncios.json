@@ -1,15 +1,27 @@
 [
   {
-    "id": "1501093041",
-    "titulo": "Playstation 5 com leitor",
-    "preco": 2599,
-    "precoRaw": "R$ 2.599",
-    "categoria": "ps5",
+    "id": "1501093492",
+    "titulo": "Ps4",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:59",
-    "tempoOlx": "Na OLX desde setembro de 2016",
+    "detectado": "13:04",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-com-leitor-1501093041",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1501093492",
+    "fotoUrl": "https://img.olx.com.br/images/20/201654044328106.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/201654044328106.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778515476
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:59",
     "fotoUrl": "https://img.olx.com.br/images/80/809651049818526.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/809651049818526.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/85/855609525971901.jpg",
       "https://img.olx.com.br/images/86/863642287108458.jpg"
     ],
-    "defeito": false,
+    "id": "1501093041",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-com-leitor-1501093041",
+    "preco": 2599,
+    "precoRaw": "R$ 2.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2016",
+    "titulo": "Playstation 5 com leitor",
     "ts": 1778515178
   },
   {
@@ -9890,25 +9908,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "Ps3 slim leia a descrição",
     "ts": 1778454384
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:06",
-    "fotoUrl": "https://img.olx.com.br/images/67/676604643234798.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/676604643234798.jpg",
-      "https://img.olx.com.br/images/69/693609402980809.jpg",
-      "https://img.olx.com.br/images/70/705601763809038.jpg"
-    ],
-    "id": "1500953374",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-4-1500953374",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "PlayStation 4",
-    "ts": 1778454376
   }
 ]
