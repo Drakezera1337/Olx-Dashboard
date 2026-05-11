@@ -1,21 +1,41 @@
 [
   {
-    "id": "1501212838",
-    "titulo": "GTA 5 PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1501212966",
+    "titulo": "PES 2021",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:17",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/jogos-de-video-game/gta-5-ps4-1501212838",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/pes-2021-1501212966",
+    "fotoUrl": "https://img.olx.com.br/images/42/426695287137462.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/426695287137462.jpg",
+      "https://img.olx.com.br/images/43/435652767619308.jpg",
+      "https://img.olx.com.br/images/45/451616041433884.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778537829
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:17",
     "fotoUrl": "https://img.olx.com.br/images/18/180667648998899.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/180667648998899.jpg",
       "https://img.olx.com.br/images/20/203623526072528.jpg"
     ],
-    "defeito": false,
+    "id": "1501212838",
+    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/jogos-de-video-game/gta-5-ps4-1501212838",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "GTA 5 PS4",
     "ts": 1778537820
   },
   {
@@ -9918,23 +9938,5 @@
     "tempoOlx": "Na OLX desde março de 2016",
     "titulo": "Football PES 2020 ps4",
     "ts": 1778510881
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:47",
-    "fotoUrl": "https://img.olx.com.br/images/25/253633493645925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/253633493645925.jpg"
-    ],
-    "id": "1475139686",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-1475139686",
-    "preco": 179,
-    "precoRaw": "R$ 179",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2019",
-    "titulo": "CYBERPUNK 2077",
-    "ts": 1778510869
   }
 ]
