@@ -1,22 +1,40 @@
 [
   {
-    "id": "1501104907",
-    "titulo": "VENDE - SE PLAYSTATION 4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
+    "id": "1501104436",
+    "titulo": "PS4 FAT 500GB",
+    "preco": 899,
+    "precoRaw": "R$ 899",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:47",
-    "tempoOlx": "Na OLX desde agosto de 2021",
+    "tempoOlx": "Na OLX desde abril de 2015",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-playstation-4-1501104907",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1501104436",
+    "fotoUrl": "https://img.olx.com.br/images/70/707601287528247.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/707601287528247.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778518036
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:47",
     "fotoUrl": "https://img.olx.com.br/images/15/154671760180947.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/154671760180947.jpg",
       "https://img.olx.com.br/images/18/185650886060276.jpg",
       "https://img.olx.com.br/images/20/203623401425441.jpg"
     ],
-    "defeito": false,
+    "id": "1501104907",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-playstation-4-1501104907",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2021",
+    "titulo": "VENDE - SE PLAYSTATION 4",
     "ts": 1778518029
   },
   {
@@ -9909,26 +9927,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "God of War PS4 Mídia Física - Ótimo Estado",
     "ts": 1778460041
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:36",
-    "fotoUrl": "https://img.olx.com.br/images/27/273644284598599.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/273644284598599.jpg",
-      "https://img.olx.com.br/images/28/289600288857045.jpg",
-      "https://img.olx.com.br/images/30/308695048439225.jpg",
-      "https://img.olx.com.br/images/31/312653520582714.jpg"
-    ],
-    "id": "1499648111",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-controle-original-r-1-900-1499648111",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Xbox Series S 512GB + Controle Original - R$ 1.900",
-    "ts": 1778459799
   }
 ]
