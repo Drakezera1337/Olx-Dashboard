@@ -1,21 +1,63 @@
 [
   {
-    "id": "1501204036",
-    "titulo": "PS4 Na caixa !!",
-    "preco": 999,
-    "precoRaw": "R$ 999",
+    "id": "1501204803",
+    "titulo": "PS4 slim - 1TB - 2 controles",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:36",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "detectado": "18:38",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/ps4-na-caixa-1501204036",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-1tb-2-controles-1501204803",
+    "fotoUrl": "https://img.olx.com.br/images/24/248682408040550.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/248682408040550.jpg",
+      "https://img.olx.com.br/images/26/264605402387116.jpg",
+      "https://img.olx.com.br/images/28/285647527997657.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778535491
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:36",
+    "fotoUrl": "https://img.olx.com.br/images/36/367644169863605.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/367644169863605.jpg",
+      "https://img.olx.com.br/images/37/378601527838910.jpg",
+      "https://img.olx.com.br/images/40/404653767634244.jpg",
+      "https://img.olx.com.br/images/41/412661401720094.jpg",
+      "https://img.olx.com.br/images/43/434665165903441.jpg"
+    ],
+    "id": "1501204390",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-1501204390",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "iPhone 13 128GB",
+    "ts": 1778535398
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:36",
     "fotoUrl": "https://img.olx.com.br/images/61/615696406782403.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/615696406782403.jpg",
       "https://img.olx.com.br/images/64/643632169124784.jpg"
     ],
-    "defeito": false,
+    "id": "1501204036",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/ps4-na-caixa-1501204036",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "titulo": "PS4 Na caixa !!",
     "ts": 1778535397
   },
   {
@@ -9903,47 +9945,5 @@
     "tempoOlx": "Na OLX desde maio de 2021",
     "titulo": "Jogos de ps4 ",
     "ts": 1778510553
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:42",
-    "fotoUrl": "https://img.olx.com.br/images/64/640576335475090.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/640576335475090.jpg",
-      "https://img.olx.com.br/images/64/642508695296222.jpg",
-      "https://img.olx.com.br/images/64/643512697544848.jpg",
-      "https://img.olx.com.br/images/64/646545811541427.jpg",
-      "https://img.olx.com.br/images/64/646553451606455.jpg"
-    ],
-    "id": "1449028062",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jogo-the-order-1886-premium-edition-original-1449028062",
-    "preco": 1590,
-    "precoRaw": "R$ 1.590",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2017",
-    "titulo": "Jogo The Order 1886 Premium Edition Original",
-    "ts": 1778510543
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:42",
-    "fotoUrl": "https://img.olx.com.br/images/99/990626618419677.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/990626618419677.jpg",
-      "https://img.olx.com.br/images/18/186629612930644.jpg",
-      "https://img.olx.com.br/images/31/318674370860889.jpg"
-    ],
-    "id": "1476051101",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/call-of-duty-infinite-warfare-ps4-midia-fisica-1476051101",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Call Of Duty: Infinite Warfare Ps4 Mídia Física",
-    "ts": 1778510533
   }
 ]
