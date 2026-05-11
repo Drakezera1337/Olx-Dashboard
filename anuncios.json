@@ -1,20 +1,39 @@
 [
   {
-    "id": "1501038825",
-    "titulo": "PS4 FAT / 1TB",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1501046117",
+    "titulo": "Apple iPhone 14 Plus",
+    "preco": 2999,
+    "precoRaw": "R$ 2.999",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:39",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/ps4-fat-1tb-1501038825",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-14-plus-1501046117",
+    "fotoUrl": "https://img.olx.com.br/images/59/592672521948562.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/592672521948562.jpg",
+      "https://img.olx.com.br/images/61/616687403578367.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778510366
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
     "fotoUrl": "https://img.olx.com.br/images/60/602656281996494.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/602656281996494.jpg"
     ],
-    "defeito": false,
+    "id": "1501038825",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/ps4-fat-1tb-1501038825",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "PS4 FAT / 1TB",
     "ts": 1778510362
   },
   {
@@ -9841,23 +9860,5 @@
     "tempoOlx": "Na OLX desde março de 2018",
     "titulo": "FIFA e PES jogo de ps4",
     "ts": 1778436447
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:07",
-    "fotoUrl": "https://img.olx.com.br/images/48/480684277039040.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/480684277039040.jpg"
-    ],
-    "id": "1492643252",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-de-video-game-para-ps4-1492643252",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "Jogo  de video game para PS4",
-    "ts": 1778436435
   }
 ]
