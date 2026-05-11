@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500455775",
-    "titulo": "Play 5",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "outros",
+    "id": "1501055490",
+    "titulo": "iPhone 13 128gb Azul-Sierra usado",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:38",
-    "tempoOlx": "Na OLX desde novembro de 2017",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/play-5-1500455775",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-azul-sierra-usado-1501055490",
+    "fotoUrl": "https://img.olx.com.br/images/87/871609160503423.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/871609160503423.jpg",
+      "https://img.olx.com.br/images/88/881636764169029.jpg",
+      "https://img.olx.com.br/images/89/898629765031603.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778510329
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:38",
     "fotoUrl": "https://img.olx.com.br/images/41/417634521980024.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/417634521980024.jpg",
       "https://img.olx.com.br/images/99/992675888376347.jpg"
     ],
-    "defeito": false,
+    "id": "1500455775",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/play-5-1500455775",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2017",
+    "titulo": "Play 5",
     "ts": 1778510322
   },
   {
@@ -9833,23 +9853,5 @@
     "tempoOlx": "Na OLX desde junho de 2014",
     "titulo": "Metal Gear The Panton Pain PS4 ",
     "ts": 1778435447
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:50",
-    "fotoUrl": "https://img.olx.com.br/images/93/934610643202684.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/934610643202684.jpg"
-    ],
-    "id": "1500907104",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/combo-de-jogos-ps4-1500907104",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2018",
-    "titulo": "Combo de jogos PS4",
-    "ts": 1778435438
   }
 ]
