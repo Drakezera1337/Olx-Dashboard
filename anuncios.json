@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500991599",
-    "titulo": "Detroit ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1500991927",
+    "titulo": "Resident evil 7 ps4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:54",
+    "detectado": "02:00",
     "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/detroit-ps4-1500991599",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-7-ps4-1500991927",
+    "fotoUrl": "https://img.olx.com.br/images/19/194661041786747.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/194661041786747.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778475610
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:54",
     "fotoUrl": "https://img.olx.com.br/images/98/986683644016821.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/986683644016821.jpg"
     ],
-    "defeito": false,
+    "id": "1500991599",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/detroit-ps4-1500991599",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Detroit ps4",
     "ts": 1778475284
   },
   {
@@ -9788,24 +9806,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "CD Tom Clancys Rainbow Six Siege PS4",
     "ts": 1778428810
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:54",
-    "fotoUrl": "https://img.olx.com.br/images/90/906698165896810.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/906698165896810.jpg",
-      "https://img.olx.com.br/images/92/920627881619229.jpg"
-    ],
-    "id": "1500888531",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/madden-nfl-15-lacrado-ps4-1500888531",
-    "preco": 39,
-    "precoRaw": "R$ 39",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "Madden NFL 15 lacrado PS4",
-    "ts": 1778428495
   }
 ]
