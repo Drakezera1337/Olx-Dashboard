@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500992599",
-    "titulo": "Fifa 20",
-    "preco": 65,
-    "precoRaw": "R$ 65",
+    "id": "1500992583",
+    "titulo": "GOD OF WAR ",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "02:37",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-20-1500992599",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/god-of-war-1500992583",
+    "fotoUrl": "https://img.olx.com.br/images/14/149602887065833.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/149602887065833.jpg",
+      "https://img.olx.com.br/images/16/167626169162372.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778477856
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "02:37",
     "fotoUrl": "https://img.olx.com.br/images/84/841670648215354.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/841670648215354.jpg",
       "https://img.olx.com.br/images/85/856635643101232.jpg"
     ],
-    "defeito": false,
+    "id": "1500992599",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-20-1500992599",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Fifa 20",
     "ts": 1778477848
   },
   {
@@ -9790,24 +9809,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Resident Evil 7 Biohazard: Gold Edition (PS4) - Semi-Novo",
     "ts": 1778428880
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:01",
-    "fotoUrl": "https://img.olx.com.br/images/43/439693602074550.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/439693602074550.jpg",
-      "https://img.olx.com.br/images/48/486655127878577.jpg"
-    ],
-    "id": "1466497625",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/uncharterd-collection-uncharterd-1-2-e-3-ps4-1466497625",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Uncharterd Collection (Uncharterd 1, 2 e 3) - PS4",
-    "ts": 1778428870
   }
 ]
