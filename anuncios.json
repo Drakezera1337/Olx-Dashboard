@@ -1,15 +1,29 @@
 [
   {
-    "id": "1501021200",
-    "titulo": "iPhone 16",
-    "preco": 3700,
-    "precoRaw": "R$ 3.700",
-    "categoria": "iphone",
+    "id": "1493015377",
+    "titulo": "Dualsense edição limitada - God of War (20 anos)",
+    "preco": 599,
+    "precoRaw": "R$ 599",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "09:45",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "tempoOlx": "Na OLX desde outubro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-1501021200",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/consoles-de-video-game/dualsense-edicao-limitada-god-of-war-20-anos-1493015377",
+    "fotoUrl": "https://img.olx.com.br/images/43/432652151427956.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/432652151427956.jpg",
+      "https://img.olx.com.br/images/44/444652513751320.jpg",
+      "https://img.olx.com.br/images/45/455689396709204.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778503534
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:45",
     "fotoUrl": "https://img.olx.com.br/images/29/297696400022466.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/297696400022466.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/36/367643524069631.jpg",
       "https://img.olx.com.br/images/38/388683042366368.jpg"
     ],
-    "defeito": false,
+    "id": "1501021200",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-1501021200",
+    "preco": 3700,
+    "precoRaw": "R$ 3.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "iPhone 16",
     "ts": 1778503532
   },
   {
@@ -9797,24 +9817,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "Jogo Ps4 Redout Light Speed ",
     "ts": 1778428930
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:02",
-    "fotoUrl": "https://img.olx.com.br/images/19/195607600071432.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/195607600071432.jpg",
-      "https://img.olx.com.br/images/21/219647245992045.jpg"
-    ],
-    "id": "1474004213",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/vendo-lote-de-jogos-de-ps4-faco-envio-pela-olx-1474004213",
-    "preco": 640,
-    "precoRaw": "R$ 640",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Vendo lote de jogos de PS4 (Faço envio pela Olx)",
-    "ts": 1778428920
   }
 ]
