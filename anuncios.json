@@ -1,21 +1,42 @@
 [
   {
-    "id": "1501219975",
-    "titulo": "PS4 SLIM 500gb",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "ps4",
+    "id": "1501219934",
+    "titulo": "Final fantasy 7 Deluxe Edition",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:40",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-slim-500gb-1501219975",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/final-fantasy-7-deluxe-edition-1501219934",
+    "fotoUrl": "https://img.olx.com.br/images/90/900644765937189.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/900644765937189.jpg",
+      "https://img.olx.com.br/images/90/901647649538720.jpg",
+      "https://img.olx.com.br/images/90/900636406229743.jpg",
+      "https://img.olx.com.br/images/90/901636402897368.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778539226
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:40",
     "fotoUrl": "https://img.olx.com.br/images/37/375662169307467.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/375662169307467.jpg",
       "https://img.olx.com.br/images/38/387698402956304.jpg"
     ],
-    "defeito": false,
+    "id": "1501219975",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-slim-500gb-1501219975",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "PS4 SLIM 500gb",
     "ts": 1778539218
   },
   {
@@ -9873,24 +9894,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Nintendo Switch Lite",
     "ts": 1778511197
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:53",
-    "fotoUrl": "https://img.olx.com.br/images/54/548647526436022.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/548647526436022.jpg",
-      "https://img.olx.com.br/images/55/557674168025401.jpg"
-    ],
-    "id": "1499021334",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/toki-nintendo-switch-retrollector-edition-1499021334",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2017",
-    "titulo": "Toki Nintendo Switch Retrollector Edition",
-    "ts": 1778511187
   }
 ]
