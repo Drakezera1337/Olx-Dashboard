@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500987474",
-    "titulo": "X Box série s",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "outros",
+    "id": "1500987974",
+    "titulo": "Ps4, 4 controles, 16 jogos.",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:12",
-    "tempoOlx": "Na OLX desde novembro de 2014",
+    "detectado": "01:17",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/x-box-serie-s-1500987474",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-4-controles-16-jogos-1500987974",
+    "fotoUrl": "https://img.olx.com.br/images/75/758649882567420.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/758649882567420.jpg",
+      "https://img.olx.com.br/images/77/779652647204091.jpg",
+      "https://img.olx.com.br/images/79/798678767009211.jpg",
+      "https://img.olx.com.br/images/80/808682524711668.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778473066
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:12",
     "fotoUrl": "https://img.olx.com.br/images/30/303631886287811.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/303631886287811.jpg",
       "https://img.olx.com.br/images/32/321685766626200.jpg",
       "https://img.olx.com.br/images/35/353675769264156.jpg"
     ],
-    "defeito": false,
+    "id": "1500987474",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/x-box-serie-s-1500987474",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2014",
+    "titulo": "X Box série s",
     "ts": 1778472762
   },
   {
@@ -9792,23 +9813,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PS4 em ótimo estado!",
     "ts": 1778428388
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:49",
-    "fotoUrl": "https://img.olx.com.br/images/67/676693282976925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/676693282976925.jpg"
-    ],
-    "id": "1500892274",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/camiseta-silent-hill-2-1500892274",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Camiseta silent hill 2 ",
-    "ts": 1778428170
   }
 ]
