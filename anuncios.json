@@ -1,20 +1,38 @@
 [
   {
-    "id": "1449661848",
-    "titulo": "Jogo Ratchet Clank PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1449663275",
+    "titulo": "Jogo FIFA 18 PS4",
+    "preco": 99,
+    "precoRaw": "R$ 99",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:36",
+    "detectado": "12:37",
     "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ratchet-clank-ps4-1449661848",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-fifa-18-ps4-1449663275",
+    "fotoUrl": "https://img.olx.com.br/images/92/920501936255750.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/920501936255750.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778513832
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:36",
     "fotoUrl": "https://img.olx.com.br/images/67/674592932903176.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/674592932903176.jpg"
     ],
-    "defeito": false,
+    "id": "1449661848",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ratchet-clank-ps4-1449661848",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Jogo Ratchet Clank PS4",
     "ts": 1778513783
   },
   {
@@ -9894,27 +9912,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Ps4 slim com defeito (11.02/Faço Olxpay)",
     "ts": 1778449839
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:48",
-    "fotoUrl": "https://img.olx.com.br/images/13/138604168805535.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/138604168805535.jpg",
-      "https://img.olx.com.br/images/14/143617526241671.jpg",
-      "https://img.olx.com.br/images/16/167625648260208.jpg",
-      "https://img.olx.com.br/images/18/181696642899623.jpg",
-      "https://img.olx.com.br/images/21/218624286439442.jpg"
-    ],
-    "id": "1498743053",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1498743053",
-    "preco": 2700,
-    "precoRaw": "R$ 2.700",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14",
-    "ts": 1778449714
   }
 ]
