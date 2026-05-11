@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501049958",
-    "titulo": "Jogos ps4 kit com 5",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1501049884",
+    "titulo": "Jogos de ps4",
+    "preco": 290,
+    "precoRaw": "R$ 290",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:47",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-kit-com-5-1501049958",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogos-de-ps4-1501049884",
+    "fotoUrl": "https://img.olx.com.br/images/36/369623767307241.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/369623767307241.jpg",
+      "https://img.olx.com.br/images/37/375670762113018.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778510841
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:47",
     "fotoUrl": "https://img.olx.com.br/images/38/388680044427861.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/388680044427861.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/43/432610520119896.jpg",
       "https://img.olx.com.br/images/44/448613886895846.jpg"
     ],
-    "defeito": false,
+    "id": "1501049958",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-kit-com-5-1501049958",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Jogos ps4 kit com 5",
     "ts": 1778510829
   },
   {
@@ -9827,24 +9846,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "GTA trilogy + call of duty Black ops 4 ",
     "ts": 1778441176
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:24",
-    "fotoUrl": "https://img.olx.com.br/images/45/450610882832323.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/450610882832323.jpg",
-      "https://img.olx.com.br/images/45/450674280455536.jpg"
-    ],
-    "id": "1500919012",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-midia-digital-1500919012",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "Playstation 5 - Mídia Digital",
-    "ts": 1778441049
   }
 ]
