@@ -1,22 +1,42 @@
 [
   {
-    "id": "1483067980",
-    "titulo": "Final Fantasy XII The Zodiac Age PS4 - Final Fantasy 12",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1483068869",
+    "titulo": "The Last Of Us Remasterizado PS4",
+    "preco": 75,
+    "precoRaw": "R$ 75",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "16:20",
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/final-fantasy-xii-the-zodiac-age-ps4-final-fantasy-12-1483067980",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-remasterizado-ps4-1483068869",
+    "fotoUrl": "https://img.olx.com.br/images/90/906693142420431.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/906693142420431.jpg",
+      "https://img.olx.com.br/images/92/927641381769042.jpg",
+      "https://img.olx.com.br/images/96/965690148039295.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778527220
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:20",
     "fotoUrl": "https://img.olx.com.br/images/59/590677501888595.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/590677501888595.jpg",
       "https://img.olx.com.br/images/61/616607748331696.jpg",
       "https://img.olx.com.br/images/63/634664148007107.jpg"
     ],
-    "defeito": false,
+    "id": "1483067980",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/final-fantasy-xii-the-zodiac-age-ps4-final-fantasy-12-1483067980",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
+    "titulo": "Final Fantasy XII The Zodiac Age PS4 - Final Fantasy 12",
     "ts": 1778527210
   },
   {
@@ -9938,24 +9958,5 @@
     "tempoOlx": "Na OLX desde abril de 2017",
     "titulo": "Iphone 11 64gb",
     "ts": 1778471688
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:49",
-    "fotoUrl": "https://img.olx.com.br/images/38/382682285773787.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/382682285773787.jpg",
-      "https://img.olx.com.br/images/56/564639162820907.jpg"
-    ],
-    "id": "1500986630",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-x-1500986630",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "Xbox OnE X",
-    "ts": 1778471382
   }
 ]
