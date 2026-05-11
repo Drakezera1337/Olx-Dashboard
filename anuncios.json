@@ -1,22 +1,41 @@
 [
   {
-    "id": "1501032881",
-    "titulo": "Xbox series 512GB ",
+    "id": "1501012249",
+    "titulo": "Xbox Séries S 512gb",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "09:48",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-512gb-1501032881",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-1501012249",
+    "fotoUrl": "https://img.olx.com.br/images/55/551624406195461.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/551624406195461.jpg",
+      "https://img.olx.com.br/images/56/567686406284642.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778503692
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:48",
     "fotoUrl": "https://img.olx.com.br/images/86/867616645906170.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/867616645906170.jpg",
       "https://img.olx.com.br/images/87/875656760143388.jpg",
       "https://img.olx.com.br/images/89/894686768204378.jpg"
     ],
-    "defeito": false,
+    "id": "1501032881",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-512gb-1501032881",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Xbox series 512GB ",
     "ts": 1778503683
   },
   {
@@ -9806,28 +9825,5 @@
     "tempoOlx": "Na OLX desde março de 2016",
     "titulo": "The Last Of Us Part Ii Edição De Colecionador (físico)",
     "ts": 1778429881
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:17",
-    "fotoUrl": "https://img.olx.com.br/images/18/185601648030758.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/185601648030758.jpg",
-      "https://img.olx.com.br/images/20/202665288646541.jpg",
-      "https://img.olx.com.br/images/22/220662405435006.jpg",
-      "https://img.olx.com.br/images/23/230639524924953.jpg",
-      "https://img.olx.com.br/images/24/244632641837619.jpg",
-      "https://img.olx.com.br/images/26/265682760063248.jpg"
-    ],
-    "id": "1500896632",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/controles-e-jogos-ps4-1500896632",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Controles e jogos ps4",
-    "ts": 1778429871
   }
 ]
