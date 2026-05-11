@@ -1,20 +1,39 @@
 [
   {
-    "id": "1501231027",
-    "titulo": "Vende-se PS5 825GB. ( 1 jogo ) ( 1 controle ) ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1448275519",
+    "titulo": "Stars wars jedi fallen order (ps4)",
+    "preco": 69,
+    "precoRaw": "R$ 69",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:26",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "detectado": "20:29",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/vende-se-ps5-825gb-1-jogo--1-controle-1501231027",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/stars-wars-jedi-fallen-order-ps4-1448275519",
+    "fotoUrl": "https://img.olx.com.br/images/73/734598336784558.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/734598336784558.jpg",
+      "https://img.olx.com.br/images/76/764563339029493.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778542150
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:26",
     "fotoUrl": "https://img.olx.com.br/images/77/777663640915240.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/777663640915240.jpg"
     ],
-    "defeito": false,
+    "id": "1501231027",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/vende-se-ps5-825gb-1-jogo--1-controle-1501231027",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "Vende-se PS5 825GB. ( 1 jogo ) ( 1 controle ) ",
     "ts": 1778541965
   },
   {
@@ -9853,24 +9872,5 @@
     "tempoOlx": "Na OLX desde agosto de 2020",
     "titulo": "Miyoo Mini Plus",
     "ts": 1778511581
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:59",
-    "fotoUrl": "https://img.olx.com.br/images/30/301603873583915.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/301603873583915.jpg",
-      "https://img.olx.com.br/images/33/335604758696596.jpg"
-    ],
-    "id": "1496672484",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/game-1496672484",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Game ",
-    "ts": 1778511574
   }
 ]
