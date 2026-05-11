@@ -1,22 +1,42 @@
 [
   {
-    "id": "1493493316",
-    "titulo": "Nintendo Game & Watch",
-    "preco": 460,
-    "precoRaw": "R$ 460",
-    "categoria": "switch",
+    "id": "1456537913",
+    "titulo": "Assassin's Creed III Liberation - ps vita playstation vita",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "11:58",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-game-watch-1493493316",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/assassin-s-creed-iii-liberation-ps-vita-playstation-vita-1456537913",
+    "fotoUrl": "https://img.olx.com.br/images/37/370643032923140.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/370643032923140.jpg",
+      "https://img.olx.com.br/images/37/372693039551222.jpg",
+      "https://img.olx.com.br/images/37/379661514722756.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778511492
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:58",
     "fotoUrl": "https://img.olx.com.br/images/16/161692033907888.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/161692033907888.jpg",
       "https://img.olx.com.br/images/18/180690275092311.jpg",
       "https://img.olx.com.br/images/19/197670158555048.jpg"
     ],
-    "defeito": false,
+    "id": "1493493316",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-game-watch-1493493316",
+    "preco": 460,
+    "precoRaw": "R$ 460",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Nintendo Game & Watch",
     "ts": 1778511485
   },
   {
@@ -9870,25 +9890,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": "God of war PS4",
     "ts": 1778447914
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:18",
-    "fotoUrl": "https://img.olx.com.br/images/76/767665250734784.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/767665250734784.jpg",
-      "https://img.olx.com.br/images/78/783684735769010.jpg",
-      "https://img.olx.com.br/images/80/808619854194553.jpg"
-    ],
-    "id": "1475510019",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/mortal-kombat-xl-ps4-1475510019",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "Mortal Kombat XL PS4",
-    "ts": 1778447903
   }
 ]
