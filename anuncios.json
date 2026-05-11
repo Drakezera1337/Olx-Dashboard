@@ -1,21 +1,41 @@
 [
   {
-    "id": "1501190938",
-    "titulo": "Jogos",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "outros",
+    "id": "1501192159",
+    "titulo": "Xbox series S ",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "18:00",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "18:02",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-1501190938",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1501192159",
+    "fotoUrl": "https://img.olx.com.br/images/94/940660287290851.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/940660287290851.jpg",
+      "https://img.olx.com.br/images/95/950654883225265.jpg",
+      "https://img.olx.com.br/images/95/958608760594832.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778533327
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:00",
     "fotoUrl": "https://img.olx.com.br/images/75/753640523248334.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/753640523248334.jpg",
       "https://img.olx.com.br/images/75/758637160636605.jpg"
     ],
-    "defeito": false,
+    "id": "1501190938",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-1501190938",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Jogos",
     "ts": 1778533210
   },
   {
@@ -9932,23 +9952,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "PlayStation 4 com 2 manetes e vários jogos ",
     "ts": 1778504153
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:55",
-    "fotoUrl": "https://img.olx.com.br/images/79/793646289666792.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/793646289666792.jpg"
-    ],
-    "id": "1501026464",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/combo-8-jogos-de-ps3-ps4-1501026464",
-    "preco": 540,
-    "precoRaw": "R$ 540",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "COMBO 8 JOGOS DE PS3 + PS4 ",
-    "ts": 1778504143
   }
 ]
