@@ -1,21 +1,40 @@
 [
   {
-    "id": "1483255803",
-    "titulo": "Jogo ps4 Watch dogs",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1483063732",
+    "titulo": "Jogo Final Fantasy XV 15 Ediçao Day One",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "16:19",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "16:20",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-watch-dogs-1483255803",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-final-fantasy-xv-15-edicao-day-one-1483063732",
+    "fotoUrl": "https://img.olx.com.br/images/35/354609626135055.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/354609626135055.jpg",
+      "https://img.olx.com.br/images/36/368642740781769.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778527201
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:19",
     "fotoUrl": "https://img.olx.com.br/images/63/638692025665132.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/638692025665132.jpg",
       "https://img.olx.com.br/images/65/655618866742162.jpg"
     ],
-    "defeito": false,
+    "id": "1483255803",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-watch-dogs-1483255803",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Jogo ps4 Watch dogs",
     "ts": 1778527193
   },
   {
@@ -9937,23 +9956,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "PlayStation 4 Fat 500gb",
     "ts": 1778471293
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:40",
-    "fotoUrl": "https://img.olx.com.br/images/41/415645140061392.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/415645140061392.jpg"
-    ],
-    "id": "1482679786",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/5-jogos-ps4-battlefield-v-battlefield-1-bo3-pack-de-jogos-playstation-4-1482679786",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
-    "titulo": "5 jogos PS4 Battlefield V, Battlefield 1, BO3- Pack De Jogos Playstation 4",
-    "ts": 1778470843
   }
 ]
