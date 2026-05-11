@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501130434",
-    "titulo": "PlayStation 5 digital ",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "ps5",
+    "id": "1501130198",
+    "titulo": "XBOX 512GB SÉRIES S MÍDIA DIGITAL ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "15:23",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "detectado": "15:24",
+    "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-digital-1501130434",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/xbox-512gb-series-s-midia-digital-1501130198",
+    "fotoUrl": "https://img.olx.com.br/images/44/442644408606489.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/442644408606489.jpg",
+      "https://img.olx.com.br/images/47/477674520743240.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778523844
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:23",
     "fotoUrl": "https://img.olx.com.br/images/84/842608283792764.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/842608283792764.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/95/950624526527554.jpg",
       "https://img.olx.com.br/images/98/980605409374847.jpg"
     ],
-    "defeito": false,
+    "id": "1501130434",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-digital-1501130434",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "PlayStation 5 digital ",
     "ts": 1778523829
   },
   {
@@ -9951,26 +9970,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PS4 Slim 1TB/ 2 Controles/ 1 jogo",
     "ts": 1778463421
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:36",
-    "fotoUrl": "https://img.olx.com.br/images/20/205631766664048.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/205631766664048.jpg",
-      "https://img.olx.com.br/images/22/229683648506212.jpg",
-      "https://img.olx.com.br/images/24/240690164113385.jpg",
-      "https://img.olx.com.br/images/25/257646763158367.jpg"
-    ],
-    "id": "1500975950",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-12-1500975950",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Vendo IPhone 12",
-    "ts": 1778463416
   }
 ]
