@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501098494",
-    "titulo": "PS4 ",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "ps4",
+    "id": "1498745380",
+    "titulo": "Xbox s",
+    "preco": 1650,
+    "precoRaw": "R$ 1.650",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "13:27",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "tempoOlx": "Na OLX desde junho de 2014",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/ps4-1501098494",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-s-1498745380",
+    "fotoUrl": "https://img.olx.com.br/images/83/839667163044510.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/839667163044510.jpg",
+      "https://img.olx.com.br/images/86/865604407088282.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778516857
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:27",
     "fotoUrl": "https://img.olx.com.br/images/66/666620407818385.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/666620407818385.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/74/745633049840607.jpg",
       "https://img.olx.com.br/images/77/775655169991635.jpg"
     ],
-    "defeito": false,
+    "id": "1501098494",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/ps4-1501098494",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "PS4 ",
     "ts": 1778516851
   },
   {
@@ -9897,28 +9916,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Jogo de ps4 ",
     "ts": 1778455748
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:28",
-    "fotoUrl": "https://img.olx.com.br/images/24/243623649012227.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/243623649012227.jpg",
-      "https://img.olx.com.br/images/27/277676040300175.jpg",
-      "https://img.olx.com.br/images/29/290656407285395.jpg",
-      "https://img.olx.com.br/images/32/329613525987435.jpg",
-      "https://img.olx.com.br/images/34/341618165278983.jpg",
-      "https://img.olx.com.br/images/37/378667529185511.jpg"
-    ],
-    "id": "1500957351",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/vendo-ps4-slim-1tb-1500957351",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "Vendo Ps4 Slim 1TB",
-    "ts": 1778455739
   }
 ]
