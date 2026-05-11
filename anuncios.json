@@ -1,21 +1,39 @@
 [
   {
-    "id": "1500966334",
-    "titulo": "JOGOS PS4 LACRADOS ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1500967303",
+    "titulo": "Resident Evil 4 Remake",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "21:28",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "detectado": "21:34",
+    "tempoOlx": "Na OLX desde maio de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-lacrados-1500966334",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/resident-evil-4-remake-1500967303",
+    "fotoUrl": "https://img.olx.com.br/images/57/571678166966698.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/571678166966698.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778459679
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:28",
     "fotoUrl": "https://img.olx.com.br/images/38/382639643101852.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/382639643101852.jpg",
       "https://img.olx.com.br/images/39/390627284266550.jpg"
     ],
-    "defeito": false,
+    "id": "1500966334",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-lacrados-1500966334",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "JOGOS PS4 LACRADOS ",
     "ts": 1778459330
   },
   {
@@ -9829,26 +9847,5 @@
     "tempoOlx": "",
     "titulo": "God of War - PS4 (LACRADO)",
     "ts": 1778417312
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:48",
-    "fotoUrl": "https://img.olx.com.br/images/54/544513176760596.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/544513176760596.jpg",
-      "https://img.olx.com.br/images/56/562526652999540.jpg",
-      "https://img.olx.com.br/images/57/578564652262411.jpg",
-      "https://img.olx.com.br/images/61/613566414943494.jpg"
-    ],
-    "id": "1412489181",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/god-of-war-iii-remasterizado-lacrado-ps4-1412489181",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "God of War III Remasterizado (lacrado) - PS4",
-    "ts": 1778417302
   }
 ]
