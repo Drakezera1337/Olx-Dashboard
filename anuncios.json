@@ -1,20 +1,40 @@
 [
   {
-    "id": "1501153236",
-    "titulo": "Ps4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "id": "1485511692",
+    "titulo": "Persona 5 PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "16:38",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "tempoOlx": "Na OLX desde agosto de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1501153236",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/persona-5-ps4-1485511692",
+    "fotoUrl": "https://img.olx.com.br/images/25/256600628292123.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/256600628292123.jpg",
+      "https://img.olx.com.br/images/28/280634629373105.jpg",
+      "https://img.olx.com.br/images/31/318650869768112.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778528297
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:38",
     "fotoUrl": "https://img.olx.com.br/images/26/263627042053062.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/263627042053062.jpg"
     ],
-    "defeito": false,
+    "id": "1501153236",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1501153236",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "Ps4",
     "ts": 1778528288
   },
   {
@@ -9945,26 +9965,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "FIFA 22",
     "ts": 1778477839
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:37",
-    "fotoUrl": "https://img.olx.com.br/images/25/256635513239005.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/256635513239005.jpg",
-      "https://img.olx.com.br/images/27/278664152166441.jpg",
-      "https://img.olx.com.br/images/28/287629514400962.jpg",
-      "https://img.olx.com.br/images/30/300625755392660.jpg"
-    ],
-    "id": "1492741875",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-the-last-of-us-part-2-steelbook-1492741875",
-    "preco": 280,
-    "precoRaw": "R$ 280",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Jogo the last of us part 2 steelbook ",
-    "ts": 1778477830
   }
 ]
