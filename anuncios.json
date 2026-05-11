@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501109970",
-    "titulo": "Vendo ps4 com defeito",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "categoria": "ps4",
+    "id": "1501110907",
+    "titulo": "Xbox",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "14:10",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "14:12",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/vendo-ps4-com-defeito-1501109970",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-1501110907",
+    "fotoUrl": "https://img.olx.com.br/images/91/915689769385272.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/915689769385272.jpg",
+      "https://img.olx.com.br/images/96/968635163967148.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778519567
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:10",
     "fotoUrl": "https://img.olx.com.br/images/40/409647523065347.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/409647523065347.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/42/420620529428148.jpg",
       "https://img.olx.com.br/images/43/431613404381081.jpg"
     ],
-    "defeito": false,
+    "id": "1501109970",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/vendo-ps4-com-defeito-1501109970",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Vendo ps4 com defeito",
     "ts": 1778519410
   },
   {
@@ -9916,25 +9935,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "Vídeo game Ps3 ",
     "ts": 1778460938
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:48",
-    "fotoUrl": "https://img.olx.com.br/images/24/244661166832706.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/244661166832706.jpg",
-      "https://img.olx.com.br/images/26/269655288482752.jpg",
-      "https://img.olx.com.br/images/28/281621289417791.jpg"
-    ],
-    "id": "1500968563",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps-portal-midnight-black-1500968563",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2020",
-    "titulo": "Ps Portal Midnight Black",
-    "ts": 1778460518
   }
 ]
