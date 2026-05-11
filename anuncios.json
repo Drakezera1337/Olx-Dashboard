@@ -1,21 +1,39 @@
 [
   {
-    "id": "1501144103",
-    "titulo": "Vídeo game",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "outros",
+    "id": "1501146372",
+    "titulo": "Tropico 5  Playstation 4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:17",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "detectado": "16:19",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/video-game-1501144103",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/tropico-5-playstation-4-1501146372",
+    "fotoUrl": "https://img.olx.com.br/images/64/642697409228769.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/642697409228769.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778527176
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:17",
     "fotoUrl": "https://img.olx.com.br/images/58/581623168933058.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/581623168933058.jpg",
       "https://img.olx.com.br/images/58/580639044763841.jpg"
     ],
-    "defeito": false,
+    "id": "1501144103",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/video-game-1501144103",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Vídeo game",
     "ts": 1778527056
   },
   {
@@ -9941,24 +9959,5 @@
     "tempoOlx": "Na OLX desde abril de 2023",
     "titulo": "The Last Of us ps4 Remaster",
     "ts": 1778470165
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:29",
-    "fotoUrl": "https://img.olx.com.br/images/22/220679409302807.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/220679409302807.jpg",
-      "https://img.olx.com.br/images/23/232644646941073.jpg"
-    ],
-    "id": "1500985798",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/x-box-series-s-1500985798",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2018",
-    "titulo": "X box séries S ",
-    "ts": 1778470151
   }
 ]
