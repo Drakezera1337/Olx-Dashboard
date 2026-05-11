@@ -1,22 +1,42 @@
 [
   {
-    "id": "1501140423",
-    "titulo": "iPhone 11 64 gb ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1358664623",
+    "titulo": "GUITAR HERO - WORLD TOUR (PS3)",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "16:05",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "detectado": "16:06",
+    "tempoOlx": "Na OLX desde abril de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64-gb-1501140423",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/guitar-hero-world-tour-ps3-1358664623",
+    "fotoUrl": "https://img.olx.com.br/images/74/741485345916794.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/741485345916794.jpg",
+      "https://img.olx.com.br/images/74/748455948989823.jpg",
+      "https://img.olx.com.br/images/74/746454228746056.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778526368
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:05",
     "fotoUrl": "https://img.olx.com.br/images/75/758645521482678.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/758645521482678.jpg",
       "https://img.olx.com.br/images/76/761627762297399.jpg",
       "https://img.olx.com.br/images/78/782671042542704.jpg"
     ],
-    "defeito": false,
+    "id": "1501140423",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64-gb-1501140423",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "iPhone 11 64 gb ",
     "ts": 1778526308
   },
   {
@@ -9962,23 +9982,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "Ps4 fat",
     "ts": 1778468294
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:46",
-    "fotoUrl": "https://img.olx.com.br/images/12/126645509269636.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/126645509269636.jpg"
-    ],
-    "id": "1489370902",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/controle-xbox-sx-pink-1489370902",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2015",
-    "titulo": "Controle Xbox SX Pink",
-    "ts": 1778467601
   }
 ]
