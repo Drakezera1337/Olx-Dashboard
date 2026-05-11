@@ -1,15 +1,29 @@
 [
   {
-    "id": "1501224363",
-    "titulo": "IPHONE XR RARIDADE ",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "iphone",
+    "id": "1501225250",
+    "titulo": "PlayStation 4 slim 1 TB com defeito no HD",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:57",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "19:58",
+    "tempoOlx": "Na OLX desde março de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-raridade-1501224363",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-1-tb-com-defeito-no-hd-1501225250",
+    "fotoUrl": "https://img.olx.com.br/images/22/228691403422584.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/228691403422584.jpg",
+      "https://img.olx.com.br/images/24/245644764784679.jpg",
+      "https://img.olx.com.br/images/27/279639287429511.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778540287
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:57",
     "fotoUrl": "https://img.olx.com.br/images/91/910635409859401.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/910635409859401.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/10/105694521381410.jpg",
       "https://img.olx.com.br/images/13/137660526091700.jpg"
     ],
-    "defeito": false,
+    "id": "1501224363",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-raridade-1501224363",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "IPHONE XR RARIDADE ",
     "ts": 1778540258
   },
   {
@@ -9860,23 +9880,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Controle estilo GameCube Personalizado Zelda para Nintendo Switch - Hori",
     "ts": 1778511281
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:54",
-    "fotoUrl": "https://img.olx.com.br/images/52/525591471226907.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/525591471226907.jpg"
-    ],
-    "id": "1462286689",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/dock-nintendo-switch-v2-v1-1462286689",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2013",
-    "titulo": "Dock Nintendo Switch V2 V1 ",
-    "ts": 1778511274
   }
 ]
