@@ -1,15 +1,32 @@
 [
   {
-    "id": "1501233961",
-    "titulo": "IPHONE 13 PRO MAX 128GB",
-    "preco": 2850,
-    "precoRaw": "R$ 2.850",
-    "categoria": "iphone",
+    "id": "1501235084",
+    "titulo": "Ps4 PRO KINGDOM HEARTS 3",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:39",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "20:41",
+    "tempoOlx": "Na OLX desde maio de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-128gb-1501233961",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-pro-kingdom-hearts-3-1501235084",
+    "fotoUrl": "https://img.olx.com.br/images/24/249611285378793.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/249611285378793.jpg",
+      "https://img.olx.com.br/images/26/267676525696647.jpg",
+      "https://img.olx.com.br/images/30/309671405839319.jpg",
+      "https://img.olx.com.br/images/32/327682766232498.jpg",
+      "https://img.olx.com.br/images/33/337606401249849.jpg",
+      "https://img.olx.com.br/images/35/357658409694077.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778542869
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:39",
     "fotoUrl": "https://img.olx.com.br/images/81/812652527728588.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/812652527728588.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/92/926671283972162.jpg",
       "https://img.olx.com.br/images/95/955661524825268.jpg"
     ],
-    "defeito": false,
+    "id": "1501233961",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-128gb-1501233961",
+    "preco": 2850,
+    "precoRaw": "R$ 2.850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "IPHONE 13 PRO MAX 128GB",
     "ts": 1778542751
   },
   {
@@ -9850,26 +9873,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "Ps4 slim com defeito",
     "ts": 1778512651
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:15",
-    "fotoUrl": "https://img.olx.com.br/images/77/777643643617006.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/777643643617006.jpg",
-      "https://img.olx.com.br/images/79/795693280630660.jpg",
-      "https://img.olx.com.br/images/80/808607405711567.jpg",
-      "https://img.olx.com.br/images/82/822660041317393.jpg"
-    ],
-    "id": "1501070024",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps5-portatil-1501070024",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "PS5 PORTÁTIL ",
-    "ts": 1778512520
   }
 ]
