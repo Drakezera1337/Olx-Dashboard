@@ -1,15 +1,30 @@
 [
   {
-    "id": "1492747691",
-    "titulo": "Iphone 13 Pro  512 GB",
-    "preco": 2950,
-    "precoRaw": "R$ 2.950",
-    "categoria": "iphone",
+    "id": "1499648111",
+    "titulo": "Xbox Series S 512GB + Controle Original - R$ 1.900",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "21:35",
-    "tempoOlx": "Na OLX desde setembro de 2014",
+    "detectado": "21:36",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-512-gb-1492747691",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-controle-original-r-1-900-1499648111",
+    "fotoUrl": "https://img.olx.com.br/images/27/273644284598599.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/273644284598599.jpg",
+      "https://img.olx.com.br/images/28/289600288857045.jpg",
+      "https://img.olx.com.br/images/30/308695048439225.jpg",
+      "https://img.olx.com.br/images/31/312653520582714.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778459799
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:35",
     "fotoUrl": "https://img.olx.com.br/images/19/197695630680642.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/197695630680642.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/62/627636873226610.jpg",
       "https://img.olx.com.br/images/66/668676518613232.jpg"
     ],
-    "defeito": false,
+    "id": "1492747691",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-512-gb-1492747691",
+    "preco": 2950,
+    "precoRaw": "R$ 2.950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "Iphone 13 Pro  512 GB",
     "ts": 1778459709
   },
   {
@@ -9827,25 +9848,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Xbox series s ",
     "ts": 1778417377
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:48",
-    "fotoUrl": "https://img.olx.com.br/images/49/493603748213623.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/493603748213623.jpg",
-      "https://img.olx.com.br/images/50/500619626221743.jpg",
-      "https://img.olx.com.br/images/51/514649146983060.jpg"
-    ],
-    "id": "1483430709",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/cd-dragonball-xenoverse-2-xv-ps4-jogo-original-1483430709",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "CD dragonball XenoVerse 2 xv PS4 JOGO original",
-    "ts": 1778417334
   }
 ]
