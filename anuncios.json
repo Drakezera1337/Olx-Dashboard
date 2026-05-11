@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501221058",
-    "titulo": "Vende-se PS4 ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "ps4",
+    "id": "1499145552",
+    "titulo": "Iphone 13 pro 256gb 89% bateria",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "19:41",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "detectado": "19:42",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-ps4-1501221058",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-256gb-89-bateria-1499145552",
+    "fotoUrl": "https://img.olx.com.br/images/79/790667161797495.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/790667161797495.jpg",
+      "https://img.olx.com.br/images/81/816632401589953.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778539326
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:41",
     "fotoUrl": "https://img.olx.com.br/images/80/804634160520287.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/804634160520287.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/83/834660522720742.jpg",
       "https://img.olx.com.br/images/85/851637287305713.jpg"
     ],
-    "defeito": false,
+    "id": "1501221058",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-ps4-1501221058",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "Vende-se PS4 ",
     "ts": 1778539300
   },
   {
@@ -9874,27 +9893,5 @@
     "tempoOlx": "Na OLX desde março de 2025",
     "titulo": "Hot Wheels Original Yoshi Mario Kart - Standart Kart Mattel",
     "ts": 1778511211
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:53",
-    "fotoUrl": "https://img.olx.com.br/images/77/777678648734369.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/777678648734369.jpg",
-      "https://img.olx.com.br/images/78/784601647039677.jpg",
-      "https://img.olx.com.br/images/79/791628168665689.jpg",
-      "https://img.olx.com.br/images/80/807613049904081.jpg",
-      "https://img.olx.com.br/images/81/817654889111983.jpg"
-    ],
-    "id": "1498979128",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/nintendo-dsi-xl-no-estado-como-no-anuncio-1498979128",
-    "preco": 247,
-    "precoRaw": "R$ 247",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2014",
-    "titulo": "Nintendo dsi XL no estado como no anúncio ",
-    "ts": 1778511204
   }
 ]
