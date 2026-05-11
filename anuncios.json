@@ -1,21 +1,42 @@
 [
   {
-    "id": "1501012249",
-    "titulo": "Xbox Séries S 512gb",
+    "id": "1493053554",
+    "titulo": "Xbox séries 512gb",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "09:48",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-1501012249",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-512gb-1493053554",
+    "fotoUrl": "https://img.olx.com.br/images/94/942623756279246.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/942623756279246.jpg",
+      "https://img.olx.com.br/images/95/959604158497230.jpg",
+      "https://img.olx.com.br/images/96/969623154703171.jpg",
+      "https://img.olx.com.br/images/98/982656390949148.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778503703
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:48",
     "fotoUrl": "https://img.olx.com.br/images/55/551624406195461.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/551624406195461.jpg",
       "https://img.olx.com.br/images/56/567686406284642.jpg"
     ],
-    "defeito": false,
+    "id": "1501012249",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-1501012249",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Xbox Séries S 512gb",
     "ts": 1778503692
   },
   {
@@ -9806,24 +9827,5 @@
     "tempoOlx": "Na OLX desde agosto de 2024",
     "titulo": "Jogo ps4",
     "ts": 1778429890
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:18",
-    "fotoUrl": "https://img.olx.com.br/images/47/478646498607588.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/478646498607588.jpg",
-      "https://img.olx.com.br/images/47/475606730535391.jpg"
-    ],
-    "id": "1480055449",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-part-ii-edicao-de-colecionador-fisico-1480055449",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2016",
-    "titulo": "The Last Of Us Part Ii Edição De Colecionador (físico)",
-    "ts": 1778429881
   }
 ]
