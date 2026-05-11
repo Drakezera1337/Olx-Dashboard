@@ -1,20 +1,40 @@
 [
   {
-    "id": "1490181039",
-    "titulo": "PlayStation 4",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "categoria": "ps4",
+    "id": "1501229541",
+    "titulo": "Vídeo game ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:17",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "tempoOlx": "Na OLX desde agosto de 2018",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/playstation-4-1490181039",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/video-game-1501229541",
+    "fotoUrl": "https://img.olx.com.br/images/32/321633168380599.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/321633168380599.jpg",
+      "https://img.olx.com.br/images/33/337646764393006.jpg",
+      "https://img.olx.com.br/images/35/351600169989374.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778541442
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:17",
     "fotoUrl": "https://img.olx.com.br/images/29/299638506042559.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/299638506042559.jpg"
     ],
-    "defeito": false,
+    "id": "1490181039",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/playstation-4-1490181039",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "PlayStation 4",
     "ts": 1778541434
   },
   {
@@ -9852,23 +9872,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Shantae Half Genie Hero nintendo switch raro",
     "ts": 1778511444
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:57",
-    "fotoUrl": "https://img.olx.com.br/images/57/572503584954517.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/572503584954517.jpg"
-    ],
-    "id": "1456085033",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/coisas-de-nintendo-switch-oled-1456085033",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Coisas de Nintendo Switch Oled",
-    "ts": 1778511438
   }
 ]
