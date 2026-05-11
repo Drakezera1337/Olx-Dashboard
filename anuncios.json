@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500986598",
-    "titulo": "PlayStation 4 Fat 500gb",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1500986630",
+    "titulo": "Xbox OnE X",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "00:48",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "00:49",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-4-fat-500gb-1500986598",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-x-1500986630",
+    "fotoUrl": "https://img.olx.com.br/images/38/382682285773787.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/382682285773787.jpg",
+      "https://img.olx.com.br/images/56/564639162820907.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778471382
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:48",
     "fotoUrl": "https://img.olx.com.br/images/65/654612765510462.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/654612765510462.jpg",
       "https://img.olx.com.br/images/66/665665648814897.jpg"
     ],
-    "defeito": false,
+    "id": "1500986598",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-4-fat-500gb-1500986598",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "PlayStation 4 Fat 500gb",
     "ts": 1778471293
   },
   {
@@ -9791,26 +9810,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "Shenmue III - PS4 Novo Lacrado",
     "ts": 1778427857
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:44",
-    "fotoUrl": "https://img.olx.com.br/images/39/391689611634209.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/391689611634209.jpg",
-      "https://img.olx.com.br/images/42/429663136941276.jpg",
-      "https://img.olx.com.br/images/44/449652616629781.jpg",
-      "https://img.olx.com.br/images/46/462685138985894.jpg"
-    ],
-    "id": "1474720644",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/horizon-ps4-usado-1474720644",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Horizon PS4 USADO",
-    "ts": 1778427848
   }
 ]
