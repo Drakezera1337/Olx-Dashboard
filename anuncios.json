@@ -1,15 +1,28 @@
 [
   {
-    "id": "1494423378",
-    "titulo": "PlayStation 4 500gb",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1501103984",
+    "titulo": "PS5 Marcos *",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:44",
-    "tempoOlx": "Na OLX desde março de 2013",
+    "detectado": "13:45",
+    "tempoOlx": "Na OLX desde maio de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-500gb-1494423378",
+    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/consoles-de-video-game/ps5-marcos-1501103984",
+    "fotoUrl": "https://img.olx.com.br/images/53/537682887903416.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/537682887903416.jpg",
+      "https://img.olx.com.br/images/56/566624287547151.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778517908
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:44",
     "fotoUrl": "https://img.olx.com.br/images/29/294689392696396.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/294689392696396.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/34/348675878404693.jpg",
       "https://img.olx.com.br/images/35/352615639759756.jpg"
     ],
-    "defeito": false,
+    "id": "1494423378",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-500gb-1494423378",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2013",
+    "titulo": "PlayStation 4 500gb",
     "ts": 1778517869
   },
   {
@@ -9911,23 +9930,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Call of Duty Black Ops 4 PS4 Mídia Física - Ótimo Estado",
     "ts": 1778459689
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:34",
-    "fotoUrl": "https://img.olx.com.br/images/57/571678166966698.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/571678166966698.jpg"
-    ],
-    "id": "1500967303",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/resident-evil-4-remake-1500967303",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2019",
-    "titulo": "Resident Evil 4 Remake",
-    "ts": 1778459679
   }
 ]
