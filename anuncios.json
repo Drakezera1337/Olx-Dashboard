@@ -1,21 +1,39 @@
 [
   {
-    "id": "1483255238",
-    "titulo": "Jogo PS4 Ride",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1501149235",
+    "titulo": "Watch Dogs PS4 ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:25",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "16:32",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-ride-1483255238",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/watch-dogs-ps4-1501149235",
+    "fotoUrl": "https://img.olx.com.br/images/87/877610521742414.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/877610521742414.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778527927
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:25",
     "fotoUrl": "https://img.olx.com.br/images/66/660611629026507.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/660611629026507.jpg",
       "https://img.olx.com.br/images/68/683685623075908.jpg"
     ],
-    "defeito": false,
+    "id": "1483255238",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-ride-1483255238",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Jogo PS4 Ride",
     "ts": 1778527534
   },
   {
@@ -9939,23 +9957,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Jogos PS4 ",
     "ts": 1778475275
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:54",
-    "fotoUrl": "https://img.olx.com.br/images/13/130659762829832.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/130659762829832.jpg"
-    ],
-    "id": "1500991699",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-7-ps4-1500991699",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Resident evil 7 ps4",
-    "ts": 1778475259
   }
 ]
