@@ -1,20 +1,38 @@
 [
   {
-    "id": "1501197707",
-    "titulo": "PlayStation 4 com 1 controle",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "ps4",
+    "id": "1501199466",
+    "titulo": "PS portal acompanha case e carregador por apenas 1000",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:26",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:27",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-1-controle-1501197707",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps-portal-acompanha-case-e-carregador-por-apenas-1000-1501199466",
+    "fotoUrl": "https://img.olx.com.br/images/21/214661767505294.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/214661767505294.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778534857
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:26",
     "fotoUrl": "https://img.olx.com.br/images/63/631611047435783.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/631611047435783.jpg"
     ],
-    "defeito": false,
+    "id": "1501197707",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-com-1-controle-1501197707",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 4 com 1 controle",
     "ts": 1778534766
   },
   {
@@ -9929,24 +9947,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Xbox Series S",
     "ts": 1778510413
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:39",
-    "fotoUrl": "https://img.olx.com.br/images/73/736660762116838.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/736660762116838.jpg",
-      "https://img.olx.com.br/images/74/747698401253858.jpg"
-    ],
-    "id": "1501045915",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-13-pro-256gb-1501045915",
-    "preco": 3399,
-    "precoRaw": "R$ 3.399",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2022",
-    "titulo": "Apple iPhone 13 Pro 256GB",
-    "ts": 1778510374
   }
 ]
