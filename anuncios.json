@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500966386",
-    "titulo": "Jogo The Last Of Us (Blue Label)",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1500965633",
+    "titulo": "Jogo Spider Man Ps4",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "22:23",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-the-last-of-us-blue-label-1500966386",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-spider-man-ps4-1500965633",
+    "fotoUrl": "https://img.olx.com.br/images/76/766686529642623.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/766686529642623.jpg",
+      "https://img.olx.com.br/images/78/780686280654929.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778462614
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:23",
     "fotoUrl": "https://img.olx.com.br/images/88/883690766590732.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/883690766590732.jpg",
       "https://img.olx.com.br/images/91/912668288598039.jpg"
     ],
-    "defeito": false,
+    "id": "1500966386",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-the-last-of-us-blue-label-1500966386",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jogo The Last Of Us (Blue Label)",
     "ts": 1778462603
   },
   {
@@ -9823,25 +9842,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Cyberpunk 2077 PS4/PS5",
     "ts": 1778419521
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:25",
-    "fotoUrl": "https://img.olx.com.br/images/52/523673247759690.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/523673247759690.jpg",
-      "https://img.olx.com.br/images/55/558650480907846.jpg",
-      "https://img.olx.com.br/images/58/584639123854803.jpg"
-    ],
-    "id": "1473481402",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogo-lego-worlds-ps4-1473481402",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2024",
-    "titulo": "Jogo LEGO Worlds - PS4",
-    "ts": 1778419511
   }
 ]
