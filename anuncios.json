@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500985798",
-    "titulo": "X box séries S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1500985644",
+    "titulo": "The Last Of us ps4 Remaster",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "00:29",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "tempoOlx": "Na OLX desde abril de 2023",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/x-box-series-s-1500985798",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-ps4-remaster-1500985644",
+    "fotoUrl": "https://img.olx.com.br/images/94/949690280248330.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/949690280248330.jpg",
+      "https://img.olx.com.br/images/95/952637047254005.jpg",
+      "https://img.olx.com.br/images/96/961650409763627.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778470165
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:29",
     "fotoUrl": "https://img.olx.com.br/images/22/220679409302807.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/220679409302807.jpg",
       "https://img.olx.com.br/images/23/232644646941073.jpg"
     ],
-    "defeito": false,
+    "id": "1500985798",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/x-box-series-s-1500985798",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "X box séries S ",
     "ts": 1778470151
   },
   {
@@ -9795,26 +9815,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "days gone jogo de ps4",
     "ts": 1778427818
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:42",
-    "fotoUrl": "https://img.olx.com.br/images/60/605606529984646.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/605606529984646.jpg",
-      "https://img.olx.com.br/images/61/610656166485407.jpg",
-      "https://img.olx.com.br/images/62/622604522231661.jpg",
-      "https://img.olx.com.br/images/63/633664169939730.jpg"
-    ],
-    "id": "1500863438",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1500863438",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "Playstation 4",
-    "ts": 1778427759
   }
 ]
