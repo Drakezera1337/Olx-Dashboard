@@ -1,15 +1,30 @@
 [
   {
-    "id": "1500169681",
-    "titulo": "xbox serie s",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1432049292",
+    "titulo": "Jogo Monster Hunter Frontie G 8 Psvita ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:21",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "detectado": "12:22",
+    "tempoOlx": "Na OLX desde maio de 2017",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-serie-s-1500169681",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/jogo-monster-hunter-frontie-g-8-psvita-1432049292",
+    "fotoUrl": "https://img.olx.com.br/images/95/958580675113211.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/958580675113211.jpg",
+      "https://img.olx.com.br/images/16/166543192641750.jpg",
+      "https://img.olx.com.br/images/22/222586311681126.jpg",
+      "https://img.olx.com.br/images/29/292551310335302.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778512967
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:21",
     "fotoUrl": "https://img.olx.com.br/images/84/842683406617682.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/842683406617682.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/90/902606408263044.jpg",
       "https://img.olx.com.br/images/91/914617281513460.jpg"
     ],
-    "defeito": false,
+    "id": "1500169681",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-serie-s-1500169681",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "xbox serie s",
     "ts": 1778512870
   },
   {
@@ -9886,23 +9907,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "iPhone 15 Pro Max 256GB Titânio Natural",
     "ts": 1778449241
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:40",
-    "fotoUrl": "https://img.olx.com.br/images/20/207630611183414.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/207630611183414.jpg"
-    ],
-    "id": "1480983226",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1480983226",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2013",
-    "titulo": "Jogos ps4",
-    "ts": 1778449221
   }
 ]
