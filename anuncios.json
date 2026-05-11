@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499100596",
-    "titulo": "iPhone 12",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "iphone",
+    "id": "1501179777",
+    "titulo": "FIFA 20 Original Mídia Física - PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:33",
-    "tempoOlx": "Na OLX desde setembro de 2021",
+    "detectado": "17:34",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1499100596",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/fifa-20-original-midia-fisica-ps4-1501179777",
+    "fotoUrl": "https://img.olx.com.br/images/54/545605769716879.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/545605769716879.jpg",
+      "https://img.olx.com.br/images/55/559618523555741.jpg",
+      "https://img.olx.com.br/images/57/571627163177187.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778531678
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:33",
     "fotoUrl": "https://img.olx.com.br/images/73/731656168422444.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/731656168422444.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/79/796652648101681.jpg",
       "https://img.olx.com.br/images/80/807602162233563.jpg"
     ],
-    "defeito": false,
+    "id": "1499100596",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1499100596",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2021",
+    "titulo": "iPhone 12",
     "ts": 1778531587
   },
   {
@@ -9924,27 +9944,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "Jogo ps4",
     "ts": 1778503930
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:52",
-    "fotoUrl": "https://img.olx.com.br/images/22/224642616188569.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/224642616188569.jpg",
-      "https://img.olx.com.br/images/23/233671733302663.jpg",
-      "https://img.olx.com.br/images/22/225671499821873.jpg",
-      "https://img.olx.com.br/images/22/221690610236694.jpg",
-      "https://img.olx.com.br/images/22/227687737229912.jpg"
-    ],
-    "id": "1474509628",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-de-ps4-nioh-2-special-edition-ps4-item-top-americano-1474509628",
-    "preco": 430,
-    "precoRaw": "R$ 430",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "Jogo de PS4 Nioh 2 Special Edition PS4 item top americano",
-    "ts": 1778503920
   }
 ]
