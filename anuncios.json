@@ -1,20 +1,40 @@
 [
   {
-    "id": "1501197291",
-    "titulo": "Portal PS5 Playstation estado de novo ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps5",
+    "id": "1458602971",
+    "titulo": "Jogo FIFA 19 - PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:27",
-    "tempoOlx": "Na OLX desde abril de 2024",
+    "detectado": "18:29",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/portal-ps5-playstation-estado-de-novo-1501197291",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-fifa-19-ps4-1458602971",
+    "fotoUrl": "https://img.olx.com.br/images/60/604528958640470.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/604528958640470.jpg",
+      "https://img.olx.com.br/images/61/610592716035759.jpg",
+      "https://img.olx.com.br/images/62/627580836276004.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778534947
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:27",
     "fotoUrl": "https://img.olx.com.br/images/99/997606168149254.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/997606168149254.jpg"
     ],
-    "defeito": false,
+    "id": "1501197291",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/portal-ps5-playstation-estado-de-novo-1501197291",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2024",
+    "titulo": "Portal PS5 Playstation estado de novo ",
     "ts": 1778534863
   },
   {
@@ -9928,24 +9948,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "PlayStation 3 com HEN (Sem jogos baixados)",
     "ts": 1778510456
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:40",
-    "fotoUrl": "https://img.olx.com.br/images/63/637693165699899.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/637693165699899.jpg",
-      "https://img.olx.com.br/images/65/653668525374012.jpg"
-    ],
-    "id": "1501046591",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-1501046591",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "Xbox ",
-    "ts": 1778510422
   }
 ]
