@@ -1,21 +1,39 @@
 [
   {
-    "id": "1498745380",
-    "titulo": "Xbox s",
-    "preco": 1650,
-    "precoRaw": "R$ 1.650",
-    "categoria": "xbox",
+    "id": "1498560590",
+    "titulo": "Playstation 5",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "13:27",
-    "tempoOlx": "Na OLX desde junho de 2014",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-s-1498745380",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1498560590",
+    "fotoUrl": "https://img.olx.com.br/images/59/594688285878600.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/594688285878600.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778516864
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:27",
     "fotoUrl": "https://img.olx.com.br/images/83/839667163044510.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/839667163044510.jpg",
       "https://img.olx.com.br/images/86/865604407088282.jpg"
     ],
-    "defeito": false,
+    "id": "1498745380",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-s-1498745380",
+    "preco": 1650,
+    "precoRaw": "R$ 1.650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2014",
+    "titulo": "Xbox s",
     "ts": 1778516857
   },
   {
@@ -9898,23 +9916,5 @@
     "tempoOlx": "Na OLX desde maio de 2023",
     "titulo": "PS4 ",
     "ts": 1778455758
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:29",
-    "fotoUrl": "https://img.olx.com.br/images/89/892635641806213.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/892635641806213.jpg"
-    ],
-    "id": "1500957194",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogo-de-ps4-1500957194",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Jogo de ps4 ",
-    "ts": 1778455748
   }
 ]
