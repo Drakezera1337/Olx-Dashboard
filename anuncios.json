@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500966828",
-    "titulo": "Jogo Uncharted 4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1500966704",
+    "titulo": "Jogo God Of War 3 Lacrado",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "jogos",
     "publicado": "",
-    "detectado": "22:22",
+    "detectado": "22:23",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-uncharted-4-1500966828",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-god-of-war-3-lacrado-1500966704",
+    "fotoUrl": "https://img.olx.com.br/images/72/721695285633862.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/721695285633862.jpg",
+      "https://img.olx.com.br/images/75/757628761312416.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778462582
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:22",
     "fotoUrl": "https://img.olx.com.br/images/65/653650644248862.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/653650644248862.jpg",
       "https://img.olx.com.br/images/67/673658405999172.jpg"
     ],
-    "defeito": false,
+    "id": "1500966828",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-uncharted-4-1500966828",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jogo Uncharted 4",
     "ts": 1778462572
   },
   {
@@ -9823,26 +9842,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Jogo de PlayStation 4, nunca usado",
     "ts": 1778419203
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/73/738619405771169.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/738619405771169.jpg",
-      "https://img.olx.com.br/images/74/744611529956186.jpg",
-      "https://img.olx.com.br/images/75/750611401088836.jpg",
-      "https://img.olx.com.br/images/76/768653644262347.jpg"
-    ],
-    "id": "1500869054",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/11-jogos-ps4-1500869054",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "11 jogos PS4",
-    "ts": 1778419195
   }
 ]
