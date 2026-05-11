@@ -1,21 +1,40 @@
 [
   {
-    "id": "1500992627",
-    "titulo": "FIFA 22",
-    "preco": 75,
-    "precoRaw": "R$ 75",
+    "id": "1500992599",
+    "titulo": "Fifa 20",
+    "preco": 65,
+    "precoRaw": "R$ 65",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "02:37",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-22-1500992627",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-20-1500992599",
+    "fotoUrl": "https://img.olx.com.br/images/84/841670648215354.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/841670648215354.jpg",
+      "https://img.olx.com.br/images/85/856635643101232.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778477848
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "02:37",
     "fotoUrl": "https://img.olx.com.br/images/81/815630647651072.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/815630647651072.jpg",
       "https://img.olx.com.br/images/82/828602642603602.jpg"
     ],
-    "defeito": false,
+    "id": "1500992627",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-22-1500992627",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "FIFA 22",
     "ts": 1778477839
   },
   {
@@ -9790,23 +9809,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Uncharterd Collection (Uncharterd 1, 2 e 3) - PS4",
     "ts": 1778428870
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:00",
-    "fotoUrl": "https://img.olx.com.br/images/97/978635487293717.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/978635487293717.jpg"
-    ],
-    "id": "1466457480",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/the-last-of-us-remasterizado-novo-lacrado-ps4-1466457480",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "The Last of Us Remasterizado (Novo/Lacrado) - PS4",
-    "ts": 1778428859
   }
 ]
