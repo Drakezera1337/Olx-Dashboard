@@ -1,22 +1,41 @@
 [
   {
-    "id": "1501212966",
-    "titulo": "PES 2021",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "outros",
+    "id": "1501212819",
+    "titulo": "Jogos ps4(consultar preço no chat)",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:17",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/pes-2021-1501212966",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-consultar-preco-no-chat-1501212819",
+    "fotoUrl": "https://img.olx.com.br/images/18/181691042795940.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/181691042795940.jpg",
+      "https://img.olx.com.br/images/89/895634522828902.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778537837
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:17",
     "fotoUrl": "https://img.olx.com.br/images/42/426695287137462.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/426695287137462.jpg",
       "https://img.olx.com.br/images/43/435652767619308.jpg",
       "https://img.olx.com.br/images/45/451616041433884.jpg"
     ],
-    "defeito": false,
+    "id": "1501212966",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/pes-2021-1501212966",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "PES 2021",
     "ts": 1778537829
   },
   {
@@ -9919,24 +9938,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2023",
     "titulo": "Jogos ps4 lote",
     "ts": 1778510890
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/48/486684041907228.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/486684041907228.jpg",
-      "https://img.olx.com.br/images/49/495633761015417.jpg"
-    ],
-    "id": "1501049431",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/football-pes-2020-ps4-1501049431",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2016",
-    "titulo": "Football PES 2020 ps4",
-    "ts": 1778510881
   }
 ]
