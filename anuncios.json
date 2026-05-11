@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498201458",
-    "titulo": "X Box One",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "outros",
+    "id": "1500985798",
+    "titulo": "X box séries S ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "00:25",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "detectado": "00:29",
+    "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/consoles-de-video-game/x-box-one-1498201458",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/x-box-series-s-1500985798",
+    "fotoUrl": "https://img.olx.com.br/images/22/220679409302807.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/220679409302807.jpg",
+      "https://img.olx.com.br/images/23/232644646941073.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778470151
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:25",
     "fotoUrl": "https://img.olx.com.br/images/67/677622153324074.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/677622153324074.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/67/673684159899072.jpg",
       "https://img.olx.com.br/images/67/678668270056962.jpg"
     ],
-    "defeito": false,
+    "id": "1498201458",
+    "link": "https://pa.olx.com.br/regiao-de-santarem/games/consoles-de-video-game/x-box-one-1498201458",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "X Box One",
     "ts": 1778469942
   },
   {
@@ -9797,25 +9816,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "Playstation 4",
     "ts": 1778427759
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:38",
-    "fotoUrl": "https://img.olx.com.br/images/62/629623853674338.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/629623853674338.jpg",
-      "https://img.olx.com.br/images/65/656694857382594.jpg",
-      "https://img.olx.com.br/images/68/687666735846525.jpg"
-    ],
-    "id": "1475645969",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogo-the-witcher-3-wild-hunt-ps4-1475645969",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2019",
-    "titulo": "Jogo The Witcher 3: Wild Hunt - PS4",
-    "ts": 1778427537
   }
 ]
