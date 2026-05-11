@@ -1,15 +1,27 @@
 [
   {
-    "id": "1499097897",
-    "titulo": "iPhone 11",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "iphone",
+    "id": "1501172495",
+    "titulo": "Vendo Xbox séries s",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "17:29",
-    "tempoOlx": "Na OLX desde setembro de 2021",
+    "detectado": "17:32",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1499097897",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/vendo-xbox-series-s-1501172495",
+    "fotoUrl": "https://img.olx.com.br/images/46/465613401891881.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/465613401891881.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778531556
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:29",
     "fotoUrl": "https://img.olx.com.br/images/23/236691165883537.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/236691165883537.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/33/339608883419410.jpg",
       "https://img.olx.com.br/images/34/345683402190426.jpg"
     ],
-    "defeito": false,
+    "id": "1499097897",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1499097897",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2021",
+    "titulo": "iPhone 11",
     "ts": 1778531376
   },
   {
@@ -9922,26 +9940,5 @@
     "tempoOlx": "Na OLX desde abril de 2013",
     "titulo": "2 jogos PS4- Ragnarok vai Lacrado!",
     "ts": 1778503902
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:51",
-    "fotoUrl": "https://img.olx.com.br/images/91/912678638930641.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/912678638930641.jpg",
-      "https://img.olx.com.br/images/90/909601151892620.jpg",
-      "https://img.olx.com.br/images/90/909695877737247.jpg",
-      "https://img.olx.com.br/images/91/914693635536285.jpg"
-    ],
-    "id": "1493010776",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-de-ps4-star-wars-battlefront-steelbook-edition-1493010776",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "Jogo de PS4 Star Wars Battlefront Steelbook Edition",
-    "ts": 1778503887
   }
 ]
