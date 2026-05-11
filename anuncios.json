@@ -1,20 +1,42 @@
 [
   {
-    "id": "1459721530",
-    "titulo": "Xbox séries S",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "xbox",
+    "id": "1496430180",
+    "titulo": "PlayStation 3 Desbloqueado ( 1 Tera de armazenamento e 12 jogos )",
+    "preco": 759,
+    "precoRaw": "R$ 759",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:34",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1459721530",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-3-desbloqueado-1-tera-de-armazenamento-e-12-jogos-1496430180",
+    "fotoUrl": "https://img.olx.com.br/images/98/987653272547343.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/987653272547343.jpg",
+      "https://img.olx.com.br/images/99/993648877327497.jpg",
+      "https://img.olx.com.br/images/10/104677274088278.jpg",
+      "https://img.olx.com.br/images/11/119615032764274.jpg",
+      "https://img.olx.com.br/images/12/128650636963437.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778517277
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:34",
     "fotoUrl": "https://img.olx.com.br/images/92/921582590880998.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/921582590880998.jpg"
     ],
-    "defeito": false,
+    "id": "1459721530",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1459721530",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Xbox séries S",
     "ts": 1778517245
   },
   {
@@ -9897,23 +9919,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "DaysGone ps4",
     "ts": 1778457520
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:58",
-    "fotoUrl": "https://img.olx.com.br/images/54/546680768155980.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/546680768155980.jpg"
-    ],
-    "id": "1500962432",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ben-10-arraia-jato-1500962432",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2020",
-    "titulo": "Ben 10 arraia jato ",
-    "ts": 1778457493
   }
 ]
