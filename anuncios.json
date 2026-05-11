@@ -1,15 +1,31 @@
 [
   {
-    "id": "1498822949",
-    "titulo": "PlayStation 4 Slim",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "ps4",
+    "id": "1498749724",
+    "titulo": "PS3 Super Slim - 500GB na caixa",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "22:33",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde outubro de 2014",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-slim-1498822949",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-super-slim-500gb-na-caixa-1498749724",
+    "fotoUrl": "https://img.olx.com.br/images/59/593660048657445.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/593660048657445.jpg",
+      "https://img.olx.com.br/images/60/602648521629462.jpg",
+      "https://img.olx.com.br/images/61/616673403899292.jpg",
+      "https://img.olx.com.br/images/62/629684169226884.jpg",
+      "https://img.olx.com.br/images/63/630617160969799.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778463222
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:33",
     "fotoUrl": "https://img.olx.com.br/images/43/434603283971908.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/434603283971908.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/49/499671163658253.jpg",
       "https://img.olx.com.br/images/50/503611282566967.jpg"
     ],
-    "defeito": false,
+    "id": "1498822949",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-slim-1498822949",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PlayStation 4 Slim",
     "ts": 1778463190
   },
   {
@@ -9823,25 +9845,5 @@
     "tempoOlx": "Na OLX desde maio de 2023",
     "titulo": "PLAYSTATION 4 SLIM USADO ? ÓTIMO ESTADO E PRONTO PRA JOGAR!",
     "ts": 1778420533
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:38",
-    "fotoUrl": "https://img.olx.com.br/images/65/653690396023945.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/653690396023945.jpg",
-      "https://img.olx.com.br/images/68/682634276524751.jpg",
-      "https://img.olx.com.br/images/70/708684033278843.jpg"
-    ],
-    "id": "1483587260",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ghost-of-tsushima-lacrado-ps4-1483587260",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Ghost of Tsushima (LACRADO) PS4",
-    "ts": 1778420305
   }
 ]
