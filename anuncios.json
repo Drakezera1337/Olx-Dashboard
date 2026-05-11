@@ -1,20 +1,43 @@
 [
   {
-    "id": "1501042576",
-    "titulo": "PlayStation 4",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1501047432",
+    "titulo": "PLAYSTATION 4 FAT",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:49",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "tempoOlx": "Na OLX desde junho de 2017",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-1501042576",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-fat-1501047432",
+    "fotoUrl": "https://img.olx.com.br/images/79/797605528476139.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/797605528476139.jpg",
+      "https://img.olx.com.br/images/80/801602526954997.jpg",
+      "https://img.olx.com.br/images/81/816680645909855.jpg",
+      "https://img.olx.com.br/images/82/822688529443373.jpg",
+      "https://img.olx.com.br/images/84/847671401504982.jpg",
+      "https://img.olx.com.br/images/85/853667408806586.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778510968
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:49",
     "fotoUrl": "https://img.olx.com.br/images/90/909643648112286.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/909643648112286.jpg"
     ],
-    "defeito": false,
+    "id": "1501042576",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-1501042576",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "PlayStation 4",
     "ts": 1778510958
   },
   {
@@ -9815,24 +9838,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "Jogos ps4: red dead redemption 2, Ratchet & Clank e LEGO vingadores",
     "ts": 1778443362
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:02",
-    "fotoUrl": "https://img.olx.com.br/images/48/485658769782420.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/485658769782420.jpg",
-      "https://img.olx.com.br/images/50/504649164151262.jpg"
-    ],
-    "id": "1500923248",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-pra-ps4-nba-2k-1500923248",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Jogo pra ps4, NBA 2K",
-    "ts": 1778443352
   }
 ]
