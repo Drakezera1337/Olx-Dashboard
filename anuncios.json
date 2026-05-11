@@ -1,20 +1,43 @@
 [
   {
-    "id": "1501127954",
-    "titulo": "JOGOS DE VIDEOGAME",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "outros",
+    "id": "1501130434",
+    "titulo": "PlayStation 5 digital ",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "15:23",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "tempoOlx": "Na OLX desde novembro de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-videogame-1501127954",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-digital-1501130434",
+    "fotoUrl": "https://img.olx.com.br/images/84/842608283792764.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/842608283792764.jpg",
+      "https://img.olx.com.br/images/86/862668164597334.jpg",
+      "https://img.olx.com.br/images/89/891631762531406.jpg",
+      "https://img.olx.com.br/images/92/929694642477098.jpg",
+      "https://img.olx.com.br/images/95/950624526527554.jpg",
+      "https://img.olx.com.br/images/98/980605409374847.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778523829
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:23",
     "fotoUrl": "https://img.olx.com.br/images/73/739655643759050.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/739655643759050.jpg"
     ],
-    "defeito": false,
+    "id": "1501127954",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-videogame-1501127954",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "JOGOS DE VIDEOGAME",
     "ts": 1778523792
   },
   {
@@ -9949,24 +9972,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Vendo IPhone 12",
     "ts": 1778463416
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:36",
-    "fotoUrl": "https://img.olx.com.br/images/26/264620036277398.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/264620036277398.jpg",
-      "https://img.olx.com.br/images/27/271632752942740.jpg"
-    ],
-    "id": "1498117357",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/playstation-3-slim-semi-novo-10-jogos-e-2-controles-1498117357",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "Playstation 3 slim semi novo (10 jogos e 2 controles)",
-    "ts": 1778463412
   }
 ]
