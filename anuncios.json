@@ -1,15 +1,27 @@
 [
   {
-    "id": "1501210507",
-    "titulo": "Ps 4",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "categoria": "outros",
+    "id": "1501210496",
+    "titulo": "Jogos ps4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:05",
-    "tempoOlx": "Na OLX desde julho de 2024",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps-4-1501210507",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogos-ps4-1501210496",
+    "fotoUrl": "https://img.olx.com.br/images/78/788638882539962.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/788638882539962.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778537141
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:05",
     "fotoUrl": "https://img.olx.com.br/images/61/617653761808719.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/617653761808719.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/51/515680289663201.jpg",
       "https://img.olx.com.br/images/52/527615763198138.jpg"
     ],
-    "defeito": false,
+    "id": "1501210507",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps-4-1501210507",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "titulo": "Ps 4",
     "ts": 1778537132
   },
   {
@@ -9923,25 +9941,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Jogos Originais PS4 - Midia física em bom estado",
     "ts": 1778510794
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:46",
-    "fotoUrl": "https://img.olx.com.br/images/46/468678887769602.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/468678887769602.jpg",
-      "https://img.olx.com.br/images/47/476654406683889.jpg",
-      "https://img.olx.com.br/images/49/497646762506956.jpg"
-    ],
-    "id": "1501051797",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-3-v-ps4-ps5-1501051797",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "God of War 3 V:PS4/PS5",
-    "ts": 1778510785
   }
 ]
