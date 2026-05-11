@@ -1,21 +1,42 @@
 [
   {
-    "id": "1501104963",
-    "titulo": "iPhone 13 PRO",
-    "preco": 3239,
-    "precoRaw": "R$ 3.239",
-    "categoria": "iphone",
+    "id": "1501108183",
+    "titulo": "PS4 BATMAN ARKHAM KNIGHT",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:53",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "detectado": "14:01",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-1501104963",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/ps4-batman-arkham-knight-1501108183",
+    "fotoUrl": "https://img.olx.com.br/images/96/963650286845573.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/963650286845573.jpg",
+      "https://img.olx.com.br/images/98/988692402527953.jpg",
+      "https://img.olx.com.br/images/99/990693284380157.jpg",
+      "https://img.olx.com.br/images/11/112684408344862.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778518909
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:53",
     "fotoUrl": "https://img.olx.com.br/images/80/807693402340011.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/807693402340011.jpg",
       "https://img.olx.com.br/images/79/791600163092250.jpg"
     ],
-    "defeito": false,
+    "id": "1501104963",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-1501104963",
+    "preco": 3239,
+    "precoRaw": "R$ 3.239",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "iPhone 13 PRO",
     "ts": 1778518388
   },
   {
@@ -9909,23 +9930,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "VENDO PS4 Em perfeito estado de conservação ",
     "ts": 1778460081
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:41",
-    "fotoUrl": "https://img.olx.com.br/images/54/547687766337344.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/547687766337344.jpg"
-    ],
-    "id": "1500967527",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/kit-the-last-of-us-1-e-2-ps-4-1500967527",
-    "preco": 210,
-    "precoRaw": "R$ 210",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2021",
-    "titulo": "Kit the last of us 1 e 2 ps 4",
-    "ts": 1778460071
   }
 ]
