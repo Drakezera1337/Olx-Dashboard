@@ -1,15 +1,30 @@
 [
   {
-    "id": "1501219934",
-    "titulo": "Final fantasy 7 Deluxe Edition",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "outros",
+    "id": "1501221058",
+    "titulo": "Vende-se PS4 ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:40",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "detectado": "19:41",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/final-fantasy-7-deluxe-edition-1501219934",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-ps4-1501221058",
+    "fotoUrl": "https://img.olx.com.br/images/80/804634160520287.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/804634160520287.jpg",
+      "https://img.olx.com.br/images/82/826608283487008.jpg",
+      "https://img.olx.com.br/images/83/834660522720742.jpg",
+      "https://img.olx.com.br/images/85/851637287305713.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778539300
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:40",
     "fotoUrl": "https://img.olx.com.br/images/90/900644765937189.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/900644765937189.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/90/900636406229743.jpg",
       "https://img.olx.com.br/images/90/901636402897368.jpg"
     ],
-    "defeito": false,
+    "id": "1501219934",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/final-fantasy-7-deluxe-edition-1501219934",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Final fantasy 7 Deluxe Edition",
     "ts": 1778539226
   },
   {
@@ -9875,24 +9896,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Nintendo dsi XL no estado como no anúncio ",
     "ts": 1778511204
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:53",
-    "fotoUrl": "https://img.olx.com.br/images/67/672684512599139.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/672684512599139.jpg",
-      "https://img.olx.com.br/images/74/743604396124626.jpg"
-    ],
-    "id": "1491058455",
-    "link": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/nintendo-switch-lite-1491058455",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "Nintendo Switch Lite",
-    "ts": 1778511197
   }
 ]
