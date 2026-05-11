@@ -1,22 +1,45 @@
 [
   {
-    "id": "1501229541",
-    "titulo": "Vídeo game ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1403124876",
+    "titulo": "jogos ps4/ps5.olhar descrição.",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "20:17",
-    "tempoOlx": "Na OLX desde agosto de 2018",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/video-game-1501229541",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-olhar-descricao-1403124876",
+    "fotoUrl": "https://img.olx.com.br/images/60/606501044137170.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/606501044137170.jpg",
+      "https://img.olx.com.br/images/60/602568162244873.jpg",
+      "https://img.olx.com.br/images/61/612553761656434.jpg",
+      "https://img.olx.com.br/images/61/618555288931178.jpg",
+      "https://img.olx.com.br/images/72/729565354616261.jpg",
+      "https://img.olx.com.br/images/74/741540715817554.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778541450
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:17",
     "fotoUrl": "https://img.olx.com.br/images/32/321633168380599.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/321633168380599.jpg",
       "https://img.olx.com.br/images/33/337646764393006.jpg",
       "https://img.olx.com.br/images/35/351600169989374.jpg"
     ],
-    "defeito": false,
+    "id": "1501229541",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/video-game-1501229541",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2018",
+    "titulo": "Vídeo game ",
     "ts": 1778541442
   },
   {
@@ -9852,25 +9875,5 @@
     "tempoOlx": "Na OLX desde março de 2023",
     "titulo": "Super Mário Party Nintendo Switch ",
     "ts": 1778511451
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:57",
-    "fotoUrl": "https://img.olx.com.br/images/27/272697159654769.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/272697159654769.jpg",
-      "https://img.olx.com.br/images/29/298655275527911.jpg",
-      "https://img.olx.com.br/images/31/317669757919144.jpg"
-    ],
-    "id": "1496147327",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/shantae-half-genie-hero-nintendo-switch-raro-1496147327",
-    "preco": 335,
-    "precoRaw": "R$ 335",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Shantae Half Genie Hero nintendo switch raro",
-    "ts": 1778511444
   }
 ]
