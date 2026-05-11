@@ -1,21 +1,43 @@
 [
   {
-    "id": "1501068682",
-    "titulo": "Switch OLED",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "switch",
+    "id": "1449518905",
+    "titulo": "Jogo Spider-Man Homem Aranha PS4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:34",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "12:35",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/switch-oled-1501068682",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-spider-man-homem-aranha-ps4-1449518905",
+    "fotoUrl": "https://img.olx.com.br/images/56/560539930129108.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/560539930129108.jpg",
+      "https://img.olx.com.br/images/61/610583213630460.jpg",
+      "https://img.olx.com.br/images/65/654575938938487.jpg",
+      "https://img.olx.com.br/images/71/719589810116350.jpg",
+      "https://img.olx.com.br/images/84/842511818344897.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778513740
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:34",
     "fotoUrl": "https://img.olx.com.br/images/41/413695648457629.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/413695648457629.jpg",
       "https://img.olx.com.br/images/43/434638165686542.jpg"
     ],
-    "defeito": false,
+    "id": "1501068682",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/switch-oled-1501068682",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Switch OLED",
     "ts": 1778513666
   },
   {
@@ -9897,23 +9919,5 @@
     "tempoOlx": "",
     "titulo": "iPhone 12 pró max 128gb",
     "ts": 1778449649
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:47",
-    "fotoUrl": "https://img.olx.com.br/images/11/111641400320940.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/111641400320940.jpg"
-    ],
-    "id": "1498799856",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1498799856",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
-    "titulo": "iPhone 12 - 64GB",
-    "ts": 1778449640
   }
 ]
