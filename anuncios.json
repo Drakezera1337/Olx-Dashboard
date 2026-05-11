@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501225811",
-    "titulo": "ps4 slim ",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1499101389",
+    "titulo": "PSP ",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "20:05",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "detectado": "20:06",
+    "tempoOlx": "Na OLX desde março de 2022",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1501225811",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/psp-1499101389",
+    "fotoUrl": "https://img.olx.com.br/images/84/848609289916770.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/848609289916770.jpg",
+      "https://img.olx.com.br/images/85/857602641386698.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778540766
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:05",
     "fotoUrl": "https://img.olx.com.br/images/36/365618520584612.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/365618520584612.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/43/437617524167165.jpg",
       "https://img.olx.com.br/images/44/444616167292243.jpg"
     ],
-    "defeito": false,
+    "id": "1501225811",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1501225811",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "ps4 slim ",
     "ts": 1778540747
   },
   {
@@ -9857,25 +9876,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "Mega scrafty Ex",
     "ts": 1778511385
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:56",
-    "fotoUrl": "https://img.olx.com.br/images/70/701639740947164.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/701639740947164.jpg",
-      "https://img.olx.com.br/images/71/716614022829903.jpg",
-      "https://img.olx.com.br/images/95/957648268420336.jpg"
-    ],
-    "id": "1484311632",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/caixa-vazia-de-nintendo-switch-lite-1484311632",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2016",
-    "titulo": "caixa vazia de Nintendo Switch lite",
-    "ts": 1778511378
   }
 ]
