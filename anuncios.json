@@ -1,15 +1,29 @@
 [
   {
-    "id": "1501134449",
-    "titulo": "PlayStation 4 Slim 500Gb",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1501134415",
+    "titulo": "FIFA 16,17,20 para PS4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "15:38",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-500gb-1501134449",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-16-17-20-para-ps4-1501134415",
+    "fotoUrl": "https://img.olx.com.br/images/89/899628529949745.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/899628529949745.jpg",
+      "https://img.olx.com.br/images/89/898665047074963.jpg",
+      "https://img.olx.com.br/images/89/893663762960582.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778524732
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:38",
     "fotoUrl": "https://img.olx.com.br/images/30/300648168334974.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/300648168334974.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/34/342662644209825.jpg",
       "https://img.olx.com.br/images/35/350686282942011.jpg"
     ],
-    "defeito": false,
+    "id": "1501134449",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-500gb-1501134449",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "PlayStation 4 Slim 500Gb",
     "ts": 1778524723
   },
   {
@@ -9953,23 +9973,5 @@
     "tempoOlx": "Na OLX desde setembro de 2018",
     "titulo": "PS4 Barato ",
     "ts": 1778465051
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:58",
-    "fotoUrl": "https://img.olx.com.br/images/45/452672884046410.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/452672884046410.jpg"
-    ],
-    "id": "1500978357",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/bloodborne-1500978357",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "Bloodborne ",
-    "ts": 1778464726
   }
 ]
