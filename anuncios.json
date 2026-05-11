@@ -1,15 +1,27 @@
 [
   {
-    "id": "1500975950",
-    "titulo": "Vendo IPhone 12",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "categoria": "iphone",
+    "id": "1498094844",
+    "titulo": "PS4 Slim 1TB/ 2 Controles/ 1 jogo",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:36",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "22:37",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-12-1500975950",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-slim-1tb-2-controles-1-jogo-1498094844",
+    "fotoUrl": "https://img.olx.com.br/images/49/498693755618049.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/498693755618049.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778463421
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:36",
     "fotoUrl": "https://img.olx.com.br/images/20/205631766664048.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/205631766664048.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/24/240690164113385.jpg",
       "https://img.olx.com.br/images/25/257646763158367.jpg"
     ],
-    "defeito": false,
+    "id": "1500975950",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-12-1500975950",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Vendo IPhone 12",
     "ts": 1778463416
   },
   {
@@ -9813,24 +9831,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Jogos PS3 e PS4 ",
     "ts": 1778422688
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:12",
-    "fotoUrl": "https://img.olx.com.br/images/53/538635169995398.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/538635169995398.jpg",
-      "https://img.olx.com.br/images/55/554658884111631.jpg"
-    ],
-    "id": "1500879673",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-lego-o-hobbit-para-ps4-1500879673",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2015",
-    "titulo": "Jogo lego o hobbit para ps4",
-    "ts": 1778422331
   }
 ]
