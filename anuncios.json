@@ -1,21 +1,42 @@
 [
   {
-    "id": "1501195291",
-    "titulo": "Ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1501195924",
+    "titulo": "Playstation Portal + Caixa ",
+    "preco": 980,
+    "precoRaw": "R$ 980",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:13",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:15",
+    "tempoOlx": "Na OLX desde novembro de 2024",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps4-1501195291",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-portal-caixa-1501195924",
+    "fotoUrl": "https://img.olx.com.br/images/72/722634522604131.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/722634522604131.jpg",
+      "https://img.olx.com.br/images/74/743615525744208.jpg",
+      "https://img.olx.com.br/images/75/752657643654737.jpg",
+      "https://img.olx.com.br/images/76/768686644870851.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778534136
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:13",
     "fotoUrl": "https://img.olx.com.br/images/89/896630880107431.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/896630880107431.jpg",
       "https://img.olx.com.br/images/90/907627526822139.jpg"
     ],
-    "defeito": false,
+    "id": "1501195291",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps4-1501195291",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps4",
     "ts": 1778534016
   },
   {
@@ -9928,28 +9949,5 @@
     "tempoOlx": "Na OLX desde maio de 2019",
     "titulo": "Iphone 16 pro max desert 256gb",
     "ts": 1778510310
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:38",
-    "fotoUrl": "https://img.olx.com.br/images/65/657678649570815.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/657678649570815.jpg",
-      "https://img.olx.com.br/images/67/673650761313094.jpg",
-      "https://img.olx.com.br/images/68/686657765182112.jpg",
-      "https://img.olx.com.br/images/70/708643521588535.jpg",
-      "https://img.olx.com.br/images/71/719673523406552.jpg",
-      "https://img.olx.com.br/images/72/726661287621001.jpg"
-    ],
-    "id": "1501047465",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-1501047465",
-    "preco": 2900,
-    "precoRaw": "R$ 2.900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2018",
-    "titulo": "iPhone 13 Pro Max",
-    "ts": 1778510300
   }
 ]
