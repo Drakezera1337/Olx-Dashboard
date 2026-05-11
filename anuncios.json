@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500972682",
-    "titulo": "iPhone 11 64gb",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "iphone",
+    "id": "1501060691",
+    "titulo": "PlayStation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:39",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-1500972682",
+    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/consoles-de-video-game/playstation-4-1501060691",
+    "fotoUrl": "https://img.olx.com.br/images/66/664624769131420.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/664624769131420.jpg",
+      "https://img.olx.com.br/images/68/688609164664415.jpg",
+      "https://img.olx.com.br/images/99/990626161287299.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778510346
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
     "fotoUrl": "https://img.olx.com.br/images/85/851654281829827.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/851654281829827.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/94/942681648082391.jpg",
       "https://img.olx.com.br/images/96/967678767605536.jpg"
     ],
-    "defeito": false,
+    "id": "1500972682",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-1500972682",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "iPhone 11 64gb",
     "ts": 1778510340
   },
   {
@@ -9841,23 +9861,5 @@
     "tempoOlx": "Na OLX desde setembro de 2018",
     "titulo": "Jogos ps4 levas todos por 150",
     "ts": 1778435727
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:55",
-    "fotoUrl": "https://img.olx.com.br/images/61/611695164091535.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/611695164091535.jpg"
-    ],
-    "id": "1500908632",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-ps4-1500908632",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2020",
-    "titulo": "Jogo PS4",
-    "ts": 1778435718
   }
 ]
