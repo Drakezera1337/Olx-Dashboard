@@ -1,22 +1,41 @@
 [
   {
-    "id": "1501060691",
-    "titulo": "PlayStation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1501046416",
+    "titulo": "Apple iPhone 11 Pro 64GB",
+    "preco": 1599,
+    "precoRaw": "R$ 1.599",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:39",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "tempoOlx": "Na OLX desde junho de 2022",
     "descricao": "",
-    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/consoles-de-video-game/playstation-4-1501060691",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-11-pro-64gb-1501046416",
+    "fotoUrl": "https://img.olx.com.br/images/42/424626525560678.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/424626525560678.jpg",
+      "https://img.olx.com.br/images/44/446643760849376.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778510354
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
     "fotoUrl": "https://img.olx.com.br/images/66/664624769131420.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/664624769131420.jpg",
       "https://img.olx.com.br/images/68/688609164664415.jpg",
       "https://img.olx.com.br/images/99/990626161287299.jpg"
     ],
-    "defeito": false,
+    "id": "1501060691",
+    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/consoles-de-video-game/playstation-4-1501060691",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "PlayStation 4",
     "ts": 1778510346
   },
   {
@@ -9843,23 +9862,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2020",
     "titulo": "Ratched & Clank The Game - Limited Edition",
     "ts": 1778436074
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:55",
-    "fotoUrl": "https://img.olx.com.br/images/69/693664885316065.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/693664885316065.jpg"
-    ],
-    "id": "1500908272",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-ps4-levas-todos-por-150-1500908272",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2018",
-    "titulo": "Jogos ps4 levas todos por 150",
-    "ts": 1778435727
   }
 ]
