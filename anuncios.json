@@ -1,20 +1,41 @@
 [
   {
-    "id": "1501172495",
-    "titulo": "Vendo Xbox séries s",
-    "preco": 1499,
-    "precoRaw": "R$ 1.499",
-    "categoria": "xbox",
+    "id": "1501176463",
+    "titulo": "Nintendo switch desbloqueado",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "17:32",
-    "tempoOlx": "Na OLX desde abril de 2024",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/vendo-xbox-series-s-1501172495",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/nintendo-switch-desbloqueado-1501176463",
+    "fotoUrl": "https://img.olx.com.br/images/37/378662520693672.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/378662520693672.jpg",
+      "https://img.olx.com.br/images/42/420612406818546.jpg",
+      "https://img.olx.com.br/images/44/447698525634247.jpg",
+      "https://img.olx.com.br/images/46/469605887581334.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778531564
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/46/465613401891881.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/465613401891881.jpg"
     ],
-    "defeito": false,
+    "id": "1501172495",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/vendo-xbox-series-s-1501172495",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2024",
+    "titulo": "Vendo Xbox séries s",
     "ts": 1778531556
   },
   {
@@ -9922,23 +9943,5 @@
     "tempoOlx": "Na OLX desde abril de 2013",
     "titulo": "Assassin's Creed Unity - Signature Edition - PS4",
     "ts": 1778503910
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:51",
-    "fotoUrl": "https://img.olx.com.br/images/78/787564711458223.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/787564711458223.jpg"
-    ],
-    "id": "1458650177",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/2-jogos-ps4-ragnarok-vai-lacrado-1458650177",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2013",
-    "titulo": "2 jogos PS4- Ragnarok vai Lacrado!",
-    "ts": 1778503902
   }
 ]
