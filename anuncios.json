@@ -1,22 +1,41 @@
 [
   {
-    "id": "1501105494",
-    "titulo": "Guitarra PS3 Guitar Hero",
-    "preco": 889,
-    "precoRaw": "R$ 889",
-    "categoria": "ps3",
+    "id": "1501104963",
+    "titulo": "iPhone 13 PRO",
+    "preco": 3239,
+    "precoRaw": "R$ 3.239",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "13:50",
+    "detectado": "13:53",
     "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/guitarra-ps3-guitar-hero-1501105494",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-1501104963",
+    "fotoUrl": "https://img.olx.com.br/images/80/807693402340011.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/807693402340011.jpg",
+      "https://img.olx.com.br/images/79/791600163092250.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778518388
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:50",
     "fotoUrl": "https://img.olx.com.br/images/98/988664402864016.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/988664402864016.jpg",
       "https://img.olx.com.br/images/97/971653640697793.jpg",
       "https://img.olx.com.br/images/98/982651406099917.jpg"
     ],
-    "defeito": false,
+    "id": "1501105494",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/guitarra-ps3-guitar-hero-1501105494",
+    "preco": 889,
+    "precoRaw": "R$ 889",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "Guitarra PS3 Guitar Hero",
     "ts": 1778518211
   },
   {
@@ -9908,25 +9927,5 @@
     "tempoOlx": "Na OLX desde julho de 2021",
     "titulo": "Kit the last of us 1 e 2 ps 4",
     "ts": 1778460071
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:41",
-    "fotoUrl": "https://img.olx.com.br/images/41/414637406421072.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/414637406421072.jpg",
-      "https://img.olx.com.br/images/42/429633527909993.jpg",
-      "https://img.olx.com.br/images/44/448678888912293.jpg"
-    ],
-    "id": "1500968002",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/spiderman-ps4-ps5-1500968002",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2019",
-    "titulo": "SPIDERMAN PS4/PS5",
-    "ts": 1778460061
   }
 ]
