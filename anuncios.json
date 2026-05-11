@@ -1,22 +1,45 @@
 [
   {
-    "id": "1501192159",
-    "titulo": "Xbox series S ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "xbox",
+    "id": "1501191887",
+    "titulo": "Caixa vazia Playstation 5 VAZIA ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:02",
-    "tempoOlx": "Na OLX desde julho de 2025",
+    "detectado": "18:03",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1501192159",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-vazia-playstation-5-vazia-1501191887",
+    "fotoUrl": "https://img.olx.com.br/images/53/531606880871721.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/531606880871721.jpg",
+      "https://img.olx.com.br/images/56/560686881432371.jpg",
+      "https://img.olx.com.br/images/57/575638522945262.jpg",
+      "https://img.olx.com.br/images/59/594630640580631.jpg",
+      "https://img.olx.com.br/images/61/612627409788365.jpg",
+      "https://img.olx.com.br/images/63/633626522643677.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778533418
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:02",
     "fotoUrl": "https://img.olx.com.br/images/94/940660287290851.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/940660287290851.jpg",
       "https://img.olx.com.br/images/95/950654883225265.jpg",
       "https://img.olx.com.br/images/95/958608760594832.jpg"
     ],
-    "defeito": false,
+    "id": "1501192159",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1501192159",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "titulo": "Xbox series S ",
     "ts": 1778533327
   },
   {
@@ -9931,26 +9954,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Death Stranding ",
     "ts": 1778504164
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:55",
-    "fotoUrl": "https://img.olx.com.br/images/84/840646761054655.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/840646761054655.jpg",
-      "https://img.olx.com.br/images/85/851682760304689.jpg",
-      "https://img.olx.com.br/images/86/860692161847420.jpg",
-      "https://img.olx.com.br/images/88/885664760367684.jpg"
-    ],
-    "id": "1501024677",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-com-2-manetes-e-varios-jogos-1501024677",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "PlayStation 4 com 2 manetes e vários jogos ",
-    "ts": 1778504153
   }
 ]
