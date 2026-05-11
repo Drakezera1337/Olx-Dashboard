@@ -1,22 +1,43 @@
 [
   {
-    "id": "1500977450",
-    "titulo": "Ps3 no estado",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "ps3",
+    "id": "1500970664",
+    "titulo": "PS4 Slim",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:47",
-    "tempoOlx": "Na OLX desde fevereiro de 2013",
+    "detectado": "22:48",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-no-estado-1500977450",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1500970664",
+    "fotoUrl": "https://img.olx.com.br/images/90/909688521240172.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/909688521240172.jpg",
+      "https://img.olx.com.br/images/92/923615646838932.jpg",
+      "https://img.olx.com.br/images/93/930690640353753.jpg",
+      "https://img.olx.com.br/images/95/958620524270183.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778464121
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:47",
     "fotoUrl": "https://img.olx.com.br/images/20/202621165302687.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/202621165302687.jpg",
       "https://img.olx.com.br/images/29/294620285233920.jpg",
       "https://img.olx.com.br/images/39/399642162227286.jpg"
     ],
-    "defeito": false,
+    "id": "1500977450",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-no-estado-1500977450",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2013",
+    "titulo": "Ps3 no estado",
     "ts": 1778464063
   },
   {
@@ -9805,26 +9826,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Watch Dogs PS4 - Mídia Física Original",
     "ts": 1778424127
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:41",
-    "fotoUrl": "https://img.olx.com.br/images/39/399568930014240.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/399568930014240.jpg",
-      "https://img.olx.com.br/images/40/405522456955051.jpg",
-      "https://img.olx.com.br/images/41/411570810939729.jpg",
-      "https://img.olx.com.br/images/62/627505346559958.jpg"
-    ],
-    "id": "1449184249",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/tampa-de-console-ps5-ghost-of-yotei-1449184249",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Tampa de console PS5 Ghost of Yotei",
-    "ts": 1778424069
   }
 ]
