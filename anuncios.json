@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501024677",
-    "titulo": "PlayStation 4 com 2 manetes e vários jogos ",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "ps4",
+    "id": "1475972553",
+    "titulo": "Death Stranding ",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "09:55",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "09:56",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-com-2-manetes-e-varios-jogos-1501024677",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/death-stranding-1475972553",
+    "fotoUrl": "https://img.olx.com.br/images/96/961626139606979.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/961626139606979.jpg",
+      "https://img.olx.com.br/images/98/982641496141323.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778504164
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:55",
     "fotoUrl": "https://img.olx.com.br/images/84/840646761054655.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/840646761054655.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/86/860692161847420.jpg",
       "https://img.olx.com.br/images/88/885664760367684.jpg"
     ],
-    "defeito": false,
+    "id": "1501024677",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-com-2-manetes-e-varios-jogos-1501024677",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PlayStation 4 com 2 manetes e vários jogos ",
     "ts": 1778504153
   },
   {
@@ -9832,26 +9851,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Jogos de ps4",
     "ts": 1778434910
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:41",
-    "fotoUrl": "https://img.olx.com.br/images/63/637608284978862.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/637608284978862.jpg",
-      "https://img.olx.com.br/images/65/656699044653793.jpg",
-      "https://img.olx.com.br/images/68/680651167267428.jpg",
-      "https://img.olx.com.br/images/70/708689042830743.jpg"
-    ],
-    "id": "1500906502",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-no-man-s-sky-ps4-original-midia-fisica-1500906502",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Jogo No Man?s Sky PS4 Original Mídia Física",
-    "ts": 1778434902
   }
 ]
