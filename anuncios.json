@@ -1,20 +1,40 @@
 [
   {
-    "id": "1501234833",
-    "titulo": "PS5 usado com defeito",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "ps5",
+    "id": "1501237723",
+    "titulo": "F1 2024 PS4",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:50",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "detectado": "20:53",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-usado-com-defeito-1501234833",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/f1-2024-ps4-1501237723",
+    "fotoUrl": "https://img.olx.com.br/images/32/322668648265981.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/322668648265981.jpg",
+      "https://img.olx.com.br/images/33/338637884548841.jpg",
+      "https://img.olx.com.br/images/34/344636288409554.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778543588
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:50",
     "fotoUrl": "https://img.olx.com.br/images/56/568697881942988.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/568697881942988.jpg"
     ],
-    "defeito": false,
+    "id": "1501234833",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-usado-com-defeito-1501234833",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "PS5 usado com defeito",
     "ts": 1778543406
   },
   {
@@ -9847,26 +9867,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": "PS5 FAT DIGITAL - Negociavel",
     "ts": 1778513092
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:22",
-    "fotoUrl": "https://img.olx.com.br/images/95/958580675113211.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/958580675113211.jpg",
-      "https://img.olx.com.br/images/16/166543192641750.jpg",
-      "https://img.olx.com.br/images/22/222586311681126.jpg",
-      "https://img.olx.com.br/images/29/292551310335302.jpg"
-    ],
-    "id": "1432049292",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/jogo-monster-hunter-frontie-g-8-psvita-1432049292",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "Jogo Monster Hunter Frontie G 8 Psvita ",
-    "ts": 1778512967
   }
 ]
