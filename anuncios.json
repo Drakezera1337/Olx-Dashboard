@@ -1,15 +1,31 @@
 [
   {
-    "id": "1501229800",
-    "titulo": "XBOX SERIE S NOVISSIMO !!!",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1501230141",
+    "titulo": "PlayStation 4 slim, 500gb atualizado!!",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:18",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "20:20",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/xbox-serie-s-novissimo-1501229800",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-atualizado-1501230141",
+    "fotoUrl": "https://img.olx.com.br/images/67/677622161411376.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/677622161411376.jpg",
+      "https://img.olx.com.br/images/68/682650160164253.jpg",
+      "https://img.olx.com.br/images/69/699669047478533.jpg",
+      "https://img.olx.com.br/images/70/709602529298229.jpg",
+      "https://img.olx.com.br/images/71/718689047812581.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778541606
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:18",
     "fotoUrl": "https://img.olx.com.br/images/24/242637403878575.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/242637403878575.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/23/232665287862691.jpg",
       "https://img.olx.com.br/images/23/234678401200997.jpg"
     ],
-    "defeito": false,
+    "id": "1501229800",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/xbox-serie-s-novissimo-1501229800",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "XBOX SERIE S NOVISSIMO !!!",
     "ts": 1778541487
   },
   {
@@ -9858,24 +9880,5 @@
     "tempoOlx": "Na OLX desde abril de 2023",
     "titulo": "Nintendo Game & Watch",
     "ts": 1778511485
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:57",
-    "fotoUrl": "https://img.olx.com.br/images/47/478605272412892.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/478605272412892.jpg",
-      "https://img.olx.com.br/images/50/508629399305172.jpg"
-    ],
-    "id": "1495437542",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/no-more-heroes-3-nintendo-switch-top-1495437542",
-    "preco": 189,
-    "precoRaw": "R$ 189",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "No More Heroes 3 Nintendo Switch top",
-    "ts": 1778511458
   }
 ]
