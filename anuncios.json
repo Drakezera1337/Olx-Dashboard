@@ -1,20 +1,38 @@
 [
   {
-    "id": "1473592733",
+    "id": "1473592908",
     "titulo": "Jogo PS4 ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:39",
+    "detectado": "12:40",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-ps4-1473592733",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-ps4-1473592908",
+    "fotoUrl": "https://img.olx.com.br/images/84/847646242480354.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/847646242480354.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778514007
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:39",
     "fotoUrl": "https://img.olx.com.br/images/51/513621603056361.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/513621603056361.jpg"
     ],
-    "defeito": false,
+    "id": "1473592733",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-ps4-1473592733",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jogo PS4 ",
     "ts": 1778513986
   },
   {
@@ -9873,27 +9891,5 @@
     "tempoOlx": "Na OLX desde agosto de 2016",
     "titulo": "Playstation 3 PS3 Super Slim com defeito (Liga e dá imagem)",
     "ts": 1778450832
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:55",
-    "fotoUrl": "https://img.olx.com.br/images/96/960623283084250.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/960623283084250.jpg",
-      "https://img.olx.com.br/images/98/982625407277226.jpg",
-      "https://img.olx.com.br/images/10/102698400291830.jpg",
-      "https://img.olx.com.br/images/12/125659646909887.jpg",
-      "https://img.olx.com.br/images/72/722607528558530.jpg"
-    ],
-    "id": "1500944053",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-perfeito-estado-1500944053",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "iPhone XR perfeito estado ",
-    "ts": 1778450141
   }
 ]
