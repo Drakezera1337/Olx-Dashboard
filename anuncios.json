@@ -1,20 +1,38 @@
 [
   {
-    "id": "1498560590",
-    "titulo": "Playstation 5",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "categoria": "ps5",
+    "id": "1501100869",
+    "titulo": "Call of Duty Black Ops 4 Playstation 4 (Ps4)",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:27",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "detectado": "13:31",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1498560590",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-4-playstation-4-ps4-1501100869",
+    "fotoUrl": "https://img.olx.com.br/images/53/534640047761053.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/534640047761053.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778517070
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:27",
     "fotoUrl": "https://img.olx.com.br/images/59/594688285878600.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/594688285878600.jpg"
     ],
-    "defeito": false,
+    "id": "1498560590",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1498560590",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Playstation 5",
     "ts": 1778516864
   },
   {
@@ -9898,23 +9916,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Vendo jogos de Playstation 4. Falar com Gustavo no ZAP *.",
     "ts": 1778455766
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:29",
-    "fotoUrl": "https://img.olx.com.br/images/45/456624644455172.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/456624644455172.jpg"
-    ],
-    "id": "1500957145",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-1500957145",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2023",
-    "titulo": "PS4 ",
-    "ts": 1778455758
   }
 ]
