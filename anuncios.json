@@ -1,15 +1,32 @@
 [
   {
-    "id": "1501082188",
-    "titulo": "PS5 FAT DIGITAL - Negociavel",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1501079487",
+    "titulo": "IPHONE 14 AZUL 128GB",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "12:24",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "detectado": "12:25",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps5-fat-digital-negociavel-1501082188",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-azul-128gb-1501079487",
+    "fotoUrl": "https://img.olx.com.br/images/41/413638883467932.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/413638883467932.jpg",
+      "https://img.olx.com.br/images/42/427607767448439.jpg",
+      "https://img.olx.com.br/images/44/445638288343854.jpg",
+      "https://img.olx.com.br/images/45/458654041352751.jpg",
+      "https://img.olx.com.br/images/46/468684285342086.jpg",
+      "https://img.olx.com.br/images/47/474647402651119.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778513119
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:24",
     "fotoUrl": "https://img.olx.com.br/images/19/196617888180862.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/196617888180862.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/21/216698164892811.jpg",
       "https://img.olx.com.br/images/22/228649160789425.jpg"
     ],
-    "defeito": false,
+    "id": "1501082188",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps5-fat-digital-negociavel-1501082188",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "PS5 FAT DIGITAL - Negociavel",
     "ts": 1778513092
   },
   {
@@ -9885,25 +9908,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "? iPhone 16 Pro Max disponível!",
     "ts": 1778449270
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:40",
-    "fotoUrl": "https://img.olx.com.br/images/70/702690289566900.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/702690289566900.jpg",
-      "https://img.olx.com.br/images/42/421657886474882.jpg",
-      "https://img.olx.com.br/images/47/474607641269633.jpg"
-    ],
-    "id": "1499023283",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-14-128gb-1499023283",
-    "preco": 2670,
-    "precoRaw": "R$ 2.670",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2019",
-    "titulo": "Apple Iphone 14 128GB",
-    "ts": 1778449250
   }
 ]
