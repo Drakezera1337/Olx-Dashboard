@@ -1,22 +1,40 @@
 [
   {
-    "id": "1501162835",
-    "titulo": "PlayStation 5 slim mídia física ",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "categoria": "ps5",
+    "id": "1501164566",
+    "titulo": "Jogos de ps4 ",
+    "preco": 79,
+    "precoRaw": "R$ 79",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:16",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "detectado": "17:21",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/playstation-5-slim-midia-fisica-1501162835",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogos-de-ps4-1501164566",
+    "fotoUrl": "https://img.olx.com.br/images/47/475609281942560.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/475609281942560.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778530896
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:16",
     "fotoUrl": "https://img.olx.com.br/images/11/118676169993571.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/118676169993571.jpg",
       "https://img.olx.com.br/images/13/137648767362982.jpg",
       "https://img.olx.com.br/images/15/158677883563563.jpg"
     ],
-    "defeito": false,
+    "id": "1501162835",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/playstation-5-slim-midia-fisica-1501162835",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "PlayStation 5 slim mídia física ",
     "ts": 1778530562
   },
   {
@@ -9920,25 +9938,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Playstation 4 Slim 500GB + 7 jogos mídia física",
     "ts": 1778503793
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:49",
-    "fotoUrl": "https://img.olx.com.br/images/98/988438352760359.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/988438352760359.jpg",
-      "https://img.olx.com.br/images/98/984497830026096.jpg",
-      "https://img.olx.com.br/images/98/987411472821456.jpg"
-    ],
-    "id": "1363637387",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-for-honor-ps4-1363637387",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2022",
-    "titulo": "Jogo For Honor PS4 ",
-    "ts": 1778503782
   }
 ]
