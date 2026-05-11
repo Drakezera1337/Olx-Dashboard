@@ -1,15 +1,32 @@
 [
   {
-    "id": "1492116332",
-    "titulo": "Playstation 3 slim com defeito ler descrição ",
-    "preco": 380,
-    "precoRaw": "R$ 380",
+    "id": "1492133125",
+    "titulo": "PS3 slim não liga nada ",
+    "preco": 370,
+    "precoRaw": "R$ 370",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "11:50",
     "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-slim-com-defeito-ler-descricao-1492116332",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-nao-liga-nada-1492133125",
+    "fotoUrl": "https://img.olx.com.br/images/78/785675271222789.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/785675271222789.jpg",
+      "https://img.olx.com.br/images/79/795688876609332.jpg",
+      "https://img.olx.com.br/images/80/801607636037686.jpg",
+      "https://img.olx.com.br/images/82/828618631222191.jpg",
+      "https://img.olx.com.br/images/83/831635632332817.jpg",
+      "https://img.olx.com.br/images/84/845691156442542.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778511042
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:50",
     "fotoUrl": "https://img.olx.com.br/images/68/688656514714331.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/688656514714331.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/73/730617036197819.jpg",
       "https://img.olx.com.br/images/74/743654278507819.jpg"
     ],
-    "defeito": false,
+    "id": "1492116332",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-slim-com-defeito-ler-descricao-1492116332",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Playstation 3 slim com defeito ler descrição ",
     "ts": 1778511031
   },
   {
@@ -9829,25 +9852,5 @@
     "tempoOlx": "Na OLX desde julho de 2017",
     "titulo": "Injustice Gods Among Us Ps4 ",
     "ts": 1778443671
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:07",
-    "fotoUrl": "https://img.olx.com.br/images/70/703608642086590.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/703608642086590.jpg",
-      "https://img.olx.com.br/images/71/710662289145974.jpg",
-      "https://img.olx.com.br/images/72/723654048672512.jpg"
-    ],
-    "id": "1500923947",
-    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/jogo-de-ps4-call-of-duty-ww2-1500923947",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2022",
-    "titulo": "Jogo de ps4. Call of duty WW2",
-    "ts": 1778443661
   }
 ]
