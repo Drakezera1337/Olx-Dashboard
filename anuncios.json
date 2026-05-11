@@ -1,20 +1,41 @@
 [
   {
-    "id": "1501159333",
-    "titulo": "Call Of Duty ( NOVO LACRADO )",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1501158960",
+    "titulo": "Horizon",
+    "preco": 65,
+    "precoRaw": "R$ 65",
     "categoria": "jogos",
     "publicado": "",
-    "detectado": "16:58",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "16:59",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-novo-lacrado-1501159333",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/horizon-1501158960",
+    "fotoUrl": "https://img.olx.com.br/images/71/718660281910444.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/718660281910444.jpg",
+      "https://img.olx.com.br/images/73/731672165720730.jpg",
+      "https://img.olx.com.br/images/75/750670281212867.jpg",
+      "https://img.olx.com.br/images/77/775602880699726.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778529540
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:58",
     "fotoUrl": "https://img.olx.com.br/images/92/920692409501337.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/920692409501337.jpg"
     ],
-    "defeito": false,
+    "id": "1501159333",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-novo-lacrado-1501159333",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Call Of Duty ( NOVO LACRADO )",
     "ts": 1778529528
   },
   {
@@ -9933,26 +9954,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Ps4 slim",
     "ts": 1778503655
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:47",
-    "fotoUrl": "https://img.olx.com.br/images/11/111689167162326.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/111689167162326.jpg",
-      "https://img.olx.com.br/images/12/120667163877604.jpg",
-      "https://img.olx.com.br/images/13/135609044804964.jpg",
-      "https://img.olx.com.br/images/14/145659766189708.jpg"
-    ],
-    "id": "1501032261",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-2-slim-desbloqueado-1501032261",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "PLAYSTATION 2 SLIM DESBLOQUEADO ",
-    "ts": 1778503645
   }
 ]
