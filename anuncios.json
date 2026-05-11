@@ -1,21 +1,60 @@
 [
   {
-    "id": "1501046416",
-    "titulo": "Apple iPhone 11 Pro 64GB",
-    "preco": 1599,
-    "precoRaw": "R$ 1.599",
-    "categoria": "iphone",
+    "id": "1501038825",
+    "titulo": "PS4 FAT / 1TB",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:39",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "tempoOlx": "Na OLX desde outubro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-11-pro-64gb-1501046416",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/ps4-fat-1tb-1501038825",
+    "fotoUrl": "https://img.olx.com.br/images/60/602656281996494.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/602656281996494.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778510362
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
+    "fotoUrl": "https://img.olx.com.br/images/97/971642883316509.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/971642883316509.jpg",
+      "https://img.olx.com.br/images/98/982671408371799.jpg",
+      "https://img.olx.com.br/images/99/996697520252514.jpg",
+      "https://img.olx.com.br/images/99/995607284232915.jpg"
+    ],
+    "id": "1501055873",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/combo-gamer-ps4-1501055873",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Combo gamer ps4!",
+    "ts": 1778510355
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
     "fotoUrl": "https://img.olx.com.br/images/42/424626525560678.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/424626525560678.jpg",
       "https://img.olx.com.br/images/44/446643760849376.jpg"
     ],
-    "defeito": false,
+    "id": "1501046416",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-11-pro-64gb-1501046416",
+    "preco": 1599,
+    "precoRaw": "R$ 1.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "Apple iPhone 11 Pro 64GB",
     "ts": 1778510354
   },
   {
@@ -9820,47 +9859,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "Jogo  de video game para PS4",
     "ts": 1778436435
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:02",
-    "fotoUrl": "https://img.olx.com.br/images/74/743650042369946.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/743650042369946.jpg",
-      "https://img.olx.com.br/images/79/797600403029253.jpg"
-    ],
-    "id": "1500909216",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-slim-1-tb-acompanha-jogos-1500909216",
-    "preco": 980,
-    "precoRaw": "R$ 980",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2018",
-    "titulo": "PS4 Slim 1 TB - Acompanha Jogos",
-    "ts": 1778436134
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:01",
-    "fotoUrl": "https://img.olx.com.br/images/35/359639494248041.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/359639494248041.jpg",
-      "https://img.olx.com.br/images/36/364621372358422.jpg",
-      "https://img.olx.com.br/images/38/380608378397332.jpg",
-      "https://img.olx.com.br/images/39/397617735349295.jpg",
-      "https://img.olx.com.br/images/41/414629257519092.jpg",
-      "https://img.olx.com.br/images/42/426696738181502.jpg"
-    ],
-    "id": "1479263724",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ratched-clank-the-game-limited-edition-1479263724",
-    "preco": 599,
-    "precoRaw": "R$ 599",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
-    "titulo": "Ratched & Clank The Game - Limited Edition",
-    "ts": 1778436074
   }
 ]
