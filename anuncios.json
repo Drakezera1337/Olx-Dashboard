@@ -1,20 +1,40 @@
 [
   {
-    "id": "1495138730",
-    "titulo": "Vendo Xbox series S",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
+    "id": "1478834241",
+    "titulo": "Xbox Séries S 512G",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "13:40",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "13:41",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-xbox-series-s-1495138730",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-512g-1478834241",
+    "fotoUrl": "https://img.olx.com.br/images/45/453633732630725.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/453633732630725.jpg",
+      "https://img.olx.com.br/images/47/476624010580508.jpg",
+      "https://img.olx.com.br/images/50/508664012934308.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778517668
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:40",
     "fotoUrl": "https://img.olx.com.br/images/91/915666151077270.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/915666151077270.jpg"
     ],
-    "defeito": false,
+    "id": "1495138730",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-xbox-series-s-1495138730",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Vendo Xbox series S",
     "ts": 1778517636
   },
   {
@@ -9906,24 +9926,5 @@
     "tempoOlx": "Na OLX desde outubro de 2016",
     "titulo": "iPhone 17 Pro Max 256GB - Cinza (Lacrado)",
     "ts": 1778458629
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:16",
-    "fotoUrl": "https://img.olx.com.br/images/90/908683764154868.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/908683764154868.jpg",
-      "https://img.olx.com.br/images/92/920661768373014.jpg"
-    ],
-    "id": "1500964998",
-    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/play4-1tb-1500964998",
-    "preco": 1550,
-    "precoRaw": "R$ 1.550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2024",
-    "titulo": "Play4 1Tb",
-    "ts": 1778458610
   }
 ]
