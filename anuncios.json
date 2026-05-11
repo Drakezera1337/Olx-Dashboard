@@ -1,20 +1,39 @@
 [
   {
-    "id": "1501079701",
-    "titulo": "Vendo ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1501068682",
+    "titulo": "Switch OLED",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "12:32",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "12:34",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps4-1501079701",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/switch-oled-1501068682",
+    "fotoUrl": "https://img.olx.com.br/images/41/413695648457629.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/413695648457629.jpg",
+      "https://img.olx.com.br/images/43/434638165686542.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778513666
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:32",
     "fotoUrl": "https://img.olx.com.br/images/96/962650283610477.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/962650283610477.jpg"
     ],
-    "defeito": false,
+    "id": "1501079701",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps4-1501079701",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Vendo ps4",
     "ts": 1778513564
   },
   {
@@ -9896,25 +9915,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2018",
     "titulo": "iPhone 12 - 64GB",
     "ts": 1778449640
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:47",
-    "fotoUrl": "https://img.olx.com.br/images/44/442648887806871.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/442648887806871.jpg",
-      "https://img.olx.com.br/images/45/454682044160759.jpg",
-      "https://img.olx.com.br/images/46/463631406009725.jpg"
-    ],
-    "id": "1498825919",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-1498825919",
-    "preco": 7000,
-    "precoRaw": "R$ 7.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2017",
-    "titulo": "iPhone 16 Pro Max ",
-    "ts": 1778449630
   }
 ]
