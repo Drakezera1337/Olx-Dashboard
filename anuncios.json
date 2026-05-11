@@ -1,15 +1,27 @@
 [
   {
-    "id": "1501158960",
-    "titulo": "Horizon",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "jogos",
+    "id": "1501135521",
+    "titulo": "Diablo 3 PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:59",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/horizon-1501158960",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/diablo-3-ps4-1501135521",
+    "fotoUrl": "https://img.olx.com.br/images/52/529677282037822.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/529677282037822.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778529548
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:59",
     "fotoUrl": "https://img.olx.com.br/images/71/718660281910444.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/718660281910444.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/75/750670281212867.jpg",
       "https://img.olx.com.br/images/77/775602880699726.jpg"
     ],
-    "defeito": false,
+    "id": "1501158960",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/horizon-1501158960",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "Horizon",
     "ts": 1778529540
   },
   {
@@ -9933,26 +9951,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": "Vendo ps 4 slim 500 gb",
     "ts": 1778503662
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:47",
-    "fotoUrl": "https://img.olx.com.br/images/91/916672764937834.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/916672764937834.jpg",
-      "https://img.olx.com.br/images/93/934606526625648.jpg",
-      "https://img.olx.com.br/images/95/957606520435068.jpg",
-      "https://img.olx.com.br/images/96/962684527881426.jpg"
-    ],
-    "id": "1501020642",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-slim-1501020642",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Ps4 slim",
-    "ts": 1778503655
   }
 ]
