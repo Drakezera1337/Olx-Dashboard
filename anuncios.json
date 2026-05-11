@@ -1,15 +1,27 @@
 [
   {
-    "id": "1501116345",
-    "titulo": "iPhone 14 PRO",
-    "preco": 3600,
-    "precoRaw": "R$ 3.600",
-    "categoria": "iphone",
+    "id": "1491510993",
+    "titulo": "10 jogos ps3",
+    "preco": 370,
+    "precoRaw": "R$ 370",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "14:34",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "detectado": "14:38",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-1501116345",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/10-jogos-ps3-1491510993",
+    "fotoUrl": "https://img.olx.com.br/images/94/942613154004536.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/942613154004536.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778521090
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:34",
     "fotoUrl": "https://img.olx.com.br/images/35/352689643992145.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/352689643992145.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/38/385672167074334.jpg",
       "https://img.olx.com.br/images/40/401621526902889.jpg"
     ],
-    "defeito": false,
+    "id": "1501116345",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-1501116345",
+    "preco": 3600,
+    "precoRaw": "R$ 3.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "iPhone 14 PRO",
     "ts": 1778520879
   },
   {
@@ -9920,24 +9938,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Jogo Spider Man Ps4",
     "ts": 1778462614
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:23",
-    "fotoUrl": "https://img.olx.com.br/images/88/883690766590732.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/883690766590732.jpg",
-      "https://img.olx.com.br/images/91/912668288598039.jpg"
-    ],
-    "id": "1500966386",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/jogo-the-last-of-us-blue-label-1500966386",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Jogo The Last Of Us (Blue Label)",
-    "ts": 1778462603
   }
 ]
