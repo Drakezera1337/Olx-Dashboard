@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498519397",
-    "titulo": "Nintendo Switch Lite",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "categoria": "switch",
+    "id": "1498362680",
+    "titulo": "Game Strik 4k Ultra HD",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:53",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "tempoOlx": "Na OLX desde outubro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-lite-1498519397",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/game-strik-4k-ultra-hd-1498362680",
+    "fotoUrl": "https://img.olx.com.br/images/69/694649519934064.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/694649519934064.jpg",
+      "https://img.olx.com.br/images/71/715607152646393.jpg",
+      "https://img.olx.com.br/images/23/230607278372364.jpg",
+      "https://img.olx.com.br/images/25/251661391309963.jpg",
+      "https://img.olx.com.br/images/27/270664150188276.jpg",
+      "https://img.olx.com.br/images/30/308661391577386.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778511238
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:53",
     "fotoUrl": "https://img.olx.com.br/images/48/488616884227055.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/488616884227055.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/53/530662166067823.jpg",
       "https://img.olx.com.br/images/54/542629765354398.jpg"
     ],
-    "defeito": false,
+    "id": "1498519397",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-lite-1498519397",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "Nintendo Switch Lite",
     "ts": 1778511231
   },
   {
@@ -9847,23 +9870,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "Jogos de PS4",
     "ts": 1778445427
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:36",
-    "fotoUrl": "https://img.olx.com.br/images/22/225664161087528.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/225664161087528.jpg"
-    ],
-    "id": "1500927568",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-de-jogos-ps4-e-ps5-1500927568",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
-    "titulo": "Lote de jogos ps4 e ps5",
-    "ts": 1778445415
   }
 ]
