@@ -1,21 +1,41 @@
 [
   {
-    "id": "1501110907",
-    "titulo": "Xbox",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1398011464",
+    "titulo": "Jogo Deus Ex Mankid Divideo Ps4 Novo",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:12",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "14:19",
+    "tempoOlx": "Na OLX desde maio de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-1501110907",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-deus-ex-mankid-divideo-ps4-novo-1398011464",
+    "fotoUrl": "https://img.olx.com.br/images/10/102550756990127.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/102550756990127.jpg",
+      "https://img.olx.com.br/images/18/185577634662802.jpg",
+      "https://img.olx.com.br/images/28/281504275987612.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778519969
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:12",
     "fotoUrl": "https://img.olx.com.br/images/91/915689769385272.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/915689769385272.jpg",
       "https://img.olx.com.br/images/96/968635163967148.jpg"
     ],
-    "defeito": false,
+    "id": "1501110907",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-1501110907",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Xbox",
     "ts": 1778519567
   },
   {
@@ -9916,24 +9936,5 @@
     "tempoOlx": "Na OLX desde março de 2016",
     "titulo": "Ps4 modelo chinês ",
     "ts": 1778460969
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:55",
-    "fotoUrl": "https://img.olx.com.br/images/15/151620400409270.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/151620400409270.jpg",
-      "https://img.olx.com.br/images/15/154600167594653.jpg"
-    ],
-    "id": "1500969353",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/video-game-ps3-1500969353",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "Vídeo game Ps3 ",
-    "ts": 1778460938
   }
 ]
