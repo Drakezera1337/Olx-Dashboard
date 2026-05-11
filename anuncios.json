@@ -1,20 +1,38 @@
 [
   {
-    "id": "1501093492",
-    "titulo": "Ps4",
-    "preco": 850,
-    "precoRaw": "R$ 850",
+    "id": "1501093061",
+    "titulo": "PS4 FAT com defeito",
+    "preco": 450,
+    "precoRaw": "R$ 450",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:04",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "detectado": "13:05",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1501093492",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-fat-com-defeito-1501093061",
+    "fotoUrl": "https://img.olx.com.br/images/63/632631406777477.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/632631406777477.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778515509
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:04",
     "fotoUrl": "https://img.olx.com.br/images/20/201654044328106.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/201654044328106.jpg"
     ],
-    "defeito": false,
+    "id": "1501093492",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1501093492",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "Ps4",
     "ts": 1778515476
   },
   {
@@ -9888,25 +9906,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Playstation 3 fat com defeito ",
     "ts": 1778454490
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:06",
-    "fotoUrl": "https://img.olx.com.br/images/70/703668766971348.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/703668766971348.jpg",
-      "https://img.olx.com.br/images/71/716687404853932.jpg",
-      "https://img.olx.com.br/images/73/737621646287255.jpg"
-    ],
-    "id": "1500953481",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-leia-a-descricao-1500953481",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Ps3 slim leia a descrição",
-    "ts": 1778454384
   }
 ]
