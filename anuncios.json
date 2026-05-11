@@ -1,22 +1,42 @@
 [
   {
-    "id": "1498076616",
-    "titulo": "Vendo Xbox one",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "xbox",
+    "id": "1497777662",
+    "titulo": "Vendo Ps4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:32",
-    "tempoOlx": "Na OLX desde agosto de 2014",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-xbox-one-1498076616",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ps4-1497777662",
+    "fotoUrl": "https://img.olx.com.br/images/58/588684271497790.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/588684271497790.jpg",
+      "https://img.olx.com.br/images/59/591612391541622.jpg",
+      "https://img.olx.com.br/images/60/604661156273998.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778517155
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:32",
     "fotoUrl": "https://img.olx.com.br/images/85/856611274970580.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/856611274970580.jpg",
       "https://img.olx.com.br/images/86/869692753773215.jpg",
       "https://img.olx.com.br/images/87/873640153720399.jpg"
     ],
-    "defeito": false,
+    "id": "1498076616",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-xbox-one-1498076616",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2014",
+    "titulo": "Vendo Xbox one",
     "ts": 1778517142
   },
   {
@@ -9887,26 +9907,5 @@
     "tempoOlx": "Na OLX desde novembro de 2019",
     "titulo": "days gone PS5/PS5",
     "ts": 1778457159
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:51",
-    "fotoUrl": "https://img.olx.com.br/images/21/218672400179102.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/218672400179102.jpg",
-      "https://img.olx.com.br/images/22/220617406694373.jpg",
-      "https://img.olx.com.br/images/23/234608163886698.jpg",
-      "https://img.olx.com.br/images/24/246669285654604.jpg"
-    ],
-    "id": "1500843746",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1500843746",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "ps5",
-    "ts": 1778457068
   }
 ]
