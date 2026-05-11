@@ -1,15 +1,27 @@
 [
   {
-    "id": "1475818623",
-    "titulo": "uncharted do 1 ao 4",
-    "preco": 175,
-    "precoRaw": "R$ 175",
-    "categoria": "jogos",
+    "id": "1477060824",
+    "titulo": "Sony PlayStation PSVR2 ",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:43",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "detectado": "13:44",
+    "tempoOlx": "Na OLX desde julho de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-do-1-ao-4-1475818623",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/sony-playstation-psvr2-1477060824",
+    "fotoUrl": "https://img.olx.com.br/images/10/107665257104520.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/107665257104520.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778517850
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:43",
     "fotoUrl": "https://img.olx.com.br/images/88/883636495305256.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/883636495305256.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/94/943657252559138.jpg",
       "https://img.olx.com.br/images/95/958621491854853.jpg"
     ],
-    "defeito": false,
+    "id": "1475818623",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-do-1-ao-4-1475818623",
+    "preco": 175,
+    "precoRaw": "R$ 175",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "uncharted do 1 ao 4",
     "ts": 1778517811
   },
   {
@@ -9911,25 +9929,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "Greedfall (Japonês) | PS4 | Original | Usado |",
     "ts": 1778459320
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:28",
-    "fotoUrl": "https://img.olx.com.br/images/74/748518435712105.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/748518435712105.jpg",
-      "https://img.olx.com.br/images/74/748557559519664.jpg",
-      "https://img.olx.com.br/images/74/742576550732013.jpg"
-    ],
-    "id": "1432805850",
-    "link": "https://to.olx.com.br/tocantins/games/consoles-de-video-game/dock-nintendo-switch-1432805850",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2023",
-    "titulo": "Dock Nintendo switch",
-    "ts": 1778459289
   }
 ]
