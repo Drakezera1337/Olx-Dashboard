@@ -1,20 +1,40 @@
 [
   {
-    "id": "1500977543",
-    "titulo": "Jogo Call of Duty e Spider-Man",
+    "id": "1500977450",
+    "titulo": "Ps3 no estado",
     "preco": 120,
     "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "22:46",
-    "tempoOlx": "Na OLX desde agosto de 2013",
+    "detectado": "22:47",
+    "tempoOlx": "Na OLX desde fevereiro de 2013",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogo-call-of-duty-e-spider-man-1500977543",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-no-estado-1500977450",
+    "fotoUrl": "https://img.olx.com.br/images/20/202621165302687.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/202621165302687.jpg",
+      "https://img.olx.com.br/images/29/294620285233920.jpg",
+      "https://img.olx.com.br/images/39/399642162227286.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778464063
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:46",
     "fotoUrl": "https://img.olx.com.br/images/96/961686764740943.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/961686764740943.jpg"
     ],
-    "defeito": false,
+    "id": "1500977543",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogo-call-of-duty-e-spider-man-1500977543",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2013",
+    "titulo": "Jogo Call of Duty e Spider-Man",
     "ts": 1778464004
   },
   {
@@ -9806,28 +9826,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Tampa de console PS5 Ghost of Yotei",
     "ts": 1778424069
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:39",
-    "fotoUrl": "https://img.olx.com.br/images/16/161615882140238.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/161615882140238.jpg",
-      "https://img.olx.com.br/images/17/172687763543910.jpg",
-      "https://img.olx.com.br/images/19/194698649260842.jpg",
-      "https://img.olx.com.br/images/21/212613163932276.jpg",
-      "https://img.olx.com.br/images/22/225657525342857.jpg",
-      "https://img.olx.com.br/images/24/245663522619873.jpg"
-    ],
-    "id": "1500879424",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/nintendo-switch-lite-1500879424",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Nintendo Switch Lite",
-    "ts": 1778423948
   }
 ]
