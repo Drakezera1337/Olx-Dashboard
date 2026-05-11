@@ -1,15 +1,29 @@
 [
   {
-    "id": "1500984783",
-    "titulo": "Sony PlayStation 3 Slim.  C/ defeito não liga",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "categoria": "ps3",
+    "id": "1500514179",
+    "titulo": "PlayStation 4 Fat 1TB de memória ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:11",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "00:16",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/sony-playstation-3-slim-c-defeito-nao-liga-1500984783",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-4-fat-1tb-de-memoria-1500514179",
+    "fotoUrl": "https://img.olx.com.br/images/14/142652522075175.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/142652522075175.jpg",
+      "https://img.olx.com.br/images/16/163629525799650.jpg",
+      "https://img.olx.com.br/images/18/183613764828809.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778469371
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:11",
     "fotoUrl": "https://img.olx.com.br/images/69/691607165966932.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/691607165966932.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/72/721626644186712.jpg",
       "https://img.olx.com.br/images/73/731635163698146.jpg"
     ],
-    "defeito": false,
+    "id": "1500984783",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/sony-playstation-3-slim-c-defeito-nao-liga-1500984783",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Sony PlayStation 3 Slim.  C/ defeito não liga",
     "ts": 1778469111
   },
   {
@@ -9781,24 +9801,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Jogo FIFA 20 PlayStation 4 - Original EA Sports",
     "ts": 1778426998
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:29",
-    "fotoUrl": "https://img.olx.com.br/images/73/737671760967447.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/737671760967447.jpg",
-      "https://img.olx.com.br/images/75/755626287809261.jpg"
-    ],
-    "id": "1500889191",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-completo-7-jogos-fisicos-1500889191",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "PlayStation 4 Slim - 1TB - Completo + 7 Jogos Físicos",
-    "ts": 1778426968
   }
 ]
