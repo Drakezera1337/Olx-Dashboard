@@ -1,22 +1,42 @@
 [
   {
-    "id": "1501203370",
-    "titulo": "Ps3 Slim defeito",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "categoria": "ps3",
+    "id": "1501204382",
+    "titulo": "Ratchet and Clank - Ps4",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:34",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "detectado": "18:35",
+    "tempoOlx": "Na OLX desde novembro de 2023",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps3-slim-defeito-1501203370",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/ratchet-and-clank-ps4-1501204382",
+    "fotoUrl": "https://img.olx.com.br/images/66/665642280201060.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/665642280201060.jpg",
+      "https://img.olx.com.br/images/68/689653527010436.jpg",
+      "https://img.olx.com.br/images/69/692640284392987.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778535336
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:34",
     "fotoUrl": "https://img.olx.com.br/images/66/660633167903797.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/660633167903797.jpg",
       "https://img.olx.com.br/images/68/686669649793685.jpg",
       "https://img.olx.com.br/images/70/706699409384105.jpg"
     ],
-    "defeito": false,
+    "id": "1501203370",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps3-slim-defeito-1501203370",
+    "preco": 230,
+    "precoRaw": "R$ 230",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "Ps3 Slim defeito",
     "ts": 1778535247
   },
   {
@@ -9923,25 +9943,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Vendo ou troco",
     "ts": 1778510491
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:41",
-    "fotoUrl": "https://img.olx.com.br/images/94/946677526613212.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/946677526613212.jpg",
-      "https://img.olx.com.br/images/11/115610167800879.jpg",
-      "https://img.olx.com.br/images/17/175642642393506.jpg"
-    ],
-    "id": "1501064584",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/days-gone-ps4-1501064584",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Days gone PS4",
-    "ts": 1778510485
   }
 ]
