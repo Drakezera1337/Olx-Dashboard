@@ -1,20 +1,38 @@
 [
   {
-    "id": "1500807212",
-    "titulo": "Ps3",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1501207039",
+    "titulo": "Jogos ps4",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:45",
-    "tempoOlx": "Na OLX desde abril de 2025",
+    "detectado": "18:47",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps3-1500807212",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-ps4-1501207039",
+    "fotoUrl": "https://img.olx.com.br/images/99/997601287434389.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/997601287434389.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778536057
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:45",
     "fotoUrl": "https://img.olx.com.br/images/14/146698646398096.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/146698646398096.jpg"
     ],
-    "defeito": false,
+    "id": "1500807212",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps3-1500807212",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "Ps3",
     "ts": 1778535937
   },
   {
@@ -9929,23 +9947,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Jogo Scott Pilgrim Vs The World The Game Complete Edition Limited Run PS4 Completo",
     "ts": 1778510611
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/74/742651882447475.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/742651882447475.jpg"
-    ],
-    "id": "1501060149",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-em-bom-estado-1501060149",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Jogo PS4 em bom estado",
-    "ts": 1778510602
   }
 ]
