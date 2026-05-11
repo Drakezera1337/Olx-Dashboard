@@ -1,21 +1,41 @@
 [
   {
-    "id": "1500992583",
-    "titulo": "GOD OF WAR ",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1500992512",
+    "titulo": "Team Sonic racing ps4 ",
+    "preco": 199,
+    "precoRaw": "R$ 199",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "02:37",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde janeiro de 2014",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/god-of-war-1500992583",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/team-sonic-racing-ps4-1500992512",
+    "fotoUrl": "https://img.olx.com.br/images/12/121620643988492.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/121620643988492.jpg",
+      "https://img.olx.com.br/images/13/136603881890770.jpg",
+      "https://img.olx.com.br/images/15/158621526592203.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778477864
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "02:37",
     "fotoUrl": "https://img.olx.com.br/images/14/149602887065833.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/149602887065833.jpg",
       "https://img.olx.com.br/images/16/167626169162372.jpg"
     ],
-    "defeito": false,
+    "id": "1500992583",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/god-of-war-1500992583",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "GOD OF WAR ",
     "ts": 1778477856
   },
   {
@@ -9790,24 +9810,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Mortal Kombat X (Semi-Novo) - PS4",
     "ts": 1778428893
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:01",
-    "fotoUrl": "https://img.olx.com.br/images/97/977606492248870.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/977606492248870.jpg",
-      "https://img.olx.com.br/images/99/997693134224397.jpg"
-    ],
-    "id": "1474636785",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/resident-evil-7-biohazard-gold-edition-ps4-semi-novo-1474636785",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Resident Evil 7 Biohazard: Gold Edition (PS4) - Semi-Novo",
-    "ts": 1778428880
   }
 ]
