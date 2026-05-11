@@ -1,21 +1,39 @@
 [
   {
-    "id": "1500970360",
-    "titulo": "God of War",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1500971951",
+    "titulo": "God of war ps4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:05",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "detectado": "22:10",
+    "tempoOlx": "Na OLX desde março de 2023",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/god-of-war-1500970360",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-ps4-1500971951",
+    "fotoUrl": "https://img.olx.com.br/images/26/261640049789248.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/261640049789248.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778461839
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:05",
     "fotoUrl": "https://img.olx.com.br/images/33/334677527303065.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/334677527303065.jpg",
       "https://img.olx.com.br/images/34/342688166489930.jpg"
     ],
-    "defeito": false,
+    "id": "1500970360",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/god-of-war-1500970360",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "God of War",
     "ts": 1778461500
   },
   {
@@ -9830,24 +9848,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "Horizon Forbidden West (LACRADO) PS4",
     "ts": 1778418812
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:13",
-    "fotoUrl": "https://img.olx.com.br/images/60/605603152910642.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/605603152910642.jpg",
-      "https://img.olx.com.br/images/65/650623756091771.jpg"
-    ],
-    "id": "1483095919",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/gta-v-completo-ps4-1483095919",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "GTA V COMPLETO PS4 ",
-    "ts": 1778418799
   }
 ]
