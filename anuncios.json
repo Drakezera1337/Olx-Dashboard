@@ -1,15 +1,27 @@
 [
   {
-    "id": "1501149897",
-    "titulo": "Nintendo Switch Lite Versao Pokemon Dialga e Palkia",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "switch",
+    "id": "1501153236",
+    "titulo": "Ps4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:36",
-    "tempoOlx": "Na OLX desde julho de 2022",
+    "detectado": "16:38",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-lite-versao-pokemon-dialga-e-palkia-1501149897",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1501153236",
+    "fotoUrl": "https://img.olx.com.br/images/26/263627042053062.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/263627042053062.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778528288
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:36",
     "fotoUrl": "https://img.olx.com.br/images/70/703698765478268.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/703698765478268.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/77/774606167722909.jpg",
       "https://img.olx.com.br/images/79/794604526952819.jpg"
     ],
-    "defeito": false,
+    "id": "1501149897",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-lite-versao-pokemon-dialga-e-palkia-1501149897",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Nintendo Switch Lite Versao Pokemon Dialga e Palkia",
     "ts": 1778528198
   },
   {
@@ -9948,23 +9966,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Jogo the last of us part 2 steelbook ",
     "ts": 1778477830
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "02:12",
-    "fotoUrl": "https://img.olx.com.br/images/46/465603883914023.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/465603883914023.jpg"
-    ],
-    "id": "1500992150",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/4-jogos-ps4-1500992150",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "4 jogos ps4",
-    "ts": 1778476330
   }
 ]
