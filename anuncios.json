@@ -1,22 +1,43 @@
 [
   {
-    "id": "1501491446",
-    "titulo": "PLAYSTATION 5 (PS5)",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1501491729",
+    "titulo": "Minecraft Story Mode The Complete Adventure (Item Raro / Colecionador) PS4",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:00",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "17:02",
+    "tempoOlx": "Na OLX desde outubro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/playstation-5-ps5-1501491446",
+    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/jogos-de-video-game/minecraft-story-mode-the-complete-adventure-item-raro-colecionador-ps4-1501491729",
+    "fotoUrl": "https://img.olx.com.br/images/73/735633882473944.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/735633882473944.jpg",
+      "https://img.olx.com.br/images/80/805672169955967.jpg",
+      "https://img.olx.com.br/images/82/825621285157581.jpg",
+      "https://img.olx.com.br/images/85/852637766414245.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778616148
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:00",
     "fotoUrl": "https://img.olx.com.br/images/87/879631168711175.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/879631168711175.jpg",
       "https://img.olx.com.br/images/88/884617288523502.jpg",
       "https://img.olx.com.br/images/90/908657647365086.jpg"
     ],
-    "defeito": false,
+    "id": "1501491446",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/playstation-5-ps5-1501491446",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PLAYSTATION 5 (PS5)",
     "ts": 1778616056
   },
   {
@@ -9846,26 +9867,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "PES 2020 PS4",
     "ts": 1778553946
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:45",
-    "fotoUrl": "https://img.olx.com.br/images/94/942623762483935.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/942623762483935.jpg",
-      "https://img.olx.com.br/images/96/963695529768010.jpg",
-      "https://img.olx.com.br/images/98/988605529319938.jpg",
-      "https://img.olx.com.br/images/11/115621760306055.jpg"
-    ],
-    "id": "1501276006",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-21-ps4-marvel-avengers-ps4-1501276006",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "FIFA 21 PS4 / MARVEL AVENGERS PS4 ",
-    "ts": 1778553938
   }
 ]
