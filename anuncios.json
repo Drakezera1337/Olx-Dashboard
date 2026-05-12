@@ -1,22 +1,43 @@
 [
   {
-    "id": "1501428436",
-    "titulo": "Jogos de PS4 e PS5 ",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "categoria": "ps5",
+    "id": "1501413646",
+    "titulo": "PlayStation 4",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:38",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1501428436",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1501413646",
+    "fotoUrl": "https://img.olx.com.br/images/30/300635040489800.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/300635040489800.jpg",
+      "https://img.olx.com.br/images/31/311619520564123.jpg",
+      "https://img.olx.com.br/images/32/322685521892408.jpg",
+      "https://img.olx.com.br/images/34/341676049218263.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778603907
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:38",
     "fotoUrl": "https://img.olx.com.br/images/74/742622768691659.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/742622768691659.jpg",
       "https://img.olx.com.br/images/77/771678649874137.jpg",
       "https://img.olx.com.br/images/79/792611642479854.jpg"
     ],
-    "defeito": false,
+    "id": "1501428436",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1501428436",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Jogos de PS4 e PS5 ",
     "ts": 1778603898
   },
   {
@@ -9850,26 +9871,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Iphone 13 pro 256gb 89% bateria",
     "ts": 1778539326
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:41",
-    "fotoUrl": "https://img.olx.com.br/images/80/804634160520287.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/804634160520287.jpg",
-      "https://img.olx.com.br/images/82/826608283487008.jpg",
-      "https://img.olx.com.br/images/83/834660522720742.jpg",
-      "https://img.olx.com.br/images/85/851637287305713.jpg"
-    ],
-    "id": "1501221058",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-ps4-1501221058",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "Vende-se PS4 ",
-    "ts": 1778539300
   }
 ]
