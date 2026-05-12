@@ -1,21 +1,41 @@
 [
   {
-    "id": "1501205431",
-    "titulo": "Playstation 3",
-    "preco": 499,
-    "precoRaw": "R$ 499",
-    "categoria": "ps3",
+    "id": "1501492886",
+    "titulo": "Vídeo game PS4 ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:04",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "17:10",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-1501205431",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-ps4-1501492886",
+    "fotoUrl": "https://img.olx.com.br/images/66/667604763234789.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/667604763234789.jpg",
+      "https://img.olx.com.br/images/75/752656880549318.jpg",
+      "https://img.olx.com.br/images/77/775686041723786.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778616655
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:04",
     "fotoUrl": "https://img.olx.com.br/images/15/156637162181858.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/156637162181858.jpg",
       "https://img.olx.com.br/images/17/179681407040979.jpg"
     ],
-    "defeito": false,
+    "id": "1501205431",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-1501205431",
+    "preco": 499,
+    "precoRaw": "R$ 499",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Playstation 3",
     "ts": 1778616267
   },
   {
@@ -9853,23 +9873,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "PS4 500GB Fat",
     "ts": 1778554300
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:48",
-    "fotoUrl": "https://img.olx.com.br/images/70/701674521365660.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/701674521365660.jpg"
-    ],
-    "id": "1501276220",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/playstation-4-1501276220",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2019",
-    "titulo": "Playstation 4",
-    "ts": 1778554116
   }
 ]
