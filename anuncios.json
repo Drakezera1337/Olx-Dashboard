@@ -1,15 +1,30 @@
 [
   {
-    "id": "1501449986",
-    "titulo": "Patinete eléctrico ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1501449978",
+    "titulo": "PSP GO para reparo ",
+    "preco": 230,
+    "precoRaw": "R$ 230",
     "categoria": "outros",
     "publicado": "",
     "detectado": "14:55",
-    "tempoOlx": "Na OLX desde agosto de 2025",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
     "descricao": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/patinete-electrico-1501449986",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/psp-go-para-reparo-1501449978",
+    "fotoUrl": "https://img.olx.com.br/images/61/613674163533682.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/613674163533682.jpg",
+      "https://img.olx.com.br/images/62/621672526379745.jpg",
+      "https://img.olx.com.br/images/63/632622407270766.jpg",
+      "https://img.olx.com.br/images/64/648653648546273.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778608538
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:55",
     "fotoUrl": "https://img.olx.com.br/images/52/525656403103456.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/525656403103456.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/52/524658769220771.jpg",
       "https://img.olx.com.br/images/52/529607160148900.jpg"
     ],
-    "defeito": false,
+    "id": "1501449986",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/patinete-electrico-1501449986",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2025",
+    "titulo": "Patinete eléctrico ",
     "ts": 1778608528
   },
   {
@@ -9851,23 +9872,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Jogo usado de Ps4, Lego Worlds ",
     "ts": 1778546123
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:35",
-    "fotoUrl": "https://img.olx.com.br/images/19/194603284116583.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/194603284116583.jpg"
-    ],
-    "id": "1501246930",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1501246930",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2017",
-    "titulo": "Jogos ps4",
-    "ts": 1778546115
   }
 ]
