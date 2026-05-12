@@ -1,22 +1,41 @@
 [
   {
-    "id": "1501425821",
-    "titulo": "Resident Evil 2 PS4 e PS5 ",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "ps5",
+    "id": "1501425725",
+    "titulo": "Ps4 slim",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:25",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-2-ps4-e-ps5-1501425821",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-slim-1501425725",
+    "fotoUrl": "https://img.olx.com.br/images/11/111611768538508.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/111611768538508.jpg",
+      "https://img.olx.com.br/images/13/135602164840739.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778603119
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:25",
     "fotoUrl": "https://img.olx.com.br/images/84/840632288904663.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/840632288904663.jpg",
       "https://img.olx.com.br/images/86/861695520320897.jpg",
       "https://img.olx.com.br/images/87/874634520466750.jpg"
     ],
-    "defeito": false,
+    "id": "1501425821",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-2-ps4-e-ps5-1501425821",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Resident Evil 2 PS4 e PS5 ",
     "ts": 1778603111
   },
   {
@@ -9849,24 +9868,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Infamous Second Son ps4",
     "ts": 1778538535
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:28",
-    "fotoUrl": "https://img.olx.com.br/images/74/747626163348737.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/747626163348737.jpg",
-      "https://img.olx.com.br/images/75/755646645090287.jpg"
-    ],
-    "id": "1501216372",
-    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/jogos-de-video-game/minecraft-ps4-1501216372",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Minecraft PS4",
-    "ts": 1778538526
   }
 ]
