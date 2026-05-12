@@ -1,20 +1,43 @@
 [
   {
-    "id": "1501258426",
-    "titulo": "Jogos PS4 / PS5",
-    "preco": 3325,
-    "precoRaw": "R$ 3.325",
-    "categoria": "ps5",
+    "id": "1501258207",
+    "titulo": "The witcher 3: Wild Hunt PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "22:17",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/jogos-ps4-ps5-1501258426",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-witcher-3-wild-hunt-ps4-1501258207",
+    "fotoUrl": "https://img.olx.com.br/images/66/668696042883990.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/668696042883990.jpg",
+      "https://img.olx.com.br/images/68/680613645416838.jpg",
+      "https://img.olx.com.br/images/70/707631044379167.jpg",
+      "https://img.olx.com.br/images/72/720664288683096.jpg",
+      "https://img.olx.com.br/images/75/756693162469430.jpg",
+      "https://img.olx.com.br/images/78/789668649906674.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778548636
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:17",
     "fotoUrl": "https://img.olx.com.br/images/15/152632160618883.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/152632160618883.jpg"
     ],
-    "defeito": false,
+    "id": "1501258426",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/jogos-ps4-ps5-1501258426",
+    "preco": 3325,
+    "precoRaw": "R$ 3.325",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jogos PS4 / PS5",
     "ts": 1778548627
   },
   {
@@ -9864,23 +9887,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Tomb Raider Definitive Edition ",
     "ts": 1778514395
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:46",
-    "fotoUrl": "https://img.olx.com.br/images/81/819542207535992.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/819542207535992.jpg"
-    ],
-    "id": "1436170443",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/gta-5-premium-edition-ps4-1436170443",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "GTA 5 PREMIUM EDITION - PS4",
-    "ts": 1778514387
   }
 ]
