@@ -1,15 +1,29 @@
 [
   {
-    "id": "1501487735",
-    "titulo": "Vendo um PS3 Slim",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1501149693",
+    "titulo": "Playstation usado",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "16:50",
-    "tempoOlx": "Na OLX desde abril de 2018",
+    "detectado": "16:51",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/vendo-um-ps3-slim-1501487735",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-usado-1501149693",
+    "fotoUrl": "https://img.olx.com.br/images/84/849605520445650.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/849605520445650.jpg",
+      "https://img.olx.com.br/images/87/872671169935393.jpg",
+      "https://img.olx.com.br/images/89/893648528761684.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778615516
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:50",
     "fotoUrl": "https://img.olx.com.br/images/44/440673522696540.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/440673522696540.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/48/483622648425535.jpg",
       "https://img.olx.com.br/images/50/508682887918914.jpg"
     ],
-    "defeito": false,
+    "id": "1501487735",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/vendo-um-ps3-slim-1501487735",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2018",
+    "titulo": "Vendo um PS3 Slim",
     "ts": 1778615426
   },
   {
@@ -9847,24 +9867,5 @@
     "tempoOlx": "Na OLX desde outubro de 2013",
     "titulo": "Jogos PS4",
     "ts": 1778553323
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:35",
-    "fotoUrl": "https://img.olx.com.br/images/76/768589636016639.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/768589636016639.jpg",
-      "https://img.olx.com.br/images/76/765524398260568.jpg"
-    ],
-    "id": "1391715238",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-battlefield-2042-ps4-1391715238",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Jogo Battlefield 2042 - PS4",
-    "ts": 1778553314
   }
 ]
