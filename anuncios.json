@@ -1,20 +1,41 @@
 [
   {
-    "id": "1501426380",
-    "titulo": "PlayStation 5",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
+    "id": "1501427454",
+    "titulo": "Red Dead Redemption 2 PS4 e PS5 ",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:31",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "13:32",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/playstation-5-1501426380",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-ps4-e-ps5-1501427454",
+    "fotoUrl": "https://img.olx.com.br/images/86/869614521330256.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/869614521330256.jpg",
+      "https://img.olx.com.br/images/88/881661400074465.jpg",
+      "https://img.olx.com.br/images/90/903677409334245.jpg",
+      "https://img.olx.com.br/images/91/911634768564898.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778603523
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:31",
     "fotoUrl": "https://img.olx.com.br/images/42/425685647193396.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/425685647193396.jpg"
     ],
-    "defeito": false,
+    "id": "1501426380",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/playstation-5-1501426380",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 5",
     "ts": 1778603514
   },
   {
@@ -9849,23 +9870,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "PS4 slim ",
     "ts": 1778538560
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:29",
-    "fotoUrl": "https://img.olx.com.br/images/54/544661168031353.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/544661168031353.jpg"
-    ],
-    "id": "1501215398",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-darksiders-genesis-original-lacrado-ps4-playstation-4-1501215398",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": "Jogo Darksiders Genesis Original Lacrado PS4 Playstation 4",
-    "ts": 1778538551
   }
 ]
