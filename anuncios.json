@@ -1,21 +1,41 @@
 [
   {
-    "id": "1501496094",
-    "titulo": "Playstation 3",
-    "preco": 499,
-    "precoRaw": "R$ 499",
-    "categoria": "ps3",
+    "id": "1501497084",
+    "titulo": "F1 2017 ps4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:22",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "17:26",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-1501496094",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/f1-2017-ps4-1501497084",
+    "fotoUrl": "https://img.olx.com.br/images/45/452691041123353.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/452691041123353.jpg",
+      "https://img.olx.com.br/images/46/467693644483371.jpg",
+      "https://img.olx.com.br/images/48/480602169416860.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778617619
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:22",
     "fotoUrl": "https://img.olx.com.br/images/14/146672168020219.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/146672168020219.jpg",
       "https://img.olx.com.br/images/17/174648164477117.jpg"
     ],
-    "defeito": false,
+    "id": "1501496094",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-1501496094",
+    "preco": 499,
+    "precoRaw": "R$ 499",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Playstation 3",
     "ts": 1778617376
   },
   {
@@ -9855,23 +9875,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "* FIFA 20 + Watch Dogs PS4 Original - R$70",
     "ts": 1778556068
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:18",
-    "fotoUrl": "https://img.olx.com.br/images/68/681683762789809.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/681683762789809.jpg"
-    ],
-    "id": "1501280750",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-destravado-leia-o-anuncio-1501280750",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
-    "titulo": "PS3 Slim Destravado - LEIA O ANÚNCIO",
-    "ts": 1778555916
   }
 ]
