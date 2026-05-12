@@ -1,20 +1,38 @@
 [
   {
-    "id": "1490886172",
-    "titulo": "PlayStation 4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1489041274",
+    "titulo": "XBOX - RTECHGAMES_",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "00:09",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/playstation-4-1490886172",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-rtechgames-1489041274",
+    "fotoUrl": "https://img.olx.com.br/images/11/110681867325164.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/110681867325164.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778555376
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:09",
     "fotoUrl": "https://img.olx.com.br/images/48/489614154304407.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/489614154304407.jpg"
     ],
-    "defeito": false,
+    "id": "1490886172",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/playstation-4-1490886172",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "PlayStation 4",
     "ts": 1778555355
   },
   {
@@ -9843,25 +9861,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "PS4 ",
     "ts": 1778516851
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:26",
-    "fotoUrl": "https://img.olx.com.br/images/75/752639888412581.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/752639888412581.jpg",
-      "https://img.olx.com.br/images/80/802684289586336.jpg",
-      "https://img.olx.com.br/images/82/821624886058008.jpg"
-    ],
-    "id": "1501099704",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-fifa-17-para-ps4-1501099704",
-    "preco": 25,
-    "precoRaw": "R$ 25",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "Jogo FIFA 17 para PS4",
-    "ts": 1778516792
   }
 ]
