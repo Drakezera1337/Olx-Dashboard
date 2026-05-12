@@ -1,21 +1,39 @@
 [
   {
-    "id": "1501246980",
-    "titulo": "The last of us remaster ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "jogos",
+    "id": "1501246930",
+    "titulo": "Jogos ps4",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "21:35",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "tempoOlx": "Na OLX desde junho de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/the-last-of-us-remaster-1501246980",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1501246930",
+    "fotoUrl": "https://img.olx.com.br/images/19/194603284116583.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/194603284116583.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778546115
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:35",
     "fotoUrl": "https://img.olx.com.br/images/43/433689527216060.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/433689527216060.jpg",
       "https://img.olx.com.br/images/45/454659763239742.jpg"
     ],
-    "defeito": false,
+    "id": "1501246980",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/the-last-of-us-remaster-1501246980",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "The last of us remaster ",
     "ts": 1778546107
   },
   {
@@ -9843,25 +9861,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "JOGO NIER:ATOMATA - PS4",
     "ts": 1778514069
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:40",
-    "fotoUrl": "https://img.olx.com.br/images/14/148587814974252.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/148587814974252.jpg",
-      "https://img.olx.com.br/images/18/186547936537032.jpg",
-      "https://img.olx.com.br/images/21/213531210148250.jpg"
-    ],
-    "id": "1441896505",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/driveclub-ps4-1441896505",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "DRIVECLUB - PS4",
-    "ts": 1778514058
   }
 ]
