@@ -1,21 +1,42 @@
 [
   {
-    "id": "1501447145",
-    "titulo": "PS4 FAT (COM DEFEITO)",
-    "preco": 350,
-    "precoRaw": "R$ 350",
+    "id": "1500132513",
+    "titulo": "PlayStation 4 - Slim 1TB",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:50",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "14:53",
+    "tempoOlx": "Na OLX desde abril de 2022",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-1501447145",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-slim-1tb-1500132513",
+    "fotoUrl": "https://img.olx.com.br/images/31/310657766783532.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/310657766783532.jpg",
+      "https://img.olx.com.br/images/32/326688640909590.jpg",
+      "https://img.olx.com.br/images/35/352697883044513.jpg",
+      "https://img.olx.com.br/images/36/360611167904532.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778608408
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:50",
     "fotoUrl": "https://img.olx.com.br/images/41/417622642344790.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/417622642344790.jpg",
       "https://img.olx.com.br/images/49/492620042820353.jpg"
     ],
-    "defeito": false,
+    "id": "1501447145",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-1501447145",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4 FAT (COM DEFEITO)",
     "ts": 1778608233
   },
   {
@@ -9855,23 +9876,5 @@
     "tempoOlx": "Na OLX desde outubro de 2020",
     "titulo": "ps4",
     "ts": 1778545092
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:17",
-    "fotoUrl": "https://img.olx.com.br/images/43/434621527890387.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/434621527890387.jpg"
-    ],
-    "id": "1501237743",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/call-of-duty-wwii-1501237743",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Call of duty WWII",
-    "ts": 1778545027
   }
 ]
