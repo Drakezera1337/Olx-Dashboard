@@ -1,22 +1,41 @@
 [
   {
-    "id": "1500783911",
-    "titulo": "Ps4 slim .",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1501496535",
+    "titulo": "Uncharted 4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "17:21",
-    "tempoOlx": "Na OLX desde março de 2020",
+    "detectado": "17:22",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-slim-1500783911",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/uncharted-4-1501496535",
+    "fotoUrl": "https://img.olx.com.br/images/97/976607404636598.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/976607404636598.jpg",
+      "https://img.olx.com.br/images/97/977654763782210.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778617327
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:21",
     "fotoUrl": "https://img.olx.com.br/images/24/249680049201820.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/249680049201820.jpg",
       "https://img.olx.com.br/images/26/264621040806528.jpg",
       "https://img.olx.com.br/images/27/279647522993696.jpg"
     ],
-    "defeito": false,
+    "id": "1500783911",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-slim-1500783911",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2020",
+    "titulo": "Ps4 slim .",
     "ts": 1778617318
   },
   {
@@ -9858,24 +9877,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Assassin's Creed Origins Mídia Física -  PS4 - Usado - Perfeito Estado",
     "ts": 1778555708
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:12",
-    "fotoUrl": "https://img.olx.com.br/images/20/200519940469292.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/200519940469292.jpg",
-      "https://img.olx.com.br/images/21/211584461643064.jpg"
-    ],
-    "id": "1456161894",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/dock-nintendo-switch-1456161894",
-    "preco": 249,
-    "precoRaw": "R$ 249",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "Dock Nintendo Switch ",
-    "ts": 1778555559
   }
 ]
