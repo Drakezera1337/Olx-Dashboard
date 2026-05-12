@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501437899",
-    "titulo": "Call of duty advanced warfare",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1501437831",
+    "titulo": "5 Jogos PS4/PS5",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "14:12",
-    "tempoOlx": "Na OLX desde junho de 2016",
+    "tempoOlx": "Na OLX desde maio de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/call-of-duty-advanced-warfare-1501437899",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/5-jogos-ps4-ps5-1501437831",
+    "fotoUrl": "https://img.olx.com.br/images/57/571653647577425.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/571653647577425.jpg",
+      "https://img.olx.com.br/images/58/584657883682264.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778605959
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:12",
     "fotoUrl": "https://img.olx.com.br/images/81/815665644243925.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/815665644243925.jpg",
       "https://img.olx.com.br/images/84/845676164555009.jpg"
     ],
-    "defeito": false,
+    "id": "1501437899",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/call-of-duty-advanced-warfare-1501437899",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "titulo": "Call of duty advanced warfare",
     "ts": 1778605949
   },
   {
@@ -9862,25 +9881,5 @@
     "tempoOlx": "Na OLX desde julho de 2021",
     "titulo": "jogos ps4/ps5.olhar descrição.",
     "ts": 1778541450
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:17",
-    "fotoUrl": "https://img.olx.com.br/images/32/321633168380599.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/321633168380599.jpg",
-      "https://img.olx.com.br/images/33/337646764393006.jpg",
-      "https://img.olx.com.br/images/35/351600169989374.jpg"
-    ],
-    "id": "1501229541",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/video-game-1501229541",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2018",
-    "titulo": "Vídeo game ",
-    "ts": 1778541442
   }
 ]
