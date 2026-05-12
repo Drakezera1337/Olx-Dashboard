@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501495697",
-    "titulo": "Jogo The King Of Fighters XV PS4",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "categoria": "ps4",
+    "id": "1501496094",
+    "titulo": "Playstation 3",
+    "preco": 499,
+    "precoRaw": "R$ 499",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "17:22",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-the-king-of-fighters-xv-ps4-1501495697",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-1501496094",
+    "fotoUrl": "https://img.olx.com.br/images/14/146672168020219.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/146672168020219.jpg",
+      "https://img.olx.com.br/images/17/174648164477117.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778617376
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:22",
     "fotoUrl": "https://img.olx.com.br/images/66/669629764869934.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/669629764869934.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/66/661600522412380.jpg",
       "https://img.olx.com.br/images/66/667680522021211.jpg"
     ],
-    "defeito": false,
+    "id": "1501495697",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-the-king-of-fighters-xv-ps4-1501495697",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Jogo The King Of Fighters XV PS4",
     "ts": 1778617344
   },
   {
@@ -9854,24 +9873,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2019",
     "titulo": "PS3 Slim Destravado - LEIA O ANÚNCIO",
     "ts": 1778555916
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:17",
-    "fotoUrl": "https://img.olx.com.br/images/35/359684280036940.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/359684280036940.jpg",
-      "https://img.olx.com.br/images/36/362627166366795.jpg"
-    ],
-    "id": "1501280212",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vendo-ps5-no-precinho-1501280212",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2022",
-    "titulo": "VENDO PS5 NO PRECINHO *)",
-    "ts": 1778555826
   }
 ]
