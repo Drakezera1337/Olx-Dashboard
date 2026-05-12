@@ -1,20 +1,42 @@
 [
   {
-    "id": "1501450131",
-    "titulo": "Metal Gear Edição Lançamento Ps4 ",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "categoria": "ps4",
+    "id": "1501450752",
+    "titulo": "Xbox serie S",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "15:00",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "detectado": "15:02",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/metal-gear-edicao-lancamento-ps4-1501450131",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-serie-s-1501450752",
+    "fotoUrl": "https://img.olx.com.br/images/62/620635406350841.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/620635406350841.jpg",
+      "https://img.olx.com.br/images/63/639697166462688.jpg",
+      "https://img.olx.com.br/images/65/654611165149772.jpg",
+      "https://img.olx.com.br/images/67/670634168668214.jpg",
+      "https://img.olx.com.br/images/69/690693403065681.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778608947
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:00",
     "fotoUrl": "https://img.olx.com.br/images/37/372603760395151.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/372603760395151.jpg"
     ],
-    "defeito": false,
+    "id": "1501450131",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/metal-gear-edicao-lancamento-ps4-1501450131",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Metal Gear Edição Lançamento Ps4 ",
     "ts": 1778608834
   },
   {
@@ -9851,24 +9873,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Mega Sharpedo Ex Inglês ",
     "ts": 1778546484
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:41",
-    "fotoUrl": "https://img.olx.com.br/images/83/830678762860075.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/830678762860075.jpg",
-      "https://img.olx.com.br/images/85/855602648381403.jpg"
-    ],
-    "id": "1501247351",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/resident-village-1501247351",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Resident Village ",
-    "ts": 1778546476
   }
 ]
