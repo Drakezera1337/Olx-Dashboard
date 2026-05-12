@@ -1,21 +1,43 @@
 [
   {
-    "id": "1501407413",
-    "titulo": "Xbox series s 512GB",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1501406580",
+    "titulo": "Bateria ROCK BAND ",
+    "preco": 499,
+    "precoRaw": "R$ 499",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:40",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "12:41",
+    "tempoOlx": "Na OLX desde junho de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-1501407413",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/bateria-rock-band-1501406580",
+    "fotoUrl": "https://img.olx.com.br/images/82/824615402788275.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/824615402788275.jpg",
+      "https://img.olx.com.br/images/83/835609523357967.jpg",
+      "https://img.olx.com.br/images/84/843613760498296.jpg",
+      "https://img.olx.com.br/images/86/862626169407461.jpg",
+      "https://img.olx.com.br/images/88/883667762719955.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778600464
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:40",
     "fotoUrl": "https://img.olx.com.br/images/31/311673407114564.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/311673407114564.jpg",
       "https://img.olx.com.br/images/33/331621040793924.jpg"
     ],
-    "defeito": false,
+    "id": "1501407413",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-1501407413",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Xbox series s 512GB",
     "ts": 1778600455
   },
   {
@@ -9845,25 +9867,5 @@
     "tempoOlx": "Na OLX desde junho de 2021",
     "titulo": "FIFA 18",
     "ts": 1778535698
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:38",
-    "fotoUrl": "https://img.olx.com.br/images/24/248682408040550.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/248682408040550.jpg",
-      "https://img.olx.com.br/images/26/264605402387116.jpg",
-      "https://img.olx.com.br/images/28/285647527997657.jpg"
-    ],
-    "id": "1501204803",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-1tb-2-controles-1501204803",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "PS4 slim - 1TB - 2 controles",
-    "ts": 1778535491
   }
 ]
