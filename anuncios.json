@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501433369",
-    "titulo": "PS5 SLIM MÍDIA DIGITAL ",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "ps5",
+    "id": "1501437899",
+    "titulo": "Call of duty advanced warfare",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "14:08",
-    "tempoOlx": "Na OLX desde março de 2023",
+    "detectado": "14:12",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps5-slim-midia-digital-1501433369",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/call-of-duty-advanced-warfare-1501437899",
+    "fotoUrl": "https://img.olx.com.br/images/81/815665644243925.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/815665644243925.jpg",
+      "https://img.olx.com.br/images/84/845676164555009.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778605949
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:08",
     "fotoUrl": "https://img.olx.com.br/images/31/310623404269111.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/310623404269111.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/36/366680888274512.jpg",
       "https://img.olx.com.br/images/38/389633402314235.jpg"
     ],
-    "defeito": false,
+    "id": "1501433369",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps5-slim-midia-digital-1501433369",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "PS5 SLIM MÍDIA DIGITAL ",
     "ts": 1778605737
   },
   {
@@ -9863,23 +9882,5 @@
     "tempoOlx": "Na OLX desde agosto de 2018",
     "titulo": "Vídeo game ",
     "ts": 1778541442
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:17",
-    "fotoUrl": "https://img.olx.com.br/images/29/299638506042559.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/299638506042559.jpg"
-    ],
-    "id": "1490181039",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/playstation-4-1490181039",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2016",
-    "titulo": "PlayStation 4",
-    "ts": 1778541434
   }
 ]
