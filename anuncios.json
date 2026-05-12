@@ -1,20 +1,41 @@
 [
   {
-    "id": "1501276220",
-    "titulo": "Playstation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1501276232",
+    "titulo": "PS4 500GB Fat",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:48",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "detectado": "23:51",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/playstation-4-1501276220",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/ps4-500gb-fat-1501276232",
+    "fotoUrl": "https://img.olx.com.br/images/89/898667166419512.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/898667166419512.jpg",
+      "https://img.olx.com.br/images/90/903648289830825.jpg",
+      "https://img.olx.com.br/images/91/911683044784790.jpg",
+      "https://img.olx.com.br/images/93/933664763319323.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778554300
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:48",
     "fotoUrl": "https://img.olx.com.br/images/70/701674521365660.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/701674521365660.jpg"
     ],
-    "defeito": false,
+    "id": "1501276220",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/playstation-4-1501276220",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "Playstation 4",
     "ts": 1778554116
   },
   {
@@ -9851,25 +9872,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "SHADOW OF COLOSSUS REMAKE - RARIDADE PS4",
     "ts": 1778515887
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:08",
-    "fotoUrl": "https://img.olx.com.br/images/84/847627886203688.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/847627886203688.jpg",
-      "https://img.olx.com.br/images/86/860656889649150.jpg",
-      "https://img.olx.com.br/images/87/873644403155521.jpg"
-    ],
-    "id": "1501093589",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-playstation-5-novo-1501093589",
-    "preco": 2900,
-    "precoRaw": "R$ 2.900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "Vendo PlayStation 5 novo",
-    "ts": 1778515731
   }
 ]
