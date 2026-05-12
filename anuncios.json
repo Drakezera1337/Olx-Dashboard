@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501429511",
-    "titulo": "Resisident Evil 2",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1501429006",
+    "titulo": "Jogo para ps4",
+    "preco": 115,
+    "precoRaw": "R$ 115",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:44",
-    "tempoOlx": "Na OLX desde julho de 2015",
+    "detectado": "13:48",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/resisident-evil-2-1501429511",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-para-ps4-1501429006",
+    "fotoUrl": "https://img.olx.com.br/images/51/512604523024639.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/512604523024639.jpg",
+      "https://img.olx.com.br/images/54/547653520238002.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778604536
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:44",
     "fotoUrl": "https://img.olx.com.br/images/97/974677283629400.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/974677283629400.jpg",
       "https://img.olx.com.br/images/98/986601527072818.jpg"
     ],
-    "defeito": false,
+    "id": "1501429511",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/resisident-evil-2-1501429511",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2015",
+    "titulo": "Resisident Evil 2",
     "ts": 1778604253
   },
   {
@@ -9854,28 +9873,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "IPHONE XR RARIDADE ",
     "ts": 1778540258
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:53",
-    "fotoUrl": "https://img.olx.com.br/images/95/953644758445487.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/953644758445487.jpg",
-      "https://img.olx.com.br/images/97/971639392351269.jpg",
-      "https://img.olx.com.br/images/98/988623394489629.jpg",
-      "https://img.olx.com.br/images/10/109606635380955.jpg",
-      "https://img.olx.com.br/images/11/117643752810512.jpg",
-      "https://img.olx.com.br/images/13/131698753924866.jpg"
-    ],
-    "id": "1498165429",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-para-xbox-series-s-e-x-e-os-one-1498165429",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Controle para Xbox séries s e x e os one ",
-    "ts": 1778540016
   }
 ]
