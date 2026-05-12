@@ -1,21 +1,42 @@
 [
   {
-    "id": "1501438745",
-    "titulo": "Dying light",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1501438151",
+    "titulo": "Jogos para PS4",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:18",
-    "tempoOlx": "Na OLX desde junho de 2016",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/dying-light-1501438745",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-para-ps4-1501438151",
+    "fotoUrl": "https://img.olx.com.br/images/70/705698404154328.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/705698404154328.jpg",
+      "https://img.olx.com.br/images/71/710648888307254.jpg",
+      "https://img.olx.com.br/images/73/732605046364229.jpg",
+      "https://img.olx.com.br/images/75/750667280127878.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778606335
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:18",
     "fotoUrl": "https://img.olx.com.br/images/90/909625284177860.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/909625284177860.jpg",
       "https://img.olx.com.br/images/92/922608164601354.jpg"
     ],
-    "defeito": false,
+    "id": "1501438745",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/dying-light-1501438745",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "titulo": "Dying light",
     "ts": 1778606325
   },
   {
@@ -9842,25 +9863,5 @@
     "tempoOlx": "Na OLX desde setembro de 2022",
     "titulo": "Ps3 Slim original travado 500gb + cano fonte",
     "ts": 1778541906
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:24",
-    "fotoUrl": "https://img.olx.com.br/images/32/329657401526528.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/329657401526528.jpg",
-      "https://img.olx.com.br/images/33/330647649385214.jpg",
-      "https://img.olx.com.br/images/35/353692281230614.jpg"
-    ],
-    "id": "1500963466",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/vr-ps4-1500963466",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Vr Ps4",
-    "ts": 1778541855
   }
 ]
