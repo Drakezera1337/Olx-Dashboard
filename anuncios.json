@@ -1,15 +1,32 @@
 [
   {
-    "id": "1501441853",
-    "titulo": "Amiibo Mario Wedding Nintendo (Novo/Lacrado)",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "switch",
+    "id": "1501442236",
+    "titulo": "iPhone 12",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "14:31",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "detectado": "14:33",
+    "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/amiibo-mario-wedding-nintendo-novo-lacrado-1501441853",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1501442236",
+    "fotoUrl": "https://img.olx.com.br/images/38/383650163494000.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/383650163494000.jpg",
+      "https://img.olx.com.br/images/40/403624884100253.jpg",
+      "https://img.olx.com.br/images/42/425626167355447.jpg",
+      "https://img.olx.com.br/images/44/442692887874353.jpg",
+      "https://img.olx.com.br/images/46/469687048029951.jpg",
+      "https://img.olx.com.br/images/48/483623164215214.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778607238
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:31",
     "fotoUrl": "https://img.olx.com.br/images/60/603633284851420.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/603633284851420.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/63/633617401822286.jpg",
       "https://img.olx.com.br/images/65/650676046126835.jpg"
     ],
-    "defeito": false,
+    "id": "1501441853",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/amiibo-mario-wedding-nintendo-novo-lacrado-1501441853",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Amiibo Mario Wedding Nintendo (Novo/Lacrado)",
     "ts": 1778607061
   },
   {
@@ -9844,23 +9867,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "Immortals Fenyx Rising - PS4 - Lacrado",
     "ts": 1778543602
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:53",
-    "fotoUrl": "https://img.olx.com.br/images/61/612640285799260.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/612640285799260.jpg"
-    ],
-    "id": "1501237033",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/red-dead-redemption-ii-ps4-1501237033",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Red Dead Redemption II ps4",
-    "ts": 1778543596
   }
 ]
