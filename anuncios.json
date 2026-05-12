@@ -1,15 +1,32 @@
 [
   {
-    "id": "1501256675",
-    "titulo": "Vende-se play4 slim de 1TB",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
+    "id": "1501255483",
+    "titulo": "Jogos variados",
+    "preco": 300,
+    "precoRaw": "R$ 300",
     "categoria": "outros",
     "publicado": "",
     "detectado": "22:11",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://rr.olx.com.br/roraima/games/jogos-de-video-game/vende-se-play4-slim-de-1tb-1501256675",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-variados-1501255483",
+    "fotoUrl": "https://img.olx.com.br/images/47/478618521908064.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/478618521908064.jpg",
+      "https://img.olx.com.br/images/50/502674167260456.jpg",
+      "https://img.olx.com.br/images/52/527613042662313.jpg",
+      "https://img.olx.com.br/images/54/543665884787496.jpg",
+      "https://img.olx.com.br/images/56/569697885447627.jpg",
+      "https://img.olx.com.br/images/58/589636522050866.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778548293
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:11",
     "fotoUrl": "https://img.olx.com.br/images/64/648661401447060.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/648661401447060.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/70/702625765460177.jpg",
       "https://img.olx.com.br/images/72/728691406343031.jpg"
     ],
-    "defeito": false,
+    "id": "1501256675",
+    "link": "https://rr.olx.com.br/roraima/games/jogos-de-video-game/vende-se-play4-slim-de-1tb-1501256675",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "Vende-se play4 slim de 1TB",
     "ts": 1778548284
   },
   {
@@ -9859,24 +9882,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Jogos de PS4",
     "ts": 1778514380
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:46",
-    "fotoUrl": "https://img.olx.com.br/images/10/100656527781898.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/100656527781898.jpg",
-      "https://img.olx.com.br/images/12/129629644477151.jpg"
-    ],
-    "id": "1501076012",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-ps4-partir-de-60-00-1501076012",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "Jogos ps4 partir de 60.00 ",
-    "ts": 1778514372
   }
 ]
