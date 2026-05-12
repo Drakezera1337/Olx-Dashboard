@@ -1,15 +1,29 @@
 [
   {
-    "id": "1501442236",
-    "titulo": "iPhone 12",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "iphone",
+    "id": "1501443936",
+    "titulo": "Driveclub - PS4 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:33",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "14:35",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1501442236",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/driveclub-ps4-1501443936",
+    "fotoUrl": "https://img.olx.com.br/images/25/254609646065046.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/254609646065046.jpg",
+      "https://img.olx.com.br/images/27/277632162224368.jpg",
+      "https://img.olx.com.br/images/29/291652409402420.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778607357
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:33",
     "fotoUrl": "https://img.olx.com.br/images/38/383650163494000.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/383650163494000.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/46/469687048029951.jpg",
       "https://img.olx.com.br/images/48/483623164215214.jpg"
     ],
-    "defeito": false,
+    "id": "1501442236",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1501442236",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "iPhone 12",
     "ts": 1778607238
   },
   {
@@ -9849,23 +9869,5 @@
     "tempoOlx": "Na OLX desde outubro de 2013",
     "titulo": "Horizon Forbidden West PS4 & PS5 playstation 4 e 5 Jogo mídia física",
     "ts": 1778543610
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:53",
-    "fotoUrl": "https://img.olx.com.br/images/97/979567806833258.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/979567806833258.jpg"
-    ],
-    "id": "1433886339",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/immortals-fenyx-rising-ps4-lacrado-1433886339",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Immortals Fenyx Rising - PS4 - Lacrado",
-    "ts": 1778543602
   }
 ]
