@@ -1,15 +1,29 @@
 [
   {
-    "id": "1501274348",
-    "titulo": "Jogos PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1499189632",
+    "titulo": "PS3 slim com defeito (leia a descrição)",
+    "preco": 240,
+    "precoRaw": "R$ 240",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "23:35",
-    "tempoOlx": "Na OLX desde outubro de 2013",
+    "detectado": "23:36",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-ps4-1501274348",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps3-slim-com-defeito-leia-a-descricao-1499189632",
+    "fotoUrl": "https://img.olx.com.br/images/85/856605767580845.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/856605767580845.jpg",
+      "https://img.olx.com.br/images/86/863600281943585.jpg",
+      "https://img.olx.com.br/images/88/884629403464741.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778553366
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:35",
     "fotoUrl": "https://img.olx.com.br/images/70/704682524531899.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/704682524531899.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/74/747613520008655.jpg",
       "https://img.olx.com.br/images/75/751696526582667.jpg"
     ],
-    "defeito": false,
+    "id": "1501274348",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-ps4-1501274348",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2013",
+    "titulo": "Jogos PS4",
     "ts": 1778553323
   },
   {
@@ -9859,23 +9879,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2015",
     "titulo": "Jogos Ps4",
     "ts": 1778515134
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:58",
-    "fotoUrl": "https://img.olx.com.br/images/69/698677862493869.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/698677862493869.jpg"
-    ],
-    "id": "1482444958",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-doom-para-playstation-4-midia-fisica-usado-1482444958",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "Jogo Doom para Playstation 4 mídia física usado ",
-    "ts": 1778515125
   }
 ]
