@@ -1,20 +1,39 @@
 [
   {
-    "id": "1501440191",
-    "titulo": "PlayStation 4 Slim",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1501439739",
+    "titulo": "Gta v premium edition",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "14:24",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "14:25",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-slim-1501440191",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/gta-v-premium-edition-1501439739",
+    "fotoUrl": "https://img.olx.com.br/images/69/694631640639800.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/694631640639800.jpg",
+      "https://img.olx.com.br/images/70/704696766147485.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778606704
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:24",
     "fotoUrl": "https://img.olx.com.br/images/26/263688286396188.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/263688286396188.jpg"
     ],
-    "defeito": false,
+    "id": "1501440191",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-slim-1501440191",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "PlayStation 4 Slim",
     "ts": 1778606694
   },
   {
@@ -9847,25 +9866,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "IPHONE 13 PRO MAX 128GB",
     "ts": 1778542751
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:35",
-    "fotoUrl": "https://img.olx.com.br/images/23/239619643309063.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/239619643309063.jpg",
-      "https://img.olx.com.br/images/24/248642523128704.jpg",
-      "https://img.olx.com.br/images/26/264617769478629.jpg"
-    ],
-    "id": "1501233242",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/vende-se-call-of-duty-infinite-warfare-1501233242",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vende-se call of duty infinite warfare ",
-    "ts": 1778542508
   }
 ]
