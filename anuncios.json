@@ -1,20 +1,39 @@
 [
   {
-    "id": "1489041274",
-    "titulo": "XBOX - RTECHGAMES_",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "categoria": "xbox",
+    "id": "1456161894",
+    "titulo": "Dock Nintendo Switch ",
+    "preco": 249,
+    "precoRaw": "R$ 249",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "00:09",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "detectado": "00:12",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-rtechgames-1489041274",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/dock-nintendo-switch-1456161894",
+    "fotoUrl": "https://img.olx.com.br/images/20/200519940469292.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/200519940469292.jpg",
+      "https://img.olx.com.br/images/21/211584461643064.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778555559
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:09",
     "fotoUrl": "https://img.olx.com.br/images/11/110681867325164.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/110681867325164.jpg"
     ],
-    "defeito": false,
+    "id": "1489041274",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-rtechgames-1489041274",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "XBOX - RTECHGAMES_",
     "ts": 1778555376
   },
   {
@@ -9838,28 +9857,5 @@
     "tempoOlx": "Na OLX desde junho de 2014",
     "titulo": "Xbox s",
     "ts": 1778516857
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:27",
-    "fotoUrl": "https://img.olx.com.br/images/66/666620407818385.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/666620407818385.jpg",
-      "https://img.olx.com.br/images/68/684676167332514.jpg",
-      "https://img.olx.com.br/images/70/702662288318795.jpg",
-      "https://img.olx.com.br/images/72/720661160487570.jpg",
-      "https://img.olx.com.br/images/74/745633049840607.jpg",
-      "https://img.olx.com.br/images/77/775655169991635.jpg"
-    ],
-    "id": "1501098494",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/ps4-1501098494",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "PS4 ",
-    "ts": 1778516851
   }
 ]
