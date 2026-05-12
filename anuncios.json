@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501467352",
-    "titulo": "PS5 Fat Pra Levar Agora!",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1501474625",
+    "titulo": "Xbox series s",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "16:01",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "detectado": "16:05",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-fat-pra-levar-agora-1501467352",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/xbox-series-s-1501474625",
+    "fotoUrl": "https://img.olx.com.br/images/60/604689880032072.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/604689880032072.jpg",
+      "https://img.olx.com.br/images/61/618639165149576.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778612726
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:01",
     "fotoUrl": "https://img.olx.com.br/images/33/334673529134056.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/334673529134056.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/38/385697646845291.jpg",
       "https://img.olx.com.br/images/40/404681167365322.jpg"
     ],
-    "defeito": false,
+    "id": "1501467352",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-fat-pra-levar-agora-1501467352",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "titulo": "PS5 Fat Pra Levar Agora!",
     "ts": 1778612486
   },
   {
@@ -9844,26 +9863,5 @@
     "tempoOlx": "",
     "titulo": "GTA 5 (COM MAPA)",
     "ts": 1778549677
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:33",
-    "fotoUrl": "https://img.olx.com.br/images/97/979652880409996.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/979652880409996.jpg",
-      "https://img.olx.com.br/images/98/980686043671353.jpg",
-      "https://img.olx.com.br/images/99/994678520465415.jpg",
-      "https://img.olx.com.br/images/10/100663885718944.jpg"
-    ],
-    "id": "1501261592",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vendo-ps4-fat-500-gb-1501261592",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2016",
-    "titulo": "Vendo PS4 fat 500 Gb",
-    "ts": 1778549587
   }
 ]
