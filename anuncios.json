@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501442325",
-    "titulo": "Residente evil revelations 2",
-    "preco": 130,
-    "precoRaw": "R$ 130",
+    "id": "1501441773",
+    "titulo": "Residente evil biohazard",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "14:29",
+    "detectado": "14:30",
     "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/residente-evil-revelations-2-1501442325",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/residente-evil-biohazard-1501441773",
+    "fotoUrl": "https://img.olx.com.br/images/57/576658762341872.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/576658762341872.jpg",
+      "https://img.olx.com.br/images/59/595676283963880.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778607005
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:29",
     "fotoUrl": "https://img.olx.com.br/images/70/705650041633959.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/705650041633959.jpg",
       "https://img.olx.com.br/images/71/716612529192042.jpg"
     ],
-    "defeito": false,
+    "id": "1501442325",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/residente-evil-revelations-2-1501442325",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "titulo": "Residente evil revelations 2",
     "ts": 1778606997
   },
   {
@@ -9842,25 +9861,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "PS4 1tb + Monitor portátil ótimo custo benefício.",
     "ts": 1778542893
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:41",
-    "fotoUrl": "https://img.olx.com.br/images/49/494651164258294.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/494651164258294.jpg",
-      "https://img.olx.com.br/images/51/519674526420402.jpg",
-      "https://img.olx.com.br/images/52/522655167158535.jpg"
-    ],
-    "id": "1501234751",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-jogos-2-controles-leia-descricao-1501234751",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "PS4 Slim 1TB + jogos + 2 controles (leia descrição)",
-    "ts": 1778542885
   }
 ]
