@@ -1,15 +1,27 @@
 [
   {
-    "id": "1501400076",
-    "titulo": "Xbox series s defeito ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "xbox",
+    "id": "1501399883",
+    "titulo": "Ps5 ",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "12:17",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "detectado": "12:18",
+    "tempoOlx": "Na OLX desde agosto de 2021",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/consoles-de-video-game/xbox-series-s-defeito-1501400076",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-1501399883",
+    "fotoUrl": "https://img.olx.com.br/images/60/606675885833543.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/606675885833543.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778599135
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:17",
     "fotoUrl": "https://img.olx.com.br/images/21/210660768823195.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/210660768823195.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/25/252649522471964.jpg",
       "https://img.olx.com.br/images/27/274648284700812.jpg"
     ],
-    "defeito": false,
+    "id": "1501400076",
+    "link": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/consoles-de-video-game/xbox-series-s-defeito-1501400076",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Xbox series s defeito ",
     "ts": 1778599047
   },
   {
@@ -9856,27 +9874,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 4 com 1 controle",
     "ts": 1778534766
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:24",
-    "fotoUrl": "https://img.olx.com.br/images/17/178635245859889.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/178635245859889.jpg",
-      "https://img.olx.com.br/images/19/193615721165957.jpg",
-      "https://img.olx.com.br/images/20/209648120686497.jpg",
-      "https://img.olx.com.br/images/22/223609009703509.jpg",
-      "https://img.olx.com.br/images/23/232641489418095.jpg"
-    ],
-    "id": "1473991747",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-switch-dock-smash-bros-raro-importado-japao-limitado-1473991747",
-    "preco": 330,
-    "precoRaw": "R$ 330",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2019",
-    "titulo": "Nintendo Switch Dock Smash Bros ( Raro ) Importado JAPÃO ( Limitado ) ",
-    "ts": 1778534679
   }
 ]
