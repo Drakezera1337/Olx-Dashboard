@@ -1,21 +1,43 @@
 [
   {
-    "id": "1501455225",
-    "titulo": "XBOX SERIES  S COM DEFEITO ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "xbox",
+    "id": "1501457851",
+    "titulo": "Coleção de jogos ps3 ",
+    "preco": 1645,
+    "precoRaw": "R$ 1.645",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:19",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "detectado": "15:24",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-com-defeito-1501455225",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/colecao-de-jogos-ps3-1501457851",
+    "fotoUrl": "https://img.olx.com.br/images/17/177652401155984.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/177652401155984.jpg",
+      "https://img.olx.com.br/images/18/185694164047593.jpg",
+      "https://img.olx.com.br/images/19/194640404899576.jpg",
+      "https://img.olx.com.br/images/22/227682884053100.jpg",
+      "https://img.olx.com.br/images/22/225692760146485.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778610268
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:19",
     "fotoUrl": "https://img.olx.com.br/images/20/201648282120264.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/201648282120264.jpg",
       "https://img.olx.com.br/images/20/201658768208652.jpg"
     ],
-    "defeito": false,
+    "id": "1501455225",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-com-defeito-1501455225",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "XBOX SERIES  S COM DEFEITO ",
     "ts": 1778609950
   },
   {
@@ -9856,26 +9878,5 @@
     "tempoOlx": "Na OLX desde novembro de 2021",
     "titulo": "Ps4 ",
     "ts": 1778547875
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:00",
-    "fotoUrl": "https://img.olx.com.br/images/95/959696763453588.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/959696763453588.jpg",
-      "https://img.olx.com.br/images/96/967630168420015.jpg",
-      "https://img.olx.com.br/images/97/972654761823428.jpg",
-      "https://img.olx.com.br/images/97/973665283958721.jpg"
-    ],
-    "id": "1501249343",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-256gb-azul-lacrado-1501249343",
-    "preco": 8999,
-    "precoRaw": "R$ 8.999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "iPhone 17 Pro Max 256gb Azul Lacrado",
-    "ts": 1778547607
   }
 ]
