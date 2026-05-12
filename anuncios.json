@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501446868",
-    "titulo": "Play 4 ",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "outros",
+    "id": "1501447145",
+    "titulo": "PS4 FAT (COM DEFEITO)",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:49",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "detectado": "14:50",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/play-4-1501446868",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-1501447145",
+    "fotoUrl": "https://img.olx.com.br/images/41/417622642344790.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/417622642344790.jpg",
+      "https://img.olx.com.br/images/49/492620042820353.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778608233
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:49",
     "fotoUrl": "https://img.olx.com.br/images/64/641602288490083.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/641602288490083.jpg",
       "https://img.olx.com.br/images/65/651662528579726.jpg"
     ],
-    "defeito": false,
+    "id": "1501446868",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/play-4-1501446868",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "Play 4 ",
     "ts": 1778608195
   },
   {
@@ -9854,24 +9873,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "Call of duty WWII",
     "ts": 1778545027
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:12",
-    "fotoUrl": "https://img.olx.com.br/images/44/443645284493629.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/443645284493629.jpg",
-      "https://img.olx.com.br/images/46/461621288381930.jpg"
-    ],
-    "id": "1501241423",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-1501241423",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Iphone 13 pro max",
-    "ts": 1778544727
   }
 ]
