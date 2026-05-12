@@ -1,20 +1,41 @@
 [
   {
-    "id": "1501235936",
-    "titulo": "JOGOS DE PS4",
-    "preco": 20,
-    "precoRaw": "R$ 20",
-    "categoria": "ps4",
+    "id": "1501251239",
+    "titulo": "Ps3 console",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "21:59",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "detectado": "22:00",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1501235936",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-console-1501251239",
+    "fotoUrl": "https://img.olx.com.br/images/29/295653529759116.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/295653529759116.jpg",
+      "https://img.olx.com.br/images/31/317663881539997.jpg",
+      "https://img.olx.com.br/images/32/323694526119950.jpg",
+      "https://img.olx.com.br/images/34/346693882668102.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778547607
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:59",
     "fotoUrl": "https://img.olx.com.br/images/12/126633281644397.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/126633281644397.jpg"
     ],
-    "defeito": false,
+    "id": "1501235936",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1501235936",
+    "preco": 20,
+    "precoRaw": "R$ 20",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "JOGOS DE PS4",
     "ts": 1778547571
   },
   {
@@ -9852,23 +9873,5 @@
     "tempoOlx": "Na OLX desde setembro de 2018",
     "titulo": "FC 26, GTA 5, Red Dead 2, PES 21, Gran Turismo 7, Days Gone, PS4 PS5",
     "ts": 1778514262
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:44",
-    "fotoUrl": "https://img.olx.com.br/images/20/201638875104510.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/201638875104510.jpg"
-    ],
-    "id": "1492526230",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/fc-26-gta-5-red-dead-2-pes-21-fifa-23-gran-turismo-7-ps4-ps5-xbox-1492526230",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2018",
-    "titulo": "FC 26, GTA 5, Red Dead 2, PES 21, FIFA 23, Gran Turismo 7, PS4 PS5 Xbox",
-    "ts": 1778514254
   }
 ]
