@@ -1,15 +1,30 @@
 [
   {
-    "id": "1499191063",
-    "titulo": "Ps4 ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1501277192",
+    "titulo": "IPHONE 12 ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "23:52",
-    "tempoOlx": "Na OLX desde junho de 2017",
+    "detectado": "23:54",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1499191063",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1501277192",
+    "fotoUrl": "https://img.olx.com.br/images/92/921621407615344.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/921621407615344.jpg",
+      "https://img.olx.com.br/images/96/961675522936602.jpg",
+      "https://img.olx.com.br/images/99/993671640418080.jpg",
+      "https://img.olx.com.br/images/13/138695402601194.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778554477
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:52",
     "fotoUrl": "https://img.olx.com.br/images/92/926619287893144.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/926619287893144.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/91/916698404860535.jpg",
       "https://img.olx.com.br/images/66/661653524938233.jpg"
     ],
-    "defeito": false,
+    "id": "1499191063",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1499191063",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2017",
+    "titulo": "Ps4 ",
     "ts": 1778554326
   },
   {
@@ -9854,24 +9875,5 @@
     "tempoOlx": "Na OLX desde julho de 2022",
     "titulo": "OCULOS DE REALIDADE VIRTUAL, QUEST 2",
     "ts": 1778516167
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:15",
-    "fotoUrl": "https://img.olx.com.br/images/12/126617639668274.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/126617639668274.jpg",
-      "https://img.olx.com.br/images/15/154626518936521.jpg"
-    ],
-    "id": "1498178797",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/vendo-ps3-super-slim-1498178797",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2019",
-    "titulo": "Vendo ps3 super slim",
-    "ts": 1778516159
   }
 ]
