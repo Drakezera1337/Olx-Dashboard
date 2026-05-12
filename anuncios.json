@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501279693",
-    "titulo": "iPhone X",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "iphone",
+    "id": "1501280212",
+    "titulo": "VENDO PS5 NO PRECINHO *)",
+    "preco": 2550,
+    "precoRaw": "R$ 2.550",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "00:16",
-    "tempoOlx": "Na OLX desde abril de 2025",
+    "detectado": "00:17",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-x-1501279693",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vendo-ps5-no-precinho-1501280212",
+    "fotoUrl": "https://img.olx.com.br/images/35/359684280036940.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/359684280036940.jpg",
+      "https://img.olx.com.br/images/36/362627166366795.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778555826
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:16",
     "fotoUrl": "https://img.olx.com.br/images/83/834610640589417.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/834610640589417.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/90/905636044145525.jpg",
       "https://img.olx.com.br/images/93/930618404519481.jpg"
     ],
-    "defeito": false,
+    "id": "1501279693",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-x-1501279693",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "iPhone X",
     "ts": 1778555767
   },
   {
@@ -9845,23 +9864,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Jogos de ps4",
     "ts": 1778517077
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:31",
-    "fotoUrl": "https://img.olx.com.br/images/53/534640047761053.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/534640047761053.jpg"
-    ],
-    "id": "1501100869",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-4-playstation-4-ps4-1501100869",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Call of Duty Black Ops 4 Playstation 4 (Ps4)",
-    "ts": 1778517070
   }
 ]
