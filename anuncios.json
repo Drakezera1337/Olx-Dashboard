@@ -1,15 +1,27 @@
 [
   {
-    "id": "1501443749",
-    "titulo": "iPhone 12 64gb",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "iphone",
+    "id": "1492592478",
+    "titulo": "Jogos de PS4 Kit com 14 Titulos Originais",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:38",
-    "tempoOlx": "Na OLX desde março de 2025",
+    "detectado": "14:41",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1501443749",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-kit-com-14-titulos-originais-1492592478",
+    "fotoUrl": "https://img.olx.com.br/images/20/203691398644972.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/203691398644972.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778607717
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:38",
     "fotoUrl": "https://img.olx.com.br/images/62/628605167665046.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/628605167665046.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/39/394677766069739.jpg",
       "https://img.olx.com.br/images/55/550656888503143.jpg"
     ],
-    "defeito": false,
+    "id": "1501443749",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1501443749",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2025",
+    "titulo": "iPhone 12 64gb",
     "ts": 1778607519
   },
   {
@@ -9853,25 +9871,5 @@
     "tempoOlx": "Na OLX desde março de 2023",
     "titulo": "Ps4",
     "ts": 1778544308
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:00",
-    "fotoUrl": "https://img.olx.com.br/images/29/293620400962280.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/293620400962280.jpg",
-      "https://img.olx.com.br/images/31/316618523765054.jpg",
-      "https://img.olx.com.br/images/33/333609640548709.jpg"
-    ],
-    "id": "1501238968",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/xbox-one-series-s-1501238968",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2017",
-    "titulo": "Xbox one series s ",
-    "ts": 1778544012
   }
 ]
