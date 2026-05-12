@@ -1,15 +1,32 @@
 [
   {
-    "id": "1501413646",
-    "titulo": "PlayStation 4",
-    "preco": 1750,
-    "precoRaw": "R$ 1.750",
-    "categoria": "ps4",
+    "id": "1501409885",
+    "titulo": "Ps5 slim 102 jogos 1TB 2 CONTROLES ",
+    "preco": 2250,
+    "precoRaw": "R$ 2.250",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:38",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "detectado": "13:39",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1501413646",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps5-slim-102-jogos-1tb-2-controles-1501409885",
+    "fotoUrl": "https://img.olx.com.br/images/20/208645645078383.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/208645645078383.jpg",
+      "https://img.olx.com.br/images/22/229606283792656.jpg",
+      "https://img.olx.com.br/images/23/232688524250339.jpg",
+      "https://img.olx.com.br/images/25/257664163621612.jpg",
+      "https://img.olx.com.br/images/26/264604168494700.jpg",
+      "https://img.olx.com.br/images/27/271686168682554.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778603966
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:38",
     "fotoUrl": "https://img.olx.com.br/images/30/300635040489800.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/300635040489800.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/32/322685521892408.jpg",
       "https://img.olx.com.br/images/34/341676049218263.jpg"
     ],
-    "defeito": false,
+    "id": "1501413646",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1501413646",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "PlayStation 4",
     "ts": 1778603907
   },
   {
@@ -9852,24 +9875,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Final Fantasy XV (15) - PS4 - Midia Fisica ",
     "ts": 1778539597
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:42",
-    "fotoUrl": "https://img.olx.com.br/images/79/790667161797495.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/790667161797495.jpg",
-      "https://img.olx.com.br/images/81/816632401589953.jpg"
-    ],
-    "id": "1499145552",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-256gb-89-bateria-1499145552",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
-    "titulo": "Iphone 13 pro 256gb 89% bateria",
-    "ts": 1778539326
   }
 ]
