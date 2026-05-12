@@ -1,21 +1,41 @@
 [
   {
-    "id": "1501364975",
-    "titulo": "IPhone 13 pro max 128gb",
-    "preco": 3100,
-    "precoRaw": "R$ 3.100",
+    "id": "1501364824",
+    "titulo": "iPhone 11 (Com capinha e carregador turbo)",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "iphone",
     "publicado": "",
-    "detectado": "10:39",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "detectado": "10:40",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-128gb-1501364975",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-com-capinha-e-carregador-turbo-1501364824",
+    "fotoUrl": "https://img.olx.com.br/images/81/815639287427210.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/815639287427210.jpg",
+      "https://img.olx.com.br/images/84/848655403525109.jpg",
+      "https://img.olx.com.br/images/85/858684282988905.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778593207
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:39",
     "fotoUrl": "https://img.olx.com.br/images/58/587668527745686.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/587668527745686.jpg",
       "https://img.olx.com.br/images/59/595661764137326.jpg"
     ],
-    "defeito": false,
+    "id": "1501364975",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-128gb-1501364975",
+    "preco": 3100,
+    "precoRaw": "R$ 3.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "IPhone 13 pro max 128gb",
     "ts": 1778593198
   },
   {
@@ -9868,26 +9888,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Jogos de play 4 ",
     "ts": 1778526878
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:14",
-    "fotoUrl": "https://img.olx.com.br/images/33/330683767639466.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/330683767639466.jpg",
-      "https://img.olx.com.br/images/35/352643167674088.jpg",
-      "https://img.olx.com.br/images/37/372657162590784.jpg",
-      "https://img.olx.com.br/images/38/381694284224202.jpg"
-    ],
-    "id": "1501144119",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-last-of-us-part-2-jogo-ps4-1501144119",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "The Last of Us part 2 - Jogo PS4",
-    "ts": 1778526867
   }
 ]
