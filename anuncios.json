@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501491403",
-    "titulo": "Caixa Xbox Séries X",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "categoria": "xbox",
+    "id": "1501205431",
+    "titulo": "Playstation 3",
+    "preco": 499,
+    "precoRaw": "R$ 499",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "17:04",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-xbox-series-x-1501491403",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-1501205431",
+    "fotoUrl": "https://img.olx.com.br/images/15/156637162181858.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/156637162181858.jpg",
+      "https://img.olx.com.br/images/17/179681407040979.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778616267
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:04",
     "fotoUrl": "https://img.olx.com.br/images/35/357650644004497.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/357650644004497.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/43/431621889124500.jpg",
       "https://img.olx.com.br/images/45/455625644846089.jpg"
     ],
-    "defeito": false,
+    "id": "1501491403",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-xbox-series-x-1501491403",
+    "preco": 230,
+    "precoRaw": "R$ 230",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Caixa Xbox Séries X",
     "ts": 1778616240
   },
   {
@@ -9852,23 +9871,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Playstation 4",
     "ts": 1778554116
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:46",
-    "fotoUrl": "https://img.olx.com.br/images/66/664627390253785.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/664627390253785.jpg"
-    ],
-    "id": "1492558882",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-elder-scrolls-online-ps4-vendo-ou-troco-1492558882",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "The Elder Scrolls Online (PS4) - Vendo ou troco",
-    "ts": 1778553962
   }
 ]
