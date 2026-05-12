@@ -1,22 +1,41 @@
 [
   {
-    "id": "1501373443",
-    "titulo": "Call of duty infinito warfare ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1501372886",
+    "titulo": "The last Of us ",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "11:07",
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/call-of-duty-infinito-warfare-1501373443",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/the-last-of-us-1501372886",
+    "fotoUrl": "https://img.olx.com.br/images/42/429661282330557.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/429661282330557.jpg",
+      "https://img.olx.com.br/images/44/442645160996027.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778594862
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:07",
     "fotoUrl": "https://img.olx.com.br/images/80/808622169293894.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/808622169293894.jpg",
       "https://img.olx.com.br/images/81/819635640860678.jpg",
       "https://img.olx.com.br/images/83/833677408574774.jpg"
     ],
-    "defeito": false,
+    "id": "1501373443",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/call-of-duty-infinito-warfare-1501373443",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "Call of duty infinito warfare ",
     "ts": 1778594832
   },
   {
@@ -9881,23 +9900,5 @@
     "tempoOlx": "Na OLX desde abril de 2017",
     "titulo": "jogo mídia física the last of us parte 2 ps4 ps5 lacrado",
     "ts": 1778529556
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:59",
-    "fotoUrl": "https://img.olx.com.br/images/52/529677282037822.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/529677282037822.jpg"
-    ],
-    "id": "1501135521",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/diablo-3-ps4-1501135521",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2016",
-    "titulo": "Diablo 3 PS4",
-    "ts": 1778529548
   }
 ]
