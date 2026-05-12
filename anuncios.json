@@ -1,15 +1,29 @@
 [
   {
-    "id": "1501450752",
-    "titulo": "Xbox serie S",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "xbox",
+    "id": "1499127765",
+    "titulo": "Ps4 slim 500gb ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:02",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "detectado": "15:05",
+    "tempoOlx": "Na OLX desde novembro de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-serie-s-1501450752",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-1499127765",
+    "fotoUrl": "https://img.olx.com.br/images/63/631638046904098.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/631638046904098.jpg",
+      "https://img.olx.com.br/images/65/658669522770251.jpg",
+      "https://img.olx.com.br/images/67/674688288867605.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778609157
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:02",
     "fotoUrl": "https://img.olx.com.br/images/62/620635406350841.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/620635406350841.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/67/670634168668214.jpg",
       "https://img.olx.com.br/images/69/690693403065681.jpg"
     ],
-    "defeito": false,
+    "id": "1501450752",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-serie-s-1501450752",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "titulo": "Xbox serie S",
     "ts": 1778608947
   },
   {
@@ -9855,23 +9875,5 @@
     "tempoOlx": "Na OLX desde março de 2018",
     "titulo": "Original controle Xbox one s ",
     "ts": 1778546529
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:41",
-    "fotoUrl": "https://img.olx.com.br/images/90/902679408149603.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/902679408149603.jpg"
-    ],
-    "id": "1501247328",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/mega-sharpedo-ex-ingles-1501247328",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Mega Sharpedo Ex Inglês ",
-    "ts": 1778546484
   }
 ]
