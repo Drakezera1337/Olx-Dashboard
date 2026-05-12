@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501431911",
-    "titulo": "Homem de ferro boot ",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "categoria": "outros",
+    "id": "1501435018",
+    "titulo": "Playstation 4",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:55",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "detectado": "14:01",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/homem-de-ferro-boot-1501431911",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1501435018",
+    "fotoUrl": "https://img.olx.com.br/images/51/514668646835391.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/514668646835391.jpg",
+      "https://img.olx.com.br/images/52/526650645857954.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778605263
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:55",
     "fotoUrl": "https://img.olx.com.br/images/97/970671407537828.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/970671407537828.jpg",
       "https://img.olx.com.br/images/99/990645769611070.jpg"
     ],
-    "defeito": false,
+    "id": "1501431911",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/homem-de-ferro-boot-1501431911",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Homem de ferro boot ",
     "ts": 1778604928
   },
   {
@@ -9850,23 +9869,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Jogos para PS4",
     "ts": 1778540731
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:05",
-    "fotoUrl": "https://img.olx.com.br/images/16/169618754478662.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/169618754478662.jpg"
-    ],
-    "id": "1492550905",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogos-para-ps4-1492550905",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Jogos para PS4",
-    "ts": 1778540722
   }
 ]
