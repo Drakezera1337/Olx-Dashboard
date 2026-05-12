@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501259945",
-    "titulo": "iPhone 13",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "iphone",
+    "id": "1501261585",
+    "titulo": "PES 2021 PS4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:23",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "detectado": "22:28",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1501259945",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2021-ps4-1501261585",
+    "fotoUrl": "https://img.olx.com.br/images/61/612669522168755.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/612669522168755.jpg",
+      "https://img.olx.com.br/images/62/622659162547191.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778549317
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:23",
     "fotoUrl": "https://img.olx.com.br/images/52/520662883424065.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/520662883424065.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/52/522693404692433.jpg",
       "https://img.olx.com.br/images/53/537618401339069.jpg"
     ],
-    "defeito": false,
+    "id": "1501259945",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1501259945",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "iPhone 13",
     "ts": 1778549017
   },
   {
@@ -9873,23 +9892,5 @@
     "tempoOlx": "Na OLX desde março de 2018",
     "titulo": "Xbox Series S",
     "ts": 1778514469
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:47",
-    "fotoUrl": "https://img.olx.com.br/images/55/555624764892978.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/555624764892978.jpg"
-    ],
-    "id": "1484124383",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/the-last-guardian-para-ps4-em-otimo-estado-1484124383",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "THE LAST GUARDIAN PARA PS4 - EM ÓTIMO ESTADO",
-    "ts": 1778514454
   }
 ]
