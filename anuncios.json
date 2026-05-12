@@ -1,21 +1,41 @@
 [
   {
-    "id": "1501427875",
-    "titulo": "iPhone 14 Pro Max",
-    "preco": 3800,
-    "precoRaw": "R$ 3.800",
-    "categoria": "iphone",
+    "id": "1501428691",
+    "titulo": "Fifa 17 Ps4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:32",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "13:37",
+    "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-1501427875",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-17-ps4-1501428691",
+    "fotoUrl": "https://img.olx.com.br/images/75/754666403307396.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/754666403307396.jpg",
+      "https://img.olx.com.br/images/76/764629889196052.jpg",
+      "https://img.olx.com.br/images/78/781688403094209.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778603879
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:32",
     "fotoUrl": "https://img.olx.com.br/images/70/708631169872875.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/708631169872875.jpg",
       "https://img.olx.com.br/images/72/720668762859393.jpg"
     ],
-    "defeito": false,
+    "id": "1501427875",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-1501427875",
+    "preco": 3800,
+    "precoRaw": "R$ 3.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "iPhone 14 Pro Max",
     "ts": 1778603577
   },
   {
@@ -9850,24 +9870,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "PS4 SLIM 500gb",
     "ts": 1778539218
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:40",
-    "fotoUrl": "https://img.olx.com.br/images/82/820686169992873.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/820686169992873.jpg",
-      "https://img.olx.com.br/images/82/828696400831906.jpg"
-    ],
-    "id": "1501221077",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/uncharted-4-ps4-jogo-fisico-1501221077",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "Uncharted 4 PS4 - Jogo Fisico",
-    "ts": 1778539211
   }
 ]
