@@ -1,20 +1,40 @@
 [
   {
-    "id": "1501431412",
-    "titulo": "iPhone 12 Pro",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "iphone",
+    "id": "1501432316",
+    "titulo": "PS5 para retirada de peças ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:50",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "13:54",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-1501431412",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/ps5-para-retirada-de-pecas-1501432316",
+    "fotoUrl": "https://img.olx.com.br/images/76/761640167798612.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/761640167798612.jpg",
+      "https://img.olx.com.br/images/79/796684764706267.jpg",
+      "https://img.olx.com.br/images/82/825619162430750.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778604896
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:50",
     "fotoUrl": "https://img.olx.com.br/images/14/145622285443188.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/145622285443188.jpg"
     ],
-    "defeito": false,
+    "id": "1501431412",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-1501431412",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "iPhone 12 Pro",
     "ts": 1778604659
   },
   {
@@ -9849,24 +9869,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "titulo": "Medievil ps4",
     "ts": 1778540326
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:58",
-    "fotoUrl": "https://img.olx.com.br/images/13/137641529438069.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/137641529438069.jpg",
-      "https://img.olx.com.br/images/14/140640169236924.jpg"
-    ],
-    "id": "1501225497",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/homefront-the-revolution-ps4-1501225497",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Homefront the revolution ps4",
-    "ts": 1778540317
   }
 ]
