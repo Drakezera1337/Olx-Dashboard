@@ -1,15 +1,32 @@
 [
   {
-    "id": "1501443925",
-    "titulo": "iphone 12 ",
+    "id": "1501443749",
+    "titulo": "iPhone 12 64gb",
     "preco": 1800,
     "precoRaw": "R$ 1.800",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "14:38",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "tempoOlx": "Na OLX desde março de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1501443925",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1501443749",
+    "fotoUrl": "https://img.olx.com.br/images/62/628605167665046.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/628605167665046.jpg",
+      "https://img.olx.com.br/images/76/763620284752747.jpg",
+      "https://img.olx.com.br/images/94/949632521610404.jpg",
+      "https://img.olx.com.br/images/27/277675289730846.jpg",
+      "https://img.olx.com.br/images/39/394677766069739.jpg",
+      "https://img.olx.com.br/images/55/550656888503143.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778607519
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:38",
     "fotoUrl": "https://img.olx.com.br/images/61/610624280188079.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/610624280188079.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/68/684677407079904.jpg",
       "https://img.olx.com.br/images/70/708682163386574.jpg"
     ],
-    "defeito": false,
+    "id": "1501443925",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1501443925",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "iphone 12 ",
     "ts": 1778607511
   },
   {
@@ -9850,23 +9873,5 @@
     "tempoOlx": "Na OLX desde junho de 2017",
     "titulo": "Xbox one series s ",
     "ts": 1778544012
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:59",
-    "fotoUrl": "https://img.olx.com.br/images/37/378608766999342.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/378608766999342.jpg"
-    ],
-    "id": "1501238042",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/gran-turismo-7-ps4-1501238042",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Gran turismo 7 ps4",
-    "ts": 1778543964
   }
 ]
