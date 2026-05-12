@@ -1,22 +1,42 @@
 [
   {
-    "id": "1500901892",
-    "titulo": "PS4 SLIM (COM DEFEITO)",
-    "preco": 390,
-    "precoRaw": "R$ 390",
+    "id": "1500783911",
+    "titulo": "Ps4 slim .",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:21",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde março de 2020",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-slim-com-defeito-1500901892",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-slim-1500783911",
+    "fotoUrl": "https://img.olx.com.br/images/24/249680049201820.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/249680049201820.jpg",
+      "https://img.olx.com.br/images/26/264621040806528.jpg",
+      "https://img.olx.com.br/images/27/279647522993696.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778617318
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:21",
     "fotoUrl": "https://img.olx.com.br/images/55/559690761975642.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/559690761975642.jpg",
       "https://img.olx.com.br/images/59/599625169150525.jpg",
       "https://img.olx.com.br/images/60/607681527092206.jpg"
     ],
-    "defeito": false,
+    "id": "1500901892",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-slim-com-defeito-1500901892",
+    "preco": 390,
+    "precoRaw": "R$ 390",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "PS4 SLIM (COM DEFEITO)",
     "ts": 1778617309
   },
   {
@@ -9857,23 +9877,5 @@
     "tempoOlx": "Na OLX desde outubro de 2024",
     "titulo": "Dock Nintendo Switch ",
     "ts": 1778555559
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:09",
-    "fotoUrl": "https://img.olx.com.br/images/11/110681867325164.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/110681867325164.jpg"
-    ],
-    "id": "1489041274",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-rtechgames-1489041274",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "XBOX - RTECHGAMES_",
-    "ts": 1778555376
   }
 ]
