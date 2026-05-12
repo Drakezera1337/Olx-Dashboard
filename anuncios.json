@@ -1,15 +1,32 @@
 [
   {
-    "id": "1501271468",
-    "titulo": "iPhone 15 Pro Max 256gb ",
-    "preco": 4600,
-    "precoRaw": "R$ 4.600",
-    "categoria": "iphone",
+    "id": "1501272479",
+    "titulo": "Xbox Series S 512GB Semi Novo | Muito Conservado, preço negociável.",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "23:18",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "detectado": "23:23",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1501271468",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-semi-novo-muito-conservado-preco-negociavel-1501272479",
+    "fotoUrl": "https://img.olx.com.br/images/12/124688885448708.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/124688885448708.jpg",
+      "https://img.olx.com.br/images/13/137630648206601.jpg",
+      "https://img.olx.com.br/images/15/152648640869027.jpg",
+      "https://img.olx.com.br/images/80/800611404291567.jpg",
+      "https://img.olx.com.br/images/82/827673640414293.jpg",
+      "https://img.olx.com.br/images/83/834627643903673.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778552618
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:18",
     "fotoUrl": "https://img.olx.com.br/images/79/796689283008535.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/796689283008535.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/80/805692407614374.jpg",
       "https://img.olx.com.br/images/79/793629644006580.jpg"
     ],
-    "defeito": false,
+    "id": "1501271468",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1501271468",
+    "preco": 4600,
+    "precoRaw": "R$ 4.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "iPhone 15 Pro Max 256gb ",
     "ts": 1778552287
   },
   {
@@ -9851,25 +9874,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "Sombras de mordor + sombras da guerra + box pocket luxo senhor dos anéis e o hobbit",
     "ts": 1778514788
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:52",
-    "fotoUrl": "https://img.olx.com.br/images/87/877520739192666.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/877520739192666.jpg",
-      "https://img.olx.com.br/images/85/857546737252052.jpg",
-      "https://img.olx.com.br/images/85/856556492465084.jpg"
-    ],
-    "id": "1378740946",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/injustice-2-ps4-1378740946",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "Injustice 2 PS4",
-    "ts": 1778514769
   }
 ]
