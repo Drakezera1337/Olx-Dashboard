@@ -1,20 +1,39 @@
 [
   {
-    "id": "1501241110",
-    "titulo": "Ratchet clank",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "outros",
+    "id": "1501241423",
+    "titulo": "Iphone 13 pro max",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "21:11",
-    "tempoOlx": "Na OLX desde agosto de 2018",
+    "detectado": "21:12",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ratchet-clank-1501241110",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-1501241423",
+    "fotoUrl": "https://img.olx.com.br/images/44/443645284493629.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/443645284493629.jpg",
+      "https://img.olx.com.br/images/46/461621288381930.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778544727
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:11",
     "fotoUrl": "https://img.olx.com.br/images/72/724642528636265.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/724642528636265.jpg"
     ],
-    "defeito": false,
+    "id": "1501241110",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ratchet-clank-1501241110",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2018",
+    "titulo": "Ratchet clank",
     "ts": 1778544699
   },
   {
@@ -9837,23 +9856,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "Jogo God of War Ragnarok Lacrado c/ Garantia",
     "ts": 1778513949
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:39",
-    "fotoUrl": "https://img.olx.com.br/images/60/600607481032849.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/600607481032849.jpg"
-    ],
-    "id": "1473592404",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-ps4-1473592404",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Jogo PS4 ",
-    "ts": 1778513940
   }
 ]
