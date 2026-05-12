@@ -1,20 +1,40 @@
 [
   {
-    "id": "1474577025",
-    "titulo": "Uncharted 4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1379091325",
+    "titulo": "Combo Clássicos PS4",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:01",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/uncharted-4-1474577025",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/combo-classicos-ps4-1379091325",
+    "fotoUrl": "https://img.olx.com.br/images/98/986575738888205.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/986575738888205.jpg",
+      "https://img.olx.com.br/images/98/987504377319929.jpg",
+      "https://img.olx.com.br/images/98/981505255497395.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778598107
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:01",
     "fotoUrl": "https://img.olx.com.br/images/68/687677492360333.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/687677492360333.jpg"
     ],
-    "defeito": false,
+    "id": "1474577025",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/uncharted-4-1474577025",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Uncharted 4",
     "ts": 1778598099
   },
   {
@@ -9857,28 +9877,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": "Immortals Fenyx Rising PS4/5 (Lacrado)- OPORTUNIDADE",
     "ts": 1778533597
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:03",
-    "fotoUrl": "https://img.olx.com.br/images/53/531606880871721.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/531606880871721.jpg",
-      "https://img.olx.com.br/images/56/560686881432371.jpg",
-      "https://img.olx.com.br/images/57/575638522945262.jpg",
-      "https://img.olx.com.br/images/59/594630640580631.jpg",
-      "https://img.olx.com.br/images/61/612627409788365.jpg",
-      "https://img.olx.com.br/images/63/633626522643677.jpg"
-    ],
-    "id": "1501191887",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-vazia-playstation-5-vazia-1501191887",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Caixa vazia Playstation 5 VAZIA ",
-    "ts": 1778533418
   }
 ]
