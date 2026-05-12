@@ -1,15 +1,29 @@
 [
   {
-    "id": "1501373563",
-    "titulo": "Nintendo ",
-    "preco": 435,
-    "precoRaw": "R$ 435",
-    "categoria": "switch",
+    "id": "1501373828",
+    "titulo": "Plantas vs zumbi",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:05",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "11:06",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/consoles-de-video-game/nintendo-1501373563",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/plantas-vs-zumbi-1501373828",
+    "fotoUrl": "https://img.olx.com.br/images/70/700697289530041.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/700697289530041.jpg",
+      "https://img.olx.com.br/images/71/715621286453344.jpg",
+      "https://img.olx.com.br/images/73/735607162992781.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778594804
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:05",
     "fotoUrl": "https://img.olx.com.br/images/58/584676524379241.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/584676524379241.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/61/613615642625475.jpg",
       "https://img.olx.com.br/images/62/625666401211133.jpg"
     ],
-    "defeito": false,
+    "id": "1501373563",
+    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/consoles-de-video-game/nintendo-1501373563",
+    "preco": 435,
+    "precoRaw": "R$ 435",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Nintendo ",
     "ts": 1778594742
   },
   {
@@ -9880,23 +9900,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Call Of Duty ( NOVO LACRADO )",
     "ts": 1778529528
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:58",
-    "fotoUrl": "https://img.olx.com.br/images/74/749615764599706.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/749615764599706.jpg"
-    ],
-    "id": "1501159524",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/blazblue-chronophantasma-extend-playstation-4-1501159524",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Blazblue Chronophantasma Extend Playstation 4",
-    "ts": 1778529517
   }
 ]
