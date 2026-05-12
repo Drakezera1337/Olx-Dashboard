@@ -1,20 +1,39 @@
 [
   {
-    "id": "1459808801",
-    "titulo": "The Last Of Us(PS4)",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1459809196",
+    "titulo": "Detroit Become Human(PS4)",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:54",
+    "detectado": "14:55",
     "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/the-last-of-us-ps4-1459808801",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/detroit-become-human-ps4-1459809196",
+    "fotoUrl": "https://img.olx.com.br/images/68/681534599237275.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/681534599237275.jpg",
+      "https://img.olx.com.br/images/70/707508231627703.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778608505
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:54",
     "fotoUrl": "https://img.olx.com.br/images/68/689503234127067.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/689503234127067.jpg"
     ],
-    "defeito": false,
+    "id": "1459808801",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/the-last-of-us-ps4-1459808801",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "titulo": "The Last Of Us(PS4)",
     "ts": 1778608496
   },
   {
@@ -9848,28 +9867,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "The last of us remaster ",
     "ts": 1778546107
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:33",
-    "fotoUrl": "https://img.olx.com.br/images/74/744640642982245.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/744640642982245.jpg",
-      "https://img.olx.com.br/images/77/770632163297231.jpg",
-      "https://img.olx.com.br/images/79/794656286970773.jpg",
-      "https://img.olx.com.br/images/80/807623168338117.jpg",
-      "https://img.olx.com.br/images/82/821688641716484.jpg",
-      "https://img.olx.com.br/images/83/835643163298406.jpg"
-    ],
-    "id": "1501246416",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/playstation-5-slim-1tb-1501246416",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Playstation 5 Slim 1TB ",
-    "ts": 1778546017
   }
 ]
