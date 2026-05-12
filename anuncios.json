@@ -1,15 +1,28 @@
 [
   {
-    "id": "1501261592",
-    "titulo": "Vendo PS4 fat 500 Gb",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1501263121",
+    "titulo": "GTA 5 (COM MAPA)",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "22:33",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "22:34",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vendo-ps4-fat-500-gb-1501261592",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/gta-5-com-mapa-1501263121",
+    "fotoUrl": "https://img.olx.com.br/images/81/817689167976182.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/817689167976182.jpg",
+      "https://img.olx.com.br/images/82/823610049122929.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778549677
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:33",
     "fotoUrl": "https://img.olx.com.br/images/97/979652880409996.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/979652880409996.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/99/994678520465415.jpg",
       "https://img.olx.com.br/images/10/100663885718944.jpg"
     ],
-    "defeito": false,
+    "id": "1501261592",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vendo-ps4-fat-500-gb-1501261592",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "Vendo PS4 fat 500 Gb",
     "ts": 1778549587
   },
   {
@@ -9873,23 +9892,5 @@
     "tempoOlx": "Na OLX desde setembro de 2020",
     "titulo": "Lego Batman 2: DC Super Heroes - PS Vita",
     "ts": 1778514498
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:48",
-    "fotoUrl": "https://img.olx.com.br/images/28/286663278470416.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/286663278470416.jpg"
-    ],
-    "id": "1493078277",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/pokeball-plus-original-nintendo-1493078277",
-    "preco": 680,
-    "precoRaw": "R$ 680",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2015",
-    "titulo": "Pokeball plus original nintendo",
-    "ts": 1778514491
   }
 ]
