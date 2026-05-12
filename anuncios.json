@@ -1,21 +1,43 @@
 [
   {
-    "id": "1501454010",
-    "titulo": "Jogos PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1501453725",
+    "titulo": "FIFA 20",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "15:12",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-1501454010",
+    "link": "https://rr.olx.com.br/roraima/games/jogos-de-video-game/fifa-20-1501453725",
+    "fotoUrl": "https://img.olx.com.br/images/99/993688407354556.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/993688407354556.jpg",
+      "https://img.olx.com.br/images/11/111689043961211.jpg",
+      "https://img.olx.com.br/images/13/138693529217226.jpg",
+      "https://img.olx.com.br/images/15/158687288343878.jpg",
+      "https://img.olx.com.br/images/17/179639527924309.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778609564
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:12",
     "fotoUrl": "https://img.olx.com.br/images/40/407676401399287.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/407676401399287.jpg",
       "https://img.olx.com.br/images/42/427623406629923.jpg"
     ],
-    "defeito": false,
+    "id": "1501454010",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-1501454010",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "Jogos PS4",
     "ts": 1778609555
   },
   {
@@ -9859,23 +9881,5 @@
     "tempoOlx": "Na OLX desde julho de 2015",
     "titulo": "Batman Arkham Knight - PS4 (Novo Lacrado) Playstation 4",
     "ts": 1778547556
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:59",
-    "fotoUrl": "https://img.olx.com.br/images/49/493632284823669.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/493632284823669.jpg"
-    ],
-    "id": "1501252118",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/troco-nintendo-switch-lite-por-ps4-ou-xbox-1501252118",
-    "preco": 15,
-    "precoRaw": "R$ 15",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Troco Nintendo switch lite por PS4 ou XBOX ",
-    "ts": 1778547548
   }
 ]
