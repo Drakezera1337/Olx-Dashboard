@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501240207",
-    "titulo": "PS4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
+    "id": "1501242172",
+    "titulo": "5 jogos PS4",
+    "preco": 220,
+    "precoRaw": "R$ 220",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:11",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1501240207",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/5-jogos-ps4-1501242172",
+    "fotoUrl": "https://img.olx.com.br/images/55/556692280639703.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/556692280639703.jpg",
+      "https://img.olx.com.br/images/56/568642042593353.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778544675
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:11",
     "fotoUrl": "https://img.olx.com.br/images/66/660647406599650.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/660647406599650.jpg",
       "https://img.olx.com.br/images/67/676657164513001.jpg"
     ],
-    "defeito": false,
+    "id": "1501240207",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1501240207",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "PS4",
     "ts": 1778544667
   },
   {
@@ -9830,23 +9849,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "Jogo PS4 Mafia 3",
     "ts": 1778513878
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:37",
-    "fotoUrl": "https://img.olx.com.br/images/32/329631600523488.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/329631600523488.jpg"
-    ],
-    "id": "1473592236",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-ps4-1473592236",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Jogo PS4 ",
-    "ts": 1778513842
   }
 ]
