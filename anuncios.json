@@ -1,20 +1,39 @@
 [
   {
-    "id": "1501406521",
-    "titulo": "PS4 NOVO",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1501407413",
+    "titulo": "Xbox series s 512GB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:38",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "detectado": "12:40",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/ps4-novo-1501406521",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-1501407413",
+    "fotoUrl": "https://img.olx.com.br/images/31/311673407114564.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/311673407114564.jpg",
+      "https://img.olx.com.br/images/33/331621040793924.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778600455
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:38",
     "fotoUrl": "https://img.olx.com.br/images/13/131663646494399.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/131663646494399.jpg"
     ],
-    "defeito": false,
+    "id": "1501406521",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/ps4-novo-1501406521",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "PS4 NOVO",
     "ts": 1778600334
   },
   {
@@ -9846,27 +9865,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "PS4 slim - 1TB - 2 controles",
     "ts": 1778535491
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:36",
-    "fotoUrl": "https://img.olx.com.br/images/36/367644169863605.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/367644169863605.jpg",
-      "https://img.olx.com.br/images/37/378601527838910.jpg",
-      "https://img.olx.com.br/images/40/404653767634244.jpg",
-      "https://img.olx.com.br/images/41/412661401720094.jpg",
-      "https://img.olx.com.br/images/43/434665165903441.jpg"
-    ],
-    "id": "1501204390",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-1501204390",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2017",
-    "titulo": "iPhone 13 128GB",
-    "ts": 1778535398
   }
 ]
