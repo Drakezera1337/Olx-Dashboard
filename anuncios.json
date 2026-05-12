@@ -1,15 +1,31 @@
 [
   {
-    "id": "1501486472",
-    "titulo": "Iphone 12 pro max",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "iphone",
+    "id": "1501487735",
+    "titulo": "Vendo um PS3 Slim",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "16:47",
-    "tempoOlx": "Na OLX desde agosto de 2018",
+    "detectado": "16:50",
+    "tempoOlx": "Na OLX desde abril de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-max-1501486472",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/vendo-um-ps3-slim-1501487735",
+    "fotoUrl": "https://img.olx.com.br/images/44/440673522696540.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/440673522696540.jpg",
+      "https://img.olx.com.br/images/46/467627162585847.jpg",
+      "https://img.olx.com.br/images/47/478608524084554.jpg",
+      "https://img.olx.com.br/images/48/483622648425535.jpg",
+      "https://img.olx.com.br/images/50/508682887918914.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778615426
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:47",
     "fotoUrl": "https://img.olx.com.br/images/93/939663769931239.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/939663769931239.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/94/948672404778451.jpg",
       "https://img.olx.com.br/images/96/960602767782506.jpg"
     ],
-    "defeito": false,
+    "id": "1501486472",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-max-1501486472",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2018",
+    "titulo": "Iphone 12 pro max",
     "ts": 1778615247
   },
   {
@@ -9844,27 +9866,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Jogo Battlefield 2042 - PS4",
     "ts": 1778553314
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:35",
-    "fotoUrl": "https://img.olx.com.br/images/52/528695641240235.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/528695641240235.jpg",
-      "https://img.olx.com.br/images/55/553650162557551.jpg",
-      "https://img.olx.com.br/images/58/585697045458917.jpg",
-      "https://img.olx.com.br/images/61/611658042587534.jpg",
-      "https://img.olx.com.br/images/63/635645287656457.jpg"
-    ],
-    "id": "1499934995",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-completo-controle-original-base-carregadora-1499934995",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "PS4 Slim 500GB Completo + Controle Original + Base Carregadora",
-    "ts": 1778553307
   }
 ]
