@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501425725",
-    "titulo": "Ps4 slim",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1499736024",
+    "titulo": "PS4 slim 1 tera",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:25",
-    "tempoOlx": "Na OLX desde abril de 2019",
+    "tempoOlx": "Na OLX desde janeiro de 2015",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-slim-1501425725",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-1-tera-1499736024",
+    "fotoUrl": "https://img.olx.com.br/images/90/903644642114019.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/903644642114019.jpg",
+      "https://img.olx.com.br/images/92/922612282162647.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778603155
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:25",
     "fotoUrl": "https://img.olx.com.br/images/11/111611768538508.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/111611768538508.jpg",
       "https://img.olx.com.br/images/13/135602164840739.jpg"
     ],
-    "defeito": false,
+    "id": "1501425725",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-slim-1501425725",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "Ps4 slim",
     "ts": 1778603119
   },
   {
@@ -9849,24 +9868,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Dragon Age inquisition PS4",
     "ts": 1778538544
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:28",
-    "fotoUrl": "https://img.olx.com.br/images/71/710627526859538.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/710627526859538.jpg",
-      "https://img.olx.com.br/images/73/739618280479330.jpg"
-    ],
-    "id": "1501215894",
-    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/jogos-de-video-game/infamous-second-son-ps4-1501215894",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Infamous Second Son ps4",
-    "ts": 1778538535
   }
 ]
