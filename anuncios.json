@@ -1,6 +1,6 @@
 [
   {
-    "id": "1501452414",
+    "id": "1501452167",
     "titulo": "Jogo ps4",
     "preco": 90,
     "precoRaw": "R$ 90",
@@ -9,14 +9,34 @@
     "detectado": "15:06",
     "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-1501452414",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-1501452167",
+    "fotoUrl": "https://img.olx.com.br/images/71/713636284538171.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/713636284538171.jpg",
+      "https://img.olx.com.br/images/72/723680400762950.jpg",
+      "https://img.olx.com.br/images/74/743623643675709.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778609213
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:06",
     "fotoUrl": "https://img.olx.com.br/images/48/489665523093227.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/489665523093227.jpg",
       "https://img.olx.com.br/images/49/492646286018497.jpg",
       "https://img.olx.com.br/images/51/515656521225960.jpg"
     ],
-    "defeito": false,
+    "id": "1501452414",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-1501452414",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Jogo ps4",
     "ts": 1778609204
   },
   {
@@ -9853,23 +9873,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "Cyberpunk 2077 PS4/PS5",
     "ts": 1778546836
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:47",
-    "fotoUrl": "https://img.olx.com.br/images/41/412686764614824.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/412686764614824.jpg"
-    ],
-    "id": "1501249282",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/homem-aranha-ps4-1501249282",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Homem aranha Ps4 ",
-    "ts": 1778546828
   }
 ]
