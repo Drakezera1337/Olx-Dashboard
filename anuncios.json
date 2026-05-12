@@ -1,22 +1,45 @@
 [
   {
-    "id": "1501442821",
-    "titulo": "Playstation 4 ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "ps4",
+    "id": "1501443925",
+    "titulo": "iphone 12 ",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "14:36",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "detectado": "14:38",
+    "tempoOlx": "Na OLX desde junho de 2023",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/games/jogos-de-video-game/playstation-4-1501442821",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1501443925",
+    "fotoUrl": "https://img.olx.com.br/images/61/610624280188079.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/610624280188079.jpg",
+      "https://img.olx.com.br/images/64/649618528892324.jpg",
+      "https://img.olx.com.br/images/65/651657649307832.jpg",
+      "https://img.olx.com.br/images/67/675695041567208.jpg",
+      "https://img.olx.com.br/images/68/684677407079904.jpg",
+      "https://img.olx.com.br/images/70/708682163386574.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778607511
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:36",
     "fotoUrl": "https://img.olx.com.br/images/66/669637526146069.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/669637526146069.jpg",
       "https://img.olx.com.br/images/71/718666761570280.jpg",
       "https://img.olx.com.br/images/73/739654406965644.jpg"
     ],
-    "defeito": false,
+    "id": "1501442821",
+    "link": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/games/jogos-de-video-game/playstation-4-1501442821",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Playstation 4 ",
     "ts": 1778607392
   },
   {
@@ -9845,25 +9868,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "Gran turismo 7 ps4",
     "ts": 1778543964
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:59",
-    "fotoUrl": "https://img.olx.com.br/images/11/111665286391842.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/111665286391842.jpg",
-      "https://img.olx.com.br/images/35/354672401499736.jpg",
-      "https://img.olx.com.br/images/35/354639407108328.jpg"
-    ],
-    "id": "1501239122",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/overwatch-goty-midia-fisica-jogo-ps4-e-ps5-playstation-4-e-5-1501239122",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Overwatch goty Mídia Física Jogo PS4 e PS5 Playstation 4 e 5",
-    "ts": 1778543956
   }
 ]
