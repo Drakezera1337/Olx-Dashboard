@@ -1,22 +1,40 @@
 [
   {
-    "id": "1501492886",
-    "titulo": "Vídeo game PS4 ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1501436493",
+    "titulo": "PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:10",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "17:11",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-ps4-1501492886",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-1501436493",
+    "fotoUrl": "https://img.olx.com.br/images/58/587693284691892.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/587693284691892.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778616663
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:10",
     "fotoUrl": "https://img.olx.com.br/images/66/667604763234789.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/667604763234789.jpg",
       "https://img.olx.com.br/images/75/752656880549318.jpg",
       "https://img.olx.com.br/images/77/775686041723786.jpg"
     ],
-    "defeito": false,
+    "id": "1501492886",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-ps4-1501492886",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Vídeo game PS4 ",
     "ts": 1778616655
   },
   {
@@ -9852,26 +9870,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "14 Jogos Caros de ps4 100% ok",
     "ts": 1778554308
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:51",
-    "fotoUrl": "https://img.olx.com.br/images/89/898667166419512.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/898667166419512.jpg",
-      "https://img.olx.com.br/images/90/903648289830825.jpg",
-      "https://img.olx.com.br/images/91/911683044784790.jpg",
-      "https://img.olx.com.br/images/93/933664763319323.jpg"
-    ],
-    "id": "1501276232",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/ps4-500gb-fat-1501276232",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "PS4 500GB Fat",
-    "ts": 1778554300
   }
 ]
