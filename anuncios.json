@@ -1,20 +1,41 @@
 [
   {
-    "id": "1501485986",
-    "titulo": "Fifa 19",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "jogos",
+    "id": "1501486472",
+    "titulo": "Iphone 12 pro max",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "16:44",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "16:47",
+    "tempoOlx": "Na OLX desde agosto de 2018",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-19-1501485986",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-max-1501486472",
+    "fotoUrl": "https://img.olx.com.br/images/93/939663769931239.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/939663769931239.jpg",
+      "https://img.olx.com.br/images/93/938627285675670.jpg",
+      "https://img.olx.com.br/images/94/948672404778451.jpg",
+      "https://img.olx.com.br/images/96/960602767782506.jpg"
+    ],
+    "defeito": false,
+    "ts": 1778615247
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:44",
     "fotoUrl": "https://img.olx.com.br/images/14/145698041010002.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/145698041010002.jpg"
     ],
-    "defeito": false,
+    "id": "1501485986",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-19-1501485986",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Fifa 19",
     "ts": 1778615074
   },
   {
@@ -9845,23 +9866,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "PS4 Slim 500GB Completo + Controle Original + Base Carregadora",
     "ts": 1778553307
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:29",
-    "fotoUrl": "https://img.olx.com.br/images/35/350677286503633.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/350677286503633.jpg"
-    ],
-    "id": "1501273678",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/battlefront-2-ps4-1501273678",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2022",
-    "titulo": "Battlefront 2 ps4",
-    "ts": 1778552955
   }
 ]
