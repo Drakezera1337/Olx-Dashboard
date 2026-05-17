@@ -1,21 +1,43 @@
 [
   {
-    "id": "1502710278",
-    "titulo": "Estou vendendo esse vídeo game usado apenas uma vez ",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "outros",
+    "id": "1502693038",
+    "titulo": "IPhone 13 Pro (Descrição)",
+    "preco": 1650,
+    "precoRaw": "R$ 1.650",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "11:16",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "11:17",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/estou-vendendo-esse-video-game-usado-apenas-uma-vez-1502710278",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-descricao-1502693038",
+    "fotoUrl": "https://img.olx.com.br/images/50/503610641874228.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/503610641874228.jpg",
+      "https://img.olx.com.br/images/52/522693043538918.jpg",
+      "https://img.olx.com.br/images/54/546645049707296.jpg",
+      "https://img.olx.com.br/images/56/564604644140896.jpg",
+      "https://img.olx.com.br/images/60/602674520439466.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027428
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:16",
     "fotoUrl": "https://img.olx.com.br/images/93/938616881430916.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/938616881430916.jpg",
       "https://img.olx.com.br/images/94/947679647657711.jpg"
     ],
-    "defeito": false,
+    "id": "1502710278",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/estou-vendendo-esse-video-game-usado-apenas-uma-vez-1502710278",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Estou vendendo esse vídeo game usado apenas uma vez ",
     "ts": 1779027419
   },
   {
@@ -9854,25 +9876,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Watch Dogs Mídia Física PS4 Perfeito Estado",
     "ts": 1778557525
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:45",
-    "fotoUrl": "https://img.olx.com.br/images/34/348637169593222.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/348637169593222.jpg",
-      "https://img.olx.com.br/images/35/357666289342624.jpg",
-      "https://img.olx.com.br/images/36/363627403494820.jpg"
-    ],
-    "id": "1501283330",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/street-fighter-5-ps4-1501283330",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2021",
-    "titulo": "Street Fighter 5 - PS4 ",
-    "ts": 1778557516
   }
 ]
