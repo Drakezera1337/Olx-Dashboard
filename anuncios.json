@@ -1,21 +1,40 @@
 [
   {
-    "id": "1392681655",
-    "titulo": "Call of Duty: Advanced Warfare - PS4",
-    "preco": 119,
-    "precoRaw": "R$ 119",
+    "id": "1392679725",
+    "titulo": "The Last of Us Part II PS4 - LACRADO",
+    "preco": 249,
+    "precoRaw": "R$ 249",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:30",
     "tempoOlx": "Na OLX desde abril de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-advanced-warfare-ps4-1392681655",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-part-ii-ps4-lacrado-1392679725",
+    "fotoUrl": "https://img.olx.com.br/images/68/681524159206421.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/681524159206421.jpg",
+      "https://img.olx.com.br/images/67/673560276806933.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779057053
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:30",
     "fotoUrl": "https://img.olx.com.br/images/34/340579271806718.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/340579271806718.jpg",
       "https://img.olx.com.br/images/35/353553395288033.jpg"
     ],
-    "defeito": false,
+    "id": "1392681655",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-advanced-warfare-ps4-1392681655",
+    "preco": 119,
+    "precoRaw": "R$ 119",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Call of Duty: Advanced Warfare - PS4",
     "ts": 1779057045
   },
   {
@@ -9950,28 +9969,5 @@
     "tempoOlx": "",
     "titulo": "Jogo Grand Theft Auto IV - PS3 - Greatest Hits",
     "ts": 1779028842
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:40",
-    "fotoUrl": "https://img.olx.com.br/images/83/833680889890869.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/833680889890869.jpg",
-      "https://img.olx.com.br/images/85/853660407713298.jpg",
-      "https://img.olx.com.br/images/86/862610525460292.jpg",
-      "https://img.olx.com.br/images/88/883600887658088.jpg",
-      "https://img.olx.com.br/images/90/905638403218024.jpg",
-      "https://img.olx.com.br/images/92/920625400037683.jpg"
-    ],
-    "id": "1502584696",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-modelo-fat-com-detalhes-para-reparo-1502584696",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 3 modelo fat com detalhes para reparo",
-    "ts": 1779028834
   }
 ]
