@@ -1,7 +1,7 @@
 [
   {
-    "id": "1392681883",
-    "titulo": "Call of Duty: Infinite Warfare - PS4",
+    "id": "1392681655",
+    "titulo": "Call of Duty: Advanced Warfare - PS4",
     "preco": 119,
     "precoRaw": "R$ 119",
     "categoria": "ps4",
@@ -9,13 +9,32 @@
     "detectado": "19:30",
     "tempoOlx": "Na OLX desde abril de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-infinite-warfare-ps4-1392681883",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-advanced-warfare-ps4-1392681655",
+    "fotoUrl": "https://img.olx.com.br/images/34/340579271806718.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/340579271806718.jpg",
+      "https://img.olx.com.br/images/35/353553395288033.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779057045
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:30",
     "fotoUrl": "https://img.olx.com.br/images/18/183524036778430.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/183524036778430.jpg",
       "https://img.olx.com.br/images/18/188556756982556.jpg"
     ],
-    "defeito": false,
+    "id": "1392681883",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-infinite-warfare-ps4-1392681883",
+    "preco": 119,
+    "precoRaw": "R$ 119",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Call of Duty: Infinite Warfare - PS4",
     "ts": 1779057037
   },
   {
@@ -9954,26 +9973,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation 3 modelo fat com detalhes para reparo",
     "ts": 1779028834
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:40",
-    "fotoUrl": "https://img.olx.com.br/images/31/315644842100571.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/315644842100571.jpg",
-      "https://img.olx.com.br/images/48/486612735275405.jpg",
-      "https://img.olx.com.br/images/50/505645739726701.jpg",
-      "https://img.olx.com.br/images/51/518604131233135.jpg"
-    ],
-    "id": "1474094901",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/jogo-ps3-1474094901",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo ps3",
-    "ts": 1779028824
   }
 ]
