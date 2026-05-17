@@ -1,21 +1,39 @@
 [
   {
-    "id": "1502847168",
-    "titulo": "Ps4 Fat 500gb (sem controle)",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "ps4",
+    "id": "1502847271",
+    "titulo": "Jogos ps4/ps5",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "19:17",
-    "tempoOlx": "Na OLX desde abril de 2025",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-sem-controle-1502847168",
+    "link": "https://rr.olx.com.br/roraima/games/jogos-de-video-game/jogos-ps4-ps5-1502847271",
+    "fotoUrl": "https://img.olx.com.br/images/56/562693765597977.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/562693765597977.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779056272
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:17",
     "fotoUrl": "https://img.olx.com.br/images/21/210619761659459.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/210619761659459.jpg",
       "https://img.olx.com.br/images/22/225660167934203.jpg"
     ],
-    "defeito": false,
+    "id": "1502847168",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-sem-controle-1502847168",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "Ps4 Fat 500gb (sem controle)",
     "ts": 1779056241
   },
   {
@@ -9968,23 +9986,5 @@
     "tempoOlx": "",
     "titulo": "PS3 fat para retirada de peças",
     "ts": 1779028757
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:39",
-    "fotoUrl": "https://img.olx.com.br/images/22/227559325959622.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/227559325959622.jpg"
-    ],
-    "id": "1440329820",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/jogo-ps3-original-fisico-grand-turismo-5-1440329820",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo PS3 original físico - Grand Turismo 5",
-    "ts": 1779028749
   }
 ]
