@@ -1,20 +1,58 @@
 [
   {
-    "id": "1502086881",
-    "titulo": "iPhone",
-    "preco": 6000,
-    "precoRaw": "R$ 6.000",
+    "id": "1502067523",
+    "titulo": "iPhone 14 Pro Max ",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "11:19",
-    "tempoOlx": "Na OLX desde outubro de 2014",
+    "tempoOlx": "Na OLX desde julho de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-1502086881",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-1502067523",
+    "fotoUrl": "https://img.olx.com.br/images/86/869602884626178.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/869602884626178.jpg",
+      "https://img.olx.com.br/images/88/888655525388977.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027576
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:19",
+    "fotoUrl": "https://img.olx.com.br/images/26/262698884030407.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/262698884030407.jpg",
+      "https://img.olx.com.br/images/28/284666400048164.jpg"
+    ],
+    "id": "1502490365",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstations-5-1502490365",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "Playstations 5",
+    "ts": 1779027569
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:19",
     "fotoUrl": "https://img.olx.com.br/images/74/745643406237330.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/745643406237330.jpg"
     ],
-    "defeito": false,
+    "id": "1502086881",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-1502086881",
+    "preco": 6000,
+    "precoRaw": "R$ 6.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "titulo": "iPhone",
     "ts": 1779027567
   },
   {
@@ -36,16 +74,10 @@
     "ts": 1779027559
   },
   {
-    "id": "1488133443",
-    "titulo": "Videogame ",
-    "preco": 400,
-    "precoRaw": "R$ 400",
     "categoria": "outros",
-    "publicado": "",
-    "detectado": "11:19",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "defeito": false,
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/videogame-1488133443",
+    "detectado": "11:19",
     "fotoUrl": "https://img.olx.com.br/images/42/426624746291066.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/426624746291066.jpg",
@@ -53,7 +85,13 @@
       "https://img.olx.com.br/images/44/444667388689492.jpg",
       "https://img.olx.com.br/images/45/459661502495313.jpg"
     ],
-    "defeito": false,
+    "id": "1488133443",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/videogame-1488133443",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "titulo": "Videogame ",
     "ts": 1779027559
   },
   {
@@ -9852,49 +9890,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Iphone 11 64gb, todo original",
-    "ts": 1778592769
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/11/114614049039190.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/114614049039190.jpg",
-      "https://img.olx.com.br/images/12/127674409665163.jpg",
-      "https://img.olx.com.br/images/14/148641647252616.jpg"
-    ],
-    "id": "1501237674",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1501237674",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 13 ",
-    "ts": 1778592769
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/35/353690640470771.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/353690640470771.jpg",
-      "https://img.olx.com.br/images/38/386693760436063.jpg",
-      "https://img.olx.com.br/images/40/405657528689858.jpg",
-      "https://img.olx.com.br/images/43/437689403405601.jpg",
-      "https://img.olx.com.br/images/46/467648407138077.jpg",
-      "https://img.olx.com.br/images/50/506654529367192.jpg"
-    ],
-    "id": "1499745010",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-128-gb-roxo-profundo-1499745010",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14 Pro 128 gb Roxo Profundo ",
     "ts": 1778592769
   }
 ]
