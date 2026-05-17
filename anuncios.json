@@ -1,22 +1,45 @@
 [
   {
-    "id": "1502821288",
-    "titulo": "Controle Gamecube Nintendo Switch Online ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "switch",
+    "id": "1502804780",
+    "titulo": "PSP Portátil Gamer Emulador",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:04",
+    "detectado": "19:05",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/controle-gamecube-nintendo-switch-online-1502821288",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/psp-portatil-gamer-emulador-1502804780",
+    "fotoUrl": "https://img.olx.com.br/images/99/993674409651727.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/993674409651727.jpg",
+      "https://img.olx.com.br/images/10/103647521769451.jpg",
+      "https://img.olx.com.br/images/11/117603043497097.jpg",
+      "https://img.olx.com.br/images/13/131644526530029.jpg",
+      "https://img.olx.com.br/images/14/145616768469335.jpg",
+      "https://img.olx.com.br/images/15/156609886380826.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779055500
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:04",
     "fotoUrl": "https://img.olx.com.br/images/60/602618769237788.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/602618769237788.jpg",
       "https://img.olx.com.br/images/62/620694523440465.jpg",
       "https://img.olx.com.br/images/64/649652522241960.jpg"
     ],
-    "defeito": false,
+    "id": "1502821288",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/controle-gamecube-nintendo-switch-online-1502821288",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Controle Gamecube Nintendo Switch Online ",
     "ts": 1779055482
   },
   {
@@ -9967,28 +9990,5 @@
     "tempoOlx": "",
     "titulo": "Xbox série s 512 GB",
     "ts": 1779028617
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:36",
-    "fotoUrl": "https://img.olx.com.br/images/69/692681036532903.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/692681036532903.jpg",
-      "https://img.olx.com.br/images/70/703649632429700.jpg",
-      "https://img.olx.com.br/images/71/710672150907723.jpg",
-      "https://img.olx.com.br/images/72/728601874174532.jpg",
-      "https://img.olx.com.br/images/73/733601272796924.jpg",
-      "https://img.olx.com.br/images/74/740666751413554.jpg"
-    ],
-    "id": "1493780111",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-one-s-all-digital-1493780111",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox one S all digital ",
-    "ts": 1779028610
   }
 ]
