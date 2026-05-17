@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502861234",
-    "titulo": "Xbox series S - pouco uso ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1456666751",
+    "titulo": "Jogo PS4 Worlds",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:35",
-    "tempoOlx": "Na OLX desde outubro de 2014",
+    "detectado": "20:38",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-pouco-uso-1502861234",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-worlds-1456666751",
+    "fotoUrl": "https://img.olx.com.br/images/78/784575467608078.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/784575467608078.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779061107
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:35",
     "fotoUrl": "https://img.olx.com.br/images/61/615631760842825.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/615631760842825.jpg"
     ],
-    "defeito": false,
+    "id": "1502861234",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-pouco-uso-1502861234",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "titulo": "Xbox series S - pouco uso ",
     "ts": 1779060951
   },
   {
@@ -9899,27 +9917,5 @@
     "tempoOlx": "",
     "titulo": "Playstation 3 Slim com defeito ",
     "ts": 1779029140
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:45",
-    "fotoUrl": "https://img.olx.com.br/images/99/998625762195808.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/998625762195808.jpg",
-      "https://img.olx.com.br/images/10/101668288544351.jpg",
-      "https://img.olx.com.br/images/12/126658160258830.jpg",
-      "https://img.olx.com.br/images/13/132610649427835.jpg",
-      "https://img.olx.com.br/images/15/156644169188478.jpg"
-    ],
-    "id": "1502572241",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/ps3-com-defeito-4-controles-jogos-originais-1502572241",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 Com Defeito + 4 Controles + Jogos Originais",
-    "ts": 1779029133
   }
 ]
