@@ -1,20 +1,42 @@
 [
   {
-    "id": "1502075857",
-    "titulo": "PlayStation 4 Slim",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1502048710",
+    "titulo": "Steelbook far cry 6 ps4",
+    "preco": 400,
+    "precoRaw": "R$ 400",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:33",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-4-slim-1502075857",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/steelbook-far-cry-6-ps4-1502048710",
+    "fotoUrl": "https://img.olx.com.br/images/58/589626400501876.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/589626400501876.jpg",
+      "https://img.olx.com.br/images/60/604635284463215.jpg",
+      "https://img.olx.com.br/images/61/610664762176512.jpg",
+      "https://img.olx.com.br/images/63/633636284139520.jpg",
+      "https://img.olx.com.br/images/65/655600164100556.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028399
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:33",
     "fotoUrl": "https://img.olx.com.br/images/46/463604403461920.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/463604403461920.jpg"
     ],
-    "defeito": false,
+    "id": "1502075857",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-4-slim-1502075857",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PlayStation 4 Slim",
     "ts": 1779028394
   },
   {
@@ -9913,24 +9935,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "NEO: The World Ends With You - Playstation 4",
     "ts": 1778594510
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:01",
-    "fotoUrl": "https://img.olx.com.br/images/65/658562211512140.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/658562211512140.jpg",
-      "https://img.olx.com.br/images/65/655506214628892.jpg"
-    ],
-    "id": "1442688597",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/tales-of-vesperia-definitive-edition-playstation-4-1442688597",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Tales of Vesperia Definitive Edition - Playstation 4",
-    "ts": 1778594503
   }
 ]
