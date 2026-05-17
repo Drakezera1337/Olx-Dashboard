@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502636945",
-    "titulo": "Playstation 5 (Mídia Física)",
-    "preco": 3150,
-    "precoRaw": "R$ 3.150",
-    "categoria": "ps5",
+    "id": "1501553408",
+    "titulo": "Nintendo Switch Oled desbloqueado ",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "12:05",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-midia-fisica-1502636945",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-desbloqueado-1501553408",
+    "fotoUrl": "https://img.olx.com.br/images/86/862689527376216.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/862689527376216.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779030341
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:05",
     "fotoUrl": "https://img.olx.com.br/images/23/238665404007929.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/238665404007929.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/23/236692882417986.jpg",
       "https://img.olx.com.br/images/62/621698161454363.jpg"
     ],
-    "defeito": false,
+    "id": "1502636945",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-midia-fisica-1502636945",
+    "preco": 3150,
+    "precoRaw": "R$ 3.150",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Playstation 5 (Mídia Física)",
     "ts": 1779030332
   },
   {
@@ -10089,23 +10107,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": "Xbox serie S",
     "ts": 1778608947
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:00",
-    "fotoUrl": "https://img.olx.com.br/images/37/372603760395151.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/372603760395151.jpg"
-    ],
-    "id": "1501450131",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/metal-gear-edicao-lancamento-ps4-1501450131",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Metal Gear Edição Lançamento Ps4 ",
-    "ts": 1778608834
   }
 ]
