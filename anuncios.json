@@ -1,20 +1,42 @@
 [
   {
-    "id": "1502792232",
-    "titulo": "Ea Fc 24 ps4/ps5 mídia digital",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "ps5",
+    "id": "1502792050",
+    "titulo": "Ps4 slim 500 gb",
+    "preco": 1650,
+    "precoRaw": "R$ 1.650",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:55",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ea-fc-24-ps4-ps5-midia-digital-1502792232",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-500-gb-1502792050",
+    "fotoUrl": "https://img.olx.com.br/images/63/635605161781947.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/635605161781947.jpg",
+      "https://img.olx.com.br/images/65/651671288478753.jpg",
+      "https://img.olx.com.br/images/68/689633046111583.jpg",
+      "https://img.olx.com.br/images/70/705659645155407.jpg",
+      "https://img.olx.com.br/images/72/724694649532274.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779040519
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:55",
     "fotoUrl": "https://img.olx.com.br/images/65/659652404783824.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/659652404783824.jpg"
     ],
-    "defeito": false,
+    "id": "1502792232",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ea-fc-24-ps4-ps5-midia-digital-1502792232",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "Ea Fc 24 ps4/ps5 mídia digital",
     "ts": 1779040510
   },
   {
@@ -9971,23 +9993,5 @@
     "tempoOlx": "",
     "titulo": "Ps4 fat personalizado com defeito",
     "ts": 1779027963
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:25",
-    "fotoUrl": "https://img.olx.com.br/images/84/841684281551464.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/841684281551464.jpg"
-    ],
-    "id": "1502636650",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-4-com-defeito-1502636650",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 4 com defeito",
-    "ts": 1779027955
   }
 ]
