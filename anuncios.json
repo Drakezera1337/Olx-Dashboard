@@ -1,22 +1,43 @@
 [
   {
-    "id": "1502625301",
-    "titulo": "Xbox Séries S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1502612928",
+    "titulo": "Xbox séries S 512GB",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "11:35",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-series-s-1502625301",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-512gb-1502612928",
+    "fotoUrl": "https://img.olx.com.br/images/45/459681287651143.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/459681287651143.jpg",
+      "https://img.olx.com.br/images/47/474603166328132.jpg",
+      "https://img.olx.com.br/images/49/490666166629129.jpg",
+      "https://img.olx.com.br/images/51/516660768232398.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028547
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:35",
     "fotoUrl": "https://img.olx.com.br/images/49/495655403141777.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/495655403141777.jpg",
       "https://img.olx.com.br/images/49/491680287330453.jpg",
       "https://img.olx.com.br/images/50/509675521720494.jpg"
     ],
-    "defeito": false,
+    "id": "1502625301",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-series-s-1502625301",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Séries S ",
     "ts": 1779028537
   },
   {
@@ -9943,23 +9964,5 @@
     "tempoOlx": "Na OLX desde março de 2021",
     "titulo": "Playstation 4 Slim",
     "ts": 1778595618
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:19",
-    "fotoUrl": "https://img.olx.com.br/images/32/326663377787928.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/326663377787928.jpg"
-    ],
-    "id": "1476135631",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps3-e-ps4-1476135631",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Jogos PS3 e PS4 ",
-    "ts": 1778595565
   }
 ]
