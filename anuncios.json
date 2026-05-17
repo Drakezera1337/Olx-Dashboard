@@ -1,21 +1,42 @@
 [
   {
-    "id": "1502739542",
-    "titulo": "Xbox série S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1502692635",
+    "titulo": "Xbox Series S 512GB Semi Novo | Muito Conservado, preço negociável.",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "11:35",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/xbox-serie-s-1502739542",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-semi-novo-muito-conservado-preco-negociavel-1502692635",
+    "fotoUrl": "https://img.olx.com.br/images/54/546661167532111.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/546661167532111.jpg",
+      "https://img.olx.com.br/images/56/564655286028070.jpg",
+      "https://img.olx.com.br/images/59/590612640466571.jpg",
+      "https://img.olx.com.br/images/62/626682640813200.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028509
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:35",
     "fotoUrl": "https://img.olx.com.br/images/22/226624525514071.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/226624525514071.jpg",
       "https://img.olx.com.br/images/23/238606289753994.jpg"
     ],
-    "defeito": false,
+    "id": "1502739542",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/xbox-serie-s-1502739542",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox série S ",
     "ts": 1779028501
   },
   {
@@ -9933,24 +9954,5 @@
     "tempoOlx": "Na OLX desde julho de 2025",
     "titulo": "Jogo PS4 Uncharted 4 A Thielfs Endereço PS4",
     "ts": 1778594883
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:07",
-    "fotoUrl": "https://img.olx.com.br/images/42/429661282330557.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/429661282330557.jpg",
-      "https://img.olx.com.br/images/44/442645160996027.jpg"
-    ],
-    "id": "1501372886",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/the-last-of-us-1501372886",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "The last Of us ",
-    "ts": 1778594862
   }
 ]
