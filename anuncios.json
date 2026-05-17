@@ -1,21 +1,40 @@
 [
   {
-    "id": "1438886702",
-    "titulo": "PES 2020",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "outros",
+    "id": "1457706703",
+    "titulo": "FIFA 21 PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:27",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/pes-2020-1438886702",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/fifa-21-ps4-1457706703",
+    "fotoUrl": "https://img.olx.com.br/images/47/479567220492169.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/479567220492169.jpg",
+      "https://img.olx.com.br/images/49/494513706132591.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028040
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:27",
     "fotoUrl": "https://img.olx.com.br/images/71/719562204680327.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/719562204680327.jpg",
       "https://img.olx.com.br/images/73/733557325098220.jpg"
     ],
-    "defeito": false,
+    "id": "1438886702",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/pes-2020-1438886702",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PES 2020",
     "ts": 1779028032
   },
   {
@@ -9907,24 +9926,5 @@
     "tempoOlx": "",
     "titulo": "PLAYSTATION 4 PRO 1TB + CONTROLE MODIFICADO + 3 JOGOS",
     "ts": 1778593159
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:39",
-    "fotoUrl": "https://img.olx.com.br/images/32/325671370616093.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/325671370616093.jpg",
-      "https://img.olx.com.br/images/34/340610736939825.jpg"
-    ],
-    "id": "1476018626",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/lego-harry-potter-collection-ps4-1476018626",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "LEGO Harry Potter Collection - PS4",
-    "ts": 1778593144
   }
 ]
