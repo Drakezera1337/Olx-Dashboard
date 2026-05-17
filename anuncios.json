@@ -1,20 +1,41 @@
 [
   {
-    "id": "1502794040",
-    "titulo": "Jogos ps4 venda ou troca ",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "ps4",
+    "id": "1502795672",
+    "titulo": "iPhone ",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "15:06",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "detectado": "15:15",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-venda-ou-troca-1502794040",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-1502795672",
+    "fotoUrl": "https://img.olx.com.br/images/26/260642888217151.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/260642888217151.jpg",
+      "https://img.olx.com.br/images/29/292611164175747.jpg",
+      "https://img.olx.com.br/images/30/300666640903605.jpg",
+      "https://img.olx.com.br/images/32/326610520942593.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779041730
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:06",
     "fotoUrl": "https://img.olx.com.br/images/32/325643888015565.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/325643888015565.jpg"
     ],
-    "defeito": false,
+    "id": "1502794040",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-venda-ou-troca-1502794040",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Jogos ps4 venda ou troca ",
     "ts": 1779041196
   },
   {
@@ -9964,28 +9985,5 @@
     "tempoOlx": "",
     "titulo": "CALL OF DUTY ADVANCE WARFARE ATLAS LIMITED EDITION PS4",
     "ts": 1779028023
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:26",
-    "fotoUrl": "https://img.olx.com.br/images/10/102671397581612.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/102671397581612.jpg",
-      "https://img.olx.com.br/images/11/117648399429051.jpg",
-      "https://img.olx.com.br/images/12/123624398557723.jpg",
-      "https://img.olx.com.br/images/13/131638275026763.jpg",
-      "https://img.olx.com.br/images/14/142671274183300.jpg",
-      "https://img.olx.com.br/images/15/153683275620975.jpg"
-    ],
-    "id": "1494063890",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-fat-500gb-2-controles-4-jogos-1494063890",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "? PlayStation 4 Fat 500GB + 2 Controles + 4 Jogos",
-    "ts": 1779028015
   }
 ]
