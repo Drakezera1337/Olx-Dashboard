@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502785705",
-    "titulo": "Jogo PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1502785699",
+    "titulo": "Xbox Series S 512GB Com Controle Original",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "14:16",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "detectado": "14:17",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogo-ps4-1502785705",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-com-controle-original-1502785699",
+    "fotoUrl": "https://img.olx.com.br/images/76/761640764498798.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/761640764498798.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779038275
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:16",
     "fotoUrl": "https://img.olx.com.br/images/80/803677163871053.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/803677163871053.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/84/844628287384321.jpg",
       "https://img.olx.com.br/images/86/863649282086036.jpg"
     ],
-    "defeito": false,
+    "id": "1502785705",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogo-ps4-1502785705",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "Jogo PS4",
     "ts": 1779038215
   },
   {
@@ -9968,25 +9986,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Iphone 12 -   128 GB",
-    "ts": 1779027871
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:24",
-    "fotoUrl": "https://img.olx.com.br/images/67/671692161531810.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/671692161531810.jpg",
-      "https://img.olx.com.br/images/70/708648769047259.jpg"
-    ],
-    "id": "1501534452",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/leitor-de-cd-ps5-slim-1501534452",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Leitor de cd ps5 slim ",
     "ts": 1779027871
   }
 ]
