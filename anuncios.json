@@ -1,20 +1,39 @@
 [
   {
-    "id": "1502264050",
-    "titulo": "Xbox séries S - Vídeo game",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1502050154",
+    "titulo": "xbox series s ",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "11:36",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-series-s-video-game-1502264050",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/xbox-series-s-1502050154",
+    "fotoUrl": "https://img.olx.com.br/images/11/112620408067217.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/112620408067217.jpg",
+      "https://img.olx.com.br/images/12/124612649955132.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028602
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:36",
     "fotoUrl": "https://img.olx.com.br/images/55/550667286054803.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/550667286054803.jpg"
     ],
-    "defeito": false,
+    "id": "1502264050",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-series-s-video-game-1502264050",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox séries S - Vídeo game",
     "ts": 1779028595
   },
   {
@@ -9950,23 +9969,5 @@
     "tempoOlx": "Na OLX desde junho de 2021",
     "titulo": "God of War Ragnarok PS4",
     "ts": 1778595719
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:21",
-    "fotoUrl": "https://img.olx.com.br/images/81/818636286972480.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/818636286972480.jpg"
-    ],
-    "id": "1501375181",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogos-para-ps4-1501375181",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2014",
-    "titulo": "JOGOS PARA PS4.",
-    "ts": 1778595712
   }
 ]
