@@ -1,7 +1,7 @@
 [
   {
-    "id": "1502374362",
-    "titulo": "Ps4 slim",
+    "id": "1502321542",
+    "titulo": "Ps4 slim 2 tb",
     "preco": 1000,
     "precoRaw": "R$ 1.000",
     "categoria": "ps4",
@@ -9,14 +9,33 @@
     "detectado": "11:32",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1502374362",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-2-tb-1502321542",
+    "fotoUrl": "https://img.olx.com.br/images/54/547699286697867.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/547699286697867.jpg",
+      "https://img.olx.com.br/images/56/568604286733070.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028348
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:32",
     "fotoUrl": "https://img.olx.com.br/images/13/132654282806663.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/132654282806663.jpg",
       "https://img.olx.com.br/images/15/151686164882993.jpg",
       "https://img.olx.com.br/images/17/171631404541465.jpg"
     ],
-    "defeito": false,
+    "id": "1502374362",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1502374362",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 slim",
     "ts": 1779028339
   },
   {
@@ -9915,25 +9934,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Jogos para ps4",
     "ts": 1778594442
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:00",
-    "fotoUrl": "https://img.olx.com.br/images/34/348639168762840.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/348639168762840.jpg",
-      "https://img.olx.com.br/images/36/365665524681474.jpg",
-      "https://img.olx.com.br/images/37/371630764865747.jpg"
-    ],
-    "id": "1501372362",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/the-last-of-us-2-1501372362",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "The last Of us 2",
-    "ts": 1778594431
   }
 ]
