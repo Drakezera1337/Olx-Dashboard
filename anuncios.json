@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501654343",
-    "titulo": "Xbox series s",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
+    "id": "1501553521",
+    "titulo": "Xbox séries S ",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "12:06",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1501654343",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1501553521",
+    "fotoUrl": "https://img.olx.com.br/images/43/430657646134880.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/430657646134880.jpg",
+      "https://img.olx.com.br/images/44/445698169141042.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779030415
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:06",
     "fotoUrl": "https://img.olx.com.br/images/54/544687520982939.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/544687520982939.jpg",
       "https://img.olx.com.br/images/55/550608047985843.jpg"
     ],
-    "defeito": false,
+    "id": "1501654343",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1501654343",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox series s",
     "ts": 1779030408
   },
   {
@@ -10092,26 +10111,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2018",
     "titulo": "Controle PS4",
     "ts": 1778609314
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:08",
-    "fotoUrl": "https://img.olx.com.br/images/39/395651761255375.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/395651761255375.jpg",
-      "https://img.olx.com.br/images/41/415639163324303.jpg",
-      "https://img.olx.com.br/images/45/456687281926811.jpg",
-      "https://img.olx.com.br/images/48/483648648442135.jpg"
-    ],
-    "id": "1501452460",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-fat-1tb-2-controles-e-caixa-1501452460",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2019",
-    "titulo": "PS4 FAT, 1TB, 2 controles e caixa ",
-    "ts": 1778609308
   }
 ]
