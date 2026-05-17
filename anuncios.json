@@ -1,21 +1,39 @@
 [
   {
-    "id": "1438300426",
-    "titulo": "Uncharted 1",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1502857567",
+    "titulo": "Ratchet clank ps4",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:15",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "detectado": "20:16",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/uncharted-1-1438300426",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ratchet-clank-ps4-1502857567",
+    "fotoUrl": "https://img.olx.com.br/images/35/355645165362472.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/355645165362472.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779059812
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:15",
     "fotoUrl": "https://img.olx.com.br/images/13/136519562890946.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/136519562890946.jpg",
       "https://img.olx.com.br/images/16/162525683116739.jpg"
     ],
-    "defeito": false,
+    "id": "1438300426",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/uncharted-1-1438300426",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "Uncharted 1",
     "ts": 1779059752
   },
   {
@@ -9930,25 +9948,5 @@
     "tempoOlx": "",
     "titulo": "Call of Duty MW3 - PS3",
     "ts": 1779029022
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/54/548658740256440.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/548658740256440.jpg",
-      "https://img.olx.com.br/images/56/560610144276269.jpg",
-      "https://img.olx.com.br/images/58/580631149280363.jpg"
-    ],
-    "id": "1484999420",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/colecao-farcry-ps3-1484999420",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Coleção Farcry Ps3",
-    "ts": 1779029015
   }
 ]
