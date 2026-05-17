@@ -1,5 +1,49 @@
 [
   {
+    "id": "1502788137",
+    "titulo": "Vendo Nintendo Switch",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "switch",
+    "publicado": "",
+    "detectado": "14:27",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "descricao": "",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/vendo-nintendo-switch-1502788137",
+    "fotoUrl": "https://img.olx.com.br/images/50/506661162591235.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/506661162591235.jpg",
+      "https://img.olx.com.br/images/52/528625283955802.jpg",
+      "https://img.olx.com.br/images/54/541612526976318.jpg",
+      "https://img.olx.com.br/images/55/558670044968979.jpg",
+      "https://img.olx.com.br/images/56/563607287285461.jpg",
+      "https://img.olx.com.br/images/58/580684646445006.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779038877
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:23",
+    "fotoUrl": "https://img.olx.com.br/images/33/338682288762762.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/338682288762762.jpg",
+      "https://img.olx.com.br/images/34/341605642522717.jpg",
+      "https://img.olx.com.br/images/36/365628163045372.jpg",
+      "https://img.olx.com.br/images/38/385671284160149.jpg"
+    ],
+    "id": "1502786606",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-ps4-1502786606",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2013",
+    "titulo": "JOGOS PS4",
+    "ts": 1779038612
+  },
+  {
     "id": "1502787340",
     "titulo": "IPHONE 11 tela sem nenhum arranhão ",
     "preco": 650,
@@ -9947,45 +9991,5 @@
     "tempoOlx": "",
     "titulo": "Playstation 4 FAT com defeito Ps4 - leia a descrição ",
     "ts": 1779027887
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:24",
-    "fotoUrl": "https://img.olx.com.br/images/90/909625274009359.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/909625274009359.jpg",
-      "https://img.olx.com.br/images/90/908657512693627.jpg",
-      "https://img.olx.com.br/images/91/910643512281678.jpg"
-    ],
-    "id": "1497187756",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/vr-2-1497187756",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vr 2",
-    "ts": 1779027879
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:24",
-    "fotoUrl": "https://img.olx.com.br/images/87/870623761757081.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/870623761757081.jpg",
-      "https://img.olx.com.br/images/88/880640527233818.jpg",
-      "https://img.olx.com.br/images/88/882602162375480.jpg"
-    ],
-    "id": "1502152412",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-256-gb-1502152412",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 13 Pro Max 256 gb",
-    "ts": 1779027879
   }
 ]
