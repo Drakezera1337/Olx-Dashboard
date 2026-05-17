@@ -1,5 +1,41 @@
 [
   {
+    "id": "1502086881",
+    "titulo": "iPhone",
+    "preco": 6000,
+    "precoRaw": "R$ 6.000",
+    "categoria": "iphone",
+    "publicado": "",
+    "detectado": "11:19",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "descricao": "",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-1502086881",
+    "fotoUrl": "https://img.olx.com.br/images/74/745643406237330.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/745643406237330.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027567
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:19",
+    "fotoUrl": "https://img.olx.com.br/images/95/954684288862347.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/954684288862347.jpg"
+    ],
+    "id": "1502193802",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-15-pro-max-512-gb-1502193802",
+    "preco": 4800,
+    "precoRaw": "R$ 4.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "Vendo iphone 15 pro max 512 gb ",
+    "ts": 1779027559
+  },
+  {
     "id": "1488133443",
     "titulo": "Videogame ",
     "preco": 400,
@@ -40,16 +76,10 @@
     "ts": 1779027550
   },
   {
-    "id": "1409949906",
-    "titulo": " Jogos de PlayStation - PS4 e Ps5 - Novos e Usados",
-    "preco": 45,
-    "precoRaw": "R$ 45",
     "categoria": "ps5",
-    "publicado": "",
-    "detectado": "11:19",
-    "tempoOlx": "Na OLX desde setembro de 2020",
+    "defeito": false,
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogos-de-playstation-ps4-e-ps5-novos-e-usados-1409949906",
+    "detectado": "11:19",
     "fotoUrl": "https://img.olx.com.br/images/70/706631611158624.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/706631611158624.jpg",
@@ -59,7 +89,13 @@
       "https://img.olx.com.br/images/76/765686373726521.jpg",
       "https://img.olx.com.br/images/77/771627371760950.jpg"
     ],
-    "defeito": false,
+    "id": "1409949906",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogos-de-playstation-ps4-e-ps5-novos-e-usados-1409949906",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2020",
+    "titulo": " Jogos de PlayStation - PS4 e Ps5 - Novos e Usados",
     "ts": 1779027550
   },
   {
@@ -9860,47 +9896,5 @@
     "tempoOlx": "",
     "titulo": "iPhone 14 Pro 128 gb Roxo Profundo ",
     "ts": 1778592769
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/78/784650160439762.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/784650160439762.jpg",
-      "https://img.olx.com.br/images/80/804622165024061.jpg",
-      "https://img.olx.com.br/images/81/812661762829090.jpg",
-      "https://img.olx.com.br/images/83/837671761614266.jpg"
-    ],
-    "id": "1500505137",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-branco-128gb-unico-dono-sem-detalhes-pelicula-frente-e-verso-1500505137",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14 Branco 128GB - Único Dono - Sem Detalhes (Película Frente e Verso)",
-    "ts": 1778592742
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/82/822670646863810.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/822670646863810.jpg",
-      "https://img.olx.com.br/images/84/847699767052558.jpg",
-      "https://img.olx.com.br/images/87/875620762852488.jpg",
-      "https://img.olx.com.br/images/89/890621400029085.jpg"
-    ],
-    "id": "1500134319",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-64gb-1500134319",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 8 64gb",
-    "ts": 1778592742
   }
 ]
