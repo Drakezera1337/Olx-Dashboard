@@ -1,15 +1,30 @@
 [
   {
-    "id": "1502469528",
-    "titulo": "iPhone 11 (Na Caixa) - Impecável, Único Dono!",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1459102963",
+    "titulo": "Dualsense God of War - Ps5",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:23",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-na-caixa-impecavel-unico-dono-1502469528",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/dualsense-god-of-war-ps5-1459102963",
+    "fotoUrl": "https://img.olx.com.br/images/10/103551713023895.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/103551713023895.jpg",
+      "https://img.olx.com.br/images/15/151568233509544.jpg",
+      "https://img.olx.com.br/images/18/182533717647491.jpg",
+      "https://img.olx.com.br/images/20/202598352264539.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027816
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:23",
     "fotoUrl": "https://img.olx.com.br/images/57/572670286335520.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/572670286335520.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/61/615672644253256.jpg",
       "https://img.olx.com.br/images/62/628643287425575.jpg"
     ],
-    "defeito": false,
+    "id": "1502469528",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-na-caixa-impecavel-unico-dono-1502469528",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "iPhone 11 (Na Caixa) - Impecável, Único Dono!",
     "ts": 1779027812
   },
   {
@@ -9906,29 +9927,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Video gamer console ",
-    "ts": 1778592962
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/13/136631520673825.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/136631520673825.jpg",
-      "https://img.olx.com.br/images/48/481649289574674.jpg",
-      "https://img.olx.com.br/images/48/489635286628312.jpg",
-      "https://img.olx.com.br/images/48/480624527432954.jpg",
-      "https://img.olx.com.br/images/48/489626403664655.jpg",
-      "https://img.olx.com.br/images/48/487632400301104.jpg"
-    ],
-    "id": "1499805280",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-dsi-rosa-seminovo-1499805280",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Dsi Rosa Seminovo",
     "ts": 1778592962
   }
 ]
