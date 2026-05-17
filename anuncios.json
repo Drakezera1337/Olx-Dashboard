@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502273370",
-    "titulo": "Xbox Series S ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1502264050",
+    "titulo": "Xbox séries S - Vídeo game",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "11:36",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1502273370",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-series-s-video-game-1502264050",
+    "fotoUrl": "https://img.olx.com.br/images/55/550667286054803.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/550667286054803.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028595
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:36",
     "fotoUrl": "https://img.olx.com.br/images/63/637607882733601.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/637607882733601.jpg"
     ],
-    "defeito": false,
+    "id": "1502273370",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1502273370",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Series S ",
     "ts": 1779028586
   },
   {
@@ -9950,23 +9968,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "JOGOS PARA PS4.",
     "ts": 1778595712
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:21",
-    "fotoUrl": "https://img.olx.com.br/images/28/280632626553700.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/280632626553700.jpg"
-    ],
-    "id": "1482496222",
-    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/jogos-ps3-ps4-ps5-e-xbox-one-1482496222",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "Jogos PS3, PS4, PS5 e Xbox One ",
-    "ts": 1778595703
   }
 ]
