@@ -1,15 +1,50 @@
 [
   {
-    "id": "1501649270",
-    "titulo": "IPHONE 13",
+    "id": "1501646973",
+    "titulo": "iPhone 7",
     "preco": 600,
     "precoRaw": "R$ 600",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "11:21",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde março de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1501649270",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-1501646973",
+    "fotoUrl": "https://img.olx.com.br/images/37/374691646704734.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/374691646704734.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027672
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:21",
+    "fotoUrl": "https://img.olx.com.br/images/70/704650276138468.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/704650276138468.jpg",
+      "https://img.olx.com.br/images/72/721675756660421.jpg",
+      "https://img.olx.com.br/images/74/742642031987553.jpg",
+      "https://img.olx.com.br/images/76/769682751209295.jpg",
+      "https://img.olx.com.br/images/77/777616638362858.jpg",
+      "https://img.olx.com.br/images/78/789680513147842.jpg"
+    ],
+    "id": "1493938799",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps5-vr2-1493938799",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "Ps5 VR2",
+    "ts": 1779027665
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:21",
     "fotoUrl": "https://img.olx.com.br/images/87/872658040609738.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/872658040609738.jpg",
@@ -18,7 +53,13 @@
       "https://img.olx.com.br/images/95/954622404346724.jpg",
       "https://img.olx.com.br/images/98/988657648001030.jpg"
     ],
-    "defeito": false,
+    "id": "1501649270",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1501649270",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "IPHONE 13",
     "ts": 1779027663
   },
   {
@@ -9878,48 +9919,5 @@
     "tempoOlx": "",
     "titulo": "Tales of Vesperia - PS3",
     "ts": 1778592903
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:34",
-    "fotoUrl": "https://img.olx.com.br/images/11/115645163785285.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/115645163785285.jpg",
-      "https://img.olx.com.br/images/12/120628285732519.jpg",
-      "https://img.olx.com.br/images/13/136618283016081.jpg"
-    ],
-    "id": "1501342238",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/x-box-serie-s-1501342238",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "X Box série S ",
-    "ts": 1778592847
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:34",
-    "fotoUrl": "https://img.olx.com.br/images/57/573659277929689.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/573659277929689.jpg",
-      "https://img.olx.com.br/images/59/591643271798947.jpg",
-      "https://img.olx.com.br/images/62/629696631385947.jpg",
-      "https://img.olx.com.br/images/63/638619639089691.jpg",
-      "https://img.olx.com.br/images/65/653601398783133.jpg",
-      "https://img.olx.com.br/images/67/673687277285412.jpg"
-    ],
-    "id": "1493057195",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/video-game-xbox-serie-s-controle-rosa-1493057195",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vídeo Game Xbox série S / Controle Rosa ",
-    "ts": 1778592847
   }
 ]
