@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502778728",
-    "titulo": "Ps4 slim",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1502779038",
+    "titulo": "Caixa de ps5",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:40",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "detectado": "13:41",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-slim-1502778728",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/caixa-de-ps5-1502779038",
+    "fotoUrl": "https://img.olx.com.br/images/17/175651766527246.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/175651766527246.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779036116
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:40",
     "fotoUrl": "https://img.olx.com.br/images/13/136626168854641.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/136626168854641.jpg"
     ],
-    "defeito": false,
+    "id": "1502778728",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-slim-1502778728",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "Ps4 slim",
     "ts": 1779036034
   },
   {
@@ -10002,28 +10020,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "Mac Mini i5 8gb ram e 320gb com Batocera 10000 jogos",
     "ts": 1779027723
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:21",
-    "fotoUrl": "https://img.olx.com.br/images/66/662671287475757.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/662671287475757.jpg",
-      "https://img.olx.com.br/images/68/680692524496922.jpg",
-      "https://img.olx.com.br/images/70/704636407167165.jpg",
-      "https://img.olx.com.br/images/71/713688644229788.jpg",
-      "https://img.olx.com.br/images/73/736631281414764.jpg",
-      "https://img.olx.com.br/images/76/763616763343306.jpg"
-    ],
-    "id": "1502262217",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-portal-all-black-1502262217",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "PlayStation Portal all black ",
-    "ts": 1779027713
   }
 ]
