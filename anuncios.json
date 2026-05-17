@@ -1,15 +1,32 @@
 [
   {
-    "id": "1502709520",
-    "titulo": "Nintendo DS lite",
-    "preco": 180,
-    "precoRaw": "R$ 180",
+    "id": "1502709037",
+    "titulo": "Nintendo DSI",
+    "preco": 300,
+    "precoRaw": "R$ 300",
     "categoria": "switch",
     "publicado": "",
     "detectado": "11:51",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-ds-lite-1502709520",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-dsi-1502709037",
+    "fotoUrl": "https://img.olx.com.br/images/25/253687645812296.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/253687645812296.jpg",
+      "https://img.olx.com.br/images/27/272646769583742.jpg",
+      "https://img.olx.com.br/images/28/285691880371794.jpg",
+      "https://img.olx.com.br/images/29/295618404372659.jpg",
+      "https://img.olx.com.br/images/30/303674884612017.jpg",
+      "https://img.olx.com.br/images/32/326654528698789.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029489
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:51",
     "fotoUrl": "https://img.olx.com.br/images/27/275641646391231.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/275641646391231.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/33/336698280982074.jpg",
       "https://img.olx.com.br/images/34/347661043422802.jpg"
     ],
-    "defeito": false,
+    "id": "1502709520",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-ds-lite-1502709520",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Nintendo DS lite",
     "ts": 1779029479
   },
   {
@@ -10055,24 +10078,5 @@
     "tempoOlx": "Na OLX desde junho de 2022",
     "titulo": "Jogo PS4/playstation 4 - GTA 5",
     "ts": 1778602716
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:18",
-    "fotoUrl": "https://img.olx.com.br/images/83/838688641012785.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/838688641012785.jpg",
-      "https://img.olx.com.br/images/84/840650888881682.jpg"
-    ],
-    "id": "1501417908",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-de-ps4-diablo-eternal-collection-1501417908",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2021",
-    "titulo": "Jogo de PS4 - Diablo (Eternal Collection)",
-    "ts": 1778602708
   }
 ]
