@@ -1,20 +1,39 @@
 [
   {
-    "id": "1502779038",
-    "titulo": "Caixa de ps5",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps5",
+    "id": "1502780865",
+    "titulo": "Far cry primal ps4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:41",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "13:45",
+    "tempoOlx": "Na OLX desde agosto de 2018",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/caixa-de-ps5-1502779038",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/far-cry-primal-ps4-1502780865",
+    "fotoUrl": "https://img.olx.com.br/images/42/421666646549973.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/421666646549973.jpg",
+      "https://img.olx.com.br/images/44/446639767569220.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779036327
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:41",
     "fotoUrl": "https://img.olx.com.br/images/17/175651766527246.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/175651766527246.jpg"
     ],
-    "defeito": false,
+    "id": "1502779038",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/caixa-de-ps5-1502779038",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Caixa de ps5",
     "ts": 1779036116
   },
   {
@@ -10000,25 +10019,6 @@
     "publicado": "",
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "iPhone 11 Pro ",
-    "ts": 1779027723
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:22",
-    "fotoUrl": "https://img.olx.com.br/images/82/823691649732574.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/823691649732574.jpg",
-      "https://img.olx.com.br/images/83/830637285335520.jpg"
-    ],
-    "id": "1502254437",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/mac-mini-i5-8gb-ram-e-320gb-com-batocera-10000-jogos-1502254437",
-    "preco": 820,
-    "precoRaw": "R$ 820",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Mac Mini i5 8gb ram e 320gb com Batocera 10000 jogos",
     "ts": 1779027723
   }
 ]
