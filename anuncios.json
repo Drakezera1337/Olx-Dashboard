@@ -1,21 +1,40 @@
 [
   {
-    "id": "1502797593",
-    "titulo": "Kingdom Hearts III - PS4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1502797577",
+    "titulo": "Days Gone PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:23",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "detectado": "15:24",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/kingdom-hearts-iii-ps4-1502797593",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/days-gone-ps4-1502797577",
+    "fotoUrl": "https://img.olx.com.br/images/59/593692769811097.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/593692769811097.jpg",
+      "https://img.olx.com.br/images/61/617690527247536.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779042246
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:23",
     "fotoUrl": "https://img.olx.com.br/images/72/722649283378204.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/722649283378204.jpg",
       "https://img.olx.com.br/images/74/740641643588348.jpg"
     ],
-    "defeito": false,
+    "id": "1502797593",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/kingdom-hearts-iii-ps4-1502797593",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "Kingdom Hearts III - PS4",
     "ts": 1779042238
   },
   {
@@ -9967,24 +9986,5 @@
     "tempoOlx": "",
     "titulo": "Play 4 barato",
     "ts": 1779028091
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:28",
-    "fotoUrl": "https://img.olx.com.br/images/18/187677526895534.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/187677526895534.jpg",
-      "https://img.olx.com.br/images/20/204636649898232.jpg"
-    ],
-    "id": "1502406313",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-4-1502406313",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 4",
-    "ts": 1779028082
   }
 ]
