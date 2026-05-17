@@ -1,22 +1,43 @@
 [
   {
-    "id": "1502737828",
-    "titulo": "PS4 com defeito ",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps4",
+    "id": "1501873291",
+    "titulo": "Iphone 13 128gb Impecável",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:25",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-com-defeito-1502737828",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-impecavel-1501873291",
+    "fotoUrl": "https://img.olx.com.br/images/82/820658409497626.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/820658409497626.jpg",
+      "https://img.olx.com.br/images/84/847634280316315.jpg",
+      "https://img.olx.com.br/images/86/868664281096037.jpg",
+      "https://img.olx.com.br/images/89/897695409667404.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027922
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:25",
     "fotoUrl": "https://img.olx.com.br/images/59/593673768115151.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/593673768115151.jpg",
       "https://img.olx.com.br/images/61/618649769994691.jpg",
       "https://img.olx.com.br/images/62/621639286541538.jpg"
     ],
-    "defeito": false,
+    "id": "1502737828",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-com-defeito-1502737828",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PS4 com defeito ",
     "ts": 1779027916
   },
   {
@@ -9905,23 +9926,5 @@
     "tempoOlx": "",
     "titulo": "Nitendo swich OLED com (super mario wonder) com 1 mês de uso pelo valor de: 2.400*",
     "ts": 1778593025
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/84/848687391559895.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/848687391559895.jpg"
-    ],
-    "id": "1490117595",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/kit-de-queima-de-estoque-com-4-funks-pop-de-animes-one-piece-bleach-1490117595",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Kit de queima de estoque com 4 Funks pop de Animes, One piece, Bleach",
-    "ts": 1778593011
   }
 ]
