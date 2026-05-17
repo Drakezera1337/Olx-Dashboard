@@ -1,21 +1,40 @@
 [
   {
-    "id": "1502732940",
-    "titulo": "Xbox one s + 6 jogos ",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "categoria": "xbox",
+    "id": "1502677554",
+    "titulo": "Ps4",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:05",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-6-jogos-1502732940",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1502677554",
+    "fotoUrl": "https://img.olx.com.br/images/86/863642283233775.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/863642283233775.jpg",
+      "https://img.olx.com.br/images/88/885614760037904.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779030325
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:05",
     "fotoUrl": "https://img.olx.com.br/images/55/557661646635660.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/557661646635660.jpg",
       "https://img.olx.com.br/images/56/567675764829081.jpg"
     ],
-    "defeito": false,
+    "id": "1502732940",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-6-jogos-1502732940",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox one s + 6 jogos ",
     "ts": 1779030317
   },
   {
@@ -10084,26 +10103,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "Pes 2021 ps4",
     "ts": 1778608826
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:55",
-    "fotoUrl": "https://img.olx.com.br/images/61/613674163533682.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/613674163533682.jpg",
-      "https://img.olx.com.br/images/62/621672526379745.jpg",
-      "https://img.olx.com.br/images/63/632622407270766.jpg",
-      "https://img.olx.com.br/images/64/648653648546273.jpg"
-    ],
-    "id": "1501449978",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/psp-go-para-reparo-1501449978",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
-    "titulo": "PSP GO para reparo ",
-    "ts": 1778608538
   }
 ]
