@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502264764",
-    "titulo": "Ps3",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1461231631",
+    "titulo": "Batman arkham origins",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:42",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps3-1502264764",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/batman-arkham-origins-1461231631",
+    "fotoUrl": "https://img.olx.com.br/images/48/485580716972191.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/485580716972191.jpg",
+      "https://img.olx.com.br/images/50/500545238201403.jpg",
+      "https://img.olx.com.br/images/51/510523717433505.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028935
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:42",
     "fotoUrl": "https://img.olx.com.br/images/18/181669527700934.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/181669527700934.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/20/206634643844063.jpg",
       "https://img.olx.com.br/images/20/207608166563119.jpg"
     ],
-    "defeito": false,
+    "id": "1502264764",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps3-1502264764",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps3",
     "ts": 1779028927
   },
   {
@@ -9984,23 +10004,5 @@
     "tempoOlx": "Na OLX desde agosto de 2020",
     "titulo": "Jogo PS4 RED DEAD II",
     "ts": 1778598446
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:04",
-    "fotoUrl": "https://img.olx.com.br/images/76/767669500180479.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/767669500180479.jpg"
-    ],
-    "id": "1485006399",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/lote-de-jogos-de-ps4-10-jogos-1485006399",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Lote de Jogos de PS4 (10 Jogos)",
-    "ts": 1778598271
   }
 ]
