@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502736168",
-    "titulo": "Hello Neighbor - Ps4",
-    "preco": 180,
-    "precoRaw": "R$ 180",
+    "id": "1502736126",
+    "titulo": "PS4",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:03",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/hello-neighbor-ps4-1502736168",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/ps4-1502736126",
+    "fotoUrl": "https://img.olx.com.br/images/87/876641407255020.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/876641407255020.jpg",
+      "https://img.olx.com.br/images/88/884635760688908.jpg",
+      "https://img.olx.com.br/images/90/905602282835567.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779030230
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:03",
     "fotoUrl": "https://img.olx.com.br/images/38/382622163465723.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/382622163465723.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/43/439628525659693.jpg",
       "https://img.olx.com.br/images/44/447645646448630.jpg"
     ],
-    "defeito": false,
+    "id": "1502736168",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/hello-neighbor-ps4-1502736168",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Hello Neighbor - Ps4",
     "ts": 1779030222
   },
   {
@@ -10076,25 +10096,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Sniper Elite 4 Ps4",
     "ts": 1778608186
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:49",
-    "fotoUrl": "https://img.olx.com.br/images/18/183535464170219.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/183535464170219.jpg",
-      "https://img.olx.com.br/images/19/192545221079252.jpg",
-      "https://img.olx.com.br/images/20/205537342358941.jpg"
-    ],
-    "id": "1415819139",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-infamous-second-son-de-ps4-1415819139",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Jogo infamous second son de ps4",
-    "ts": 1778608177
   }
 ]
