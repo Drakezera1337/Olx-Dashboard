@@ -1,22 +1,41 @@
 [
   {
-    "id": "1502385015",
-    "titulo": "PlayStation 3 ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1502366524",
+    "titulo": "PS3 COM DEFEITO",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "11:41",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-1502385015",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps3-com-defeito-1502366524",
+    "fotoUrl": "https://img.olx.com.br/images/57/574698882501838.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/574698882501838.jpg",
+      "https://img.olx.com.br/images/59/590661769090567.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028875
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:41",
     "fotoUrl": "https://img.olx.com.br/images/72/726679645871477.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/726679645871477.jpg",
       "https://img.olx.com.br/images/74/742658642079404.jpg",
       "https://img.olx.com.br/images/77/778654168713232.jpg"
     ],
-    "defeito": false,
+    "id": "1502385015",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-1502385015",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PlayStation 3 ",
     "ts": 1779028866
   },
   {
@@ -9972,28 +9991,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "Volante Kalkan G500 Pro",
     "ts": 1778597760
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:55",
-    "fotoUrl": "https://img.olx.com.br/images/12/128699372630605.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/128699372630605.jpg",
-      "https://img.olx.com.br/images/12/122642253182815.jpg",
-      "https://img.olx.com.br/images/12/127669495062577.jpg",
-      "https://img.olx.com.br/images/12/124633370665727.jpg",
-      "https://img.olx.com.br/images/12/123641136641937.jpg",
-      "https://img.olx.com.br/images/12/128694255456866.jpg"
-    ],
-    "id": "1476210395",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/pes-2015-ps4-pro-evoluton-soccer-playstation-4-1476210395",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2018",
-    "titulo": "PES 2015 PS4 Pro Evoluton Soccer Playstation 4",
-    "ts": 1778597727
   }
 ]
