@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502787759",
-    "titulo": "Jogos de ps4",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps4",
+    "id": "1502788722",
+    "titulo": "PS5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "14:31",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "tempoOlx": "Na OLX desde novembro de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps4-1502787759",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps5-1502788722",
+    "fotoUrl": "https://img.olx.com.br/images/21/216602761784167.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/216602761784167.jpg",
+      "https://img.olx.com.br/images/21/218669648385866.jpg",
+      "https://img.olx.com.br/images/94/949662527307482.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779039086
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:31",
     "fotoUrl": "https://img.olx.com.br/images/91/914667649659976.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/914667649659976.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/10/108611409900575.jpg",
       "https://img.olx.com.br/images/13/134613761102032.jpg"
     ],
-    "defeito": false,
+    "id": "1502787759",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps4-1502787759",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Jogos de ps4",
     "ts": 1779039060
   },
   {
@@ -9968,25 +9988,5 @@
     "tempoOlx": "",
     "titulo": "? PS4 Fat 500GB + 1 Controle",
     "ts": 1779027910
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:25",
-    "fotoUrl": "https://img.olx.com.br/images/41/414626760208458.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/414626760208458.jpg",
-      "https://img.olx.com.br/images/42/422653284819465.jpg",
-      "https://img.olx.com.br/images/44/444603647114945.jpg"
-    ],
-    "id": "1502009126",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-64gb-1502009126",
-    "preco": 780,
-    "precoRaw": "R$ 780",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 11 Pro 64gb ",
-    "ts": 1779027904
   }
 ]
