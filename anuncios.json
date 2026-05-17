@@ -1,21 +1,41 @@
 [
   {
-    "id": "1502474451",
-    "titulo": "PlayStation 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1501945106",
+    "titulo": "iPhone 16 PRO ",
+    "preco": 5500,
+    "precoRaw": "R$ 5.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "11:19",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "detectado": "11:20",
+    "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-5-1502474451",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-1501945106",
+    "fotoUrl": "https://img.olx.com.br/images/44/441658649178184.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/441658649178184.jpg",
+      "https://img.olx.com.br/images/45/450671760642089.jpg",
+      "https://img.olx.com.br/images/47/478607044290143.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027601
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:19",
     "fotoUrl": "https://img.olx.com.br/images/50/502652763368882.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/502652763368882.jpg",
       "https://img.olx.com.br/images/52/522606523937049.jpg"
     ],
-    "defeito": false,
+    "id": "1502474451",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-5-1502474451",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "PlayStation 5",
     "ts": 1779027596
   },
   {
@@ -9877,29 +9897,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Playstation 4 APENAS CAIXA",
-    "ts": 1778592786
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/58/581650409565436.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/581650409565436.jpg",
-      "https://img.olx.com.br/images/60/606660401815265.jpg",
-      "https://img.olx.com.br/images/61/612635283154037.jpg",
-      "https://img.olx.com.br/images/63/639606409008859.jpg",
-      "https://img.olx.com.br/images/66/665694648614938.jpg",
-      "https://img.olx.com.br/images/68/685687647912546.jpg"
-    ],
-    "id": "1501330550",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-4-1501330550",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 4 ",
     "ts": 1778592786
   }
 ]
