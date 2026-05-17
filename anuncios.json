@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502795672",
-    "titulo": "iPhone ",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "iphone",
+    "id": "1502795833",
+    "titulo": "Skylander Enygma",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "15:15",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "detectado": "15:16",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-1502795672",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/skylander-enygma-1502795833",
+    "fotoUrl": "https://img.olx.com.br/images/81/816679882836759.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/816679882836759.jpg",
+      "https://img.olx.com.br/images/82/826674763009119.jpg",
+      "https://img.olx.com.br/images/83/833647521318531.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779041787
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:15",
     "fotoUrl": "https://img.olx.com.br/images/26/260642888217151.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/260642888217151.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/30/300666640903605.jpg",
       "https://img.olx.com.br/images/32/326610520942593.jpg"
     ],
-    "defeito": false,
+    "id": "1502795672",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-1502795672",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "iPhone ",
     "ts": 1779041730
   },
   {
@@ -9965,25 +9985,5 @@
     "tempoOlx": "",
     "titulo": "PES 2020",
     "ts": 1779028032
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:27",
-    "fotoUrl": "https://img.olx.com.br/images/14/143691401316664.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/143691401316664.jpg",
-      "https://img.olx.com.br/images/90/900663525370528.jpg",
-      "https://img.olx.com.br/images/90/908697403423833.jpg"
-    ],
-    "id": "1502536817",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/call-of-duty-advance-warfare-atlas-limited-edition-ps4-1502536817",
-    "preco": 499,
-    "precoRaw": "R$ 499",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "CALL OF DUTY ADVANCE WARFARE ATLAS LIMITED EDITION PS4",
-    "ts": 1779028023
   }
 ]
