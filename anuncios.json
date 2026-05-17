@@ -1,20 +1,43 @@
 [
   {
-    "id": "1501553408",
-    "titulo": "Nintendo Switch Oled desbloqueado ",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "categoria": "switch",
+    "id": "1502589861",
+    "titulo": "Ps3 desbloqueado",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "12:05",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-desbloqueado-1501553408",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps3-desbloqueado-1502589861",
+    "fotoUrl": "https://img.olx.com.br/images/12/129677163209608.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/129677163209608.jpg",
+      "https://img.olx.com.br/images/13/138641403620850.jpg",
+      "https://img.olx.com.br/images/14/144646643001668.jpg",
+      "https://img.olx.com.br/images/15/159671525848665.jpg",
+      "https://img.olx.com.br/images/16/163661767980868.jpg",
+      "https://img.olx.com.br/images/18/184660168313543.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779030350
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:05",
     "fotoUrl": "https://img.olx.com.br/images/86/862689527376216.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/862689527376216.jpg"
     ],
-    "defeito": false,
+    "id": "1501553408",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-desbloqueado-1501553408",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Nintendo Switch Oled desbloqueado ",
     "ts": 1779030341
   },
   {
@@ -10085,27 +10108,5 @@
     "tempoOlx": "Na OLX desde novembro de 2019",
     "titulo": "Ps4 slim 500gb ",
     "ts": 1778609157
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:02",
-    "fotoUrl": "https://img.olx.com.br/images/62/620635406350841.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/620635406350841.jpg",
-      "https://img.olx.com.br/images/63/639697166462688.jpg",
-      "https://img.olx.com.br/images/65/654611165149772.jpg",
-      "https://img.olx.com.br/images/67/670634168668214.jpg",
-      "https://img.olx.com.br/images/69/690693403065681.jpg"
-    ],
-    "id": "1501450752",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-serie-s-1501450752",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": "Xbox serie S",
-    "ts": 1778608947
   }
 ]
