@@ -1,22 +1,40 @@
 [
   {
-    "id": "1502395866",
-    "titulo": "Ps4",
-    "preco": 990,
-    "precoRaw": "R$ 990",
+    "id": "1502353053",
+    "titulo": "PS4 ",
+    "preco": 750,
+    "precoRaw": "R$ 750",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:28",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/ps4-1502395866",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/ps4-1502353053",
+    "fotoUrl": "https://img.olx.com.br/images/94/949616528499244.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/949616528499244.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028107
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:28",
     "fotoUrl": "https://img.olx.com.br/images/35/350635646533365.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/350635646533365.jpg",
       "https://img.olx.com.br/images/37/372653166639130.jpg",
       "https://img.olx.com.br/images/39/397690522912673.jpg"
     ],
-    "defeito": false,
+    "id": "1502395866",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/ps4-1502395866",
+    "preco": 990,
+    "precoRaw": "R$ 990",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4",
     "ts": 1779028099
   },
   {
@@ -9897,25 +9915,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Controle Nintendo 64 N64 Original Switch Classics ",
     "ts": 1778593284
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:40",
-    "fotoUrl": "https://img.olx.com.br/images/81/815639287427210.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/815639287427210.jpg",
-      "https://img.olx.com.br/images/84/848655403525109.jpg",
-      "https://img.olx.com.br/images/85/858684282988905.jpg"
-    ],
-    "id": "1501364824",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-com-capinha-e-carregador-turbo-1501364824",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "iPhone 11 (Com capinha e carregador turbo)",
-    "ts": 1778593207
   }
 ]
