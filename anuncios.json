@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502827432",
-    "titulo": "PS5 com Defeito. Faz o bip mas não liga. Sem controles. LER A DESCRIÇÃO DO ANÚNCIO.",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1502845585",
+    "titulo": "Caixa PS5",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:06",
-    "tempoOlx": "",
+    "detectado": "19:07",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-com-defeito-faz-o-bip-mas-nao-liga-sem-controles-ler-a-descricao-do-anuncio-1502827432",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-ps5-1502845585",
+    "fotoUrl": "https://img.olx.com.br/images/96/962613880179332.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/962613880179332.jpg",
+      "https://img.olx.com.br/images/97/979611524230435.jpg",
+      "https://img.olx.com.br/images/98/985652881001005.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779055642
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:06",
     "fotoUrl": "https://img.olx.com.br/images/99/995637765152950.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/995637765152950.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/14/144655161910674.jpg",
       "https://img.olx.com.br/images/16/168655286418571.jpg"
     ],
-    "defeito": false,
+    "id": "1502827432",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-com-defeito-faz-o-bip-mas-nao-liga-sem-controles-ler-a-descricao-do-anuncio-1502827432",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PS5 com Defeito. Faz o bip mas não liga. Sem controles. LER A DESCRIÇÃO DO ANÚNCIO.",
     "ts": 1779055596
   },
   {
@@ -9960,26 +9980,5 @@
     "tempoOlx": "",
     "titulo": " To Heart 2 DX Plus para PlayStation 3",
     "ts": 1779028712
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:38",
-    "fotoUrl": "https://img.olx.com.br/images/24/245607761209408.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/245607761209408.jpg",
-      "https://img.olx.com.br/images/25/254664165359901.jpg",
-      "https://img.olx.com.br/images/27/273674044446722.jpg",
-      "https://img.olx.com.br/images/28/281645164574723.jpg"
-    ],
-    "id": "1499585530",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-1499585530",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Series S ",
-    "ts": 1779028705
   }
 ]
