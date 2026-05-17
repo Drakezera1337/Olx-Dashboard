@@ -1,20 +1,43 @@
 [
   {
-    "id": "1502275829",
-    "titulo": "Ps4 Slim Completo ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1502243417",
+    "titulo": "Caixa de ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:32",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-slim-completo-1502275829",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-de-ps4-1502243417",
+    "fotoUrl": "https://img.olx.com.br/images/96/967621045162060.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/967621045162060.jpg",
+      "https://img.olx.com.br/images/97/970615766785237.jpg",
+      "https://img.olx.com.br/images/99/994664164481362.jpg",
+      "https://img.olx.com.br/images/10/101617406353661.jpg",
+      "https://img.olx.com.br/images/12/126610768478736.jpg",
+      "https://img.olx.com.br/images/13/138672523351930.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028371
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:32",
     "fotoUrl": "https://img.olx.com.br/images/17/176611161689424.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/176611161689424.jpg"
     ],
-    "defeito": false,
+    "id": "1502275829",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-slim-completo-1502275829",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 Slim Completo ",
     "ts": 1779028362
   },
   {
@@ -9911,24 +9934,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2022",
     "titulo": "Kit 5 Jogos PS4 e PS5",
     "ts": 1778594480
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:01",
-    "fotoUrl": "https://img.olx.com.br/images/72/723553570937326.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/723553570937326.jpg",
-      "https://img.olx.com.br/images/72/722524817152542.jpg"
-    ],
-    "id": "1442684787",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/soul-hackers-2-playstation-4-1442684787",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Soul Hackers 2 - Playstation 4",
-    "ts": 1778594469
   }
 ]
