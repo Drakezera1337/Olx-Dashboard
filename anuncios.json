@@ -1,22 +1,41 @@
 [
   {
-    "id": "1501899743",
-    "titulo": "IPhone 8 64GB Branco ",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "iphone",
+    "id": "1502425631",
+    "titulo": "PlayStation portal",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:20",
-    "tempoOlx": "Na OLX desde setembro de 2016",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-64gb-branco-1501899743",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-portal-1502425631",
+    "fotoUrl": "https://img.olx.com.br/images/82/824647288603617.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/824647288603617.jpg",
+      "https://img.olx.com.br/images/85/854618162703543.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027612
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:20",
     "fotoUrl": "https://img.olx.com.br/images/42/420654165560244.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/420654165560244.jpg",
       "https://img.olx.com.br/images/44/448678163406810.jpg",
       "https://img.olx.com.br/images/45/453649285530301.jpg"
     ],
-    "defeito": false,
+    "id": "1501899743",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-64gb-branco-1501899743",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2016",
+    "titulo": "IPhone 8 64GB Branco ",
     "ts": 1779027610
   },
   {
@@ -9884,24 +9903,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps4 slim",
-    "ts": 1778592801
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/85/850614286740897.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/850614286740897.jpg"
-    ],
-    "id": "1500894688",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/controle-playstation-4-dual-shock-1500894688",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "CONTROLE PLAYSTATION 4 DUAL SHOCK",
     "ts": 1778592801
   }
 ]
