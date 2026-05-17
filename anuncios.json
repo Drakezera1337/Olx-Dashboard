@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502782282",
-    "titulo": "IPhone 11 Pro 64Gb",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "iphone",
+    "id": "1475375201",
+    "titulo": "Jogos PS4 ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:58",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "14:03",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-64gb-1502782282",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1475375201",
+    "fotoUrl": "https://img.olx.com.br/images/99/991619250262832.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/991619250262832.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779037406
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:58",
     "fotoUrl": "https://img.olx.com.br/images/77/773613525961575.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/773613525961575.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/83/835686408843455.jpg",
       "https://img.olx.com.br/images/84/848647880788487.jpg"
     ],
-    "defeito": false,
+    "id": "1502782282",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-64gb-1502782282",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "IPhone 11 Pro 64Gb",
     "ts": 1779037108
   },
   {
@@ -9983,23 +10001,5 @@
     "tempoOlx": "Na OLX desde junho de 2013",
     "titulo": "VR para PS4/PS5",
     "ts": 1779027823
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:23",
-    "fotoUrl": "https://img.olx.com.br/images/32/324644285110757.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/324644285110757.jpg"
-    ],
-    "id": "1502463672",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/ipad-9-64-gb-1502463672",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "iPad 9  ?64 GB",
-    "ts": 1779027820
   }
 ]
