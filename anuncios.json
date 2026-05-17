@@ -1,15 +1,29 @@
 [
   {
-    "id": "1499585530",
-    "titulo": "Xbox Series S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1442843188",
+    "titulo": " To Heart 2 DX Plus para PlayStation 3",
+    "preco": 251,
+    "precoRaw": "R$ 251",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "11:38",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-1499585530",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/to-heart-2-dx-plus-para-playstation-3-1442843188",
+    "fotoUrl": "https://img.olx.com.br/images/51/515585695100285.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/515585695100285.jpg",
+      "https://img.olx.com.br/images/52/521539819982740.jpg",
+      "https://img.olx.com.br/images/53/533553571036499.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028712
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:38",
     "fotoUrl": "https://img.olx.com.br/images/24/245607761209408.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/245607761209408.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/27/273674044446722.jpg",
       "https://img.olx.com.br/images/28/281645164574723.jpg"
     ],
-    "defeito": false,
+    "id": "1499585530",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-1499585530",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Series S ",
     "ts": 1779028705
   },
   {
@@ -9964,23 +9984,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2023",
     "titulo": "Mini figures Naruto ",
     "ts": 1778596645
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:34",
-    "fotoUrl": "https://img.olx.com.br/images/34/342600287176261.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/342600287176261.jpg"
-    ],
-    "id": "1501380842",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/playstation-4-fat-1501380842",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
-    "titulo": "PlayStation 4 FAT ",
-    "ts": 1778596465
   }
 ]
