@@ -1,7 +1,7 @@
 [
   {
-    "id": "1501684934",
-    "titulo": "Xbox series s ",
+    "id": "1501628437",
+    "titulo": "Xbox series s",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
@@ -9,12 +9,35 @@
     "detectado": "11:37",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1501684934",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1501628437",
+    "fotoUrl": "https://img.olx.com.br/images/71/713619641449509.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/713619641449509.jpg",
+      "https://img.olx.com.br/images/72/728625520353045.jpg",
+      "https://img.olx.com.br/images/74/747694761796052.jpg",
+      "https://img.olx.com.br/images/75/756613283180033.jpg",
+      "https://img.olx.com.br/images/77/772659046823133.jpg",
+      "https://img.olx.com.br/images/78/789649403784853.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028639
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:37",
     "fotoUrl": "https://img.olx.com.br/images/57/570611041487042.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/570611041487042.jpg"
     ],
-    "defeito": false,
+    "id": "1501684934",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1501684934",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox series s ",
     "ts": 1779028630
   },
   {
@@ -9955,23 +9978,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "The last of us ps4 original seminovo",
     "ts": 1778595941
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:25",
-    "fotoUrl": "https://img.olx.com.br/images/85/852619276827857.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/852619276827857.jpg"
-    ],
-    "id": "1490841528",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-de-ps4-1490841528",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "Jogos de ps4 ",
-    "ts": 1778595932
   }
 ]
