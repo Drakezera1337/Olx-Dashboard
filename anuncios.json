@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502409729",
-    "titulo": "Ps4 slim com defeito ",
-    "preco": 600,
-    "precoRaw": "R$ 600",
+    "id": "1502374362",
+    "titulo": "Ps4 slim",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:32",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps4-slim-com-defeito-1502409729",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1502374362",
+    "fotoUrl": "https://img.olx.com.br/images/13/132654282806663.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/132654282806663.jpg",
+      "https://img.olx.com.br/images/15/151686164882993.jpg",
+      "https://img.olx.com.br/images/17/171631404541465.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028339
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:32",
     "fotoUrl": "https://img.olx.com.br/images/78/780603764123348.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/780603764123348.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/82/825604523871050.jpg",
       "https://img.olx.com.br/images/84/841693880739167.jpg"
     ],
-    "defeito": false,
+    "id": "1502409729",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps4-slim-com-defeito-1502409729",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 slim com defeito ",
     "ts": 1779028331
   },
   {
@@ -9915,26 +9935,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "The last Of us 2",
     "ts": 1778594431
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:59",
-    "fotoUrl": "https://img.olx.com.br/images/68/684629882853064.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/684629882853064.jpg",
-      "https://img.olx.com.br/images/69/695694767297062.jpg",
-      "https://img.olx.com.br/images/70/704634645090235.jpg",
-      "https://img.olx.com.br/images/71/712696880966875.jpg"
-    ],
-    "id": "1501370298",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/16-pro-max-unico-dono-1501370298",
-    "preco": 6500,
-    "precoRaw": "R$ 6.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "16 pro max único dono ",
-    "ts": 1778594347
   }
 ]
