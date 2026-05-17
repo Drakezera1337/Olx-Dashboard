@@ -1,22 +1,42 @@
 [
   {
-    "id": "1392210978",
-    "titulo": "Relayer PS5",
-    "preco": 399,
-    "precoRaw": "R$ 399",
-    "categoria": "ps5",
+    "id": "1401491036",
+    "titulo": "Infamous Second Son PS4",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:10",
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/relayer-ps5-1392210978",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/infamous-second-son-ps4-1401491036",
+    "fotoUrl": "https://img.olx.com.br/images/44/449578529259449.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/449578529259449.jpg",
+      "https://img.olx.com.br/images/46/469583406884872.jpg",
+      "https://img.olx.com.br/images/48/480593883528850.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779037826
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:10",
     "fotoUrl": "https://img.olx.com.br/images/94/949583515583925.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/949583515583925.jpg",
       "https://img.olx.com.br/images/95/957585638767729.jpg",
       "https://img.olx.com.br/images/94/941594755142380.jpg"
     ],
-    "defeito": false,
+    "id": "1392210978",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/relayer-ps5-1392210978",
+    "preco": 399,
+    "precoRaw": "R$ 399",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "Relayer PS5",
     "ts": 1779037805
   },
   {
@@ -9975,28 +9995,5 @@
     "tempoOlx": "Na OLX desde agosto de 2024",
     "titulo": "Ps5 portal",
     "ts": 1779027849
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:24",
-    "fotoUrl": "https://img.olx.com.br/images/51/513631043414494.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/513631043414494.jpg",
-      "https://img.olx.com.br/images/53/531644046652475.jpg",
-      "https://img.olx.com.br/images/56/565693160356866.jpg",
-      "https://img.olx.com.br/images/58/586643767314645.jpg",
-      "https://img.olx.com.br/images/60/607607525107855.jpg",
-      "https://img.olx.com.br/images/62/626667288798776.jpg"
-    ],
-    "id": "1502349932",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-256gb-apple-watch-2-1502349932",
-    "preco": 4900,
-    "precoRaw": "R$ 4.900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2023",
-    "titulo": "iPhone 14 Pro 256gb + Apple Watch 2 ",
-    "ts": 1779027845
   }
 ]
