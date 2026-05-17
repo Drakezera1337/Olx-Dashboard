@@ -1,15 +1,28 @@
 [
   {
-    "id": "1502845986",
-    "titulo": "Playstation 5 Digital usado",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1502847168",
+    "titulo": "Ps4 Fat 500gb (sem controle)",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:12",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "detectado": "19:17",
+    "tempoOlx": "Na OLX desde abril de 2025",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-5-digital-usado-1502845986",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-sem-controle-1502847168",
+    "fotoUrl": "https://img.olx.com.br/images/21/210619761659459.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/210619761659459.jpg",
+      "https://img.olx.com.br/images/22/225660167934203.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779056241
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:12",
     "fotoUrl": "https://img.olx.com.br/images/65/653674647809122.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/653674647809122.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/65/650602529462949.jpg",
       "https://img.olx.com.br/images/65/651616640588593.jpg"
     ],
-    "defeito": false,
+    "id": "1502845986",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-5-digital-usado-1502845986",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "Playstation 5 Digital usado",
     "ts": 1779055942
   },
   {
@@ -9967,23 +9986,5 @@
     "tempoOlx": "",
     "titulo": "Jogo PS3 original físico - Grand Turismo 5",
     "ts": 1779028749
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:39",
-    "fotoUrl": "https://img.olx.com.br/images/50/509566190849232.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/509566190849232.jpg"
-    ],
-    "id": "1432151990",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/lote-jogos-ps3-1432151990",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Lote jogos ps3 ",
-    "ts": 1779028742
   }
 ]
