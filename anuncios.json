@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502636650",
-    "titulo": "Playstation 4 com defeito",
+    "id": "1502635643",
+    "titulo": "Ps4 fat personalizado com defeito",
     "preco": 300,
     "precoRaw": "R$ 300",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:25",
+    "detectado": "11:26",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-4-com-defeito-1502636650",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps4-fat-personalizado-com-defeito-1502635643",
+    "fotoUrl": "https://img.olx.com.br/images/37/370626404768285.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/370626404768285.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027963
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:25",
     "fotoUrl": "https://img.olx.com.br/images/84/841684281551464.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/841684281551464.jpg"
     ],
-    "defeito": false,
+    "id": "1502636650",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-4-com-defeito-1502636650",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Playstation 4 com defeito",
     "ts": 1779027955
   },
   {
@@ -37,16 +55,10 @@
     "ts": 1779027948
   },
   {
-    "id": "1501687964",
-    "titulo": "iPhone 14 ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
     "categoria": "iphone",
-    "publicado": "",
-    "detectado": "11:25",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1501687964",
+    "detectado": "11:25",
     "fotoUrl": "https://img.olx.com.br/images/94/949630883384805.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/949630883384805.jpg",
@@ -54,7 +66,13 @@
       "https://img.olx.com.br/images/97/970663280278883.jpg",
       "https://img.olx.com.br/images/98/988609648399325.jpg"
     ],
-    "defeito": false,
+    "id": "1501687964",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1501687964",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 14 ",
     "ts": 1779027948
   },
   {
@@ -9904,24 +9922,5 @@
     "tempoOlx": "",
     "titulo": "God of War - PS4",
     "ts": 1778593144
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:37",
-    "fotoUrl": "https://img.olx.com.br/images/73/735633287077069.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/735633287077069.jpg",
-      "https://img.olx.com.br/images/74/745624287050598.jpg"
-    ],
-    "id": "1500976661",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/2-pares-borracha-premio-grip-analogico-ps-vita-slim-2000-1500976661",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "2 Pares Borracha Premio Grip Analógico Ps Vita  Slim 2000",
-    "ts": 1778593025
   }
 ]
