@@ -1,22 +1,41 @@
 [
   {
-    "id": "1444239027",
-    "titulo": "Call of Duty MW3 - PS3",
-    "preco": 24,
-    "precoRaw": "R$ 24",
+    "id": "1443364384",
+    "titulo": "PS3 Clássico ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "11:43",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/call-of-duty-mw3-ps3-1444239027",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps3-classico-1443364384",
+    "fotoUrl": "https://img.olx.com.br/images/75/752505212791215.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/752505212791215.jpg",
+      "https://img.olx.com.br/images/77/772520090731179.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029031
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:43",
     "fotoUrl": "https://img.olx.com.br/images/40/408579334774831.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/408579334774831.jpg",
       "https://img.olx.com.br/images/42/429573459107836.jpg",
       "https://img.olx.com.br/images/44/449548575583830.jpg"
     ],
-    "defeito": false,
+    "id": "1444239027",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/call-of-duty-mw3-ps3-1444239027",
+    "preco": 24,
+    "precoRaw": "R$ 24",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Call of Duty MW3 - PS3",
     "ts": 1779029022
   },
   {
@@ -9988,25 +10007,5 @@
     "tempoOlx": "Na OLX desde maio de 2016",
     "titulo": "Xbox series s defeito ",
     "ts": 1778599047
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:14",
-    "fotoUrl": "https://img.olx.com.br/images/32/324604642413586.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/324604642413586.jpg",
-      "https://img.olx.com.br/images/34/342634162984927.jpg",
-      "https://img.olx.com.br/images/36/362620285527026.jpg"
-    ],
-    "id": "1501397735",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-fat-usado-com-3-controles-e-3-jogos-battlefield-4-injustice-e-fifa-14-1501397735",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PS4 Fat Usado com 3 controles e 3 jogos (Battlefield 4, Injustice e Fifa 14)",
-    "ts": 1778598856
   }
 ]
