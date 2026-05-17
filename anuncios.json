@@ -1,20 +1,42 @@
 [
   {
-    "id": "1502856221",
-    "titulo": "Jogos ps4 Lacrados ",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "categoria": "ps4",
+    "id": "1502857431",
+    "titulo": "Nintendo switch ( Bloqueado) Modelo oled",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "20:10",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "detectado": "20:14",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-lacrados-1502856221",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-bloqueado-modelo-oled-1502857431",
+    "fotoUrl": "https://img.olx.com.br/images/41/414632409085389.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/414632409085389.jpg",
+      "https://img.olx.com.br/images/43/439643643357842.jpg",
+      "https://img.olx.com.br/images/44/444628523656758.jpg",
+      "https://img.olx.com.br/images/46/466689166904880.jpg",
+      "https://img.olx.com.br/images/47/470635769407739.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779059663
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:10",
     "fotoUrl": "https://img.olx.com.br/images/14/148678528638121.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/148678528638121.jpg"
     ],
-    "defeito": false,
+    "id": "1502856221",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-lacrados-1502856221",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Jogos ps4 Lacrados ",
     "ts": 1779059447
   },
   {
@@ -9929,25 +9951,5 @@
     "tempoOlx": "",
     "titulo": "Jogos ps3 - Coleção Uncharted ",
     "ts": 1779029001
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/74/748634862517218.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/748634862517218.jpg",
-      "https://img.olx.com.br/images/76/767670388496245.jpg",
-      "https://img.olx.com.br/images/78/786676506833407.jpg"
-    ],
-    "id": "1484747418",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/colecao-completa-gta-ps3-gta4-gta5-episodes-from-mapas-manuais-1484747418",
-    "preco": 190,
-    "precoRaw": "R$ 190",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Coleção completa Gta ps3 - Gta4 ,Gta5, Episodes from + Mapas + Manuais",
-    "ts": 1779028993
   }
 ]
