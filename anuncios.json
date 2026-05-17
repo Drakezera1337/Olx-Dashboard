@@ -1,15 +1,27 @@
 [
   {
-    "id": "1484810072",
-    "titulo": "Xbox one + jogos",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1478839494",
+    "titulo": "Jogos Xbox 360",
+    "preco": 25,
+    "precoRaw": "R$ 25",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "11:53",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-jogos-1484810072",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-xbox-360-1478839494",
+    "fotoUrl": "https://img.olx.com.br/images/30/304694371621539.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/304694371621539.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029613
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:53",
     "fotoUrl": "https://img.olx.com.br/images/31/312666508443508.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/312666508443508.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/43/438637147077602.jpg",
       "https://img.olx.com.br/images/45/450632384944846.jpg"
     ],
-    "defeito": false,
+    "id": "1484810072",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-jogos-1484810072",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox one + jogos",
     "ts": 1779029605
   },
   {
@@ -10077,26 +10095,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Vendo fifa 19",
     "ts": 1778603530
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:32",
-    "fotoUrl": "https://img.olx.com.br/images/86/869614521330256.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/869614521330256.jpg",
-      "https://img.olx.com.br/images/88/881661400074465.jpg",
-      "https://img.olx.com.br/images/90/903677409334245.jpg",
-      "https://img.olx.com.br/images/91/911634768564898.jpg"
-    ],
-    "id": "1501427454",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-ps4-e-ps5-1501427454",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Red Dead Redemption 2 PS4 e PS5 ",
-    "ts": 1778603523
   }
 ]
