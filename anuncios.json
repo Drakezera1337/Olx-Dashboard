@@ -1,21 +1,62 @@
 [
   {
-    "id": "1501690395",
-    "titulo": "Apple iPhone 16",
-    "preco": 4299,
-    "precoRaw": "R$ 4.299",
+    "id": "1501687964",
+    "titulo": "iPhone 14 ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "11:25",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-16-1501690395",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1501687964",
+    "fotoUrl": "https://img.olx.com.br/images/94/949630883384805.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/949630883384805.jpg",
+      "https://img.olx.com.br/images/95/959678765505579.jpg",
+      "https://img.olx.com.br/images/97/970663280278883.jpg",
+      "https://img.olx.com.br/images/98/988609648399325.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027948
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:25",
+    "fotoUrl": "https://img.olx.com.br/images/88/882629160532732.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/882629160532732.jpg",
+      "https://img.olx.com.br/images/90/900655408623213.jpg",
+      "https://img.olx.com.br/images/92/924693286064370.jpg"
+    ],
+    "id": "1502648497",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/troco-ps4-por-notebook-1502648497",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Troco ps4 por notebook ",
+    "ts": 1779027940
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:25",
     "fotoUrl": "https://img.olx.com.br/images/95/956665766676922.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/956665766676922.jpg",
       "https://img.olx.com.br/images/96/962639886546933.jpg"
     ],
-    "defeito": false,
+    "id": "1501690395",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-16-1501690395",
+    "preco": 4299,
+    "precoRaw": "R$ 4.299",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Apple iPhone 16",
     "ts": 1779027939
   },
   {
@@ -9880,44 +9921,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Capa Case Protetora Estojo + Película  Switch Lite Animal Crossing",
-    "ts": 1778593025
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:37",
-    "fotoUrl": "https://img.olx.com.br/images/85/859667766000046.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/859667766000046.jpg",
-      "https://img.olx.com.br/images/90/902635049348259.jpg"
-    ],
-    "id": "1500948354",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/powkidd-v90-com-cartao-64-1500948354",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "powkidd v90 com cartao 64",
-    "ts": 1778593025
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:37",
-    "fotoUrl": "https://img.olx.com.br/images/22/220663768127637.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/220663768127637.jpg",
-      "https://img.olx.com.br/images/95/959647644256359.jpg"
-    ],
-    "id": "1500947313",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/powkidd-q90-carta32-gb-com-jogos-1500947313",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "powkidd q90 carta32 gb com jogos",
     "ts": 1778593025
   }
 ]
