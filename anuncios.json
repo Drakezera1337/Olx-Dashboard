@@ -1,15 +1,28 @@
 [
   {
-    "id": "1499291997",
-    "titulo": "PS4 slim 500gb COM PROBLEMA NO LEITOR DE DISCO",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "categoria": "ps4",
+    "id": "1502739542",
+    "titulo": "Xbox série S ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "11:34",
+    "detectado": "11:35",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-com-problema-no-leitor-de-disco-1499291997",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/xbox-serie-s-1502739542",
+    "fotoUrl": "https://img.olx.com.br/images/22/226624525514071.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/226624525514071.jpg",
+      "https://img.olx.com.br/images/23/238606289753994.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028501
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:34",
     "fotoUrl": "https://img.olx.com.br/images/65/655685401240903.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/655685401240903.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/72/727678643272610.jpg",
       "https://img.olx.com.br/images/73/732670527378075.jpg"
     ],
-    "defeito": false,
+    "id": "1499291997",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-com-problema-no-leitor-de-disco-1499291997",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PS4 slim 500gb COM PROBLEMA NO LEITOR DE DISCO",
     "ts": 1779028495
   },
   {
@@ -9933,25 +9952,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "The last Of us ",
     "ts": 1778594862
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:07",
-    "fotoUrl": "https://img.olx.com.br/images/80/808622169293894.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/808622169293894.jpg",
-      "https://img.olx.com.br/images/81/819635640860678.jpg",
-      "https://img.olx.com.br/images/83/833677408574774.jpg"
-    ],
-    "id": "1501373443",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/call-of-duty-infinito-warfare-1501373443",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Call of duty infinito warfare ",
-    "ts": 1778594832
   }
 ]
