@@ -1,20 +1,39 @@
 [
   {
-    "id": "1502856854",
-    "titulo": "Jogo ps5 FIFA 23",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "ps5",
+    "id": "1502856835",
+    "titulo": "FIFA 23 PS4 ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:17",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps5-fifa-23-1502856854",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-23-ps4-1502856835",
+    "fotoUrl": "https://img.olx.com.br/images/28/288663288436040.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/288663288436040.jpg",
+      "https://img.olx.com.br/images/29/296634764522177.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779059828
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:17",
     "fotoUrl": "https://img.olx.com.br/images/57/575676528086526.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/575676528086526.jpg"
     ],
-    "defeito": false,
+    "id": "1502856854",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps5-fifa-23-1502856854",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Jogo ps5 FIFA 23",
     "ts": 1779059820
   },
   {
@@ -9927,24 +9946,5 @@
     "tempoOlx": "",
     "titulo": "Playstation 3 FAT",
     "ts": 1779029040
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/75/752505212791215.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/752505212791215.jpg",
-      "https://img.olx.com.br/images/77/772520090731179.jpg"
-    ],
-    "id": "1443364384",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps3-classico-1443364384",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 Clássico ",
-    "ts": 1779029031
   }
 ]
