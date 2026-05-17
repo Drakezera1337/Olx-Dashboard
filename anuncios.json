@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502612928",
-    "titulo": "Xbox séries S 512GB",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
+    "id": "1502609650",
+    "titulo": "Xbox séries s",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "11:35",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-512gb-1502612928",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/xbox-series-s-1502609650",
+    "fotoUrl": "https://img.olx.com.br/images/53/530626282876812.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/530626282876812.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028555
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:35",
     "fotoUrl": "https://img.olx.com.br/images/45/459681287651143.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/459681287651143.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/49/490666166629129.jpg",
       "https://img.olx.com.br/images/51/516660768232398.jpg"
     ],
-    "defeito": false,
+    "id": "1502612928",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-512gb-1502612928",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox séries S 512GB",
     "ts": 1779028547
   },
   {
@@ -9946,23 +9964,5 @@
     "tempoOlx": "Na OLX desde agosto de 2016",
     "titulo": "God of War PS4 Mídia Física - Dublado e Legendado PT-BR ",
     "ts": 1778595672
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:20",
-    "fotoUrl": "https://img.olx.com.br/images/60/609634267390691.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/609634267390691.jpg"
-    ],
-    "id": "1489484475",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/playstation-4-slim-1489484475",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2021",
-    "titulo": "Playstation 4 Slim",
-    "ts": 1778595618
   }
 ]
