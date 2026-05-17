@@ -1,22 +1,45 @@
 [
   {
-    "id": "1502586597",
-    "titulo": "3ds Xl Vermelho!",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "outros",
+    "id": "1484810072",
+    "titulo": "Xbox one + jogos",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "11:53",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/3ds-xl-vermelho-1502586597",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-jogos-1484810072",
+    "fotoUrl": "https://img.olx.com.br/images/31/312666508443508.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/312666508443508.jpg",
+      "https://img.olx.com.br/images/36/363624389470403.jpg",
+      "https://img.olx.com.br/images/38/382628141705463.jpg",
+      "https://img.olx.com.br/images/40/405679746647426.jpg",
+      "https://img.olx.com.br/images/43/438637147077602.jpg",
+      "https://img.olx.com.br/images/45/450632384944846.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029605
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:53",
     "fotoUrl": "https://img.olx.com.br/images/60/606680768909527.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/606680768909527.jpg",
       "https://img.olx.com.br/images/62/621614282532744.jpg",
       "https://img.olx.com.br/images/63/636609400830319.jpg"
     ],
-    "defeito": false,
+    "id": "1502586597",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/3ds-xl-vermelho-1502586597",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "3ds Xl Vermelho!",
     "ts": 1779029597
   },
   {
@@ -10075,23 +10098,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Red Dead Redemption 2 PS4 e PS5 ",
     "ts": 1778603523
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:31",
-    "fotoUrl": "https://img.olx.com.br/images/42/425685647193396.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/425685647193396.jpg"
-    ],
-    "id": "1501426380",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/playstation-5-1501426380",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PlayStation 5",
-    "ts": 1778603514
   }
 ]
