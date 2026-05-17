@@ -1,22 +1,45 @@
 [
   {
-    "id": "1501705757",
-    "titulo": "iPhone 15",
-    "preco": 3100,
-    "precoRaw": "R$ 3.100",
-    "categoria": "iphone",
+    "id": "1502357621",
+    "titulo": "Caixa playstation 5 CFI-2114",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:20",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-1501705757",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-playstation-5-cfi-2114-1502357621",
+    "fotoUrl": "https://img.olx.com.br/images/55/555675763133610.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/555675763133610.jpg",
+      "https://img.olx.com.br/images/57/572632642286337.jpg",
+      "https://img.olx.com.br/images/59/591639403345886.jpg",
+      "https://img.olx.com.br/images/61/617636045117448.jpg",
+      "https://img.olx.com.br/images/63/638680521331393.jpg",
+      "https://img.olx.com.br/images/64/644646284988908.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027656
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:20",
     "fotoUrl": "https://img.olx.com.br/images/32/324657405835217.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/324657405835217.jpg",
       "https://img.olx.com.br/images/34/346635283019699.jpg",
       "https://img.olx.com.br/images/36/369694521634503.jpg"
     ],
-    "defeito": false,
+    "id": "1501705757",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-1501705757",
+    "preco": 3100,
+    "precoRaw": "R$ 3.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "titulo": "iPhone 15",
     "ts": 1779027653
   },
   {
@@ -9895,26 +9918,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox series 512GB ",
-    "ts": 1778592847
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:34",
-    "fotoUrl": "https://img.olx.com.br/images/30/303631886287811.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/303631886287811.jpg",
-      "https://img.olx.com.br/images/32/321685766626200.jpg",
-      "https://img.olx.com.br/images/35/353675769264156.jpg"
-    ],
-    "id": "1500987474",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/x-box-serie-s-1500987474",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "X Box série s",
     "ts": 1778592847
   }
 ]
