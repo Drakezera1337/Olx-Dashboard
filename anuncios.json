@@ -1,15 +1,32 @@
 [
   {
-    "id": "1501903241",
-    "titulo": "Bicicleta elétrica",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "categoria": "outros",
+    "id": "1501882750",
+    "titulo": "VENDO XBOX ONE X",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "11:57",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/bicicleta-eletrica-1501903241",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-xbox-one-x-1501882750",
+    "fotoUrl": "https://img.olx.com.br/images/86/865695045618577.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/865695045618577.jpg",
+      "https://img.olx.com.br/images/87/878685407639183.jpg",
+      "https://img.olx.com.br/images/89/896625162553019.jpg",
+      "https://img.olx.com.br/images/92/924637764769586.jpg",
+      "https://img.olx.com.br/images/94/943684649282672.jpg",
+      "https://img.olx.com.br/images/95/955624283508659.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029851
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:57",
     "fotoUrl": "https://img.olx.com.br/images/64/649698406785963.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/649698406785963.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/68/689683040557889.jpg",
       "https://img.olx.com.br/images/69/690611282901338.jpg"
     ],
-    "defeito": false,
+    "id": "1501903241",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/bicicleta-eletrica-1501903241",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Bicicleta elétrica",
     "ts": 1779029843
   },
   {
@@ -10084,23 +10107,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Jogo ps4",
     "ts": 1778605646
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:07",
-    "fotoUrl": "https://img.olx.com.br/images/86/865632287777255.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/865632287777255.jpg"
-    ],
-    "id": "1501436774",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-sim-1-tb-2-controles-originais-1501436774",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
-    "titulo": "Ps4 sim 1 Tb 2 controles originais ",
-    "ts": 1778605637
   }
 ]
