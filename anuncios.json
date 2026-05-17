@@ -1,7 +1,7 @@
 [
   {
-    "id": "1502642309",
-    "titulo": "Xbox Series S 512gb",
+    "id": "1502625301",
+    "titulo": "Xbox Séries S ",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
@@ -9,7 +9,21 @@
     "detectado": "11:35",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/consoles-de-video-game/xbox-series-s-512gb-1502642309",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-series-s-1502625301",
+    "fotoUrl": "https://img.olx.com.br/images/49/495655403141777.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/495655403141777.jpg",
+      "https://img.olx.com.br/images/49/491680287330453.jpg",
+      "https://img.olx.com.br/images/50/509675521720494.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028537
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:35",
     "fotoUrl": "https://img.olx.com.br/images/77/775616887029500.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/775616887029500.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/83/839650289697934.jpg",
       "https://img.olx.com.br/images/85/853665161192107.jpg"
     ],
-    "defeito": false,
+    "id": "1502642309",
+    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/consoles-de-video-game/xbox-series-s-512gb-1502642309",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Series S 512gb",
     "ts": 1779028530
   },
   {
@@ -9941,23 +9961,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Jogos PS3 e PS4 ",
     "ts": 1778595565
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:19",
-    "fotoUrl": "https://img.olx.com.br/images/71/715690642648570.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/715690642648570.jpg"
-    ],
-    "id": "1501376303",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/spider-man-ps4-midia-fisica-1501376303",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "Spider man PS4 mídia física ",
-    "ts": 1778595559
   }
 ]
