@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502846947",
-    "titulo": "PS4 PRO 4K 1Tb",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "ps4",
+    "id": "1502848474",
+    "titulo": "FIFA 22",
+    "preco": 89,
+    "precoRaw": "R$ 89",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:18",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "detectado": "19:23",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/jogos-de-video-game/ps4-pro-4k-1tb-1502846947",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-22-1502848474",
+    "fotoUrl": "https://img.olx.com.br/images/88/883673405046325.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/883673405046325.jpg",
+      "https://img.olx.com.br/images/90/905646640590937.jpg",
+      "https://img.olx.com.br/images/92/923656646178693.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779056633
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:18",
     "fotoUrl": "https://img.olx.com.br/images/76/764647168596718.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/764647168596718.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/76/765678047391896.jpg",
       "https://img.olx.com.br/images/76/763686288095740.jpg"
     ],
-    "defeito": false,
+    "id": "1502846947",
+    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/jogos-de-video-game/ps4-pro-4k-1tb-1502846947",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "PS4 PRO 4K 1Tb",
     "ts": 1779056288
   },
   {
@@ -9962,26 +9982,5 @@
     "tempoOlx": "",
     "titulo": "PS3 Fat Funcionando (Saída AV) + 2 Controles - Detalhe no HDMI",
     "ts": 1779028778
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:39",
-    "fotoUrl": "https://img.olx.com.br/images/13/132658730346616.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/132658730346616.jpg",
-      "https://img.olx.com.br/images/17/178667379686692.jpg",
-      "https://img.olx.com.br/images/19/193603611513679.jpg",
-      "https://img.olx.com.br/images/21/215632135839923.jpg"
-    ],
-    "id": "1461053047",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/dark-souls-2-ps3-1461053047",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Dark Souls 2 - PS3",
-    "ts": 1779028770
   }
 ]
