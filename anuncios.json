@@ -1,21 +1,40 @@
 [
   {
-    "id": "1501818512",
-    "titulo": "Xbox One S 1tb ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1501654343",
+    "titulo": "Xbox series s",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "12:06",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1tb-1501818512",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1501654343",
+    "fotoUrl": "https://img.olx.com.br/images/54/544687520982939.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/544687520982939.jpg",
+      "https://img.olx.com.br/images/55/550608047985843.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779030408
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:06",
     "fotoUrl": "https://img.olx.com.br/images/34/348680044990781.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/348680044990781.jpg",
       "https://img.olx.com.br/images/35/354616766874999.jpg"
     ],
-    "defeito": false,
+    "id": "1501818512",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1tb-1501818512",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox One S 1tb ",
     "ts": 1779030400
   },
   {
@@ -10094,26 +10113,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "PS4 FAT, 1TB, 2 controles e caixa ",
     "ts": 1778609308
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:07",
-    "fotoUrl": "https://img.olx.com.br/images/41/413691760230227.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/413691760230227.jpg",
-      "https://img.olx.com.br/images/43/438624407735370.jpg",
-      "https://img.olx.com.br/images/44/449650167588268.jpg",
-      "https://img.olx.com.br/images/45/452606766276091.jpg"
-    ],
-    "id": "1501451807",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/sony-playstation-4-slim-500gb-2-controles-2-controles-1501451807",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2018",
-    "titulo": "Sony PlayStation 4 Slim 500gb + 2 controles + 2 controles",
-    "ts": 1778609229
   }
 ]
