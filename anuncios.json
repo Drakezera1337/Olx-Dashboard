@@ -1,15 +1,31 @@
 [
   {
-    "id": "1502327090",
-    "titulo": "Iphone 11 64 gb",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "iphone",
+    "id": "1501742997",
+    "titulo": "Ys X Proud Nordics Ps5 Deluxe Edition Mídia Física",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:24",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64-gb-1502327090",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ys-x-proud-nordics-ps5-deluxe-edition-midia-fisica-1501742997",
+    "fotoUrl": "https://img.olx.com.br/images/20/205613280414176.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/205613280414176.jpg",
+      "https://img.olx.com.br/images/20/208654524662006.jpg",
+      "https://img.olx.com.br/images/20/209617648850350.jpg",
+      "https://img.olx.com.br/images/20/202649520243502.jpg",
+      "https://img.olx.com.br/images/20/205602644500956.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027856
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:24",
     "fotoUrl": "https://img.olx.com.br/images/65/650648527122160.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/650648527122160.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/73/734637165976067.jpg",
       "https://img.olx.com.br/images/75/759688168538070.jpg"
     ],
-    "defeito": false,
+    "id": "1502327090",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64-gb-1502327090",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Iphone 11 64 gb",
     "ts": 1779027853
   },
   {
@@ -9910,25 +9932,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PSP",
-    "ts": 1778592977
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/67/673676152572625.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/673676152572625.jpg",
-      "https://img.olx.com.br/images/69/691687872790469.jpg"
-    ],
-    "id": "1490719468",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/jogo-de-psp-1490719468",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo de psp",
     "ts": 1778592977
   }
 ]
