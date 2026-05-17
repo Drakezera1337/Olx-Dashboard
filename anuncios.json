@@ -1,21 +1,43 @@
 [
   {
-    "id": "1501787731",
-    "titulo": "Ps5 portal",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "categoria": "ps5",
+    "id": "1502327090",
+    "titulo": "Iphone 11 64 gb",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:24",
-    "tempoOlx": "Na OLX desde agosto de 2024",
+    "tempoOlx": "Na OLX desde novembro de 2023",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-portal-1501787731",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64-gb-1502327090",
+    "fotoUrl": "https://img.olx.com.br/images/65/650648527122160.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/650648527122160.jpg",
+      "https://img.olx.com.br/images/68/689659640051857.jpg",
+      "https://img.olx.com.br/images/70/704696761059711.jpg",
+      "https://img.olx.com.br/images/73/734637165976067.jpg",
+      "https://img.olx.com.br/images/75/759688168538070.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027853
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:24",
     "fotoUrl": "https://img.olx.com.br/images/84/844693881153992.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/844693881153992.jpg",
       "https://img.olx.com.br/images/86/866644406098583.jpg"
     ],
-    "defeito": false,
+    "id": "1501787731",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-portal-1501787731",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "titulo": "Ps5 portal",
     "ts": 1779027849
   },
   {
@@ -9907,27 +9929,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogo de psp",
-    "ts": 1778592977
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/95/958580675113211.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/958580675113211.jpg",
-      "https://img.olx.com.br/images/16/166543192641750.jpg",
-      "https://img.olx.com.br/images/22/222586311681126.jpg",
-      "https://img.olx.com.br/images/29/292551310335302.jpg"
-    ],
-    "id": "1432049292",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/jogo-monster-hunter-frontie-g-8-psvita-1432049292",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo Monster Hunter Frontie G 8 Psvita ",
     "ts": 1778592977
   }
 ]
