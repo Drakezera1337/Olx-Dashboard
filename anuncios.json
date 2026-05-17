@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502857567",
-    "titulo": "Ratchet clank ps4",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "categoria": "ps4",
+    "id": "1502856854",
+    "titulo": "Jogo ps5 FIFA 23",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "20:16",
-    "tempoOlx": "Na OLX desde agosto de 2015",
+    "detectado": "20:17",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ratchet-clank-ps4-1502857567",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps5-fifa-23-1502856854",
+    "fotoUrl": "https://img.olx.com.br/images/57/575676528086526.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/575676528086526.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779059820
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:16",
     "fotoUrl": "https://img.olx.com.br/images/35/355645165362472.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/355645165362472.jpg"
     ],
-    "defeito": false,
+    "id": "1502857567",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ratchet-clank-ps4-1502857567",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "Ratchet clank ps4",
     "ts": 1779059812
   },
   {
@@ -9928,25 +9946,5 @@
     "tempoOlx": "",
     "titulo": "PS3 Clássico ",
     "ts": 1779029031
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/40/408579334774831.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/408579334774831.jpg",
-      "https://img.olx.com.br/images/42/429573459107836.jpg",
-      "https://img.olx.com.br/images/44/449548575583830.jpg"
-    ],
-    "id": "1444239027",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/call-of-duty-mw3-ps3-1444239027",
-    "preco": 24,
-    "precoRaw": "R$ 24",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Call of Duty MW3 - PS3",
-    "ts": 1779029022
   }
 ]
