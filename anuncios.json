@@ -1,21 +1,41 @@
 [
   {
-    "id": "1498580576",
-    "titulo": "xbox one S 500GB",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1502832950",
+    "titulo": "The Last of Us PS4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:53",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-one-s-500gb-1498580576",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/the-last-of-us-ps4-1502832950",
+    "fotoUrl": "https://img.olx.com.br/images/67/675601400879934.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/675601400879934.jpg",
+      "https://img.olx.com.br/images/70/702624042625193.jpg",
+      "https://img.olx.com.br/images/78/780628762670515.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779058439
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:53",
     "fotoUrl": "https://img.olx.com.br/images/72/727619400761040.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/727619400761040.jpg",
       "https://img.olx.com.br/images/73/732620522666458.jpg"
     ],
-    "defeito": false,
+    "id": "1498580576",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-one-s-500gb-1498580576",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "xbox one S 500GB",
     "ts": 1779058431
   },
   {
@@ -9944,28 +9964,5 @@
     "tempoOlx": "",
     "titulo": "Lego Harry Potter coleção ps3 usado",
     "ts": 1779028893
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:41",
-    "fotoUrl": "https://img.olx.com.br/images/84/844635259284515.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/844635259284515.jpg",
-      "https://img.olx.com.br/images/85/853668131118788.jpg",
-      "https://img.olx.com.br/images/86/863664495763681.jpg",
-      "https://img.olx.com.br/images/88/880683374460813.jpg",
-      "https://img.olx.com.br/images/89/895603371780971.jpg",
-      "https://img.olx.com.br/images/90/905604132570435.jpg"
-    ],
-    "id": "1476235573",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/unsharted-ps3-colecao-1476235573",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Unsharted ps3 coleção ",
-    "ts": 1779028884
   }
 ]
