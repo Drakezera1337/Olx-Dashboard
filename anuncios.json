@@ -1,5 +1,44 @@
 [
   {
+    "id": "1502604746",
+    "titulo": "Ps5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
+    "publicado": "",
+    "detectado": "11:18",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "descricao": "",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-1502604746",
+    "fotoUrl": "https://img.olx.com.br/images/29/296649889271942.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/296649889271942.jpg",
+      "https://img.olx.com.br/images/30/301635647400860.jpg",
+      "https://img.olx.com.br/images/31/313687645589860.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027514
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:18",
+    "fotoUrl": "https://img.olx.com.br/images/14/141662769328167.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/141662769328167.jpg",
+      "https://img.olx.com.br/images/15/153692766040216.jpg"
+    ],
+    "id": "1502605858",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-256gb-novo-lacrado-1502605858",
+    "preco": 5250,
+    "precoRaw": "R$ 5.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "iPhone 17 256gb novo lacrado",
+    "ts": 1779027505
+  },
+  {
     "id": "1495729845",
     "titulo": "Playstation Portal Para Console Ps5 Cor Branco",
     "preco": 929,
@@ -44,23 +83,23 @@
     "ts": 1779027496
   },
   {
-    "id": "1502615395",
-    "titulo": "Vendo um ps5 com um controle sem jogos, se quiser negociar os jogos podemos , preço 2400",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
     "categoria": "ps5",
-    "publicado": "",
-    "detectado": "11:18",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "defeito": false,
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/vendo-um-ps5-com-um-controle-sem-jogos-se-quiser-negociar-os-jogos-podemos-preco-2400-1502615395",
+    "detectado": "11:18",
     "fotoUrl": "https://img.olx.com.br/images/26/260612288996681.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/260612288996681.jpg",
       "https://img.olx.com.br/images/28/288652766143643.jpg",
       "https://img.olx.com.br/images/30/301604166622489.jpg"
     ],
-    "defeito": false,
+    "id": "1502615395",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/vendo-um-ps5-com-um-controle-sem-jogos-se-quiser-negociar-os-jogos-podemos-preco-2400-1502615395",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Vendo um ps5 com um controle sem jogos, se quiser negociar os jogos podemos , preço 2400",
     "ts": 1779027496
   },
   {
@@ -9857,43 +9896,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Vendo/ troco por IPhone ",
-    "ts": 1778592720
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/10/104664282146174.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/104664282146174.jpg",
-      "https://img.olx.com.br/images/12/125657765392378.jpg"
-    ],
-    "id": "1500420975",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps-portal-1500420975",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS Portal ",
-    "ts": 1778592720
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/51/517669281810599.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/517669281810599.jpg"
-    ],
-    "id": "1500130081",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/ps5-slim-edicao-digital-825-gb-1500130081",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps5 slim edição digital 825 Gb",
     "ts": 1778592720
   }
 ]
