@@ -1,21 +1,40 @@
 [
   {
-    "id": "1474094225",
-    "titulo": "Jogo ps3",
-    "preco": 65,
-    "precoRaw": "R$ 65",
+    "id": "1474092547",
+    "titulo": "Jogo ps3 resident evil 6",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "11:40",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/jogo-ps3-1474094225",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/jogo-ps3-resident-evil-6-1474092547",
+    "fotoUrl": "https://img.olx.com.br/images/53/533663129571348.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/533663129571348.jpg",
+      "https://img.olx.com.br/images/56/563628241098453.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028817
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:40",
     "fotoUrl": "https://img.olx.com.br/images/31/311695247331100.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/311695247331100.jpg",
       "https://img.olx.com.br/images/33/337677240527030.jpg"
     ],
-    "defeito": false,
+    "id": "1474094225",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/jogo-ps3-1474094225",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogo ps3",
     "ts": 1779028808
   },
   {
@@ -9971,23 +9990,5 @@
     "tempoOlx": "Na OLX desde outubro de 2015",
     "titulo": "Câmera Play 4",
     "ts": 1778597185
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:44",
-    "fotoUrl": "https://img.olx.com.br/images/33/333663407870827.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/333663407870827.jpg"
-    ],
-    "id": "1501383416",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-uncharted-a-thief-s-end-1501383416",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2014",
-    "titulo": "PS4 Uncharted A Thief's End ",
-    "ts": 1778597059
   }
 ]
