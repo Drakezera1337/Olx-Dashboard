@@ -1,20 +1,43 @@
 [
   {
-    "id": "1502781551",
-    "titulo": "Ps4 -Aceito trocas",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1502781495",
+    "titulo": "Drive Club PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:52",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "tempoOlx": "Na OLX desde março de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-aceito-trocas-1502781551",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/drive-club-ps4-1502781495",
+    "fotoUrl": "https://img.olx.com.br/images/65/652676406302822.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/652676406302822.jpg",
+      "https://img.olx.com.br/images/66/664616047278501.jpg",
+      "https://img.olx.com.br/images/67/674607528706974.jpg",
+      "https://img.olx.com.br/images/68/680637167822450.jpg",
+      "https://img.olx.com.br/images/69/696628646669932.jpg",
+      "https://img.olx.com.br/images/70/709692525752050.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779036738
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:52",
     "fotoUrl": "https://img.olx.com.br/images/86/869675647228620.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/869675647228620.jpg"
     ],
-    "defeito": false,
+    "id": "1502781551",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-aceito-trocas-1502781551",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Ps4 -Aceito trocas",
     "ts": 1779036727
   },
   {
@@ -9986,23 +10009,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "Console Da Playstation Portal - Loja Fisica - Garantia - Aceito Trocas ",
     "ts": 1779027769
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:22",
-    "fotoUrl": "https://img.olx.com.br/images/56/567685523861804.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/567685523861804.jpg"
-    ],
-    "id": "1502677337",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1502677337",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "iPhone 11",
-    "ts": 1779027760
   }
 ]
