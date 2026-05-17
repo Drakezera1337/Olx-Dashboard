@@ -1,22 +1,44 @@
 [
   {
-    "id": "1502853890",
-    "titulo": "Nintendo switch não liga",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "switch",
+    "id": "1502853835",
+    "titulo": "Iphone 15 128GB 89% de bateria - Aceito Cartão",
+    "preco": 3099,
+    "precoRaw": "R$ 3.099",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "20:00",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "20:01",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/nintendo-switch-nao-liga-1502853890",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-89-de-bateria-aceito-cartao-1502853835",
+    "fotoUrl": "https://img.olx.com.br/images/94/942631524427164.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/942631524427164.jpg",
+      "https://img.olx.com.br/images/94/947604405885499.jpg",
+      "https://img.olx.com.br/images/94/943648280975891.jpg",
+      "https://img.olx.com.br/images/94/942697169297659.jpg",
+      "https://img.olx.com.br/images/94/949645047897308.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779058913
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:00",
     "fotoUrl": "https://img.olx.com.br/images/51/514646280960895.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/514646280960895.jpg",
       "https://img.olx.com.br/images/52/529681761068640.jpg",
       "https://img.olx.com.br/images/55/556635166579799.jpg"
     ],
-    "defeito": false,
+    "id": "1502853890",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/nintendo-switch-nao-liga-1502853890",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Nintendo switch não liga",
     "ts": 1779058852
   },
   {
@@ -9937,26 +9959,5 @@
     "tempoOlx": "",
     "titulo": "Ps3",
     "ts": 1779028927
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:41",
-    "fotoUrl": "https://img.olx.com.br/images/32/321670149096781.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/321670149096781.jpg",
-      "https://img.olx.com.br/images/33/335609143325324.jpg",
-      "https://img.olx.com.br/images/35/356663262244895.jpg",
-      "https://img.olx.com.br/images/37/378699265442609.jpg"
-    ],
-    "id": "1484833303",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps3-original-para-conserto-ou-pecas-1484833303",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Controle PS3 original para conserto ou peças",
-    "ts": 1779028919
   }
 ]
