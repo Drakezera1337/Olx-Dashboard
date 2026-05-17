@@ -1,21 +1,39 @@
 [
   {
-    "id": "1502859965",
-    "titulo": "FOR HONROR PS4 ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1502859401",
+    "titulo": "UFC 2 PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:26",
+    "detectado": "20:27",
     "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/for-honror-ps4-1502859965",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ufc-2-ps4-1502859401",
+    "fotoUrl": "https://img.olx.com.br/images/88/889690047727091.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/889690047727091.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779060420
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:26",
     "fotoUrl": "https://img.olx.com.br/images/40/408630768700085.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/408630768700085.jpg",
       "https://img.olx.com.br/images/42/426610408193600.jpg"
     ],
-    "defeito": false,
+    "id": "1502859965",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/for-honror-ps4-1502859965",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "FOR HONROR PS4 ",
     "ts": 1779060412
   },
   {
@@ -9915,27 +9933,5 @@
     "tempoOlx": "",
     "titulo": "Jogo UFC Undisputed 3 original PS3",
     "ts": 1779029102
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:44",
-    "fotoUrl": "https://img.olx.com.br/images/68/684664377332190.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/684664377332190.jpg",
-      "https://img.olx.com.br/images/69/696682492262081.jpg",
-      "https://img.olx.com.br/images/71/718652011621688.jpg",
-      "https://img.olx.com.br/images/72/721609858238308.jpg",
-      "https://img.olx.com.br/images/73/730679137694749.jpg"
-    ],
-    "id": "1476199209",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/aliens-vs-predator-ps3-1476199209",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Aliens vs predator ps3",
-    "ts": 1779029093
   }
 ]
