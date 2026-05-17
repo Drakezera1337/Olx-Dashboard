@@ -1,15 +1,31 @@
 [
   {
-    "id": "1438657064",
-    "titulo": "Jogo de Ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1485961042",
+    "titulo": "Cyberpunk 2077 - Edição Especial PS4 com upgrade para PS5 (Completa)",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:58",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-de-ps4-1438657064",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/cyberpunk-2077-edicao-especial-ps4-com-upgrade-para-ps5-completa-1485961042",
+    "fotoUrl": "https://img.olx.com.br/images/33/334654146680803.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/334654146680803.jpg",
+      "https://img.olx.com.br/images/36/365608620065184.jpg",
+      "https://img.olx.com.br/images/38/384660146176239.jpg",
+      "https://img.olx.com.br/images/39/399607505811263.jpg",
+      "https://img.olx.com.br/images/41/412679383363966.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029916
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:58",
     "fotoUrl": "https://img.olx.com.br/images/19/190542683686730.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/190542683686730.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/29/297570922804905.jpg",
       "https://img.olx.com.br/images/32/326555320706071.jpg"
     ],
-    "defeito": false,
+    "id": "1438657064",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-de-ps4-1438657064",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogo de Ps4",
     "ts": 1779029908
   },
   {
@@ -10084,24 +10106,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Fallout 76 Playstation 4",
     "ts": 1778605985
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:12",
-    "fotoUrl": "https://img.olx.com.br/images/14/140675400010562.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/140675400010562.jpg",
-      "https://img.olx.com.br/images/17/178676762952332.jpg"
-    ],
-    "id": "1501437448",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/farming-simulator-22-ps4-1501437448",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2022",
-    "titulo": "Farming Simulator 22 - PS4",
-    "ts": 1778605977
   }
 ]
