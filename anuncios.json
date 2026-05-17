@@ -1,21 +1,44 @@
 [
   {
-    "id": "1502050154",
-    "titulo": "xbox series s ",
-    "preco": 1499,
-    "precoRaw": "R$ 1.499",
+    "id": "1493780111",
+    "titulo": "Xbox one S all digital ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "11:36",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/xbox-series-s-1502050154",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-one-s-all-digital-1493780111",
+    "fotoUrl": "https://img.olx.com.br/images/69/692681036532903.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/692681036532903.jpg",
+      "https://img.olx.com.br/images/70/703649632429700.jpg",
+      "https://img.olx.com.br/images/71/710672150907723.jpg",
+      "https://img.olx.com.br/images/72/728601874174532.jpg",
+      "https://img.olx.com.br/images/73/733601272796924.jpg",
+      "https://img.olx.com.br/images/74/740666751413554.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028610
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:36",
     "fotoUrl": "https://img.olx.com.br/images/11/112620408067217.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/112620408067217.jpg",
       "https://img.olx.com.br/images/12/124612649955132.jpg"
     ],
-    "defeito": false,
+    "id": "1502050154",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/xbox-series-s-1502050154",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "xbox series s ",
     "ts": 1779028602
   },
   {
@@ -9949,25 +9972,5 @@
     "tempoOlx": "Na OLX desde junho de 2024",
     "titulo": "PS4 500gb TUDO ORIGINAL",
     "ts": 1778595746
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:21",
-    "fotoUrl": "https://img.olx.com.br/images/17/172646046481091.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/172646046481091.jpg",
-      "https://img.olx.com.br/images/19/198636888333536.jpg",
-      "https://img.olx.com.br/images/21/218630766976572.jpg"
-    ],
-    "id": "1501374543",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/god-of-war-ragnarok-ps4-1501374543",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "God of War Ragnarok PS4",
-    "ts": 1778595719
   }
 ]
