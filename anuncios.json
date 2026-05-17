@@ -1,15 +1,30 @@
 [
   {
-    "id": "1501940542",
-    "titulo": "Caixa do Playstation 5",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "ps5",
+    "id": "1502378014",
+    "titulo": "iPhone 13 mini ",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:23",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-do-playstation-5-1501940542",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-mini-1502378014",
+    "fotoUrl": "https://img.olx.com.br/images/15/154610041187382.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/154610041187382.jpg",
+      "https://img.olx.com.br/images/20/206636287532133.jpg",
+      "https://img.olx.com.br/images/22/224688880418724.jpg",
+      "https://img.olx.com.br/images/24/240620882203074.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027835
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:23",
     "fotoUrl": "https://img.olx.com.br/images/51/515645403641804.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/515645403641804.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/56/565665648348172.jpg",
       "https://img.olx.com.br/images/58/582676167030248.jpg"
     ],
-    "defeito": false,
+    "id": "1501940542",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-do-playstation-5-1501940542",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Caixa do Playstation 5",
     "ts": 1779027832
   },
   {
@@ -9907,23 +9928,5 @@
     "tempoOlx": "",
     "titulo": "Ps1 baby leitor 70% funcionando perfeitamente só o console ",
     "ts": 1778592977
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/28/286663278470416.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/286663278470416.jpg"
-    ],
-    "id": "1493078277",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/pokeball-plus-original-nintendo-1493078277",
-    "preco": 680,
-    "precoRaw": "R$ 680",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Pokeball plus original nintendo",
-    "ts": 1778592962
   }
 ]
