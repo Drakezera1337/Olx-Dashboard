@@ -1,22 +1,45 @@
 [
   {
-    "id": "1502307576",
-    "titulo": "PlayStation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1485604015",
+    "titulo": "Tampa Inferior do Ps4 Fat  CUH-1001A ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:28",
+    "detectado": "11:29",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1502307576",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/tampa-inferior-do-ps4-fat-cuh-1001a-1485604015",
+    "fotoUrl": "https://img.olx.com.br/images/70/705664507879936.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/705664507879936.jpg",
+      "https://img.olx.com.br/images/71/713622742897977.jpg",
+      "https://img.olx.com.br/images/73/737643267440529.jpg",
+      "https://img.olx.com.br/images/75/752618265634442.jpg",
+      "https://img.olx.com.br/images/77/773607269378733.jpg",
+      "https://img.olx.com.br/images/80/807686860643239.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028142
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:28",
     "fotoUrl": "https://img.olx.com.br/images/50/500649644484308.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/500649644484308.jpg",
       "https://img.olx.com.br/images/53/537660282345253.jpg",
       "https://img.olx.com.br/images/55/553604526433683.jpg"
     ],
-    "defeito": false,
+    "id": "1502307576",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1502307576",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PlayStation 4",
     "ts": 1779028132
   },
   {
@@ -9899,24 +9922,5 @@
     "tempoOlx": "Na OLX desde julho de 2017",
     "titulo": "Lote 27 jogos Ps3",
     "ts": 1778593737
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:45",
-    "fotoUrl": "https://img.olx.com.br/images/63/634602635649319.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/634602635649319.jpg",
-      "https://img.olx.com.br/images/65/654646631278983.jpg"
-    ],
-    "id": "1498039352",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-1498039352",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "Xbox séries s",
-    "ts": 1778593557
   }
 ]
