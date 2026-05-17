@@ -1,22 +1,42 @@
 [
   {
-    "id": "1502688181",
-    "titulo": "THE LAST OF US 2",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "categoria": "jogos",
+    "id": "1502687978",
+    "titulo": "RED DEAD REDEMPTION 2",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:51",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/the-last-of-us-2-1502688181",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/red-dead-redemption-2-1502687978",
+    "fotoUrl": "https://img.olx.com.br/images/97/979639163176415.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/979639163176415.jpg",
+      "https://img.olx.com.br/images/11/116606409378193.jpg",
+      "https://img.olx.com.br/images/14/149673888604020.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029519
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:51",
     "fotoUrl": "https://img.olx.com.br/images/33/330635640172466.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/330635640172466.jpg",
       "https://img.olx.com.br/images/36/364664880294892.jpg",
       "https://img.olx.com.br/images/40/407650040787008.jpg"
     ],
-    "defeito": false,
+    "id": "1502688181",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/the-last-of-us-2-1502688181",
+    "preco": 89,
+    "precoRaw": "R$ 89",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "THE LAST OF US 2",
     "ts": 1779029512
   },
   {
@@ -10062,23 +10082,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "Ps4 2TB memória ",
     "ts": 1778602746
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:18",
-    "fotoUrl": "https://img.olx.com.br/images/92/927623607307792.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/927623607307792.jpg"
-    ],
-    "id": "1474069495",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/rayman-legends-ps4-playstation-4-original-1474069495",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Rayman Legends - PS4 / Playstation 4 - Original ",
-    "ts": 1778602738
   }
 ]
