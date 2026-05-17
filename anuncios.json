@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502403053",
-    "titulo": "Vídeo game ",
-    "preco": 650,
-    "precoRaw": "R$ 650",
+    "id": "1502393951",
+    "titulo": "Figurinha extra copa do mundo 2026",
+    "preco": 180,
+    "precoRaw": "R$ 180",
     "categoria": "outros",
     "publicado": "",
     "detectado": "11:55",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/video-game-1502403053",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/figurinha-extra-copa-do-mundo-2026-1502393951",
+    "fotoUrl": "https://img.olx.com.br/images/12/123681401052964.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/123681401052964.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029751
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:55",
     "fotoUrl": "https://img.olx.com.br/images/49/495622641831134.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/495622641831134.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/55/559671166762387.jpg",
       "https://img.olx.com.br/images/57/570673527217354.jpg"
     ],
-    "defeito": false,
+    "id": "1502403053",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/video-game-1502403053",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Vídeo game ",
     "ts": 1779029744
   },
   {
@@ -10077,23 +10095,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2022",
     "titulo": "PS5 para retirada de peças ",
     "ts": 1778604896
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:50",
-    "fotoUrl": "https://img.olx.com.br/images/14/145622285443188.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/145622285443188.jpg"
-    ],
-    "id": "1501431412",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-pro-1501431412",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2015",
-    "titulo": "iPhone 12 Pro",
-    "ts": 1778604659
   }
 ]
