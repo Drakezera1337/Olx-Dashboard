@@ -1,15 +1,51 @@
 [
   {
-    "id": "1501808444",
-    "titulo": "VENDO IPHONE 13 ( 128GB)",
-    "preco": 2900,
-    "precoRaw": "R$ 2.900",
+    "id": "1501798924",
+    "titulo": "Vendo iPhone 11 ",
+    "preco": 700,
+    "precoRaw": "R$ 700",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "11:20",
-    "tempoOlx": "Na OLX desde junho de 2016",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-13-128gb-1501808444",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-11-1501798924",
+    "fotoUrl": "https://img.olx.com.br/images/83/830626041140131.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/830626041140131.jpg",
+      "https://img.olx.com.br/images/85/859657406549066.jpg",
+      "https://img.olx.com.br/images/86/863699526242849.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027637
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:20",
+    "fotoUrl": "https://img.olx.com.br/images/20/203683522703706.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/203683522703706.jpg",
+      "https://img.olx.com.br/images/20/209691409934965.jpg",
+      "https://img.olx.com.br/images/20/202688761929808.jpg",
+      "https://img.olx.com.br/images/20/202643762084972.jpg",
+      "https://img.olx.com.br/images/20/202691405313566.jpg"
+    ],
+    "id": "1502382567",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1tb-completo-2-controles-originais-5-jogos-caixa-1502382567",
+    "preco": 1599,
+    "precoRaw": "R$ 1.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "PS4 Slim 1TB Completo + 2 Controles Originais + 5 Jogos + Caixa",
+    "ts": 1779027630
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:20",
     "fotoUrl": "https://img.olx.com.br/images/37/372603167707550.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/372603167707550.jpg",
@@ -19,7 +55,13 @@
       "https://img.olx.com.br/images/44/445653644464110.jpg",
       "https://img.olx.com.br/images/46/468623286458597.jpg"
     ],
-    "defeito": false,
+    "id": "1501808444",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-13-128gb-1501808444",
+    "preco": 2900,
+    "precoRaw": "R$ 2.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "titulo": "VENDO IPHONE 13 ( 128GB)",
     "ts": 1779027628
   },
   {
@@ -9874,42 +9916,5 @@
     "tempoOlx": "",
     "titulo": "Limpeza Completa + Troca Pasta Térmica PS3 PS4 Xbox One PC!",
     "ts": 1778592807
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/24/242638506181614.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/242638506181614.jpg"
-    ],
-    "id": "1484976650",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/playstation-vrh-1484976650",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation VRh",
-    "ts": 1778592807
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/29/295691641497538.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/295691641497538.jpg",
-      "https://img.olx.com.br/images/30/300671162527765.jpg"
-    ],
-    "id": "1501084876",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/consoles-de-video-game/leitor-de-disco-ps4-slim-funcionando-1501084876",
-    "preco": 290,
-    "precoRaw": "R$ 290",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Leitor de disco PS4 Slim Funcionando ",
-    "ts": 1778592801
   }
 ]
