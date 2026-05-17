@@ -1,15 +1,28 @@
 [
   {
-    "id": "1459872004",
-    "titulo": "Playstation 3 FAT",
-    "preco": 349,
-    "precoRaw": "R$ 349",
+    "id": "1442886635",
+    "titulo": "Lost Planet Extreme Condition - Ps3",
+    "preco": 40,
+    "precoRaw": "R$ 40",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "11:44",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/playstation-3-fat-1459872004",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/lost-planet-extreme-condition-ps3-1442886635",
+    "fotoUrl": "https://img.olx.com.br/images/40/401500455823476.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/401500455823476.jpg",
+      "https://img.olx.com.br/images/42/424544938519118.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029048
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:44",
     "fotoUrl": "https://img.olx.com.br/images/74/743555239111097.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/743555239111097.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/79/791529950750098.jpg",
       "https://img.olx.com.br/images/80/807519112325622.jpg"
     ],
-    "defeito": false,
+    "id": "1459872004",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/playstation-3-fat-1459872004",
+    "preco": 349,
+    "precoRaw": "R$ 349",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Playstation 3 FAT",
     "ts": 1779029040
   },
   {
@@ -9991,23 +10010,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2024",
     "titulo": "Meta quest 3s",
     "ts": 1778599142
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:18",
-    "fotoUrl": "https://img.olx.com.br/images/60/606675885833543.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/606675885833543.jpg"
-    ],
-    "id": "1501399883",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-1501399883",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2021",
-    "titulo": "Ps5 ",
-    "ts": 1778599135
   }
 ]
