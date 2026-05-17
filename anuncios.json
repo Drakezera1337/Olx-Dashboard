@@ -1,22 +1,41 @@
 [
   {
-    "id": "1474093990",
+    "id": "1474094225",
     "titulo": "Jogo ps3",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "preco": 65,
+    "precoRaw": "R$ 65",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "11:40",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/jogo-ps3-1474093990",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/jogo-ps3-1474094225",
+    "fotoUrl": "https://img.olx.com.br/images/31/311695247331100.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/311695247331100.jpg",
+      "https://img.olx.com.br/images/33/337677240527030.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028808
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:40",
     "fotoUrl": "https://img.olx.com.br/images/16/162666005817050.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/162666005817050.jpg",
       "https://img.olx.com.br/images/17/174667729705606.jpg",
       "https://img.olx.com.br/images/19/194627246451998.jpg"
     ],
-    "defeito": false,
+    "id": "1474093990",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/jogo-ps3-1474093990",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogo ps3",
     "ts": 1779028800
   },
   {
@@ -9970,24 +9989,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "PS4 Uncharted A Thief's End ",
     "ts": 1778597059
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:44",
-    "fotoUrl": "https://img.olx.com.br/images/37/374663401410155.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/374663401410155.jpg",
-      "https://img.olx.com.br/images/39/392662528987983.jpg"
-    ],
-    "id": "1501383560",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/the-last-of-us-2-ps4-1501383560",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
-    "titulo": "The last of Us 2 Ps4",
-    "ts": 1778597052
   }
 ]
