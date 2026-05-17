@@ -1,5 +1,45 @@
 [
   {
+    "id": "1502744804",
+    "titulo": "PS4 Pro 1TB Impecável + 2 Controles + 5 Jogos",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "ps4",
+    "publicado": "",
+    "detectado": "11:24",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-pro-1tb-impecavel-2-controles-5-jogos-1502744804",
+    "fotoUrl": "https://img.olx.com.br/images/71/711658405009399.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/711658405009399.jpg",
+      "https://img.olx.com.br/images/72/728631169220602.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027895
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:24",
+    "fotoUrl": "https://img.olx.com.br/images/56/566647646655232.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/566647646655232.jpg",
+      "https://img.olx.com.br/images/58/589607524490580.jpg",
+      "https://img.olx.com.br/images/59/591625647383262.jpg",
+      "https://img.olx.com.br/images/61/615666404400463.jpg"
+    ],
+    "id": "1502136925",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-128gb-1502136925",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 13 Pro Max 128gb ",
+    "ts": 1779027887
+  },
+  {
     "id": "1502747648",
     "titulo": "Playstation 4 FAT com defeito Ps4 - leia a descrição ",
     "preco": 400,
@@ -43,23 +83,23 @@
     "ts": 1779027879
   },
   {
-    "id": "1502152412",
-    "titulo": "iPhone 13 Pro Max 256 gb",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
     "categoria": "iphone",
-    "publicado": "",
-    "detectado": "11:24",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-256-gb-1502152412",
+    "detectado": "11:24",
     "fotoUrl": "https://img.olx.com.br/images/87/870623761757081.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/870623761757081.jpg",
       "https://img.olx.com.br/images/88/880640527233818.jpg",
       "https://img.olx.com.br/images/88/882602162375480.jpg"
     ],
-    "defeito": false,
+    "id": "1502152412",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-256-gb-1502152412",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 13 Pro Max 256 gb",
     "ts": 1779027879
   },
   {
@@ -9890,46 +9930,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "NINTENDO SWITCH V2 DESBLOQUEADO",
-    "ts": 1778593002
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/88/886677285078158.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/886677285078158.jpg",
-      "https://img.olx.com.br/images/90/907679402650012.jpg",
-      "https://img.olx.com.br/images/91/913629286113270.jpg"
-    ],
-    "id": "1501110238",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-360-original-fonte-cabos-e-carregador-da-manete-e-um-kit-de-jogos-1501110238",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox 360 Original + Fonte, Cabos e carregador da manete e um kit de jogos",
-    "ts": 1778593002
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/98/988664402864016.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/988664402864016.jpg",
-      "https://img.olx.com.br/images/97/971653640697793.jpg",
-      "https://img.olx.com.br/images/98/982651406099917.jpg"
-    ],
-    "id": "1501105494",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/guitarra-ps3-guitar-hero-1501105494",
-    "preco": 889,
-    "precoRaw": "R$ 889",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Guitarra PS3 Guitar Hero",
     "ts": 1778593002
   }
 ]
