@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502243417",
-    "titulo": "Caixa de ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1502075857",
+    "titulo": "PlayStation 4 Slim",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:32",
+    "detectado": "11:33",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-de-ps4-1502243417",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-4-slim-1502075857",
+    "fotoUrl": "https://img.olx.com.br/images/46/463604403461920.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/463604403461920.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028394
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:32",
     "fotoUrl": "https://img.olx.com.br/images/96/967621045162060.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/967621045162060.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/12/126610768478736.jpg",
       "https://img.olx.com.br/images/13/138672523351930.jpg"
     ],
-    "defeito": false,
+    "id": "1502243417",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-de-ps4-1502243417",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Caixa de ps4",
     "ts": 1779028371
   },
   {
@@ -9914,25 +9932,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Tales of Vesperia Definitive Edition - Playstation 4",
     "ts": 1778594503
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:01",
-    "fotoUrl": "https://img.olx.com.br/images/63/636627162909820.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/636627162909820.jpg",
-      "https://img.olx.com.br/images/70/703692884143762.jpg",
-      "https://img.olx.com.br/images/72/724643287473901.jpg"
-    ],
-    "id": "1492640578",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/kit-5-jogos-ps4-e-ps5-1492640578",
-    "preco": 270,
-    "precoRaw": "R$ 270",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "Kit 5 Jogos PS4 e PS5",
-    "ts": 1778594480
   }
 ]
