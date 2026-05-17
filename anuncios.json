@@ -1,22 +1,42 @@
 [
   {
-    "id": "1462873365",
-    "titulo": "Cyber punk ps4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1390526595",
+    "titulo": "Ratchet & Clank PlayStation Hits - PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:45",
+    "detectado": "20:46",
     "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyber-punk-ps4-1462873365",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ratchet-clank-playstation-hits-ps4-1390526595",
+    "fotoUrl": "https://img.olx.com.br/images/28/283583620942476.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/283583620942476.jpg",
+      "https://img.olx.com.br/images/28/286555148852746.jpg",
+      "https://img.olx.com.br/images/29/290574740085129.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779061561
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:45",
     "fotoUrl": "https://img.olx.com.br/images/14/140585470592182.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/140585470592182.jpg",
       "https://img.olx.com.br/images/16/165576475632833.jpg",
       "https://img.olx.com.br/images/18/184513353671357.jpg"
     ],
-    "defeito": false,
+    "id": "1462873365",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyber-punk-ps4-1462873365",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Cyber punk ps4",
     "ts": 1779061553
   },
   {
@@ -9893,23 +9913,5 @@
     "tempoOlx": "",
     "titulo": "Miniatura HOT WHEELS MÁRIO KARD - Escala 1:64",
     "ts": 1779029187
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:46",
-    "fotoUrl": "https://img.olx.com.br/images/24/242571112602190.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/242571112602190.jpg"
-    ],
-    "id": "1460739557",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/organizador-10-espacos-para-jogos-nintendo-switch-1-e-2-suporte-p-caixas-e-cartuchos-1460739557",
-    "preco": 25,
-    "precoRaw": "R$ 25",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Organizador 10 Espaços para Jogos Nintendo Switch 1 e 2 - Suporte p/ Caixas e Cartuchos",
-    "ts": 1779029180
   }
 ]
