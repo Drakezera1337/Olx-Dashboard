@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502864578",
-    "titulo": "iPhone 17 Pro Max - 256GB Laranja",
-    "preco": 7800,
-    "precoRaw": "R$ 7.800",
-    "categoria": "iphone",
+    "id": "1475251633",
+    "titulo": "PS4 slim 1 terá leia a descrição ",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:51",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-256gb-laranja-1502864578",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-slim-1-tera-leia-a-descricao-1475251633",
+    "fotoUrl": "https://img.olx.com.br/images/42/425634377962539.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/425634377962539.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779061913
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:51",
     "fotoUrl": "https://img.olx.com.br/images/30/305603404062740.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/305603404062740.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/42/424627285927808.jpg",
       "https://img.olx.com.br/images/46/467662760521421.jpg"
     ],
-    "defeito": false,
+    "id": "1502864578",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-256gb-laranja-1502864578",
+    "preco": 7800,
+    "precoRaw": "R$ 7.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "iPhone 17 Pro Max - 256GB Laranja",
     "ts": 1779061886
   },
   {
@@ -9899,24 +9917,5 @@
     "tempoOlx": "",
     "titulo": "Nintendo Switch lite",
     "ts": 1779029201
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:46",
-    "fotoUrl": "https://img.olx.com.br/images/83/838642274376003.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/838642274376003.jpg",
-      "https://img.olx.com.br/images/85/852683756762052.jpg"
-    ],
-    "id": "1491994620",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-game-trick-lite-novo-no-plastico-1491994620",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo GAME TRICK LITE NOVO NO PLASTICO.",
-    "ts": 1779029194
   }
 ]
