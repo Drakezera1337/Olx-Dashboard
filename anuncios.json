@@ -1,15 +1,31 @@
 [
   {
-    "id": "1493780111",
-    "titulo": "Xbox one S all digital ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1501770602",
+    "titulo": "Xbox série s 512 GB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "11:36",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-one-s-all-digital-1493780111",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-serie-s-512-gb-1501770602",
+    "fotoUrl": "https://img.olx.com.br/images/39/393635287640289.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/393635287640289.jpg",
+      "https://img.olx.com.br/images/41/412655649843972.jpg",
+      "https://img.olx.com.br/images/43/436673406938403.jpg",
+      "https://img.olx.com.br/images/44/443695525583203.jpg",
+      "https://img.olx.com.br/images/46/465668163924030.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028617
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:36",
     "fotoUrl": "https://img.olx.com.br/images/69/692681036532903.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/692681036532903.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/73/733601272796924.jpg",
       "https://img.olx.com.br/images/74/740666751413554.jpg"
     ],
-    "defeito": false,
+    "id": "1493780111",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-one-s-all-digital-1493780111",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox one S all digital ",
     "ts": 1779028610
   },
   {
@@ -9950,27 +9972,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2014",
     "titulo": "PlayStation portal seminovo",
     "ts": 1778595866
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:22",
-    "fotoUrl": "https://img.olx.com.br/images/72/722686285943428.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/722686285943428.jpg",
-      "https://img.olx.com.br/images/74/745612404484529.jpg",
-      "https://img.olx.com.br/images/76/763674041099824.jpg",
-      "https://img.olx.com.br/images/78/787693044216847.jpg",
-      "https://img.olx.com.br/images/79/795689281779560.jpg"
-    ],
-    "id": "1501377009",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-500gb-tudo-original-1501377009",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2024",
-    "titulo": "PS4 500gb TUDO ORIGINAL",
-    "ts": 1778595746
   }
 ]
