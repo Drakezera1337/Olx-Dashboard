@@ -1,20 +1,39 @@
 [
   {
-    "id": "1475375201",
-    "titulo": "Jogos PS4 ",
-    "preco": 900,
-    "precoRaw": "R$ 900",
+    "id": "1475373823",
+    "titulo": "PS4 rise of the tomb raider ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:03",
     "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1475375201",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-rise-of-the-tomb-raider-1475373823",
+    "fotoUrl": "https://img.olx.com.br/images/99/993626131648890.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/993626131648890.jpg",
+      "https://img.olx.com.br/images/11/116613251692890.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779037414
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:03",
     "fotoUrl": "https://img.olx.com.br/images/99/991619250262832.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/991619250262832.jpg"
     ],
-    "defeito": false,
+    "id": "1475375201",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1475375201",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "titulo": "Jogos PS4 ",
     "ts": 1779037406
   },
   {
@@ -9983,23 +10002,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "iPhone 12 ",
     "ts": 1779027828
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:23",
-    "fotoUrl": "https://img.olx.com.br/images/10/106627274482419.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/106627274482419.jpg"
-    ],
-    "id": "1493626894",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/vr-para-ps4-ps5-1493626894",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2013",
-    "titulo": "VR para PS4/PS5",
-    "ts": 1779027823
   }
 ]
