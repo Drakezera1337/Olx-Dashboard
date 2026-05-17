@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502853835",
-    "titulo": "Iphone 15 128GB 89% de bateria - Aceito Cartão",
-    "preco": 3099,
-    "precoRaw": "R$ 3.099",
-    "categoria": "iphone",
+    "id": "1502855926",
+    "titulo": "Jogos ps4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:01",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "20:05",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-89-de-bateria-aceito-cartao-1502853835",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1502855926",
+    "fotoUrl": "https://img.olx.com.br/images/56/567688764887452.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/567688764887452.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779059123
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:01",
     "fotoUrl": "https://img.olx.com.br/images/94/942631524427164.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/942631524427164.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/94/942697169297659.jpg",
       "https://img.olx.com.br/images/94/949645047897308.jpg"
     ],
-    "defeito": false,
+    "id": "1502853835",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-89-de-bateria-aceito-cartao-1502853835",
+    "preco": 3099,
+    "precoRaw": "R$ 3.099",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Iphone 15 128GB 89% de bateria - Aceito Cartão",
     "ts": 1779058913
   },
   {
@@ -9938,26 +9956,5 @@
     "tempoOlx": "",
     "titulo": "Batman arkham origins",
     "ts": 1779028935
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:42",
-    "fotoUrl": "https://img.olx.com.br/images/18/181669527700934.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/181669527700934.jpg",
-      "https://img.olx.com.br/images/19/197658287606361.jpg",
-      "https://img.olx.com.br/images/20/206634643844063.jpg",
-      "https://img.olx.com.br/images/20/207608166563119.jpg"
-    ],
-    "id": "1502264764",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps3-1502264764",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps3",
-    "ts": 1779028927
   }
 ]
