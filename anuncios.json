@@ -1,21 +1,41 @@
 [
   {
-    "id": "1502472053",
-    "titulo": "iPhone 6s 32GB",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "iphone",
+    "id": "1502045144",
+    "titulo": "PS5 com defeito",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:23",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-6s-32gb-1502472053",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-com-defeito-1502045144",
+    "fotoUrl": "https://img.olx.com.br/images/27/276688762853836.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/276688762853836.jpg",
+      "https://img.olx.com.br/images/29/296637769286470.jpg",
+      "https://img.olx.com.br/images/34/341696648392279.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027809
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:23",
     "fotoUrl": "https://img.olx.com.br/images/22/223685160784847.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/223685160784847.jpg",
       "https://img.olx.com.br/images/23/231696646301804.jpg"
     ],
-    "defeito": false,
+    "id": "1502472053",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-6s-32gb-1502472053",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "iPhone 6s 32GB",
     "ts": 1779027804
   },
   {
@@ -9907,24 +9927,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Nintendo Switch Oled ACESSÓRIOS ",
-    "ts": 1778592962
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/99/995687752276237.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/995687752276237.jpg"
-    ],
-    "id": "1498335534",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/mega-scrafty-ex-1498335534",
-    "preco": 15,
-    "precoRaw": "R$ 15",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Mega scrafty Ex",
     "ts": 1778592962
   }
 ]
