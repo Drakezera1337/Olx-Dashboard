@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502118111",
-    "titulo": "Playstation 5 com leitor",
-    "preco": 2599,
-    "precoRaw": "R$ 2.599",
-    "categoria": "ps5",
+    "id": "1502677337",
+    "titulo": "iPhone 11",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:22",
-    "tempoOlx": "Na OLX desde setembro de 2016",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-com-leitor-1502118111",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1502677337",
+    "fotoUrl": "https://img.olx.com.br/images/56/567685523861804.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/567685523861804.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027760
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:22",
     "fotoUrl": "https://img.olx.com.br/images/27/279657764984369.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/279657764984369.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/32/328610765134419.jpg",
       "https://img.olx.com.br/images/33/338643044905411.jpg"
     ],
-    "defeito": false,
+    "id": "1502118111",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-com-leitor-1502118111",
+    "preco": 2599,
+    "precoRaw": "R$ 2.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2016",
+    "titulo": "Playstation 5 com leitor",
     "ts": 1779027758
   },
   {
@@ -9905,26 +9923,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Fonte original Nintendo Switch bivolt (envio OLX PAY)",
-    "ts": 1778592937
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:35",
-    "fotoUrl": "https://img.olx.com.br/images/74/748518435712105.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/748518435712105.jpg",
-      "https://img.olx.com.br/images/74/748557559519664.jpg",
-      "https://img.olx.com.br/images/74/742576550732013.jpg"
-    ],
-    "id": "1432805850",
-    "link": "https://to.olx.com.br/tocantins/games/consoles-de-video-game/dock-nintendo-switch-1432805850",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Dock Nintendo switch",
     "ts": 1778592937
   }
 ]
