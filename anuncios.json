@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502792348",
-    "titulo": "Jogos para PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1502792232",
+    "titulo": "Ea Fc 24 ps4/ps5 mídia digital",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "14:55",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogos-para-ps4-1502792348",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ea-fc-24-ps4-ps5-midia-digital-1502792232",
+    "fotoUrl": "https://img.olx.com.br/images/65/659652404783824.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/659652404783824.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779040510
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:55",
     "fotoUrl": "https://img.olx.com.br/images/63/638611161603487.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/638611161603487.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/68/687686280341282.jpg",
       "https://img.olx.com.br/images/69/695688045495471.jpg"
     ],
-    "defeito": false,
+    "id": "1502792348",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogos-para-ps4-1502792348",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Jogos para PS4",
     "ts": 1779040503
   },
   {
@@ -9971,24 +9989,5 @@
     "tempoOlx": "",
     "titulo": "Playstation 4 com defeito",
     "ts": 1779027955
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:25",
-    "fotoUrl": "https://img.olx.com.br/images/85/853633642519994.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/853633642519994.jpg",
-      "https://img.olx.com.br/images/85/855634164133247.jpg"
-    ],
-    "id": "1502641771",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1502641771",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4",
-    "ts": 1779027948
   }
 ]
