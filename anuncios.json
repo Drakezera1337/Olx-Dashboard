@@ -1,15 +1,32 @@
 [
   {
-    "id": "1502113672",
-    "titulo": "Vídeo game ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "outros",
+    "id": "1432628549",
+    "titulo": "Console PS3 \"no estado\" p/ Conserto Aceitamos Olx Pay ",
+    "preco": 390,
+    "precoRaw": "R$ 390",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "11:42",
+    "detectado": "11:43",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/video-game-1502113672",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/console-ps3-no-estado-p-conserto-aceitamos-olx-pay-1432628549",
+    "fotoUrl": "https://img.olx.com.br/images/71/713581554552163.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/713581554552163.jpg",
+      "https://img.olx.com.br/images/73/732583677306916.jpg",
+      "https://img.olx.com.br/images/75/750599314575235.jpg",
+      "https://img.olx.com.br/images/76/761545913550910.jpg",
+      "https://img.olx.com.br/images/78/784551439794729.jpg",
+      "https://img.olx.com.br/images/79/795597794188751.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028986
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:42",
     "fotoUrl": "https://img.olx.com.br/images/89/894608405226521.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/894608405226521.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/95/951617641941064.jpg",
       "https://img.olx.com.br/images/97/970646287184759.jpg"
     ],
-    "defeito": false,
+    "id": "1502113672",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/video-game-1502113672",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Vídeo game ",
     "ts": 1779028977
   },
   {
@@ -9984,25 +10007,5 @@
     "tempoOlx": "Na OLX desde agosto de 2022",
     "titulo": "Avengers Ps4",
     "ts": 1778598824
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:13",
-    "fotoUrl": "https://img.olx.com.br/images/33/332653744289055.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/332653744289055.jpg",
-      "https://img.olx.com.br/images/33/334637389583242.jpg",
-      "https://img.olx.com.br/images/33/338696623076687.jpg"
-    ],
-    "id": "1484394855",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/the-dark-pictures-anthology-the-devil-in-me-nacional-ps4-original-novo-1484394855",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "The Dark Pictures Anthology: The Devil in Me (Nacional) | PS4 | Original | Novo |",
-    "ts": 1778598816
   }
 ]
