@@ -1,20 +1,40 @@
 [
   {
-    "id": "1502746928",
-    "titulo": "Jogo de PlayStation 4",
-    "preco": 850,
-    "precoRaw": "R$ 850",
+    "id": "1502746656",
+    "titulo": "PS4 FAT",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:59",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-de-playstation-4-1502746928",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/ps4-fat-1502746656",
+    "fotoUrl": "https://img.olx.com.br/images/84/847678168448928.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/847678168448928.jpg",
+      "https://img.olx.com.br/images/86/863623649555152.jpg",
+      "https://img.olx.com.br/images/87/878652641120408.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029990
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:59",
     "fotoUrl": "https://img.olx.com.br/images/47/474662165912582.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/474662165912582.jpg"
     ],
-    "defeito": false,
+    "id": "1502746928",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-de-playstation-4-1502746928",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogo de PlayStation 4",
     "ts": 1779029982
   },
   {
@@ -10085,24 +10105,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Playstation 4 slim 278 jogos 1TB 2 CONTROLES",
     "ts": 1778606678
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:24",
-    "fotoUrl": "https://img.olx.com.br/images/26/269677760840954.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/269677760840954.jpg",
-      "https://img.olx.com.br/images/27/274646166389406.jpg"
-    ],
-    "id": "1501441124",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/watch-dogs-1501441124",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "Watch dogs",
-    "ts": 1778606668
   }
 ]
