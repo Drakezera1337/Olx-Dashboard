@@ -1,21 +1,40 @@
 [
   {
-    "id": "1502769407",
-    "titulo": "Jogo God of War - Playstation 4",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "categoria": "ps4",
+    "id": "1502771363",
+    "titulo": "Jogo",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:51",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "detectado": "12:57",
+    "tempoOlx": "Na OLX desde abril de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-god-of-war-playstation-4-1502769407",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-1502771363",
+    "fotoUrl": "https://img.olx.com.br/images/61/612656285164918.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/612656285164918.jpg",
+      "https://img.olx.com.br/images/63/636616763083508.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779033421
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:51",
     "fotoUrl": "https://img.olx.com.br/images/65/652612280687748.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/652612280687748.jpg",
       "https://img.olx.com.br/images/66/661674402040576.jpg"
     ],
-    "defeito": false,
+    "id": "1502769407",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-god-of-war-playstation-4-1502769407",
+    "preco": 69,
+    "precoRaw": "R$ 69",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "Jogo God of War - Playstation 4",
     "ts": 1779033082
   },
   {
@@ -10050,27 +10069,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2022",
     "titulo": "Iphone 13",
     "ts": 1779027533
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:18",
-    "fotoUrl": "https://img.olx.com.br/images/17/171608492982424.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/171608492982424.jpg",
-      "https://img.olx.com.br/images/18/187675738659845.jpg",
-      "https://img.olx.com.br/images/20/207666496587813.jpg",
-      "https://img.olx.com.br/images/21/217648853739603.jpg",
-      "https://img.olx.com.br/images/22/220686258187404.jpg"
-    ],
-    "id": "1476224095",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-ps5-original-com-berco-e-manuais-semi-nova-bom-estado-1476224095",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "Caixa PS5 Original Com berço e manuais semi nova bom estado",
-    "ts": 1779027531
   }
 ]
