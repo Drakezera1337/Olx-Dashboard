@@ -1,22 +1,42 @@
 [
   {
-    "id": "1502405624",
-    "titulo": "Play 4 barato",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1502395866",
+    "titulo": "Ps4",
+    "preco": 990,
+    "precoRaw": "R$ 990",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:28",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-4-barato-1502405624",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/ps4-1502395866",
+    "fotoUrl": "https://img.olx.com.br/images/35/350635646533365.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/350635646533365.jpg",
+      "https://img.olx.com.br/images/37/372653166639130.jpg",
+      "https://img.olx.com.br/images/39/397690522912673.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028099
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:28",
     "fotoUrl": "https://img.olx.com.br/images/49/494698160940471.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/494698160940471.jpg",
       "https://img.olx.com.br/images/51/512666284432822.jpg",
       "https://img.olx.com.br/images/52/526694527619077.jpg"
     ],
-    "defeito": false,
+    "id": "1502405624",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-4-barato-1502405624",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Play 4 barato",
     "ts": 1779028091
   },
   {
@@ -9897,24 +9917,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "iPhone 11 (Com capinha e carregador turbo)",
     "ts": 1778593207
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:39",
-    "fotoUrl": "https://img.olx.com.br/images/58/587668527745686.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/587668527745686.jpg",
-      "https://img.olx.com.br/images/59/595661764137326.jpg"
-    ],
-    "id": "1501364975",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-128gb-1501364975",
-    "preco": 3100,
-    "precoRaw": "R$ 3.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "IPhone 13 pro max 128gb",
-    "ts": 1778593198
   }
 ]
