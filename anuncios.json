@@ -1,21 +1,42 @@
 [
   {
-    "id": "1501386813",
-    "titulo": "PS4 Slim",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1501006296",
+    "titulo": "Ps4 Slim",
+    "preco": 950,
+    "precoRaw": "R$ 950",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:34",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-slim-1501386813",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps4-slim-1501006296",
+    "fotoUrl": "https://img.olx.com.br/images/53/530668525478437.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/530668525478437.jpg",
+      "https://img.olx.com.br/images/55/558685526252994.jpg",
+      "https://img.olx.com.br/images/56/560697285149671.jpg",
+      "https://img.olx.com.br/images/58/582664888201316.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028479
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:34",
     "fotoUrl": "https://img.olx.com.br/images/38/384607764175189.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/384607764175189.jpg",
       "https://img.olx.com.br/images/39/398634163133544.jpg"
     ],
-    "defeito": false,
+    "id": "1501386813",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-slim-1501386813",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PS4 Slim",
     "ts": 1779028470
   },
   {
@@ -9926,26 +9947,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Plantas vs zumbi",
     "ts": 1778594804
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:05",
-    "fotoUrl": "https://img.olx.com.br/images/58/584676524379241.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/584676524379241.jpg",
-      "https://img.olx.com.br/images/59/594646642255834.jpg",
-      "https://img.olx.com.br/images/61/613615642625475.jpg",
-      "https://img.olx.com.br/images/62/625666401211133.jpg"
-    ],
-    "id": "1501373563",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/consoles-de-video-game/nintendo-1501373563",
-    "preco": 435,
-    "precoRaw": "R$ 435",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Nintendo ",
-    "ts": 1778594742
   }
 ]
