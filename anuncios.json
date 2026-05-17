@@ -1,21 +1,39 @@
 [
   {
-    "id": "1502430367",
-    "titulo": "Xbox series S",
-    "preco": 350,
-    "precoRaw": "R$ 350",
+    "id": "1502273370",
+    "titulo": "Xbox Series S ",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "11:36",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-1502430367",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1502273370",
+    "fotoUrl": "https://img.olx.com.br/images/63/637607882733601.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/637607882733601.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028586
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:36",
     "fotoUrl": "https://img.olx.com.br/images/31/313637880687911.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/313637880687911.jpg",
       "https://img.olx.com.br/images/31/310676883243642.jpg"
     ],
-    "defeito": false,
+    "id": "1502430367",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-1502430367",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox series S",
     "ts": 1779028579
   },
   {
@@ -9950,24 +9968,5 @@
     "tempoOlx": "Na OLX desde maio de 2025",
     "titulo": "Jogos PS3, PS4, PS5 e Xbox One ",
     "ts": 1778595703
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:21",
-    "fotoUrl": "https://img.olx.com.br/images/24/241550814415930.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/241550814415930.jpg",
-      "https://img.olx.com.br/images/26/266597697856852.jpg"
-    ],
-    "id": "1448481757",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-complete-edition-ps4-midia-fisica-original-1448481757",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "HORIZON ZERO DAWN - COMPLETE EDITION (PS4 - MÍDIA FÍSICA ORIGINAL)",
-    "ts": 1778595696
   }
 ]
