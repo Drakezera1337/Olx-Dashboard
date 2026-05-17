@@ -1,22 +1,42 @@
 [
   {
-    "id": "1491018930",
-    "titulo": "Jogo ps4 Horizon 2",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1502752627",
+    "titulo": "The Last of Us PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:10",
-    "tempoOlx": "Na OLX desde julho de 2013",
+    "detectado": "14:16",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-horizon-2-1491018930",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/the-last-of-us-ps4-1502752627",
+    "fotoUrl": "https://img.olx.com.br/images/51/516625526495457.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/516625526495457.jpg",
+      "https://img.olx.com.br/images/52/524637283330438.jpg",
+      "https://img.olx.com.br/images/55/558685046956334.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779038193
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:10",
     "fotoUrl": "https://img.olx.com.br/images/41/410680752595640.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/410680752595640.jpg",
       "https://img.olx.com.br/images/42/426637636902009.jpg",
       "https://img.olx.com.br/images/44/449696756718086.jpg"
     ],
-    "defeito": false,
+    "id": "1491018930",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-horizon-2-1491018930",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2013",
+    "titulo": "Jogo ps4 Horizon 2",
     "ts": 1779037843
   },
   {
@@ -9973,27 +9993,5 @@
     "tempoOlx": "",
     "titulo": "iPhone 13 - 128 GB - Bateria 84% - Único Dono",
     "ts": 1779027863
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:24",
-    "fotoUrl": "https://img.olx.com.br/images/20/205613280414176.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/205613280414176.jpg",
-      "https://img.olx.com.br/images/20/208654524662006.jpg",
-      "https://img.olx.com.br/images/20/209617648850350.jpg",
-      "https://img.olx.com.br/images/20/202649520243502.jpg",
-      "https://img.olx.com.br/images/20/205602644500956.jpg"
-    ],
-    "id": "1501742997",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ys-x-proud-nordics-ps5-deluxe-edition-midia-fisica-1501742997",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ys X Proud Nordics Ps5 Deluxe Edition Mídia Física",
-    "ts": 1779027856
   }
 ]
