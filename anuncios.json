@@ -1,21 +1,39 @@
 [
   {
-    "id": "1502797577",
-    "titulo": "Days Gone PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1502797315",
+    "titulo": "Cyberpunk 2077",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "15:24",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/days-gone-ps4-1502797577",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/cyberpunk-2077-1502797315",
+    "fotoUrl": "https://img.olx.com.br/images/61/616638402840688.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/616638402840688.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779042254
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:24",
     "fotoUrl": "https://img.olx.com.br/images/59/593692769811097.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/593692769811097.jpg",
       "https://img.olx.com.br/images/61/617690527247536.jpg"
     ],
-    "defeito": false,
+    "id": "1502797577",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/days-gone-ps4-1502797577",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "titulo": "Days Gone PS4",
     "ts": 1779042246
   },
   {
@@ -9966,25 +9984,5 @@
     "tempoOlx": "",
     "titulo": "Ps4",
     "ts": 1779028099
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:28",
-    "fotoUrl": "https://img.olx.com.br/images/49/494698160940471.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/494698160940471.jpg",
-      "https://img.olx.com.br/images/51/512666284432822.jpg",
-      "https://img.olx.com.br/images/52/526694527619077.jpg"
-    ],
-    "id": "1502405624",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-4-barato-1502405624",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Play 4 barato",
-    "ts": 1779028091
   }
 ]
