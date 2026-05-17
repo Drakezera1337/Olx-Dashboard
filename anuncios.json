@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502588552",
-    "titulo": "Nintendo DS Lite RARO!",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "switch",
+    "id": "1502586597",
+    "titulo": "3ds Xl Vermelho!",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:53",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-ds-lite-raro-1502588552",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/3ds-xl-vermelho-1502586597",
+    "fotoUrl": "https://img.olx.com.br/images/60/606680768909527.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/606680768909527.jpg",
+      "https://img.olx.com.br/images/62/621614282532744.jpg",
+      "https://img.olx.com.br/images/63/636609400830319.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029597
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:53",
     "fotoUrl": "https://img.olx.com.br/images/85/853604161020455.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/853604161020455.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/90/907655880638042.jpg",
       "https://img.olx.com.br/images/91/912654883965197.jpg"
     ],
-    "defeito": false,
+    "id": "1502588552",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-ds-lite-raro-1502588552",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Nintendo DS Lite RARO!",
     "ts": 1779029589
   },
   {
@@ -10073,24 +10093,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 5",
     "ts": 1778603514
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:25",
-    "fotoUrl": "https://img.olx.com.br/images/90/903644642114019.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/903644642114019.jpg",
-      "https://img.olx.com.br/images/92/922612282162647.jpg"
-    ],
-    "id": "1499736024",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-1-tera-1499736024",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
-    "titulo": "PS4 slim 1 tera",
-    "ts": 1778603155
   }
 ]
