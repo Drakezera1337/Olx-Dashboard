@@ -1,15 +1,30 @@
 [
   {
-    "id": "1502788763",
-    "titulo": "Jogo para PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1502788646",
+    "titulo": "Jogos de PS4",
+    "preco": 130,
+    "precoRaw": "R$ 130",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:36",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "tempoOlx": "Na OLX desde agosto de 2024",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogo-para-ps4-1502788763",
+    "link": "https://rr.olx.com.br/roraima/games/jogos-de-video-game/jogos-de-ps4-1502788646",
+    "fotoUrl": "https://img.olx.com.br/images/65/653609407583990.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/653609407583990.jpg",
+      "https://img.olx.com.br/images/66/667632764003976.jpg",
+      "https://img.olx.com.br/images/68/685602161741634.jpg",
+      "https://img.olx.com.br/images/69/694625761490295.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779039397
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:36",
     "fotoUrl": "https://img.olx.com.br/images/58/588682041791675.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/588682041791675.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/64/643624640988118.jpg",
       "https://img.olx.com.br/images/66/664679160794159.jpg"
     ],
-    "defeito": false,
+    "id": "1502788763",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogo-para-ps4-1502788763",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "Jogo para PS4",
     "ts": 1779039388
   },
   {
@@ -9969,23 +9990,5 @@
     "tempoOlx": "",
     "titulo": "PS4 com defeito ",
     "ts": 1779027916
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:25",
-    "fotoUrl": "https://img.olx.com.br/images/54/547602043104085.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/547602043104085.jpg"
-    ],
-    "id": "1501874384",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-256gb-novo-1501874384",
-    "preco": 5990,
-    "precoRaw": "R$ 5.990",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Iphone 16 pro max 256GB NOVO ",
-    "ts": 1779027912
   }
 ]
