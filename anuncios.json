@@ -1,21 +1,43 @@
 [
   {
-    "id": "1502677554",
-    "titulo": "Ps4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1502636945",
+    "titulo": "Playstation 5 (Mídia Física)",
+    "preco": 3150,
+    "precoRaw": "R$ 3.150",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "12:05",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1502677554",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-midia-fisica-1502636945",
+    "fotoUrl": "https://img.olx.com.br/images/23/238665404007929.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/238665404007929.jpg",
+      "https://img.olx.com.br/images/23/234630887176517.jpg",
+      "https://img.olx.com.br/images/23/230601885636732.jpg",
+      "https://img.olx.com.br/images/23/236692882417986.jpg",
+      "https://img.olx.com.br/images/62/621698161454363.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779030332
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:05",
     "fotoUrl": "https://img.olx.com.br/images/86/863642283233775.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/863642283233775.jpg",
       "https://img.olx.com.br/images/88/885614760037904.jpg"
     ],
-    "defeito": false,
+    "id": "1502677554",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1502677554",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4",
     "ts": 1779030325
   },
   {
@@ -10085,23 +10107,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Metal Gear Edição Lançamento Ps4 ",
     "ts": 1778608834
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:00",
-    "fotoUrl": "https://img.olx.com.br/images/83/839650406158147.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/839650406158147.jpg"
-    ],
-    "id": "1501451106",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/pes-2021-ps4-1501451106",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "Pes 2021 ps4",
-    "ts": 1778608826
   }
 ]
