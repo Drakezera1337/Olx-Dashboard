@@ -1,15 +1,30 @@
 [
   {
-    "id": "1485979490",
-    "titulo": "Xbox One X - Funcionando Perfeitamente - Sem controle",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1502422331",
+    "titulo": "PS5 Play5 Playstation SLIM novo",
+    "preco": 2799,
+    "precoRaw": "R$ 2.799",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "12:06",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-x-funcionando-perfeitamente-sem-controle-1485979490",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-play5-playstation-slim-novo-1502422331",
+    "fotoUrl": "https://img.olx.com.br/images/53/538648883591528.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/538648883591528.jpg",
+      "https://img.olx.com.br/images/53/535632282384487.jpg",
+      "https://img.olx.com.br/images/53/535605167806234.jpg",
+      "https://img.olx.com.br/images/53/538629643934742.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779030376
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:06",
     "fotoUrl": "https://img.olx.com.br/images/99/990695026209504.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/990695026209504.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/16/163665741885050.jpg",
       "https://img.olx.com.br/images/18/185640621515915.jpg"
     ],
-    "defeito": false,
+    "id": "1485979490",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-x-funcionando-perfeitamente-sem-controle-1485979490",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox One X - Funcionando Perfeitamente - Sem controle",
     "ts": 1779030368
   },
   {
@@ -10095,24 +10116,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Jogo ps4",
     "ts": 1778609204
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:06",
-    "fotoUrl": "https://img.olx.com.br/images/91/916695281997899.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/916695281997899.jpg",
-      "https://img.olx.com.br/images/93/934664161474511.jpg"
-    ],
-    "id": "1501452637",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/disney-infinite-ps4-1501452637",
-    "preco": 280,
-    "precoRaw": "R$ 280",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2016",
-    "titulo": "Disney infinite ps4",
-    "ts": 1778609195
   }
 ]
