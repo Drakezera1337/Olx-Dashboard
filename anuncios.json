@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502750710",
-    "titulo": "Jogos Playstation 4 / PS4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1367564315",
+    "titulo": "Jogo de ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:58",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-playstation-4-ps4-1502750710",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-de-ps4-1367564315",
+    "fotoUrl": "https://img.olx.com.br/images/64/643514602726180.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/643514602726180.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029901
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:58",
     "fotoUrl": "https://img.olx.com.br/images/25/257609403695917.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/257609403695917.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/28/288654160629400.jpg",
       "https://img.olx.com.br/images/29/292658524468185.jpg"
     ],
-    "defeito": false,
+    "id": "1502750710",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-playstation-4-ps4-1502750710",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogos Playstation 4 / PS4",
     "ts": 1779029893
   },
   {
@@ -10084,24 +10102,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "GTA - Trilogy Ps4  - The Definite Edition",
     "ts": 1778605967
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:12",
-    "fotoUrl": "https://img.olx.com.br/images/57/571653647577425.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/571653647577425.jpg",
-      "https://img.olx.com.br/images/58/584657883682264.jpg"
-    ],
-    "id": "1501437831",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/5-jogos-ps4-ps5-1501437831",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2022",
-    "titulo": "5 Jogos PS4/PS5",
-    "ts": 1778605959
   }
 ]
