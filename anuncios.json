@@ -1,22 +1,45 @@
 [
   {
-    "id": "1502845585",
-    "titulo": "Caixa PS5",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "ps5",
+    "id": "1502834225",
+    "titulo": "Console PS4 Slim 1 TeraByte  1 controle DualShock, 2 jogos mídia física ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:07",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "detectado": "19:09",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-ps5-1502845585",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/console-ps4-slim-1-terabyte-1-controle-dualshock-2-jogos-midia-fisica-1502834225",
+    "fotoUrl": "https://img.olx.com.br/images/80/807677281182670.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/807677281182670.jpg",
+      "https://img.olx.com.br/images/23/237660886521062.jpg",
+      "https://img.olx.com.br/images/31/312678166610368.jpg",
+      "https://img.olx.com.br/images/43/434647167626969.jpg",
+      "https://img.olx.com.br/images/44/442621527716263.jpg",
+      "https://img.olx.com.br/images/46/466651649851320.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779055764
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:07",
     "fotoUrl": "https://img.olx.com.br/images/96/962613880179332.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/962613880179332.jpg",
       "https://img.olx.com.br/images/97/979611524230435.jpg",
       "https://img.olx.com.br/images/98/985652881001005.jpg"
     ],
-    "defeito": false,
+    "id": "1502845585",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-ps5-1502845585",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Caixa PS5",
     "ts": 1779055642
   },
   {
@@ -9960,25 +9983,5 @@
     "tempoOlx": "",
     "titulo": "PS3 DESBLOQUEADO COM 10 MIL JOGOS PARA BAIXAR",
     "ts": 1779028719
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:38",
-    "fotoUrl": "https://img.olx.com.br/images/51/515585695100285.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/515585695100285.jpg",
-      "https://img.olx.com.br/images/52/521539819982740.jpg",
-      "https://img.olx.com.br/images/53/533553571036499.jpg"
-    ],
-    "id": "1442843188",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/to-heart-2-dx-plus-para-playstation-3-1442843188",
-    "preco": 251,
-    "precoRaw": "R$ 251",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": " To Heart 2 DX Plus para PlayStation 3",
-    "ts": 1779028712
   }
 ]
