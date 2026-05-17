@@ -1,15 +1,32 @@
 [
   {
-    "id": "1502676628",
-    "titulo": "Iphone 12",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "iphone",
+    "id": "1502118111",
+    "titulo": "Playstation 5 com leitor",
+    "preco": 2599,
+    "precoRaw": "R$ 2.599",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:22",
-    "tempoOlx": "Na OLX desde outubro de 2014",
+    "tempoOlx": "Na OLX desde setembro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1502676628",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-com-leitor-1502118111",
+    "fotoUrl": "https://img.olx.com.br/images/27/279657764984369.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/279657764984369.jpg",
+      "https://img.olx.com.br/images/28/282628520263987.jpg",
+      "https://img.olx.com.br/images/29/297639766495198.jpg",
+      "https://img.olx.com.br/images/30/306691529152510.jpg",
+      "https://img.olx.com.br/images/32/328610765134419.jpg",
+      "https://img.olx.com.br/images/33/338643044905411.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027758
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:22",
     "fotoUrl": "https://img.olx.com.br/images/26/269665286607706.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/269665286607706.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/32/324602046441868.jpg",
       "https://img.olx.com.br/images/33/330616284782956.jpg"
     ],
-    "defeito": false,
+    "id": "1502676628",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1502676628",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "titulo": "Iphone 12",
     "ts": 1779027752
   },
   {
@@ -9902,24 +9925,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Dock Nintendo switch",
-    "ts": 1778592937
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:35",
-    "fotoUrl": "https://img.olx.com.br/images/93/939675880434523.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/939675880434523.jpg"
-    ],
-    "id": "1500927457",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/game-1500927457",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Game",
     "ts": 1778592937
   }
 ]
