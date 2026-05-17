@@ -1,21 +1,41 @@
 [
   {
-    "id": "1502406313",
-    "titulo": "PlayStation 4",
+    "id": "1502405624",
+    "titulo": "Play 4 barato",
     "preco": 1000,
     "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:28",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-4-1502406313",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-4-barato-1502405624",
+    "fotoUrl": "https://img.olx.com.br/images/49/494698160940471.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/494698160940471.jpg",
+      "https://img.olx.com.br/images/51/512666284432822.jpg",
+      "https://img.olx.com.br/images/52/526694527619077.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028091
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:28",
     "fotoUrl": "https://img.olx.com.br/images/18/187677526895534.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/187677526895534.jpg",
       "https://img.olx.com.br/images/20/204636649898232.jpg"
     ],
-    "defeito": false,
+    "id": "1502406313",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-4-1502406313",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PlayStation 4",
     "ts": 1779028082
   },
   {
@@ -9896,27 +9916,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "IPhone 13 pro max 128gb",
     "ts": 1778593198
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:39",
-    "fotoUrl": "https://img.olx.com.br/images/46/463683284548979.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/463683284548979.jpg",
-      "https://img.olx.com.br/images/49/495690169212785.jpg",
-      "https://img.olx.com.br/images/52/522609523126309.jpg",
-      "https://img.olx.com.br/images/54/547670041725692.jpg",
-      "https://img.olx.com.br/images/56/569693289119248.jpg"
-    ],
-    "id": "1501087716",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/videogame-ps4-1501087716",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Videogame PS4",
-    "ts": 1778593159
   }
 ]
