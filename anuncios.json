@@ -1,20 +1,41 @@
 [
   {
-    "id": "1367564315",
-    "titulo": "Jogo de ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1438657064",
+    "titulo": "Jogo de Ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:58",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-de-ps4-1367564315",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-de-ps4-1438657064",
+    "fotoUrl": "https://img.olx.com.br/images/19/190542683686730.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/190542683686730.jpg",
+      "https://img.olx.com.br/images/22/220554566558097.jpg",
+      "https://img.olx.com.br/images/29/297570922804905.jpg",
+      "https://img.olx.com.br/images/32/326555320706071.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779029908
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:58",
     "fotoUrl": "https://img.olx.com.br/images/64/643514602726180.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/643514602726180.jpg"
     ],
-    "defeito": false,
+    "id": "1367564315",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-de-ps4-1367564315",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogo de ps4",
     "ts": 1779029901
   },
   {
@@ -10082,25 +10103,5 @@
     "tempoOlx": "Na OLX desde outubro de 2022",
     "titulo": "Farming Simulator 22 - PS4",
     "ts": 1778605977
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:12",
-    "fotoUrl": "https://img.olx.com.br/images/66/669611528774201.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/669611528774201.jpg",
-      "https://img.olx.com.br/images/64/646695030150240.jpg",
-      "https://img.olx.com.br/images/64/649630154907548.jpg"
-    ],
-    "id": "1493303527",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/gta-trilogy-ps4-the-definite-edition-1493303527",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "GTA - Trilogy Ps4  - The Definite Edition",
-    "ts": 1778605967
   }
 ]
