@@ -1,22 +1,62 @@
 [
   {
-    "id": "1501798924",
-    "titulo": "Vendo iPhone 11 ",
-    "preco": 700,
-    "precoRaw": "R$ 700",
+    "id": "1501783445",
+    "titulo": "Iphone xr ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "11:20",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-11-1501798924",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1501783445",
+    "fotoUrl": "https://img.olx.com.br/images/12/122690280888430.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/122690280888430.jpg",
+      "https://img.olx.com.br/images/14/143673644734144.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027645
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:20",
+    "fotoUrl": "https://img.olx.com.br/images/58/589643513664539.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/589643513664539.jpg",
+      "https://img.olx.com.br/images/60/602621032265009.jpg",
+      "https://img.olx.com.br/images/61/614610636956724.jpg",
+      "https://img.olx.com.br/images/64/640621515352795.jpg"
+    ],
+    "id": "1493448365",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/portal-play-station-5-1493448365",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Portal play station 5 ",
+    "ts": 1779027638
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:20",
     "fotoUrl": "https://img.olx.com.br/images/83/830626041140131.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/830626041140131.jpg",
       "https://img.olx.com.br/images/85/859657406549066.jpg",
       "https://img.olx.com.br/images/86/863699526242849.jpg"
     ],
-    "defeito": false,
+    "id": "1501798924",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-11-1501798924",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Vendo iPhone 11 ",
     "ts": 1779027637
   },
   {
@@ -9878,43 +9918,5 @@
     "tempoOlx": "",
     "titulo": "XBOX SÉRIES S",
     "ts": 1778592847
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/65/652418469652575.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/652418469652575.jpg",
-      "https://img.olx.com.br/images/65/657478822099917.jpg",
-      "https://img.olx.com.br/images/65/650462463301794.jpg"
-    ],
-    "id": "1352574369",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/fonte-ps4-pro-original-1352574369",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Fonte PS4 PRO Original",
-    "ts": 1778592807
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/46/467593590671665.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/467593590671665.jpg"
-    ],
-    "id": "1462831427",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/limpeza-completa-troca-pasta-termica-ps3-ps4-xbox-one-pc-1462831427",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Limpeza Completa + Troca Pasta Térmica PS3 PS4 Xbox One PC!",
-    "ts": 1778592807
   }
 ]
