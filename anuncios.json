@@ -1,15 +1,28 @@
 [
   {
-    "id": "1502852651",
-    "titulo": "Iphone 14 Pro Max 256GB 86% de bateria(Aceito Cartão)",
-    "preco": 3699,
-    "precoRaw": "R$ 3.699",
-    "categoria": "iphone",
+    "id": "1498580576",
+    "titulo": "xbox one S 500GB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "19:49",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "19:53",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-256gb-86-de-bateria-aceito-cartao-1502852651",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-one-s-500gb-1498580576",
+    "fotoUrl": "https://img.olx.com.br/images/72/727619400761040.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/727619400761040.jpg",
+      "https://img.olx.com.br/images/73/732620522666458.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779058431
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:49",
     "fotoUrl": "https://img.olx.com.br/images/69/690661521815039.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/690661521815039.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/69/696671769711224.jpg",
       "https://img.olx.com.br/images/69/691607162394560.jpg"
     ],
-    "defeito": false,
+    "id": "1502852651",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-256gb-86-de-bateria-aceito-cartao-1502852651",
+    "preco": 3699,
+    "precoRaw": "R$ 3.699",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Iphone 14 Pro Max 256GB 86% de bateria(Aceito Cartão)",
     "ts": 1779058193
   },
   {
@@ -9948,24 +9967,5 @@
     "tempoOlx": "",
     "titulo": "Unsharted ps3 coleção ",
     "ts": 1779028884
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:41",
-    "fotoUrl": "https://img.olx.com.br/images/57/574698882501838.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/574698882501838.jpg",
-      "https://img.olx.com.br/images/59/590661769090567.jpg"
-    ],
-    "id": "1502366524",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps3-com-defeito-1502366524",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 COM DEFEITO",
-    "ts": 1779028875
   }
 ]
