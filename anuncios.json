@@ -1,22 +1,43 @@
 [
   {
-    "id": "1502788722",
-    "titulo": "PS5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1502788763",
+    "titulo": "Jogo para PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:31",
-    "tempoOlx": "Na OLX desde novembro de 2014",
+    "detectado": "14:36",
+    "tempoOlx": "Na OLX desde junho de 2023",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps5-1502788722",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogo-para-ps4-1502788763",
+    "fotoUrl": "https://img.olx.com.br/images/58/588682041791675.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/588682041791675.jpg",
+      "https://img.olx.com.br/images/61/612632882448892.jpg",
+      "https://img.olx.com.br/images/64/643624640988118.jpg",
+      "https://img.olx.com.br/images/66/664679160794159.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779039388
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:31",
     "fotoUrl": "https://img.olx.com.br/images/21/216602761784167.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/216602761784167.jpg",
       "https://img.olx.com.br/images/21/218669648385866.jpg",
       "https://img.olx.com.br/images/94/949662527307482.jpg"
     ],
-    "defeito": false,
+    "id": "1502788722",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps5-1502788722",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2014",
+    "titulo": "PS5",
     "ts": 1779039086
   },
   {
@@ -9966,27 +9987,5 @@
     "tempoOlx": "",
     "titulo": "Iphone 16 pro max 256GB NOVO ",
     "ts": 1779027912
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:25",
-    "fotoUrl": "https://img.olx.com.br/images/15/159611767941433.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/159611767941433.jpg",
-      "https://img.olx.com.br/images/16/163653047584113.jpg",
-      "https://img.olx.com.br/images/18/182603525607875.jpg",
-      "https://img.olx.com.br/images/19/195645284970290.jpg",
-      "https://img.olx.com.br/images/21/215655165801442.jpg"
-    ],
-    "id": "1501994639",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1-controle-1501994639",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "? PS4 Fat 500GB + 1 Controle",
-    "ts": 1779027910
   }
 ]
