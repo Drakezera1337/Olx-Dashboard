@@ -1,20 +1,41 @@
 [
   {
-    "id": "1502159653",
-    "titulo": "Ps2 Slim",
-    "preco": 350,
-    "precoRaw": "R$ 350",
+    "id": "1502113672",
+    "titulo": "Vídeo game ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
     "categoria": "outros",
     "publicado": "",
     "detectado": "11:42",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps2-slim-1502159653",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/video-game-1502113672",
+    "fotoUrl": "https://img.olx.com.br/images/89/894608405226521.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/894608405226521.jpg",
+      "https://img.olx.com.br/images/91/915682647540443.jpg",
+      "https://img.olx.com.br/images/95/951617641941064.jpg",
+      "https://img.olx.com.br/images/97/970646287184759.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028977
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:42",
     "fotoUrl": "https://img.olx.com.br/images/21/211664407611844.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/211664407611844.jpg"
     ],
-    "defeito": false,
+    "id": "1502159653",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps2-slim-1502159653",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps2 Slim",
     "ts": 1779028968
   },
   {
@@ -9983,27 +10004,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "The Dark Pictures Anthology: The Devil in Me (Nacional) | PS4 | Original | Novo |",
     "ts": 1778598816
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:13",
-    "fotoUrl": "https://img.olx.com.br/images/89/896659382128855.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/896659382128855.jpg",
-      "https://img.olx.com.br/images/89/893665502769598.jpg",
-      "https://img.olx.com.br/images/89/892633740347141.jpg",
-      "https://img.olx.com.br/images/89/897689141221686.jpg",
-      "https://img.olx.com.br/images/89/894644860469564.jpg"
-    ],
-    "id": "1484390336",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/man-eater-americano-ps4-original-usado-1484390336",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "Man Eater (Americano) | PS4 | Original | Usado |",
-    "ts": 1778598808
   }
 ]
