@@ -1,15 +1,28 @@
 [
   {
-    "id": "1502865507",
-    "titulo": "Ps4 pro",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
+    "id": "1412774741",
+    "titulo": "LEGO Marvel Vingadores - PS4 - Playstation Hits",
+    "preco": 55,
+    "precoRaw": "R$ 55",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:56",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "20:57",
+    "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-pro-1502865507",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/lego-marvel-vingadores-ps4-playstation-hits-1412774741",
+    "fotoUrl": "https://img.olx.com.br/images/49/496527539535146.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/496527539535146.jpg",
+      "https://img.olx.com.br/images/48/483520899591585.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779062225
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:56",
     "fotoUrl": "https://img.olx.com.br/images/73/737662763483189.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/737662763483189.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/76/763621161325678.jpg",
       "https://img.olx.com.br/images/77/771634162434788.jpg"
     ],
-    "defeito": false,
+    "id": "1502865507",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-pro-1502865507",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps4 pro",
     "ts": 1779062213
   },
   {
@@ -9898,25 +9917,5 @@
     "tempoOlx": "",
     "titulo": "Game Titan Quest ",
     "ts": 1779029227
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:47",
-    "fotoUrl": "https://img.olx.com.br/images/49/499597340977598.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/499597340977598.jpg",
-      "https://img.olx.com.br/images/49/498527706236323.jpg",
-      "https://img.olx.com.br/images/49/491549588520883.jpg"
-    ],
-    "id": "1451658836",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/akiba-s-trip-undead-undressed-director-s-cut-nintendo-switch-1451658836",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Akiba's Trip - Undead & Undressed Director's Cut - Nintendo Switch",
-    "ts": 1779029220
   }
 ]
