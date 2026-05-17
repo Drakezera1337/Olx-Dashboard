@@ -1,5 +1,45 @@
 [
   {
+    "id": "1488133443",
+    "titulo": "Videogame ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "outros",
+    "publicado": "",
+    "detectado": "11:19",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "descricao": "",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/videogame-1488133443",
+    "fotoUrl": "https://img.olx.com.br/images/42/426624746291066.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/426624746291066.jpg",
+      "https://img.olx.com.br/images/43/432611269104707.jpg",
+      "https://img.olx.com.br/images/44/444667388689492.jpg",
+      "https://img.olx.com.br/images/45/459661502495313.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027559
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:19",
+    "fotoUrl": "https://img.olx.com.br/images/91/915648646622479.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/915648646622479.jpg",
+      "https://img.olx.com.br/images/92/925684043555981.jpg"
+    ],
+    "id": "1502440900",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-1502440900",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "iPhone 13 128gb",
+    "ts": 1779027550
+  },
+  {
     "id": "1409949906",
     "titulo": " Jogos de PlayStation - PS4 e Ps5 - Novos e Usados",
     "preco": 45,
@@ -45,16 +85,10 @@
     "ts": 1779027541
   },
   {
-    "id": "1502461682",
-    "titulo": "iPhone 13 impecável ",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
     "categoria": "iphone",
-    "publicado": "",
-    "detectado": "11:19",
-    "tempoOlx": "Na OLX desde março de 2025",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-impecavel-1502461682",
+    "detectado": "11:19",
     "fotoUrl": "https://img.olx.com.br/images/46/466608765325147.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/466608765325147.jpg",
@@ -62,7 +96,13 @@
       "https://img.olx.com.br/images/50/502607161572884.jpg",
       "https://img.olx.com.br/images/53/530692168892181.jpg"
     ],
-    "defeito": false,
+    "id": "1502461682",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-impecavel-1502461682",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2025",
+    "titulo": "iPhone 13 impecável ",
     "ts": 1779027541
   },
   {
@@ -9861,47 +9901,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 8 64gb",
-    "ts": 1778592742
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/57/579676644288476.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/579676644288476.jpg",
-      "https://img.olx.com.br/images/57/576626166367605.jpg",
-      "https://img.olx.com.br/images/59/593659764737843.jpg",
-      "https://img.olx.com.br/images/58/588601885351294.jpg",
-      "https://img.olx.com.br/images/58/582640407046887.jpg",
-      "https://img.olx.com.br/images/57/571620520487205.jpg"
-    ],
-    "id": "1499928618",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/asus-zenfone-9-compacto-topo-de-linha-1499928618",
-    "preco": 1980,
-    "precoRaw": "R$ 1.980",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Asus ZenFone 9 Compacto Topo de Linha ",
-    "ts": 1778592742
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/54/542606390331666.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/542606390331666.jpg"
-    ],
-    "id": "1498044889",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1498044889",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14 ",
     "ts": 1778592742
   }
 ]
