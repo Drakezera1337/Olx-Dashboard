@@ -1,15 +1,31 @@
 [
   {
-    "id": "1502357621",
-    "titulo": "Caixa playstation 5 CFI-2114",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps5",
+    "id": "1501649270",
+    "titulo": "IPHONE 13",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "11:20",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "11:21",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-playstation-5-cfi-2114-1502357621",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1501649270",
+    "fotoUrl": "https://img.olx.com.br/images/87/872658040609738.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/872658040609738.jpg",
+      "https://img.olx.com.br/images/89/899638280719617.jpg",
+      "https://img.olx.com.br/images/92/922656282904549.jpg",
+      "https://img.olx.com.br/images/95/954622404346724.jpg",
+      "https://img.olx.com.br/images/98/988657648001030.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027663
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:20",
     "fotoUrl": "https://img.olx.com.br/images/55/555675763133610.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/555675763133610.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/63/638680521331393.jpg",
       "https://img.olx.com.br/images/64/644646284988908.jpg"
     ],
-    "defeito": false,
+    "id": "1502357621",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-playstation-5-cfi-2114-1502357621",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "Caixa playstation 5 CFI-2114",
     "ts": 1779027656
   },
   {
@@ -9898,26 +9920,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Vídeo Game Xbox série S / Controle Rosa ",
-    "ts": 1778592847
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:34",
-    "fotoUrl": "https://img.olx.com.br/images/86/867616645906170.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/867616645906170.jpg",
-      "https://img.olx.com.br/images/87/875656760143388.jpg",
-      "https://img.olx.com.br/images/89/894686768204378.jpg"
-    ],
-    "id": "1501032881",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-512gb-1501032881",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox series 512GB ",
     "ts": 1778592847
   }
 ]
