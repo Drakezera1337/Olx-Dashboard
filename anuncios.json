@@ -1,20 +1,43 @@
 [
   {
-    "id": "1502791488",
-    "titulo": "Óculos vr",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "outros",
+    "id": "1502792348",
+    "titulo": "Jogos para PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:49",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "14:55",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/oculos-vr-1502791488",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogos-para-ps4-1502792348",
+    "fotoUrl": "https://img.olx.com.br/images/63/638611161603487.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/638611161603487.jpg",
+      "https://img.olx.com.br/images/64/646661403444056.jpg",
+      "https://img.olx.com.br/images/65/657661526561767.jpg",
+      "https://img.olx.com.br/images/67/675673642012572.jpg",
+      "https://img.olx.com.br/images/68/687686280341282.jpg",
+      "https://img.olx.com.br/images/69/695688045495471.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779040503
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:49",
     "fotoUrl": "https://img.olx.com.br/images/34/347601281184747.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/347601281184747.jpg"
     ],
-    "defeito": false,
+    "id": "1502791488",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/oculos-vr-1502791488",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Óculos vr",
     "ts": 1779040166
   },
   {
@@ -9966,27 +9989,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS4",
-    "ts": 1779027948
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:25",
-    "fotoUrl": "https://img.olx.com.br/images/94/949630883384805.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/949630883384805.jpg",
-      "https://img.olx.com.br/images/95/959678765505579.jpg",
-      "https://img.olx.com.br/images/97/970663280278883.jpg",
-      "https://img.olx.com.br/images/98/988609648399325.jpg"
-    ],
-    "id": "1501687964",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1501687964",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14 ",
     "ts": 1779027948
   }
 ]
