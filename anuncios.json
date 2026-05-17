@@ -1,15 +1,30 @@
 [
   {
-    "id": "1501383287",
-    "titulo": "Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1501109875",
+    "titulo": "XBOX SÉRIES S ",
+    "preco": 1399,
+    "precoRaw": "R$ 1.399",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "11:37",
+    "detectado": "11:38",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-series-s-1501383287",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/xbox-series-s-1501109875",
+    "fotoUrl": "https://img.olx.com.br/images/46/469631525033922.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/469631525033922.jpg",
+      "https://img.olx.com.br/images/48/484651889335874.jpg",
+      "https://img.olx.com.br/images/50/500698640394481.jpg",
+      "https://img.olx.com.br/images/51/511626287498983.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028688
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:37",
     "fotoUrl": "https://img.olx.com.br/images/50/505607768119471.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/505607768119471.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/52/526635164067499.jpg",
       "https://img.olx.com.br/images/53/533695404098506.jpg"
     ],
-    "defeito": false,
+    "id": "1501383287",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/xbox-series-s-1501383287",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Series S",
     "ts": 1779028678
   },
   {
@@ -9961,25 +9982,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Assassin's Creed the Ezio collection ps4",
     "ts": 1778596295
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:31",
-    "fotoUrl": "https://img.olx.com.br/images/89/894624529174764.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/894624529174764.jpg",
-      "https://img.olx.com.br/images/93/939603765834937.jpg",
-      "https://img.olx.com.br/images/94/943614402068331.jpg"
-    ],
-    "id": "1501380603",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps4-slim-500gb-1501380603",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "PS4 slim 500GB ",
-    "ts": 1778596286
   }
 ]
