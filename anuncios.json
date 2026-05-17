@@ -1,21 +1,63 @@
 [
   {
-    "id": "1502262857",
-    "titulo": "Ps5",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1501987813",
+    "titulo": "Moto G14 NOVO Nunca usado",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:21",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps5-1502262857",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/moto-g14-novo-nunca-usado-1501987813",
+    "fotoUrl": "https://img.olx.com.br/images/62/627619525864811.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/627619525864811.jpg",
+      "https://img.olx.com.br/images/64/645695286159052.jpg",
+      "https://img.olx.com.br/images/65/650651406816478.jpg",
+      "https://img.olx.com.br/images/67/677661889477164.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027711
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:21",
+    "fotoUrl": "https://img.olx.com.br/images/97/979619882785412.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/979619882785412.jpg",
+      "https://img.olx.com.br/images/99/996661285904421.jpg",
+      "https://img.olx.com.br/images/67/672657041175349.jpg",
+      "https://img.olx.com.br/images/69/695637165543214.jpg"
+    ],
+    "id": "1501816448",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-a-venda-1501816448",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "iPhone 11 64GB à venda",
+    "ts": 1779027704
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:21",
     "fotoUrl": "https://img.olx.com.br/images/67/674635520443240.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/674635520443240.jpg",
       "https://img.olx.com.br/images/69/691683404345403.jpg"
     ],
-    "defeito": false,
+    "id": "1502262857",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps5-1502262857",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "Ps5",
     "ts": 1779027702
   },
   {
@@ -9877,48 +9919,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS3 Slim + 2 Controles + Jogos | Para Reparo",
-    "ts": 1778592917
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:35",
-    "fotoUrl": "https://img.olx.com.br/images/93/938679765168869.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/938679765168869.jpg",
-      "https://img.olx.com.br/images/95/952656522501990.jpg",
-      "https://img.olx.com.br/images/97/977604163771323.jpg",
-      "https://img.olx.com.br/images/99/993693287732786.jpg"
-    ],
-    "id": "1500776499",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-slim-des-blo-que-ado-controle-original-1500776499",
-    "preco": 499,
-    "precoRaw": "R$ 499",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 3 Slim DES.BLO.QUE.ADO + controle original ",
-    "ts": 1778592917
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:35",
-    "fotoUrl": "https://img.olx.com.br/images/44/446584579731231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/446584579731231.jpg",
-      "https://img.olx.com.br/images/45/459544334658483.jpg",
-      "https://img.olx.com.br/images/47/472589813071458.jpg",
-      "https://img.olx.com.br/images/48/485547574748098.jpg"
-    ],
-    "id": "1449067577",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps3-com-defeito-1449067577",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 com defeito",
     "ts": 1778592917
   }
 ]
