@@ -1,7 +1,7 @@
 [
   {
-    "id": "1501628437",
-    "titulo": "Xbox series s",
+    "id": "1501583907",
+    "titulo": "Xbox series s ",
     "preco": 1500,
     "precoRaw": "R$ 1.500",
     "categoria": "xbox",
@@ -9,7 +9,22 @@
     "detectado": "11:37",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1501628437",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-series-s-1501583907",
+    "fotoUrl": "https://img.olx.com.br/images/60/609639166744552.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/609639166744552.jpg",
+      "https://img.olx.com.br/images/61/615681165188547.jpg",
+      "https://img.olx.com.br/images/62/627671520895468.jpg",
+      "https://img.olx.com.br/images/63/638644881751874.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779028646
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:37",
     "fotoUrl": "https://img.olx.com.br/images/71/713619641449509.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/713619641449509.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/77/772659046823133.jpg",
       "https://img.olx.com.br/images/78/789649403784853.jpg"
     ],
-    "defeito": false,
+    "id": "1501628437",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1501628437",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox series s",
     "ts": 1779028639
   },
   {
@@ -9958,25 +9979,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Jogo a venda aceito cartão ",
     "ts": 1778595948
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:25",
-    "fotoUrl": "https://img.olx.com.br/images/22/221652360263477.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/221652360263477.jpg",
-      "https://img.olx.com.br/images/24/246661006335640.jpg",
-      "https://img.olx.com.br/images/26/263658000118017.jpg"
-    ],
-    "id": "1472537742",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-ps4-original-seminovo-1472537742",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "The last of us ps4 original seminovo",
-    "ts": 1778595941
   }
 ]
