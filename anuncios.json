@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502743725",
-    "titulo": "Jogos ps4",
-    "preco": 230,
-    "precoRaw": "R$ 230",
+    "id": "1440890388",
+    "titulo": "RainbowSix Siege Ps4",
+    "preco": 69,
+    "precoRaw": "R$ 69",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:01",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogos-ps4-1502743725",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/rainbowsix-siege-ps4-1440890388",
+    "fotoUrl": "https://img.olx.com.br/images/41/413566802864350.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/413566802864350.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779030084
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:01",
     "fotoUrl": "https://img.olx.com.br/images/18/181668762644140.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/181668762644140.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/30/300607289964824.jpg",
       "https://img.olx.com.br/images/32/326673403795592.jpg"
     ],
-    "defeito": false,
+    "id": "1502743725",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogos-ps4-1502743725",
+    "preco": 230,
+    "precoRaw": "R$ 230",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogos ps4",
     "ts": 1779030076
   },
   {
@@ -10082,26 +10100,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "iPhone 12",
     "ts": 1778607238
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:31",
-    "fotoUrl": "https://img.olx.com.br/images/60/603633284851420.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/603633284851420.jpg",
-      "https://img.olx.com.br/images/62/624676406392093.jpg",
-      "https://img.olx.com.br/images/63/633617401822286.jpg",
-      "https://img.olx.com.br/images/65/650676046126835.jpg"
-    ],
-    "id": "1501441853",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/amiibo-mario-wedding-nintendo-novo-lacrado-1501441853",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Amiibo Mario Wedding Nintendo (Novo/Lacrado)",
-    "ts": 1778607061
   }
 ]
