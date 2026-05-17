@@ -1,15 +1,31 @@
 [
   {
-    "id": "1502391642",
-    "titulo": "iPhone 12 ",
-    "preco": 1599,
-    "precoRaw": "R$ 1.599",
-    "categoria": "iphone",
+    "id": "1501940542",
+    "titulo": "Caixa do Playstation 5",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:23",
-    "tempoOlx": "Na OLX desde outubro de 2017",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1502391642",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-do-playstation-5-1501940542",
+    "fotoUrl": "https://img.olx.com.br/images/51/515645403641804.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/515645403641804.jpg",
+      "https://img.olx.com.br/images/52/528630165223937.jpg",
+      "https://img.olx.com.br/images/54/546643762807201.jpg",
+      "https://img.olx.com.br/images/56/565665648348172.jpg",
+      "https://img.olx.com.br/images/58/582676167030248.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779027832
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:23",
     "fotoUrl": "https://img.olx.com.br/images/40/401648640503900.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/401648640503900.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/44/449664287397981.jpg",
       "https://img.olx.com.br/images/45/450674280959435.jpg"
     ],
-    "defeito": false,
+    "id": "1502391642",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1502391642",
+    "preco": 1599,
+    "precoRaw": "R$ 1.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "iPhone 12 ",
     "ts": 1779027828
   },
   {
@@ -9902,25 +9924,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Pokeball plus original nintendo",
-    "ts": 1778592962
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/41/413695648457629.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/413695648457629.jpg",
-      "https://img.olx.com.br/images/43/434638165686542.jpg"
-    ],
-    "id": "1501068682",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/switch-oled-1501068682",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Switch OLED",
     "ts": 1778592962
   }
 ]
