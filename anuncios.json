@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503130655",
-    "titulo": "Call Of Duty Modern Warfare ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1475012687",
+    "titulo": "The last of us 2",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "17:47",
-    "tempoOlx": "Na OLX desde julho de 2024",
+    "tempoOlx": "Na OLX desde novembro de 2017",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/call-of-duty-modern-warfare-1503130655",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/the-last-of-us-2-1475012687",
+    "fotoUrl": "https://img.olx.com.br/images/94/945618259812755.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/945618259812755.jpg",
+      "https://img.olx.com.br/images/95/954610490158951.jpg",
+      "https://img.olx.com.br/images/96/968649738970406.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779137240
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:47",
     "fotoUrl": "https://img.olx.com.br/images/53/537635523370324.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/537635523370324.jpg",
       "https://img.olx.com.br/images/55/554676525335255.jpg"
     ],
-    "defeito": false,
+    "id": "1503130655",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/call-of-duty-modern-warfare-1503130655",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "titulo": "Call Of Duty Modern Warfare ",
     "ts": 1779137227
   },
   {
@@ -9881,24 +9901,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Jogos ps4 ",
     "ts": 1779108854
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:54",
-    "fotoUrl": "https://img.olx.com.br/images/21/212590347625373.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/212590347625373.jpg",
-      "https://img.olx.com.br/images/23/230550587208890.jpg"
-    ],
-    "id": "1450800526",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-farcry-4-1450800526",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Jogo Ps4 Farcry 4",
-    "ts": 1779108845
   }
 ]
