@@ -1,20 +1,43 @@
 [
   {
-    "id": "1502884591",
-    "titulo": "MediéviL",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1502885445",
+    "titulo": "Ps4 Slim seminovo",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:03",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "23:06",
+    "tempoOlx": "Na OLX desde junho de 2019",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/medievil-1502884591",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-slim-seminovo-1502885445",
+    "fotoUrl": "https://img.olx.com.br/images/85/855641285275271.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/855641285275271.jpg",
+      "https://img.olx.com.br/images/88/885682046310745.jpg",
+      "https://img.olx.com.br/images/89/899644041844530.jpg",
+      "https://img.olx.com.br/images/91/910695400963636.jpg",
+      "https://img.olx.com.br/images/93/934641523160910.jpg",
+      "https://img.olx.com.br/images/95/953683765359050.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779070012
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:03",
     "fotoUrl": "https://img.olx.com.br/images/38/389636167906798.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/389636167906798.jpg"
     ],
-    "defeito": false,
+    "id": "1502884591",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/medievil-1502884591",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "MediéviL",
     "ts": 1779069828
   },
   {
@@ -9883,24 +9906,5 @@
     "tempoOlx": "",
     "titulo": "Controle 8BitDo Ultimate 2 Edição limitada",
     "ts": 1779029691
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:54",
-    "fotoUrl": "https://img.olx.com.br/images/33/336572708995789.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/336572708995789.jpg",
-      "https://img.olx.com.br/images/34/345519344839616.jpg"
-    ],
-    "id": "1450021262",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/super-oferta-ps4-leve-2-classicos-por-um-preco-incrivel-1450021262",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Super Oferta PS4: Leve 2 Clássicos por um Preço Incrível! ?",
-    "ts": 1779029683
   }
 ]
