@@ -1,15 +1,27 @@
 [
   {
-    "id": "1502997836",
-    "titulo": "Xbox series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1502997422",
+    "titulo": "God of war 4 ps4",
+    "preco": 59,
+    "precoRaw": "R$ 59",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:41",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-1502997836",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/god-of-war-4-ps4-1502997422",
+    "fotoUrl": "https://img.olx.com.br/images/95/956670285377473.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/956670285377473.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779111695
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:41",
     "fotoUrl": "https://img.olx.com.br/images/11/118634529195121.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/118634529195121.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/21/216607406629847.jpg",
       "https://img.olx.com.br/images/23/231610767483018.jpg"
     ],
-    "defeito": false,
+    "id": "1502997836",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-1502997836",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Xbox series S",
     "ts": 1779111687
   },
   {
@@ -9919,25 +9937,5 @@
     "tempoOlx": "Na OLX desde outubro de 2015",
     "titulo": "The Last of Us PS4",
     "ts": 1779038193
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:10",
-    "fotoUrl": "https://img.olx.com.br/images/41/410680752595640.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/410680752595640.jpg",
-      "https://img.olx.com.br/images/42/426637636902009.jpg",
-      "https://img.olx.com.br/images/44/449696756718086.jpg"
-    ],
-    "id": "1491018930",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-horizon-2-1491018930",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2013",
-    "titulo": "Jogo ps4 Horizon 2",
-    "ts": 1779037843
   }
 ]
