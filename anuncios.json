@@ -1,22 +1,41 @@
 [
   {
-    "id": "1502563815",
-    "titulo": "iPhone xs",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "iphone",
+    "id": "1502965871",
+    "titulo": "Ps Portátil/Semi Novo/ Caixa",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "09:46",
-    "tempoOlx": "Na OLX desde novembro de 2021",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xs-1502563815",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps-portatil-semi-novo-caixa-1502965871",
+    "fotoUrl": "https://img.olx.com.br/images/79/792689765518410.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/792689765518410.jpg",
+      "https://img.olx.com.br/images/81/811606765030139.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108368
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:46",
     "fotoUrl": "https://img.olx.com.br/images/89/892612280728884.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/892612280728884.jpg",
       "https://img.olx.com.br/images/90/906628285416767.jpg",
       "https://img.olx.com.br/images/92/926672401054555.jpg"
     ],
-    "defeito": false,
+    "id": "1502563815",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xs-1502563815",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2021",
+    "titulo": "iPhone xs",
     "ts": 1779108366
   },
   {
@@ -9874,25 +9893,5 @@
     "tempoOlx": "",
     "titulo": "Fifa 10 12 e 16 Ps3 Ps4",
     "ts": 1779030204
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:03",
-    "fotoUrl": "https://img.olx.com.br/images/22/224659287665581.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/224659287665581.jpg",
-      "https://img.olx.com.br/images/24/247609167845142.jpg",
-      "https://img.olx.com.br/images/25/254653169069646.jpg"
-    ],
-    "id": "1502737225",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/god-of-war-ragnarok-ps4-ps5-1502737225",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "God of war Ragnarok _ Ps4-Ps5",
-    "ts": 1779030196
   }
 ]
