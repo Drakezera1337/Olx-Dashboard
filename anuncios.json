@@ -1,22 +1,41 @@
 [
   {
-    "id": "1451670729",
-    "titulo": "Farcry 5",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "outros",
+    "id": "1503156847",
+    "titulo": "Jogo PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:06",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "19:11",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/farcry-5-1451670729",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-1503156847",
+    "fotoUrl": "https://img.olx.com.br/images/13/132681883561153.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/132681883561153.jpg",
+      "https://img.olx.com.br/images/14/147633402031236.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779142315
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:06",
     "fotoUrl": "https://img.olx.com.br/images/88/885623721549040.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/885623721549040.jpg",
       "https://img.olx.com.br/images/93/931630481390856.jpg",
       "https://img.olx.com.br/images/10/104690608577093.jpg"
     ],
-    "defeito": false,
+    "id": "1451670729",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/farcry-5-1451670729",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Farcry 5",
     "ts": 1779142000
   },
   {
@@ -9880,24 +9899,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS Portal ",
-    "ts": 1779110168
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:16",
-    "fotoUrl": "https://img.olx.com.br/images/51/517669281810599.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/517669281810599.jpg"
-    ],
-    "id": "1500130081",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/ps5-slim-edicao-digital-825-gb-1500130081",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps5 slim edição digital 825 Gb",
     "ts": 1779110168
   }
 ]
