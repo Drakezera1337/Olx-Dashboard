@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503142842",
-    "titulo": "Jogo PS Vita - Fifa 15",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1503146305",
+    "titulo": "PlayStation 3",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "18:47",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "detectado": "18:52",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps-vita-fifa-15-1503142842",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-1503146305",
+    "fotoUrl": "https://img.olx.com.br/images/50/505621649429606.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/505621649429606.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779141178
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:47",
     "fotoUrl": "https://img.olx.com.br/images/40/406650403134226.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/406650403134226.jpg",
       "https://img.olx.com.br/images/40/409690522637540.jpg",
       "https://img.olx.com.br/images/39/396657769843859.jpg"
     ],
-    "defeito": false,
+    "id": "1503142842",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps-vita-fifa-15-1503142842",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Jogo PS Vita - Fifa 15",
     "ts": 1779140820
   },
   {
@@ -9869,25 +9887,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2013",
     "titulo": "Jogo PS4 Lacrado Puyo Puyo Tetris",
     "ts": 1779109743
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:08",
-    "fotoUrl": "https://img.olx.com.br/images/44/447681644088854.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/447681644088854.jpg",
-      "https://img.olx.com.br/images/47/470654167075475.jpg",
-      "https://img.olx.com.br/images/48/489656408322285.jpg"
-    ],
-    "id": "1502985364",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/video-game-ps5-1502985364",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "Vídeo game PS5",
-    "ts": 1779109734
   }
 ]
