@@ -1,21 +1,44 @@
 [
   {
-    "id": "1503046606",
-    "titulo": "Playstation 5",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "categoria": "ps5",
+    "id": "1503046031",
+    "titulo": "Ps2 funcionando tudo",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:51",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "detectado": "12:52",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1503046606",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps2-funcionando-tudo-1503046031",
+    "fotoUrl": "https://img.olx.com.br/images/46/463622525011483.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/463622525011483.jpg",
+      "https://img.olx.com.br/images/47/477698766659691.jpg",
+      "https://img.olx.com.br/images/48/482630526205695.jpg",
+      "https://img.olx.com.br/images/50/501658045113750.jpg",
+      "https://img.olx.com.br/images/51/514644523778210.jpg",
+      "https://img.olx.com.br/images/52/522636161451853.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779119531
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:51",
     "fotoUrl": "https://img.olx.com.br/images/88/887693526995429.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/887693526995429.jpg",
       "https://img.olx.com.br/images/89/899615528684679.jpg"
     ],
-    "defeito": false,
+    "id": "1503046606",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1503046606",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "titulo": "Playstation 5",
     "ts": 1779119518
   },
   {
@@ -9887,27 +9910,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps3 fat com lacre fica só na luz vermelha botei um cd não entra ",
-    "ts": 1779055426
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:03",
-    "fotoUrl": "https://img.olx.com.br/images/89/898662644999908.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/898662644999908.jpg",
-      "https://img.olx.com.br/images/96/968680166319844.jpg",
-      "https://img.olx.com.br/images/14/149675762264504.jpg",
-      "https://img.olx.com.br/images/23/232646160940817.jpg"
-    ],
-    "id": "1502807788",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vendo-meu-ps3-super-slim-tem-que-trocar-o-modulo-bluetooth-para-atualizar-1502807788",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "vendo meu PS3 Super Slim tem que trocar o módulo Bluetooth para atualizar",
     "ts": 1779055426
   }
 ]
