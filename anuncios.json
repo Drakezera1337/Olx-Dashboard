@@ -1,20 +1,43 @@
 [
   {
-    "id": "1502894046",
-    "titulo": "Battlefield 1 revolution",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1502894515",
+    "titulo": "Playstation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:10",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "00:11",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/battlefield-1-revolution-1502894046",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1502894515",
+    "fotoUrl": "https://img.olx.com.br/images/94/940603884415751.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/940603884415751.jpg",
+      "https://img.olx.com.br/images/96/968645646197735.jpg",
+      "https://img.olx.com.br/images/98/985605285545332.jpg",
+      "https://img.olx.com.br/images/10/108625769256840.jpg",
+      "https://img.olx.com.br/images/12/127691401945223.jpg",
+      "https://img.olx.com.br/images/14/142657520382792.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779073885
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:10",
     "fotoUrl": "https://img.olx.com.br/images/34/347614404577386.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/347614404577386.jpg"
     ],
-    "defeito": false,
+    "id": "1502894046",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/battlefield-1-revolution-1502894046",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Battlefield 1 revolution",
     "ts": 1779073852
   },
   {
@@ -9875,23 +9898,5 @@
     "tempoOlx": "",
     "titulo": "PS4- GTAV",
     "ts": 1779029954
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:59",
-    "fotoUrl": "https://img.olx.com.br/images/54/547693393434698.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/547693393434698.jpg"
-    ],
-    "id": "1493946135",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/far-cry-5-ps4-1493946135",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "FAR CRY 5 ps4",
-    "ts": 1779029947
   }
 ]
