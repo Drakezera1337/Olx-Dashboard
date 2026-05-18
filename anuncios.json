@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503126298",
-    "titulo": "Xbox Series S",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "xbox",
+    "id": "1503169592",
+    "titulo": "Fitas  PS4  8 fitas  mídia originais",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:04",
-    "tempoOlx": "Na OLX desde julho de 2019",
+    "tempoOlx": "Na OLX desde dezembro de 2013",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1503126298",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/fitas-ps4-8-fitas-midia-originais-1503169592",
+    "fotoUrl": "https://img.olx.com.br/images/58/582670167592562.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/582670167592562.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779145489
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:04",
     "fotoUrl": "https://img.olx.com.br/images/57/578699769887544.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/578699769887544.jpg",
       "https://img.olx.com.br/images/58/589636407475048.jpg",
       "https://img.olx.com.br/images/59/591646168858292.jpg"
     ],
-    "defeito": false,
+    "id": "1503126298",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1503126298",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2019",
+    "titulo": "Xbox Series S",
     "ts": 1779145477
   },
   {
@@ -9864,25 +9882,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "caixa vazia de Nintendo Switch lite",
-    "ts": 1779110264
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:17",
-    "fotoUrl": "https://img.olx.com.br/images/66/662602019094987.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/662602019094987.jpg",
-      "https://img.olx.com.br/images/68/682632853412936.jpg"
-    ],
-    "id": "1475115593",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-manual-e-berco-nintendo-switch-lite-grey-1475115593",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Caixa manual e berço Nintendo Switch Lite Grey",
     "ts": 1779110264
   }
 ]
