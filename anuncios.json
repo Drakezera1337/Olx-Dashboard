@@ -1,15 +1,31 @@
 [
   {
-    "id": "1503135790",
-    "titulo": "JOGOS PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1503135361",
+    "titulo": "Fórmula 1 ",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:04",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "detectado": "18:05",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-1503135790",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/formula-1-1503135361",
+    "fotoUrl": "https://img.olx.com.br/images/34/345614887593598.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/345614887593598.jpg",
+      "https://img.olx.com.br/images/36/364628765231477.jpg",
+      "https://img.olx.com.br/images/37/373608162885536.jpg",
+      "https://img.olx.com.br/images/39/391634400311116.jpg",
+      "https://img.olx.com.br/images/40/403614404955130.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779138307
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:04",
     "fotoUrl": "https://img.olx.com.br/images/70/708600641428212.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/708600641428212.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/73/730678526850036.jpg",
       "https://img.olx.com.br/images/74/740644760184323.jpg"
     ],
-    "defeito": false,
+    "id": "1503135790",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-1503135790",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "titulo": "JOGOS PS4",
     "ts": 1779138298
   },
   {
@@ -9874,23 +9896,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Assassin's Creed ODYSSEY PS4 Novo",
     "ts": 1779108968
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:56",
-    "fotoUrl": "https://img.olx.com.br/images/59/592627766915511.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/592627766915511.jpg"
-    ],
-    "id": "1502957930",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/pes-2021-midia-fisica-ps4-1502957930",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Pes 2021 mídia física ps4",
-    "ts": 1779108960
   }
 ]
