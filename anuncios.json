@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503045228",
-    "titulo": "Game",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "outros",
+    "id": "1503045939",
+    "titulo": "Ps4",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:48",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "detectado": "12:49",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/game-1503045228",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps4-1503045939",
+    "fotoUrl": "https://img.olx.com.br/images/97/975636280460755.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/975636280460755.jpg",
+      "https://img.olx.com.br/images/99/996655647984595.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779119340
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:48",
     "fotoUrl": "https://img.olx.com.br/images/22/221629520287983.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/221629520287983.jpg"
     ],
-    "defeito": false,
+    "id": "1503045228",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/game-1503045228",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Game",
     "ts": 1779119298
   },
   {
@@ -9888,27 +9907,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "XBOX SERIES S , 1 controle original. Whats: *",
-    "ts": 1779055408
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:03",
-    "fotoUrl": "https://img.olx.com.br/images/76/766674528155033.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/766674528155033.jpg",
-      "https://img.olx.com.br/images/77/776625401286774.jpg",
-      "https://img.olx.com.br/images/15/157699526408882.jpg",
-      "https://img.olx.com.br/images/37/371680762441905.jpg"
-    ],
-    "id": "1502819201",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1502819201",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Séries S ",
     "ts": 1779055408
   }
 ]
