@@ -1,15 +1,32 @@
 [
   {
-    "id": "1498201458",
-    "titulo": "X Box One",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "outros",
+    "id": "1502869849",
+    "titulo": "PS3 Super Slim Preço negociável ",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "21:19",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/consoles-de-video-game/x-box-one-1498201458",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-super-slim-preco-negociavel-1502869849",
+    "fotoUrl": "https://img.olx.com.br/images/98/989622167891732.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/989622167891732.jpg",
+      "https://img.olx.com.br/images/10/107664042585758.jpg",
+      "https://img.olx.com.br/images/12/129638164658591.jpg",
+      "https://img.olx.com.br/images/13/138641881282636.jpg",
+      "https://img.olx.com.br/images/15/157697526846943.jpg",
+      "https://img.olx.com.br/images/16/165664166280342.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779063591
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:19",
     "fotoUrl": "https://img.olx.com.br/images/67/677622153324074.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/677622153324074.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/67/673684159899072.jpg",
       "https://img.olx.com.br/images/67/678668270056962.jpg"
     ],
-    "defeito": false,
+    "id": "1498201458",
+    "link": "https://pa.olx.com.br/regiao-de-santarem/games/consoles-de-video-game/x-box-one-1498201458",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "X Box One",
     "ts": 1779063561
   },
   {
@@ -9904,24 +9927,5 @@
     "tempoOlx": "",
     "titulo": "Nintendo Switch Dock original com suporte para Joy-Con",
     "ts": 1779029286
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:47",
-    "fotoUrl": "https://img.olx.com.br/images/40/402645643474973.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/402645643474973.jpg",
-      "https://img.olx.com.br/images/42/425662884132820.jpg"
-    ],
-    "id": "1502151463",
-    "link": "https://ap.olx.com.br/amapa/games/consoles-de-video-game/videogame-stick-4k-64gb-2-controles-sem-fio-console-portatil-jogos-retro-antigo-1502151463",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Videogame Stick 4K 64gb 2 Controles Sem Fio Console Portatil Jogos Retro Antigo",
-    "ts": 1779029278
   }
 ]
