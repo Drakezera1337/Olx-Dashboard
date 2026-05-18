@@ -1,20 +1,41 @@
 [
   {
-    "id": "1502872763",
-    "titulo": "jogo ps4",
-    "preco": 700,
-    "precoRaw": "R$ 700",
+    "id": "1502873151",
+    "titulo": "Spider-Man GOTY + The Last of Us Remastered | Jogos Originais PS4",
+    "preco": 170,
+    "precoRaw": "R$ 170",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:38",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "detectado": "21:43",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogo-ps4-1502872763",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/spider-man-goty-the-last-of-us-remastered-jogos-originais-ps4-1502873151",
+    "fotoUrl": "https://img.olx.com.br/images/62/624637042560931.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/624637042560931.jpg",
+      "https://img.olx.com.br/images/62/625652647867366.jpg",
+      "https://img.olx.com.br/images/62/620696769448355.jpg",
+      "https://img.olx.com.br/images/62/620675642773841.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779065003
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:38",
     "fotoUrl": "https://img.olx.com.br/images/82/823647406285967.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/823647406285967.jpg"
     ],
-    "defeito": false,
+    "id": "1502872763",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogo-ps4-1502872763",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "jogo ps4",
     "ts": 1779064681
   },
   {
@@ -9904,25 +9925,5 @@
     "tempoOlx": "",
     "titulo": "Disney Infinity - Hulkbuster + Homem de Ferro + Torre dos vingadores",
     "ts": 1779029365
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:49",
-    "fotoUrl": "https://img.olx.com.br/images/92/923689889422012.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/923689889422012.jpg",
-      "https://img.olx.com.br/images/93/930659160143472.jpg",
-      "https://img.olx.com.br/images/96/963611762868529.jpg"
-    ],
-    "id": "1501535245",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-lite-1501535245",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo switch lite ",
-    "ts": 1779029357
   }
 ]
