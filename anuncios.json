@@ -1,15 +1,32 @@
 [
   {
-    "id": "1502939407",
-    "titulo": "Nintendo WII U Desbloqueado + Wii Remote + Nunchunk + Jogos originais",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "switch",
+    "id": "1502979671",
+    "titulo": "PlayStation 4 Slim - Exclusivo -",
+    "preco": 1620,
+    "precoRaw": "R$ 1.620",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "09:49",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-wii-u-desbloqueado-wii-remote-nunchunk-jogos-originais-1502939407",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-slim-exclusivo-1502979671",
+    "fotoUrl": "https://img.olx.com.br/images/15/150666164120134.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/150666164120134.jpg",
+      "https://img.olx.com.br/images/16/169668888304113.jpg",
+      "https://img.olx.com.br/images/18/183669525723815.jpg",
+      "https://img.olx.com.br/images/19/193667408881443.jpg",
+      "https://img.olx.com.br/images/20/208617286008412.jpg",
+      "https://img.olx.com.br/images/22/229647289005167.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108586
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:49",
     "fotoUrl": "https://img.olx.com.br/images/41/415685400651419.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/415685400651419.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/50/503672645914208.jpg",
       "https://img.olx.com.br/images/52/523645041027720.jpg"
     ],
-    "defeito": false,
+    "id": "1502939407",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-wii-u-desbloqueado-wii-remote-nunchunk-jogos-originais-1502939407",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Nintendo WII U Desbloqueado + Wii Remote + Nunchunk + Jogos originais",
     "ts": 1779108578
   },
   {
@@ -9874,24 +9897,5 @@
     "tempoOlx": "",
     "titulo": "Skull and Bones LACRADO - Ps5",
     "ts": 1779030452
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:06",
-    "fotoUrl": "https://img.olx.com.br/images/43/430657646134880.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/430657646134880.jpg",
-      "https://img.olx.com.br/images/44/445698169141042.jpg"
-    ],
-    "id": "1501553521",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1501553521",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox séries S ",
-    "ts": 1779030415
   }
 ]
