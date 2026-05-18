@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503150413",
-    "titulo": "Nintendo Switch Lite Azul - Usado",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1503154875",
+    "titulo": "Controle ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:01",
-    "tempoOlx": "Na OLX desde julho de 2019",
+    "detectado": "19:06",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-azul-usado-1503150413",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps4-1503154875",
+    "fotoUrl": "https://img.olx.com.br/images/21/218640764671942.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/218640764671942.jpg",
+      "https://img.olx.com.br/images/23/238606167359569.jpg",
+      "https://img.olx.com.br/images/25/255603522810274.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779141960
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:01",
     "fotoUrl": "https://img.olx.com.br/images/37/377683648400932.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/377683648400932.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/43/436628640485143.jpg",
       "https://img.olx.com.br/images/45/454682526493007.jpg"
     ],
-    "defeito": false,
+    "id": "1503150413",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-azul-usado-1503150413",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2019",
+    "titulo": "Nintendo Switch Lite Azul - Usado",
     "ts": 1779141719
   },
   {
@@ -9876,24 +9896,5 @@
     "tempoOlx": "",
     "titulo": "IPHONE 15 PRO MAX 256 ",
     "ts": 1779110163
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:15",
-    "fotoUrl": "https://img.olx.com.br/images/82/823691649732574.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/823691649732574.jpg",
-      "https://img.olx.com.br/images/83/830637285335520.jpg"
-    ],
-    "id": "1502254437",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/mac-mini-i5-8gb-ram-e-320gb-com-batocera-10000-jogos-1502254437",
-    "preco": 820,
-    "precoRaw": "R$ 820",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Mac Mini i5 8gb ram e 320gb com Batocera 10000 jogos",
-    "ts": 1779110155
   }
 ]
