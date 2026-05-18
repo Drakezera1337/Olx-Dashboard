@@ -1,22 +1,41 @@
 [
   {
-    "id": "1502985364",
-    "titulo": "Vídeo game PS5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1334598720",
+    "titulo": "Jogo PS4 Lacrado Puyo Puyo Tetris",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:08",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "detectado": "10:09",
+    "tempoOlx": "Na OLX desde janeiro de 2013",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/video-game-ps5-1502985364",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-lacrado-puyo-puyo-tetris-1334598720",
+    "fotoUrl": "https://img.olx.com.br/images/78/784482568643736.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/784482568643736.jpg",
+      "https://img.olx.com.br/images/78/789436686944874.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779109743
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:08",
     "fotoUrl": "https://img.olx.com.br/images/44/447681644088854.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/447681644088854.jpg",
       "https://img.olx.com.br/images/47/470654167075475.jpg",
       "https://img.olx.com.br/images/48/489656408322285.jpg"
     ],
-    "defeito": false,
+    "id": "1502985364",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/video-game-ps5-1502985364",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "titulo": "Vídeo game PS5",
     "ts": 1779109734
   },
   {
@@ -9870,27 +9889,5 @@
     "tempoOlx": "",
     "titulo": "Jogo PS4 FIFA 20",
     "ts": 1779030719
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:11",
-    "fotoUrl": "https://img.olx.com.br/images/62/623617282750147.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/623617282750147.jpg",
-      "https://img.olx.com.br/images/61/612601646976391.jpg",
-      "https://img.olx.com.br/images/88/886603645931575.jpg",
-      "https://img.olx.com.br/images/88/887697161053223.jpg",
-      "https://img.olx.com.br/images/88/881604164106822.jpg"
-    ],
-    "id": "1501440347",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/anbernic-rg405v-128gb-nunca-foi-usado-versao-wood-color-1501440347",
-    "preco": 785,
-    "precoRaw": "R$ 785",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Anbernic RG405V 128GB nunca foi usado versão Wood Color",
-    "ts": 1779030700
   }
 ]
