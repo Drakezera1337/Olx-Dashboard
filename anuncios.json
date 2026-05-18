@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503103933",
-    "titulo": "Playstation 4 - defeito no drive! Funcionando.",
-    "preco": 750,
-    "precoRaw": "R$ 750",
+    "id": "1503104422",
+    "titulo": "FIFA 22(PS4)",
+    "preco": 95,
+    "precoRaw": "R$ 95",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:16",
-    "tempoOlx": "Na OLX desde junho de 2025",
+    "detectado": "16:18",
+    "tempoOlx": "Na OLX desde novembro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-defeito-no-drive-funcionando-1503103933",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-22-ps4-1503104422",
+    "fotoUrl": "https://img.olx.com.br/images/29/294672641811947.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/294672641811947.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779131939
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:16",
     "fotoUrl": "https://img.olx.com.br/images/95/958682528107665.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/958682528107665.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/96/966629161055103.jpg",
       "https://img.olx.com.br/images/95/957607524513009.jpg"
     ],
-    "defeito": false,
+    "id": "1503103933",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-defeito-no-drive-funcionando-1503103933",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2025",
+    "titulo": "Playstation 4 - defeito no drive! Funcionando.",
     "ts": 1779131786
   },
   {
@@ -9875,23 +9893,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "JOGOS ORIGINAIS DE PS3 - GTA V, COD BLACK OPS III E MAIS",
     "ts": 1779074894
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:28",
-    "fotoUrl": "https://img.olx.com.br/images/94/941604618098064.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/941604618098064.jpg"
-    ],
-    "id": "1477311766",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/far-cry-e-until-dawn-ps4-1477311766",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Far cry e Until Dawn PS4",
-    "ts": 1779074885
   }
 ]
