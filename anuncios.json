@@ -1,22 +1,42 @@
 [
   {
-    "id": "1475012687",
-    "titulo": "The last of us 2",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "jogos",
+    "id": "1503130066",
+    "titulo": "Sombras de Mordor ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "17:47",
-    "tempoOlx": "Na OLX desde novembro de 2017",
+    "tempoOlx": "Na OLX desde abril de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/the-last-of-us-2-1475012687",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/sombras-de-mordor-1503130066",
+    "fotoUrl": "https://img.olx.com.br/images/22/229600522941710.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/229600522941710.jpg",
+      "https://img.olx.com.br/images/24/240637643865106.jpg",
+      "https://img.olx.com.br/images/28/282629165259859.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779137249
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:47",
     "fotoUrl": "https://img.olx.com.br/images/94/945618259812755.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/945618259812755.jpg",
       "https://img.olx.com.br/images/95/954610490158951.jpg",
       "https://img.olx.com.br/images/96/968649738970406.jpg"
     ],
-    "defeito": false,
+    "id": "1475012687",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/the-last-of-us-2-1475012687",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2017",
+    "titulo": "The last of us 2",
     "ts": 1779137240
   },
   {
@@ -9878,28 +9898,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Jogo Ps4 Watch Dogs 2",
     "ts": 1779108861
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:54",
-    "fotoUrl": "https://img.olx.com.br/images/95/954673371061554.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/954673371061554.jpg",
-      "https://img.olx.com.br/images/97/974628014938544.jpg",
-      "https://img.olx.com.br/images/98/982650258012340.jpg",
-      "https://img.olx.com.br/images/99/990653856160301.jpg",
-      "https://img.olx.com.br/images/11/115690496513559.jpg",
-      "https://img.olx.com.br/images/12/120634610127556.jpg"
-    ],
-    "id": "1476086972",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-ps4-1476086972",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Jogos ps4 ",
-    "ts": 1779108854
   }
 ]
