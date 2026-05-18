@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503166431",
-    "titulo": "Ps4 slim 1tb",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1503167646",
+    "titulo": "PlayStation 4 Fat 500 Gb",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:54",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "detectado": "19:57",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-slim-1tb-1503166431",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/playstation-4-fat-500-gb-1503167646",
+    "fotoUrl": "https://img.olx.com.br/images/19/196631647410373.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/196631647410373.jpg",
+      "https://img.olx.com.br/images/21/216622766862807.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779145051
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:54",
     "fotoUrl": "https://img.olx.com.br/images/70/700660049294519.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/700660049294519.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/77/772632522684346.jpg",
       "https://img.olx.com.br/images/78/786630405267918.jpg"
     ],
-    "defeito": false,
+    "id": "1503166431",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-slim-1tb-1503166431",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Ps4 slim 1tb",
     "ts": 1779144872
   },
   {
@@ -9854,26 +9873,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Nintendo Switch lite",
-    "ts": 1779110256
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:17",
-    "fotoUrl": "https://img.olx.com.br/images/48/486699401977655.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/486699401977655.jpg",
-      "https://img.olx.com.br/images/50/506622765998489.jpg",
-      "https://img.olx.com.br/images/51/518690167636191.jpg"
-    ],
-    "id": "1502445545",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/caixa-switch-lite-carregador-original-1502445545",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Caixa switch lite + carregador original ",
     "ts": 1779110256
   }
 ]
