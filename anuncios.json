@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503183070",
-    "titulo": "Jogos ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1503182633",
+    "titulo": "iPhone 11 128GB MUITO NOVO",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "20:58",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-ps4-1503183070",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-muito-novo-1503182633",
+    "fotoUrl": "https://img.olx.com.br/images/70/706682884908844.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/706682884908844.jpg",
+      "https://img.olx.com.br/images/71/713625884614057.jpg",
+      "https://img.olx.com.br/images/72/729658288161453.jpg",
+      "https://img.olx.com.br/images/73/732610280723093.jpg",
+      "https://img.olx.com.br/images/74/741643280584455.jpg",
+      "https://img.olx.com.br/images/75/751661643262028.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779148737
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:58",
     "fotoUrl": "https://img.olx.com.br/images/50/508692884810726.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/508692884810726.jpg",
       "https://img.olx.com.br/images/51/512668160302676.jpg",
       "https://img.olx.com.br/images/52/528653640533348.jpg"
     ],
-    "defeito": false,
+    "id": "1503183070",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-ps4-1503183070",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Jogos ps4",
     "ts": 1779148707
   },
   {
@@ -9851,24 +9874,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogo Watch Dogs - PS4",
-    "ts": 1779110346
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/70/701668529182288.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/701668529182288.jpg"
-    ],
-    "id": "1502544730",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-1502544730",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogos PS4",
     "ts": 1779110346
   }
 ]
