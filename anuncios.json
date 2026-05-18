@@ -1,21 +1,39 @@
 [
   {
-    "id": "1503157453",
-    "titulo": "Ps5 a venda ",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1503160641",
+    "titulo": "Jogos ps4",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:17",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "19:21",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps5-a-venda-1503157453",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1503160641",
+    "fotoUrl": "https://img.olx.com.br/images/23/238636280959507.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/238636280959507.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779142885
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:17",
     "fotoUrl": "https://img.olx.com.br/images/56/564606648362291.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/564606648362291.jpg",
       "https://img.olx.com.br/images/58/587645881089690.jpg"
     ],
-    "defeito": false,
+    "id": "1503157453",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps5-a-venda-1503157453",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Ps5 a venda ",
     "ts": 1779142677
   },
   {
@@ -9875,25 +9893,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "POCO X6 PRO",
-    "ts": 1779110176
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:16",
-    "fotoUrl": "https://img.olx.com.br/images/34/343657756512707.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/343657756512707.jpg",
-      "https://img.olx.com.br/images/35/354682399243875.jpg"
-    ],
-    "id": "1496808801",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/samsung-galaxy-j4-1496808801",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Samsung Galaxy J4+",
     "ts": 1779110176
   }
 ]
