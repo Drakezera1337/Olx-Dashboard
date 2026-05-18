@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503109773",
-    "titulo": "FIFA 19",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "jogos",
+    "id": "1503109336",
+    "titulo": "PS4 + 11 Jogos",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:34",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde julho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-19-1503109773",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-11-jogos-1503109336",
+    "fotoUrl": "https://img.olx.com.br/images/89/892610883341798.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/892610883341798.jpg",
+      "https://img.olx.com.br/images/89/894613042791043.jpg",
+      "https://img.olx.com.br/images/89/896669760649735.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779132883
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:34",
     "fotoUrl": "https://img.olx.com.br/images/94/948679886121146.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/948679886121146.jpg",
       "https://img.olx.com.br/images/96/968633281627970.jpg"
     ],
-    "defeito": false,
+    "id": "1503109773",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-19-1503109773",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "FIFA 19",
     "ts": 1779132873
   },
   {
@@ -9879,24 +9899,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Console PS4",
     "ts": 1779077304
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:02",
-    "fotoUrl": "https://img.olx.com.br/images/69/695648157856249.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/695648157856249.jpg",
-      "https://img.olx.com.br/images/71/711608633574899.jpg"
-    ],
-    "id": "1493488953",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-1493488953",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "PS4 Fat",
-    "ts": 1779076941
   }
 ]
