@@ -1,15 +1,30 @@
 [
   {
-    "id": "1503170506",
-    "titulo": "Playstation 4",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "ps4",
+    "id": "1503170543",
+    "titulo": "Playstation 3",
+    "preco": 390,
+    "precoRaw": "R$ 390",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "20:10",
-    "tempoOlx": "Na OLX desde agosto de 2021",
+    "detectado": "20:12",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-1503170506",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1503170543",
+    "fotoUrl": "https://img.olx.com.br/images/19/199620289758530.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/199620289758530.jpg",
+      "https://img.olx.com.br/images/24/242642646636485.jpg",
+      "https://img.olx.com.br/images/28/281630167383607.jpg",
+      "https://img.olx.com.br/images/33/334669520907880.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779145921
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:10",
     "fotoUrl": "https://img.olx.com.br/images/71/713688880076424.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/713688880076424.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/75/757662288652251.jpg",
       "https://img.olx.com.br/images/77/771686165088788.jpg"
     ],
-    "defeito": false,
+    "id": "1503170506",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-1503170506",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2021",
+    "titulo": "Playstation 4",
     "ts": 1779145850
   },
   {
@@ -9858,29 +9879,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Carta Pikachu EX",
-    "ts": 1779110278
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:17",
-    "fotoUrl": "https://img.olx.com.br/images/13/136631520673825.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/136631520673825.jpg",
-      "https://img.olx.com.br/images/48/481649289574674.jpg",
-      "https://img.olx.com.br/images/48/489635286628312.jpg",
-      "https://img.olx.com.br/images/48/480624527432954.jpg",
-      "https://img.olx.com.br/images/48/489626403664655.jpg",
-      "https://img.olx.com.br/images/48/487632400301104.jpg"
-    ],
-    "id": "1499805280",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-dsi-rosa-seminovo-1499805280",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Dsi Rosa Seminovo",
     "ts": 1779110278
   }
 ]
