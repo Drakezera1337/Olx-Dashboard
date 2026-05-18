@@ -1,22 +1,42 @@
 [
   {
-    "id": "1477318679",
-    "titulo": "Jogo Ps4 Red Dead Redemption 2",
-    "preco": 99,
-    "precoRaw": "R$ 99",
+    "id": "1502976689",
+    "titulo": "FIFA 20 PS4 Original",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:50",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/jogo-ps4-red-dead-redemption-2-1477318679",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/fifa-20-ps4-original-1502976689",
+    "fotoUrl": "https://img.olx.com.br/images/43/437627768099808.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/437627768099808.jpg",
+      "https://img.olx.com.br/images/46/460636527305668.jpg",
+      "https://img.olx.com.br/images/49/499652281184026.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108619
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:50",
     "fotoUrl": "https://img.olx.com.br/images/94/947688371925761.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/947688371925761.jpg",
       "https://img.olx.com.br/images/95/950634852882908.jpg",
       "https://img.olx.com.br/images/97/977651251375461.jpg"
     ],
-    "defeito": false,
+    "id": "1477318679",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/jogo-ps4-red-dead-redemption-2-1477318679",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Jogo Ps4 Red Dead Redemption 2",
     "ts": 1779108610
   },
   {
@@ -9875,24 +9895,5 @@
     "tempoOlx": "",
     "titulo": "IPHONE 15 PRO MAX 256 ",
     "ts": 1779030456
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:07",
-    "fotoUrl": "https://img.olx.com.br/images/93/930673160569777.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/930673160569777.jpg",
-      "https://img.olx.com.br/images/93/931687529491825.jpg"
-    ],
-    "id": "1502758649",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/controle-astro-bot-1502758649",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Controle Astro Bot",
-    "ts": 1779030452
   }
 ]
