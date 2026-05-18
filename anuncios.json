@@ -1,21 +1,42 @@
 [
   {
-    "id": "1503006821",
-    "titulo": "Madden NFL 21",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "outros",
+    "id": "1485800315",
+    "titulo": "God Of War - PS4",
+    "preco": 58,
+    "precoRaw": "R$ 58",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:04",
-    "tempoOlx": "Na OLX desde setembro de 2016",
+    "detectado": "11:10",
+    "tempoOlx": "Na OLX desde outubro de 2014",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/madden-nfl-21-1503006821",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-ps4-1485800315",
+    "fotoUrl": "https://img.olx.com.br/images/18/189697021067027.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/189697021067027.jpg",
+      "https://img.olx.com.br/images/60/607643502419599.jpg",
+      "https://img.olx.com.br/images/60/603694142617208.jpg",
+      "https://img.olx.com.br/images/60/601628266109344.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779113458
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:04",
     "fotoUrl": "https://img.olx.com.br/images/43/434636164052146.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/434636164052146.jpg",
       "https://img.olx.com.br/images/45/457646282733498.jpg"
     ],
-    "defeito": false,
+    "id": "1503006821",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/madden-nfl-21-1503006821",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2016",
+    "titulo": "Madden NFL 21",
     "ts": 1779113083
   },
   {
@@ -9889,23 +9910,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Ps4 slim 500 gb",
     "ts": 1779040519
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:55",
-    "fotoUrl": "https://img.olx.com.br/images/65/659652404783824.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/659652404783824.jpg"
-    ],
-    "id": "1502792232",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ea-fc-24-ps4-ps5-midia-digital-1502792232",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "Ea Fc 24 ps4/ps5 mídia digital",
-    "ts": 1779040510
   }
 ]
