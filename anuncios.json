@@ -1,15 +1,30 @@
 [
   {
-    "id": "1502653822",
-    "titulo": "Vendo PS3 slim",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1418349408",
+    "titulo": "Dock Nintendo Switch",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "09:48",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps3-slim-1502653822",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/dock-nintendo-switch-1418349408",
+    "fotoUrl": "https://img.olx.com.br/images/85/858505423151518.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/858505423151518.jpg",
+      "https://img.olx.com.br/images/85/851590428699421.jpg",
+      "https://img.olx.com.br/images/84/841508662007754.jpg",
+      "https://img.olx.com.br/images/85/856509787794245.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108530
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:48",
     "fotoUrl": "https://img.olx.com.br/images/29/293645167929953.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/293645167929953.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/32/329635884173093.jpg",
       "https://img.olx.com.br/images/33/338670407728859.jpg"
     ],
-    "defeito": false,
+    "id": "1502653822",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps3-slim-1502653822",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Vendo PS3 slim",
     "ts": 1779108519
   },
   {
@@ -9865,28 +9886,5 @@
     "tempoOlx": "",
     "titulo": "PS5 Play5 Playstation SLIM novo",
     "ts": 1779030376
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:06",
-    "fotoUrl": "https://img.olx.com.br/images/99/990695026209504.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/990695026209504.jpg",
-      "https://img.olx.com.br/images/11/116616747978940.jpg",
-      "https://img.olx.com.br/images/13/134685146858601.jpg",
-      "https://img.olx.com.br/images/15/156692029490539.jpg",
-      "https://img.olx.com.br/images/16/163665741885050.jpg",
-      "https://img.olx.com.br/images/18/185640621515915.jpg"
-    ],
-    "id": "1485979490",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-x-funcionando-perfeitamente-sem-controle-1485979490",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One X - Funcionando Perfeitamente - Sem controle",
-    "ts": 1779030368
   }
 ]
