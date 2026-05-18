@@ -1,22 +1,43 @@
 [
   {
-    "id": "1503073461",
-    "titulo": "iPhone 16",
-    "preco": 4200,
-    "precoRaw": "R$ 4.200",
+    "id": "1503073129",
+    "titulo": "Smartphone iPhone 12 Mini",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "14:40",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-1503073461",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/smartphone-iphone-12-mini-1503073129",
+    "fotoUrl": "https://img.olx.com.br/images/83/837677289161832.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/837677289161832.jpg",
+      "https://img.olx.com.br/images/84/846688523278661.jpg",
+      "https://img.olx.com.br/images/86/861693523989570.jpg",
+      "https://img.olx.com.br/images/87/872641647500150.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779126046
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:40",
     "fotoUrl": "https://img.olx.com.br/images/81/810697166555509.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/810697166555509.jpg",
       "https://img.olx.com.br/images/83/839628888446347.jpg",
       "https://img.olx.com.br/images/84/841608768528461.jpg"
     ],
-    "defeito": false,
+    "id": "1503073461",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-1503073461",
+    "preco": 4200,
+    "precoRaw": "R$ 4.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "iPhone 16",
     "ts": 1779126034
   },
   {
@@ -9913,25 +9934,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "PlayStation 4 Pro 1TB + 2 Controles + Jogos",
     "ts": 1779062632
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:01",
-    "fotoUrl": "https://img.olx.com.br/images/40/408622284788192.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/408622284788192.jpg",
-      "https://img.olx.com.br/images/42/423615288150230.jpg",
-      "https://img.olx.com.br/images/43/436609407967593.jpg"
-    ],
-    "id": "1502866221",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/vendo-playstation-5-1502866221",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "VENDO PLAYSTATION 5",
-    "ts": 1779062512
   }
 ]
