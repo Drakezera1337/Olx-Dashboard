@@ -1,21 +1,40 @@
 [
   {
-    "id": "1502965871",
-    "titulo": "Ps Portátil/Semi Novo/ Caixa",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "outros",
+    "id": "1502978238",
+    "titulo": "iPhone 15 pro Max",
+    "preco": 4000,
+    "precoRaw": "R$ 4.000",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "09:46",
-    "tempoOlx": "Na OLX desde outubro de 2015",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps-portatil-semi-novo-caixa-1502965871",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1502978238",
+    "fotoUrl": "https://img.olx.com.br/images/55/557662764195778.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/557662764195778.jpg",
+      "https://img.olx.com.br/images/58/587657642812772.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108373
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:46",
     "fotoUrl": "https://img.olx.com.br/images/79/792689765518410.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/792689765518410.jpg",
       "https://img.olx.com.br/images/81/811606765030139.jpg"
     ],
-    "defeito": false,
+    "id": "1502965871",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps-portatil-semi-novo-caixa-1502965871",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2015",
+    "titulo": "Ps Portátil/Semi Novo/ Caixa",
     "ts": 1779108368
   },
   {
@@ -9875,23 +9894,5 @@
     "tempoOlx": "",
     "titulo": "24 Games PS3 e PS4",
     "ts": 1779030212
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:03",
-    "fotoUrl": "https://img.olx.com.br/images/68/684596815889973.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/684596815889973.jpg"
-    ],
-    "id": "1447249674",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-10-12-e-16-ps3-ps4-1447249674",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Fifa 10 12 e 16 Ps3 Ps4",
-    "ts": 1779030204
   }
 ]
