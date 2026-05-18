@@ -1,20 +1,41 @@
 [
   {
-    "id": "1502880040",
-    "titulo": "Jogos de ps4 e ps5",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps5",
+    "id": "1502880268",
+    "titulo": "Playstation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:21",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "22:25",
+    "tempoOlx": "Na OLX desde outubro de 2022",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1502880040",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-4-1502880268",
+    "fotoUrl": "https://img.olx.com.br/images/86/867605641101540.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/867605641101540.jpg",
+      "https://img.olx.com.br/images/97/978633520575354.jpg",
+      "https://img.olx.com.br/images/13/139692641925319.jpg",
+      "https://img.olx.com.br/images/23/230668288821024.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779067525
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:21",
     "fotoUrl": "https://img.olx.com.br/images/48/488686401864802.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/488686401864802.jpg"
     ],
-    "defeito": false,
+    "id": "1502880040",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1502880040",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "Jogos de ps4 e ps5",
     "ts": 1779067312
   },
   {
@@ -9891,23 +9912,5 @@
     "tempoOlx": "",
     "titulo": "THE LAST OF US 2",
     "ts": 1779029512
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:51",
-    "fotoUrl": "https://img.olx.com.br/images/53/530662887665373.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/530662887665373.jpg"
-    ],
-    "id": "1502701592",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-sem-fio-usb-dongle-2-4hz-estilo-snes-super-famicom-1502701592",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Controle sem fio usb dongle 2.4hz estilo Snes Super Famicom",
-    "ts": 1779029503
   }
 ]
