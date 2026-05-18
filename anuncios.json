@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502894482",
-    "titulo": "Jogos PS4 à partir de 35,00 lista na descrição",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "categoria": "ps4",
+    "id": "1502891022",
+    "titulo": "FIFA FC 24",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "00:16",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-ps4-a-partir-de-35-00-lista-na-descricao-1502894482",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-fc-24-1502891022",
+    "fotoUrl": "https://img.olx.com.br/images/78/784606280864930.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/784606280864930.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779074174
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:16",
     "fotoUrl": "https://img.olx.com.br/images/90/902619161202645.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/902619161202645.jpg"
     ],
-    "defeito": false,
+    "id": "1502894482",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-ps4-a-partir-de-35-00-lista-na-descricao-1502894482",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Jogos PS4 à partir de 35,00 lista na descrição",
     "ts": 1779074164
   },
   {
@@ -9877,24 +9895,5 @@
     "tempoOlx": "",
     "titulo": "Jogo de PlayStation 4",
     "ts": 1779029982
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:59",
-    "fotoUrl": "https://img.olx.com.br/images/49/499659168692389.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/499659168692389.jpg",
-      "https://img.olx.com.br/images/50/505673768358670.jpg"
-    ],
-    "id": "1502747161",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-ps4-slim-1-200-00-1502747161",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation ps4 slim 1.200,00",
-    "ts": 1779029974
   }
 ]
