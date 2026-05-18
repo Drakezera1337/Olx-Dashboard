@@ -1,20 +1,40 @@
 [
   {
-    "id": "1502884027",
-    "titulo": "Metal Gear ",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "outros",
+    "id": "1502884842",
+    "titulo": "Vendo PS3 ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "22:56",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "23:00",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/metal-gear-1502884027",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vendo-ps3-1502884842",
+    "fotoUrl": "https://img.olx.com.br/images/55/553612405781013.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/553612405781013.jpg",
+      "https://img.olx.com.br/images/56/568670523294512.jpg",
+      "https://img.olx.com.br/images/57/575678880177090.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779069620
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:56",
     "fotoUrl": "https://img.olx.com.br/images/27/272639524678246.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/272639524678246.jpg"
     ],
-    "defeito": false,
+    "id": "1502884027",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/metal-gear-1502884027",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Metal Gear ",
     "ts": 1779069413
   },
   {
@@ -9882,23 +9902,5 @@
     "tempoOlx": "",
     "titulo": "METAL GEAR SOLID V: THE PHANTOM PAIN",
     "ts": 1779029654
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:54",
-    "fotoUrl": "https://img.olx.com.br/images/14/149680507305756.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/149680507305756.jpg"
-    ],
-    "id": "1490156651",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/cyberpunk-2077-xbox-one-series-x-s-1490156651",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "CYBERPUNK 2077 - XBOX ONE / SERIES X|S",
-    "ts": 1779029646
   }
 ]
