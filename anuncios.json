@@ -1,20 +1,40 @@
 [
   {
-    "id": "1502885127",
-    "titulo": "Bloodborne ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1493838261",
+    "titulo": "Jogos de ps4",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "23:03",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/bloodborne-1502885127",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogos-de-ps4-1493838261",
+    "fotoUrl": "https://img.olx.com.br/images/79/798621033546956.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/798621033546956.jpg",
+      "https://img.olx.com.br/images/80/806685274286785.jpg",
+      "https://img.olx.com.br/images/81/815688154063348.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779069820
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:03",
     "fotoUrl": "https://img.olx.com.br/images/37/374689287724695.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/374689287724695.jpg"
     ],
-    "defeito": false,
+    "id": "1502885127",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/bloodborne-1502885127",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Bloodborne ",
     "ts": 1779069812
   },
   {
@@ -9884,23 +9904,5 @@
     "tempoOlx": "",
     "titulo": "Trilogia Clássica de Assassin's Creed (Saga Ezio) para PS3",
     "ts": 1779029676
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:54",
-    "fotoUrl": "https://img.olx.com.br/images/80/800513211067538.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/800513211067538.jpg"
-    ],
-    "id": "1448098568",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/saints-row-2-ps3-1448098568",
-    "preco": 29,
-    "precoRaw": "R$ 29",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Saints Row 2 (PS3) ",
-    "ts": 1779029669
   }
 ]
