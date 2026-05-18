@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503083168",
-    "titulo": "PS5",
-    "preco": 2950,
-    "precoRaw": "R$ 2.950",
-    "categoria": "ps5",
+    "id": "1503085190",
+    "titulo": "JOGOS PS4 ORIGINAIS",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:16",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "detectado": "15:19",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-1503083168",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogos-ps4-originais-1503085190",
+    "fotoUrl": "https://img.olx.com.br/images/24/244650289581966.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/244650289581966.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779128374
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:16",
     "fotoUrl": "https://img.olx.com.br/images/65/651685407423456.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/651685407423456.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/93/933643044332966.jpg",
       "https://img.olx.com.br/images/10/103672763997756.jpg"
     ],
-    "defeito": false,
+    "id": "1503083168",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-1503083168",
+    "preco": 2950,
+    "precoRaw": "R$ 2.950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "PS5",
     "ts": 1779128192
   },
   {
@@ -9901,26 +9919,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "PlayStation 4 Slim (excelente estado)",
     "ts": 1779067724
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:25",
-    "fotoUrl": "https://img.olx.com.br/images/86/867605641101540.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/867605641101540.jpg",
-      "https://img.olx.com.br/images/97/978633520575354.jpg",
-      "https://img.olx.com.br/images/13/139692641925319.jpg",
-      "https://img.olx.com.br/images/23/230668288821024.jpg"
-    ],
-    "id": "1502880268",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-4-1502880268",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2022",
-    "titulo": "Playstation 4",
-    "ts": 1779067525
   }
 ]
