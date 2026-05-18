@@ -1,22 +1,40 @@
 [
   {
-    "id": "1502872536",
-    "titulo": "Xbox One s 1td",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "xbox",
+    "id": "1502872763",
+    "titulo": "jogo ps4",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:37",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "detectado": "21:38",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/xbox-one-s-1td-1502872536",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogo-ps4-1502872763",
+    "fotoUrl": "https://img.olx.com.br/images/82/823647406285967.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/823647406285967.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779064681
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:37",
     "fotoUrl": "https://img.olx.com.br/images/76/768692166390656.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/768692166390656.jpg",
       "https://img.olx.com.br/images/78/780675402140718.jpg",
       "https://img.olx.com.br/images/64/640696284935656.jpg"
     ],
-    "defeito": false,
+    "id": "1502872536",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/xbox-one-s-1td-1502872536",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Xbox One s 1td",
     "ts": 1779064672
   },
   {
@@ -9906,23 +9924,5 @@
     "tempoOlx": "",
     "titulo": "Nintendo switch lite ",
     "ts": 1779029357
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:49",
-    "fotoUrl": "https://img.olx.com.br/images/20/202534450664262.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/202534450664262.jpg"
-    ],
-    "id": "1443445234",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/jogo-nintendo-switch-1443445234",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo Nintendo switch ",
-    "ts": 1779029350
   }
 ]
