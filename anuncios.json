@@ -1,15 +1,28 @@
 [
   {
-    "id": "1502869849",
-    "titulo": "PS3 Super Slim Preço negociável ",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps3",
+    "id": "1502869767",
+    "titulo": "Ps4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:19",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "detectado": "21:20",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-super-slim-preco-negociavel-1502869849",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1502869767",
+    "fotoUrl": "https://img.olx.com.br/images/59/596622766877004.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/596622766877004.jpg",
+      "https://img.olx.com.br/images/60/607665649022932.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779063621
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:19",
     "fotoUrl": "https://img.olx.com.br/images/98/989622167891732.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/989622167891732.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/15/157697526846943.jpg",
       "https://img.olx.com.br/images/16/165664166280342.jpg"
     ],
-    "defeito": false,
+    "id": "1502869849",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-super-slim-preco-negociavel-1502869849",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "PS3 Super Slim Preço negociável ",
     "ts": 1779063591
   },
   {
@@ -9904,28 +9923,5 @@
     "tempoOlx": "",
     "titulo": "Vende-se vídeo game 2.4 wireless tipo Nintendo ",
     "ts": 1779029294
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/79/791639169003361.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/791639169003361.jpg",
-      "https://img.olx.com.br/images/82/828649162565474.jpg",
-      "https://img.olx.com.br/images/84/846601888407471.jpg",
-      "https://img.olx.com.br/images/86/867698529845982.jpg",
-      "https://img.olx.com.br/images/91/914605767361723.jpg",
-      "https://img.olx.com.br/images/92/927694284802590.jpg"
-    ],
-    "id": "1502027157",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/nintendo-switch-dock-original-com-suporte-para-joy-con-1502027157",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Dock original com suporte para Joy-Con",
-    "ts": 1779029286
   }
 ]
