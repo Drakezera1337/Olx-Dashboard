@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502894783",
-    "titulo": "Battlefield 4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1502894482",
+    "titulo": "Jogos PS4 à partir de 35,00 lista na descrição",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:15",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "00:16",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/battlefield-4-1502894783",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-ps4-a-partir-de-35-00-lista-na-descricao-1502894482",
+    "fotoUrl": "https://img.olx.com.br/images/90/902619161202645.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/902619161202645.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779074164
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:15",
     "fotoUrl": "https://img.olx.com.br/images/90/906662881954688.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/906662881954688.jpg"
     ],
-    "defeito": false,
+    "id": "1502894783",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/battlefield-4-1502894783",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Battlefield 4",
     "ts": 1779074154
   },
   {
@@ -9878,25 +9896,5 @@
     "tempoOlx": "",
     "titulo": "Playstation ps4 slim 1.200,00",
     "ts": 1779029974
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:59",
-    "fotoUrl": "https://img.olx.com.br/images/52/524643643783766.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/524643643783766.jpg",
-      "https://img.olx.com.br/images/52/522670287789758.jpg",
-      "https://img.olx.com.br/images/52/525674406551897.jpg"
-    ],
-    "id": "1502747586",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/sonic-mania-plus-playstation-4-ps4-1502747586",
-    "preco": 245,
-    "precoRaw": "R$ 245",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Sonic Mania Plus Playstation 4 - PS4",
-    "ts": 1779029966
   }
 ]
