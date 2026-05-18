@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503089185",
-    "titulo": "Vide game",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "outros",
+    "id": "1503089559",
+    "titulo": "Ps4",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "15:32",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vide-game-1503089185",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-1503089559",
+    "fotoUrl": "https://img.olx.com.br/images/77/779648160523539.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/779648160523539.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779129160
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:32",
     "fotoUrl": "https://img.olx.com.br/images/69/698621161159552.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/698621161159552.jpg",
       "https://img.olx.com.br/images/69/698693643663515.jpg",
       "https://img.olx.com.br/images/76/760679286927574.jpg"
     ],
-    "defeito": false,
+    "id": "1503089185",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vide-game-1503089185",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Vide game",
     "ts": 1779129148
   },
   {
@@ -9900,25 +9918,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "PES 2019 Pley 4",
     "ts": 1779069044
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:50",
-    "fotoUrl": "https://img.olx.com.br/images/86/861602526070346.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/861602526070346.jpg",
-      "https://img.olx.com.br/images/87/875675882698176.jpg",
-      "https://img.olx.com.br/images/88/880644523910039.jpg"
-    ],
-    "id": "1502883425",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-16-ps4-usado-1502883425",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "FIFA 16 PS4 - Usado",
-    "ts": 1779069036
   }
 ]
