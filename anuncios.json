@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503109798",
-    "titulo": "Ps4",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "ps4",
+    "id": "1503109773",
+    "titulo": "FIFA 19",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "16:34",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-1503109798",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-19-1503109773",
+    "fotoUrl": "https://img.olx.com.br/images/94/948679886121146.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/948679886121146.jpg",
+      "https://img.olx.com.br/images/96/968633281627970.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779132873
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:34",
     "fotoUrl": "https://img.olx.com.br/images/53/531665040247863.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/531665040247863.jpg"
     ],
-    "defeito": false,
+    "id": "1503109798",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-1503109798",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps4",
     "ts": 1779132865
   },
   {
@@ -9879,26 +9898,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "PS4 Fat",
     "ts": 1779076941
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:54",
-    "fotoUrl": "https://img.olx.com.br/images/89/898668402443325.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/898668402443325.jpg",
-      "https://img.olx.com.br/images/91/911681766944499.jpg",
-      "https://img.olx.com.br/images/93/932632405374677.jpg",
-      "https://img.olx.com.br/images/94/947668288303827.jpg"
-    ],
-    "id": "1502896749",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-1502896749",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2016",
-    "titulo": "PS3 slim ",
-    "ts": 1779076498
   }
 ]
