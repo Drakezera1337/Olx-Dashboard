@@ -1,21 +1,44 @@
 [
   {
-    "id": "1502973601",
-    "titulo": "Playstation 4 ps4",
-    "preco": 999,
-    "precoRaw": "R$ 999",
+    "id": "1503180407",
+    "titulo": "Pacote de jogos PS4",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:50",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "20:51",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-ps4-1502973601",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/pacote-de-jogos-ps4-1503180407",
+    "fotoUrl": "https://img.olx.com.br/images/33/333627042458137.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/333627042458137.jpg",
+      "https://img.olx.com.br/images/61/611656047650572.jpg",
+      "https://img.olx.com.br/images/64/643607166825272.jpg",
+      "https://img.olx.com.br/images/66/664613521856594.jpg",
+      "https://img.olx.com.br/images/69/697699168764203.jpg",
+      "https://img.olx.com.br/images/72/725678649958675.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779148300
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:50",
     "fotoUrl": "https://img.olx.com.br/images/83/837629289915290.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/837629289915290.jpg",
       "https://img.olx.com.br/images/84/846629406292136.jpg"
     ],
-    "defeito": false,
+    "id": "1502973601",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-ps4-1502973601",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Playstation 4 ps4",
     "ts": 1779148203
   },
   {
@@ -9845,24 +9868,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "dragon age inquisition - playstation 4",
-    "ts": 1779110346
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/51/510412163486110.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/510412163486110.jpg"
-    ],
-    "id": "1306964288",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/hello-neighbor-playstation-4-1306964288",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "hello neighbor - playstation 4",
     "ts": 1779110346
   }
 ]
