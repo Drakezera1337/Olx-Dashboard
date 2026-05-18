@@ -1,22 +1,40 @@
 [
   {
-    "id": "1502883076",
-    "titulo": "Yakuza Kiwami PS4",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps4",
+    "id": "1502884027",
+    "titulo": "Metal Gear ",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "22:50",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "detectado": "22:56",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/yakuza-kiwami-ps4-1502883076",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/metal-gear-1502884027",
+    "fotoUrl": "https://img.olx.com.br/images/27/272639524678246.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/272639524678246.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779069413
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:50",
     "fotoUrl": "https://img.olx.com.br/images/58/584659769933211.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/584659769933211.jpg",
       "https://img.olx.com.br/images/62/622695763410336.jpg",
       "https://img.olx.com.br/images/65/654681884722710.jpg"
     ],
-    "defeito": false,
+    "id": "1502883076",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/yakuza-kiwami-ps4-1502883076",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "Yakuza Kiwami PS4",
     "ts": 1779069053
   },
   {
@@ -9882,24 +9900,5 @@
     "tempoOlx": "",
     "titulo": "CYBERPUNK 2077 - XBOX ONE / SERIES X|S",
     "ts": 1779029646
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:53",
-    "fotoUrl": "https://img.olx.com.br/images/56/567658277132475.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/567658277132475.jpg",
-      "https://img.olx.com.br/images/58/581661156417314.jpg"
-    ],
-    "id": "1493414197",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/gta-trilogy-xbox-one-series-x-1493414197",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "GTA trilogy xbox one/series x",
-    "ts": 1779029633
   }
 ]
