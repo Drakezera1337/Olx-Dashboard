@@ -1,22 +1,44 @@
 [
   {
-    "id": "1502873758",
-    "titulo": "Playstation 4 com 4 jogos",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "categoria": "ps4",
+    "id": "1502875774",
+    "titulo": "IPHONE 13 PRO 128GB",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "21:48",
-    "tempoOlx": "Na OLX desde abril de 2024",
+    "detectado": "21:56",
+    "tempoOlx": "Na OLX desde março de 2017",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-divinopolis/games/jogos-de-video-game/playstation-4-com-4-jogos-1502873758",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1502875774",
+    "fotoUrl": "https://img.olx.com.br/images/30/308647769126404.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/308647769126404.jpg",
+      "https://img.olx.com.br/images/32/329673648934328.jpg",
+      "https://img.olx.com.br/images/33/336681649181690.jpg",
+      "https://img.olx.com.br/images/37/372615887972058.jpg",
+      "https://img.olx.com.br/images/40/404631649544335.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779065815
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:48",
     "fotoUrl": "https://img.olx.com.br/images/43/439647402781308.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/439647402781308.jpg",
       "https://img.olx.com.br/images/49/499606042731929.jpg",
       "https://img.olx.com.br/images/51/513644520741674.jpg"
     ],
-    "defeito": false,
+    "id": "1502873758",
+    "link": "https://mg.olx.com.br/regiao-de-divinopolis/games/jogos-de-video-game/playstation-4-com-4-jogos-1502873758",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2024",
+    "titulo": "Playstation 4 com 4 jogos",
     "ts": 1779065318
   },
   {
@@ -9896,25 +9918,5 @@
     "tempoOlx": "",
     "titulo": "Mega Froslass EX - Coleção, Heróis Excelsos",
     "ts": 1779029419
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:50",
-    "fotoUrl": "https://img.olx.com.br/images/30/304694767098913.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/304694767098913.jpg",
-      "https://img.olx.com.br/images/31/319620649047642.jpg",
-      "https://img.olx.com.br/images/32/328643527239825.jpg"
-    ],
-    "id": "1502556967",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/goku-vegeta-kid-dragon-ball-daima-sh-figuarts-1502556967",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Goku + Vegeta Kid Dragon Ball Daima SH Figuarts ",
-    "ts": 1779029412
   }
 ]
