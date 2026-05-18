@@ -1,22 +1,40 @@
 [
   {
-    "id": "1493838261",
-    "titulo": "Jogos de ps4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps4",
+    "id": "1502884591",
+    "titulo": "MediéviL",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "23:03",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogos-de-ps4-1493838261",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/medievil-1502884591",
+    "fotoUrl": "https://img.olx.com.br/images/38/389636167906798.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/389636167906798.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779069828
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:03",
     "fotoUrl": "https://img.olx.com.br/images/79/798621033546956.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/798621033546956.jpg",
       "https://img.olx.com.br/images/80/806685274286785.jpg",
       "https://img.olx.com.br/images/81/815688154063348.jpg"
     ],
-    "defeito": false,
+    "id": "1493838261",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogos-de-ps4-1493838261",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "Jogos de ps4",
     "ts": 1779069820
   },
   {
@@ -9884,25 +9902,5 @@
     "tempoOlx": "",
     "titulo": "Super Oferta PS4: Leve 2 Clássicos por um Preço Incrível! ?",
     "ts": 1779029683
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:54",
-    "fotoUrl": "https://img.olx.com.br/images/26/267521103217288.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/267521103217288.jpg",
-      "https://img.olx.com.br/images/39/393556345018822.jpg",
-      "https://img.olx.com.br/images/52/526556340351140.jpg"
-    ],
-    "id": "1450373575",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/trilogia-classica-de-assassin-s-creed-saga-ezio-para-ps3-1450373575",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Trilogia Clássica de Assassin's Creed (Saga Ezio) para PS3",
-    "ts": 1779029676
   }
 ]
