@@ -1,15 +1,32 @@
 [
   {
-    "id": "1476088277",
-    "titulo": "Jogos ps4 ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1476087665",
+    "titulo": "Jogos ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:55",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-ps4-1476088277",
+    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-ps4-1476087665",
+    "fotoUrl": "https://img.olx.com.br/images/79/797662852827164.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/797662852827164.jpg",
+      "https://img.olx.com.br/images/81/818668735019931.jpg",
+      "https://img.olx.com.br/images/82/821696730498846.jpg",
+      "https://img.olx.com.br/images/83/839610730955637.jpg",
+      "https://img.olx.com.br/images/85/853676493885144.jpg",
+      "https://img.olx.com.br/images/86/864697139827743.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108936
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:55",
     "fotoUrl": "https://img.olx.com.br/images/72/728604377683457.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/728604377683457.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/77/774684254325074.jpg",
       "https://img.olx.com.br/images/65/650687139257307.jpg"
     ],
-    "defeito": false,
+    "id": "1476088277",
+    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-ps4-1476088277",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Jogos ps4 ",
     "ts": 1779108926
   },
   {
@@ -9863,26 +9886,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Nintendo Dsi Rosa Seminovo",
-    "ts": 1779030636
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:10",
-    "fotoUrl": "https://img.olx.com.br/images/14/148650160972867.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/148650160972867.jpg",
-      "https://img.olx.com.br/images/14/148647769572024.jpg",
-      "https://img.olx.com.br/images/14/141620766915410.jpg"
-    ],
-    "id": "1499549592",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-oled-acessorios-1499549592",
-    "preco": 549,
-    "precoRaw": "R$ 549",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Oled ACESSÓRIOS ",
     "ts": 1779030636
   }
 ]
