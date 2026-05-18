@@ -1,21 +1,44 @@
 [
   {
-    "id": "1503102425",
-    "titulo": "PLAYSTATION 3 SLIM COM DEFEITO DA 2 BIPS E DESLIGA ",
-    "preco": 280,
-    "precoRaw": "R$ 280",
-    "categoria": "ps3",
+    "id": "1503103462",
+    "titulo": "Ps4 pro ",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:10",
-    "tempoOlx": "Na OLX desde maio de 2013",
+    "detectado": "16:11",
+    "tempoOlx": "Na OLX desde março de 2023",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-3-slim-com-defeito-da-2-bips-e-desliga-1503102425",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps4-pro-1503103462",
+    "fotoUrl": "https://img.olx.com.br/images/74/745623766803747.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/745623766803747.jpg",
+      "https://img.olx.com.br/images/77/771683161878346.jpg",
+      "https://img.olx.com.br/images/79/793680640136393.jpg",
+      "https://img.olx.com.br/images/81/816686527168182.jpg",
+      "https://img.olx.com.br/images/83/836639883339005.jpg",
+      "https://img.olx.com.br/images/85/858690169542833.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779131460
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:10",
     "fotoUrl": "https://img.olx.com.br/images/61/612671765748388.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/612671765748388.jpg",
       "https://img.olx.com.br/images/62/624626526732423.jpg"
     ],
-    "defeito": false,
+    "id": "1503102425",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-3-slim-com-defeito-da-2-bips-e-desliga-1503102425",
+    "preco": 280,
+    "precoRaw": "R$ 280",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2013",
+    "titulo": "PLAYSTATION 3 SLIM COM DEFEITO DA 2 BIPS E DESLIGA ",
     "ts": 1779131425
   },
   {
@@ -9885,24 +9908,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Jogos de ps4",
     "ts": 1779073439
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:59",
-    "fotoUrl": "https://img.olx.com.br/images/28/280616406016643.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/280616406016643.jpg",
-      "https://img.olx.com.br/images/31/316642521760448.jpg"
-    ],
-    "id": "1502892907",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-series-s-1502892907",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "XBOX SERIES S",
-    "ts": 1779073163
   }
 ]
