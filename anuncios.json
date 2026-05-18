@@ -1,15 +1,28 @@
 [
   {
-    "id": "1502983638",
-    "titulo": "Lote jogos reservado cliente André ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "outros",
+    "id": "1502983629",
+    "titulo": "Jogos de PS4 ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:02",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "detectado": "10:03",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-jogos-reservado-cliente-andre-1502983638",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-de-ps4-1502983629",
+    "fotoUrl": "https://img.olx.com.br/images/12/128651524695204.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/128651524695204.jpg",
+      "https://img.olx.com.br/images/14/140675160139723.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779109388
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:02",
     "fotoUrl": "https://img.olx.com.br/images/36/364636286004117.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/364636286004117.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/39/392601764652840.jpg",
       "https://img.olx.com.br/images/41/416680766186591.jpg"
     ],
-    "defeito": false,
+    "id": "1502983638",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-jogos-reservado-cliente-andre-1502983638",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "Lote jogos reservado cliente André ",
     "ts": 1779109379
   },
   {
@@ -9870,24 +9889,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "2 Pares Borracha Premio Grip Analógico Ps Vita  Slim 2000",
-    "ts": 1779030700
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:11",
-    "fotoUrl": "https://img.olx.com.br/images/63/630645640185393.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/630645640185393.jpg"
-    ],
-    "id": "1500975379",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/1-unidade-protetor-de-tela-de-vidro-para-retroid-pocket-5-1500975379",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "1 Unidade Protetor De Tela De Vidro Para Retroid Pocket 5",
     "ts": 1779030700
   }
 ]
