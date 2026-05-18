@@ -1,20 +1,41 @@
 [
   {
-    "id": "1502893521",
-    "titulo": "Jogos de ps4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "ps4",
+    "id": "1502891074",
+    "titulo": "PSVITA Fat",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "00:03",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "detectado": "00:07",
+    "tempoOlx": "Na OLX desde junho de 2023",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-de-ps4-1502893521",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/psvita-fat-1502891074",
+    "fotoUrl": "https://img.olx.com.br/images/23/230631409896324.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/230631409896324.jpg",
+      "https://img.olx.com.br/images/10/100678045037478.jpg",
+      "https://img.olx.com.br/images/11/112673286219741.jpg",
+      "https://img.olx.com.br/images/10/101649762102227.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779073674
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:03",
     "fotoUrl": "https://img.olx.com.br/images/23/236632641083528.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/236632641083528.jpg"
     ],
-    "defeito": false,
+    "id": "1502893521",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-de-ps4-1502893521",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Jogos de ps4",
     "ts": 1779073439
   },
   {
@@ -9877,23 +9898,5 @@
     "tempoOlx": "",
     "titulo": "Jogos Playstation 4 / PS4",
     "ts": 1779029893
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:58",
-    "fotoUrl": "https://img.olx.com.br/images/35/351609520458120.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/351609520458120.jpg"
-    ],
-    "id": "1501558010",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/hot-wheels-honda-civic-si-escala-1-87-1501558010",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Hot wheels Honda civic si escala 1:87 ",
-    "ts": 1779029886
   }
 ]
