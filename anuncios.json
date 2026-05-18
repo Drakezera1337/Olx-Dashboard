@@ -1,20 +1,39 @@
 [
   {
-    "id": "1502895350",
-    "titulo": "Uncharted 4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1502762776",
+    "titulo": "Vendo PS4 SLIM de 1 tera com jogos ",
+    "preco": 990,
+    "precoRaw": "R$ 990",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:28",
+    "detectado": "00:31",
     "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/uncharted-4-1502895350",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-ps4-slim-de-1-tera-com-jogos-1502762776",
+    "fotoUrl": "https://img.olx.com.br/images/87/875619762004088.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/875619762004088.jpg",
+      "https://img.olx.com.br/images/88/883688888362672.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779075113
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:28",
     "fotoUrl": "https://img.olx.com.br/images/80/804665525194556.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/804665525194556.jpg"
     ],
-    "defeito": false,
+    "id": "1502895350",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/uncharted-4-1502895350",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Uncharted 4",
     "ts": 1779074904
   },
   {
@@ -9871,25 +9890,5 @@
     "tempoOlx": "",
     "titulo": "Bloodborne - Completo - Original - PS4",
     "ts": 1779030036
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:00",
-    "fotoUrl": "https://img.olx.com.br/images/86/860574456520340.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/860574456520340.jpg",
-      "https://img.olx.com.br/images/85/856563579261412.jpg",
-      "https://img.olx.com.br/images/85/850510331541893.jpg"
-    ],
-    "id": "1444203156",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/digimon-story-cyber-sleuth-hackers-memory-completo-original-ps4-1444203156",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Digimon Story Cyber Sleuth Hackers Memory - Completo - Original - PS4",
-    "ts": 1779030028
   }
 ]
