@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503154875",
-    "titulo": "Controle ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1503152316",
+    "titulo": "Nintendo Switch Lite Desbloqueado 256gb",
+    "preco": 1299,
+    "precoRaw": "R$ 1.299",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "19:06",
-    "tempoOlx": "Na OLX desde julho de 2025",
+    "tempoOlx": "Na OLX desde agosto de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps4-1503154875",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/nintendo-switch-lite-desbloqueado-256gb-1503152316",
+    "fotoUrl": "https://img.olx.com.br/images/29/299693045141752.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/299693045141752.jpg",
+      "https://img.olx.com.br/images/29/293696283911848.jpg",
+      "https://img.olx.com.br/images/29/295686520515522.jpg",
+      "https://img.olx.com.br/images/29/296630760968485.jpg",
+      "https://img.olx.com.br/images/29/299688647356935.jpg",
+      "https://img.olx.com.br/images/29/293635768310543.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779141966
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:06",
     "fotoUrl": "https://img.olx.com.br/images/21/218640764671942.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/218640764671942.jpg",
       "https://img.olx.com.br/images/23/238606167359569.jpg",
       "https://img.olx.com.br/images/25/255603522810274.jpg"
     ],
-    "defeito": false,
+    "id": "1503154875",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps4-1503154875",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "titulo": "Controle ps4",
     "ts": 1779141960
   },
   {
@@ -9878,23 +9901,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation Portal + Case! Super novo!",
     "ts": 1779110168
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:16",
-    "fotoUrl": "https://img.olx.com.br/images/43/435647272110219.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/435647272110219.jpg"
-    ],
-    "id": "1496822601",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-1496822601",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "IPHONE 15 PRO MAX 256 ",
-    "ts": 1779110163
   }
 ]
