@@ -1,20 +1,38 @@
 [
   {
-    "id": "1501258426",
-    "titulo": "Jogos PS4 / PS5",
-    "preco": 3325,
-    "precoRaw": "R$ 3.325",
+    "id": "1502880040",
+    "titulo": "Jogos de ps4 e ps5",
+    "preco": 400,
+    "precoRaw": "R$ 400",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "22:17",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "22:21",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/jogos-ps4-ps5-1501258426",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1502880040",
+    "fotoUrl": "https://img.olx.com.br/images/48/488686401864802.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/488686401864802.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779067312
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:17",
     "fotoUrl": "https://img.olx.com.br/images/15/152632160618883.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/152632160618883.jpg"
     ],
-    "defeito": false,
+    "id": "1501258426",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/jogos-ps4-ps5-1501258426",
+    "preco": 3325,
+    "precoRaw": "R$ 3.325",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Jogos PS4 / PS5",
     "ts": 1779067020
   },
   {
@@ -9891,23 +9909,5 @@
     "tempoOlx": "",
     "titulo": "Controle sem fio usb dongle 2.4hz estilo Snes Super Famicom",
     "ts": 1779029503
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:51",
-    "fotoUrl": "https://img.olx.com.br/images/47/474605167022439.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/474605167022439.jpg"
-    ],
-    "id": "1502701756",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-8bitdo-m30-2-4g-sem-fio-usb-dongle-original-1502701756",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Controle 8bitdo M30 2.4g sem fio usb dongle original",
-    "ts": 1779029496
   }
 ]
