@@ -1,15 +1,28 @@
 [
   {
-    "id": "1502896749",
-    "titulo": "PS3 slim ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1493488953",
+    "titulo": "PS4 Fat",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:54",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "detectado": "01:02",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-1502896749",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-1493488953",
+    "fotoUrl": "https://img.olx.com.br/images/69/695648157856249.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/695648157856249.jpg",
+      "https://img.olx.com.br/images/71/711608633574899.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779076941
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:54",
     "fotoUrl": "https://img.olx.com.br/images/89/898668402443325.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/898668402443325.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/93/932632405374677.jpg",
       "https://img.olx.com.br/images/94/947668288303827.jpg"
     ],
-    "defeito": false,
+    "id": "1502896749",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-1502896749",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "PS3 slim ",
     "ts": 1779076498
   },
   {
@@ -9862,23 +9881,5 @@
     "tempoOlx": "",
     "titulo": "Madden 2020  NFL  / Mídia Física ",
     "ts": 1779030115
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:01",
-    "fotoUrl": "https://img.olx.com.br/images/70/701668529182288.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/701668529182288.jpg"
-    ],
-    "id": "1502544730",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-1502544730",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogos PS4",
-    "ts": 1779030107
   }
 ]
