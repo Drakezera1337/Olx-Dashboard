@@ -1,22 +1,45 @@
 [
   {
-    "id": "1502891625",
-    "titulo": "Lote jogos ps4 ",
-    "preco": 2299,
-    "precoRaw": "R$ 2.299",
-    "categoria": "ps4",
+    "id": "1502891989",
+    "titulo": "Vídeo game tv",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "23:45",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "23:47",
+    "tempoOlx": "Na OLX desde março de 2025",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/lote-jogos-ps4-1502891625",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/video-game-tv-1502891989",
+    "fotoUrl": "https://img.olx.com.br/images/25/256630649178632.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/256630649178632.jpg",
+      "https://img.olx.com.br/images/26/263671167416032.jpg",
+      "https://img.olx.com.br/images/29/297636407604401.jpg",
+      "https://img.olx.com.br/images/30/304602526088618.jpg",
+      "https://img.olx.com.br/images/31/313650520552815.jpg",
+      "https://img.olx.com.br/images/33/333682524012992.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779072443
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:45",
     "fotoUrl": "https://img.olx.com.br/images/47/473676523021040.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/473676523021040.jpg",
       "https://img.olx.com.br/images/48/483680281388202.jpg",
       "https://img.olx.com.br/images/49/496618767312567.jpg"
     ],
-    "defeito": false,
+    "id": "1502891625",
+    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/lote-jogos-ps4-1502891625",
+    "preco": 2299,
+    "precoRaw": "R$ 2.299",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Lote jogos ps4 ",
     "ts": 1779072354
   },
   {
@@ -9881,23 +9904,5 @@
     "tempoOlx": "",
     "titulo": "Bicicleta elétrica",
     "ts": 1779029843
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:57",
-    "fotoUrl": "https://img.olx.com.br/images/35/352684167418674.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/352684167418674.jpg"
-    ],
-    "id": "1501849381",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-gamesir-1501849381",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Controle gamesir ",
-    "ts": 1779029835
   }
 ]
