@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503116394",
-    "titulo": "Playstation 4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
+    "id": "1501248512",
+    "titulo": "Playstation 4 slim 500GB (Baixou para Vende logo)",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:58",
+    "detectado": "16:59",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-4-1503116394",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/playstation-4-slim-500gb-baixou-para-vende-logo-1501248512",
+    "fotoUrl": "https://img.olx.com.br/images/39/397692888642206.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/397692888642206.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779134372
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:58",
     "fotoUrl": "https://img.olx.com.br/images/30/301697285803989.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/301697285803989.jpg",
       "https://img.olx.com.br/images/32/321655649058510.jpg",
       "https://img.olx.com.br/images/39/397627528921823.jpg"
     ],
-    "defeito": false,
+    "id": "1503116394",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-4-1503116394",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Playstation 4",
     "ts": 1779134302
   },
   {
@@ -9881,23 +9899,5 @@
     "tempoOlx": "Na OLX desde setembro de 2020",
     "titulo": "Ether One Ps4 seminovo Playstation 4 ",
     "ts": 1779108398
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:46",
-    "fotoUrl": "https://img.olx.com.br/images/47/473624763141999.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/473624763141999.jpg"
-    ],
-    "id": "1502944753",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps-portal-30-anos-1502944753",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2014",
-    "titulo": "Ps portal 30 anos ",
-    "ts": 1779108390
   }
 ]
