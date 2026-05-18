@@ -1,21 +1,39 @@
 [
   {
-    "id": "1480200044",
-    "titulo": "PS5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1503181214",
+    "titulo": "Barbada ",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:53",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "tempoOlx": "Na OLX desde junho de 2017",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-1480200044",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/barbada-1503181214",
+    "fotoUrl": "https://img.olx.com.br/images/94/946683886654194.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/946683886654194.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779148420
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:53",
     "fotoUrl": "https://img.olx.com.br/images/29/298691374170577.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/298691374170577.jpg",
       "https://img.olx.com.br/images/30/300690497556619.jpg"
     ],
-    "defeito": false,
+    "id": "1480200044",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-1480200044",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "titulo": "PS5",
     "ts": 1779148409
   },
   {
@@ -9851,24 +9869,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS4 Fat 1TB + 1 Controle + 3 Jogos",
-    "ts": 1779110346
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/26/266454764927136.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/266454764927136.jpg"
-    ],
-    "id": "1305587994",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/medievil-playstation-4-1305587994",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "medievil - playstation 4",
     "ts": 1779110346
   }
 ]
