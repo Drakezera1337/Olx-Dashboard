@@ -1,21 +1,39 @@
 [
   {
-    "id": "1502892907",
-    "titulo": "XBOX SERIES S",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1502893521",
+    "titulo": "Jogos de ps4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:59",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "00:03",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-series-s-1502892907",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-de-ps4-1502893521",
+    "fotoUrl": "https://img.olx.com.br/images/23/236632641083528.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/236632641083528.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779073439
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:59",
     "fotoUrl": "https://img.olx.com.br/images/28/280616406016643.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/280616406016643.jpg",
       "https://img.olx.com.br/images/31/316642521760448.jpg"
     ],
-    "defeito": false,
+    "id": "1502892907",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-series-s-1502892907",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "XBOX SERIES S",
     "ts": 1779073163
   },
   {
@@ -9877,24 +9895,5 @@
     "tempoOlx": "",
     "titulo": "Hot wheels Honda civic si escala 1:87 ",
     "ts": 1779029886
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:57",
-    "fotoUrl": "https://img.olx.com.br/images/60/609618646133215.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/609618646133215.jpg",
-      "https://img.olx.com.br/images/62/620653640740680.jpg"
-    ],
-    "id": "1502599859",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-all-digital-1502599859",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One All Digital",
-    "ts": 1779029876
   }
 ]
