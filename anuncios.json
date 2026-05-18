@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503131632",
-    "titulo": "Lote de jogo ps4",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "ps4",
+    "id": "1503131343",
+    "titulo": "Uncharted The Nathan Drake Collection",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "17:53",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/lote-de-jogo-ps4-1503131632",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/uncharted-the-nathan-drake-collection-1503131343",
+    "fotoUrl": "https://img.olx.com.br/images/66/666654769914693.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/666654769914693.jpg",
+      "https://img.olx.com.br/images/68/680621281996071.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779137629
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:53",
     "fotoUrl": "https://img.olx.com.br/images/51/511624400614892.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/511624400614892.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/54/540607280005536.jpg",
       "https://img.olx.com.br/images/57/576661644096332.jpg"
     ],
-    "defeito": false,
+    "id": "1503131632",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/lote-de-jogo-ps4-1503131632",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "Lote de jogo ps4",
     "ts": 1779137618
   },
   {
@@ -9884,24 +9903,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Jogo Ps4 Hás Been Heroes",
     "ts": 1779108915
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:55",
-    "fotoUrl": "https://img.olx.com.br/images/23/234571824323112.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/234571824323112.jpg",
-      "https://img.olx.com.br/images/25/254520226931573.jpg"
-    ],
-    "id": "1450801579",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-lego-jurassic-world-1450801579",
-    "preco": 129,
-    "precoRaw": "R$ 129",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Jogo Ps4 Lego Jurassic World",
-    "ts": 1779108907
   }
 ]
