@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503120836",
-    "titulo": "Playstation 3 com defeito",
-    "preco": 410,
-    "precoRaw": "R$ 410",
-    "categoria": "ps3",
+    "id": "1503123074",
+    "titulo": "Ether one ps4 mídia física ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:14",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "detectado": "17:17",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-3-com-defeito-1503120836",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/ether-one-ps4-midia-fisica-1503123074",
+    "fotoUrl": "https://img.olx.com.br/images/27/275689404673343.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/275689404673343.jpg",
+      "https://img.olx.com.br/images/29/292663403604964.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779135423
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:14",
     "fotoUrl": "https://img.olx.com.br/images/11/114664760493417.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/114664760493417.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/17/171630163384698.jpg",
       "https://img.olx.com.br/images/19/197663884294593.jpg"
     ],
-    "defeito": false,
+    "id": "1503120836",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-3-com-defeito-1503120836",
+    "preco": 410,
+    "precoRaw": "R$ 410",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "Playstation 3 com defeito",
     "ts": 1779135253
   },
   {
@@ -9868,23 +9887,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Jogo Ps4 Red Dead Redemption 2",
     "ts": 1779108610
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:50",
-    "fotoUrl": "https://img.olx.com.br/images/80/806657165245651.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/806657165245651.jpg"
-    ],
-    "id": "1502977992",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/pes-2018-midia-fisica-para-ps4-1502977992",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Pes 2018 mídia física para ps4",
-    "ts": 1779108602
   }
 ]
