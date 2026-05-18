@@ -1,22 +1,40 @@
 [
   {
-    "id": "1502884842",
-    "titulo": "Vendo PS3 ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1502885309",
+    "titulo": "Gran turismo",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "23:00",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "detectado": "23:03",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vendo-ps3-1502884842",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/gran-turismo-1502885309",
+    "fotoUrl": "https://img.olx.com.br/images/39/395610760374841.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/395610760374841.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779069801
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:00",
     "fotoUrl": "https://img.olx.com.br/images/55/553612405781013.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/553612405781013.jpg",
       "https://img.olx.com.br/images/56/568670523294512.jpg",
       "https://img.olx.com.br/images/57/575678880177090.jpg"
     ],
-    "defeito": false,
+    "id": "1502884842",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vendo-ps3-1502884842",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "Vendo PS3 ",
     "ts": 1779069620
   },
   {
@@ -9884,23 +9902,5 @@
     "tempoOlx": "",
     "titulo": "Pro Controller Nintendo Switch Original",
     "ts": 1779029661
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:54",
-    "fotoUrl": "https://img.olx.com.br/images/87/871693149707840.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/871693149707840.jpg"
-    ],
-    "id": "1490158438",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/metal-gear-solid-v-the-phantom-pain-1490158438",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "METAL GEAR SOLID V: THE PHANTOM PAIN",
-    "ts": 1779029654
   }
 ]
