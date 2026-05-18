@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502870658",
-    "titulo": "PS4 Slim 500gb 2 controles 5 jogos ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1502870447",
+    "titulo": "jogo original PS4 cyberpunk 2077",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:26",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "21:27",
+    "tempoOlx": "Na OLX desde novembro de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-500gb-2-controles-5-jogos-1502870658",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogo-original-ps4-cyberpunk-2077-1502870447",
+    "fotoUrl": "https://img.olx.com.br/images/89/895624647450287.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/895624647450287.jpg",
+      "https://img.olx.com.br/images/84/840691880788731.jpg",
+      "https://img.olx.com.br/images/84/843608645475281.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779064027
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:26",
     "fotoUrl": "https://img.olx.com.br/images/33/332657529551855.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/332657529551855.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/41/413697400204573.jpg",
       "https://img.olx.com.br/images/43/434639766601115.jpg"
     ],
-    "defeito": false,
+    "id": "1502870658",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-500gb-2-controles-5-jogos-1502870658",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "PS4 Slim 500gb 2 controles 5 jogos ",
     "ts": 1779064018
   },
   {
@@ -9902,27 +9922,5 @@
     "tempoOlx": "",
     "titulo": "Dock mini tv retrô Nintendo Switch 2",
     "ts": 1779029317
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/33/336623272557202.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/336623272557202.jpg",
-      "https://img.olx.com.br/images/34/344698032611019.jpg",
-      "https://img.olx.com.br/images/36/368658877550974.jpg",
-      "https://img.olx.com.br/images/37/370689514518266.jpg",
-      "https://img.olx.com.br/images/38/380678036736704.jpg"
-    ],
-    "id": "1493303825",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/videogame-nintendo-switch-lite-32gb-funcionando-perfeitamente-1493303825",
-    "preco": 879,
-    "precoRaw": "R$ 879",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Videogame Nintendo switch lite 32gb Funcionando perfeitamente ",
-    "ts": 1779029310
   }
 ]
