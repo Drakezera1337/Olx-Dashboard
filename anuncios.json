@@ -1,22 +1,42 @@
 [
   {
-    "id": "1503124412",
-    "titulo": "iPhone 13- Azul 128 gigas/80% saúde de bateria ",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "categoria": "iphone",
+    "id": "1502999518",
+    "titulo": "Ps4 Fat 500gb + 1 controle",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:25",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "detectado": "17:27",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-azul-128-gigas-80-saude-de-bateria-1503124412",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1-controle-1502999518",
+    "fotoUrl": "https://img.olx.com.br/images/97/975672407353056.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/975672407353056.jpg",
+      "https://img.olx.com.br/images/98/982654648877069.jpg",
+      "https://img.olx.com.br/images/11/113683649215445.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779136048
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:25",
     "fotoUrl": "https://img.olx.com.br/images/90/909666408165021.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/909666408165021.jpg",
       "https://img.olx.com.br/images/91/914634766837545.jpg",
       "https://img.olx.com.br/images/93/938622409404043.jpg"
     ],
-    "defeito": false,
+    "id": "1503124412",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-azul-128-gigas-80-saude-de-bateria-1503124412",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "iPhone 13- Azul 128 gigas/80% saúde de bateria ",
     "ts": 1779135936
   },
   {
@@ -9871,25 +9891,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "2 jogos de Ps4",
     "ts": 1779108707
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:51",
-    "fotoUrl": "https://img.olx.com.br/images/48/485649741323087.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/485649741323087.jpg",
-      "https://img.olx.com.br/images/28/286624148845780.jpg",
-      "https://img.olx.com.br/images/28/288670504481185.jpg"
-    ],
-    "id": "1486529372",
-    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/jogos-de-ps4-destiny-e-horizon-zero-dawn-1486529372",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2021",
-    "titulo": "Jogos de ps4 Destiny e Horizon zero dawn",
-    "ts": 1779108699
   }
 ]
