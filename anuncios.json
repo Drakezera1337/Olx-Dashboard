@@ -1,21 +1,42 @@
 [
   {
-    "id": "1502869767",
-    "titulo": "Ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1502869284",
+    "titulo": "Jogos PS3 mídia fisica ",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "21:20",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1502869767",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogos-ps3-midia-fisica-1502869284",
+    "fotoUrl": "https://img.olx.com.br/images/47/476644766782285.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/476644766782285.jpg",
+      "https://img.olx.com.br/images/49/495661525475932.jpg",
+      "https://img.olx.com.br/images/50/508661643102036.jpg",
+      "https://img.olx.com.br/images/56/567622283185474.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779063652
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:20",
     "fotoUrl": "https://img.olx.com.br/images/59/596622766877004.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/596622766877004.jpg",
       "https://img.olx.com.br/images/60/607665649022932.jpg"
     ],
-    "defeito": false,
+    "id": "1502869767",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1502869767",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "Ps4",
     "ts": 1779063621
   },
   {
@@ -9900,28 +9921,5 @@
     "tempoOlx": "",
     "titulo": "Dock+carregador Nintendo switch ",
     "ts": 1779029303
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/66/660637161161898.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/660637161161898.jpg",
-      "https://img.olx.com.br/images/68/687621289669528.jpg",
-      "https://img.olx.com.br/images/69/698626280859540.jpg",
-      "https://img.olx.com.br/images/71/718602641278473.jpg",
-      "https://img.olx.com.br/images/72/726651763807310.jpg",
-      "https://img.olx.com.br/images/74/748640647722052.jpg"
-    ],
-    "id": "1502004556",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/vende-se-video-game-2-4-wireless-tipo-nintendo-1502004556",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vende-se vídeo game 2.4 wireless tipo Nintendo ",
-    "ts": 1779029294
   }
 ]
