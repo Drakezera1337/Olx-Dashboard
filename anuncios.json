@@ -1,21 +1,60 @@
 [
   {
-    "id": "1502978238",
-    "titulo": "iPhone 15 pro Max",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
-    "categoria": "iphone",
+    "id": "1502945072",
+    "titulo": "Ps5 digital usado ",
+    "preco": 2450,
+    "precoRaw": "R$ 2.450",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "09:46",
-    "tempoOlx": "Na OLX desde abril de 2019",
+    "tempoOlx": "Na OLX desde junho de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1502978238",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-digital-usado-1502945072",
+    "fotoUrl": "https://img.olx.com.br/images/93/930653526524578.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/930653526524578.jpg",
+      "https://img.olx.com.br/images/95/959620288362410.jpg",
+      "https://img.olx.com.br/images/96/969682886226626.jpg",
+      "https://img.olx.com.br/images/98/981617163140060.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108382
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:46",
+    "fotoUrl": "https://img.olx.com.br/images/51/510683168125866.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/510683168125866.jpg"
+    ],
+    "id": "1502964758",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps5-1502964758",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "PS5 ",
+    "ts": 1779108375
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:46",
     "fotoUrl": "https://img.olx.com.br/images/55/557662764195778.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/557662764195778.jpg",
       "https://img.olx.com.br/images/58/587657642812772.jpg"
     ],
-    "defeito": false,
+    "id": "1502978238",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1502978238",
+    "preco": 4000,
+    "precoRaw": "R$ 4.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "iPhone 15 pro Max",
     "ts": 1779108373
   },
   {
@@ -9853,46 +9892,5 @@
     "tempoOlx": "",
     "titulo": "PS4",
     "ts": 1779030230
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:03",
-    "fotoUrl": "https://img.olx.com.br/images/38/382622163465723.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/382622163465723.jpg",
-      "https://img.olx.com.br/images/40/407668160645786.jpg",
-      "https://img.olx.com.br/images/42/425622283700151.jpg",
-      "https://img.olx.com.br/images/43/439628525659693.jpg",
-      "https://img.olx.com.br/images/44/447645646448630.jpg"
-    ],
-    "id": "1502736168",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/hello-neighbor-ps4-1502736168",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Hello Neighbor - Ps4",
-    "ts": 1779030222
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:03",
-    "fotoUrl": "https://img.olx.com.br/images/91/919653762567662.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/919653762567662.jpg",
-      "https://img.olx.com.br/images/37/377643167001942.jpg"
-    ],
-    "id": "1502736265",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/24-games-ps3-e-ps4-1502736265",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "24 Games PS3 e PS4",
-    "ts": 1779030212
   }
 ]
