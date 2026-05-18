@@ -1,20 +1,41 @@
 [
   {
-    "id": "1503045750",
-    "titulo": "Jogos PS4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1494868824",
+    "titulo": "SPIDER MAN (HOMEM ARANHA) ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:47",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "detectado": "12:48",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/jogos-ps4-1503045750",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/spider-man-homem-aranha-1494868824",
+    "fotoUrl": "https://img.olx.com.br/images/62/620634159021376.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/620634159021376.jpg",
+      "https://img.olx.com.br/images/63/637666879008846.jpg",
+      "https://img.olx.com.br/images/64/646601396434672.jpg",
+      "https://img.olx.com.br/images/65/655615750570648.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779119280
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:47",
     "fotoUrl": "https://img.olx.com.br/images/88/886689166947168.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/886689166947168.jpg"
     ],
-    "defeito": false,
+    "id": "1503045750",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/jogos-ps4-1503045750",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "Jogos PS4",
     "ts": 1779119271
   },
   {
@@ -9890,24 +9911,5 @@
     "tempoOlx": "",
     "titulo": "Xbox Series S 512GB Semi Novo | Muito Conservado, preço negociável.",
     "ts": 1779055408
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:03",
-    "fotoUrl": "https://img.olx.com.br/images/77/775644409769166.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/775644409769166.jpg",
-      "https://img.olx.com.br/images/79/796694764896188.jpg"
-    ],
-    "id": "1502809825",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-1502809825",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14 Pro",
-    "ts": 1779055390
   }
 ]
