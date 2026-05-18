@@ -1,22 +1,42 @@
 [
   {
-    "id": "1466333933",
-    "titulo": "Jogo Uncharted 4 - PS4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1466334312",
+    "titulo": "Jogo The Crew - PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:25",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogo-uncharted-4-ps4-1466333933",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogo-the-crew-ps4-1466334312",
+    "fotoUrl": "https://img.olx.com.br/images/96/964628607945510.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/964628607945510.jpg",
+      "https://img.olx.com.br/images/98/987626848066489.jpg",
+      "https://img.olx.com.br/images/10/106614609707086.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779110734
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:25",
     "fotoUrl": "https://img.olx.com.br/images/23/238620126484486.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/238620126484486.jpg",
       "https://img.olx.com.br/images/25/250619489208446.jpg",
       "https://img.olx.com.br/images/27/278624487246460.jpg"
     ],
-    "defeito": false,
+    "id": "1466333933",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogo-uncharted-4-ps4-1466333933",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Jogo Uncharted 4 - PS4",
     "ts": 1779110726
   },
   {
@@ -9918,28 +9938,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "Jogos PS4 ",
     "ts": 1779037406
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:58",
-    "fotoUrl": "https://img.olx.com.br/images/77/773613525961575.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/773613525961575.jpg",
-      "https://img.olx.com.br/images/78/780609163909961.jpg",
-      "https://img.olx.com.br/images/80/805638646203711.jpg",
-      "https://img.olx.com.br/images/81/817631166177211.jpg",
-      "https://img.olx.com.br/images/83/835686408843455.jpg",
-      "https://img.olx.com.br/images/84/848647880788487.jpg"
-    ],
-    "id": "1502782282",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-64gb-1502782282",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2016",
-    "titulo": "IPhone 11 Pro 64Gb",
-    "ts": 1779037108
   }
 ]
