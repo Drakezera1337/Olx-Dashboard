@@ -1,15 +1,28 @@
 [
   {
-    "id": "1498749724",
-    "titulo": "PS3 Super Slim - 500GB na caixa",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "ps3",
+    "id": "1502976788",
+    "titulo": "XBOX SÉRIES S 512gb",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "09:47",
-    "tempoOlx": "Na OLX desde outubro de 2014",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-super-slim-500gb-na-caixa-1498749724",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/xbox-series-s-512gb-1502976788",
+    "fotoUrl": "https://img.olx.com.br/images/46/466663526058983.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/466663526058983.jpg",
+      "https://img.olx.com.br/images/46/463696761347740.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108449
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:47",
     "fotoUrl": "https://img.olx.com.br/images/59/593660048657445.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/593660048657445.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/62/629684169226884.jpg",
       "https://img.olx.com.br/images/63/630617160969799.jpg"
     ],
-    "defeito": false,
+    "id": "1498749724",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-super-slim-500gb-na-caixa-1498749724",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "titulo": "PS3 Super Slim - 500GB na caixa",
     "ts": 1779108441
   },
   {
@@ -9871,26 +9890,5 @@
     "tempoOlx": "",
     "titulo": "Game PS4 Death Stranding Mídia Física",
     "ts": 1779030305
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:04",
-    "fotoUrl": "https://img.olx.com.br/images/22/220653527309610.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/220653527309610.jpg",
-      "https://img.olx.com.br/images/24/248613768570581.jpg",
-      "https://img.olx.com.br/images/25/258610163058741.jpg",
-      "https://img.olx.com.br/images/27/274684285158786.jpg"
-    ],
-    "id": "1502735080",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/pes-2021-ps4-1502735080",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Pes 2021 - Ps4",
-    "ts": 1779030297
   }
 ]
