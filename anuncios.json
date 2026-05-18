@@ -1,21 +1,44 @@
 [
   {
-    "id": "1477895089",
-    "titulo": "FIFA 15 - PS4 (LACRADO)",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps4",
+    "id": "1502997836",
+    "titulo": "Xbox series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "10:36",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "detectado": "10:41",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/jogos-de-video-game/fifa-15-ps4-lacrado-1477895089",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-1502997836",
+    "fotoUrl": "https://img.olx.com.br/images/11/118634529195121.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/118634529195121.jpg",
+      "https://img.olx.com.br/images/13/137667767903809.jpg",
+      "https://img.olx.com.br/images/15/157629401047853.jpg",
+      "https://img.olx.com.br/images/18/189636161687465.jpg",
+      "https://img.olx.com.br/images/21/216607406629847.jpg",
+      "https://img.olx.com.br/images/23/231610767483018.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779111687
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:36",
     "fotoUrl": "https://img.olx.com.br/images/95/951608263412794.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/951608263412794.jpg",
       "https://img.olx.com.br/images/95/952681383386472.jpg"
     ],
-    "defeito": false,
+    "id": "1477895089",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/jogos-de-video-game/fifa-15-ps4-lacrado-1477895089",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "titulo": "FIFA 15 - PS4 (LACRADO)",
     "ts": 1779111368
   },
   {
@@ -9916,26 +9939,5 @@
     "tempoOlx": "Na OLX desde julho de 2013",
     "titulo": "Jogo ps4 Horizon 2",
     "ts": 1779037843
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:10",
-    "fotoUrl": "https://img.olx.com.br/images/38/386511668443041.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/386511668443041.jpg",
-      "https://img.olx.com.br/images/39/395598060416805.jpg",
-      "https://img.olx.com.br/images/40/406560668297727.jpg",
-      "https://img.olx.com.br/images/42/421529909985749.jpg"
-    ],
-    "id": "1418993833",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodstained-kickstarter-edition-ps4-1418993833",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Bloodstained Kickstarter Edition Ps4",
-    "ts": 1779037835
   }
 ]
