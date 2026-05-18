@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502875774",
-    "titulo": "IPHONE 13 PRO 128GB",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "categoria": "iphone",
+    "id": "1480275136",
+    "titulo": "Gravity Rush 2 Ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:56",
-    "tempoOlx": "Na OLX desde março de 2017",
+    "detectado": "21:59",
+    "tempoOlx": "Na OLX desde julho de 2013",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1502875774",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/gravity-rush-2-ps4-1480275136",
+    "fotoUrl": "https://img.olx.com.br/images/10/106619134896835.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/106619134896835.jpg",
+      "https://img.olx.com.br/images/11/117688131633040.jpg",
+      "https://img.olx.com.br/images/13/131699251695173.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779065963
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:56",
     "fotoUrl": "https://img.olx.com.br/images/30/308647769126404.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/308647769126404.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/37/372615887972058.jpg",
       "https://img.olx.com.br/images/40/404631649544335.jpg"
     ],
-    "defeito": false,
+    "id": "1502875774",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1502875774",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "IPHONE 13 PRO 128GB",
     "ts": 1779065815
   },
   {
@@ -9900,23 +9920,5 @@
     "tempoOlx": "",
     "titulo": "PSP Portátil Gamer Emulador",
     "ts": 1779029427
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:50",
-    "fotoUrl": "https://img.olx.com.br/images/41/410606408976264.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/410606408976264.jpg"
-    ],
-    "id": "1502111920",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/mega-froslass-ex-colecao-herois-excelsos-1502111920",
-    "preco": 85,
-    "precoRaw": "R$ 85",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Mega Froslass EX - Coleção, Heróis Excelsos",
-    "ts": 1779029419
   }
 ]
