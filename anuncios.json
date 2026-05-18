@@ -1,21 +1,41 @@
 [
   {
-    "id": "1456214941",
-    "titulo": "The Sims 4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "outros",
+    "id": "1503025813",
+    "titulo": "Vendo XBox Series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "11:45",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "detectado": "11:48",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-sims-4-1456214941",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/vendo-xbox-series-s-1503025813",
+    "fotoUrl": "https://img.olx.com.br/images/73/737688649523838.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/737688649523838.jpg",
+      "https://img.olx.com.br/images/73/738640524692052.jpg",
+      "https://img.olx.com.br/images/73/738603521247461.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779115738
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:45",
     "fotoUrl": "https://img.olx.com.br/images/51/515567466511161.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/515567466511161.jpg",
       "https://img.olx.com.br/images/52/529526348008231.jpg"
     ],
-    "defeito": false,
+    "id": "1456214941",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-sims-4-1456214941",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "The Sims 4",
     "ts": 1779115512
   },
   {
@@ -9913,27 +9933,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PlayStation 5 ",
-    "ts": 1779055344
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:02",
-    "fotoUrl": "https://img.olx.com.br/images/56/562679282940741.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/562679282940741.jpg",
-      "https://img.olx.com.br/images/56/561609523258566.jpg",
-      "https://img.olx.com.br/images/56/564696765205974.jpg",
-      "https://img.olx.com.br/images/56/567627168356212.jpg"
-    ],
-    "id": "1502814364",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/cooler-ps5-fat-3-fans-silencioso-usb-com-led-ventilador-externo-playstation-5-1502814364",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Cooler PS5 FAT 3 Fans Silencioso USB com LED | Ventilador Externo PlayStation 5",
     "ts": 1779055344
   }
 ]
