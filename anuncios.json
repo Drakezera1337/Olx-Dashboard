@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503091562",
-    "titulo": "Vendo jogos do PS4 e XBOX 360",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1503090270",
+    "titulo": "JOGO NEED FOR SPEED PAYBACK - PS4",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:38",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "detectado": "15:39",
+    "tempoOlx": "Na OLX desde maio de 2017",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/vendo-jogos-do-ps4-e-xbox-360-1503091562",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-need-for-speed-payback-ps4-1503090270",
+    "fotoUrl": "https://img.olx.com.br/images/78/785699164744262.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/785699164744262.jpg",
+      "https://img.olx.com.br/images/80/808618642341925.jpg",
+      "https://img.olx.com.br/images/82/821611765566434.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779129543
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:38",
     "fotoUrl": "https://img.olx.com.br/images/81/818601648929968.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/818601648929968.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/87/871674521943031.jpg",
       "https://img.olx.com.br/images/89/890656280867902.jpg"
     ],
-    "defeito": false,
+    "id": "1503091562",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/vendo-jogos-do-ps4-e-xbox-360-1503091562",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "titulo": "Vendo jogos do PS4 e XBOX 360",
     "ts": 1779129529
   },
   {
@@ -9906,23 +9926,5 @@
     "tempoOlx": "Na OLX desde setembro de 2017",
     "titulo": "Jogos de ps4",
     "ts": 1779069820
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:03",
-    "fotoUrl": "https://img.olx.com.br/images/37/374689287724695.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/374689287724695.jpg"
-    ],
-    "id": "1502885127",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/bloodborne-1502885127",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Bloodborne ",
-    "ts": 1779069812
   }
 ]
