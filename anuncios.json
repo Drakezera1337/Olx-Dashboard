@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502895370",
-    "titulo": "JOGOS ORIGINAIS DE PS3 - GTA V, COD BLACK OPS III E MAIS",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps3",
+    "id": "1502895350",
+    "titulo": "Uncharted 4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "00:28",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-originais-de-ps3-gta-v-cod-black-ops-iii-e-mais-1502895370",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/uncharted-4-1502895350",
+    "fotoUrl": "https://img.olx.com.br/images/80/804665525194556.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/804665525194556.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779074904
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:28",
     "fotoUrl": "https://img.olx.com.br/images/12/125690163490961.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/125690163490961.jpg"
     ],
-    "defeito": false,
+    "id": "1502895370",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-originais-de-ps3-gta-v-cod-black-ops-iii-e-mais-1502895370",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "JOGOS ORIGINAIS DE PS3 - GTA V, COD BLACK OPS III E MAIS",
     "ts": 1779074894
   },
   {
@@ -9873,25 +9891,5 @@
     "tempoOlx": "",
     "titulo": "Digimon Story Cyber Sleuth Hackers Memory - Completo - Original - PS4",
     "ts": 1779030028
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:00",
-    "fotoUrl": "https://img.olx.com.br/images/82/826500571103997.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/826500571103997.jpg",
-      "https://img.olx.com.br/images/82/828508213152299.jpg",
-      "https://img.olx.com.br/images/82/826515690479964.jpg"
-    ],
-    "id": "1444201449",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/days-gone-completo-original-ps4-1444201449",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Days Gone - Completo - Original - PS4",
-    "ts": 1779030020
   }
 ]
