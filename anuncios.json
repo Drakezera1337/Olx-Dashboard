@@ -1,21 +1,44 @@
 [
   {
-    "id": "1502957269",
-    "titulo": "Batman Return",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "outros",
+    "id": "1449654772",
+    "titulo": "PS4 Steamworld Dig 2",
+    "preco": 330,
+    "precoRaw": "R$ 330",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "09:56",
-    "tempoOlx": "Na OLX desde julho de 2015",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/batman-return-1502957269",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-steamworld-dig-2-1449654772",
+    "fotoUrl": "https://img.olx.com.br/images/58/580538697685349.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/580538697685349.jpg",
+      "https://img.olx.com.br/images/59/594563216974396.jpg",
+      "https://img.olx.com.br/images/60/606504452402834.jpg",
+      "https://img.olx.com.br/images/61/616570339115503.jpg",
+      "https://img.olx.com.br/images/62/628585336374016.jpg",
+      "https://img.olx.com.br/images/63/639561452617309.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108986
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:56",
     "fotoUrl": "https://img.olx.com.br/images/17/170694409395904.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/170694409395904.jpg",
       "https://img.olx.com.br/images/19/192699046771505.jpg"
     ],
-    "defeito": false,
+    "id": "1502957269",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/batman-return-1502957269",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2015",
+    "titulo": "Batman Return",
     "ts": 1779108976
   },
   {
@@ -9865,25 +9888,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PSP",
-    "ts": 1779030656
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:10",
-    "fotoUrl": "https://img.olx.com.br/images/67/673676152572625.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/673676152572625.jpg",
-      "https://img.olx.com.br/images/69/691687872790469.jpg"
-    ],
-    "id": "1490719468",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/jogo-de-psp-1490719468",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo de psp",
     "ts": 1779030656
   }
 ]
