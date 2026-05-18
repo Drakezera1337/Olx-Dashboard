@@ -1,15 +1,31 @@
 [
   {
-    "id": "1503119851",
-    "titulo": "Vendo PS4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "id": "1503121507",
+    "titulo": "Jogo Ender Lilies | PS4 | Novo e Lacrado",
+    "preco": 359,
+    "precoRaw": "R$ 359",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:09",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "detectado": "17:11",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ps4-1503119851",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogo-ender-lilies-ps4-novo-e-lacrado-1503121507",
+    "fotoUrl": "https://img.olx.com.br/images/74/747659280668764.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/747659280668764.jpg",
+      "https://img.olx.com.br/images/77/777640400126824.jpg",
+      "https://img.olx.com.br/images/80/802618408662609.jpg",
+      "https://img.olx.com.br/images/82/824647286880483.jpg",
+      "https://img.olx.com.br/images/87/877696525526091.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779135060
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:09",
     "fotoUrl": "https://img.olx.com.br/images/28/289619400757959.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/289619400757959.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/31/317697766455459.jpg",
       "https://img.olx.com.br/images/33/332606160598533.jpg"
     ],
-    "defeito": false,
+    "id": "1503119851",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ps4-1503119851",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Vendo PS4",
     "ts": 1779134968
   },
   {
@@ -9879,24 +9901,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Xbox séries S",
     "ts": 1779108458
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:47",
-    "fotoUrl": "https://img.olx.com.br/images/46/466663526058983.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/466663526058983.jpg",
-      "https://img.olx.com.br/images/46/463696761347740.jpg"
-    ],
-    "id": "1502976788",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/xbox-series-s-512gb-1502976788",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "XBOX SÉRIES S 512gb",
-    "ts": 1779108449
   }
 ]
