@@ -1,15 +1,32 @@
 [
   {
-    "id": "1502889216",
+    "id": "1502888841",
     "titulo": "Jogos de ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "preco": 125,
+    "precoRaw": "R$ 125",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:26",
+    "detectado": "23:27",
     "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1502889216",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1502888841",
+    "fotoUrl": "https://img.olx.com.br/images/78/780614283318052.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/780614283318052.jpg",
+      "https://img.olx.com.br/images/80/809614887340245.jpg",
+      "https://img.olx.com.br/images/81/814641286154051.jpg",
+      "https://img.olx.com.br/images/83/830622761545835.jpg",
+      "https://img.olx.com.br/images/84/846649041374690.jpg",
+      "https://img.olx.com.br/images/86/862652402288338.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779071221
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:26",
     "fotoUrl": "https://img.olx.com.br/images/33/336624166686480.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/336624166686480.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/40/401631642093378.jpg",
       "https://img.olx.com.br/images/41/412646165170287.jpg"
     ],
-    "defeito": false,
+    "id": "1502889216",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1502889216",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Jogos de ps4",
     "ts": 1779071212
   },
   {
@@ -9871,26 +9894,5 @@
     "tempoOlx": "",
     "titulo": "New Nintendo 2DS XL Usado ",
     "ts": 1779029801
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:56",
-    "fotoUrl": "https://img.olx.com.br/images/32/323623528200806.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/323623528200806.jpg",
-      "https://img.olx.com.br/images/34/345637165286455.jpg",
-      "https://img.olx.com.br/images/42/425688041675411.jpg",
-      "https://img.olx.com.br/images/66/665693406483468.jpg"
-    ],
-    "id": "1502144808",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/video-game-game-stick-lite-branco-dois-controles-1502144808",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vídeo game game stick lite branco dois controles ",
-    "ts": 1779029794
   }
 ]
