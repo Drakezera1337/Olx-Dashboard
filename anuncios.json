@@ -1,15 +1,28 @@
 [
   {
-    "id": "1502877478",
-    "titulo": "Jogos de ps4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1502879358",
+    "titulo": "Days Gone PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:11",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "detectado": "22:16",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1502877478",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/days-gone-ps4-1502879358",
+    "fotoUrl": "https://img.olx.com.br/images/78/783692526294213.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/783692526294213.jpg",
+      "https://img.olx.com.br/images/80/804656405228553.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779067013
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:11",
     "fotoUrl": "https://img.olx.com.br/images/63/634695528445220.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/634695528445220.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/72/726645760815011.jpg",
       "https://img.olx.com.br/images/79/791654649210447.jpg"
     ],
-    "defeito": false,
+    "id": "1502877478",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1502877478",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Jogos de ps4",
     "ts": 1779066706
   },
   {
@@ -9895,28 +9914,5 @@
     "tempoOlx": "",
     "titulo": "Nintendo DSI",
     "ts": 1779029489
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:51",
-    "fotoUrl": "https://img.olx.com.br/images/27/275641646391231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/275641646391231.jpg",
-      "https://img.olx.com.br/images/29/298671889279698.jpg",
-      "https://img.olx.com.br/images/30/307688042914957.jpg",
-      "https://img.olx.com.br/images/31/311654645200858.jpg",
-      "https://img.olx.com.br/images/33/336698280982074.jpg",
-      "https://img.olx.com.br/images/34/347661043422802.jpg"
-    ],
-    "id": "1502709520",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-ds-lite-1502709520",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo DS lite",
-    "ts": 1779029479
   }
 ]
