@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503054862",
-    "titulo": "Ps4 com defeito mais controle original",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps4",
+    "id": "1503053994",
+    "titulo": "Ps3 para aproveitar peça ou tentar consertar ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "13:24",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "detectado": "13:25",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps4-com-defeito-mais-controle-original-1503054862",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps3-para-aproveitar-peca-ou-tentar-consertar-1503053994",
+    "fotoUrl": "https://img.olx.com.br/images/32/320697406747902.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/320697406747902.jpg",
+      "https://img.olx.com.br/images/33/337696527744681.jpg",
+      "https://img.olx.com.br/images/35/355690161446760.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779121505
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:24",
     "fotoUrl": "https://img.olx.com.br/images/61/619656161632959.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/619656161632959.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/68/681667527918844.jpg",
       "https://img.olx.com.br/images/70/704643644905013.jpg"
     ],
-    "defeito": false,
+    "id": "1503054862",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps4-com-defeito-mais-controle-original-1503054862",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Ps4 com defeito mais controle original",
     "ts": 1779121496
   },
   {
@@ -9893,25 +9913,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Console PS4 Slim 1 TeraByte  1 controle DualShock, 2 jogos mídia física ",
     "ts": 1779055764
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:07",
-    "fotoUrl": "https://img.olx.com.br/images/96/962613880179332.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/962613880179332.jpg",
-      "https://img.olx.com.br/images/97/979611524230435.jpg",
-      "https://img.olx.com.br/images/98/985652881001005.jpg"
-    ],
-    "id": "1502845585",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-ps5-1502845585",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "Caixa PS5",
-    "ts": 1779055642
   }
 ]
