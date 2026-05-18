@@ -1,22 +1,40 @@
 [
   {
-    "id": "1460373822",
-    "titulo": "Call of Duty",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1503151990",
+    "titulo": "Jogos de PS4",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:06",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/call-of-duty-1460373822",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-de-ps4-1503151990",
+    "fotoUrl": "https://img.olx.com.br/images/30/300651529182548.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/300651529182548.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779141992
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:06",
     "fotoUrl": "https://img.olx.com.br/images/82/820531479585899.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/820531479585899.jpg",
       "https://img.olx.com.br/images/85/852569478450455.jpg",
       "https://img.olx.com.br/images/88/885593112242567.jpg"
     ],
-    "defeito": false,
+    "id": "1460373822",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/call-of-duty-1460373822",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Call of Duty",
     "ts": 1779141984
   },
   {
@@ -9880,26 +9898,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PlayStation portal ",
-    "ts": 1779110168
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:16",
-    "fotoUrl": "https://img.olx.com.br/images/35/354666286534808.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/354666286534808.jpg",
-      "https://img.olx.com.br/images/38/389661284034944.jpg",
-      "https://img.olx.com.br/images/42/420652161933131.jpg"
-    ],
-    "id": "1499490239",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-slim-1tb-com-71-jogos-top-e-garantia-o6-meses-loja-fisica-1499490239",
-    "preco": 1490,
-    "precoRaw": "R$ 1.490",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PLAYSTATION 4 SLIM 1TB COM: 71 JOGOS TOP e GARANTIA O6 MESES ( LOJA FISICA )",
     "ts": 1779110168
   }
 ]
