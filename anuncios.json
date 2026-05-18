@@ -1,21 +1,40 @@
 [
   {
-    "id": "1450802805",
-    "titulo": "Jogo Ps4 Ratchet e Clank",
-    "preco": 99,
-    "precoRaw": "R$ 99",
+    "id": "1450800526",
+    "titulo": "Jogo Ps4 Farcry 4",
+    "preco": 79,
+    "precoRaw": "R$ 79",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "09:53",
+    "detectado": "09:54",
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-ratchet-e-clank-1450802805",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-farcry-4-1450800526",
+    "fotoUrl": "https://img.olx.com.br/images/21/212590347625373.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/212590347625373.jpg",
+      "https://img.olx.com.br/images/23/230550587208890.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108845
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:53",
     "fotoUrl": "https://img.olx.com.br/images/17/170508225689120.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/170508225689120.jpg",
       "https://img.olx.com.br/images/18/183535349630332.jpg"
     ],
-    "defeito": false,
+    "id": "1450802805",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-ratchet-e-clank-1450802805",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "Jogo Ps4 Ratchet e Clank",
     "ts": 1779108837
   },
   {
@@ -9860,27 +9879,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS3 SUPER SLIM NAO TA FUNCIONANDO ",
-    "ts": 1779030585
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:09",
-    "fotoUrl": "https://img.olx.com.br/images/44/446584579731231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/446584579731231.jpg",
-      "https://img.olx.com.br/images/45/459544334658483.jpg",
-      "https://img.olx.com.br/images/47/472589813071458.jpg",
-      "https://img.olx.com.br/images/48/485547574748098.jpg"
-    ],
-    "id": "1449067577",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps3-com-defeito-1449067577",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 com defeito",
     "ts": 1779030585
   }
 ]
