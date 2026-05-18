@@ -1,20 +1,39 @@
 [
   {
-    "id": "1502891022",
-    "titulo": "FIFA FC 24",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1502895223",
+    "titulo": "JOGOS DE PS4 APARTIR DE 60 REAIS.",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:16",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "detectado": "00:21",
+    "tempoOlx": "Na OLX desde novembro de 2019",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-fc-24-1502891022",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-de-ps4-apartir-de-60-reais-1502895223",
+    "fotoUrl": "https://img.olx.com.br/images/59/596627163751572.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/596627163751572.jpg",
+      "https://img.olx.com.br/images/61/618625166538411.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779074517
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:16",
     "fotoUrl": "https://img.olx.com.br/images/78/784606280864930.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/784606280864930.jpg"
     ],
-    "defeito": false,
+    "id": "1502891022",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/fifa-fc-24-1502891022",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "titulo": "FIFA FC 24",
     "ts": 1779074174
   },
   {
@@ -9877,23 +9896,5 @@
     "tempoOlx": "",
     "titulo": "PS4 FAT",
     "ts": 1779029990
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:59",
-    "fotoUrl": "https://img.olx.com.br/images/47/474662165912582.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/474662165912582.jpg"
-    ],
-    "id": "1502746928",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-de-playstation-4-1502746928",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo de PlayStation 4",
-    "ts": 1779029982
   }
 ]
