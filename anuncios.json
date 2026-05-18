@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503013775",
-    "titulo": "FIFA 14",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1503006568",
+    "titulo": "The Last of Us jogo PS4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:15",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "detectado": "11:16",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/fifa-14-1503013775",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/the-last-of-us-jogo-ps4-1503006568",
+    "fotoUrl": "https://img.olx.com.br/images/50/505669169344356.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/505669169344356.jpg",
+      "https://img.olx.com.br/images/51/512626286971467.jpg",
+      "https://img.olx.com.br/images/52/520683641720132.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779113765
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:15",
     "fotoUrl": "https://img.olx.com.br/images/39/397619886539807.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/397619886539807.jpg"
     ],
-    "defeito": false,
+    "id": "1503013775",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/fifa-14-1503013775",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "FIFA 14",
     "ts": 1779113756
   },
   {
@@ -9887,26 +9907,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Red Dead Redemption 2 ps4/ps5 mídia digital",
     "ts": 1779040542
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:55",
-    "fotoUrl": "https://img.olx.com.br/images/82/822607384011407.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/822607384011407.jpg",
-      "https://img.olx.com.br/images/83/833637382611893.jpg",
-      "https://img.olx.com.br/images/85/854676620481718.jpg",
-      "https://img.olx.com.br/images/86/861682146388036.jpg"
-    ],
-    "id": "1485807788",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-original-batman-cd-perfeito-1485807788",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "Jogo PS4 original Batman cd perfeito",
-    "ts": 1779040535
   }
 ]
