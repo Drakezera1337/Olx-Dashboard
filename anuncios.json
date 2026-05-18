@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503044288",
-    "titulo": "Vendo PS3 super slim desbloqueado ",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps3",
+    "id": "1503046606",
+    "titulo": "Playstation 5",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "12:49",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "detectado": "12:51",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/vendo-ps3-super-slim-desbloqueado-1503044288",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1503046606",
+    "fotoUrl": "https://img.olx.com.br/images/88/887693526995429.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/887693526995429.jpg",
+      "https://img.olx.com.br/images/89/899615528684679.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779119518
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:49",
     "fotoUrl": "https://img.olx.com.br/images/98/987693284176719.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/987693284176719.jpg",
       "https://img.olx.com.br/images/11/112655162884732.jpg",
       "https://img.olx.com.br/images/13/130604766212941.jpg"
     ],
-    "defeito": false,
+    "id": "1503044288",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/vendo-ps3-super-slim-desbloqueado-1503044288",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Vendo PS3 super slim desbloqueado ",
     "ts": 1779119348
   },
   {
@@ -9890,24 +9909,5 @@
     "tempoOlx": "",
     "titulo": "vendo meu PS3 Super Slim tem que trocar o módulo Bluetooth para atualizar",
     "ts": 1779055426
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:03",
-    "fotoUrl": "https://img.olx.com.br/images/52/527677641215036.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/527677641215036.jpg",
-      "https://img.olx.com.br/images/54/549641049797671.jpg"
-    ],
-    "id": "1502832146",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-xbox-series-s-516gb-1502832146",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo Xbox Series S 516Gb",
-    "ts": 1779055408
   }
 ]
