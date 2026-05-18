@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503179170",
-    "titulo": "Minecraft ps4",
-    "preco": 35,
-    "precoRaw": "R$ 35",
+    "id": "1502973601",
+    "titulo": "Playstation 4 ps4",
+    "preco": 999,
+    "precoRaw": "R$ 999",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:46",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "20:50",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/minecraft-ps4-1503179170",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-ps4-1502973601",
+    "fotoUrl": "https://img.olx.com.br/images/83/837629289915290.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/837629289915290.jpg",
+      "https://img.olx.com.br/images/84/846629406292136.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779148203
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:46",
     "fotoUrl": "https://img.olx.com.br/images/97/972647522120139.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/972647522120139.jpg"
     ],
-    "defeito": false,
+    "id": "1503179170",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/minecraft-ps4-1503179170",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Minecraft ps4",
     "ts": 1779147977
   },
   {
@@ -9845,24 +9864,5 @@
     "tempoOlx": "",
     "titulo": "hello neighbor - playstation 4",
     "ts": 1779110346
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:18",
-    "fotoUrl": "https://img.olx.com.br/images/60/609618646133215.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/609618646133215.jpg",
-      "https://img.olx.com.br/images/62/620653640740680.jpg"
-    ],
-    "id": "1502599859",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-all-digital-1502599859",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One All Digital",
-    "ts": 1779110325
   }
 ]
