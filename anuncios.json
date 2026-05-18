@@ -1,15 +1,31 @@
 [
   {
-    "id": "1503097161",
-    "titulo": "iPhone 15 Pro 128GB (ótimo estado)",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
-    "categoria": "iphone",
+    "id": "1503098258",
+    "titulo": "Lote coleção Horizon playstation 4 ps4",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:52",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "detectado": "15:54",
+    "tempoOlx": "Na OLX desde maio de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-128gb-otimo-estado-1503097161",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/lote-colecao-horizon-playstation-4-ps4-1503098258",
+    "fotoUrl": "https://img.olx.com.br/images/71/715695888131036.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/715695888131036.jpg",
+      "https://img.olx.com.br/images/72/723605284887447.jpg",
+      "https://img.olx.com.br/images/78/782663403579587.jpg",
+      "https://img.olx.com.br/images/79/790654526612993.jpg",
+      "https://img.olx.com.br/images/81/816623527974242.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779130496
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:52",
     "fotoUrl": "https://img.olx.com.br/images/63/630651881871964.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/630651881871964.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/69/694625409346008.jpg",
       "https://img.olx.com.br/images/71/714622761619318.jpg"
     ],
-    "defeito": false,
+    "id": "1503097161",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-128gb-otimo-estado-1503097161",
+    "preco": 4000,
+    "precoRaw": "R$ 4.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "iPhone 15 Pro 128GB (ótimo estado)",
     "ts": 1779130348
   },
   {
@@ -9910,23 +9932,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Vendo IPhone XR 128gb ",
     "ts": 1779070584
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:14",
-    "fotoUrl": "https://img.olx.com.br/images/27/277690280379185.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/277690280379185.jpg"
-    ],
-    "id": "1502886645",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-completo-1502886645",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2016",
-    "titulo": "Ps4 completo",
-    "ts": 1779070492
   }
 ]
