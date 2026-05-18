@@ -1,15 +1,28 @@
 [
   {
-    "id": "1476086972",
-    "titulo": "Jogos ps4 ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1450799978",
+    "titulo": "Jogo Ps4 Watch Dogs 2",
+    "preco": 99,
+    "precoRaw": "R$ 99",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:54",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-ps4-1476086972",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-watch-dogs-2-1450799978",
+    "fotoUrl": "https://img.olx.com.br/images/49/490530347263935.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/490530347263935.jpg",
+      "https://img.olx.com.br/images/52/524534588838672.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108861
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:54",
     "fotoUrl": "https://img.olx.com.br/images/95/954673371061554.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/954673371061554.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/11/115690496513559.jpg",
       "https://img.olx.com.br/images/12/120634610127556.jpg"
     ],
-    "defeito": false,
+    "id": "1476086972",
+    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-ps4-1476086972",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Jogos ps4 ",
     "ts": 1779108854
   },
   {
@@ -9865,25 +9884,5 @@
     "tempoOlx": "",
     "titulo": "Caixa manual e berço Nintendo Switch Lite Grey",
     "ts": 1779030618
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:09",
-    "fotoUrl": "https://img.olx.com.br/images/70/703668766971348.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/703668766971348.jpg",
-      "https://img.olx.com.br/images/71/716687404853932.jpg",
-      "https://img.olx.com.br/images/73/737621646287255.jpg"
-    ],
-    "id": "1500953481",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-leia-a-descricao-1500953481",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps3 slim leia a descrição",
-    "ts": 1779030585
   }
 ]
