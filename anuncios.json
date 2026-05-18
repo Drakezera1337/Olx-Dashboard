@@ -1,21 +1,40 @@
 [
   {
-    "id": "1461062467",
-    "titulo": "PURE - Ps3",
+    "id": "1461062783",
+    "titulo": "Stormrise - Ps3",
     "preco": 50,
     "precoRaw": "R$ 50",
     "categoria": "ps3",
     "publicado": "",
-    "detectado": "09:47",
+    "detectado": "09:48",
     "tempoOlx": "Na OLX desde setembro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/pure-ps3-1461062467",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/stormrise-ps3-1461062783",
+    "fotoUrl": "https://img.olx.com.br/images/97/977544119046230.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/977544119046230.jpg",
+      "https://img.olx.com.br/images/99/997520477237597.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108486
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:47",
     "fotoUrl": "https://img.olx.com.br/images/90/906511834398412.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/906511834398412.jpg",
       "https://img.olx.com.br/images/92/928539596516054.jpg"
     ],
-    "defeito": false,
+    "id": "1461062467",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/pure-ps3-1461062467",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2016",
+    "titulo": "PURE - Ps3",
     "ts": 1779108474
   },
   {
@@ -9870,27 +9889,5 @@
     "tempoOlx": "",
     "titulo": "Nintendo Switch Oled desbloqueado ",
     "ts": 1779030341
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:05",
-    "fotoUrl": "https://img.olx.com.br/images/23/238665404007929.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/238665404007929.jpg",
-      "https://img.olx.com.br/images/23/234630887176517.jpg",
-      "https://img.olx.com.br/images/23/230601885636732.jpg",
-      "https://img.olx.com.br/images/23/236692882417986.jpg",
-      "https://img.olx.com.br/images/62/621698161454363.jpg"
-    ],
-    "id": "1502636945",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-midia-fisica-1502636945",
-    "preco": 3150,
-    "precoRaw": "R$ 3.150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 5 (Mídia Física)",
-    "ts": 1779030332
   }
 ]
