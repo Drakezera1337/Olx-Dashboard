@@ -1,15 +1,32 @@
 [
   {
-    "id": "1503036639",
-    "titulo": "Video Game PS4 Slim",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1503031647",
+    "titulo": "PS4 COM JOGO BRINDE",
+    "preco": 450,
+    "precoRaw": "R$ 450",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:12",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "12:13",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/video-game-ps4-slim-1503036639",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/ps4-com-jogo-brinde-1503031647",
+    "fotoUrl": "https://img.olx.com.br/images/12/128656522966842.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/128656522966842.jpg",
+      "https://img.olx.com.br/images/65/652651408779733.jpg",
+      "https://img.olx.com.br/images/66/667664644962988.jpg",
+      "https://img.olx.com.br/images/67/676649400263887.jpg",
+      "https://img.olx.com.br/images/69/698643047739625.jpg",
+      "https://img.olx.com.br/images/70/701630882118648.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779117184
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:12",
     "fotoUrl": "https://img.olx.com.br/images/28/285648289529359.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/285648289529359.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/27/279618640304341.jpg",
       "https://img.olx.com.br/images/28/281622528507166.jpg"
     ],
-    "defeito": false,
+    "id": "1503036639",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/video-game-ps4-slim-1503036639",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Video Game PS4 Slim",
     "ts": 1779117176
   },
   {
@@ -9900,26 +9923,5 @@
     "tempoOlx": "",
     "titulo": "PS5 slim digital com controles",
     "ts": 1779055358
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:02",
-    "fotoUrl": "https://img.olx.com.br/images/97/979619882785412.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/979619882785412.jpg",
-      "https://img.olx.com.br/images/99/996661285904421.jpg",
-      "https://img.olx.com.br/images/67/672657041175349.jpg",
-      "https://img.olx.com.br/images/69/695637165543214.jpg"
-    ],
-    "id": "1501816448",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-a-venda-1501816448",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 11 64GB à venda",
-    "ts": 1779055354
   }
 ]
