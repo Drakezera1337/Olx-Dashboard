@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503052360",
-    "titulo": "Nintendo switch lite ",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "switch",
+    "id": "1503053170",
+    "titulo": "Ps4 A venda",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:14",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "detectado": "13:17",
+    "tempoOlx": "Na OLX desde junho de 2021",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/consoles-de-video-game/nintendo-switch-lite-1503052360",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-a-venda-1503053170",
+    "fotoUrl": "https://img.olx.com.br/images/92/927617640527248.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/927617640527248.jpg",
+      "https://img.olx.com.br/images/94/945646524640734.jpg",
+      "https://img.olx.com.br/images/96/968656409980381.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779121052
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:14",
     "fotoUrl": "https://img.olx.com.br/images/91/912609768641543.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/912609768641543.jpg"
     ],
-    "defeito": false,
+    "id": "1503052360",
+    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/consoles-de-video-game/nintendo-switch-lite-1503052360",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "titulo": "Nintendo switch lite ",
     "ts": 1779120867
   },
   {
@@ -9887,26 +9907,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Horizon Chase Turbo Playstation 4 Midia Fisica Original LACRADO",
-    "ts": 1779055573
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:06",
-    "fotoUrl": "https://img.olx.com.br/images/20/201657649149294.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/201657649149294.jpg",
-      "https://img.olx.com.br/images/21/210616161570214.jpg",
-      "https://img.olx.com.br/images/23/235682765022536.jpg"
-    ],
-    "id": "1502834195",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/horizon-chase-turbo-ps4-1502834195",
-    "preco": 399,
-    "precoRaw": "R$ 399",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Horizon Chase Turbo Ps4",
     "ts": 1779055573
   }
 ]
