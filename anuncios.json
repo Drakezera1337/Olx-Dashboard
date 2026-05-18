@@ -1,20 +1,40 @@
 [
   {
-    "id": "1465957926",
-    "titulo": "Destiny ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1441518413",
+    "titulo": "Jedi Star Wars PS4 ",
+    "preco": 85,
+    "precoRaw": "R$ 85",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:11",
     "tempoOlx": "Na OLX desde setembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/destiny-1465957926",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jedi-star-wars-ps4-1441518413",
+    "fotoUrl": "https://img.olx.com.br/images/35/353620127000217.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/353620127000217.jpg",
+      "https://img.olx.com.br/images/55/556622726346549.jpg",
+      "https://img.olx.com.br/images/59/592678720727413.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779135116
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:11",
     "fotoUrl": "https://img.olx.com.br/images/28/280612243276045.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/280612243276045.jpg"
     ],
-    "defeito": false,
+    "id": "1465957926",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/destiny-1465957926",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "Destiny ",
     "ts": 1779135105
   },
   {
@@ -9879,24 +9899,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "Haze PS3",
     "ts": 1779108506
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:48",
-    "fotoUrl": "https://img.olx.com.br/images/25/258656496291023.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/258656496291023.jpg",
-      "https://img.olx.com.br/images/27/279636619211796.jpg"
-    ],
-    "id": "1461063292",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/little-big-planet-ps3-1461063292",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Little Big Planet - Ps3",
-    "ts": 1779108497
   }
 ]
