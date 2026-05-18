@@ -1,20 +1,41 @@
 [
   {
-    "id": "1503146305",
-    "titulo": "PlayStation 3",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps3",
+    "id": "1503146480",
+    "titulo": "GTA V",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:52",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "detectado": "18:53",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-1503146305",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/gta-v-1503146480",
+    "fotoUrl": "https://img.olx.com.br/images/23/237690287209187.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/237690287209187.jpg",
+      "https://img.olx.com.br/images/25/254648769251880.jpg",
+      "https://img.olx.com.br/images/27/278656043684793.jpg",
+      "https://img.olx.com.br/images/29/298677407158809.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779141187
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:52",
     "fotoUrl": "https://img.olx.com.br/images/50/505621649429606.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/505621649429606.jpg"
     ],
-    "defeito": false,
+    "id": "1503146305",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-1503146305",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "PlayStation 3",
     "ts": 1779141178
   },
   {
@@ -9868,24 +9889,5 @@
     "tempoOlx": "Na OLX desde setembro de 2020",
     "titulo": "Jogos XCOM 2 Seminovo PS4  - Aceito OLX pay",
     "ts": 1779109752
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:09",
-    "fotoUrl": "https://img.olx.com.br/images/78/784482568643736.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/784482568643736.jpg",
-      "https://img.olx.com.br/images/78/789436686944874.jpg"
-    ],
-    "id": "1334598720",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-lacrado-puyo-puyo-tetris-1334598720",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
-    "titulo": "Jogo PS4 Lacrado Puyo Puyo Tetris",
-    "ts": 1779109743
   }
 ]
