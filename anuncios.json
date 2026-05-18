@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503180407",
-    "titulo": "Pacote de jogos PS4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1480200044",
+    "titulo": "PS5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "20:51",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "detectado": "20:53",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/pacote-de-jogos-ps4-1503180407",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-1480200044",
+    "fotoUrl": "https://img.olx.com.br/images/29/298691374170577.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/298691374170577.jpg",
+      "https://img.olx.com.br/images/30/300690497556619.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779148409
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:51",
     "fotoUrl": "https://img.olx.com.br/images/33/333627042458137.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/333627042458137.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/69/697699168764203.jpg",
       "https://img.olx.com.br/images/72/725678649958675.jpg"
     ],
-    "defeito": false,
+    "id": "1503180407",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/pacote-de-jogos-ps4-1503180407",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Pacote de jogos PS4",
     "ts": 1779148300
   },
   {
@@ -9850,24 +9869,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "medievil - playstation 4",
-    "ts": 1779110346
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/18/180416640426701.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/180416640426701.jpg"
-    ],
-    "id": "1305588195",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/dragon-age-inquisition-playstation-4-1305588195",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "dragon age inquisition - playstation 4",
     "ts": 1779110346
   }
 ]
