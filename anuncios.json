@@ -1,15 +1,28 @@
 [
   {
-    "id": "1476087665",
-    "titulo": "Jogos ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1502958320",
+    "titulo": "GTA Trilogy PS4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:55",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde julho de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-ps4-1476087665",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/gta-trilogy-ps4-1502958320",
+    "fotoUrl": "https://img.olx.com.br/images/35/354659765243364.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/354659765243364.jpg",
+      "https://img.olx.com.br/images/36/362691409202092.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108944
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:55",
     "fotoUrl": "https://img.olx.com.br/images/79/797662852827164.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/797662852827164.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/85/853676493885144.jpg",
       "https://img.olx.com.br/images/86/864697139827743.jpg"
     ],
-    "defeito": false,
+    "id": "1476087665",
+    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-ps4-1476087665",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Jogos ps4",
     "ts": 1779108936
   },
   {
@@ -9863,29 +9882,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Carta Pikachu EX",
-    "ts": 1779030636
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:10",
-    "fotoUrl": "https://img.olx.com.br/images/13/136631520673825.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/136631520673825.jpg",
-      "https://img.olx.com.br/images/48/481649289574674.jpg",
-      "https://img.olx.com.br/images/48/489635286628312.jpg",
-      "https://img.olx.com.br/images/48/480624527432954.jpg",
-      "https://img.olx.com.br/images/48/489626403664655.jpg",
-      "https://img.olx.com.br/images/48/487632400301104.jpg"
-    ],
-    "id": "1499805280",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-dsi-rosa-seminovo-1499805280",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Dsi Rosa Seminovo",
     "ts": 1779030636
   }
 ]
