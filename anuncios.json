@@ -1,15 +1,31 @@
 [
   {
-    "id": "1502869284",
-    "titulo": "Jogos PS3 mídia fisica ",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "categoria": "ps3",
+    "id": "1502870658",
+    "titulo": "PS4 Slim 500gb 2 controles 5 jogos ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:20",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "21:26",
+    "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogos-ps3-midia-fisica-1502869284",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-500gb-2-controles-5-jogos-1502870658",
+    "fotoUrl": "https://img.olx.com.br/images/33/332657529551855.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/332657529551855.jpg",
+      "https://img.olx.com.br/images/34/349648768099376.jpg",
+      "https://img.olx.com.br/images/37/375682645770283.jpg",
+      "https://img.olx.com.br/images/41/413697400204573.jpg",
+      "https://img.olx.com.br/images/43/434639766601115.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779064018
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:20",
     "fotoUrl": "https://img.olx.com.br/images/47/476644766782285.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/476644766782285.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/50/508661643102036.jpg",
       "https://img.olx.com.br/images/56/567622283185474.jpg"
     ],
-    "defeito": false,
+    "id": "1502869284",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogos-ps3-midia-fisica-1502869284",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "Jogos PS3 mídia fisica ",
     "ts": 1779063652
   },
   {
@@ -9902,24 +9924,5 @@
     "tempoOlx": "",
     "titulo": "Videogame Nintendo switch lite 32gb Funcionando perfeitamente ",
     "ts": 1779029310
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/43/432575816203531.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/432575816203531.jpg",
-      "https://img.olx.com.br/images/44/441576453799051.jpg"
-    ],
-    "id": "1443090973",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/dock-carregador-nintendo-switch-1443090973",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Dock+carregador Nintendo switch ",
-    "ts": 1779029303
   }
 ]
