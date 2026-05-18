@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503133954",
-    "titulo": "PS4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1503134652",
+    "titulo": "Madden NFL 21",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "17:57",
-    "tempoOlx": "Na OLX desde abril de 2018",
+    "detectado": "17:59",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1503133954",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/madden-nfl-21-1503134652",
+    "fotoUrl": "https://img.olx.com.br/images/14/146624883154599.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/146624883154599.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779137941
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:57",
     "fotoUrl": "https://img.olx.com.br/images/89/898646289464568.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/898646289464568.jpg"
     ],
-    "defeito": false,
+    "id": "1503133954",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1503133954",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2018",
+    "titulo": "PS4",
     "ts": 1779137849
   },
   {
@@ -9879,28 +9897,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Jogos ps4",
     "ts": 1779108936
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:55",
-    "fotoUrl": "https://img.olx.com.br/images/72/728604377683457.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/728604377683457.jpg",
-      "https://img.olx.com.br/images/73/738682498263954.jpg",
-      "https://img.olx.com.br/images/74/741659139572311.jpg",
-      "https://img.olx.com.br/images/76/763657251345335.jpg",
-      "https://img.olx.com.br/images/77/774684254325074.jpg",
-      "https://img.olx.com.br/images/65/650687139257307.jpg"
-    ],
-    "id": "1476088277",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/jogos-ps4-1476088277",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Jogos ps4 ",
-    "ts": 1779108926
   }
 ]
