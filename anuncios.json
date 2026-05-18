@@ -1,21 +1,44 @@
 [
   {
-    "id": "1503055476",
-    "titulo": "Play 4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "outros",
+    "id": "1503056478",
+    "titulo": "PlayStation 5",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:30",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "detectado": "13:33",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/play-4-1503055476",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-5-1503056478",
+    "fotoUrl": "https://img.olx.com.br/images/80/803613760368321.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/803613760368321.jpg",
+      "https://img.olx.com.br/images/82/824685769599948.jpg",
+      "https://img.olx.com.br/images/84/842697520210661.jpg",
+      "https://img.olx.com.br/images/86/860696283119501.jpg",
+      "https://img.olx.com.br/images/88/881681285225368.jpg",
+      "https://img.olx.com.br/images/90/902630041239718.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779122012
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:30",
     "fotoUrl": "https://img.olx.com.br/images/77/776688164785136.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/776688164785136.jpg",
       "https://img.olx.com.br/images/79/792697767802057.jpg"
     ],
-    "defeito": false,
+    "id": "1503055476",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/play-4-1503055476",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Play 4",
     "ts": 1779121813
   },
   {
@@ -9889,23 +9912,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2023",
     "titulo": "PS4 PRO 4K 1Tb",
     "ts": 1779056288
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:18",
-    "fotoUrl": "https://img.olx.com.br/images/99/993698409834475.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/993698409834475.jpg"
-    ],
-    "id": "1502847157",
-    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogos-de-playstation-no-precinho-1502847157",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2022",
-    "titulo": "Jogos de PlayStation no precinho ",
-    "ts": 1779056280
   }
 ]
