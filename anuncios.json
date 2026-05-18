@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503142038",
-    "titulo": "Resident Evil 4 Remake Original ",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "categoria": "jogos",
+    "id": "1503141805",
+    "titulo": "JOGO PS4 - Death Stranding",
+    "preco": 125,
+    "precoRaw": "R$ 125",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:41",
-    "tempoOlx": "Na OLX desde junho de 2019",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-4-remake-original-1503142038",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-death-stranding-1503141805",
+    "fotoUrl": "https://img.olx.com.br/images/92/929648407105696.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/929648407105696.jpg",
+      "https://img.olx.com.br/images/92/920681286373681.jpg",
+      "https://img.olx.com.br/images/93/930617526184418.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779140480
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:41",
     "fotoUrl": "https://img.olx.com.br/images/55/551608287528770.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/551608287528770.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/58/586626644714368.jpg",
       "https://img.olx.com.br/images/60/608657886776416.jpg"
     ],
-    "defeito": false,
+    "id": "1503142038",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-4-remake-original-1503142038",
+    "preco": 199,
+    "precoRaw": "R$ 199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2019",
+    "titulo": "Resident Evil 4 Remake Original ",
     "ts": 1779140470
   },
   {
@@ -9866,27 +9886,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "Jogos de PS4 ",
     "ts": 1779109388
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:02",
-    "fotoUrl": "https://img.olx.com.br/images/36/364636286004117.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/364636286004117.jpg",
-      "https://img.olx.com.br/images/37/379613523346144.jpg",
-      "https://img.olx.com.br/images/38/385633645726310.jpg",
-      "https://img.olx.com.br/images/39/392601764652840.jpg",
-      "https://img.olx.com.br/images/41/416680766186591.jpg"
-    ],
-    "id": "1502983638",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-jogos-reservado-cliente-andre-1502983638",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "Lote jogos reservado cliente André ",
-    "ts": 1779109379
   }
 ]
