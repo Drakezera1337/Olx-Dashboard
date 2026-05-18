@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502870816",
-    "titulo": "Ps5 quase novo impecável modelo japonês ",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "categoria": "ps5",
+    "id": "1502871780",
+    "titulo": "Jogos de ps4 original ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:28",
-    "tempoOlx": "Na OLX desde outubro de 2014",
+    "detectado": "21:32",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-quase-novo-impecavel-modelo-japones-1502870816",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jogos-de-ps4-original-1502871780",
+    "fotoUrl": "https://img.olx.com.br/images/11/110609401309658.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/110609401309658.jpg",
+      "https://img.olx.com.br/images/18/181607405427296.jpg",
+      "https://img.olx.com.br/images/20/209616283696647.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779064375
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:28",
     "fotoUrl": "https://img.olx.com.br/images/24/243668402033782.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/243668402033782.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/35/359611402160419.jpg",
       "https://img.olx.com.br/images/38/382666049955216.jpg"
     ],
-    "defeito": false,
+    "id": "1502870816",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-quase-novo-impecavel-modelo-japones-1502870816",
+    "preco": 2550,
+    "precoRaw": "R$ 2.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "titulo": "Ps5 quase novo impecável modelo japonês ",
     "ts": 1779064133
   },
   {
@@ -9902,27 +9922,5 @@
     "tempoOlx": "",
     "titulo": "Jogos do Nintendo Switch",
     "ts": 1779029335
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/69/693672880086970.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/693672880086970.jpg",
-      "https://img.olx.com.br/images/70/702641161505980.jpg",
-      "https://img.olx.com.br/images/71/719643527124483.jpg",
-      "https://img.olx.com.br/images/72/729619646867386.jpg",
-      "https://img.olx.com.br/images/73/735627401806058.jpg"
-    ],
-    "id": "1501677954",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/console-de-jogo-portatil-com-tela-ips-de-7-sistema-emuelec-rgb-lightning-nintendo-1501677954",
-    "preco": 560,
-    "precoRaw": "R$ 560",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Console De Jogo Portátil Com Tela Ips De 7 \" Sistema Emuelec RGB Lightning Nintendo",
-    "ts": 1779029325
   }
 ]
