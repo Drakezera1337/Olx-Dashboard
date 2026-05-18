@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503072107",
-    "titulo": "Ps4",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
+    "id": "1503072042",
+    "titulo": "Jogo PES -2020 - PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:32",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/ps4-1503072107",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-pes-2020-ps4-1503072042",
+    "fotoUrl": "https://img.olx.com.br/images/47/479674762084746.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/479674762084746.jpg",
+      "https://img.olx.com.br/images/49/499656403534299.jpg",
+      "https://img.olx.com.br/images/50/506681885791313.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779125554
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:32",
     "fotoUrl": "https://img.olx.com.br/images/85/857643160038174.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/857643160038174.jpg",
       "https://img.olx.com.br/images/86/868653641473927.jpg"
     ],
-    "defeito": false,
+    "id": "1503072107",
+    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/ps4-1503072107",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Ps4",
     "ts": 1779125542
   },
   {
@@ -9910,23 +9930,5 @@
     "tempoOlx": "Na OLX desde setembro de 2013",
     "titulo": "The Crew para Playstation 4 - produto original lacrado",
     "ts": 1779061116
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:38",
-    "fotoUrl": "https://img.olx.com.br/images/78/784575467608078.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/784575467608078.jpg"
-    ],
-    "id": "1456666751",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-worlds-1456666751",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo PS4 Worlds",
-    "ts": 1779061107
   }
 ]
