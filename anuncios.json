@@ -1,21 +1,40 @@
 [
   {
-    "id": "1493488953",
-    "titulo": "PS4 Fat",
+    "id": "1502897569",
+    "titulo": "Console PS4",
     "preco": 1000,
     "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:02",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "detectado": "01:08",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-1493488953",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/console-ps4-1502897569",
+    "fotoUrl": "https://img.olx.com.br/images/71/717653529615007.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/717653529615007.jpg",
+      "https://img.olx.com.br/images/72/722686646173880.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779077304
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:02",
     "fotoUrl": "https://img.olx.com.br/images/69/695648157856249.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/695648157856249.jpg",
       "https://img.olx.com.br/images/71/711608633574899.jpg"
     ],
-    "defeito": false,
+    "id": "1493488953",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-1493488953",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "PS4 Fat",
     "ts": 1779076941
   },
   {
@@ -9861,25 +9880,5 @@
     "tempoOlx": "",
     "titulo": "Dead or Alive 5: Last Round - PS4",
     "ts": 1779030126
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:01",
-    "fotoUrl": "https://img.olx.com.br/images/12/128547144891269.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/128547144891269.jpg",
-      "https://img.olx.com.br/images/13/138535146752057.jpg",
-      "https://img.olx.com.br/images/13/134517386469231.jpg"
-    ],
-    "id": "1386151759",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/madden-2020-nfl-midia-fisica-1386151759",
-    "preco": 85,
-    "precoRaw": "R$ 85",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Madden 2020  NFL  / Mídia Física ",
-    "ts": 1779030115
   }
 ]
