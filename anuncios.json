@@ -1,21 +1,39 @@
 [
   {
-    "id": "1502992208",
-    "titulo": "Controle PS5 novo preto",
-    "preco": 370,
-    "precoRaw": "R$ 370",
-    "categoria": "ps5",
+    "id": "1502992681",
+    "titulo": "Ps4 com defeito ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:31",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "detectado": "10:32",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-ps5-novo-preto-1502992208",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/ps4-com-defeito-1502992681",
+    "fotoUrl": "https://img.olx.com.br/images/19/199614040719381.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/199614040719381.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779111126
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:31",
     "fotoUrl": "https://img.olx.com.br/images/13/133647526627545.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/133647526627545.jpg",
       "https://img.olx.com.br/images/15/150670520539795.jpg"
     ],
-    "defeito": false,
+    "id": "1502992208",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-ps5-novo-preto-1502992208",
+    "preco": 370,
+    "precoRaw": "R$ 370",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "Controle PS5 novo preto",
     "ts": 1779111117
   },
   {
@@ -9921,28 +9939,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "Tiny Tina's Wonderlands Next-Level Edition PS5",
     "ts": 1779037797
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:04",
-    "fotoUrl": "https://img.olx.com.br/images/54/544680764415308.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/544680764415308.jpg",
-      "https://img.olx.com.br/images/55/558639400342789.jpg",
-      "https://img.olx.com.br/images/57/579650645395912.jpg",
-      "https://img.olx.com.br/images/58/589620529919943.jpg",
-      "https://img.olx.com.br/images/60/601602167393155.jpg",
-      "https://img.olx.com.br/images/62/626680400932803.jpg"
-    ],
-    "id": "1502783840",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-512gb-2-controles-bateria-recarregaveis-1502783840",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "XBOX SERIES S - 512GB + 2 CONTROLES + BATERIA RECARREGÁVEIS ",
-    "ts": 1779037468
   }
 ]
