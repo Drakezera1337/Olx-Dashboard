@@ -1,20 +1,39 @@
 [
   {
-    "id": "1502896386",
-    "titulo": "Fifa 20 ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1491806476",
+    "titulo": "PlayStation 4 ",
+    "preco": 950,
+    "precoRaw": "R$ 950",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:39",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "00:41",
+    "tempoOlx": "Na OLX desde maio de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-20-ps4-1502896386",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1491806476",
+    "fotoUrl": "https://img.olx.com.br/images/76/762660158459954.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/762660158459954.jpg",
+      "https://img.olx.com.br/images/78/789627033368363.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779075683
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:39",
     "fotoUrl": "https://img.olx.com.br/images/71/711651886139126.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/711651886139126.jpg"
     ],
-    "defeito": false,
+    "id": "1502896386",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-20-ps4-1502896386",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Fifa 20 ps4",
     "ts": 1779075594
   },
   {
@@ -9865,23 +9884,5 @@
     "tempoOlx": "",
     "titulo": "Jogos PS4",
     "ts": 1779030091
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:01",
-    "fotoUrl": "https://img.olx.com.br/images/41/413566802864350.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/413566802864350.jpg"
-    ],
-    "id": "1440890388",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/rainbowsix-siege-ps4-1440890388",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "RainbowSix Siege Ps4",
-    "ts": 1779030084
   }
 ]
