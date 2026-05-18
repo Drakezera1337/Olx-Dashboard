@@ -1,21 +1,40 @@
 [
   {
-    "id": "1466635999",
-    "titulo": "Jogo PS4 - LEGO Jurassic World",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1466636791",
+    "titulo": "Jogo PS4 - Call Of Duty Ghosts",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:53",
     "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-lego-jurassic-world-1466635999",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-call-of-duty-ghosts-1466636791",
+    "fotoUrl": "https://img.olx.com.br/images/92/925613245501431.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/925613245501431.jpg",
+      "https://img.olx.com.br/images/93/938611369238205.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108796
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:53",
     "fotoUrl": "https://img.olx.com.br/images/41/411684482605350.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/411684482605350.jpg",
       "https://img.olx.com.br/images/43/438639120832435.jpg"
     ],
-    "defeito": false,
+    "id": "1466635999",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-lego-jurassic-world-1466635999",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Jogo PS4 - LEGO Jurassic World",
     "ts": 1779108788
   },
   {
@@ -9869,23 +9888,5 @@
     "tempoOlx": "",
     "titulo": "Xbox one série S",
     "ts": 1779030540
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:08",
-    "fotoUrl": "https://img.olx.com.br/images/46/467593590671665.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/467593590671665.jpg"
-    ],
-    "id": "1462831427",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/limpeza-completa-troca-pasta-termica-ps3-ps4-xbox-one-pc-1462831427",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Limpeza Completa + Troca Pasta Térmica PS3 PS4 Xbox One PC!",
-    "ts": 1779030519
   }
 ]
