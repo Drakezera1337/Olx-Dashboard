@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502888841",
-    "titulo": "Jogos de ps4",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "categoria": "ps4",
+    "id": "1502889559",
+    "titulo": "Elden Ring Mídia Física Novo ",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "23:27",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "23:32",
+    "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1502888841",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/elden-ring-midia-fisica-novo-1502889559",
+    "fotoUrl": "https://img.olx.com.br/images/11/111622768849634.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/111622768849634.jpg",
+      "https://img.olx.com.br/images/12/127626763791047.jpg",
+      "https://img.olx.com.br/images/13/132626161917095.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779071543
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:27",
     "fotoUrl": "https://img.olx.com.br/images/78/780614283318052.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/780614283318052.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/84/846649041374690.jpg",
       "https://img.olx.com.br/images/86/862652402288338.jpg"
     ],
-    "defeito": false,
+    "id": "1502888841",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1502888841",
+    "preco": 125,
+    "precoRaw": "R$ 125",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Jogos de ps4",
     "ts": 1779071221
   },
   {
@@ -9874,25 +9894,5 @@
     "tempoOlx": "",
     "titulo": "Colecionável Fuleco 2014 original garoto",
     "ts": 1779029811
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:56",
-    "fotoUrl": "https://img.olx.com.br/images/81/813649762327231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/813649762327231.jpg",
-      "https://img.olx.com.br/images/83/831643769104996.jpg",
-      "https://img.olx.com.br/images/84/846620888469230.jpg"
-    ],
-    "id": "1502022971",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/new-nintendo-2ds-xl-usado-1502022971",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "New Nintendo 2DS XL Usado ",
-    "ts": 1779029801
   }
 ]
