@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503021197",
-    "titulo": "PS5 portátil + Case",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "categoria": "ps5",
+    "id": "1456219906",
+    "titulo": "NBA 2k18",
+    "preco": 20,
+    "precoRaw": "R$ 20",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:37",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "detectado": "11:39",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/ps5-portatil-case-1503021197",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/nba-2k18-1456219906",
+    "fotoUrl": "https://img.olx.com.br/images/21/210504704333172.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/210504704333172.jpg",
+      "https://img.olx.com.br/images/23/230504827454440.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779115141
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:37",
     "fotoUrl": "https://img.olx.com.br/images/95/953654766927283.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/953654766927283.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/13/132643649008874.jpg",
       "https://img.olx.com.br/images/15/153654403975294.jpg"
     ],
-    "defeito": false,
+    "id": "1503021197",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/ps5-portatil-case-1503021197",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "PS5 portátil + Case",
     "ts": 1779115053
   },
   {
@@ -9912,23 +9931,5 @@
     "tempoOlx": "Na OLX desde setembro de 2021",
     "titulo": "Figurinha da copa do mundo de 2026 Extra sticker do Kilian Mbappé(bronze)",
     "ts": 1779042506
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:24",
-    "fotoUrl": "https://img.olx.com.br/images/61/616638402840688.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/616638402840688.jpg"
-    ],
-    "id": "1502797315",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/cyberpunk-2077-1502797315",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Cyberpunk 2077",
-    "ts": 1779042254
   }
 ]
