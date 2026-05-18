@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503011239",
-    "titulo": "Ps4 ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "ps4",
+    "id": "1503013775",
+    "titulo": "FIFA 14",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "11:14",
-    "tempoOlx": "Na OLX desde julho de 2018",
+    "detectado": "11:15",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1503011239",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/fifa-14-1503013775",
+    "fotoUrl": "https://img.olx.com.br/images/39/397619886539807.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/397619886539807.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779113756
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:14",
     "fotoUrl": "https://img.olx.com.br/images/60/603652162966688.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/603652162966688.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/64/644671526291945.jpg",
       "https://img.olx.com.br/images/71/714683409036450.jpg"
     ],
-    "defeito": false,
+    "id": "1503011239",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1503011239",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2018",
+    "titulo": "Ps4 ",
     "ts": 1779113695
   },
   {
@@ -9890,24 +9908,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Jogo PS4 original Batman cd perfeito",
     "ts": 1779040535
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:55",
-    "fotoUrl": "https://img.olx.com.br/images/77/775642263996089.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/775642263996089.jpg",
-      "https://img.olx.com.br/images/79/793670505050991.jpg"
-    ],
-    "id": "1485809456",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-original-uncharted-4-forq-do-mapa-1485809456",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "Jogo PS4 original \"Uncharted 4\" forq do mapa",
-    "ts": 1779040526
   }
 ]
