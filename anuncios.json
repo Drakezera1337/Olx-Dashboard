@@ -1,21 +1,39 @@
 [
   {
-    "id": "1502879358",
-    "titulo": "Days Gone PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1501258426",
+    "titulo": "Jogos PS4 / PS5",
+    "preco": 3325,
+    "precoRaw": "R$ 3.325",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "22:16",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "detectado": "22:17",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/days-gone-ps4-1502879358",
+    "link": "https://ba.olx.com.br/regiao-de-vitoria-da-conquista-e-barreiras/games/jogos-de-video-game/jogos-ps4-ps5-1501258426",
+    "fotoUrl": "https://img.olx.com.br/images/15/152632160618883.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/152632160618883.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779067020
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:16",
     "fotoUrl": "https://img.olx.com.br/images/78/783692526294213.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/783692526294213.jpg",
       "https://img.olx.com.br/images/80/804656405228553.jpg"
     ],
-    "defeito": false,
+    "id": "1502879358",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/days-gone-ps4-1502879358",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Days Gone PS4",
     "ts": 1779067013
   },
   {
@@ -9891,28 +9909,5 @@
     "tempoOlx": "",
     "titulo": "Controle 8bitdo M30 2.4g sem fio usb dongle original",
     "ts": 1779029496
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:51",
-    "fotoUrl": "https://img.olx.com.br/images/25/253687645812296.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/253687645812296.jpg",
-      "https://img.olx.com.br/images/27/272646769583742.jpg",
-      "https://img.olx.com.br/images/28/285691880371794.jpg",
-      "https://img.olx.com.br/images/29/295618404372659.jpg",
-      "https://img.olx.com.br/images/30/303674884612017.jpg",
-      "https://img.olx.com.br/images/32/326654528698789.jpg"
-    ],
-    "id": "1502709037",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-dsi-1502709037",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo DSI",
-    "ts": 1779029489
   }
 ]
