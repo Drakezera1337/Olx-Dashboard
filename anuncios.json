@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503064226",
-    "titulo": "JOGOS PS4",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps4",
+    "id": "1503064182",
+    "titulo": "PS5 com defeito ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "14:04",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "detectado": "14:05",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogos-ps4-1503064226",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-com-defeito-1503064182",
+    "fotoUrl": "https://img.olx.com.br/images/26/264685765730748.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/264685765730748.jpg",
+      "https://img.olx.com.br/images/27/277694408048896.jpg",
+      "https://img.olx.com.br/images/30/300696400512518.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779123925
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:04",
     "fotoUrl": "https://img.olx.com.br/images/90/904665282618139.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/904665282618139.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/95/953644285865267.jpg",
       "https://img.olx.com.br/images/97/978677281946672.jpg"
     ],
-    "defeito": false,
+    "id": "1503064226",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogos-ps4-1503064226",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "JOGOS PS4",
     "ts": 1779123875
   },
   {
@@ -9903,23 +9923,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Nintendo switch ( Bloqueado) Modelo oled",
     "ts": 1779059663
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:10",
-    "fotoUrl": "https://img.olx.com.br/images/14/148678528638121.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/148678528638121.jpg"
-    ],
-    "id": "1502856221",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-lacrados-1502856221",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Jogos ps4 Lacrados ",
-    "ts": 1779059447
   }
 ]
