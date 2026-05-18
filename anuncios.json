@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503038134",
-    "titulo": "Ps4 Slim 500Gb",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "ps4",
+    "id": "1498053896",
+    "titulo": "Xbox series S ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:20",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "12:23",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-1503038134",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1498053896",
+    "fotoUrl": "https://img.olx.com.br/images/69/694601155898832.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/694601155898832.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779117834
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:20",
     "fotoUrl": "https://img.olx.com.br/images/38/389629409483402.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/389629409483402.jpg",
       "https://img.olx.com.br/images/38/381691764655239.jpg",
       "https://img.olx.com.br/images/38/389694640864140.jpg"
     ],
-    "defeito": false,
+    "id": "1503038134",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-1503038134",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps4 Slim 500Gb",
     "ts": 1779117656
   },
   {
@@ -9904,25 +9922,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Lego Porsche RSR",
-    "ts": 1779055358
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:02",
-    "fotoUrl": "https://img.olx.com.br/images/67/671692161531810.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/671692161531810.jpg",
-      "https://img.olx.com.br/images/70/708648769047259.jpg"
-    ],
-    "id": "1501534452",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/leitor-de-cd-ps5-slim-1501534452",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Leitor de cd ps5 slim ",
     "ts": 1779055358
   }
 ]
