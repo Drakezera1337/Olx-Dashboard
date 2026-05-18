@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503135361",
-    "titulo": "Fórmula 1 ",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "outros",
+    "id": "1503135959",
+    "titulo": "iPhone 14 ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "18:05",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "detectado": "18:06",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/formula-1-1503135361",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1503135959",
+    "fotoUrl": "https://img.olx.com.br/images/52/527635285070166.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/527635285070166.jpg",
+      "https://img.olx.com.br/images/56/566654762958256.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779138418
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:05",
     "fotoUrl": "https://img.olx.com.br/images/34/345614887593598.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/345614887593598.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/39/391634400311116.jpg",
       "https://img.olx.com.br/images/40/403614404955130.jpg"
     ],
-    "defeito": false,
+    "id": "1503135361",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/formula-1-1503135361",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "Fórmula 1 ",
     "ts": 1779138307
   },
   {
@@ -9874,27 +9893,5 @@
     "tempoOlx": "Na OLX desde julho de 2015",
     "titulo": "Batman Return",
     "ts": 1779108976
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:56",
-    "fotoUrl": "https://img.olx.com.br/images/16/161634167011277.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/161634167011277.jpg",
-      "https://img.olx.com.br/images/76/767662769095436.jpg",
-      "https://img.olx.com.br/images/77/770601768870620.jpg",
-      "https://img.olx.com.br/images/79/797622047231710.jpg",
-      "https://img.olx.com.br/images/80/803670287840773.jpg"
-    ],
-    "id": "1502957533",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/assassin-s-creed-odyssey-ps4-novo-1502957533",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2017",
-    "titulo": "Assassin's Creed ODYSSEY PS4 Novo",
-    "ts": 1779108968
   }
 ]
