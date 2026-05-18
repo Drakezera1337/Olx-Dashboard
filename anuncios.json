@@ -1,22 +1,42 @@
 [
   {
-    "id": "1502866221",
-    "titulo": "VENDO PLAYSTATION 5",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1502866143",
+    "titulo": "PlayStation 4 Pro 1TB + 2 Controles + Jogos",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:01",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "detectado": "21:03",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/vendo-playstation-5-1502866221",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-4-pro-1tb-2-controles-jogos-1502866143",
+    "fotoUrl": "https://img.olx.com.br/images/53/534648044306671.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/534648044306671.jpg",
+      "https://img.olx.com.br/images/58/585679766709248.jpg",
+      "https://img.olx.com.br/images/59/594612524801034.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779062632
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:01",
     "fotoUrl": "https://img.olx.com.br/images/40/408622284788192.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/408622284788192.jpg",
       "https://img.olx.com.br/images/42/423615288150230.jpg",
       "https://img.olx.com.br/images/43/436609407967593.jpg"
     ],
-    "defeito": false,
+    "id": "1502866221",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/vendo-playstation-5-1502866221",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "VENDO PLAYSTATION 5",
     "ts": 1779062512
   },
   {
@@ -9899,24 +9919,5 @@
     "tempoOlx": "",
     "titulo": "Funkos Stranger things ",
     "ts": 1779029249
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:47",
-    "fotoUrl": "https://img.olx.com.br/images/63/632617165590568.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/632617165590568.jpg",
-      "https://img.olx.com.br/images/65/659689404688755.jpg"
-    ],
-    "id": "1502301965",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/manutencao-nintendo-swtich-game-portatil-1502301965",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Manutençao nintendo swtich game portatil",
-    "ts": 1779029241
   }
 ]
