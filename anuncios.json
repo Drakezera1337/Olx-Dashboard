@@ -1,21 +1,44 @@
 [
   {
-    "id": "1434612415",
-    "titulo": "Haze PS3",
-    "preco": 35,
-    "precoRaw": "R$ 35",
+    "id": "1502653822",
+    "titulo": "Vendo PS3 slim",
+    "preco": 500,
+    "precoRaw": "R$ 500",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "09:48",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/haze-ps3-1434612415",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps3-slim-1502653822",
+    "fotoUrl": "https://img.olx.com.br/images/29/293645167929953.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/293645167929953.jpg",
+      "https://img.olx.com.br/images/29/291675761165383.jpg",
+      "https://img.olx.com.br/images/30/304655048380014.jpg",
+      "https://img.olx.com.br/images/31/316690046982977.jpg",
+      "https://img.olx.com.br/images/32/329635884173093.jpg",
+      "https://img.olx.com.br/images/33/338670407728859.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108519
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:48",
     "fotoUrl": "https://img.olx.com.br/images/18/181501209482517.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/181501209482517.jpg",
       "https://img.olx.com.br/images/19/196517083333534.jpg"
     ],
-    "defeito": false,
+    "id": "1434612415",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/haze-ps3-1434612415",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "Haze PS3",
     "ts": 1779108506
   },
   {
@@ -9865,26 +9888,5 @@
     "tempoOlx": "",
     "titulo": "Xbox One X - Funcionando Perfeitamente - Sem controle",
     "ts": 1779030368
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:06",
-    "fotoUrl": "https://img.olx.com.br/images/95/958686515131701.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/958686515131701.jpg",
-      "https://img.olx.com.br/images/96/967681637931078.jpg",
-      "https://img.olx.com.br/images/97/974688871157248.jpg",
-      "https://img.olx.com.br/images/98/982633394542741.jpg"
-    ],
-    "id": "1494418828",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-slim-500gb-2-controles-12-jogos-1494418828",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 4 Slim 500gb + 2 Controles + 12 Jogos",
-    "ts": 1779030360
   }
 ]
