@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502885309",
-    "titulo": "Gran turismo",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "jogos",
+    "id": "1502885127",
+    "titulo": "Bloodborne ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "23:03",
     "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/gran-turismo-1502885309",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/bloodborne-1502885127",
+    "fotoUrl": "https://img.olx.com.br/images/37/374689287724695.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/374689287724695.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779069812
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:03",
     "fotoUrl": "https://img.olx.com.br/images/39/395610760374841.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/395610760374841.jpg"
     ],
-    "defeito": false,
+    "id": "1502885309",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/gran-turismo-1502885309",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Gran turismo",
     "ts": 1779069801
   },
   {
@@ -9884,23 +9902,5 @@
     "tempoOlx": "",
     "titulo": "Saints Row 2 (PS3) ",
     "ts": 1779029669
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:54",
-    "fotoUrl": "https://img.olx.com.br/images/33/337615154795925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/337615154795925.jpg"
-    ],
-    "id": "1493314694",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/pro-controller-nintendo-switch-original-1493314694",
-    "preco": 219,
-    "precoRaw": "R$ 219",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Pro Controller Nintendo Switch Original",
-    "ts": 1779029661
   }
 ]
