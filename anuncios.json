@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503177108",
-    "titulo": "Ps3 super slim",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1503177723",
+    "titulo": "Final fantasy VII rebirth ps5",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "20:38",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps3-super-slim-1503177108",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/final-fantasy-vii-rebirth-ps5-1503177723",
+    "fotoUrl": "https://img.olx.com.br/images/15/156643408336576.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/156643408336576.jpg",
+      "https://img.olx.com.br/images/29/292609160293001.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779147514
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:38",
     "fotoUrl": "https://img.olx.com.br/images/62/627600407745442.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/627600407745442.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/70/706681404194972.jpg",
       "https://img.olx.com.br/images/72/721611043236365.jpg"
     ],
-    "defeito": false,
+    "id": "1503177108",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps3-super-slim-1503177108",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Ps3 super slim",
     "ts": 1779147481
   },
   {
@@ -9854,24 +9873,5 @@
     "tempoOlx": "",
     "titulo": "Lote Com 4 Fitas de Super Nintendo Paralelas: Capitain Commando, Papaleguas....",
     "ts": 1779110311
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:18",
-    "fotoUrl": "https://img.olx.com.br/images/78/788601147961839.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/788601147961839.jpg",
-      "https://img.olx.com.br/images/80/800661385752578.jpg"
-    ],
-    "id": "1484447111",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/batman-psvita-1484447111",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "BATMAN (PSVITA)",
-    "ts": 1779110305
   }
 ]
