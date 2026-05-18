@@ -1,20 +1,41 @@
 [
   {
-    "id": "1502896517",
-    "titulo": "Pés 2019 ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1502896749",
+    "titulo": "PS3 slim ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "00:45",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "00:54",
+    "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2019-ps4-1502896517",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-1502896749",
+    "fotoUrl": "https://img.olx.com.br/images/89/898668402443325.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/898668402443325.jpg",
+      "https://img.olx.com.br/images/91/911681766944499.jpg",
+      "https://img.olx.com.br/images/93/932632405374677.jpg",
+      "https://img.olx.com.br/images/94/947668288303827.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779076498
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:45",
     "fotoUrl": "https://img.olx.com.br/images/15/151623280799972.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/151623280799972.jpg"
     ],
-    "defeito": false,
+    "id": "1502896517",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2019-ps4-1502896517",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Pés 2019 ps4",
     "ts": 1779075956
   },
   {
@@ -9859,25 +9880,5 @@
     "tempoOlx": "",
     "titulo": "Jogos PS4",
     "ts": 1779030107
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:01",
-    "fotoUrl": "https://img.olx.com.br/images/17/175617645203713.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/175617645203713.jpg",
-      "https://img.olx.com.br/images/18/186684404213614.jpg",
-      "https://img.olx.com.br/images/20/209650520762887.jpg"
-    ],
-    "id": "1502741672",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/9-jogos-de-ps4-350-00-1502741672",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "9 jogos de PS4 350,00",
-    "ts": 1779030099
   }
 ]
