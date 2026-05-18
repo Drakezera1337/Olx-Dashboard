@@ -1,21 +1,63 @@
 [
   {
-    "id": "1502918323",
-    "titulo": "iPhone 15",
-    "preco": 3300,
-    "precoRaw": "R$ 3.300",
+    "id": "1502563815",
+    "titulo": "iPhone xs",
+    "preco": 400,
+    "precoRaw": "R$ 400",
     "categoria": "iphone",
     "publicado": "",
-    "detectado": "09:45",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "detectado": "09:46",
+    "tempoOlx": "Na OLX desde novembro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-1502918323",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xs-1502563815",
+    "fotoUrl": "https://img.olx.com.br/images/89/892612280728884.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/892612280728884.jpg",
+      "https://img.olx.com.br/images/90/906628285416767.jpg",
+      "https://img.olx.com.br/images/92/926672401054555.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108366
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:45",
+    "fotoUrl": "https://img.olx.com.br/images/99/993654400975245.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/993654400975245.jpg",
+      "https://img.olx.com.br/images/10/102648402352512.jpg",
+      "https://img.olx.com.br/images/10/101632047166578.jpg",
+      "https://img.olx.com.br/images/10/109623524949495.jpg",
+      "https://img.olx.com.br/images/10/100615048934217.jpg"
+    ],
+    "id": "1502958441",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-midia-fisica-1502958441",
+    "preco": 1970,
+    "precoRaw": "R$ 1.970",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PS5 Mídia Física",
+    "ts": 1779108359
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:45",
     "fotoUrl": "https://img.olx.com.br/images/61/614682882144283.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/614682882144283.jpg",
       "https://img.olx.com.br/images/66/662627765030509.jpg"
     ],
-    "defeito": false,
+    "id": "1502918323",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-1502918323",
+    "preco": 3300,
+    "precoRaw": "R$ 3.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "iPhone 15",
     "ts": 1779108358
   },
   {
@@ -9852,44 +9894,5 @@
     "tempoOlx": "",
     "titulo": "God of war Ragnarok _ Ps4-Ps5",
     "ts": 1779030196
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:03",
-    "fotoUrl": "https://img.olx.com.br/images/49/492542051286698.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/492542051286698.jpg",
-      "https://img.olx.com.br/images/50/504509052254858.jpg"
-    ],
-    "id": "1409216671",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/the-wild-at-heart-ps4-1409216671",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "The Wild at Heart - PS4",
-    "ts": 1779030184
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:02",
-    "fotoUrl": "https://img.olx.com.br/images/63/630419713651564.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/630419713651564.jpg",
-      "https://img.olx.com.br/images/64/648494474074733.jpg",
-      "https://img.olx.com.br/images/64/642474233720739.jpg"
-    ],
-    "id": "1353527369",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/world-final-fantasy-ps4-usado-1353527369",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "World Final Fantasy PS4 Usado",
-    "ts": 1779030176
   }
 ]
