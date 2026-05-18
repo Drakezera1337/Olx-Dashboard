@@ -1,21 +1,40 @@
 [
   {
-    "id": "1466636791",
-    "titulo": "Jogo PS4 - Call Of Duty Ghosts",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1466634676",
+    "titulo": "Jogo PS4 Uncharted The Nathan Drake Collection",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:53",
     "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-call-of-duty-ghosts-1466636791",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-uncharted-the-nathan-drake-collection-1466634676",
+    "fotoUrl": "https://img.olx.com.br/images/22/222633129503846.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/222633129503846.jpg",
+      "https://img.olx.com.br/images/23/231649364729865.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108804
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:53",
     "fotoUrl": "https://img.olx.com.br/images/92/925613245501431.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/925613245501431.jpg",
       "https://img.olx.com.br/images/93/938611369238205.jpg"
     ],
-    "defeito": false,
+    "id": "1466636791",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-call-of-duty-ghosts-1466636791",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Jogo PS4 - Call Of Duty Ghosts",
     "ts": 1779108796
   },
   {
@@ -9867,26 +9886,5 @@
     "tempoOlx": "",
     "titulo": "PS3 funcionando normalmente",
     "ts": 1779030559
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:09",
-    "fotoUrl": "https://img.olx.com.br/images/44/446660641121183.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/446660641121183.jpg",
-      "https://img.olx.com.br/images/46/463604762769185.jpg",
-      "https://img.olx.com.br/images/47/471683881745887.jpg",
-      "https://img.olx.com.br/images/49/494641644585318.jpg"
-    ],
-    "id": "1502752586",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-one-serie-s-1502752586",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox one série S",
-    "ts": 1779030540
   }
 ]
