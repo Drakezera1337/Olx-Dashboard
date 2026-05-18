@@ -1,21 +1,39 @@
 [
   {
-    "id": "1503156847",
-    "titulo": "Jogo PS4",
+    "id": "1443701301",
+    "titulo": "Jogos PS4",
     "preco": 50,
     "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:11",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "detectado": "19:12",
+    "tempoOlx": "Na OLX desde outubro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-1503156847",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-ps4-1443701301",
+    "fotoUrl": "https://img.olx.com.br/images/93/933544336684333.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/933544336684333.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779142322
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:11",
     "fotoUrl": "https://img.olx.com.br/images/13/132681883561153.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/132681883561153.jpg",
       "https://img.olx.com.br/images/14/147633402031236.jpg"
     ],
-    "defeito": false,
+    "id": "1503156847",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-1503156847",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Jogo PS4",
     "ts": 1779142315
   },
   {
@@ -9880,25 +9898,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Vendo/ troco por IPhone ",
-    "ts": 1779110168
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:16",
-    "fotoUrl": "https://img.olx.com.br/images/10/104664282146174.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/104664282146174.jpg",
-      "https://img.olx.com.br/images/12/125657765392378.jpg"
-    ],
-    "id": "1500420975",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps-portal-1500420975",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS Portal ",
     "ts": 1779110168
   }
 ]
