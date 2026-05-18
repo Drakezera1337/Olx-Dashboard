@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503167763",
-    "titulo": "Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503168080",
+    "titulo": "Street Fighter e God of War ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:58",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "19:59",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1503167763",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/street-fighter-e-god-of-war-1503168080",
+    "fotoUrl": "https://img.olx.com.br/images/10/103607288584179.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/103607288584179.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779145143
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:58",
     "fotoUrl": "https://img.olx.com.br/images/14/149678162450855.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/149678162450855.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/20/200627520726580.jpg",
       "https://img.olx.com.br/images/21/213660529037850.jpg"
     ],
-    "defeito": false,
+    "id": "1503167763",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1503167763",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Xbox Series S",
     "ts": 1779145111
   },
   {
@@ -9859,25 +9877,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Miniatura HOT WHEELS MÁRIO KARD - Escala 1:64",
-    "ts": 1779110256
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:17",
-    "fotoUrl": "https://img.olx.com.br/images/83/838642274376003.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/838642274376003.jpg",
-      "https://img.olx.com.br/images/85/852683756762052.jpg"
-    ],
-    "id": "1491994620",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-game-trick-lite-novo-no-plastico-1491994620",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo GAME TRICK LITE NOVO NO PLASTICO.",
     "ts": 1779110256
   }
 ]
