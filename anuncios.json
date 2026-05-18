@@ -1,20 +1,40 @@
 [
   {
-    "id": "1443701301",
-    "titulo": "Jogos PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1503157638",
+    "titulo": "Ps4",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:12",
-    "tempoOlx": "Na OLX desde outubro de 2025",
+    "detectado": "19:17",
+    "tempoOlx": "Na OLX desde março de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-ps4-1443701301",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/ps4-1503157638",
+    "fotoUrl": "https://img.olx.com.br/images/40/400625285928709.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/400625285928709.jpg",
+      "https://img.olx.com.br/images/41/419698045014395.jpg",
+      "https://img.olx.com.br/images/43/430684169605327.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779142645
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:12",
     "fotoUrl": "https://img.olx.com.br/images/93/933544336684333.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/933544336684333.jpg"
     ],
-    "defeito": false,
+    "id": "1443701301",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-ps4-1443701301",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2025",
+    "titulo": "Jogos PS4",
     "ts": 1779142322
   },
   {
@@ -9878,26 +9898,5 @@
     "tempoOlx": "",
     "titulo": "Celular industritivel novo",
     "ts": 1779110176
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:16",
-    "fotoUrl": "https://img.olx.com.br/images/20/207644402059383.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/207644402059383.jpg",
-      "https://img.olx.com.br/images/22/223655281369276.jpg",
-      "https://img.olx.com.br/images/25/257645528482577.jpg",
-      "https://img.olx.com.br/images/28/287698047295749.jpg"
-    ],
-    "id": "1500631680",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-troco-por-iphone-1500631680",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo/ troco por IPhone ",
-    "ts": 1779110168
   }
 ]
