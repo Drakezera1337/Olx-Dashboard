@@ -1,20 +1,40 @@
 [
   {
-    "id": "1502992681",
-    "titulo": "Ps4 com defeito ",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps4",
+    "id": "1502283641",
+    "titulo": "Vendo Xbox Séries S Branco",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "10:32",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "10:35",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/ps4-com-defeito-1502992681",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-xbox-series-s-branco-1502283641",
+    "fotoUrl": "https://img.olx.com.br/images/85/859685641334536.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/859685641334536.jpg",
+      "https://img.olx.com.br/images/92/926626884872740.jpg",
+      "https://img.olx.com.br/images/10/100683646224136.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779111325
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:32",
     "fotoUrl": "https://img.olx.com.br/images/19/199614040719381.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/199614040719381.jpg"
     ],
-    "defeito": false,
+    "id": "1502992681",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/ps4-com-defeito-1502992681",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Ps4 com defeito ",
     "ts": 1779111126
   },
   {
@@ -9919,25 +9939,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "Relayer PS5",
     "ts": 1779037805
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:09",
-    "fotoUrl": "https://img.olx.com.br/images/71/718556155103318.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/718556155103318.jpg",
-      "https://img.olx.com.br/images/71/712526637495834.jpg",
-      "https://img.olx.com.br/images/71/714523512635033.jpg"
-    ],
-    "id": "1392507646",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/tiny-tina-s-wonderlands-next-level-edition-ps5-1392507646",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Tiny Tina's Wonderlands Next-Level Edition PS5",
-    "ts": 1779037797
   }
 ]
