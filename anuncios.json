@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503073129",
-    "titulo": "Smartphone iPhone 12 Mini",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "iphone",
+    "id": "1477461590",
+    "titulo": "PlayStation 4, 500mb, 1 controle, com 5 jogos",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:40",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "detectado": "14:44",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/smartphone-iphone-12-mini-1503073129",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-500mb-1-controle-com-5-jogos-1477461590",
+    "fotoUrl": "https://img.olx.com.br/images/81/818690610774724.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/818690610774724.jpg",
+      "https://img.olx.com.br/images/82/826668371305367.jpg",
+      "https://img.olx.com.br/images/84/849618493954339.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779126242
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:40",
     "fotoUrl": "https://img.olx.com.br/images/83/837677289161832.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/837677289161832.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/86/861693523989570.jpg",
       "https://img.olx.com.br/images/87/872641647500150.jpg"
     ],
-    "defeito": false,
+    "id": "1503073129",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/smartphone-iphone-12-mini-1503073129",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Smartphone iPhone 12 Mini",
     "ts": 1779126046
   },
   {
@@ -9914,25 +9934,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Jogo de PS4 God of War Remasterizado",
     "ts": 1779062992
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:03",
-    "fotoUrl": "https://img.olx.com.br/images/53/534648044306671.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/534648044306671.jpg",
-      "https://img.olx.com.br/images/58/585679766709248.jpg",
-      "https://img.olx.com.br/images/59/594612524801034.jpg"
-    ],
-    "id": "1502866143",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-4-pro-1tb-2-controles-jogos-1502866143",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "PlayStation 4 Pro 1TB + 2 Controles + Jogos",
-    "ts": 1779062632
   }
 ]
