@@ -1,22 +1,40 @@
 [
   {
-    "id": "1502861925",
-    "titulo": " PlayStation 4 slim 1TB armazenamento",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1502869721",
+    "titulo": "Jogos PS4 mídia fisica ",
+    "preco": 55,
+    "precoRaw": "R$ 55",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:37",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "22:44",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/playstation-4-slim-1tb-armazenamento-1502861925",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/jogos-ps4-midia-fisica-1502869721",
+    "fotoUrl": "https://img.olx.com.br/images/62/628663284420802.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/628663284420802.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779068692
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:37",
     "fotoUrl": "https://img.olx.com.br/images/19/196646400482955.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/196646400482955.jpg",
       "https://img.olx.com.br/images/19/191689287457052.jpg",
       "https://img.olx.com.br/images/19/196699527072761.jpg"
     ],
-    "defeito": false,
+    "id": "1502861925",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/playstation-4-slim-1tb-armazenamento-1502861925",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": " PlayStation 4 slim 1TB armazenamento",
     "ts": 1779068242
   },
   {
@@ -9888,25 +9906,5 @@
     "tempoOlx": "",
     "titulo": "XBOX ONE 500GB GTA DIGITAL E 5 MIDIAS FISICAS 2 MANETES",
     "ts": 1779029582
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:52",
-    "fotoUrl": "https://img.olx.com.br/images/38/386676760156764.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/386676760156764.jpg",
-      "https://img.olx.com.br/images/38/382649401909629.jpg",
-      "https://img.olx.com.br/images/38/381603163992882.jpg"
-    ],
-    "id": "1502657411",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-digital-1tb-1502657411",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS5 Slim Digital 1tb",
-    "ts": 1779029572
   }
 ]
