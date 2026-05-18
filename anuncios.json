@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503025055",
-    "titulo": "Playstation 4 slim 1 tera de memoria",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
+    "id": "1503027859",
+    "titulo": "Ps4 fat 500 gb",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:50",
-    "tempoOlx": "Na OLX desde março de 2017",
+    "detectado": "11:55",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-slim-1-tera-de-memoria-1503025055",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-fat-500-gb-1503027859",
+    "fotoUrl": "https://img.olx.com.br/images/68/686609642205322.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/686609642205322.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779116155
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:50",
     "fotoUrl": "https://img.olx.com.br/images/86/864644523557043.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/864644523557043.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/90/909617401878245.jpg",
       "https://img.olx.com.br/images/91/910697524436172.jpg"
     ],
-    "defeito": false,
+    "id": "1503025055",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-slim-1-tera-de-memoria-1503025055",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "Playstation 4 slim 1 tera de memoria",
     "ts": 1779115814
   },
   {
@@ -9910,26 +9928,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Vendo iPhone 7         58% de bateria 128GB ",
-    "ts": 1779055348
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:02",
-    "fotoUrl": "https://img.olx.com.br/images/65/655628162289555.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/655628162289555.jpg",
-      "https://img.olx.com.br/images/67/672619889488161.jpg",
-      "https://img.olx.com.br/images/68/685625405411312.jpg"
-    ],
-    "id": "1502644778",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1502644778",
-    "preco": 4300,
-    "precoRaw": "R$ 4.300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Iphone 15 Pro Max 256gb",
     "ts": 1779055348
   }
 ]
