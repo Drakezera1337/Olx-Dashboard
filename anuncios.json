@@ -1,20 +1,39 @@
 [
   {
-    "id": "1463528818",
-    "titulo": "Jogos PS4 Originais (Valores na Descrição!)",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1502892907",
+    "titulo": "XBOX SERIES S",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "23:57",
+    "detectado": "23:59",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-originais-valores-na-descricao-1463528818",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-series-s-1502892907",
+    "fotoUrl": "https://img.olx.com.br/images/28/280616406016643.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/280616406016643.jpg",
+      "https://img.olx.com.br/images/31/316642521760448.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779073163
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:57",
     "fotoUrl": "https://img.olx.com.br/images/70/703562235727788.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/703562235727788.jpg"
     ],
-    "defeito": false,
+    "id": "1463528818",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-originais-valores-na-descricao-1463528818",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Jogos PS4 Originais (Valores na Descrição!)",
     "ts": 1779073075
   },
   {
@@ -9877,26 +9896,5 @@
     "tempoOlx": "",
     "titulo": "Xbox One All Digital",
     "ts": 1779029876
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:57",
-    "fotoUrl": "https://img.olx.com.br/images/32/320648643545259.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/320648643545259.jpg",
-      "https://img.olx.com.br/images/34/343639766336225.jpg",
-      "https://img.olx.com.br/images/34/347668528565551.jpg",
-      "https://img.olx.com.br/images/36/369667160547262.jpg"
-    ],
-    "id": "1501708354",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/lote-com-4-fitas-de-super-nintendo-paralelas-capitain-commando-papaleguas-1501708354",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Lote Com 4 Fitas de Super Nintendo Paralelas: Capitain Commando, Papaleguas....",
-    "ts": 1779029868
   }
 ]
