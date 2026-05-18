@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503147319",
-    "titulo": "PlayStation 4 - 500gb com 1 dualshock + 2 jogos (Leia a descrição)",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "ps4",
+    "id": "1503147194",
+    "titulo": "iPhone 15",
+    "preco": 3300,
+    "precoRaw": "R$ 3.300",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "18:57",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "18:58",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-500gb-com-1-dualshock-2-jogos-leia-a-descricao-1503147319",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-1503147194",
+    "fotoUrl": "https://img.olx.com.br/images/40/409603044495081.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/409603044495081.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779141512
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:57",
     "fotoUrl": "https://img.olx.com.br/images/40/403684401081961.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/403684401081961.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/73/730623888635935.jpg",
       "https://img.olx.com.br/images/76/760694766707541.jpg"
     ],
-    "defeito": false,
+    "id": "1503147319",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-500gb-com-1-dualshock-2-jogos-leia-a-descricao-1503147319",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "PlayStation 4 - 500gb com 1 dualshock + 2 jogos (Leia a descrição)",
     "ts": 1779141477
   },
   {
@@ -9871,24 +9889,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "God of war ragnarok(LACRADO) PS4",
     "ts": 1779109794
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:09",
-    "fotoUrl": "https://img.olx.com.br/images/57/575662407640109.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/575662407640109.jpg",
-      "https://img.olx.com.br/images/63/630610524378502.jpg"
-    ],
-    "id": "1502984861",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/vendo-ou-troco-immortals-fenyx-rising-ps4-5-lacrado-oportunidade-1502984861",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": "Vendo ou Troco - Immortals Fenyx Rising PS4/5 (Lacrado)- OPORTUNIDADE",
-    "ts": 1779109786
   }
 ]
