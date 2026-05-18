@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503182612",
-    "titulo": "AirPods Pro (2nd geração) importado Bluetooth LACRADO",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "outros",
+    "id": "1503183070",
+    "titulo": "Jogos ps4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:57",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "detectado": "20:58",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/airpods-pro-2nd-geracao-importado-bluetooth-lacrado-1503182612",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-ps4-1503183070",
+    "fotoUrl": "https://img.olx.com.br/images/50/508692884810726.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/508692884810726.jpg",
+      "https://img.olx.com.br/images/51/512668160302676.jpg",
+      "https://img.olx.com.br/images/52/528653640533348.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779148707
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:57",
     "fotoUrl": "https://img.olx.com.br/images/44/440686642113626.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/440686642113626.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/49/492628404126257.jpg",
       "https://img.olx.com.br/images/50/505693768288107.jpg"
     ],
-    "defeito": false,
+    "id": "1503182612",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/airpods-pro-2nd-geracao-importado-bluetooth-lacrado-1503182612",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "AirPods Pro (2nd geração) importado Bluetooth LACRADO",
     "ts": 1779148671
   },
   {
@@ -9849,27 +9869,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogos PS4",
-    "ts": 1779110346
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/29/291660044596879.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/291660044596879.jpg",
-      "https://img.olx.com.br/images/31/314666647176785.jpg",
-      "https://img.olx.com.br/images/32/320600645816455.jpg",
-      "https://img.olx.com.br/images/34/346605161101466.jpg"
-    ],
-    "id": "1502988106",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-god-of-war-2-remasterizado-para-ps4-1502988106",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "JOGO GOD OF WAR 2 REMASTERIZADO PARA PS4",
     "ts": 1779110346
   }
 ]
