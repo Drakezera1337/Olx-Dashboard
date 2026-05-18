@@ -1,21 +1,40 @@
 [
   {
-    "id": "1502963299",
-    "titulo": "Ps3",
-    "preco": 400,
-    "precoRaw": "R$ 400",
+    "id": "1461062467",
+    "titulo": "PURE - Ps3",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "09:47",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "tempoOlx": "Na OLX desde setembro de 2016",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-1502963299",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/pure-ps3-1461062467",
+    "fotoUrl": "https://img.olx.com.br/images/90/906511834398412.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/906511834398412.jpg",
+      "https://img.olx.com.br/images/92/928539596516054.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108474
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:47",
     "fotoUrl": "https://img.olx.com.br/images/31/314616765649082.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/314616765649082.jpg",
       "https://img.olx.com.br/images/33/336618768476198.jpg"
     ],
-    "defeito": false,
+    "id": "1502963299",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-1502963299",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "Ps3",
     "ts": 1779108466
   },
   {
@@ -9873,24 +9892,5 @@
     "tempoOlx": "",
     "titulo": "Playstation 5 (Mídia Física)",
     "ts": 1779030332
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:05",
-    "fotoUrl": "https://img.olx.com.br/images/86/863642283233775.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/863642283233775.jpg",
-      "https://img.olx.com.br/images/88/885614760037904.jpg"
-    ],
-    "id": "1502677554",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1502677554",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps4",
-    "ts": 1779030325
   }
 ]
