@@ -1,15 +1,29 @@
 [
   {
-    "id": "1502890239",
-    "titulo": "Console Xbox Série S",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1502890880",
+    "titulo": "PlayStation 3",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "23:35",
-    "tempoOlx": "Na OLX desde abril de 2025",
+    "detectado": "23:39",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/console-xbox-serie-s-1502890239",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1502890880",
+    "fotoUrl": "https://img.olx.com.br/images/24/246632406545069.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/246632406545069.jpg",
+      "https://img.olx.com.br/images/25/252695646080261.jpg",
+      "https://img.olx.com.br/images/26/268667168594984.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779071965
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:35",
     "fotoUrl": "https://img.olx.com.br/images/25/256633764187217.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/256633764187217.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/40/402600408989607.jpg",
       "https://img.olx.com.br/images/43/431682886083658.jpg"
     ],
-    "defeito": false,
+    "id": "1502890239",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/console-xbox-serie-s-1502890239",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "Console Xbox Série S",
     "ts": 1779071723
   },
   {
@@ -9877,24 +9897,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation 5 Completo ",
     "ts": 1779029825
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:56",
-    "fotoUrl": "https://img.olx.com.br/images/15/153678403015338.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/153678403015338.jpg",
-      "https://img.olx.com.br/images/16/169657289471691.jpg"
-    ],
-    "id": "1501997566",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/ps4-manete-1501997566",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4 manete",
-    "ts": 1779029819
   }
 ]
