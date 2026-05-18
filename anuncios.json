@@ -1,21 +1,43 @@
 [
   {
-    "id": "1502943323",
-    "titulo": "Just Dance 2020 PS4",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "ps4",
+    "id": "1502939407",
+    "titulo": "Nintendo WII U Desbloqueado + Wii Remote + Nunchunk + Jogos originais",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "09:49",
     "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/just-dance-2020-ps4-1502943323",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-wii-u-desbloqueado-wii-remote-nunchunk-jogos-originais-1502939407",
+    "fotoUrl": "https://img.olx.com.br/images/41/415685400651419.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/415685400651419.jpg",
+      "https://img.olx.com.br/images/44/442625768858330.jpg",
+      "https://img.olx.com.br/images/47/474605401693951.jpg",
+      "https://img.olx.com.br/images/50/503672645914208.jpg",
+      "https://img.olx.com.br/images/52/523645041027720.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108578
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:49",
     "fotoUrl": "https://img.olx.com.br/images/34/345640401457306.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/345640401457306.jpg",
       "https://img.olx.com.br/images/42/426645288713460.jpg"
     ],
-    "defeito": false,
+    "id": "1502943323",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/just-dance-2020-ps4-1502943323",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Just Dance 2020 PS4",
     "ts": 1779108570
   },
   {
@@ -9871,24 +9893,5 @@
     "tempoOlx": "",
     "titulo": "Xbox séries S ",
     "ts": 1779030415
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:06",
-    "fotoUrl": "https://img.olx.com.br/images/54/544687520982939.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/544687520982939.jpg",
-      "https://img.olx.com.br/images/55/550608047985843.jpg"
-    ],
-    "id": "1501654343",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1501654343",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox series s",
-    "ts": 1779030408
   }
 ]
