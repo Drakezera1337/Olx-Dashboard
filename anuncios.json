@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502999700",
-    "titulo": "Jogos ps4",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "ps4",
+    "id": "1502999664",
+    "titulo": "Rainbow six siege",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "10:46",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "detectado": "10:47",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1502999700",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/rainbow-six-siege-1502999664",
+    "fotoUrl": "https://img.olx.com.br/images/84/842673160149313.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/842673160149313.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779112025
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:46",
     "fotoUrl": "https://img.olx.com.br/images/82/821653047367576.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/821653047367576.jpg"
     ],
-    "defeito": false,
+    "id": "1502999700",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1502999700",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Jogos ps4",
     "ts": 1779112016
   },
   {
@@ -9920,23 +9938,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "IPHONE 11 tela sem nenhum arranhão ",
     "ts": 1779038611
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:17",
-    "fotoUrl": "https://img.olx.com.br/images/76/761640764498798.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/761640764498798.jpg"
-    ],
-    "id": "1502785699",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-512gb-com-controle-original-1502785699",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "Xbox Series S 512GB Com Controle Original",
-    "ts": 1779038275
   }
 ]
