@@ -1,7 +1,7 @@
 [
   {
-    "id": "1485610662",
-    "titulo": "Detroit Become Human - Jogo PS4",
+    "id": "1485610220",
+    "titulo": "Star Wars Jedi Fallen Order - Jogo PS4",
     "preco": 60,
     "precoRaw": "R$ 60",
     "categoria": "ps4",
@@ -9,14 +9,34 @@
     "detectado": "22:11",
     "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/detroit-become-human-jogo-ps4-1485610662",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/star-wars-jedi-fallen-order-jogo-ps4-1485610220",
+    "fotoUrl": "https://img.olx.com.br/images/24/241640746555125.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/241640746555125.jpg",
+      "https://img.olx.com.br/images/27/278662509530128.jpg",
+      "https://img.olx.com.br/images/28/286683149175395.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779066698
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:11",
     "fotoUrl": "https://img.olx.com.br/images/96/966601146576940.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/966601146576940.jpg",
       "https://img.olx.com.br/images/99/994693746202120.jpg",
       "https://img.olx.com.br/images/10/100676142814448.jpg"
     ],
-    "defeito": false,
+    "id": "1485610662",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/detroit-become-human-jogo-ps4-1485610662",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "Detroit Become Human - Jogo PS4",
     "ts": 1779066690
   },
   {
@@ -9898,23 +9918,5 @@
     "tempoOlx": "",
     "titulo": "PS5 CD MÍDIA FÍSICA ORIGINAL ",
     "ts": 1779029471
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:51",
-    "fotoUrl": "https://img.olx.com.br/images/90/900612161851372.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/900612161851372.jpg"
-    ],
-    "id": "1502701665",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/par-de-controles-sem-fio-com-analogico-usb-dongle-2-4hz-estilo-snes-super-famicom-1502701665",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Par de Controles sem fio com analógico - usb dongle 2.4hz estilo Snes Super Famicom",
-    "ts": 1779029464
   }
 ]
