@@ -1,20 +1,42 @@
 [
   {
-    "id": "1461548640",
-    "titulo": "Nioh 2",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "categoria": "outros",
+    "id": "1503147730",
+    "titulo": "Coleção Dragon Ball + Minecraft PS4",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:58",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "18:59",
+    "tempoOlx": "Na OLX desde novembro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/nioh-2-1461548640",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/colecao-dragon-ball-minecraft-ps4-1503147730",
+    "fotoUrl": "https://img.olx.com.br/images/55/551694407036016.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/551694407036016.jpg",
+      "https://img.olx.com.br/images/56/567680767779676.jpg",
+      "https://img.olx.com.br/images/57/570635526772984.jpg",
+      "https://img.olx.com.br/images/59/597689288463112.jpg",
+      "https://img.olx.com.br/images/60/607664642146655.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779141549
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:58",
     "fotoUrl": "https://img.olx.com.br/images/85/854623629024880.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/854623629024880.jpg"
     ],
-    "defeito": false,
+    "id": "1461548640",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/nioh-2-1461548640",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Nioh 2",
     "ts": 1779141539
   },
   {
@@ -9870,23 +9892,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Star Wars JEDI FALLEN ORDER- PS4",
     "ts": 1779109810
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:10",
-    "fotoUrl": "https://img.olx.com.br/images/58/589655154667056.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/589655154667056.jpg"
-    ],
-    "id": "1486201036",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/anthem-ps4-1486201036",
-    "preco": 39,
-    "precoRaw": "R$ 39",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "ANTHEM -  PS4",
-    "ts": 1779109802
   }
 ]
