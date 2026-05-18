@@ -1,15 +1,28 @@
 [
   {
-    "id": "1502898869",
-    "titulo": "Jogos de PS4 mídias fisicas ",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "ps4",
+    "id": "1502918323",
+    "titulo": "iPhone 15",
+    "preco": 3300,
+    "precoRaw": "R$ 3.300",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "01:41",
-    "tempoOlx": "Na OLX desde agosto de 2015",
+    "detectado": "09:45",
+    "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-de-ps4-midias-fisicas-1502898869",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-1502918323",
+    "fotoUrl": "https://img.olx.com.br/images/61/614682882144283.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/614682882144283.jpg",
+      "https://img.olx.com.br/images/66/662627765030509.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779108358
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:41",
     "fotoUrl": "https://img.olx.com.br/images/99/997682408380994.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/997682408380994.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/11/111681280908631.jpg",
       "https://img.olx.com.br/images/12/127610887433937.jpg"
     ],
-    "defeito": false,
+    "id": "1502898869",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-de-ps4-midias-fisicas-1502898869",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "Jogos de PS4 mídias fisicas ",
     "ts": 1779079282
   },
   {
@@ -9872,27 +9891,5 @@
     "tempoOlx": "",
     "titulo": "World Final Fantasy PS4 Usado",
     "ts": 1779030176
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:02",
-    "fotoUrl": "https://img.olx.com.br/images/40/406602527208405.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/406602527208405.jpg",
-      "https://img.olx.com.br/images/41/418668763464105.jpg",
-      "https://img.olx.com.br/images/42/421619167416634.jpg",
-      "https://img.olx.com.br/images/43/436622646889756.jpg",
-      "https://img.olx.com.br/images/44/446684762375938.jpg"
-    ],
-    "id": "1502737951",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-1t-1502737951",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 4 1T",
-    "ts": 1779030169
   }
 ]
