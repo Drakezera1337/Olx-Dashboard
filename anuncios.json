@@ -1,21 +1,43 @@
 [
   {
-    "id": "1503147430",
-    "titulo": "Jogos originais PS3",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "ps3",
+    "id": "1503150413",
+    "titulo": "Nintendo Switch Lite Azul - Usado",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "18:59",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "detectado": "19:01",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-originais-ps3-1503147430",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-azul-usado-1503150413",
+    "fotoUrl": "https://img.olx.com.br/images/37/377683648400932.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/377683648400932.jpg",
+      "https://img.olx.com.br/images/39/395629401934875.jpg",
+      "https://img.olx.com.br/images/41/417669403340131.jpg",
+      "https://img.olx.com.br/images/43/436628640485143.jpg",
+      "https://img.olx.com.br/images/45/454682526493007.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779141719
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:59",
     "fotoUrl": "https://img.olx.com.br/images/45/454614289217498.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/454614289217498.jpg",
       "https://img.olx.com.br/images/46/469636046197680.jpg"
     ],
-    "defeito": false,
+    "id": "1503147430",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-originais-ps3-1503147430",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Jogos originais PS3",
     "ts": 1779141558
   },
   {
@@ -9872,25 +9894,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Mac Mini i5 8gb ram e 320gb com Batocera 10000 jogos",
-    "ts": 1779110155
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:15",
-    "fotoUrl": "https://img.olx.com.br/images/81/815642764018105.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/815642764018105.jpg",
-      "https://img.olx.com.br/images/84/846621881026108.jpg"
-    ],
-    "id": "1501496628",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/consoles-de-video-game/play-5-flat-seminovo-1501496628",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Play 5 Flat Seminovo",
     "ts": 1779110155
   }
 ]
