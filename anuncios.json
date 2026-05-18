@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503042440",
-    "titulo": "Ps4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1503041993",
+    "titulo": "Red dead redemption 2 novo",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:35",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "12:36",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1503042440",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-novo-1503041993",
+    "fotoUrl": "https://img.olx.com.br/images/42/429677165933988.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/429677165933988.jpg",
+      "https://img.olx.com.br/images/44/445631884731219.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779118562
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:35",
     "fotoUrl": "https://img.olx.com.br/images/75/755664765193881.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/755664765193881.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/78/782686648861167.jpg",
       "https://img.olx.com.br/images/80/800673166800427.jpg"
     ],
-    "defeito": false,
+    "id": "1503042440",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1503042440",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Ps4",
     "ts": 1779118554
   },
   {
@@ -9897,26 +9916,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Procurando fornecedores games ",
-    "ts": 1779055388
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:03",
-    "fotoUrl": "https://img.olx.com.br/images/20/205682403746528.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/205682403746528.jpg",
-      "https://img.olx.com.br/images/22/229605408081494.jpg",
-      "https://img.olx.com.br/images/23/230625040151503.jpg"
-    ],
-    "id": "1502542671",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/playstation-4-slim-1502542671",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 4 Slim",
     "ts": 1779055388
   }
 ]
