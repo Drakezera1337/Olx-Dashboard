@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503089559",
-    "titulo": "Ps4",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1384467641",
+    "titulo": "Overwatch Ps4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "15:32",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-1503089559",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/overwatch-ps4-1384467641",
+    "fotoUrl": "https://img.olx.com.br/images/17/173598386632169.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/173598386632169.jpg",
+      "https://img.olx.com.br/images/17/178576508156192.jpg",
+      "https://img.olx.com.br/images/17/178525264542216.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779129169
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:32",
     "fotoUrl": "https://img.olx.com.br/images/77/779648160523539.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/779648160523539.jpg"
     ],
-    "defeito": false,
+    "id": "1503089559",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-1503089559",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "Ps4",
     "ts": 1779129160
   },
   {
@@ -9900,23 +9920,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "Yakuza Kiwami PS4",
     "ts": 1779069053
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:50",
-    "fotoUrl": "https://img.olx.com.br/images/41/415601521547366.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/415601521547366.jpg"
-    ],
-    "id": "1502883412",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/pes-2019-pley-4-1502883412",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "PES 2019 Pley 4",
-    "ts": 1779069044
   }
 ]
