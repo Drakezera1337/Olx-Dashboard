@@ -1,20 +1,39 @@
 [
   {
-    "id": "1502980755",
-    "titulo": "Play 4 vídeo game ",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "outros",
+    "id": "1498333939",
+    "titulo": "Ps4 ",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "09:57",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/play-4-video-game-1502980755",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/ps4-1498333939",
+    "fotoUrl": "https://img.olx.com.br/images/37/372670277147445.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/372670277147445.jpg",
+      "https://img.olx.com.br/images/40/405666754985950.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779109049
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:57",
     "fotoUrl": "https://img.olx.com.br/images/24/247639648451601.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/247639648451601.jpg"
     ],
-    "defeito": false,
+    "id": "1502980755",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/play-4-video-game-1502980755",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "titulo": "Play 4 vídeo game ",
     "ts": 1779109042
   },
   {
@@ -9865,25 +9884,5 @@
     "tempoOlx": "",
     "titulo": "Xbox série s",
     "ts": 1779030675
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:10",
-    "fotoUrl": "https://img.olx.com.br/images/21/215675760133558.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/215675760133558.jpg",
-      "https://img.olx.com.br/images/23/231606045234958.jpg",
-      "https://img.olx.com.br/images/25/256658768033840.jpg"
-    ],
-    "id": "1493677440",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/gravity-rush-playstation-vita-psvita-original-1493677440",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Gravity rush playstation vita psvita original",
-    "ts": 1779030656
   }
 ]
