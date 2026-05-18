@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503064182",
-    "titulo": "PS5 com defeito ",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "ps5",
+    "id": "1475755467",
+    "titulo": "Games ",
+    "preco": 290,
+    "precoRaw": "R$ 290",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "14:05",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "detectado": "14:09",
+    "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-com-defeito-1503064182",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/games-1475755467",
+    "fotoUrl": "https://img.olx.com.br/images/51/512664374627636.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/512664374627636.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779124195
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:05",
     "fotoUrl": "https://img.olx.com.br/images/26/264685765730748.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/264685765730748.jpg",
       "https://img.olx.com.br/images/27/277694408048896.jpg",
       "https://img.olx.com.br/images/30/300696400512518.jpg"
     ],
-    "defeito": false,
+    "id": "1503064182",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-com-defeito-1503064182",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "PS5 com defeito ",
     "ts": 1779123925
   },
   {
@@ -9901,27 +9919,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "Uncharted 1",
     "ts": 1779059752
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:14",
-    "fotoUrl": "https://img.olx.com.br/images/41/414632409085389.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/414632409085389.jpg",
-      "https://img.olx.com.br/images/43/439643643357842.jpg",
-      "https://img.olx.com.br/images/44/444628523656758.jpg",
-      "https://img.olx.com.br/images/46/466689166904880.jpg",
-      "https://img.olx.com.br/images/47/470635769407739.jpg"
-    ],
-    "id": "1502857431",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-bloqueado-modelo-oled-1502857431",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Nintendo switch ( Bloqueado) Modelo oled",
-    "ts": 1779059663
   }
 ]
