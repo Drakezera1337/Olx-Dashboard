@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503181214",
-    "titulo": "Barbada ",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "outros",
+    "id": "1503182307",
+    "titulo": "Ps4 ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:53",
-    "tempoOlx": "Na OLX desde junho de 2017",
+    "detectado": "20:55",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/barbada-1503181214",
+    "link": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/ps4-1503182307",
+    "fotoUrl": "https://img.olx.com.br/images/10/106650285560389.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/106650285560389.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779148556
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:53",
     "fotoUrl": "https://img.olx.com.br/images/94/946683886654194.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/946683886654194.jpg"
     ],
-    "defeito": false,
+    "id": "1503181214",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/barbada-1503181214",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2017",
+    "titulo": "Barbada ",
     "ts": 1779148420
   },
   {
@@ -9849,26 +9867,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps4 Fat",
-    "ts": 1779110346
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/44/444686524957696.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/444686524957696.jpg",
-      "https://img.olx.com.br/images/49/494656641122416.jpg",
-      "https://img.olx.com.br/images/56/566674405839626.jpg"
-    ],
-    "id": "1502986128",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-fat-1tb-1-controle-3-jogos-1502986128",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4 Fat 1TB + 1 Controle + 3 Jogos",
     "ts": 1779110346
   }
 ]
