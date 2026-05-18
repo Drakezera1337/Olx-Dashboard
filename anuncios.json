@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503063000",
-    "titulo": "Ps4 com defeito (faço olxpay)",
-    "preco": 750,
-    "precoRaw": "R$ 750",
+    "id": "1503062131",
+    "titulo": "Ps4 Slim 500Gb",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:59",
-    "tempoOlx": "Na OLX desde junho de 2025",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps4-com-defeito-faco-olxpay-1503063000",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-1503062131",
+    "fotoUrl": "https://img.olx.com.br/images/29/290622283887415.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/290622283887415.jpg",
+      "https://img.olx.com.br/images/30/305636289844635.jpg",
+      "https://img.olx.com.br/images/33/332609403479176.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779123555
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:59",
     "fotoUrl": "https://img.olx.com.br/images/85/854638401410845.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/854638401410845.jpg"
     ],
-    "defeito": false,
+    "id": "1503063000",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps4-com-defeito-faco-olxpay-1503063000",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2025",
+    "titulo": "Ps4 com defeito (faço olxpay)",
     "ts": 1779123547
   },
   {
@@ -9895,25 +9915,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Nintendo switch não liga",
     "ts": 1779058852
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:59",
-    "fotoUrl": "https://img.olx.com.br/images/84/849590161501881.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/849590161501881.jpg",
-      "https://img.olx.com.br/images/85/851530883786991.jpg",
-      "https://img.olx.com.br/images/85/856578040556650.jpg"
-    ],
-    "id": "1402748616",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/l-a-noire-ps4-jogo-novo-lacrado-1402748616",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2022",
-    "titulo": "L.A. Noire PS4 - Jogo Novo LACRADO",
-    "ts": 1779058793
   }
 ]
