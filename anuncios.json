@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503104422",
-    "titulo": "FIFA 22(PS4)",
-    "preco": 95,
-    "precoRaw": "R$ 95",
-    "categoria": "ps4",
+    "id": "1503106162",
+    "titulo": "iPhone 12 128GB",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "16:18",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "detectado": "16:22",
+    "tempoOlx": "Na OLX desde maio de 2023",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-22-ps4-1503104422",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-1503106162",
+    "fotoUrl": "https://img.olx.com.br/images/95/958628163230512.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/958628163230512.jpg",
+      "https://img.olx.com.br/images/99/999636647707223.jpg",
+      "https://img.olx.com.br/images/14/145631409771721.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779132147
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:18",
     "fotoUrl": "https://img.olx.com.br/images/29/294672641811947.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/294672641811947.jpg"
     ],
-    "defeito": false,
+    "id": "1503104422",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/fifa-22-ps4-1503104422",
+    "preco": 95,
+    "precoRaw": "R$ 95",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "FIFA 22(PS4)",
     "ts": 1779131939
   },
   {
@@ -9875,23 +9895,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "Uncharted 4",
     "ts": 1779074904
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:28",
-    "fotoUrl": "https://img.olx.com.br/images/12/125690163490961.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/125690163490961.jpg"
-    ],
-    "id": "1502895370",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-originais-de-ps3-gta-v-cod-black-ops-iii-e-mais-1502895370",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "JOGOS ORIGINAIS DE PS3 - GTA V, COD BLACK OPS III E MAIS",
-    "ts": 1779074894
   }
 ]
