@@ -1,22 +1,40 @@
 [
   {
-    "id": "1465998892",
-    "titulo": "Doom Eternal ",
-    "preco": 95,
-    "precoRaw": "R$ 95",
+    "id": "1441523318",
+    "titulo": "Contra Rogue Corps (novo lacrado)",
+    "preco": 75,
+    "precoRaw": "R$ 75",
     "categoria": "outros",
     "publicado": "",
     "detectado": "17:11",
     "tempoOlx": "Na OLX desde setembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/doom-eternal-1465998892",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/contra-rogue-corps-novo-lacrado-1441523318",
+    "fotoUrl": "https://img.olx.com.br/images/74/749502456607312.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/749502456607312.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779135084
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:11",
     "fotoUrl": "https://img.olx.com.br/images/67/679666738464040.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/679666738464040.jpg",
       "https://img.olx.com.br/images/76/763616130939067.jpg",
       "https://img.olx.com.br/images/80/808648133620817.jpg"
     ],
-    "defeito": false,
+    "id": "1465998892",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/doom-eternal-1465998892",
+    "preco": 95,
+    "precoRaw": "R$ 95",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "Doom Eternal ",
     "ts": 1779135072
   },
   {
@@ -9881,24 +9899,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "PURE - Ps3",
     "ts": 1779108474
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:47",
-    "fotoUrl": "https://img.olx.com.br/images/31/314616765649082.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/314616765649082.jpg",
-      "https://img.olx.com.br/images/33/336618768476198.jpg"
-    ],
-    "id": "1502963299",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-1502963299",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2023",
-    "titulo": "Ps3",
-    "ts": 1779108466
   }
 ]
