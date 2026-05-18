@@ -1,21 +1,39 @@
 [
   {
-    "id": "1491806476",
-    "titulo": "PlayStation 4 ",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1502896517",
+    "titulo": "Pés 2019 ps4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:41",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "detectado": "00:45",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1491806476",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2019-ps4-1502896517",
+    "fotoUrl": "https://img.olx.com.br/images/15/151623280799972.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/151623280799972.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779075956
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:41",
     "fotoUrl": "https://img.olx.com.br/images/76/762660158459954.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/762660158459954.jpg",
       "https://img.olx.com.br/images/78/789627033368363.jpg"
     ],
-    "defeito": false,
+    "id": "1491806476",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1491806476",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "PlayStation 4 ",
     "ts": 1779075683
   },
   {
@@ -9861,28 +9879,5 @@
     "tempoOlx": "",
     "titulo": "9 jogos de PS4 350,00",
     "ts": 1779030099
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:01",
-    "fotoUrl": "https://img.olx.com.br/images/75/758698406187253.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/758698406187253.jpg",
-      "https://img.olx.com.br/images/76/767696887535567.jpg",
-      "https://img.olx.com.br/images/78/789698885974766.jpg",
-      "https://img.olx.com.br/images/79/799628042405330.jpg",
-      "https://img.olx.com.br/images/80/806636527621656.jpg",
-      "https://img.olx.com.br/images/82/825685161730151.jpg"
-    ],
-    "id": "1502742467",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/jogos-ps4-1502742467",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogos PS4",
-    "ts": 1779030091
   }
 ]
