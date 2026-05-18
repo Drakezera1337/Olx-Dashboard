@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503160641",
-    "titulo": "Jogos ps4",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "categoria": "ps4",
+    "id": "1503160373",
+    "titulo": "GTA V ",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "19:21",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "tempoOlx": "Na OLX desde novembro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1503160641",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/gta-v-1503160373",
+    "fotoUrl": "https://img.olx.com.br/images/87/872622282892992.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/872622282892992.jpg",
+      "https://img.olx.com.br/images/89/892670765202969.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779142893
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:21",
     "fotoUrl": "https://img.olx.com.br/images/23/238636280959507.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/238636280959507.jpg"
     ],
-    "defeito": false,
+    "id": "1503160641",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1503160641",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Jogos ps4",
     "ts": 1779142885
   },
   {
@@ -9872,27 +9891,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 14 ",
-    "ts": 1779110176
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:16",
-    "fotoUrl": "https://img.olx.com.br/images/69/693689396083358.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/693689396083358.jpg",
-      "https://img.olx.com.br/images/70/705602399077747.jpg",
-      "https://img.olx.com.br/images/71/718640270867169.jpg",
-      "https://img.olx.com.br/images/72/726663753059912.jpg"
-    ],
-    "id": "1497801800",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/poco-x6-pro-1497801800",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "POCO X6 PRO",
     "ts": 1779110176
   }
 ]
