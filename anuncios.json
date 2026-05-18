@@ -1,22 +1,42 @@
 [
   {
-    "id": "1502805373",
-    "titulo": "Ps4 1 tb com defeito. Leia anúncio.",
-    "preco": 490,
-    "precoRaw": "R$ 490",
-    "categoria": "ps4",
+    "id": "1503126298",
+    "titulo": "Xbox Series S",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "20:03",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "detectado": "20:04",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-1-tb-com-defeito-leia-anuncio-1502805373",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1503126298",
+    "fotoUrl": "https://img.olx.com.br/images/57/578699769887544.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/578699769887544.jpg",
+      "https://img.olx.com.br/images/58/589636407475048.jpg",
+      "https://img.olx.com.br/images/59/591646168858292.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779145477
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:03",
     "fotoUrl": "https://img.olx.com.br/images/42/428625045124438.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/428625045124438.jpg",
       "https://img.olx.com.br/images/43/438609646704101.jpg",
       "https://img.olx.com.br/images/45/458661049399810.jpg"
     ],
-    "defeito": false,
+    "id": "1502805373",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-1-tb-com-defeito-leia-anuncio-1502805373",
+    "preco": 490,
+    "precoRaw": "R$ 490",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Ps4 1 tb com defeito. Leia anúncio.",
     "ts": 1779145381
   },
   {
@@ -9864,24 +9884,5 @@
     "tempoOlx": "",
     "titulo": "Caixa manual e berço Nintendo Switch Lite Grey",
     "ts": 1779110264
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:17",
-    "fotoUrl": "https://img.olx.com.br/images/10/107612405598321.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/107612405598321.jpg",
-      "https://img.olx.com.br/images/10/107674524216711.jpg"
-    ],
-    "id": "1502728149",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/game-portatil-lacrado-1502728149",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Game portatil ( LACRADO )",
-    "ts": 1779110256
   }
 ]
