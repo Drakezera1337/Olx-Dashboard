@@ -1,20 +1,43 @@
 [
   {
-    "id": "1503053464",
-    "titulo": "Troco ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "outros",
+    "id": "1503054862",
+    "titulo": "Ps4 com defeito mais controle original",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:24",
-    "tempoOlx": "Na OLX desde março de 2013",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/troco-1503053464",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps4-com-defeito-mais-controle-original-1503054862",
+    "fotoUrl": "https://img.olx.com.br/images/61/619656161632959.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/619656161632959.jpg",
+      "https://img.olx.com.br/images/63/632605400279904.jpg",
+      "https://img.olx.com.br/images/65/651608281998012.jpg",
+      "https://img.olx.com.br/images/67/675672164576563.jpg",
+      "https://img.olx.com.br/images/68/681667527918844.jpg",
+      "https://img.olx.com.br/images/70/704643644905013.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779121496
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:24",
     "fotoUrl": "https://img.olx.com.br/images/94/948678520295271.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/948678520295271.jpg"
     ],
-    "defeito": false,
+    "id": "1503053464",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/troco-1503053464",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2013",
+    "titulo": "Troco ",
     "ts": 1779121446
   },
   {
@@ -9890,28 +9913,5 @@
     "tempoOlx": "Na OLX desde maio de 2018",
     "titulo": "Caixa PS5",
     "ts": 1779055642
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:06",
-    "fotoUrl": "https://img.olx.com.br/images/99/995637765152950.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/995637765152950.jpg",
-      "https://img.olx.com.br/images/10/108696760027933.jpg",
-      "https://img.olx.com.br/images/11/116631520062460.jpg",
-      "https://img.olx.com.br/images/13/138606283169688.jpg",
-      "https://img.olx.com.br/images/14/144655161910674.jpg",
-      "https://img.olx.com.br/images/16/168655286418571.jpg"
-    ],
-    "id": "1502827432",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-com-defeito-faz-o-bip-mas-nao-liga-sem-controles-ler-a-descricao-do-anuncio-1502827432",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS5 com Defeito. Faz o bip mas não liga. Sem controles. LER A DESCRIÇÃO DO ANÚNCIO.",
-    "ts": 1779055596
   }
 ]
