@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503178248",
-    "titulo": "Xbox series s banido",
-    "preco": 530,
-    "precoRaw": "R$ 530",
-    "categoria": "xbox",
+    "id": "1503178847",
+    "titulo": "Crash trilogia ps4",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:41",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/xbox-series-s-banido-1503178248",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/crash-trilogia-ps4-1503178847",
+    "fotoUrl": "https://img.olx.com.br/images/42/421675169395666.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/421675169395666.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779147671
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:41",
     "fotoUrl": "https://img.olx.com.br/images/37/374614165414225.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/374614165414225.jpg"
     ],
-    "defeito": false,
+    "id": "1503178248",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/xbox-series-s-banido-1503178248",
+    "preco": 530,
+    "precoRaw": "R$ 530",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "Xbox series s banido",
     "ts": 1779147660
   },
   {
@@ -9847,28 +9865,5 @@
     "tempoOlx": "",
     "titulo": "?*VENDOO*?",
     "ts": 1779110325
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:18",
-    "fotoUrl": "https://img.olx.com.br/images/13/138685047323821.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/138685047323821.jpg",
-      "https://img.olx.com.br/images/18/186653287697026.jpg",
-      "https://img.olx.com.br/images/19/192657648846367.jpg",
-      "https://img.olx.com.br/images/21/219603402199346.jpg",
-      "https://img.olx.com.br/images/23/238631646161684.jpg",
-      "https://img.olx.com.br/images/25/256683285925918.jpg"
-    ],
-    "id": "1495439939",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-1tb-estado-de-novo-1495439939",
-    "preco": 2700,
-    "precoRaw": "R$ 2.700",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS5 Slim 1TB - Estado de Novo! ",
-    "ts": 1779110311
   }
 ]
