@@ -1,20 +1,43 @@
 [
   {
-    "id": "1503069822",
-    "titulo": "Dark Souls 3",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1428204750",
+    "titulo": "Variedades de Jogos PS4",
+    "preco": 420,
+    "precoRaw": "R$ 420",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:26",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "detectado": "14:27",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-3-1503069822",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/variedades-de-jogos-ps4-1428204750",
+    "fotoUrl": "https://img.olx.com.br/images/65/653523437764437.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/653523437764437.jpg",
+      "https://img.olx.com.br/images/65/659574676817091.jpg",
+      "https://img.olx.com.br/images/65/658550311439638.jpg",
+      "https://img.olx.com.br/images/65/659594677880563.jpg",
+      "https://img.olx.com.br/images/65/658535071123511.jpg",
+      "https://img.olx.com.br/images/88/882560196067721.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779125231
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:26",
     "fotoUrl": "https://img.olx.com.br/images/96/963681768655282.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/963681768655282.jpg"
     ],
-    "defeito": false,
+    "id": "1503069822",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-3-1503069822",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Dark Souls 3",
     "ts": 1779125208
   },
   {
@@ -9901,26 +9924,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "Coleção de Jogos para Playstation 4",
     "ts": 1779060771
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:28",
-    "fotoUrl": "https://img.olx.com.br/images/11/114680403148676.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/114680403148676.jpg",
-      "https://img.olx.com.br/images/15/156679648615038.jpg",
-      "https://img.olx.com.br/images/19/190652287804581.jpg",
-      "https://img.olx.com.br/images/23/233648281056761.jpg"
-    ],
-    "id": "1502117150",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/console-da-playstation-portal-loja-fisica-garantia-aceito-trocas-1502117150",
-    "preco": 1090,
-    "precoRaw": "R$ 1.090",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Console Da Playstation Portal - Loja Fisica - Garantia - Aceito Trocas ",
-    "ts": 1779060535
   }
 ]
