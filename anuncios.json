@@ -1,21 +1,40 @@
 [
   {
-    "id": "1492532565",
-    "titulo": "PES 2015 PS4",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "ps4",
+    "id": "1503055476",
+    "titulo": "Play 4",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:30",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2015-ps4-1492532565",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/play-4-1503055476",
+    "fotoUrl": "https://img.olx.com.br/images/77/776688164785136.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/776688164785136.jpg",
+      "https://img.olx.com.br/images/79/792697767802057.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779121813
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:30",
     "fotoUrl": "https://img.olx.com.br/images/65/655670514996574.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/655670514996574.jpg",
       "https://img.olx.com.br/images/66/666644270122351.jpg"
     ],
-    "defeito": false,
+    "id": "1492532565",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2015-ps4-1492532565",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "PES 2015 PS4",
     "ts": 1779121805
   },
   {
@@ -9888,23 +9907,5 @@
     "tempoOlx": "Na OLX desde setembro de 2022",
     "titulo": "Jogos de PlayStation no precinho ",
     "ts": 1779056280
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:17",
-    "fotoUrl": "https://img.olx.com.br/images/56/562693765597977.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/562693765597977.jpg"
-    ],
-    "id": "1502847271",
-    "link": "https://rr.olx.com.br/roraima/games/jogos-de-video-game/jogos-ps4-ps5-1502847271",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Jogos ps4/ps5",
-    "ts": 1779056272
   }
 ]
