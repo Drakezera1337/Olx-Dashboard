@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503113101",
-    "titulo": "PS4 Slim + Controle + 10 Jogos + Base ",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
+    "id": "1503111857",
+    "titulo": "PS4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:46",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "detectado": "16:47",
+    "tempoOlx": "Na OLX desde agosto de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-controle-10-jogos-base-1503113101",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1503111857",
+    "fotoUrl": "https://img.olx.com.br/images/11/114674288286013.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/114674288286013.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779133630
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:46",
     "fotoUrl": "https://img.olx.com.br/images/22/228664649769322.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/228664649769322.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/41/419623642126337.jpg",
       "https://img.olx.com.br/images/43/433616282692655.jpg"
     ],
-    "defeito": false,
+    "id": "1503113101",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-controle-10-jogos-base-1503113101",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "PS4 Slim + Controle + 10 Jogos + Base ",
     "ts": 1779133619
   },
   {
@@ -9876,25 +9894,5 @@
     "tempoOlx": "Na OLX desde outubro de 2015",
     "titulo": "Ps Portátil/Semi Novo/ Caixa",
     "ts": 1779108368
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:46",
-    "fotoUrl": "https://img.olx.com.br/images/89/892612280728884.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/892612280728884.jpg",
-      "https://img.olx.com.br/images/90/906628285416767.jpg",
-      "https://img.olx.com.br/images/92/926672401054555.jpg"
-    ],
-    "id": "1502563815",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xs-1502563815",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2021",
-    "titulo": "iPhone xs",
-    "ts": 1779108366
   }
 ]
