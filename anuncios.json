@@ -1,15 +1,32 @@
 [
   {
-    "id": "1503059001",
-    "titulo": "Ps4 ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1503058501",
+    "titulo": "PS4 FAT + controle e jogos (LEIA A DESCRIÇÃO)",
+    "preco": 950,
+    "precoRaw": "R$ 950",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:43",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "detectado": "13:44",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/ps4-1503059001",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps4-fat-controle-e-jogos-leia-a-descricao-1503058501",
+    "fotoUrl": "https://img.olx.com.br/images/14/140622284107100.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/140622284107100.jpg",
+      "https://img.olx.com.br/images/16/160677043105571.jpg",
+      "https://img.olx.com.br/images/17/174636404908178.jpg",
+      "https://img.olx.com.br/images/18/186646525156713.jpg",
+      "https://img.olx.com.br/images/19/191617880592026.jpg",
+      "https://img.olx.com.br/images/20/204629641181436.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779122649
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:43",
     "fotoUrl": "https://img.olx.com.br/images/11/119601764647813.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/119601764647813.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/17/174682643240754.jpg",
       "https://img.olx.com.br/images/19/199642646848302.jpg"
     ],
-    "defeito": false,
+    "id": "1503059001",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/ps4-1503059001",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Ps4 ",
     "ts": 1779122583
   },
   {
@@ -9895,24 +9918,5 @@
     "tempoOlx": "Na OLX desde abril de 2023",
     "titulo": "Call of Duty: Advanced Warfare - PS4",
     "ts": 1779057045
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:30",
-    "fotoUrl": "https://img.olx.com.br/images/18/183524036778430.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/183524036778430.jpg",
-      "https://img.olx.com.br/images/18/188556756982556.jpg"
-    ],
-    "id": "1392681883",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-infinite-warfare-ps4-1392681883",
-    "preco": 119,
-    "precoRaw": "R$ 119",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2023",
-    "titulo": "Call of Duty: Infinite Warfare - PS4",
-    "ts": 1779057037
   }
 ]
