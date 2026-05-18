@@ -1,15 +1,27 @@
 [
   {
-    "id": "1452407943",
-    "titulo": "PlayStation 4 Slim (excelente estado)",
-    "preco": 1550,
-    "precoRaw": "R$ 1.550",
+    "id": "1446225952",
+    "titulo": "Tom clancys the division 2 ps4 (lacrado)",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:28",
-    "tempoOlx": "Na OLX desde maio de 2017",
+    "detectado": "22:32",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-slim-excelente-estado-1452407943",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/tom-clancys-the-division-2-ps4-lacrado-1446225952",
+    "fotoUrl": "https://img.olx.com.br/images/54/544519577016779.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/544519577016779.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779067971
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:28",
     "fotoUrl": "https://img.olx.com.br/images/20/202511701910572.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/202511701910572.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/24/246585940559959.jpg",
       "https://img.olx.com.br/images/25/255588220315177.jpg"
     ],
-    "defeito": false,
+    "id": "1452407943",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-slim-excelente-estado-1452407943",
+    "preco": 1550,
+    "precoRaw": "R$ 1.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "PlayStation 4 Slim (excelente estado)",
     "ts": 1779067724
   },
   {
@@ -9895,25 +9913,5 @@
     "tempoOlx": "",
     "titulo": "Ps4 slim 1t mais jogos",
     "ts": 1779029528
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:51",
-    "fotoUrl": "https://img.olx.com.br/images/97/979639163176415.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/979639163176415.jpg",
-      "https://img.olx.com.br/images/11/116606409378193.jpg",
-      "https://img.olx.com.br/images/14/149673888604020.jpg"
-    ],
-    "id": "1502687978",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/red-dead-redemption-2-1502687978",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "RED DEAD REDEMPTION 2",
-    "ts": 1779029519
   }
 ]
