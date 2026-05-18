@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503113743",
-    "titulo": "PS4 Slim + Controle + 8 Jogos ",
-    "preco": 1290,
-    "precoRaw": "R$ 1.290",
+    "id": "1503116394",
+    "titulo": "Playstation 4",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:53",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "detectado": "16:58",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-controle-8-jogos-1503113743",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-4-1503116394",
+    "fotoUrl": "https://img.olx.com.br/images/30/301697285803989.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/301697285803989.jpg",
+      "https://img.olx.com.br/images/32/321655649058510.jpg",
+      "https://img.olx.com.br/images/39/397627528921823.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779134302
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:53",
     "fotoUrl": "https://img.olx.com.br/images/56/568603769038497.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/568603769038497.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/68/688605527295337.jpg",
       "https://img.olx.com.br/images/71/713662285215524.jpg"
     ],
-    "defeito": false,
+    "id": "1503113743",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-controle-8-jogos-1503113743",
+    "preco": 1290,
+    "precoRaw": "R$ 1.290",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "PS4 Slim + Controle + 8 Jogos ",
     "ts": 1779134026
   },
   {
@@ -9879,26 +9899,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Ps portal 30 anos ",
     "ts": 1779108390
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:46",
-    "fotoUrl": "https://img.olx.com.br/images/93/930653526524578.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/930653526524578.jpg",
-      "https://img.olx.com.br/images/95/959620288362410.jpg",
-      "https://img.olx.com.br/images/96/969682886226626.jpg",
-      "https://img.olx.com.br/images/98/981617163140060.jpg"
-    ],
-    "id": "1502945072",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-digital-usado-1502945072",
-    "preco": 2450,
-    "precoRaw": "R$ 2.450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "Ps5 digital usado ",
-    "ts": 1779108382
   }
 ]
