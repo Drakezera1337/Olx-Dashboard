@@ -1,21 +1,40 @@
 [
   {
-    "id": "1503450068",
-    "titulo": "Balestation Faive",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "outros",
+    "id": "1503427227",
+    "titulo": "LOTE jogos ps4/ps5",
+    "preco": 480,
+    "precoRaw": "R$ 480",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "18:34",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "tempoOlx": "Na OLX desde agosto de 2023",
     "descricao": "",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/balestation-faive-1503450068",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lote-jogos-ps4-ps5-1503427227",
+    "fotoUrl": "https://img.olx.com.br/images/77/771647403585240.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/771647403585240.jpg",
+      "https://img.olx.com.br/images/80/805605283013017.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779226472
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:34",
     "fotoUrl": "https://img.olx.com.br/images/12/122661888672814.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/122661888672814.jpg",
       "https://img.olx.com.br/images/13/133603761713082.jpg"
     ],
-    "defeito": false,
+    "id": "1503450068",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/balestation-faive-1503450068",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Balestation Faive",
     "ts": 1779226464
   },
   {
@@ -9816,24 +9835,5 @@
     "tempoOlx": "Na OLX desde novembro de 2017",
     "titulo": "The last of us 2",
     "ts": 1779137240
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:47",
-    "fotoUrl": "https://img.olx.com.br/images/53/537635523370324.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/537635523370324.jpg",
-      "https://img.olx.com.br/images/55/554676525335255.jpg"
-    ],
-    "id": "1503130655",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/call-of-duty-modern-warfare-1503130655",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2024",
-    "titulo": "Call Of Duty Modern Warfare ",
-    "ts": 1779137227
   }
 ]
