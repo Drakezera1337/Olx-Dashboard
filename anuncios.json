@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503383070",
-    "titulo": "Ps4 sem funcionar ",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps4",
+    "id": "1503383193",
+    "titulo": "Xbox 360 conservado e com jogos",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "14:50",
+    "detectado": "14:52",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-sem-funcionar-1503383070",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/xbox-360-conservado-e-com-jogos-1503383193",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1779213177
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:50",
     "fotoUrl": "https://img.olx.com.br/images/95/951624760899222.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/951624760899222.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/99/994697401082407.jpg",
       "https://img.olx.com.br/images/11/113621164888603.jpg"
     ],
-    "defeito": false,
+    "id": "1503383070",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-sem-funcionar-1503383070",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 sem funcionar ",
     "ts": 1779213008
   },
   {
@@ -9802,27 +9820,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "JOGOS PS4 ORIGINAIS",
     "ts": 1779128374
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:16",
-    "fotoUrl": "https://img.olx.com.br/images/65/651685407423456.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/651685407423456.jpg",
-      "https://img.olx.com.br/images/75/750690645351971.jpg",
-      "https://img.olx.com.br/images/84/843653043638359.jpg",
-      "https://img.olx.com.br/images/93/933643044332966.jpg",
-      "https://img.olx.com.br/images/10/103672763997756.jpg"
-    ],
-    "id": "1503083168",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-1503083168",
-    "preco": 2950,
-    "precoRaw": "R$ 2.950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "PS5",
-    "ts": 1779128192
   }
 ]
