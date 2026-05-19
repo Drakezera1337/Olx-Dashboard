@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503189404",
-    "titulo": "PS3 SUPER SLIM (DESBLOQUEADO)",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1503189964",
+    "titulo": "PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:28",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "21:30",
+    "tempoOlx": "Na OLX desde julho de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-super-slim-desbloqueado-1503189404",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1503189964",
+    "fotoUrl": "https://img.olx.com.br/images/89/897689641920041.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/897689641920041.jpg",
+      "https://img.olx.com.br/images/90/904629640083833.jpg",
+      "https://img.olx.com.br/images/93/933650289306952.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779150629
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:28",
     "fotoUrl": "https://img.olx.com.br/images/58/585668885821614.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/585668885821614.jpg"
     ],
-    "defeito": false,
+    "id": "1503189404",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-super-slim-desbloqueado-1503189404",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "PS3 SUPER SLIM (DESBLOQUEADO)",
     "ts": 1779150509
   },
   {
@@ -9823,24 +9843,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "FIFA 15 - PS4 (LACRADO)",
     "ts": 1779111368
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:35",
-    "fotoUrl": "https://img.olx.com.br/images/68/686680845390615.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/686680845390615.jpg",
-      "https://img.olx.com.br/images/68/685601480258409.jpg"
-    ],
-    "id": "1469189415",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/the-surge-2-ps4-ps5-lacrado-americano-1469189415",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2025",
-    "titulo": "The Surge 2 PS4 PS5 LACRADO - (Americano)",
-    "ts": 1779111359
   }
 ]
