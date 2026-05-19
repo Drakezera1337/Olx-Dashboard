@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503306443",
-    "titulo": "Xbox One series s ",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "categoria": "xbox",
+    "id": "1503478346",
+    "titulo": "Ps3 super slim desbloqueado",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "19:56",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "detectado": "19:58",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-series-s-1503306443",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps3-super-slim-desbloqueado-1503478346",
+    "fotoUrl": "https://img.olx.com.br/images/59/593670400484548.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/593670400484548.jpg",
+      "https://img.olx.com.br/images/61/611643287646675.jpg",
+      "https://img.olx.com.br/images/62/629699643560514.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779231536
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:56",
     "fotoUrl": "https://img.olx.com.br/images/15/153663409861331.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/153663409861331.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/21/214671760268723.jpg",
       "https://img.olx.com.br/images/82/820695523205885.jpg"
     ],
-    "defeito": false,
+    "id": "1503306443",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-series-s-1503306443",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "Xbox One series s ",
     "ts": 1779231385
   },
   {
@@ -9817,25 +9837,5 @@
     "tempoOlx": "Na OLX desde julho de 2025",
     "titulo": "Jogos de PS4",
     "ts": 1779141992
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:06",
-    "fotoUrl": "https://img.olx.com.br/images/82/820531479585899.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/820531479585899.jpg",
-      "https://img.olx.com.br/images/85/852569478450455.jpg",
-      "https://img.olx.com.br/images/88/885593112242567.jpg"
-    ],
-    "id": "1460373822",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/call-of-duty-1460373822",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2018",
-    "titulo": "Call of Duty",
-    "ts": 1779141984
   }
 ]
