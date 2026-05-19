@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503343123",
-    "titulo": "PlayStation 5 ",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1503421625",
+    "titulo": "PS4  Vídeo Game ",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:02",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-5-1503343123",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps4-video-game-1503421625",
+    "fotoUrl": "https://img.olx.com.br/images/50/506623763568554.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/506623763568554.jpg",
+      "https://img.olx.com.br/images/50/505619881225093.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779220973
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:02",
     "fotoUrl": "https://img.olx.com.br/images/37/376604284615705.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/376604284615705.jpg",
       "https://img.olx.com.br/images/38/384668282946038.jpg",
       "https://img.olx.com.br/images/39/391663645616463.jpg"
     ],
-    "defeito": false,
+    "id": "1503343123",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-5-1503343123",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "PlayStation 5 ",
     "ts": 1779220964
   },
   {
@@ -9791,27 +9810,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "Vendo PS4 ",
     "ts": 1779130615
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:54",
-    "fotoUrl": "https://img.olx.com.br/images/71/715695888131036.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/715695888131036.jpg",
-      "https://img.olx.com.br/images/72/723605284887447.jpg",
-      "https://img.olx.com.br/images/78/782663403579587.jpg",
-      "https://img.olx.com.br/images/79/790654526612993.jpg",
-      "https://img.olx.com.br/images/81/816623527974242.jpg"
-    ],
-    "id": "1503098258",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/lote-colecao-horizon-playstation-4-ps4-1503098258",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2023",
-    "titulo": "Lote coleção Horizon playstation 4 ps4",
-    "ts": 1779130496
   }
 ]
