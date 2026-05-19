@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503066461",
-    "titulo": "Meta Quest 3S ",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "outros",
+    "id": "1503364208",
+    "titulo": "iPhone XS 64g",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "14:36",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/meta-quest-3s-1503066461",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xs-64g-1503364208",
+    "fotoUrl": "https://img.olx.com.br/images/62/621623281666475.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/621623281666475.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212196
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:36",
     "fotoUrl": "https://img.olx.com.br/images/96/968675761066888.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/968675761066888.jpg"
     ],
-    "defeito": false,
+    "id": "1503066461",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/meta-quest-3s-1503066461",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "Meta Quest 3S ",
     "ts": 1779212193
   },
   {
@@ -9837,24 +9855,5 @@
     "tempoOlx": "Na OLX desde maio de 2016",
     "titulo": "Jogo Deadpool PS4",
     "ts": 1779121425
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:23",
-    "fotoUrl": "https://img.olx.com.br/images/36/362652160628817.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/362652160628817.jpg",
-      "https://img.olx.com.br/images/38/381614764386143.jpg"
-    ],
-    "id": "1503054555",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-1503054555",
-    "preco": 430,
-    "precoRaw": "R$ 430",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Jogos ps4",
-    "ts": 1779121416
   }
 ]
