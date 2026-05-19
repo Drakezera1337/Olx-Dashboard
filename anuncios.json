@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503192888",
-    "titulo": "TROCO PLAYSTATION 5 - SLIM",
-    "preco": 3100,
-    "precoRaw": "R$ 3.100",
+    "id": "1503169905",
+    "titulo": "Ps5 ",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "21:43",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "21:46",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/troco-playstation-5-slim-1503192888",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps5-1503169905",
+    "fotoUrl": "https://img.olx.com.br/images/63/636601643542638.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/636601643542638.jpg",
+      "https://img.olx.com.br/images/63/639695169565296.jpg",
+      "https://img.olx.com.br/images/63/631662281551604.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779151616
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:43",
     "fotoUrl": "https://img.olx.com.br/images/40/408697645513150.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/408697645513150.jpg"
     ],
-    "defeito": false,
+    "id": "1503192888",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/troco-playstation-5-slim-1503192888",
+    "preco": 3100,
+    "precoRaw": "R$ 3.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "TROCO PLAYSTATION 5 - SLIM",
     "ts": 1779151410
   },
   {
@@ -9828,24 +9848,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Anthem Ps4",
     "ts": 1779112406
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:47",
-    "fotoUrl": "https://img.olx.com.br/images/25/258601523756582.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/258601523756582.jpg",
-      "https://img.olx.com.br/images/28/283657049267971.jpg"
-    ],
-    "id": "1502998239",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/bloodborne-ps4-1502998239",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Bloodborne - Ps4",
-    "ts": 1779112063
   }
 ]
