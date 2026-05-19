@@ -1,21 +1,44 @@
 [
   {
-    "id": "1503449126",
-    "titulo": "Battlefield 4",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "jogos",
+    "id": "1503468431",
+    "titulo": "iPhone 13",
+    "preco": 1950,
+    "precoRaw": "R$ 1.950",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "19:19",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/battlefield-4-1503449126",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1503468431",
+    "fotoUrl": "https://img.olx.com.br/images/16/160611643929801.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/160611643929801.jpg",
+      "https://img.olx.com.br/images/18/187638289993986.jpg",
+      "https://img.olx.com.br/images/19/196666888525138.jpg",
+      "https://img.olx.com.br/images/21/216624644274878.jpg",
+      "https://img.olx.com.br/images/23/231619768855317.jpg",
+      "https://img.olx.com.br/images/70/700682645449845.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779229196
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:19",
     "fotoUrl": "https://img.olx.com.br/images/93/936605283115204.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/936605283115204.jpg",
       "https://img.olx.com.br/images/94/943641404031629.jpg"
     ],
-    "defeito": false,
+    "id": "1503449126",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/battlefield-4-1503449126",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Battlefield 4",
     "ts": 1779229181
   },
   {
@@ -9816,25 +9839,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "The Last of Us Part 2 - Ps4",
     "ts": 1779140490
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:41",
-    "fotoUrl": "https://img.olx.com.br/images/92/929648407105696.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/929648407105696.jpg",
-      "https://img.olx.com.br/images/92/920681286373681.jpg",
-      "https://img.olx.com.br/images/93/930617526184418.jpg"
-    ],
-    "id": "1503141805",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-death-stranding-1503141805",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2015",
-    "titulo": "JOGO PS4 - Death Stranding",
-    "ts": 1779140480
   }
 ]
