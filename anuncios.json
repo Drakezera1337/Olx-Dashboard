@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503472951",
-    "titulo": "Xbox Series S - 512GB + 2 Controles + Bateria recarregável",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "xbox",
+    "id": "1503473932",
+    "titulo": "Assassins creed Black flag",
+    "preco": 25,
+    "precoRaw": "R$ 25",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:37",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "detectado": "19:42",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-512gb-2-controles-bateria-recarregavel-1503472951",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/assassins-creed-black-flag-1503473932",
+    "fotoUrl": "https://img.olx.com.br/images/22/229676280833695.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/229676280833695.jpg",
+      "https://img.olx.com.br/images/23/232623645450904.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779230545
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:37",
     "fotoUrl": "https://img.olx.com.br/images/63/633693523684132.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/633693523684132.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/64/644670404318104.jpg",
       "https://img.olx.com.br/images/64/647620407657639.jpg"
     ],
-    "defeito": false,
+    "id": "1503472951",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-512gb-2-controles-bateria-recarregavel-1503472951",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "Xbox Series S - 512GB + 2 Controles + Bateria recarregável",
     "ts": 1779230245
   },
   {
@@ -9819,28 +9838,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "PlayStation 4 - 500gb com 1 dualshock + 2 jogos (Leia a descrição)",
     "ts": 1779141477
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:54",
-    "fotoUrl": "https://img.olx.com.br/images/56/569615880177324.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/569615880177324.jpg",
-      "https://img.olx.com.br/images/57/575653761484950.jpg",
-      "https://img.olx.com.br/images/58/589603287687981.jpg",
-      "https://img.olx.com.br/images/60/603674161662235.jpg",
-      "https://img.olx.com.br/images/62/625617165670851.jpg",
-      "https://img.olx.com.br/images/63/636635405025549.jpg"
-    ],
-    "id": "1503145963",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-original-ps4-toda-revisada-1503145963",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2018",
-    "titulo": "controle original ps4 toda revisada",
-    "ts": 1779141247
   }
 ]
