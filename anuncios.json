@@ -1,20 +1,38 @@
 [
   {
-    "id": "1486482552",
-    "titulo": "Apex Legends",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1486483771",
+    "titulo": "Overwatch Origins Edition",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "14:37",
+    "detectado": "14:38",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/apex-legends-1486482552",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/overwatch-origins-edition-1486483771",
+    "fotoUrl": "https://img.olx.com.br/images/50/507606385514611.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/507606385514611.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212285
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:37",
     "fotoUrl": "https://img.olx.com.br/images/49/492618145051054.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/492618145051054.jpg"
     ],
-    "defeito": false,
+    "id": "1486482552",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/apex-legends-1486482552",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Apex Legends",
     "ts": 1779212278
   },
   {
@@ -9843,25 +9861,5 @@
     "tempoOlx": "",
     "titulo": "Jogos ps4",
     "ts": 1779122485
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:34",
-    "fotoUrl": "https://img.olx.com.br/images/76/761634761730656.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/761634761730656.jpg",
-      "https://img.olx.com.br/images/77/770670526122408.jpg",
-      "https://img.olx.com.br/images/60/606663762776489.jpg"
-    ],
-    "id": "1503056911",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-mortal-kombat-11-ultimate-1503056911",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo ps4 mortal Kombat 11 ultimate",
-    "ts": 1779122095
   }
 ]
