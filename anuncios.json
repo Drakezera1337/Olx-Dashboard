@@ -1,15 +1,32 @@
 [
   {
-    "id": "1502769069",
-    "titulo": "Óculos VR 2 muito zero ",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "categoria": "outros",
+    "id": "1503333250",
+    "titulo": "iPhone 14",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "14:36",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/oculos-vr-2-muito-zero-1502769069",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1503333250",
+    "fotoUrl": "https://img.olx.com.br/images/41/418658402654942.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/418658402654942.jpg",
+      "https://img.olx.com.br/images/43/439635644569395.jpg",
+      "https://img.olx.com.br/images/45/456627647145054.jpg",
+      "https://img.olx.com.br/images/47/473663166083101.jpg",
+      "https://img.olx.com.br/images/49/490638041874335.jpg",
+      "https://img.olx.com.br/images/51/515666286089705.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212214
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:36",
     "fotoUrl": "https://img.olx.com.br/images/95/955643407856707.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/955643407856707.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/13/138629529180334.jpg",
       "https://img.olx.com.br/images/14/140603522768114.jpg"
     ],
-    "defeito": false,
+    "id": "1502769069",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/oculos-vr-2-muito-zero-1502769069",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Óculos VR 2 muito zero ",
     "ts": 1779212210
   },
   {
@@ -9841,28 +9864,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Ps3 para aproveitar peça ou tentar consertar ",
     "ts": 1779121505
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:24",
-    "fotoUrl": "https://img.olx.com.br/images/61/619656161632959.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/619656161632959.jpg",
-      "https://img.olx.com.br/images/63/632605400279904.jpg",
-      "https://img.olx.com.br/images/65/651608281998012.jpg",
-      "https://img.olx.com.br/images/67/675672164576563.jpg",
-      "https://img.olx.com.br/images/68/681667527918844.jpg",
-      "https://img.olx.com.br/images/70/704643644905013.jpg"
-    ],
-    "id": "1503054862",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps4-com-defeito-mais-controle-original-1503054862",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Ps4 com defeito mais controle original",
-    "ts": 1779121496
   }
 ]
