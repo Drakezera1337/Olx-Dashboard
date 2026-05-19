@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503372766",
-    "titulo": "Jogos de PS4",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "categoria": "ps4",
+    "id": "1503372463",
+    "titulo": "Resident Evil 4 Remake PS4/PS5",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "14:44",
+    "detectado": "14:45",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1503372766",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/resident-evil-4-remake-ps4-ps5-1503372463",
+    "fotoUrl": "https://img.olx.com.br/images/59/590609407158026.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/590609407158026.jpg",
+      "https://img.olx.com.br/images/62/620628520166018.jpg",
+      "https://img.olx.com.br/images/64/644699646287174.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212703
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:44",
     "fotoUrl": "https://img.olx.com.br/images/68/684628526557814.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/684628526557814.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/73/731630521381284.jpg",
       "https://img.olx.com.br/images/75/756665520995245.jpg"
     ],
-    "defeito": false,
+    "id": "1503372766",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1503372766",
+    "preco": 260,
+    "precoRaw": "R$ 260",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogos de PS4",
     "ts": 1779212694
   },
   {
@@ -9827,23 +9847,5 @@
     "tempoOlx": "Na OLX desde março de 2017",
     "titulo": "Horizon Zero Dawn Playstation 4",
     "ts": 1779125916
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:38",
-    "fotoUrl": "https://img.olx.com.br/images/72/720607762408237.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/720607762408237.jpg"
-    ],
-    "id": "1503059231",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-ps4-r-79-00-1503059231",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2023",
-    "titulo": "JOGOS PS4 (R$79,00)",
-    "ts": 1779125906
   }
 ]
