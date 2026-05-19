@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503190997",
-    "titulo": "Call of duty ww2 ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1503201593",
+    "titulo": "Ghost of Tsushima",
+    "preco": 55,
+    "precoRaw": "R$ 55",
     "categoria": "jogos",
     "publicado": "",
-    "detectado": "22:13",
-    "tempoOlx": "Na OLX desde março de 2017",
+    "detectado": "22:19",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-ww2-1503190997",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-1503201593",
+    "fotoUrl": "https://img.olx.com.br/images/60/609681165564678.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/609681165564678.jpg",
+      "https://img.olx.com.br/images/62/623645769857270.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779153542
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:13",
     "fotoUrl": "https://img.olx.com.br/images/99/996639760279615.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/996639760279615.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/12/128686289774872.jpg",
       "https://img.olx.com.br/images/14/140626523560367.jpg"
     ],
-    "defeito": false,
+    "id": "1503190997",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-ww2-1503190997",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "Call of duty ww2 ",
     "ts": 1779153217
   },
   {
@@ -9842,23 +9861,5 @@
     "tempoOlx": "Na OLX desde setembro de 2018",
     "titulo": "PS4 fat 500 GB",
     "ts": 1779114328
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:21",
-    "fotoUrl": "https://img.olx.com.br/images/78/788634404575049.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/788634404575049.jpg"
-    ],
-    "id": "1503016103",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/battlefield-1-revolution-ps4-1503016103",
-    "preco": 340,
-    "precoRaw": "R$ 340",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2021",
-    "titulo": "? Battlefield 1 Revolution - PS4 ?",
-    "ts": 1779114116
   }
 ]
