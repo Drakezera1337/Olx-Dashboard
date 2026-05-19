@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503356558",
-    "titulo": "Xbox serie s",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1503354723",
+    "titulo": "Xbox S ",
+    "preco": 850,
+    "precoRaw": "R$ 850",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "14:40",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-serie-s-1503356558",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-s-1503354723",
+    "fotoUrl": "https://img.olx.com.br/images/38/382610644583739.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/382610644583739.jpg",
+      "https://img.olx.com.br/images/43/433649527058713.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212434
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:40",
     "fotoUrl": "https://img.olx.com.br/images/86/860669403383685.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/860669403383685.jpg"
     ],
-    "defeito": false,
+    "id": "1503356558",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-serie-s-1503356558",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox serie s",
     "ts": 1779212426
   },
   {
@@ -9850,25 +9869,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "BATMAN RETURN TO ARKHAM - PS4",
     "ts": 1779123591
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:59",
-    "fotoUrl": "https://img.olx.com.br/images/62/623693505300693.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/623693505300693.jpg",
-      "https://img.olx.com.br/images/64/644606745655907.jpg",
-      "https://img.olx.com.br/images/66/667647144376267.jpg"
-    ],
-    "id": "1486502640",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-cavaleiros-do-zodiaco-ps4-1486502640",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "JOGO CAVALEIROS DO ZODÍACO - PS4",
-    "ts": 1779123584
   }
 ]
