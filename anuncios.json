@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503462765",
-    "titulo": "iPhone xr ",
-    "preco": 750,
-    "precoRaw": "R$ 750",
+    "id": "1503461947",
+    "titulo": "iPhone 15 Pro Max 256gb - Seminovo",
+    "preco": 4300,
+    "precoRaw": "R$ 4.300",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "19:07",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "tempoOlx": "Na OLX desde julho de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1503462765",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-seminovo-1503461947",
+    "fotoUrl": "https://img.olx.com.br/images/76/760675523163600.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/760675523163600.jpg",
+      "https://img.olx.com.br/images/77/770611405980222.jpg",
+      "https://img.olx.com.br/images/78/782645761765113.jpg",
+      "https://img.olx.com.br/images/79/798623643371406.jpg",
+      "https://img.olx.com.br/images/80/807669044574132.jpg",
+      "https://img.olx.com.br/images/81/810634286694958.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779228476
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:07",
     "fotoUrl": "https://img.olx.com.br/images/38/387629042254946.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/387629042254946.jpg",
       "https://img.olx.com.br/images/40/402622282327278.jpg",
       "https://img.olx.com.br/images/42/428615762091058.jpg"
     ],
-    "defeito": false,
+    "id": "1503462765",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1503462765",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "iPhone xr ",
     "ts": 1779228446
   },
   {
@@ -9815,24 +9838,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Ps4 + 6 jogos + 2 controles ",
     "ts": 1779139748
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/73/733691766879200.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/733691766879200.jpg",
-      "https://img.olx.com.br/images/74/741680527893728.jpg"
-    ],
-    "id": "1503139693",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-playstation4-pes-2021-1503139693",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2024",
-    "titulo": "Jogo PlayStation4  , pes 2021",
-    "ts": 1779139738
   }
 ]
