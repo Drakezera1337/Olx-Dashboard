@@ -1,20 +1,38 @@
 [
   {
-    "id": "1485481484",
-    "titulo": "FarCry 6",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1486479181",
+    "titulo": "Fallout 76",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "outros",
     "publicado": "",
     "detectado": "14:37",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/farcry-6-1485481484",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/fallout-76-1486479181",
+    "fotoUrl": "https://img.olx.com.br/images/84/849690869640441.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/849690869640441.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212262
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:37",
     "fotoUrl": "https://img.olx.com.br/images/29/295678629556470.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/295678629556470.jpg"
     ],
-    "defeito": false,
+    "id": "1485481484",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/farcry-6-1485481484",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "FarCry 6",
     "ts": 1779212256
   },
   {
@@ -9848,28 +9866,5 @@
     "tempoOlx": "",
     "titulo": "Play Station 3 super slim",
     "ts": 1779122035
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:33",
-    "fotoUrl": "https://img.olx.com.br/images/80/803613760368321.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/803613760368321.jpg",
-      "https://img.olx.com.br/images/82/824685769599948.jpg",
-      "https://img.olx.com.br/images/84/842697520210661.jpg",
-      "https://img.olx.com.br/images/86/860696283119501.jpg",
-      "https://img.olx.com.br/images/88/881681285225368.jpg",
-      "https://img.olx.com.br/images/90/902630041239718.jpg"
-    ],
-    "id": "1503056478",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-5-1503056478",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 5",
-    "ts": 1779122012
   }
 ]
