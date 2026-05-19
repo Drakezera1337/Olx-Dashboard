@@ -1,22 +1,60 @@
 [
   {
-    "id": "1503290829",
-    "titulo": "Vendo IPhone 11",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "iphone",
+    "id": "1503274347",
+    "titulo": "Celular ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "14:36",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "tempoOlx": "Na OLX desde junho de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-11-1503290829",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-1503274347",
+    "fotoUrl": "https://img.olx.com.br/images/15/159675169746226.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/159675169746226.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212180
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:36",
+    "fotoUrl": "https://img.olx.com.br/images/23/231694160635947.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/231694160635947.jpg",
+      "https://img.olx.com.br/images/24/246693640055601.jpg",
+      "https://img.olx.com.br/images/26/268675768912377.jpg"
+    ],
+    "id": "1503278966",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-na-12-00-1503278966",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "Ps4 na 12.00",
+    "ts": 1779212173
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:36",
     "fotoUrl": "https://img.olx.com.br/images/86/863602160230292.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/863602160230292.jpg",
       "https://img.olx.com.br/images/87/871690289498448.jpg",
       "https://img.olx.com.br/images/92/921683641438379.jpg"
     ],
-    "defeito": false,
+    "id": "1503290829",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-11-1503290829",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "Vendo IPhone 11",
     "ts": 1779212172
   },
   {
@@ -9814,50 +9852,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2024",
     "titulo": "Nintendo switch lite ",
     "ts": 1779120867
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:11",
-    "fotoUrl": "https://img.olx.com.br/images/96/965665646231655.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/965665646231655.jpg",
-      "https://img.olx.com.br/images/99/993606761213854.jpg",
-      "https://img.olx.com.br/images/11/113697767318074.jpg",
-      "https://img.olx.com.br/images/13/136686767026220.jpg",
-      "https://img.olx.com.br/images/15/150603041838883.jpg",
-      "https://img.olx.com.br/images/18/182613762607248.jpg"
-    ],
-    "id": "1503050532",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-de-ps4-envio-olx-pay-1503050532",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
-    "titulo": "Jogos de ps4 envio olx pay ",
-    "ts": 1779120707
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:11",
-    "fotoUrl": "https://img.olx.com.br/images/68/685552809280550.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/685552809280550.jpg",
-      "https://img.olx.com.br/images/69/698578208402605.jpg",
-      "https://img.olx.com.br/images/71/717567080159514.jpg",
-      "https://img.olx.com.br/images/72/725569082885523.jpg",
-      "https://img.olx.com.br/images/73/731535207020284.jpg"
-    ],
-    "id": "1408985008",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-originais-ps4-playstation-4-1408985008",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "Jogos originais PS4 PLAYSTATION 4",
-    "ts": 1779120696
   }
 ]
