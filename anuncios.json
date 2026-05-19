@@ -1,15 +1,30 @@
 [
   {
-    "id": "1503468431",
-    "titulo": "iPhone 13",
-    "preco": 1950,
-    "precoRaw": "R$ 1.950",
-    "categoria": "iphone",
+    "id": "1496487213",
+    "titulo": "Vende-se Nintendo switch sem defeitos,288GB sem desbloqueio,600 caso específico vem privad",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "19:19",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "19:21",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1503468431",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/vende-se-nintendo-switch-sem-defeitos-288gb-sem-desbloqueio-600-caso-especifico-vem-privad-1496487213",
+    "fotoUrl": "https://img.olx.com.br/images/36/363670513368298.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/363670513368298.jpg",
+      "https://img.olx.com.br/images/37/370616636922506.jpg",
+      "https://img.olx.com.br/images/38/389660516363882.jpg",
+      "https://img.olx.com.br/images/39/396669273785992.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779229285
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:19",
     "fotoUrl": "https://img.olx.com.br/images/16/160611643929801.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/160611643929801.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/23/231619768855317.jpg",
       "https://img.olx.com.br/images/70/700682645449845.jpg"
     ],
-    "defeito": false,
+    "id": "1503468431",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1503468431",
+    "preco": 1950,
+    "precoRaw": "R$ 1.950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "iPhone 13",
     "ts": 1779229196
   },
   {
@@ -9818,26 +9839,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "Jogo PS Vita - Fifa 15",
     "ts": 1779140820
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:41",
-    "fotoUrl": "https://img.olx.com.br/images/63/632610283277183.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/632610283277183.jpg",
-      "https://img.olx.com.br/images/68/684659528249717.jpg",
-      "https://img.olx.com.br/images/74/741656526725355.jpg",
-      "https://img.olx.com.br/images/85/857656649654050.jpg"
-    ],
-    "id": "1503141550",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-part-2-ps4-1503141550",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2019",
-    "titulo": "The Last of Us Part 2 - Ps4",
-    "ts": 1779140490
   }
 ]
