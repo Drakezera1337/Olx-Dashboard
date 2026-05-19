@@ -1,20 +1,38 @@
 [
   {
-    "id": "1486486715",
-    "titulo": "Life is Strange: True Colors",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1486485229",
+    "titulo": "For Honor",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "outros",
     "publicado": "",
     "detectado": "14:38",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/life-is-strange-true-colors-1486486715",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/for-honor-1486485229",
+    "fotoUrl": "https://img.olx.com.br/images/14/148618637017894.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/148618637017894.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212305
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:38",
     "fotoUrl": "https://img.olx.com.br/images/40/408672262355575.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/408672262355575.jpg"
     ],
-    "defeito": false,
+    "id": "1486486715",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/life-is-strange-true-colors-1486486715",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Life is Strange: True Colors",
     "ts": 1779212295
   },
   {
@@ -9843,23 +9861,5 @@
     "tempoOlx": "",
     "titulo": "Ps4 Slim + 2 controles + 3 jogos",
     "ts": 1779122489
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:41",
-    "fotoUrl": "https://img.olx.com.br/images/12/128640404627155.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/128640404627155.jpg"
-    ],
-    "id": "1503058173",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-ps4-r-129-00-1503058173",
-    "preco": 129,
-    "precoRaw": "R$ 129",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "JOGOS PS4 (R$129,00)",
-    "ts": 1779122487
   }
 ]
