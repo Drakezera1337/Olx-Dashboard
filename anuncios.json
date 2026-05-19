@@ -1,15 +1,32 @@
 [
   {
-    "id": "1503467343",
-    "titulo": "Ps4 ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1503464086",
+    "titulo": "PS4 ",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:13",
-    "tempoOlx": "Na OLX desde julho de 2019",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ps4-1503467343",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/ps4-1503464086",
+    "fotoUrl": "https://img.olx.com.br/images/68/680652165301009.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/680652165301009.jpg",
+      "https://img.olx.com.br/images/74/744690643671363.jpg",
+      "https://img.olx.com.br/images/76/768666406096098.jpg",
+      "https://img.olx.com.br/images/79/792637769326730.jpg",
+      "https://img.olx.com.br/images/82/827651043870805.jpg",
+      "https://img.olx.com.br/images/83/832648760005537.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779228815
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:13",
     "fotoUrl": "https://img.olx.com.br/images/20/205683167500401.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/205683167500401.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/27/276613285985087.jpg",
       "https://img.olx.com.br/images/28/284690762866109.jpg"
     ],
-    "defeito": false,
+    "id": "1503467343",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ps4-1503467343",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2019",
+    "titulo": "Ps4 ",
     "ts": 1779228806
   },
   {
@@ -9823,25 +9846,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "Jogo PS4 - Spider Man",
     "ts": 1779140109
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:35",
-    "fotoUrl": "https://img.olx.com.br/images/57/576656643906736.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/576656643906736.jpg",
-      "https://img.olx.com.br/images/59/594642525501262.jpg",
-      "https://img.olx.com.br/images/60/603664645973067.jpg"
-    ],
-    "id": "1503140907",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/playstation-4-slim-2-controles-5-jogos-originais-midia-fisica-impecavel-1503140907",
-    "preco": 1699,
-    "precoRaw": "R$ 1.699",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2014",
-    "titulo": "PlayStation 4 Slim + 2 Controles + 5 Jogos Originais (Mídia Física) - Impecável!",
-    "ts": 1779140100
   }
 ]
