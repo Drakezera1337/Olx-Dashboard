@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503191397",
-    "titulo": "Playstation 4 Slim + Controles + Jogos",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
+    "id": "1503191929",
+    "titulo": "Ps4 + 2 controles + 12 jogos",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:37",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "detectado": "21:38",
+    "tempoOlx": "Na OLX desde agosto de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-slim-controles-jogos-1503191397",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-2-controles-12-jogos-1503191929",
+    "fotoUrl": "https://img.olx.com.br/images/89/896611283030050.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/896611283030050.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779151080
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:37",
     "fotoUrl": "https://img.olx.com.br/images/64/646600400638034.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/646600400638034.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/69/696679766884653.jpg",
       "https://img.olx.com.br/images/70/701606281063430.jpg"
     ],
-    "defeito": false,
+    "id": "1503191397",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-slim-controles-jogos-1503191397",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "Playstation 4 Slim + Controles + Jogos",
     "ts": 1779151052
   },
   {
@@ -9826,23 +9844,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "GTA 5 Playstation 4 ",
     "ts": 1779112033
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:47",
-    "fotoUrl": "https://img.olx.com.br/images/84/842673160149313.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/842673160149313.jpg"
-    ],
-    "id": "1502999664",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/rainbow-six-siege-1502999664",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
-    "titulo": "Rainbow six siege",
-    "ts": 1779112025
   }
 ]
