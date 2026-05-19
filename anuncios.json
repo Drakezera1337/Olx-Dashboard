@@ -1,22 +1,44 @@
 [
   {
-    "id": "1503371732",
-    "titulo": "Ps4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1503341213",
+    "titulo": "Controle gamer ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "14:37",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps4-1503371732",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/controle-gamer-1503341213",
+    "fotoUrl": "https://img.olx.com.br/images/81/818691763106719.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/818691763106719.jpg",
+      "https://img.olx.com.br/images/82/824627163666009.jpg",
+      "https://img.olx.com.br/images/84/849624526838499.jpg",
+      "https://img.olx.com.br/images/86/862628522921614.jpg",
+      "https://img.olx.com.br/images/88/885603522545512.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212249
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:37",
     "fotoUrl": "https://img.olx.com.br/images/54/547603761607702.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/547603761607702.jpg",
       "https://img.olx.com.br/images/56/564606767702122.jpg",
       "https://img.olx.com.br/images/58/589621641787003.jpg"
     ],
-    "defeito": false,
+    "id": "1503371732",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps4-1503371732",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4",
     "ts": 1779212240
   },
   {
@@ -9850,24 +9872,5 @@
     "tempoOlx": "Na OLX desde maio de 2018",
     "titulo": "Play 4",
     "ts": 1779121813
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:30",
-    "fotoUrl": "https://img.olx.com.br/images/65/655670514996574.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/655670514996574.jpg",
-      "https://img.olx.com.br/images/66/666644270122351.jpg"
-    ],
-    "id": "1492532565",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2015-ps4-1492532565",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "PES 2015 PS4",
-    "ts": 1779121805
   }
 ]
