@@ -1,20 +1,59 @@
 [
   {
-    "id": "1503386223",
-    "titulo": "Ps5",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1503387529",
+    "titulo": "Ps4 Fat 500GB",
+    "preco": 20,
+    "precoRaw": "R$ 20",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:55",
+    "detectado": "14:56",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-1503386223",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1503387529",
+    "fotoUrl": "https://img.olx.com.br/images/52/527654762962540.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/527654762962540.jpg",
+      "https://img.olx.com.br/images/54/547650643262308.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779213363
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:55",
+    "fotoUrl": "https://img.olx.com.br/images/68/686645045824791.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/686645045824791.jpg",
+      "https://img.olx.com.br/images/69/696624881231519.jpg",
+      "https://img.olx.com.br/images/70/700652285978313.jpg"
+    ],
+    "id": "1503385860",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-product-red-1503385860",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 11 64gb product Red ",
+    "ts": 1779213356
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:55",
     "fotoUrl": "https://img.olx.com.br/images/89/893638524724739.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/893638524724739.jpg"
     ],
-    "defeito": false,
+    "id": "1503386223",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-1503386223",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps5",
     "ts": 1779213354
   },
   {
@@ -9773,42 +9812,5 @@
     "tempoOlx": "Na OLX desde março de 2025",
     "titulo": "For Honor PS4(Aceito ofertas e Negociar um valor melhor)",
     "ts": 1779129826
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:43",
-    "fotoUrl": "https://img.olx.com.br/images/83/839662284395257.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/839662284395257.jpg",
-      "https://img.olx.com.br/images/84/846680529760471.jpg"
-    ],
-    "id": "1503093864",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/pes-2021-ps4-versao-midia-fisica-1503093864",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "Pes 2021 ps4 versão mídia fisica",
-    "ts": 1779129813
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:39",
-    "fotoUrl": "https://img.olx.com.br/images/73/738637404148097.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/738637404148097.jpg"
-    ],
-    "id": "1503092286",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/ps3-com-defeito-no-wi-fi-1503092286",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2015",
-    "titulo": "PS3 com defeito no Wi-Fi ",
-    "ts": 1779129568
   }
 ]
