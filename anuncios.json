@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503449220",
-    "titulo": "Xbox series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503450068",
+    "titulo": "Balestation Faive",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:33",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "detectado": "18:34",
+    "tempoOlx": "Na OLX desde abril de 2023",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1503449220",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/balestation-faive-1503450068",
+    "fotoUrl": "https://img.olx.com.br/images/12/122661888672814.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/122661888672814.jpg",
+      "https://img.olx.com.br/images/13/133603761713082.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779226464
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/25/253617165681273.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/253617165681273.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/28/280667285434402.jpg",
       "https://img.olx.com.br/images/30/306624884253368.jpg"
     ],
-    "defeito": false,
+    "id": "1503449220",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1503449220",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "Xbox series S",
     "ts": 1779226407
   },
   {
@@ -9816,26 +9835,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "Call Of Duty Modern Warfare ",
     "ts": 1779137227
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:46",
-    "fotoUrl": "https://img.olx.com.br/images/65/651659880066818.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/651659880066818.jpg",
-      "https://img.olx.com.br/images/66/667658169744427.jpg",
-      "https://img.olx.com.br/images/67/671676520556208.jpg",
-      "https://img.olx.com.br/images/68/685696525943935.jpg"
-    ],
-    "id": "1503130686",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-com-16-jogos-de-ps3-ps4-1503130686",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Lote com 16 Jogos de PS3/PS4",
-    "ts": 1779137218
   }
 ]
