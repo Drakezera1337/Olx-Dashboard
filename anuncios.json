@@ -1,20 +1,43 @@
 [
   {
-    "id": "1478394941",
-    "titulo": "Lego Avengers ps4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "ps4",
+    "id": "1503234487",
+    "titulo": "IPHONE 16e",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "00:42",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "00:44",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/lego-avengers-ps4-1478394941",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16e-1503234487",
+    "fotoUrl": "https://img.olx.com.br/images/50/500686768034478.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/500686768034478.jpg",
+      "https://img.olx.com.br/images/53/539664764508447.jpg",
+      "https://img.olx.com.br/images/55/558602160821749.jpg",
+      "https://img.olx.com.br/images/57/571677407558442.jpg",
+      "https://img.olx.com.br/images/59/598668404868422.jpg",
+      "https://img.olx.com.br/images/61/617628040388357.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779162274
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:42",
     "fotoUrl": "https://img.olx.com.br/images/60/602678375411995.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/602678375411995.jpg"
     ],
-    "defeito": false,
+    "id": "1478394941",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/lego-avengers-ps4-1478394941",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Lego Avengers ps4",
     "ts": 1779162178
   },
   {
@@ -9841,23 +9864,5 @@
     "tempoOlx": "Na OLX desde agosto de 2020",
     "titulo": "SPIDER MAN (HOMEM ARANHA) ",
     "ts": 1779119280
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:47",
-    "fotoUrl": "https://img.olx.com.br/images/88/886689166947168.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/886689166947168.jpg"
-    ],
-    "id": "1503045750",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/jogos-ps4-1503045750",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2022",
-    "titulo": "Jogos PS4",
-    "ts": 1779119271
   }
 ]
