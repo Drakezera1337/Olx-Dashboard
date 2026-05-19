@@ -1,15 +1,50 @@
 [
   {
-    "id": "1503318630",
-    "titulo": "iPhone 16 Pro Max 512GB Black Titanium",
-    "preco": 6100,
-    "precoRaw": "R$ 6.100",
-    "categoria": "iphone",
+    "id": "1503379177",
+    "titulo": "PLAYSTATION 4 FAT 500GB + 2 CONTROLES E TODOS OS JOGOS DIGITAIS DA CONTA",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:37",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-512gb-black-titanium-1503318630",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-fat-500gb-2-controles-e-todos-os-jogos-digitais-da-conta-1503379177",
+    "fotoUrl": "https://img.olx.com.br/images/53/536630164318553.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/536630164318553.jpg",
+      "https://img.olx.com.br/images/54/546652766480566.jpg",
+      "https://img.olx.com.br/images/55/553647886970364.jpg",
+      "https://img.olx.com.br/images/57/579682525433360.jpg",
+      "https://img.olx.com.br/images/59/591635281528313.jpg",
+      "https://img.olx.com.br/images/60/603622767439216.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212233
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:37",
+    "fotoUrl": "https://img.olx.com.br/images/22/229659883753716.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/229659883753716.jpg"
+    ],
+    "id": "1503269884",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-slim-1tb-2-controles-call-of-duty-1503269884",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PLAYSTATION 4 SLIM 1TB + 2 CONTROLES + CALL OF DUTY ? ",
+    "ts": 1779212224
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:37",
     "fotoUrl": "https://img.olx.com.br/images/46/465624162305323.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/465624162305323.jpg",
@@ -18,7 +53,13 @@
       "https://img.olx.com.br/images/51/519698286937613.jpg",
       "https://img.olx.com.br/images/52/520621283963919.jpg"
     ],
-    "defeito": false,
+    "id": "1503318630",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-512gb-black-titanium-1503318630",
+    "preco": 6100,
+    "precoRaw": "R$ 6.100",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 16 Pro Max 512GB Black Titanium",
     "ts": 1779212221
   },
   {
@@ -9827,43 +9868,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "The last of us remasterizado PS4",
     "ts": 1779121796
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:29",
-    "fotoUrl": "https://img.olx.com.br/images/55/558669758882546.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/558669758882546.jpg",
-      "https://img.olx.com.br/images/56/560625270927369.jpg"
-    ],
-    "id": "1492530376",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/battlefield-4-ps4-1492530376",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Battlefield 4 PS4",
-    "ts": 1779121787
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:29",
-    "fotoUrl": "https://img.olx.com.br/images/27/279654519234526.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/279654519234526.jpg",
-      "https://img.olx.com.br/images/28/289600512540498.jpg"
-    ],
-    "id": "1492529961",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/injustice-gods-among-us-ps4-1492529961",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Injustice Gods Among US PS4",
-    "ts": 1779121776
   }
 ]
