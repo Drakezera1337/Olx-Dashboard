@@ -1,15 +1,29 @@
 [
   {
-    "id": "1494974246",
-    "titulo": "Jogos PlayStation 4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "ps4",
+    "id": "1503413259",
+    "titulo": "The Last of US Part II",
+    "preco": 89,
+    "precoRaw": "R$ 89",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "17:08",
-    "tempoOlx": "Na OLX desde junho de 2013",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-playstation-4-1494974246",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/the-last-of-us-part-ii-1503413259",
+    "fotoUrl": "https://img.olx.com.br/images/66/664636405131193.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/664636405131193.jpg",
+      "https://img.olx.com.br/images/68/684669400660292.jpg",
+      "https://img.olx.com.br/images/69/698618524828044.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779221291
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:08",
     "fotoUrl": "https://img.olx.com.br/images/55/550691394401301.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/550691394401301.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/62/627609278146275.jpg",
       "https://img.olx.com.br/images/64/642639872099527.jpg"
     ],
-    "defeito": false,
+    "id": "1494974246",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-playstation-4-1494974246",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2013",
+    "titulo": "Jogos PlayStation 4",
     "ts": 1779221283
   },
   {
@@ -9825,24 +9845,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Assassin's Creed Origins - PS4",
     "ts": 1779132597
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:29",
-    "fotoUrl": "https://img.olx.com.br/images/39/394685529991151.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/394685529991151.jpg",
-      "https://img.olx.com.br/images/40/409608283045958.jpg"
-    ],
-    "id": "1503107728",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/ps4-slim-1503107728",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2022",
-    "titulo": "PS4 slim",
-    "ts": 1779132588
   }
 ]
