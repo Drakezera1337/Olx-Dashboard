@@ -1,20 +1,42 @@
 [
   {
-    "id": "1503383193",
-    "titulo": "Xbox 360 conservado e com jogos",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "xbox",
+    "id": "1503386217",
+    "titulo": "Playstation 4 slim ",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:52",
+    "detectado": "14:53",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/xbox-360-conservado-e-com-jogos-1503383193",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/playstation-4-slim-1503386217",
+    "fotoUrl": "https://img.olx.com.br/images/22/229677647210025.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/229677647210025.jpg",
+      "https://img.olx.com.br/images/23/238680523917161.jpg",
+      "https://img.olx.com.br/images/24/249641288022901.jpg",
+      "https://img.olx.com.br/images/26/269611160031303.jpg",
+      "https://img.olx.com.br/images/27/273619642089517.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779213188
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:52",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1503383193",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/xbox-360-conservado-e-com-jogos-1503383193",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox 360 conservado e com jogos",
     "ts": 1779213177
   },
   {
@@ -9802,23 +9824,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Bloodborne Die Collectors Edition RARA ps4 Steelbook + Artbook",
     "ts": 1779128386
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:19",
-    "fotoUrl": "https://img.olx.com.br/images/24/244650289581966.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/244650289581966.jpg"
-    ],
-    "id": "1503085190",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/jogos-ps4-originais-1503085190",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "JOGOS PS4 ORIGINAIS",
-    "ts": 1779128374
   }
 ]
