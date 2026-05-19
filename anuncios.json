@@ -1,22 +1,42 @@
 [
   {
-    "id": "1503189964",
-    "titulo": "PS4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1503190172",
+    "titulo": "Guitarra PS3 Guitar Hero com dongle",
+    "preco": 889,
+    "precoRaw": "R$ 889",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "21:30",
-    "tempoOlx": "Na OLX desde julho de 2014",
+    "detectado": "21:31",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1503189964",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/guitarra-ps3-guitar-hero-com-dongle-1503190172",
+    "fotoUrl": "https://img.olx.com.br/images/58/588611403946957.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/588611403946957.jpg",
+      "https://img.olx.com.br/images/57/573640527592192.jpg",
+      "https://img.olx.com.br/images/58/583612407561583.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779150692
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:30",
     "fotoUrl": "https://img.olx.com.br/images/89/897689641920041.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/897689641920041.jpg",
       "https://img.olx.com.br/images/90/904629640083833.jpg",
       "https://img.olx.com.br/images/93/933650289306952.jpg"
     ],
-    "defeito": false,
+    "id": "1503189964",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1503189964",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2014",
+    "titulo": "PS4",
     "ts": 1779150629
   },
   {
@@ -9824,24 +9844,5 @@
     "tempoOlx": "Na OLX desde setembro de 2022",
     "titulo": "Xbox series S",
     "ts": 1779111687
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:36",
-    "fotoUrl": "https://img.olx.com.br/images/95/951608263412794.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/951608263412794.jpg",
-      "https://img.olx.com.br/images/95/952681383386472.jpg"
-    ],
-    "id": "1477895089",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/jogos-de-video-game/fifa-15-ps4-lacrado-1477895089",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "FIFA 15 - PS4 (LACRADO)",
-    "ts": 1779111368
   }
 ]
