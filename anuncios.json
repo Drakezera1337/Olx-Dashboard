@@ -1,20 +1,38 @@
 [
   {
-    "id": "1502738243",
-    "titulo": "Xbox ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503192888",
+    "titulo": "TROCO PLAYSTATION 5 - SLIM",
+    "preco": 3100,
+    "precoRaw": "R$ 3.100",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "21:39",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "detectado": "21:43",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/xbox-1502738243",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/troco-playstation-5-slim-1503192888",
+    "fotoUrl": "https://img.olx.com.br/images/40/408697645513150.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/408697645513150.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779151410
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:39",
     "fotoUrl": "https://img.olx.com.br/images/77/771678527201398.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/771678527201398.jpg"
     ],
-    "defeito": false,
+    "id": "1502738243",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/xbox-1502738243",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Xbox ",
     "ts": 1779151168
   },
   {
@@ -9829,23 +9847,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Bloodborne - Ps4",
     "ts": 1779112063
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:47",
-    "fotoUrl": "https://img.olx.com.br/images/77/777693760481554.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/777693760481554.jpg"
-    ],
-    "id": "1502998442",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1502998442",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Jogos ps4",
-    "ts": 1779112056
   }
 ]
