@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503368526",
-    "titulo": "PlayStation 5 ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1503490532",
+    "titulo": "PS4 Slim",
+    "preco": 475,
+    "precoRaw": "R$ 475",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:44",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "20:46",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-5-1503368526",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-slim-1503490532",
+    "fotoUrl": "https://img.olx.com.br/images/39/393686761119380.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/393686761119380.jpg",
+      "https://img.olx.com.br/images/41/418604042237981.jpg",
+      "https://img.olx.com.br/images/43/435659647902947.jpg",
+      "https://img.olx.com.br/images/44/441621640367050.jpg",
+      "https://img.olx.com.br/images/46/469604282969874.jpg",
+      "https://img.olx.com.br/images/47/470608169631959.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779234386
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:44",
     "fotoUrl": "https://img.olx.com.br/images/64/647669048131235.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/647669048131235.jpg",
       "https://img.olx.com.br/images/65/657698884697728.jpg",
       "https://img.olx.com.br/images/67/678686165498585.jpg"
     ],
-    "defeito": false,
+    "id": "1503368526",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-5-1503368526",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 5 ",
     "ts": 1779234295
   },
   {
@@ -38,16 +61,10 @@
     "ts": 1779234207
   },
   {
-    "id": "1470248814",
-    "titulo": "Just dance 2020 ps4 + Medievil ps4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
     "categoria": "ps4",
-    "publicado": "",
-    "detectado": "20:43",
-    "tempoOlx": "Na OLX desde julho de 2025",
+    "defeito": false,
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/just-dance-2020-ps4-medievil-ps4-1470248814",
+    "detectado": "20:43",
     "fotoUrl": "https://img.olx.com.br/images/41/410686600831128.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/410686600831128.jpg",
@@ -55,7 +72,13 @@
       "https://img.olx.com.br/images/72/721695366068217.jpg",
       "https://img.olx.com.br/images/75/753634129382223.jpg"
     ],
-    "defeito": false,
+    "id": "1470248814",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/just-dance-2020-ps4-medievil-ps4-1470248814",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "titulo": "Just dance 2020 ps4 + Medievil ps4",
     "ts": 1779234207
   },
   {
@@ -9808,26 +9831,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "Grand Theft Auto San Andreas e Liberty City Stories PS2 Original Mídia Física",
     "ts": 1779146194
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:15",
-    "fotoUrl": "https://img.olx.com.br/images/43/430633043217047.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/430633043217047.jpg",
-      "https://img.olx.com.br/images/45/456695643051028.jpg",
-      "https://img.olx.com.br/images/47/475657523082825.jpg",
-      "https://img.olx.com.br/images/48/485602289018677.jpg"
-    ],
-    "id": "1503172131",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/ps3-com-defeito-4-controles-modelo-2501a-1503172131",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "PS3 Com Defeito + 4 Controles Modelo 2501A",
-    "ts": 1779146132
   }
 ]
