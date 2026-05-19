@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503372463",
-    "titulo": "Resident Evil 4 Remake PS4/PS5",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "categoria": "ps5",
+    "id": "1503336386",
+    "titulo": "Devil May Cry 5 - PlayStation 4",
+    "preco": 112,
+    "precoRaw": "R$ 112",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:45",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/resident-evil-4-remake-ps4-ps5-1503372463",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/devil-may-cry-5-playstation-4-1503336386",
+    "fotoUrl": "https://img.olx.com.br/images/62/625608643248894.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/625608643248894.jpg",
+      "https://img.olx.com.br/images/63/633661288720322.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212711
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:45",
     "fotoUrl": "https://img.olx.com.br/images/59/590609407158026.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/590609407158026.jpg",
       "https://img.olx.com.br/images/62/620628520166018.jpg",
       "https://img.olx.com.br/images/64/644699646287174.jpg"
     ],
-    "defeito": false,
+    "id": "1503372463",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/resident-evil-4-remake-ps4-ps5-1503372463",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Resident Evil 4 Remake PS4/PS5",
     "ts": 1779212703
   },
   {
@@ -9827,25 +9846,5 @@
     "tempoOlx": "Na OLX desde outubro de 2020",
     "titulo": "iPhone 16",
     "ts": 1779126034
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:38",
-    "fotoUrl": "https://img.olx.com.br/images/93/931623258938900.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/931623258938900.jpg",
-      "https://img.olx.com.br/images/93/938618130339471.jpg",
-      "https://img.olx.com.br/images/93/932699736359629.jpg"
-    ],
-    "id": "1475715840",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-playstation-4-1475715840",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2017",
-    "titulo": "Horizon Zero Dawn Playstation 4",
-    "ts": 1779125916
   }
 ]
