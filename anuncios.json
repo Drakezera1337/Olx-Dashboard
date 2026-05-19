@@ -1,20 +1,42 @@
 [
   {
-    "id": "1503474761",
-    "titulo": "Ps4",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps4",
+    "id": "1503475690",
+    "titulo": "PS3 Fat com defeito ",
+    "preco": 260,
+    "precoRaw": "R$ 260",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "19:46",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "detectado": "19:47",
+    "tempoOlx": "Na OLX desde maio de 2013",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1503474761",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps3-fat-com-defeito-1503475690",
+    "fotoUrl": "https://img.olx.com.br/images/11/119629529794258.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/119629529794258.jpg",
+      "https://img.olx.com.br/images/11/114686644087633.jpg",
+      "https://img.olx.com.br/images/11/110604763960824.jpg",
+      "https://img.olx.com.br/images/11/110666526898032.jpg",
+      "https://img.olx.com.br/images/11/113625165875713.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779230846
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:46",
     "fotoUrl": "https://img.olx.com.br/images/92/921636168762827.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/921636168762827.jpg"
     ],
-    "defeito": false,
+    "id": "1503474761",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1503474761",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "Ps4",
     "ts": 1779230763
   },
   {
@@ -9815,24 +9837,5 @@
     "tempoOlx": "Na OLX desde julho de 2019",
     "titulo": "Nintendo Switch Lite Azul - Usado",
     "ts": 1779141719
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:59",
-    "fotoUrl": "https://img.olx.com.br/images/45/454614289217498.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/454614289217498.jpg",
-      "https://img.olx.com.br/images/46/469636046197680.jpg"
-    ],
-    "id": "1503147430",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-originais-ps3-1503147430",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2022",
-    "titulo": "Jogos originais PS3",
-    "ts": 1779141558
   }
 ]
