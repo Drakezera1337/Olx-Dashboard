@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503427227",
-    "titulo": "LOTE jogos ps4/ps5",
-    "preco": 480,
-    "precoRaw": "R$ 480",
-    "categoria": "ps5",
+    "id": "1503449400",
+    "titulo": "Ps4 com jogos",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:34",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lote-jogos-ps4-ps5-1503427227",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-com-jogos-1503449400",
+    "fotoUrl": "https://img.olx.com.br/images/56/563644041776270.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/563644041776270.jpg",
+      "https://img.olx.com.br/images/58/587644283153327.jpg",
+      "https://img.olx.com.br/images/59/598602404419220.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779226481
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:34",
     "fotoUrl": "https://img.olx.com.br/images/77/771647403585240.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/771647403585240.jpg",
       "https://img.olx.com.br/images/80/805605283013017.jpg"
     ],
-    "defeito": false,
+    "id": "1503427227",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lote-jogos-ps4-ps5-1503427227",
+    "preco": 480,
+    "precoRaw": "R$ 480",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "LOTE jogos ps4/ps5",
     "ts": 1779226472
   },
   {
@@ -9815,25 +9835,5 @@
     "tempoOlx": "Na OLX desde abril de 2013",
     "titulo": "Sombras de Mordor ",
     "ts": 1779137249
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:47",
-    "fotoUrl": "https://img.olx.com.br/images/94/945618259812755.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/945618259812755.jpg",
-      "https://img.olx.com.br/images/95/954610490158951.jpg",
-      "https://img.olx.com.br/images/96/968649738970406.jpg"
-    ],
-    "id": "1475012687",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/the-last-of-us-2-1475012687",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2017",
-    "titulo": "The last of us 2",
-    "ts": 1779137240
   }
 ]
