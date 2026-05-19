@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503221069",
-    "titulo": "Ps4 500GB",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
+    "id": "1503223242",
+    "titulo": "Ghost Recon The Division PS4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:19",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "23:24",
+    "tempoOlx": "Na OLX desde novembro de 2017",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/jogos-de-video-game/ps4-500gb-1503221069",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/ghost-recon-the-division-ps4-1503223242",
+    "fotoUrl": "https://img.olx.com.br/images/58/587635649429814.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/587635649429814.jpg",
+      "https://img.olx.com.br/images/60/604669763094194.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779157497
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:19",
     "fotoUrl": "https://img.olx.com.br/images/72/726678282175720.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/726678282175720.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/75/750653405912138.jpg",
       "https://img.olx.com.br/images/77/770630768027724.jpg"
     ],
-    "defeito": false,
+    "id": "1503221069",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/jogos-de-video-game/ps4-500gb-1503221069",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Ps4 500GB",
     "ts": 1779157148
   },
   {
@@ -9835,23 +9854,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Carregador de pilhas e pilhas recarregáveis + bateria de controle xbox serie s ",
     "ts": 1779117121
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:11",
-    "fotoUrl": "https://img.olx.com.br/images/11/110681867325164.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/110681867325164.jpg"
-    ],
-    "id": "1489041274",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-rtechgames-1489041274",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "XBOX - RTECHGAMES_",
-    "ts": 1779117114
   }
 ]
