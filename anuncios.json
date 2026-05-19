@@ -1,21 +1,39 @@
 [
   {
-    "id": "1502747032",
-    "titulo": "Playstation 5 + DualSense",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "categoria": "ps5",
+    "id": "1503187854",
+    "titulo": "Jogos PS4 ",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:15",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "21:20",
+    "tempoOlx": "Na OLX desde janeiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-dualsense-1502747032",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-1503187854",
+    "fotoUrl": "https://img.olx.com.br/images/73/732677166741145.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/732677166741145.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779150033
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:15",
     "fotoUrl": "https://img.olx.com.br/images/37/370677167744600.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/370677167744600.jpg",
       "https://img.olx.com.br/images/39/390647523237483.jpg"
     ],
-    "defeito": false,
+    "id": "1502747032",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-dualsense-1502747032",
+    "preco": 2550,
+    "precoRaw": "R$ 2.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Playstation 5 + DualSense",
     "ts": 1779149758
   },
   {
@@ -9845,28 +9863,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Jogo Infamoua Second Son - PS4",
     "ts": 1779110395
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/14/149691041162395.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/149691041162395.jpg",
-      "https://img.olx.com.br/images/19/198637040068746.jpg",
-      "https://img.olx.com.br/images/28/284619643417018.jpg",
-      "https://img.olx.com.br/images/31/319625409252114.jpg",
-      "https://img.olx.com.br/images/24/244658524347044.jpg",
-      "https://img.olx.com.br/images/52/526653405498952.jpg"
-    ],
-    "id": "1502764154",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/autorama-afx-vertigo-tomy-aurora-completo-e-raro-leia-1502764154",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Autorama AFX vertigo Tomy Aurora completo e raro LEIA",
-    "ts": 1779110361
   }
 ]
