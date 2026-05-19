@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503197175",
-    "titulo": "iPhone 14 Pro ",
-    "preco": 3550,
-    "precoRaw": "R$ 3.550",
-    "categoria": "iphone",
+    "id": "1503122317",
+    "titulo": "PLAYSTATION 4 PRETO FONTE QUEIMADA",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:04",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "detectado": "22:05",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-1503197175",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-4-preto-fonte-queimada-1503122317",
+    "fotoUrl": "https://img.olx.com.br/images/29/296655405860086.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/296655405860086.jpg",
+      "https://img.olx.com.br/images/33/336662769934231.jpg",
+      "https://img.olx.com.br/images/40/409619640048576.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779152731
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:04",
     "fotoUrl": "https://img.olx.com.br/images/70/700613167635167.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/700613167635167.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/72/725658766773962.jpg",
       "https://img.olx.com.br/images/73/736698885743885.jpg"
     ],
-    "defeito": false,
+    "id": "1503197175",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-1503197175",
+    "preco": 3550,
+    "precoRaw": "R$ 3.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "iPhone 14 Pro ",
     "ts": 1779152674
   },
   {
@@ -9841,24 +9861,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "God Of War - PS4",
     "ts": 1779113458
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:04",
-    "fotoUrl": "https://img.olx.com.br/images/43/434636164052146.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/434636164052146.jpg",
-      "https://img.olx.com.br/images/45/457646282733498.jpg"
-    ],
-    "id": "1503006821",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/madden-nfl-21-1503006821",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Madden NFL 21",
-    "ts": 1779113083
   }
 ]
