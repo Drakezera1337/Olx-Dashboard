@@ -1,21 +1,40 @@
 [
   {
-    "id": "1503186420",
-    "titulo": "PlayStation 4 ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1503186877",
+    "titulo": "Dying Light - PS4",
+    "preco": 45,
+    "precoRaw": "R$ 45",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:12",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "21:15",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1503186420",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dying-light-ps4-1503186877",
+    "fotoUrl": "https://img.olx.com.br/images/57/576618765725836.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/576618765725836.jpg",
+      "https://img.olx.com.br/images/42/421688880809958.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779149702
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:12",
     "fotoUrl": "https://img.olx.com.br/images/80/809697647649154.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/809697647649154.jpg",
       "https://img.olx.com.br/images/81/818672642464998.jpg"
     ],
-    "defeito": false,
+    "id": "1503186420",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1503186420",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 4 ",
     "ts": 1779149550
   },
   {
@@ -9847,28 +9866,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps4",
-    "ts": 1779110361
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/23/238665404007929.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/238665404007929.jpg",
-      "https://img.olx.com.br/images/23/234630887176517.jpg",
-      "https://img.olx.com.br/images/23/230601885636732.jpg",
-      "https://img.olx.com.br/images/23/236692882417986.jpg",
-      "https://img.olx.com.br/images/62/621698161454363.jpg"
-    ],
-    "id": "1502636945",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-midia-fisica-1502636945",
-    "preco": 3150,
-    "precoRaw": "R$ 3.150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 5 (Mídia Física)",
     "ts": 1779110361
   }
 ]
