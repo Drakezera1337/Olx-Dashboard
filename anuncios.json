@@ -1,15 +1,32 @@
 [
   {
-    "id": "1503461947",
-    "titulo": "iPhone 15 Pro Max 256gb - Seminovo",
-    "preco": 4300,
-    "precoRaw": "R$ 4.300",
-    "categoria": "iphone",
+    "id": "1503467343",
+    "titulo": "Ps4 ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:07",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "detectado": "19:13",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-seminovo-1503461947",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ps4-1503467343",
+    "fotoUrl": "https://img.olx.com.br/images/20/205683167500401.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/205683167500401.jpg",
+      "https://img.olx.com.br/images/21/214612166448066.jpg",
+      "https://img.olx.com.br/images/23/234673641744948.jpg",
+      "https://img.olx.com.br/images/25/252646525155232.jpg",
+      "https://img.olx.com.br/images/27/276613285985087.jpg",
+      "https://img.olx.com.br/images/28/284690762866109.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779228806
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:07",
     "fotoUrl": "https://img.olx.com.br/images/76/760675523163600.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/760675523163600.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/80/807669044574132.jpg",
       "https://img.olx.com.br/images/81/810634286694958.jpg"
     ],
-    "defeito": false,
+    "id": "1503461947",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-seminovo-1503461947",
+    "preco": 4300,
+    "precoRaw": "R$ 4.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "iPhone 15 Pro Max 256gb - Seminovo",
     "ts": 1779228476
   },
   {
@@ -9820,23 +9843,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "PlayStation 4 Slim + 2 Controles + 5 Jogos Originais (Mídia Física) - Impecável!",
     "ts": 1779140100
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:29",
-    "fotoUrl": "https://img.olx.com.br/images/21/218662167967969.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/218662167967969.jpg"
-    ],
-    "id": "1503139385",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/ps4-6-jogos-2-controles-1503139385",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Ps4 + 6 jogos + 2 controles ",
-    "ts": 1779139748
   }
 ]
