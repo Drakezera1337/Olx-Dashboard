@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503354723",
-    "titulo": "Xbox S ",
-    "preco": 850,
-    "precoRaw": "R$ 850",
+    "id": "1503347551",
+    "titulo": "Console Xbox Series S 512gb + GameSir Kaleid Flux",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "14:40",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-s-1503354723",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/consoles-de-video-game/console-xbox-series-s-512gb-gamesir-kaleid-flux-1503347551",
+    "fotoUrl": "https://img.olx.com.br/images/72/727635769358703.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/727635769358703.jpg",
+      "https://img.olx.com.br/images/72/726674287994251.jpg",
+      "https://img.olx.com.br/images/72/725667167564182.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212447
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:40",
     "fotoUrl": "https://img.olx.com.br/images/38/382610644583739.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/382610644583739.jpg",
       "https://img.olx.com.br/images/43/433649527058713.jpg"
     ],
-    "defeito": false,
+    "id": "1503354723",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-s-1503354723",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox S ",
     "ts": 1779212434
   },
   {
@@ -9849,25 +9869,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Red Dead Redemption 2 - PS4",
     "ts": 1779123600
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:59",
-    "fotoUrl": "https://img.olx.com.br/images/92/925667265517109.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/925667265517109.jpg",
-      "https://img.olx.com.br/images/94/943622743778492.jpg",
-      "https://img.olx.com.br/images/96/966666508883642.jpg"
-    ],
-    "id": "1486503189",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/batman-return-to-arkham-ps4-1486503189",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "BATMAN RETURN TO ARKHAM - PS4",
-    "ts": 1779123591
   }
 ]
