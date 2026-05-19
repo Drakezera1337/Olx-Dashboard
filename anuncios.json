@@ -1,22 +1,44 @@
 [
   {
-    "id": "1503448019",
-    "titulo": "Hades PS4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "ps4",
+    "id": "1503449220",
+    "titulo": "Xbox series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "18:28",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "detectado": "18:33",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/hades-ps4-1503448019",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1503449220",
+    "fotoUrl": "https://img.olx.com.br/images/25/253617165681273.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/253617165681273.jpg",
+      "https://img.olx.com.br/images/26/268667761726636.jpg",
+      "https://img.olx.com.br/images/27/276614761149968.jpg",
+      "https://img.olx.com.br/images/28/280667285434402.jpg",
+      "https://img.olx.com.br/images/30/306624884253368.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779226407
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:28",
     "fotoUrl": "https://img.olx.com.br/images/64/644663764476080.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/644663764476080.jpg",
       "https://img.olx.com.br/images/66/668633768834867.jpg",
       "https://img.olx.com.br/images/67/674673169528264.jpg"
     ],
-    "defeito": false,
+    "id": "1503448019",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/hades-ps4-1503448019",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "titulo": "Hades PS4",
     "ts": 1779226130
   },
   {
@@ -9815,24 +9837,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Lote com 16 Jogos de PS3/PS4",
     "ts": 1779137218
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:41",
-    "fotoUrl": "https://img.olx.com.br/images/84/845692881257977.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/845692881257977.jpg",
-      "https://img.olx.com.br/images/87/878686884393281.jpg"
-    ],
-    "id": "1503128543",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/the-elden-scrolls-v-skyrim-ps4-midia-fisica-1503128543",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "The elden scrolls V skyrim ps4 mídia física ",
-    "ts": 1779136869
   }
 ]
