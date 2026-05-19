@@ -1,21 +1,43 @@
 [
   {
-    "id": "1503430288",
-    "titulo": "Playstation 5 1TB  7meses de uso",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1503430514",
+    "titulo": "PS4 SLIM 500GB",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:16",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "17:17",
+    "tempoOlx": "Na OLX desde maio de 2017",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-5-1tb-7meses-de-uso-1503430288",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-slim-500gb-1503430514",
+    "fotoUrl": "https://img.olx.com.br/images/57/576613882674168.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/576613882674168.jpg",
+      "https://img.olx.com.br/images/58/582633763722883.jpg",
+      "https://img.olx.com.br/images/59/597618764854914.jpg",
+      "https://img.olx.com.br/images/61/610639404212063.jpg",
+      "https://img.olx.com.br/images/62/620604763908163.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779221823
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:16",
     "fotoUrl": "https://img.olx.com.br/images/63/632601642058167.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/632601642058167.jpg",
       "https://img.olx.com.br/images/64/648615767155203.jpg"
     ],
-    "defeito": false,
+    "id": "1503430288",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-5-1tb-7meses-de-uso-1503430288",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Playstation 5 1TB  7meses de uso",
     "ts": 1779221814
   },
   {
@@ -9811,25 +9833,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Combo: The Last Of Us 2 Remaster PS5 + God Of War Ragnarok PS4 + Digital PS5 (Sem case)",
     "ts": 1779134742
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:05",
-    "fotoUrl": "https://img.olx.com.br/images/27/273579922271644.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/273579922271644.jpg",
-      "https://img.olx.com.br/images/29/290530566891404.jpg",
-      "https://img.olx.com.br/images/32/325563569307654.jpg"
-    ],
-    "id": "1435884098",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogo-the-last-of-us-remasterizado-ps4-fisico-1435884098",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Jogo the last of us remasterizado PS4 físico ",
-    "ts": 1779134732
   }
 ]
