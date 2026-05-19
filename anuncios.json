@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503480348",
+    "id": "1503479858",
     "titulo": "Death Stranding",
-    "preco": 59,
-    "precoRaw": "R$ 59",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "outros",
     "publicado": "",
     "detectado": "20:06",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/death-stranding-1503480348",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/death-stranding-1503479858",
+    "fotoUrl": "https://img.olx.com.br/images/61/613643287131489.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/613643287131489.jpg",
+      "https://img.olx.com.br/images/63/632623528986747.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779232004
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:06",
     "fotoUrl": "https://img.olx.com.br/images/72/727600163236288.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/727600163236288.jpg",
       "https://img.olx.com.br/images/73/738663529574681.jpg",
       "https://img.olx.com.br/images/75/750625646310116.jpg"
     ],
-    "defeito": false,
+    "id": "1503480348",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/death-stranding-1503480348",
+    "preco": 59,
+    "precoRaw": "R$ 59",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Death Stranding",
     "ts": 1779231996
   },
   {
@@ -9821,23 +9840,5 @@
     "tempoOlx": "Na OLX desde novembro de 2017",
     "titulo": "GTA V ",
     "ts": 1779142893
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:21",
-    "fotoUrl": "https://img.olx.com.br/images/23/238636280959507.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/238636280959507.jpg"
-    ],
-    "id": "1503160641",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1503160641",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Jogos ps4",
-    "ts": 1779142885
   }
 ]
