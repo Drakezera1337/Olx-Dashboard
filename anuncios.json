@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503474383",
-    "titulo": "Ps5",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "ps5",
+    "id": "1503474365",
+    "titulo": "Vendo um ps4 Fat",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:44",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "detectado": "19:45",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-1503474383",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/vendo-um-ps4-fat-1503474365",
+    "fotoUrl": "https://img.olx.com.br/images/96/960688284486591.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/960688284486591.jpg",
+      "https://img.olx.com.br/images/98/989617160440313.jpg",
+      "https://img.olx.com.br/images/10/100648760582172.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779230755
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:44",
     "fotoUrl": "https://img.olx.com.br/images/99/993683649087846.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/993683649087846.jpg"
     ],
-    "defeito": false,
+    "id": "1503474383",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-1503474383",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "Ps5",
     "ts": 1779230695
   },
   {
@@ -9818,23 +9838,5 @@
     "tempoOlx": "Na OLX desde novembro de 2017",
     "titulo": "Coleção Dragon Ball + Minecraft PS4",
     "ts": 1779141549
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:58",
-    "fotoUrl": "https://img.olx.com.br/images/85/854623629024880.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/854623629024880.jpg"
-    ],
-    "id": "1461548640",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/nioh-2-1461548640",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2018",
-    "titulo": "Nioh 2",
-    "ts": 1779141539
   }
 ]
