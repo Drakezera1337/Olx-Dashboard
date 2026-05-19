@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503386217",
-    "titulo": "Playstation 4 slim ",
-    "preco": 1750,
-    "precoRaw": "R$ 1.750",
+    "id": "1503386125",
+    "titulo": "Jogo Fifa 18 - PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:53",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/playstation-4-slim-1503386217",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-fifa-18-ps4-1503386125",
+    "fotoUrl": "https://img.olx.com.br/images/70/707600649204554.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/707600649204554.jpg",
+      "https://img.olx.com.br/images/71/712676884477820.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779213196
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:53",
     "fotoUrl": "https://img.olx.com.br/images/22/229677647210025.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/229677647210025.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/26/269611160031303.jpg",
       "https://img.olx.com.br/images/27/273619642089517.jpg"
     ],
-    "defeito": false,
+    "id": "1503386217",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/playstation-4-slim-1503386217",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Playstation 4 slim ",
     "ts": 1779213188
   },
   {
@@ -9804,25 +9823,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Funko Pop Games Playstation Bloodborne The Hunter #622",
     "ts": 1779128397
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:19",
-    "fotoUrl": "https://img.olx.com.br/images/21/212607404105815.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/212607404105815.jpg",
-      "https://img.olx.com.br/images/22/224638761880863.jpg",
-      "https://img.olx.com.br/images/24/245646641075087.jpg"
-    ],
-    "id": "1503084742",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/bloodborne-die-collectors-edition-rara-ps4-steelbook-artbook-1503084742",
-    "preco": 990,
-    "precoRaw": "R$ 990",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Bloodborne Die Collectors Edition RARA ps4 Steelbook + Artbook",
-    "ts": 1779128386
   }
 ]
