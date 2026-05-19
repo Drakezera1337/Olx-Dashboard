@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503469273",
-    "titulo": "Vendo ps4",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1503468128",
+    "titulo": "PS4 USADO COM DEFEITO",
+    "preco": 700,
+    "precoRaw": "R$ 700",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:17",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vendo-ps4-1503469273",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-usado-com-defeito-1503468128",
+    "fotoUrl": "https://img.olx.com.br/images/83/831620640817370.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/831620640817370.jpg",
+      "https://img.olx.com.br/images/86/862642527729084.jpg",
+      "https://img.olx.com.br/images/89/894624647304114.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779229054
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:17",
     "fotoUrl": "https://img.olx.com.br/images/97/979687288033050.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/979687288033050.jpg"
     ],
-    "defeito": false,
+    "id": "1503469273",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vendo-ps4-1503469273",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Vendo ps4",
     "ts": 1779229045
   },
   {
@@ -9824,25 +9844,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "PlayStation 4 ( liga e desliga ) ",
     "ts": 1779140338
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:35",
-    "fotoUrl": "https://img.olx.com.br/images/20/207634161355163.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/207634161355163.jpg",
-      "https://img.olx.com.br/images/21/214646520976016.jpg",
-      "https://img.olx.com.br/images/23/237627407100214.jpg"
-    ],
-    "id": "1503057034",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/vendo-ps3-com-hen-1503057034",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Vendo Ps3 com hen",
-    "ts": 1779140128
   }
 ]
