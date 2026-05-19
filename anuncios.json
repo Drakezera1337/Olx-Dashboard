@@ -1,15 +1,30 @@
 [
   {
-    "id": "1503475690",
-    "titulo": "PS3 Fat com defeito ",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "categoria": "ps3",
+    "id": "1503476087",
+    "titulo": "JOGOS PS4 / PS5 - Os 3 por 400 ou 150 cada",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:47",
-    "tempoOlx": "Na OLX desde maio de 2013",
+    "detectado": "19:48",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps3-fat-com-defeito-1503475690",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-ps4-ps5-os-3-por-400-ou-150-cada-1503476087",
+    "fotoUrl": "https://img.olx.com.br/images/86/862638767669608.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/862638767669608.jpg",
+      "https://img.olx.com.br/images/88/888696641759934.jpg",
+      "https://img.olx.com.br/images/90/909661646473245.jpg",
+      "https://img.olx.com.br/images/92/928689881873884.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779230907
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:47",
     "fotoUrl": "https://img.olx.com.br/images/11/119629529794258.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/119629529794258.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/11/110666526898032.jpg",
       "https://img.olx.com.br/images/11/113625165875713.jpg"
     ],
-    "defeito": false,
+    "id": "1503475690",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps3-fat-com-defeito-1503475690",
+    "preco": 260,
+    "precoRaw": "R$ 260",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2013",
+    "titulo": "PS3 Fat com defeito ",
     "ts": 1779230846
   },
   {
@@ -9815,27 +9836,5 @@
     "tempoOlx": "Na OLX desde julho de 2025",
     "titulo": "Controle ps4",
     "ts": 1779141960
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:01",
-    "fotoUrl": "https://img.olx.com.br/images/37/377683648400932.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/377683648400932.jpg",
-      "https://img.olx.com.br/images/39/395629401934875.jpg",
-      "https://img.olx.com.br/images/41/417669403340131.jpg",
-      "https://img.olx.com.br/images/43/436628640485143.jpg",
-      "https://img.olx.com.br/images/45/454682526493007.jpg"
-    ],
-    "id": "1503150413",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-azul-usado-1503150413",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2019",
-    "titulo": "Nintendo Switch Lite Azul - Usado",
-    "ts": 1779141719
   }
 ]
