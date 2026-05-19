@@ -1,21 +1,39 @@
 [
   {
-    "id": "1503479518",
-    "titulo": "Vende-se ps3",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps3",
+    "id": "1503480269",
+    "titulo": "Ps4 500Gb usado leitor não  está funcionando ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:04",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "20:05",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/vende-se-ps3-1503479518",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-500gb-usado-leitor-nao-esta-funcionando-1503480269",
+    "fotoUrl": "https://img.olx.com.br/images/69/690617280449242.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/690617280449242.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779231924
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:04",
     "fotoUrl": "https://img.olx.com.br/images/31/315653644189164.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/315653644189164.jpg",
       "https://img.olx.com.br/images/33/336676882199794.jpg"
     ],
-    "defeito": false,
+    "id": "1503479518",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/vende-se-ps3-1503479518",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Vende-se ps3",
     "ts": 1779231840
   },
   {
@@ -9820,23 +9838,5 @@
     "tempoOlx": "Na OLX desde março de 2020",
     "titulo": "Ps4",
     "ts": 1779142645
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:12",
-    "fotoUrl": "https://img.olx.com.br/images/93/933544336684333.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/933544336684333.jpg"
-    ],
-    "id": "1443701301",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-ps4-1443701301",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2025",
-    "titulo": "Jogos PS4",
-    "ts": 1779142322
   }
 ]
