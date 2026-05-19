@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503447225",
-    "titulo": "PlayStation 4 Slim - 860GB",
-    "preco": 1799,
-    "precoRaw": "R$ 1.799",
-    "categoria": "ps4",
+    "id": "1503447212",
+    "titulo": "Jogos ps4/ps5",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "18:22",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-slim-860gb-1503447225",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/jogos-ps4-ps5-1503447212",
+    "fotoUrl": "https://img.olx.com.br/images/95/958647408322915.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/958647408322915.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779225738
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:22",
     "fotoUrl": "https://img.olx.com.br/images/84/842690403431263.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/842690403431263.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/84/846669281247899.jpg",
       "https://img.olx.com.br/images/84/842694649257518.jpg"
     ],
-    "defeito": false,
+    "id": "1503447225",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-slim-860gb-1503447225",
+    "preco": 1799,
+    "precoRaw": "R$ 1.799",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "PlayStation 4 Slim - 860GB",
     "ts": 1779225730
   },
   {
@@ -9818,24 +9836,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Vendo jogos de Ps4 e Ps5 - Preços na descrição",
     "ts": 1779136517
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:35",
-    "fotoUrl": "https://img.olx.com.br/images/73/735692641911007.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/735692641911007.jpg",
-      "https://img.olx.com.br/images/75/753661164662250.jpg"
-    ],
-    "id": "1503126991",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/fallout-4-ps4-midia-fisica-1503126991",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "Fallout 4 ps4 mídia física ",
-    "ts": 1779136508
   }
 ]
