@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503316310",
-    "titulo": "Xbox s ",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1503303143",
+    "titulo": "Imperdível Xbox one séries s",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "14:41",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-s-1503316310",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/imperdivel-xbox-one-series-s-1503303143",
+    "fotoUrl": "https://img.olx.com.br/images/12/121622647126762.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/121622647126762.jpg",
+      "https://img.olx.com.br/images/14/149647525896930.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212470
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:41",
     "fotoUrl": "https://img.olx.com.br/images/71/714669526317320.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/714669526317320.jpg"
     ],
-    "defeito": false,
+    "id": "1503316310",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-s-1503316310",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox s ",
     "ts": 1779212464
   },
   {
@@ -9850,25 +9869,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Jogos de ps4 e ps5",
     "ts": 1779123866
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:00",
-    "fotoUrl": "https://img.olx.com.br/images/82/821575688287469.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/821575688287469.jpg",
-      "https://img.olx.com.br/images/81/819586928641606.jpg",
-      "https://img.olx.com.br/images/83/839587083873734.jpg"
-    ],
-    "id": "1435623052",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/metal-gear-solid-5-ps4-1435623052",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "METAL GEAR SOLID 5 - PS4",
-    "ts": 1779123620
   }
 ]
