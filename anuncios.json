@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503486591",
-    "titulo": "Xbox Series S ( Usado )",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1503486874",
+    "titulo": "Ps5 vesao disc na caixa ",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "20:32",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-usado-1503486591",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-vesao-disc-na-caixa-1503486874",
+    "fotoUrl": "https://img.olx.com.br/images/67/676678044824678.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/676678044824678.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779233575
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:32",
     "fotoUrl": "https://img.olx.com.br/images/89/891614520695112.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/891614520695112.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/92/925673520588148.jpg",
       "https://img.olx.com.br/images/93/933603649462925.jpg"
     ],
-    "defeito": false,
+    "id": "1503486591",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-usado-1503486591",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox Series S ( Usado )",
     "ts": 1779233546
   },
   {
@@ -9816,25 +9834,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2013",
     "titulo": "Fitas  PS4  8 fitas  mídia originais",
     "ts": 1779145489
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:04",
-    "fotoUrl": "https://img.olx.com.br/images/57/578699769887544.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/578699769887544.jpg",
-      "https://img.olx.com.br/images/58/589636407475048.jpg",
-      "https://img.olx.com.br/images/59/591646168858292.jpg"
-    ],
-    "id": "1503126298",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1503126298",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2019",
-    "titulo": "Xbox Series S",
-    "ts": 1779145477
   }
 ]
