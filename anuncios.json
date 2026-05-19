@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503397228",
-    "titulo": "iPhone 16 Pro Max 256gb",
-    "preco": 5700,
-    "precoRaw": "R$ 5.700",
-    "categoria": "iphone",
+    "id": "1503343123",
+    "titulo": "PlayStation 5 ",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "17:02",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-256gb-1503397228",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-5-1503343123",
+    "fotoUrl": "https://img.olx.com.br/images/37/376604284615705.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/376604284615705.jpg",
+      "https://img.olx.com.br/images/38/384668282946038.jpg",
+      "https://img.olx.com.br/images/39/391663645616463.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779220964
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:02",
     "fotoUrl": "https://img.olx.com.br/images/38/383620644988649.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/383620644988649.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/42/425697162835428.jpg",
       "https://img.olx.com.br/images/44/442627761492724.jpg"
     ],
-    "defeito": false,
+    "id": "1503397228",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-256gb-1503397228",
+    "preco": 5700,
+    "precoRaw": "R$ 5.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "iPhone 16 Pro Max 256gb",
     "ts": 1779220959
   },
   {
@@ -9793,28 +9813,5 @@
     "tempoOlx": "Na OLX desde maio de 2023",
     "titulo": "Lote coleção Horizon playstation 4 ps4",
     "ts": 1779130496
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:52",
-    "fotoUrl": "https://img.olx.com.br/images/63/630651881871964.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/630651881871964.jpg",
-      "https://img.olx.com.br/images/65/656644287412190.jpg",
-      "https://img.olx.com.br/images/66/666666647798775.jpg",
-      "https://img.olx.com.br/images/68/682668164441162.jpg",
-      "https://img.olx.com.br/images/69/694625409346008.jpg",
-      "https://img.olx.com.br/images/71/714622761619318.jpg"
-    ],
-    "id": "1503097161",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-128gb-otimo-estado-1503097161",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2016",
-    "titulo": "iPhone 15 Pro 128GB (ótimo estado)",
-    "ts": 1779130348
   }
 ]
