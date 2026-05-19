@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503473932",
-    "titulo": "Assassins creed Black flag",
-    "preco": 25,
-    "precoRaw": "R$ 25",
-    "categoria": "jogos",
+    "id": "1503470192",
+    "titulo": "The Last of US PS4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:42",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/assassins-creed-black-flag-1503473932",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/the-last-of-us-ps4-1503470192",
+    "fotoUrl": "https://img.olx.com.br/images/67/673687408796348.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/673687408796348.jpg",
+      "https://img.olx.com.br/images/68/688607042150126.jpg",
+      "https://img.olx.com.br/images/69/693637167916235.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779230553
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:42",
     "fotoUrl": "https://img.olx.com.br/images/22/229676280833695.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/229676280833695.jpg",
       "https://img.olx.com.br/images/23/232623645450904.jpg"
     ],
-    "defeito": false,
+    "id": "1503473932",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/assassins-creed-black-flag-1503473932",
+    "preco": 25,
+    "precoRaw": "R$ 25",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Assassins creed Black flag",
     "ts": 1779230545
   },
   {
@@ -9816,27 +9836,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "iPhone 15",
     "ts": 1779141512
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:57",
-    "fotoUrl": "https://img.olx.com.br/images/40/403684401081961.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/403684401081961.jpg",
-      "https://img.olx.com.br/images/88/882607642729246.jpg",
-      "https://img.olx.com.br/images/34/345692886090977.jpg",
-      "https://img.olx.com.br/images/73/730623888635935.jpg",
-      "https://img.olx.com.br/images/76/760694766707541.jpg"
-    ],
-    "id": "1503147319",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-500gb-com-1-dualshock-2-jogos-leia-a-descricao-1503147319",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "PlayStation 4 - 500gb com 1 dualshock + 2 jogos (Leia a descrição)",
-    "ts": 1779141477
   }
 ]
