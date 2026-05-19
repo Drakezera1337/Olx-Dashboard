@@ -1,21 +1,39 @@
 [
   {
-    "id": "1503188513",
-    "titulo": "Xbox série S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503189515",
+    "titulo": "Jogos ps4 ",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:22",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "detectado": "21:26",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-serie-s-1503188513",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-1503189515",
+    "fotoUrl": "https://img.olx.com.br/images/42/420684166356769.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/420684166356769.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779150391
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:22",
     "fotoUrl": "https://img.olx.com.br/images/19/193683285950182.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/193683285950182.jpg",
       "https://img.olx.com.br/images/21/217611162198298.jpg"
     ],
-    "defeito": false,
+    "id": "1503188513",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-serie-s-1503188513",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "Xbox série S ",
     "ts": 1779150150
   },
   {
@@ -9826,23 +9844,5 @@
     "tempoOlx": "Na OLX desde setembro de 2022",
     "titulo": "Vendo Xbox Séries S Branco",
     "ts": 1779111325
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/19/199614040719381.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/199614040719381.jpg"
-    ],
-    "id": "1502992681",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/ps4-com-defeito-1502992681",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Ps4 com defeito ",
-    "ts": 1779111126
   }
 ]
