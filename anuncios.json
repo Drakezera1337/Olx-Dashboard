@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503316420",
-    "titulo": "Xbox Séries S - 3 meses de garantia (24x no cartão de crédito)",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1503316310",
+    "titulo": "Xbox s ",
+    "preco": 950,
+    "precoRaw": "R$ 950",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "14:40",
+    "detectado": "14:41",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-3-meses-de-garantia-24x-no-cartao-de-credito-1503316420",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-s-1503316310",
+    "fotoUrl": "https://img.olx.com.br/images/71/714669526317320.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/714669526317320.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212464
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:40",
     "fotoUrl": "https://img.olx.com.br/images/48/483620409875841.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/483620409875841.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/52/525644403156360.jpg",
       "https://img.olx.com.br/images/53/536680522317099.jpg"
     ],
-    "defeito": false,
+    "id": "1503316420",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/xbox-series-s-3-meses-de-garantia-24x-no-cartao-de-credito-1503316420",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Séries S - 3 meses de garantia (24x no cartão de crédito)",
     "ts": 1779212455
   },
   {
@@ -9852,25 +9870,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "METAL GEAR SOLID 5 - PS4",
     "ts": 1779123620
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:00",
-    "fotoUrl": "https://img.olx.com.br/images/59/597572567205836.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/597572567205836.jpg",
-      "https://img.olx.com.br/images/59/596584564677366.jpg",
-      "https://img.olx.com.br/images/59/593504441466833.jpg"
-    ],
-    "id": "1436031340",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/assassin-s-creed-valhalla-ps4-ps5-1436031340",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "ASSASSIN?S CREED VALHALLA - PS4/PS5",
-    "ts": 1779123611
   }
 ]
