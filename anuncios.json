@@ -1,21 +1,43 @@
 [
   {
-    "id": "1503473044",
-    "titulo": "PS4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1503472951",
+    "titulo": "Xbox Series S - 512GB + 2 Controles + Bateria recarregável",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "19:37",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/ps4-1503473044",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-512gb-2-controles-bateria-recarregavel-1503472951",
+    "fotoUrl": "https://img.olx.com.br/images/63/633693523684132.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/633693523684132.jpg",
+      "https://img.olx.com.br/images/64/643610763727540.jpg",
+      "https://img.olx.com.br/images/63/633671764199436.jpg",
+      "https://img.olx.com.br/images/64/644670404318104.jpg",
+      "https://img.olx.com.br/images/64/647620407657639.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779230245
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:37",
     "fotoUrl": "https://img.olx.com.br/images/83/838632163660926.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/838632163660926.jpg",
       "https://img.olx.com.br/images/84/847649166632358.jpg"
     ],
-    "defeito": false,
+    "id": "1503473044",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/ps4-1503473044",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "PS4",
     "ts": 1779230226
   },
   {
@@ -9820,23 +9842,5 @@
     "tempoOlx": "Na OLX desde março de 2018",
     "titulo": "controle original ps4 toda revisada",
     "ts": 1779141247
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:53",
-    "fotoUrl": "https://img.olx.com.br/images/47/473620168322137.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/473620168322137.jpg"
-    ],
-    "id": "1503146731",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-de-pa5-1503146731",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Controle de pa5",
-    "ts": 1779141238
   }
 ]
