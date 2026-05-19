@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503203908",
-    "titulo": "PlayStation4  1TB",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1503202945",
+    "titulo": "Homem aranha edição jogo do ano com  dlc",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "outros",
     "publicado": "",
     "detectado": "22:31",
-    "tempoOlx": "Na OLX desde novembro de 2014",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/playstation4-1tb-1503203908",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/homem-aranha-edicao-jogo-do-ano-com-dlc-1503202945",
+    "fotoUrl": "https://img.olx.com.br/images/80/809666408886926.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/809666408886926.jpg",
+      "https://img.olx.com.br/images/81/813646642841436.jpg",
+      "https://img.olx.com.br/images/82/829696283678715.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779154286
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:31",
     "fotoUrl": "https://img.olx.com.br/images/79/797601283802469.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/797601283802469.jpg"
     ],
-    "defeito": false,
+    "id": "1503203908",
+    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/playstation4-1tb-1503203908",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2014",
+    "titulo": "PlayStation4  1TB",
     "ts": 1779154273
   },
   {
@@ -9832,25 +9852,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "PS Portal",
     "ts": 1779115044
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:35",
-    "fotoUrl": "https://img.olx.com.br/images/52/521606049842748.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/521606049842748.jpg",
-      "https://img.olx.com.br/images/53/530659769645898.jpg",
-      "https://img.olx.com.br/images/53/530678045355216.jpg"
-    ],
-    "id": "1502702142",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-fat-s-leitor-perfeito-estado-1502702142",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "PS5 Fat (S/leitor) perfeito estado",
-    "ts": 1779114925
   }
 ]
