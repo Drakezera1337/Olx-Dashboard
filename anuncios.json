@@ -1,21 +1,40 @@
 [
   {
-    "id": "1503184847",
-    "titulo": "Controle DualSense PS5",
-    "preco": 329,
-    "precoRaw": "R$ 329",
-    "categoria": "ps5",
+    "id": "1503186420",
+    "titulo": "PlayStation 4 ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:10",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "detectado": "21:12",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/controle-dualsense-ps5-1503184847",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1503186420",
+    "fotoUrl": "https://img.olx.com.br/images/80/809697647649154.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/809697647649154.jpg",
+      "https://img.olx.com.br/images/81/818672642464998.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779149550
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:10",
     "fotoUrl": "https://img.olx.com.br/images/94/944697409993957.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/944697409993957.jpg",
       "https://img.olx.com.br/images/95/955669762118896.jpg"
     ],
-    "defeito": false,
+    "id": "1503184847",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/controle-dualsense-ps5-1503184847",
+    "preco": 329,
+    "precoRaw": "R$ 329",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Controle DualSense PS5",
     "ts": 1779149431
   },
   {
@@ -9850,24 +9869,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Playstation 5 (Mídia Física)",
-    "ts": 1779110361
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/86/862689527376216.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/862689527376216.jpg"
-    ],
-    "id": "1501553408",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-desbloqueado-1501553408",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Oled desbloqueado ",
     "ts": 1779110361
   }
 ]
