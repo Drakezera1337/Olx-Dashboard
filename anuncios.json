@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503383501",
-    "titulo": "The order 1886 ps4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1503383465",
+    "titulo": "Jogos Ps4",
+    "preco": 75,
+    "precoRaw": "R$ 75",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:54",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/the-order-1886-ps4-1503383501",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-1503383465",
+    "fotoUrl": "https://img.olx.com.br/images/86/864664286637426.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/864664286637426.jpg",
+      "https://img.olx.com.br/images/88/882680522912432.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779213292
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:54",
     "fotoUrl": "https://img.olx.com.br/images/23/239645887889743.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/239645887889743.jpg"
     ],
-    "defeito": false,
+    "id": "1503383501",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/the-order-1886-ps4-1503383501",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "The order 1886 ps4",
     "ts": 1779213284
   },
   {
@@ -9793,25 +9812,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "PS4 FAT 1TB + 15 jogos mídia física ",
     "ts": 1779129179
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:32",
-    "fotoUrl": "https://img.olx.com.br/images/17/173598386632169.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/173598386632169.jpg",
-      "https://img.olx.com.br/images/17/178576508156192.jpg",
-      "https://img.olx.com.br/images/17/178525264542216.jpg"
-    ],
-    "id": "1384467641",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/overwatch-ps4-1384467641",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Overwatch Ps4",
-    "ts": 1779129169
   }
 ]
