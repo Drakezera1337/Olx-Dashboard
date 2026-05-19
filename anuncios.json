@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503446075",
-    "titulo": "Call of duty ghosts",
+    "id": "1503445690",
+    "titulo": "Red dead ",
     "preco": 120,
     "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:16",
+    "detectado": "18:17",
     "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/call-of-duty-ghosts-1503446075",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/red-dead-1503445690",
+    "fotoUrl": "https://img.olx.com.br/images/86/869672521999498.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/869672521999498.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779225423
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:16",
     "fotoUrl": "https://img.olx.com.br/images/56/569656523789451.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/569656523789451.jpg"
     ],
-    "defeito": false,
+    "id": "1503446075",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/call-of-duty-ghosts-1503446075",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "Call of duty ghosts",
     "ts": 1779225415
   },
   {
@@ -9822,23 +9840,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "The Last Of us - Edição especial PS4 ",
     "ts": 1779136173
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:29",
-    "fotoUrl": "https://img.olx.com.br/images/48/480683764417278.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/480683764417278.jpg"
-    ],
-    "id": "1503125845",
-    "link": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/jogos-de-video-game/lote-20-jogos-ps4-1503125845",
-    "preco": 899,
-    "precoRaw": "R$ 899",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2017",
-    "titulo": "Lote 20 jogos ps4",
-    "ts": 1779136162
   }
 ]
