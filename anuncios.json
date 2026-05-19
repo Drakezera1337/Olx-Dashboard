@@ -1,20 +1,41 @@
 [
   {
-    "id": "1503384101",
-    "titulo": "Ps4 bombando! Sujeito a qualquer teste",
-    "preco": 700,
-    "precoRaw": "R$ 700",
+    "id": "1503383070",
+    "titulo": "Ps4 sem funcionar ",
+    "preco": 350,
+    "precoRaw": "R$ 350",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:49",
+    "detectado": "14:50",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-bombando-sujeito-a-qualquer-teste-1503384101",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-sem-funcionar-1503383070",
+    "fotoUrl": "https://img.olx.com.br/images/95/951624760899222.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/951624760899222.jpg",
+      "https://img.olx.com.br/images/97/975653763184514.jpg",
+      "https://img.olx.com.br/images/99/994697401082407.jpg",
+      "https://img.olx.com.br/images/11/113621164888603.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779213008
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:49",
     "fotoUrl": "https://img.olx.com.br/images/52/522652649615660.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/522652649615660.jpg"
     ],
-    "defeito": false,
+    "id": "1503384101",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-bombando-sujeito-a-qualquer-teste-1503384101",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 bombando! Sujeito a qualquer teste",
     "ts": 1779212997
   },
   {
@@ -9803,25 +9824,5 @@
     "tempoOlx": "Na OLX desde junho de 2021",
     "titulo": "PS5",
     "ts": 1779128192
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:15",
-    "fotoUrl": "https://img.olx.com.br/images/29/298684766590515.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/298684766590515.jpg",
-      "https://img.olx.com.br/images/30/309632285319519.jpg",
-      "https://img.olx.com.br/images/32/328672163199812.jpg"
-    ],
-    "id": "1503083786",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1503083786",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "PlayStation 4",
-    "ts": 1779128158
   }
 ]
