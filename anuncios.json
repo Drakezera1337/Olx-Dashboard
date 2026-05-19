@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503341213",
-    "titulo": "Controle gamer ",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1485481484",
+    "titulo": "FarCry 6",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "outros",
     "publicado": "",
     "detectado": "14:37",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/controle-gamer-1503341213",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/farcry-6-1485481484",
+    "fotoUrl": "https://img.olx.com.br/images/29/295678629556470.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/295678629556470.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212256
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:37",
     "fotoUrl": "https://img.olx.com.br/images/81/818691763106719.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/818691763106719.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/86/862628522921614.jpg",
       "https://img.olx.com.br/images/88/885603522545512.jpg"
     ],
-    "defeito": false,
+    "id": "1503341213",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/controle-gamer-1503341213",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Controle gamer ",
     "ts": 1779212249
   },
   {
@@ -9853,24 +9871,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation 5",
     "ts": 1779122012
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:30",
-    "fotoUrl": "https://img.olx.com.br/images/77/776688164785136.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/776688164785136.jpg",
-      "https://img.olx.com.br/images/79/792697767802057.jpg"
-    ],
-    "id": "1503055476",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/play-4-1503055476",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "Play 4",
-    "ts": 1779121813
   }
 ]
