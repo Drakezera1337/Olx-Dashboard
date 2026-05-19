@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503234487",
-    "titulo": "IPHONE 16e",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "categoria": "iphone",
+    "id": "1503234994",
+    "titulo": "Kit 4 Jogos ps4 ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:44",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "detectado": "00:49",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16e-1503234487",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/kit-4-jogos-ps4-1503234994",
+    "fotoUrl": "https://img.olx.com.br/images/17/173610649524412.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/173610649524412.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779162541
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:44",
     "fotoUrl": "https://img.olx.com.br/images/50/500686768034478.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/500686768034478.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/59/598668404868422.jpg",
       "https://img.olx.com.br/images/61/617628040388357.jpg"
     ],
-    "defeito": false,
+    "id": "1503234487",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16e-1503234487",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "IPHONE 16e",
     "ts": 1779162274
   },
   {
@@ -9843,26 +9861,5 @@
     "tempoOlx": "Na OLX desde agosto de 2020",
     "titulo": "RRD2 RED DEAD REDEMPTION 2 PS4 + mapa ",
     "ts": 1779119288
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:48",
-    "fotoUrl": "https://img.olx.com.br/images/62/620634159021376.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/620634159021376.jpg",
-      "https://img.olx.com.br/images/63/637666879008846.jpg",
-      "https://img.olx.com.br/images/64/646601396434672.jpg",
-      "https://img.olx.com.br/images/65/655615750570648.jpg"
-    ],
-    "id": "1494868824",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/spider-man-homem-aranha-1494868824",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "SPIDER MAN (HOMEM ARANHA) ",
-    "ts": 1779119280
   }
 ]
