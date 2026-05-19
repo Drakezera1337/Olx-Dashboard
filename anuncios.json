@@ -1,21 +1,42 @@
 [
   {
-    "id": "1503448658",
-    "titulo": "Battlefield 1",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "jogos",
+    "id": "1503448190",
+    "titulo": "Red Dead Redemption 2",
+    "preco": 135,
+    "precoRaw": "R$ 135",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:28",
     "tempoOlx": "Na OLX desde novembro de 2023",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/battlefield-1-1503448658",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/red-dead-redemption-2-1503448190",
+    "fotoUrl": "https://img.olx.com.br/images/46/462610403158104.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/462610403158104.jpg",
+      "https://img.olx.com.br/images/48/483626647128518.jpg",
+      "https://img.olx.com.br/images/49/494673767201296.jpg",
+      "https://img.olx.com.br/images/51/516698402518582.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779226114
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:28",
     "fotoUrl": "https://img.olx.com.br/images/63/633642282207338.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/633642282207338.jpg",
       "https://img.olx.com.br/images/64/645617284795804.jpg"
     ],
-    "defeito": false,
+    "id": "1503448658",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/battlefield-1-1503448658",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Battlefield 1",
     "ts": 1779226105
   },
   {
@@ -9818,24 +9839,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "iphone 17 pro Max 256",
     "ts": 1779136561
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:35",
-    "fotoUrl": "https://img.olx.com.br/images/22/228660163918142.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/228660163918142.jpg",
-      "https://img.olx.com.br/images/24/242628040668898.jpg"
-    ],
-    "id": "1503126384",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/towers-of-guns-steelbook-lacrado-1503126384",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2013",
-    "titulo": "Towers of guns Steelbook ( lacrado) ",
-    "ts": 1779136536
   }
 ]
