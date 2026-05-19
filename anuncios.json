@@ -1,21 +1,39 @@
 [
   {
-    "id": "1503386125",
-    "titulo": "Jogo Fifa 18 - PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1503386126",
+    "titulo": "Uncharted 4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "14:53",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-fifa-18-ps4-1503386125",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/uncharted-4-1503386126",
+    "fotoUrl": "https://img.olx.com.br/images/32/323673881862847.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/323673881862847.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779213203
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:53",
     "fotoUrl": "https://img.olx.com.br/images/70/707600649204554.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/707600649204554.jpg",
       "https://img.olx.com.br/images/71/712676884477820.jpg"
     ],
-    "defeito": false,
+    "id": "1503386125",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-fifa-18-ps4-1503386125",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Jogo Fifa 18 - PS4",
     "ts": 1779213196
   },
   {
@@ -9803,25 +9821,5 @@
     "tempoOlx": "Na OLX desde outubro de 2024",
     "titulo": "Resident evil 7 ps4",
     "ts": 1779128406
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:19",
-    "fotoUrl": "https://img.olx.com.br/images/94/945611042546323.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/945611042546323.jpg",
-      "https://img.olx.com.br/images/97/977663287666064.jpg",
-      "https://img.olx.com.br/images/99/996652766179103.jpg"
-    ],
-    "id": "1503084180",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/funko-pop-games-playstation-bloodborne-the-hunter-622-1503084180",
-    "preco": 590,
-    "precoRaw": "R$ 590",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Funko Pop Games Playstation Bloodborne The Hunter #622",
-    "ts": 1779128397
   }
 ]
