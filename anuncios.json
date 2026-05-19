@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503347226",
-    "titulo": "Xbox 360 desbloqueado ",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "xbox",
+    "id": "1503316430",
+    "titulo": "Lote de jogos PS5",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "14:42",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/xbox-360-desbloqueado-1503347226",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/lote-de-jogos-ps5-1503316430",
+    "fotoUrl": "https://img.olx.com.br/images/41/416676286594142.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/416676286594142.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212551
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:42",
     "fotoUrl": "https://img.olx.com.br/images/17/175637165118736.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/175637165118736.jpg",
       "https://img.olx.com.br/images/19/190673160142564.jpg",
       "https://img.olx.com.br/images/21/218685400772518.jpg"
     ],
-    "defeito": false,
+    "id": "1503347226",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/xbox-360-desbloqueado-1503347226",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox 360 desbloqueado ",
     "ts": 1779212545
   },
   {
@@ -9852,23 +9870,5 @@
     "tempoOlx": "Na OLX desde julho de 2021",
     "titulo": "Ps4 FAT",
     "ts": 1779124867
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:20",
-    "fotoUrl": "https://img.olx.com.br/images/23/236610168405950.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/236610168405950.jpg"
-    ],
-    "id": "1503069227",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-infinite-warfare-ps4-envio-por-olx-1503069227",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "Call of Duty Infinite Warfare PS4 envio por olx ",
-    "ts": 1779124856
   }
 ]
