@@ -1,20 +1,43 @@
 [
   {
-    "id": "1503315117",
-    "titulo": "UFC 5 PlayStation 5",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "categoria": "ps5",
+    "id": "1499850302",
+    "titulo": "Nintendo DSi - Videogame Portátil",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "14:42",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/ufc-5-playstation-5-1503315117",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-dsi-videogame-portatil-1499850302",
+    "fotoUrl": "https://img.olx.com.br/images/32/325693760212566.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/325693760212566.jpg",
+      "https://img.olx.com.br/images/35/350638284135517.jpg",
+      "https://img.olx.com.br/images/37/374640640690308.jpg",
+      "https://img.olx.com.br/images/39/397634168107261.jpg",
+      "https://img.olx.com.br/images/41/410648161294637.jpg",
+      "https://img.olx.com.br/images/42/423615646991761.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779212566
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:42",
     "fotoUrl": "https://img.olx.com.br/images/10/108658525713417.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/108658525713417.jpg"
     ],
-    "defeito": false,
+    "id": "1503315117",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/ufc-5-playstation-5-1503315117",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "UFC 5 PlayStation 5",
     "ts": 1779212559
   },
   {
@@ -9844,26 +9867,5 @@
     "tempoOlx": "Na OLX desde novembro de 2019",
     "titulo": "Dark Souls 3",
     "ts": 1779125208
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:26",
-    "fotoUrl": "https://img.olx.com.br/images/33/333682885468344.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/333682885468344.jpg",
-      "https://img.olx.com.br/images/35/359677401093417.jpg",
-      "https://img.olx.com.br/images/36/361667766366113.jpg",
-      "https://img.olx.com.br/images/38/380682042959364.jpg"
-    ],
-    "id": "1503070478",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/jogo-lua-snow-drop-rarissimo-1503070478",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2022",
-    "titulo": "Jogo Lua Snow Drop. Raríssimo!!",
-    "ts": 1779125189
   }
 ]
