@@ -1,22 +1,42 @@
 [
   {
-    "id": "1486084575",
-    "titulo": "Secret of Mana (PS4, Lacrado)",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "ps4",
+    "id": "1503749735",
+    "titulo": "Xbox série s",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "18:57",
-    "tempoOlx": "Na OLX desde agosto de 2015",
+    "detectado": "18:58",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/secret-of-mana-ps4-lacrado-1486084575",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-1503749735",
+    "fotoUrl": "https://img.olx.com.br/images/79/792696406191217.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/792696406191217.jpg",
+      "https://img.olx.com.br/images/81/819694160928364.jpg",
+      "https://img.olx.com.br/images/85/857601524636369.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779314336
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:57",
     "fotoUrl": "https://img.olx.com.br/images/70/709686741251249.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/709686741251249.jpg",
       "https://img.olx.com.br/images/72/728660620680450.jpg",
       "https://img.olx.com.br/images/73/734648749242630.jpg"
     ],
-    "defeito": false,
+    "id": "1486084575",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/secret-of-mana-ps4-lacrado-1486084575",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "Secret of Mana (PS4, Lacrado)",
     "ts": 1779314231
   },
   {
@@ -9942,23 +9962,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "God of War: Ragnarok (PS4 e PS5)",
     "ts": 1779247017
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:11",
-    "fotoUrl": "https://img.olx.com.br/images/55/551682169255260.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/551682169255260.jpg"
-    ],
-    "id": "1503534884",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/hitman-ps4-1503534884",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
-    "titulo": "Hitman - PS4",
-    "ts": 1779246664
   }
 ]
