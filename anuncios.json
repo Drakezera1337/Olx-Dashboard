@@ -1,15 +1,29 @@
 [
   {
-    "id": "1495164116",
-    "titulo": "THE LAST OF US PART 2 ",
+    "id": "1495164459",
+    "titulo": "SPIDER-MAN",
     "preco": 100,
     "precoRaw": "R$ 100",
     "categoria": "jogos",
     "publicado": "",
-    "detectado": "13:29",
+    "detectado": "13:30",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/the-last-of-us-part-2-1495164116",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/spider-man-1495164459",
+    "fotoUrl": "https://img.olx.com.br/images/76/760617874652613.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/760617874652613.jpg",
+      "https://img.olx.com.br/images/76/763692515718195.jpg",
+      "https://img.olx.com.br/images/78/781602159244765.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294602
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:29",
     "fotoUrl": "https://img.olx.com.br/images/56/563626510842515.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/563626510842515.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/59/596635871332326.jpg",
       "https://img.olx.com.br/images/61/614694636850226.jpg"
     ],
-    "defeito": false,
+    "id": "1495164116",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/the-last-of-us-part-2-1495164116",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "THE LAST OF US PART 2 ",
     "ts": 1779294594
   },
   {
@@ -9978,26 +9998,5 @@
     "tempoOlx": "",
     "titulo": "Caixa E Berço Vazios PS5 Nacionais Originais",
     "ts": 1779220942
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:03",
-    "fotoUrl": "https://img.olx.com.br/images/63/639616285538919.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/639616285538919.jpg",
-      "https://img.olx.com.br/images/65/655684523843849.jpg",
-      "https://img.olx.com.br/images/66/662636526955296.jpg",
-      "https://img.olx.com.br/images/68/688615762221414.jpg"
-    ],
-    "id": "1503388189",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-slim-glacier-white-completo-1503388189",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PLAYSTATION SLIM GLACIER WHITE COMPLETO ",
-    "ts": 1779213806
   }
 ]
