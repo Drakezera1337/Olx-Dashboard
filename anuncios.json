@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503530680",
-    "titulo": "Jogo Battlefield Hardline",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1503533947",
+    "titulo": "Mafia Definitive Edition - PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:59",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "00:05",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-battlefield-hardline-1503530680",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/mafia-definitive-edition-ps4-1503533947",
+    "fotoUrl": "https://img.olx.com.br/images/18/182659045650244.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/182659045650244.jpg",
+      "https://img.olx.com.br/images/20/209621406636392.jpg",
+      "https://img.olx.com.br/images/21/218695522829813.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779246300
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:59",
     "fotoUrl": "https://img.olx.com.br/images/86/868671401485562.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/868671401485562.jpg",
       "https://img.olx.com.br/images/88/888624648815402.jpg"
     ],
-    "defeito": false,
+    "id": "1503530680",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-battlefield-hardline-1503530680",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Jogo Battlefield Hardline",
     "ts": 1779245943
   },
   {
@@ -9852,23 +9872,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "Homem aranha edição jogo do ano com  dlc",
     "ts": 1779154286
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:31",
-    "fotoUrl": "https://img.olx.com.br/images/79/797601283802469.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/797601283802469.jpg"
-    ],
-    "id": "1503203908",
-    "link": "https://rs.olx.com.br/regioes-de-pelotas-rio-grande-e-bage/games/jogos-de-video-game/playstation4-1tb-1503203908",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2014",
-    "titulo": "PlayStation4  1TB",
-    "ts": 1779154273
   }
 ]
