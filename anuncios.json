@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503700450",
-    "titulo": "Jogos de PS4",
-    "preco": 99,
-    "precoRaw": "R$ 99",
+    "id": "1503699950",
+    "titulo": "Fifa 17 e 18 de Playstation 4 ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:02",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "detectado": "17:03",
+    "tempoOlx": "Na OLX desde agosto de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1503700450",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-17-e-18-de-playstation-4-1503699950",
+    "fotoUrl": "https://img.olx.com.br/images/15/150602403162873.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/150602403162873.jpg",
+      "https://img.olx.com.br/images/17/179631286970563.jpg",
+      "https://img.olx.com.br/images/19/191690164964121.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779307386
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:02",
     "fotoUrl": "https://img.olx.com.br/images/93/930653762317787.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/930653762317787.jpg"
     ],
-    "defeito": false,
+    "id": "1503700450",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1503700450",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Jogos de PS4",
     "ts": 1779307378
   },
   {
@@ -9940,25 +9960,5 @@
     "tempoOlx": "Na OLX desde junho de 2016",
     "titulo": "Farcry 6 - PS5 ( semi novo)",
     "ts": 1779231626
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:58",
-    "fotoUrl": "https://img.olx.com.br/images/59/593670400484548.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/593670400484548.jpg",
-      "https://img.olx.com.br/images/61/611643287646675.jpg",
-      "https://img.olx.com.br/images/62/629699643560514.jpg"
-    ],
-    "id": "1503478346",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps3-super-slim-desbloqueado-1503478346",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
-    "titulo": "Ps3 super slim desbloqueado",
-    "ts": 1779231536
   }
 ]
