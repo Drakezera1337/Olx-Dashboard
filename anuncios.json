@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503592152",
-    "titulo": "Cd de jogos",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1503591841",
+    "titulo": "Coleção de jogos",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "09:41",
-    "tempoOlx": "Na OLX desde março de 2017",
+    "detectado": "09:42",
+    "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cd-de-jogos-1503592152",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/colecao-de-jogos-1503591841",
+    "fotoUrl": "https://img.olx.com.br/images/94/944629648425078.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/944629648425078.jpg",
+      "https://img.olx.com.br/images/96/969678768253125.jpg",
+      "https://img.olx.com.br/images/97/977666525882395.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779280928
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:41",
     "fotoUrl": "https://img.olx.com.br/images/76/768618769434636.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/768618769434636.jpg"
     ],
-    "defeito": false,
+    "id": "1503592152",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cd-de-jogos-1503592152",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "Cd de jogos",
     "ts": 1779280919
   },
   {
@@ -9931,23 +9951,5 @@
     "tempoOlx": "",
     "titulo": "Jogo Ps4 - Watch Dogs Legion",
     "ts": 1779212806
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:46",
-    "fotoUrl": "https://img.olx.com.br/images/20/202628392746111.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/202628392746111.jpg"
-    ],
-    "id": "1494587752",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/pes-2017-somente-o-disco-ps4-1494587752",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Pes 2017 Somente o Disco ps4",
-    "ts": 1779212798
   }
 ]
