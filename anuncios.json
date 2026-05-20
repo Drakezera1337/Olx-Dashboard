@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503745356",
-    "titulo": "Playstation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1442337173",
+    "titulo": "Uncharted 4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "18:39",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:40",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-1503745356",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/uncharted-4-1442337173",
+    "fotoUrl": "https://img.olx.com.br/images/71/718531453324906.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/718531453324906.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779313200
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:39",
     "fotoUrl": "https://img.olx.com.br/images/79/797651167199712.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/797651167199712.jpg"
     ],
-    "defeito": false,
+    "id": "1503745356",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/playstation-4-1503745356",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Playstation 4",
     "ts": 1779313193
   },
   {
@@ -9959,25 +9977,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "Jogos Ps4 Combo Sombras de Mordor + Sombras da Guerra",
     "ts": 1779242868
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:07",
-    "fotoUrl": "https://img.olx.com.br/images/68/681580479965232.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/681580479965232.jpg",
-      "https://img.olx.com.br/images/69/696586833226780.jpg",
-      "https://img.olx.com.br/images/70/709506718266083.jpg"
-    ],
-    "id": "1460410256",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-horizon-zero-dawn-1460410256",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "Jogo Ps4 Horizon Zero Dawn ",
-    "ts": 1779242860
   }
 ]
