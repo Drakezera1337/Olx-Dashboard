@@ -1,15 +1,31 @@
 [
   {
-    "id": "1482147849",
-    "titulo": "Vendo um vídeo game XBOX ",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "categoria": "xbox",
+    "id": "1503663583",
+    "titulo": "PlayStation 4",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:54",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "detectado": "13:55",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://ap.olx.com.br/amapa/games/consoles-de-video-game/vendo-um-video-game-xbox-1482147849",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1503663583",
+    "fotoUrl": "https://img.olx.com.br/images/92/925649408932152.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/925649408932152.jpg",
+      "https://img.olx.com.br/images/93/931669283228919.jpg",
+      "https://img.olx.com.br/images/94/945696644283910.jpg",
+      "https://img.olx.com.br/images/95/954686645505123.jpg",
+      "https://img.olx.com.br/images/96/960621520203357.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779296131
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:54",
     "fotoUrl": "https://img.olx.com.br/images/43/439672140796555.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/439672140796555.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/54/549625027323735.jpg",
       "https://img.olx.com.br/images/58/582685623809892.jpg"
     ],
-    "defeito": false,
+    "id": "1482147849",
+    "link": "https://ap.olx.com.br/amapa/games/consoles-de-video-game/vendo-um-video-game-xbox-1482147849",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Vendo um vídeo game XBOX ",
     "ts": 1779296072
   },
   {
@@ -9977,25 +9999,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "Jogos de Playstation 4 e Xbox one",
     "ts": 1779221486
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:11",
-    "fotoUrl": "https://img.olx.com.br/images/97/974619140392778.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/974619140392778.jpg",
-      "https://img.olx.com.br/images/99/991680629878787.jpg",
-      "https://img.olx.com.br/images/12/129673628026859.jpg"
-    ],
-    "id": "1482197602",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/uncharted-the-nathan-drake-collection-ps4-em-portugues-midia-fisica-1482197602",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "Uncharted The Nathan Drake Collection Ps4 em português Mídia Física ",
-    "ts": 1779221461
   }
 ]
