@@ -1,20 +1,39 @@
 [
   {
-    "id": "1448637346",
-    "titulo": "The Last of Us - PART II ",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "jogos",
+    "id": "1477342779",
+    "titulo": "Playstation 4",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:49",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/the-last-of-us-part-ii-1448637346",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1477342779",
+    "fotoUrl": "https://img.olx.com.br/images/72/720695375283477.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/720695375283477.jpg",
+      "https://img.olx.com.br/images/73/739677131762110.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779299384
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:49",
     "fotoUrl": "https://img.olx.com.br/images/79/792522691906887.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/792522691906887.jpg"
     ],
-    "defeito": false,
+    "id": "1448637346",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/the-last-of-us-part-ii-1448637346",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "The Last of Us - PART II ",
     "ts": 1779299377
   },
   {
@@ -9953,24 +9972,5 @@
     "tempoOlx": "Na OLX desde novembro de 2023",
     "titulo": "Red Dead Redemption 2",
     "ts": 1779226114
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:28",
-    "fotoUrl": "https://img.olx.com.br/images/63/633642282207338.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/633642282207338.jpg",
-      "https://img.olx.com.br/images/64/645617284795804.jpg"
-    ],
-    "id": "1503448658",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/battlefield-1-1503448658",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2023",
-    "titulo": "Battlefield 1",
-    "ts": 1779226105
   }
 ]
