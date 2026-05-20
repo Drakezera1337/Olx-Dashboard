@@ -1,15 +1,31 @@
 [
   {
-    "id": "1503635361",
-    "titulo": "The last of us 1 e 2",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "categoria": "jogos",
+    "id": "1503647729",
+    "titulo": "Ps4",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:36",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/jogos-de-video-game/the-last-of-us-1-e-2-1503635361",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1503647729",
+    "fotoUrl": "https://img.olx.com.br/images/87/874606289182392.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/874606289182392.jpg",
+      "https://img.olx.com.br/images/88/888662646890614.jpg",
+      "https://img.olx.com.br/images/90/908622881980656.jpg",
+      "https://img.olx.com.br/images/92/925681289267853.jpg",
+      "https://img.olx.com.br/images/94/945675885376844.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779295004
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:36",
     "fotoUrl": "https://img.olx.com.br/images/55/551653888171724.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/551653888171724.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/59/594615767233104.jpg",
       "https://img.olx.com.br/images/60/603634280988598.jpg"
     ],
-    "defeito": false,
+    "id": "1503635361",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/jogos-de-video-game/the-last-of-us-1-e-2-1503635361",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "The last of us 1 e 2",
     "ts": 1779294995
   },
   {
@@ -9963,24 +9985,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Uncharted 4 ps4 ",
     "ts": 1779221307
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:08",
-    "fotoUrl": "https://img.olx.com.br/images/24/241661151182660.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/241661151182660.jpg",
-      "https://img.olx.com.br/images/25/258672277428901.jpg"
-    ],
-    "id": "1494401353",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-ps4-1494401353",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Horizon zero dawn ps4",
-    "ts": 1779221300
   }
 ]
