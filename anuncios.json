@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503763119",
-    "titulo": "Ps5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1503762922",
+    "titulo": "PS PORTAL EDIÇÃO 30 ANO",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "20:08",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "detectado": "20:09",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps5-1503763119",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps-portal-edicao-30-ano-1503762922",
+    "fotoUrl": "https://img.olx.com.br/images/44/440614045131600.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/440614045131600.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779318542
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:08",
     "fotoUrl": "https://img.olx.com.br/images/42/422684286247791.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/422684286247791.jpg",
       "https://img.olx.com.br/images/44/448691527371100.jpg",
       "https://img.olx.com.br/images/46/469666882811247.jpg"
     ],
-    "defeito": false,
+    "id": "1503763119",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps5-1503763119",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "Ps5",
     "ts": 1779318535
   },
   {
@@ -9937,25 +9955,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS4 Slim - 500GB",
-    "ts": 1779279768
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/96/966603637069755.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/966603637069755.jpg",
-      "https://img.olx.com.br/images/98/980622759854755.jpg"
-    ],
-    "id": "1495425022",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/the-falconer-warrior-edition-ps4-1495425022",
-    "preco": 240,
-    "precoRaw": "R$ 240",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "The Falconer - Warrior Edition - Ps4",
     "ts": 1779279768
   }
 ]
