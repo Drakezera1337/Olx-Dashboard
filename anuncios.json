@@ -1,15 +1,31 @@
 [
   {
-    "id": "1471841628",
-    "titulo": "Digimon Survivor.",
-    "preco": 170,
-    "precoRaw": "R$ 170",
+    "id": "1471840748",
+    "titulo": "Sifu - Vengeance Edition.",
+    "preco": 400,
+    "precoRaw": "R$ 400",
     "categoria": "outros",
     "publicado": "",
     "detectado": "09:37",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/digimon-survivor-1471841628",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/sifu-vengeance-edition-1471840748",
+    "fotoUrl": "https://img.olx.com.br/images/23/234671367917443.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/234671367917443.jpg",
+      "https://img.olx.com.br/images/25/257616728537747.jpg",
+      "https://img.olx.com.br/images/26/260647729944231.jpg",
+      "https://img.olx.com.br/images/28/288667249269582.jpg",
+      "https://img.olx.com.br/images/29/290670128343650.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779280636
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:37",
     "fotoUrl": "https://img.olx.com.br/images/57/573609127399572.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/573609127399572.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/60/601678241559466.jpg",
       "https://img.olx.com.br/images/62/628603723068436.jpg"
     ],
-    "defeito": false,
+    "id": "1471841628",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/digimon-survivor-1471841628",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Digimon Survivor.",
     "ts": 1779280628
   },
   {
@@ -9917,25 +9939,5 @@
     "tempoOlx": "",
     "titulo": "Devil May Cry 5 - PlayStation 4",
     "ts": 1779212711
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:45",
-    "fotoUrl": "https://img.olx.com.br/images/59/590609407158026.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/590609407158026.jpg",
-      "https://img.olx.com.br/images/62/620628520166018.jpg",
-      "https://img.olx.com.br/images/64/644699646287174.jpg"
-    ],
-    "id": "1503372463",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/resident-evil-4-remake-ps4-ps5-1503372463",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Resident Evil 4 Remake PS4/PS5",
-    "ts": 1779212703
   }
 ]
