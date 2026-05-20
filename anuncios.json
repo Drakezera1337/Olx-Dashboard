@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503749735",
-    "titulo": "Xbox série s",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1493731295",
+    "titulo": "Injustice 2 Ultimate Edition PS4 - Steelbook de Colecionador",
+    "preco": 190,
+    "precoRaw": "R$ 190",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:58",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "detectado": "19:02",
+    "tempoOlx": "Na OLX desde agosto de 2018",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-1503749735",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/injustice-2-ultimate-edition-ps4-steelbook-de-colecionador-1493731295",
+    "fotoUrl": "https://img.olx.com.br/images/57/575640631840380.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/575640631840380.jpg",
+      "https://img.olx.com.br/images/58/581637396704308.jpg",
+      "https://img.olx.com.br/images/59/591643631208939.jpg",
+      "https://img.olx.com.br/images/61/613661397957145.jpg",
+      "https://img.olx.com.br/images/62/629649759356275.jpg",
+      "https://img.olx.com.br/images/63/639665393082130.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779314574
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:58",
     "fotoUrl": "https://img.olx.com.br/images/79/792696406191217.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/792696406191217.jpg",
       "https://img.olx.com.br/images/81/819694160928364.jpg",
       "https://img.olx.com.br/images/85/857601524636369.jpg"
     ],
-    "defeito": false,
+    "id": "1503749735",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-1503749735",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "Xbox série s",
     "ts": 1779314336
   },
   {
@@ -9943,24 +9966,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "Call of Duty Ghosts - PS4",
     "ts": 1779247025
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:16",
-    "fotoUrl": "https://img.olx.com.br/images/71/713692527080562.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/713692527080562.jpg",
-      "https://img.olx.com.br/images/74/742657763392352.jpg"
-    ],
-    "id": "1503536849",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/god-of-war-ragnarok-ps4-e-ps5-1503536849",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2015",
-    "titulo": "God of War: Ragnarok (PS4 e PS5)",
-    "ts": 1779247017
   }
 ]
