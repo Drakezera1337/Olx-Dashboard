@@ -1,20 +1,38 @@
 [
   {
-    "id": "1359056640",
-    "titulo": "Uncharted 4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1359056465",
+    "titulo": "spider man miles morales",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "14:14",
     "tempoOlx": "Na OLX desde novembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/uncharted-4-1359056640",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/spider-man-miles-morales-1359056465",
+    "fotoUrl": "https://img.olx.com.br/images/85/855448119380234.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/855448119380234.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779297258
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:14",
     "fotoUrl": "https://img.olx.com.br/images/20/203457238735691.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/203457238735691.jpg"
     ],
-    "defeito": false,
+    "id": "1359056640",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/uncharted-4-1359056640",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2014",
+    "titulo": "Uncharted 4",
     "ts": 1779297251
   },
   {
@@ -9969,25 +9987,5 @@
     "tempoOlx": "Na OLX desde agosto de 2018",
     "titulo": "Ratchet & Clank PS4 - LACRADO!",
     "ts": 1779222633
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:30",
-    "fotoUrl": "https://img.olx.com.br/images/19/191695168120957.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/191695168120957.jpg",
-      "https://img.olx.com.br/images/20/209606760322160.jpg",
-      "https://img.olx.com.br/images/22/224605401552272.jpg"
-    ],
-    "id": "1503434214",
-    "link": "https://pi.olx.com.br/regiao-de-picos-e-floriano/games/jogos-de-video-game/hitman-definitive-edition-1503434214",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "HITMAN DEFINITIVE EDITION",
-    "ts": 1779222625
   }
 ]
