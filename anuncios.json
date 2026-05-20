@@ -1,21 +1,40 @@
 [
   {
-    "id": "1479533461",
-    "titulo": "Red Dead Redemption 2",
-    "preco": 110,
-    "precoRaw": "R$ 110",
+    "id": "1479540377",
+    "titulo": "Spider man ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "17:04",
+    "detectado": "17:05",
     "tempoOlx": "Na OLX desde abril de 2022",
     "descricao": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/red-dead-redemption-2-1479533461",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/spider-man-1479540377",
+    "fotoUrl": "https://img.olx.com.br/images/35/352699736828312.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/352699736828312.jpg",
+      "https://img.olx.com.br/images/39/395606497733138.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779307507
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:04",
     "fotoUrl": "https://img.olx.com.br/images/69/698685615901509.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/698685615901509.jpg",
       "https://img.olx.com.br/images/73/732635377879806.jpg"
     ],
-    "defeito": false,
+    "id": "1479533461",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/red-dead-redemption-2-1479533461",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Red Dead Redemption 2",
     "ts": 1779307497
   },
   {
@@ -9955,23 +9974,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Pouco usado | Disco de God of War pra PS4",
     "ts": 1779232463
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:14",
-    "fotoUrl": "https://img.olx.com.br/images/59/593672622935682.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/593672622935682.jpg"
-    ],
-    "id": "1486934725",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fc-26-ps4-fisica-1486934725",
-    "preco": 379,
-    "precoRaw": "R$ 379",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2024",
-    "titulo": "Fc 26 ps4 física ",
-    "ts": 1779232455
   }
 ]
