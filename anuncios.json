@@ -1,21 +1,42 @@
 [
   {
-    "id": "1503765428",
-    "titulo": "Play4",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "outros",
+    "id": "1503766412",
+    "titulo": "Xbox Series S",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "20:19",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "detectado": "20:20",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/play4-1503765428",
+    "link": "https://es.olx.com.br/sul-do-espirito-santo/games/consoles-de-video-game/xbox-series-s-1503766412",
+    "fotoUrl": "https://img.olx.com.br/images/57/578633646938824.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/578633646938824.jpg",
+      "https://img.olx.com.br/images/59/594688645197670.jpg",
+      "https://img.olx.com.br/images/60/605612880383434.jpg",
+      "https://img.olx.com.br/images/62/624654764848828.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779319225
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:19",
     "fotoUrl": "https://img.olx.com.br/images/68/684603400911573.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/684603400911573.jpg",
       "https://img.olx.com.br/images/69/699656161373258.jpg"
     ],
-    "defeito": false,
+    "id": "1503765428",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/play4-1503765428",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "Play4",
     "ts": 1779319173
   },
   {
@@ -9938,26 +9959,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "[LEIA O ANUNCIO] PlayStation 3 Slim 120GB - PS3 - CONSERVADO",
-    "ts": 1779279820
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:23",
-    "fotoUrl": "https://img.olx.com.br/images/13/132688168342961.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/132688168342961.jpg",
-      "https://img.olx.com.br/images/15/159619040301222.jpg",
-      "https://img.olx.com.br/images/17/170603284410328.jpg"
-    ],
-    "id": "1501154285",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-slim-defeito-ou-reaproveitamento-de-pecas-1501154285",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 SLIM DEFEITO OU REAPROVEITAMENTO DE PEÇAS",
     "ts": 1779279820
   }
 ]
