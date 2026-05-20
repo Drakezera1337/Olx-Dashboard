@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503711144",
-    "titulo": "Jogos de ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1503710853",
+    "titulo": "Jogos para ps4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:01",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps4-1503711144",
+    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/jogos-para-ps4-1503710853",
+    "fotoUrl": "https://img.olx.com.br/images/49/495643167122902.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/495643167122902.jpg",
+      "https://img.olx.com.br/images/51/517627285090172.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779307304
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:01",
     "fotoUrl": "https://img.olx.com.br/images/20/204603649461777.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/204603649461777.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/23/233601406178190.jpg",
       "https://img.olx.com.br/images/24/240622406097469.jpg"
     ],
-    "defeito": false,
+    "id": "1503711144",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps4-1503711144",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Jogos de ps4",
     "ts": 1779307296
   },
   {
@@ -9949,24 +9968,5 @@
     "tempoOlx": "",
     "titulo": "The Last of US PS4",
     "ts": 1779230553
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:42",
-    "fotoUrl": "https://img.olx.com.br/images/22/229676280833695.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/229676280833695.jpg",
-      "https://img.olx.com.br/images/23/232623645450904.jpg"
-    ],
-    "id": "1503473932",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/assassins-creed-black-flag-1503473932",
-    "preco": 25,
-    "precoRaw": "R$ 25",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Assassins creed Black flag",
-    "ts": 1779230545
   }
 ]
