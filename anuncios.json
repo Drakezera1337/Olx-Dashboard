@@ -1,20 +1,40 @@
 [
   {
-    "id": "1495371463",
-    "titulo": "God of war Ragnarok",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "jogos",
+    "id": "1495370804",
+    "titulo": "Jogos de PS4 r$ 100 cada",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "09:54",
     "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/god-of-war-ragnarok-1495371463",
+    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/jogos-de-ps4-r-100-cada-1495370804",
+    "fotoUrl": "https://img.olx.com.br/images/36/366638039723919.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/366638039723919.jpg",
+      "https://img.olx.com.br/images/38/383692157115876.jpg",
+      "https://img.olx.com.br/images/41/418639395924323.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779281672
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:54",
     "fotoUrl": "https://img.olx.com.br/images/41/411686037734127.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/411686037734127.jpg"
     ],
-    "defeito": false,
+    "id": "1495371463",
+    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/god-of-war-ragnarok-1495371463",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "God of war Ragnarok",
     "ts": 1779281664
   },
   {
@@ -9948,25 +9968,5 @@
     "tempoOlx": "",
     "titulo": "The Last Of Us Remasterizado PS4",
     "ts": 1779212887
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:47",
-    "fotoUrl": "https://img.olx.com.br/images/73/739686409388739.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/739686409388739.jpg",
-      "https://img.olx.com.br/images/74/746679049825870.jpg",
-      "https://img.olx.com.br/images/75/750628521202688.jpg"
-    ],
-    "id": "1503355755",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-ps4-1503355755",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "JOGOS PS4 ",
-    "ts": 1779212879
   }
 ]
