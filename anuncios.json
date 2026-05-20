@@ -1,15 +1,30 @@
 [
   {
-    "id": "1503766412",
-    "titulo": "Xbox Series S",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1503769139",
+    "titulo": "Xbox Séries S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "20:20",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "detectado": "20:25",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://es.olx.com.br/sul-do-espirito-santo/games/consoles-de-video-game/xbox-series-s-1503766412",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/xbox-series-s-1503769139",
+    "fotoUrl": "https://img.olx.com.br/images/68/686635767958660.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/686635767958660.jpg",
+      "https://img.olx.com.br/images/71/714648164351697.jpg",
+      "https://img.olx.com.br/images/82/827683764558645.jpg",
+      "https://img.olx.com.br/images/86/864611409354672.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779319555
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:20",
     "fotoUrl": "https://img.olx.com.br/images/57/578633646938824.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/578633646938824.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/60/605612880383434.jpg",
       "https://img.olx.com.br/images/62/624654764848828.jpg"
     ],
-    "defeito": false,
+    "id": "1503766412",
+    "link": "https://es.olx.com.br/sul-do-espirito-santo/games/consoles-de-video-game/xbox-series-s-1503766412",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Xbox Series S",
     "ts": 1779319225
   },
   {
@@ -9936,29 +9957,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Playstation 3 Slim com defeito ",
-    "ts": 1779279820
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:23",
-    "fotoUrl": "https://img.olx.com.br/images/60/605662528549828.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/605662528549828.jpg",
-      "https://img.olx.com.br/images/59/596667407530169.jpg",
-      "https://img.olx.com.br/images/60/607625048951504.jpg",
-      "https://img.olx.com.br/images/60/601604404261996.jpg",
-      "https://img.olx.com.br/images/60/601688528310629.jpg",
-      "https://img.olx.com.br/images/73/738650408638286.jpg"
-    ],
-    "id": "1502483960",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/leia-o-anuncio-playstation-3-slim-120gb-ps3-conservado-1502483960",
-    "preco": 469,
-    "precoRaw": "R$ 469",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "[LEIA O ANUNCIO] PlayStation 3 Slim 120GB - PS3 - CONSERVADO",
     "ts": 1779279820
   }
 ]
