@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503658175",
-    "titulo": "Xbox Series S (NÃO FUNCIONA!)",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "xbox",
+    "id": "1503665430",
+    "titulo": "Jogos PS4 e PS5",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:59",
-    "tempoOlx": "Na OLX desde maio de 2025",
+    "detectado": "14:01",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/xbox-series-s-nao-funciona-1503658175",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-ps4-e-ps5-1503665430",
+    "fotoUrl": "https://img.olx.com.br/images/97/972618649807802.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/972618649807802.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779296489
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:59",
     "fotoUrl": "https://img.olx.com.br/images/97/975693168738951.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/975693168738951.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/13/137628166396076.jpg",
       "https://img.olx.com.br/images/15/156610400872090.jpg"
     ],
-    "defeito": false,
+    "id": "1503658175",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/xbox-series-s-nao-funciona-1503658175",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2025",
+    "titulo": "Xbox Series S (NÃO FUNCIONA!)",
     "ts": 1779296372
   },
   {
@@ -9981,27 +9999,5 @@
     "tempoOlx": "Na OLX desde abril de 2022",
     "titulo": "Jogo ps4 ps5 Detroit ",
     "ts": 1779221832
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:17",
-    "fotoUrl": "https://img.olx.com.br/images/57/576613882674168.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/576613882674168.jpg",
-      "https://img.olx.com.br/images/58/582633763722883.jpg",
-      "https://img.olx.com.br/images/59/597618764854914.jpg",
-      "https://img.olx.com.br/images/61/610639404212063.jpg",
-      "https://img.olx.com.br/images/62/620604763908163.jpg"
-    ],
-    "id": "1503430514",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-slim-500gb-1503430514",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "PS4 SLIM 500GB",
-    "ts": 1779221823
   }
 ]
