@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503765447",
-    "titulo": "Ps5 digital",
-    "preco": 3199,
-    "precoRaw": "R$ 3.199",
-    "categoria": "ps5",
+    "id": "1503765749",
+    "titulo": "Jogos de ps4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:16",
+    "detectado": "20:19",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-digital-1503765447",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-de-ps4-1503765749",
+    "fotoUrl": "https://img.olx.com.br/images/52/527697045411901.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/527697045411901.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779319165
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:16",
     "fotoUrl": "https://img.olx.com.br/images/65/650649046014047.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/650649046014047.jpg"
     ],
-    "defeito": false,
+    "id": "1503765447",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-digital-1503765447",
+    "preco": 3199,
+    "precoRaw": "R$ 3.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Ps5 digital",
     "ts": 1779318984
   },
   {
@@ -9940,26 +9958,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Vendo play2 com jogos e 2 controle ",
-    "ts": 1779279820
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:23",
-    "fotoUrl": "https://img.olx.com.br/images/70/703668766971348.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/703668766971348.jpg",
-      "https://img.olx.com.br/images/71/716687404853932.jpg",
-      "https://img.olx.com.br/images/73/737621646287255.jpg"
-    ],
-    "id": "1500953481",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-leia-a-descricao-1500953481",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps3 slim leia a descrição",
     "ts": 1779279820
   }
 ]
