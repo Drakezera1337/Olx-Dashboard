@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503761175",
-    "titulo": "Jogo uncharted 4 físico ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1503760751",
+    "titulo": "Spider Man ps4 - Mídia física ",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:55",
-    "tempoOlx": "Na OLX desde abril de 2025",
+    "detectado": "19:56",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-uncharted-4-fisico-1503761175",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spider-man-ps4-midia-fisica-1503760751",
+    "fotoUrl": "https://img.olx.com.br/images/63/632678527227047.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/632678527227047.jpg",
+      "https://img.olx.com.br/images/64/642605045036770.jpg",
+      "https://img.olx.com.br/images/65/655653167031348.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779317763
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:55",
     "fotoUrl": "https://img.olx.com.br/images/43/435656762607358.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/435656762607358.jpg",
       "https://img.olx.com.br/images/44/446688280729435.jpg"
     ],
-    "defeito": false,
+    "id": "1503761175",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-uncharted-4-fisico-1503761175",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "Jogo uncharted 4 físico ",
     "ts": 1779317755
   },
   {
@@ -9935,24 +9955,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "IPad 9° Geração ",
-    "ts": 1779279768
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/49/498689160604487.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/498689160604487.jpg"
-    ],
-    "id": "1503550827",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-branco-1503550827",
-    "preco": 3700,
-    "precoRaw": "R$ 3.700",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 13 branco",
     "ts": 1779279768
   }
 ]
