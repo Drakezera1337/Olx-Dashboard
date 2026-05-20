@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503519610",
-    "titulo": "PS5 esse valor para sair hoje ",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "categoria": "ps5",
+    "id": "1503725626",
+    "titulo": "Jogo ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:24",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "detectado": "17:27",
+    "tempoOlx": "Na OLX desde junho de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-esse-valor-para-sair-hoje-1503519610",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-ps4-1503725626",
+    "fotoUrl": "https://img.olx.com.br/images/16/161647525247058.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/161647525247058.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779308842
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:24",
     "fotoUrl": "https://img.olx.com.br/images/27/272646280227872.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/272646280227872.jpg"
     ],
-    "defeito": false,
+    "id": "1503519610",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-esse-valor-para-sair-hoje-1503519610",
+    "preco": 2550,
+    "precoRaw": "R$ 2.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "PS5 esse valor para sair hoje ",
     "ts": 1779308640
   },
   {
@@ -9966,23 +9984,5 @@
     "tempoOlx": "Na OLX desde outubro de 2021",
     "titulo": "JOGO PS4 HORIZON FORBIDDEN WEST",
     "ts": 1779239636
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:07",
-    "fotoUrl": "https://img.olx.com.br/images/74/745682165631236.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/745682165631236.jpg"
-    ],
-    "id": "1503508116",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/elden-ring-resident-evil-4-remake-1503508116",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2021",
-    "titulo": "Elden Ring + Resident Evil 4 Remake",
-    "ts": 1779239275
   }
 ]
