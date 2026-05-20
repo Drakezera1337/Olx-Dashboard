@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503519270",
-    "titulo": "Jogo Cyberpunk ",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "jogos",
+    "id": "1503518577",
+    "titulo": "Jogo ps4 Knack 2",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "23:08",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-cyberpunk-1503519270",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-knack-2-1503518577",
+    "fotoUrl": "https://img.olx.com.br/images/46/461632524761090.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/461632524761090.jpg",
+      "https://img.olx.com.br/images/46/468609887037739.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779242893
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:08",
     "fotoUrl": "https://img.olx.com.br/images/37/372651041466004.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/372651041466004.jpg",
       "https://img.olx.com.br/images/38/385618524948060.jpg",
       "https://img.olx.com.br/images/39/399608040637435.jpg"
     ],
-    "defeito": false,
+    "id": "1503519270",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-cyberpunk-1503519270",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Jogo Cyberpunk ",
     "ts": 1779242884
   },
   {
@@ -9862,24 +9881,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Vendo jogos de ps4 slim",
     "ts": 1779152491
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:01",
-    "fotoUrl": "https://img.olx.com.br/images/39/392588597336790.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/392588597336790.jpg",
-      "https://img.olx.com.br/images/40/400531596335738.jpg"
-    ],
-    "id": "1462920037",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/call-of-duty-black-ops-iii-1462920037",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Call Of Duty Black Ops III",
-    "ts": 1779152480
   }
 ]
