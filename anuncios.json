@@ -1,21 +1,40 @@
 [
   {
-    "id": "1503518399",
-    "titulo": "Jogo ps4 Metro Exodus",
-    "preco": 105,
-    "precoRaw": "R$ 105",
-    "categoria": "ps4",
+    "id": "1503517806",
+    "titulo": "THE LAST OF US I e II",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "23:01",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde março de 2022",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-metro-exodus-1503518399",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/the-last-of-us-i-e-ii-1503517806",
+    "fotoUrl": "https://img.olx.com.br/images/55/559623284080436.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/559623284080436.jpg",
+      "https://img.olx.com.br/images/57/572690763960949.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779242493
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:01",
     "fotoUrl": "https://img.olx.com.br/images/77/773653642162028.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/773653642162028.jpg",
       "https://img.olx.com.br/images/76/764688647761571.jpg"
     ],
-    "defeito": false,
+    "id": "1503518399",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-metro-exodus-1503518399",
+    "preco": 105,
+    "precoRaw": "R$ 105",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Jogo ps4 Metro Exodus",
     "ts": 1779242485
   },
   {
@@ -9854,23 +9873,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Ps5 ",
     "ts": 1779151616
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:43",
-    "fotoUrl": "https://img.olx.com.br/images/40/408697645513150.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/408697645513150.jpg"
-    ],
-    "id": "1503192888",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/troco-playstation-5-slim-1503192888",
-    "preco": 3100,
-    "precoRaw": "R$ 3.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "TROCO PLAYSTATION 5 - SLIM",
-    "ts": 1779151410
   }
 ]
