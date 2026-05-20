@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503515251",
-    "titulo": "Nintendo Switch usado",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "categoria": "switch",
+    "id": "1503515526",
+    "titulo": "Call Of Duty Black Ops 4 PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:43",
-    "tempoOlx": "Na OLX desde julho de 2025",
+    "detectado": "22:44",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/nintendo-switch-usado-1503515251",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/call-of-duty-black-ops-4-ps4-1503515526",
+    "fotoUrl": "https://img.olx.com.br/images/84/848665764270650.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/848665764270650.jpg",
+      "https://img.olx.com.br/images/86/869610523408197.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779241444
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:43",
     "fotoUrl": "https://img.olx.com.br/images/63/633654525144910.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/633654525144910.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/68/680654767464467.jpg",
       "https://img.olx.com.br/images/69/693645769667758.jpg"
     ],
-    "defeito": false,
+    "id": "1503515251",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/nintendo-switch-usado-1503515251",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "titulo": "Nintendo Switch usado",
     "ts": 1779241436
   },
   {
@@ -9859,24 +9878,5 @@
     "tempoOlx": "Na OLX desde março de 2016",
     "titulo": "PS4 FAT COM CONTROLE ORIGINAL LACRADO",
     "ts": 1779150989
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:34",
-    "fotoUrl": "https://img.olx.com.br/images/93/935625645978374.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/935625645978374.jpg",
-      "https://img.olx.com.br/images/94/941606166045294.jpg"
-    ],
-    "id": "1503190427",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-1503190427",
-    "preco": 2555,
-    "precoRaw": "R$ 2.555",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Playstation 5 ",
-    "ts": 1779150869
   }
 ]
