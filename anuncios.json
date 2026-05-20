@@ -1,21 +1,39 @@
 [
   {
-    "id": "1503535932",
-    "titulo": "FC 24",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "categoria": "outros",
+    "id": "1503534884",
+    "titulo": "Hitman - PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:10",
-    "tempoOlx": "Na OLX desde agosto de 2014",
+    "detectado": "00:11",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/fc-24-1503535932",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/hitman-ps4-1503534884",
+    "fotoUrl": "https://img.olx.com.br/images/55/551682169255260.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/551682169255260.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779246664
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:10",
     "fotoUrl": "https://img.olx.com.br/images/40/402610161171508.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/402610161171508.jpg",
       "https://img.olx.com.br/images/41/413629405414550.jpg"
     ],
-    "defeito": false,
+    "id": "1503535932",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/fc-24-1503535932",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2014",
+    "titulo": "FC 24",
     "ts": 1779246657
   },
   {
@@ -9844,28 +9862,5 @@
     "tempoOlx": "Na OLX desde julho de 2015",
     "titulo": "Playstation 4 Ps4 com 2 controles",
     "ts": 1779154801
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:37",
-    "fotoUrl": "https://img.olx.com.br/images/19/192620047702797.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/192620047702797.jpg",
-      "https://img.olx.com.br/images/21/216631162036366.jpg",
-      "https://img.olx.com.br/images/22/220626761133918.jpg",
-      "https://img.olx.com.br/images/24/246672765179107.jpg",
-      "https://img.olx.com.br/images/25/253617043437623.jpg",
-      "https://img.olx.com.br/images/26/261654881215545.jpg"
-    ],
-    "id": "1503203695",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-seminovo-estado-de-conservacao-excelente-acompanha-jogos-e-controles-1503203695",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "PlayStation 4 Slim, Seminovo, estado de conservação excelente, acompanha jogos e controles",
-    "ts": 1779154637
   }
 ]
