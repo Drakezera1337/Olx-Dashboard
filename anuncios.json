@@ -1,15 +1,32 @@
 [
   {
-    "id": "1503681089",
-    "titulo": "Ps PORTAL SONY EDIÇÂO BLACK",
-    "preco": 1099,
-    "precoRaw": "R$ 1.099",
-    "categoria": "outros",
+    "id": "1503682468",
+    "titulo": "FIFA ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "14:59",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "15:01",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps-portal-sony-edicao-black-1503681089",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-1503682468",
+    "fotoUrl": "https://img.olx.com.br/images/13/139690880690700.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/139690880690700.jpg",
+      "https://img.olx.com.br/images/14/149685648801200.jpg",
+      "https://img.olx.com.br/images/16/169698649079944.jpg",
+      "https://img.olx.com.br/images/18/187673286332290.jpg",
+      "https://img.olx.com.br/images/19/192652768195611.jpg",
+      "https://img.olx.com.br/images/20/203675163787084.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779300092
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:59",
     "fotoUrl": "https://img.olx.com.br/images/67/674640522712476.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/674640522712476.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/74/742669648495743.jpg",
       "https://img.olx.com.br/images/76/760637283591642.jpg"
     ],
-    "defeito": false,
+    "id": "1503681089",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps-portal-sony-edicao-black-1503681089",
+    "preco": 1099,
+    "precoRaw": "R$ 1.099",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Ps PORTAL SONY EDIÇÂO BLACK",
     "ts": 1779299969
   },
   {
@@ -9956,24 +9979,5 @@
     "tempoOlx": "Na OLX desde julho de 2021",
     "titulo": "Ps4 com jogos",
     "ts": 1779226481
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:34",
-    "fotoUrl": "https://img.olx.com.br/images/77/771647403585240.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/771647403585240.jpg",
-      "https://img.olx.com.br/images/80/805605283013017.jpg"
-    ],
-    "id": "1503427227",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lote-jogos-ps4-ps5-1503427227",
-    "preco": 480,
-    "precoRaw": "R$ 480",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2023",
-    "titulo": "LOTE jogos ps4/ps5",
-    "ts": 1779226472
   }
 ]
