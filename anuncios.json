@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503759214",
-    "titulo": "Playstation 4 Slim ",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "ps4",
+    "id": "1481721056",
+    "titulo": "FIFA 16",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:43",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "detectado": "19:44",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/playstation-4-slim-1503759214",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-16-1481721056",
+    "fotoUrl": "https://img.olx.com.br/images/83/838657144142270.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/838657144142270.jpg",
+      "https://img.olx.com.br/images/85/859614149758983.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779317041
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:43",
     "fotoUrl": "https://img.olx.com.br/images/30/304603764004582.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/304603764004582.jpg",
       "https://img.olx.com.br/images/31/313694166212256.jpg",
       "https://img.olx.com.br/images/33/339614646940190.jpg"
     ],
-    "defeito": false,
+    "id": "1503759214",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/playstation-4-slim-1503759214",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Playstation 4 Slim ",
     "ts": 1779317034
   },
   {
@@ -9946,27 +9965,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Vendo IPhone 15 Pro Max 256GB",
-    "ts": 1779279747
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/62/627619525864811.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/627619525864811.jpg",
-      "https://img.olx.com.br/images/64/645695286159052.jpg",
-      "https://img.olx.com.br/images/65/650651406816478.jpg",
-      "https://img.olx.com.br/images/67/677661889477164.jpg"
-    ],
-    "id": "1501987813",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/moto-g14-novo-nunca-usado-1501987813",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Moto G14 NOVO Nunca usado",
     "ts": 1779279747
   }
 ]
