@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503671265",
-    "titulo": "Ps4 slim",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1503671641",
+    "titulo": "JOGOS PS4",
+    "preco": 319,
+    "precoRaw": "R$ 319",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:24",
-    "tempoOlx": "Na OLX desde outubro de 2022",
+    "detectado": "14:25",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/ps4-slim-1503671265",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-1503671641",
+    "fotoUrl": "https://img.olx.com.br/images/63/638697161384249.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/638697161384249.jpg",
+      "https://img.olx.com.br/images/65/655626527388208.jpg",
+      "https://img.olx.com.br/images/67/672615409973249.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779297933
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:24",
     "fotoUrl": "https://img.olx.com.br/images/69/691629881042964.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/691629881042964.jpg"
     ],
-    "defeito": false,
+    "id": "1503671265",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/ps4-slim-1503671265",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "Ps4 slim",
     "ts": 1779297870
   },
   {
@@ -9962,26 +9982,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2024",
     "titulo": "ps4 com jogos ",
     "ts": 1779223346
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:39",
-    "fotoUrl": "https://img.olx.com.br/images/84/849614165940913.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/849614165940913.jpg",
-      "https://img.olx.com.br/images/85/857671525831937.jpg",
-      "https://img.olx.com.br/images/87/871633163575066.jpg",
-      "https://img.olx.com.br/images/89/890603407576851.jpg"
-    ],
-    "id": "1503435220",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-64gb-unico-dono-1503435220",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2023",
-    "titulo": "iPhone XR 64gb - Único dono",
-    "ts": 1779223165
   }
 ]
