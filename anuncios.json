@@ -1,21 +1,39 @@
 [
   {
-    "id": "1503640421",
-    "titulo": "Jogos PS4",
-    "preco": 67,
-    "precoRaw": "R$ 67",
+    "id": "1503640016",
+    "titulo": "Lote de jogos PS4 + Controle",
+    "preco": 400,
+    "precoRaw": "R$ 400",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:34",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "tempoOlx": "Na OLX desde março de 2023",
     "descricao": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogos-ps4-1503640421",
+    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/lote-de-jogos-ps4-controle-1503640016",
+    "fotoUrl": "https://img.olx.com.br/images/50/503640886695669.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/503640886695669.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294864
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:34",
     "fotoUrl": "https://img.olx.com.br/images/44/443678281374008.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/443678281374008.jpg",
       "https://img.olx.com.br/images/45/450678767655852.jpg"
     ],
-    "defeito": false,
+    "id": "1503640421",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/jogos-ps4-1503640421",
+    "preco": 67,
+    "precoRaw": "R$ 67",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "Jogos PS4",
     "ts": 1779294855
   },
   {
@@ -9971,23 +9989,5 @@
     "tempoOlx": "Na OLX desde setembro de 2020",
     "titulo": "TT Isle of Man: Ride on the Edge - PS4 seminovo",
     "ts": 1779221169
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:06",
-    "fotoUrl": "https://img.olx.com.br/images/99/991617883779574.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/991617883779574.jpg"
-    ],
-    "id": "1503420403",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/fifa-2017-xbox-one-1503420403",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "FIFA 2017 - Xbox one",
-    "ts": 1779221162
   }
 ]
