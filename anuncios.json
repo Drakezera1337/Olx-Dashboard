@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503588469",
-    "titulo": "Ps5 islim",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "categoria": "ps5",
+    "id": "1503163749",
+    "titulo": "VENDE-SE PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "09:27",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "detectado": "09:28",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-islim-1503588469",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/vende-se-ps4-1503163749",
+    "fotoUrl": "https://img.olx.com.br/images/29/298687169125477.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/298687169125477.jpg",
+      "https://img.olx.com.br/images/30/308611520073485.jpg",
+      "https://img.olx.com.br/images/32/326660882381137.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779280081
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:27",
     "fotoUrl": "https://img.olx.com.br/images/48/487626886322482.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/487626886322482.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/53/538696164135361.jpg",
       "https://img.olx.com.br/images/54/548642765110770.jpg"
     ],
-    "defeito": false,
+    "id": "1503588469",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/ps5-islim-1503588469",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Ps5 islim",
     "ts": 1779280050
   },
   {
@@ -9905,23 +9925,5 @@
     "tempoOlx": "",
     "titulo": "FarCry Primal, Fallout 4",
     "ts": 1779212667
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:44",
-    "fotoUrl": "https://img.olx.com.br/images/87/873546812631725.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/873546812631725.jpg"
-    ],
-    "id": "1444195748",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-original-ps4-db2-xenoverse-1444195748",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo original PS4 DB2 XenoVerse",
-    "ts": 1779212659
   }
 ]
