@@ -1,40 +1,143 @@
 [
   {
-    "id": "1503583653",
-    "titulo": "Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503586299",
+    "titulo": "Ps3 com defeito. ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "09:23",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1503583653",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-com-defeito-1503586299",
+    "fotoUrl": "https://img.olx.com.br/images/75/759610642845336.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/759610642845336.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779279805
+  },
+  {
+    "id": "1495402295",
+    "titulo": "Assassins Creed 3 PS3 Steelbook",
+    "preco": 399,
+    "precoRaw": "R$ 399",
+    "categoria": "ps3",
+    "publicado": "",
+    "detectado": "09:23",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/assassins-creed-3-ps3-steelbook-1495402295",
+    "fotoUrl": "https://img.olx.com.br/images/21/218622878262577.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/21/218622878262577.jpg",
+      "https://img.olx.com.br/images/23/237691874095951.jpg",
+      "https://img.olx.com.br/images/24/244640157477135.jpg",
+      "https://img.olx.com.br/images/25/257642874033105.jpg",
+      "https://img.olx.com.br/images/26/266607635092970.jpg",
+      "https://img.olx.com.br/images/28/281618632091434.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779279805
+  },
+  {
+    "id": "1487035766",
+    "titulo": "Caixas do vídeo game ps3  com manual",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "categoria": "ps3",
+    "publicado": "",
+    "detectado": "09:23",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/caixas-do-video-game-ps3-com-manual-1487035766",
+    "fotoUrl": "https://img.olx.com.br/images/54/549677509435386.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/549677509435386.jpg",
+      "https://img.olx.com.br/images/56/562627748567264.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779279805
+  },
+  {
+    "id": "1461038769",
+    "titulo": "JOGO PS3 METALGEARRISING",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps3",
+    "publicado": "",
+    "detectado": "09:23",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogo-ps3-metalgearrising-1461038769",
+    "fotoUrl": "https://img.olx.com.br/images/37/370571352611234.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/370571352611234.jpg",
+      "https://img.olx.com.br/images/38/381513235851783.jpg",
+      "https://img.olx.com.br/images/40/403540238734614.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779279805
+  },
+  {
+    "id": "1495365445",
+    "titulo": "Kit 5 Playstation PS3 ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps3",
+    "publicado": "",
+    "detectado": "09:23",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/kit-5-playstation-ps3-1495365445",
+    "fotoUrl": "https://img.olx.com.br/images/68/684607034165839.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/684607034165839.jpg",
+      "https://img.olx.com.br/images/69/697697634240955.jpg",
+      "https://img.olx.com.br/images/71/714609158673854.jpg",
+      "https://img.olx.com.br/images/72/723659757409167.jpg",
+      "https://img.olx.com.br/images/73/730622517437956.jpg",
+      "https://img.olx.com.br/images/74/744688279928751.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779279805
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:23",
     "fotoUrl": "https://img.olx.com.br/images/80/809668408471683.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/809668408471683.jpg",
       "https://img.olx.com.br/images/80/809644760353781.jpg"
     ],
-    "defeito": false,
+    "id": "1503583653",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1503583653",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Series S",
     "ts": 1779279791
   },
   {
-    "id": "1503543415",
-    "titulo": "Xbox série S para consertar ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
     "categoria": "xbox",
-    "publicado": "",
-    "detectado": "09:23",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-serie-s-para-consertar-1503543415",
+    "detectado": "09:23",
     "fotoUrl": "https://img.olx.com.br/images/66/669638404306407.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/669638404306407.jpg",
       "https://img.olx.com.br/images/67/674624764998107.jpg"
     ],
-    "defeito": false,
+    "id": "1503543415",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-serie-s-para-consertar-1503543415",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox série S para consertar ",
     "ts": 1779279791
   },
   {
@@ -9761,104 +9864,5 @@
     "tempoOlx": "Na OLX desde outubro de 2016",
     "titulo": "Wii mini com caixa",
     "ts": 1779212134
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:43",
-    "fotoUrl": "https://img.olx.com.br/images/24/241649647191109.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/241649647191109.jpg",
-      "https://img.olx.com.br/images/26/268676645940181.jpg"
-    ],
-    "id": "1503238009",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-de-jogos-ps4-1503238009",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2018",
-    "titulo": "Lote de jogos PS4 ",
-    "ts": 1779165814
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:31",
-    "fotoUrl": "https://img.olx.com.br/images/18/189675164921113.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/189675164921113.jpg",
-      "https://img.olx.com.br/images/20/207691165088624.jpg",
-      "https://img.olx.com.br/images/21/217678049780906.jpg",
-      "https://img.olx.com.br/images/22/220683284817181.jpg",
-      "https://img.olx.com.br/images/24/249624048110125.jpg",
-      "https://img.olx.com.br/images/25/258685407659067.jpg"
-    ],
-    "id": "1503237385",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/lote-06-jogos-playstation-4-valores-na-descricao-entrega-gratis-parcelo-ate-12x-1503237385",
-    "preco": 330,
-    "precoRaw": "R$ 330",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": "Lote 06 Jogos Playstation 4 (Valores na Descrição) / Entrega Grátis / Parcelo até 12x",
-    "ts": 1779165093
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:25",
-    "fotoUrl": "https://img.olx.com.br/images/72/728610042597038.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/728610042597038.jpg"
-    ],
-    "id": "1503237212",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-originais-ps4--p11-1503237212",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Jogos Originais Ps4 !!!!!!!p11",
-    "ts": 1779164702
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:13",
-    "fotoUrl": "https://img.olx.com.br/images/68/687607287672245.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/687607287672245.jpg",
-      "https://img.olx.com.br/images/69/695695161516736.jpg",
-      "https://img.olx.com.br/images/71/711636045208976.jpg"
-    ],
-    "id": "1503236788",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/fifa-2018-ps4-1503236788",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2017",
-    "titulo": "FIFA 2018 Ps4",
-    "ts": 1779163986
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:12",
-    "fotoUrl": "https://img.olx.com.br/images/15/156508900049673.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/156508900049673.jpg",
-      "https://img.olx.com.br/images/17/175513420554258.jpg"
-    ],
-    "id": "1419379942",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/leia-a-descricao-colecao-com-23-jogos-de-playstation-4-varios-generos-midia-fisica-1419379942",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "(Leia a descrição) Coleção com 23 Jogos de PlayStation 4 - Vários Gêneros (Midia Física)",
-    "ts": 1779163977
   }
 ]
