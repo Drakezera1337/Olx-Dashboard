@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503769139",
-    "titulo": "Xbox Séries S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503768913",
+    "titulo": "Vídeo game stich ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "20:25",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "20:26",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/xbox-series-s-1503769139",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/video-game-stich-1503768913",
+    "fotoUrl": "https://img.olx.com.br/images/16/166676286254481.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/166676286254481.jpg",
+      "https://img.olx.com.br/images/17/170652524744381.jpg",
+      "https://img.olx.com.br/images/80/809696642703683.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779319585
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:25",
     "fotoUrl": "https://img.olx.com.br/images/68/686635767958660.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/686635767958660.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/82/827683764558645.jpg",
       "https://img.olx.com.br/images/86/864611409354672.jpg"
     ],
-    "defeito": false,
+    "id": "1503769139",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/xbox-series-s-1503769139",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Xbox Séries S",
     "ts": 1779319555
   },
   {
@@ -9936,27 +9956,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Vendo PS3 slim",
-    "ts": 1779279820
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:23",
-    "fotoUrl": "https://img.olx.com.br/images/18/183679383030819.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/183679383030819.jpg",
-      "https://img.olx.com.br/images/20/205665269761606.jpg",
-      "https://img.olx.com.br/images/21/211656624020654.jpg",
-      "https://img.olx.com.br/images/88/885654142745098.jpg"
-    ],
-    "id": "1484532564",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-3-slim-com-defeito-1484532564",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 3 Slim com defeito ",
     "ts": 1779279820
   }
 ]
