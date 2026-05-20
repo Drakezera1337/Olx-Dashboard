@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503608956",
-    "titulo": "vende- se Ps4 funcionando perfeitamente, e vem 2 jogos 1 controle ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1503608796",
+    "titulo": "Ps4",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:26",
-    "tempoOlx": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-ps4-funcionando-perfeitamente-e-vem-2-jogos-1-controle-1503608956",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-1503608796",
+    "fotoUrl": "https://img.olx.com.br/images/50/504621647430327.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/504621647430327.jpg",
+      "https://img.olx.com.br/images/58/589618166863005.jpg",
+      "https://img.olx.com.br/images/67/676662760372228.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294415
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:26",
     "fotoUrl": "https://img.olx.com.br/images/32/326666887909320.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/326666887909320.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/39/393680280909327.jpg",
       "https://img.olx.com.br/images/41/413647161783377.jpg"
     ],
-    "defeito": false,
+    "id": "1503608956",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-ps4-funcionando-perfeitamente-e-vem-2-jogos-1-controle-1503608956",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "vende- se Ps4 funcionando perfeitamente, e vem 2 jogos 1 controle ",
     "ts": 1779294405
   },
   {
@@ -9956,24 +9976,5 @@
     "tempoOlx": "",
     "titulo": "Uncharted 4",
     "ts": 1779213203
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:53",
-    "fotoUrl": "https://img.olx.com.br/images/70/707600649204554.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/707600649204554.jpg",
-      "https://img.olx.com.br/images/71/712676884477820.jpg"
-    ],
-    "id": "1503386125",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/jogo-fifa-18-ps4-1503386125",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo Fifa 18 - PS4",
-    "ts": 1779213196
   }
 ]
