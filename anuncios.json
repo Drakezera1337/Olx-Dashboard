@@ -1,22 +1,40 @@
 [
   {
-    "id": "1495165094",
-    "titulo": "CALL OF DUTY MODERN WARFARE",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1503654763",
+    "titulo": "Jogos ps3 ",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:30",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/call-of-duty-modern-warfare-1495165094",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps3-1503654763",
+    "fotoUrl": "https://img.olx.com.br/images/39/396665044100612.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/396665044100612.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294626
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:30",
     "fotoUrl": "https://img.olx.com.br/images/31/318638150950893.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/318638150950893.jpg",
       "https://img.olx.com.br/images/32/327698156669000.jpg",
       "https://img.olx.com.br/images/33/334641155338475.jpg"
     ],
-    "defeito": false,
+    "id": "1495165094",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/call-of-duty-modern-warfare-1495165094",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "CALL OF DUTY MODERN WARFARE",
     "ts": 1779294614
   },
   {
@@ -9975,25 +9993,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Ps5 portátil ",
     "ts": 1779220956
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:02",
-    "fotoUrl": "https://img.olx.com.br/images/17/174641521212823.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/174641521212823.jpg",
-      "https://img.olx.com.br/images/17/175660048491119.jpg",
-      "https://img.olx.com.br/images/17/170614764140199.jpg"
-    ],
-    "id": "1503402131",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/ps5-usado-semi-novo-completo-sem-caixa-1503402131",
-    "preco": 2350,
-    "precoRaw": "R$ 2.350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS5 usado semi-novo, completo sem caixa",
-    "ts": 1779220945
   }
 ]
