@@ -1,21 +1,40 @@
 [
   {
-    "id": "1503524495",
-    "titulo": "The last of us 2",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "jogos",
+    "id": "1503494591",
+    "titulo": "PS4 com defeito",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:42",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "detectado": "23:44",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-2-1503524495",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps4-com-defeito-1503494591",
+    "fotoUrl": "https://img.olx.com.br/images/69/699604042468199.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/699604042468199.jpg",
+      "https://img.olx.com.br/images/37/373666283922574.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779245063
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:42",
     "fotoUrl": "https://img.olx.com.br/images/50/506685644717734.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/506685644717734.jpg",
       "https://img.olx.com.br/images/51/518683288667161.jpg"
     ],
-    "defeito": false,
+    "id": "1503524495",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-2-1503524495",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "The last of us 2",
     "ts": 1779244931
   },
   {
@@ -9849,24 +9868,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Lote de jogos de ps3 so vendo tudo!!",
     "ts": 1779153555
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:19",
-    "fotoUrl": "https://img.olx.com.br/images/60/609681165564678.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/609681165564678.jpg",
-      "https://img.olx.com.br/images/62/623645769857270.jpg"
-    ],
-    "id": "1503201593",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-1503201593",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
-    "titulo": "Ghost of Tsushima",
-    "ts": 1779153542
   }
 ]
