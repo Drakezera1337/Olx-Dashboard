@@ -1,15 +1,31 @@
 [
   {
-    "id": "1503763139",
-    "titulo": "PS4 500GB COM 7 JOGOS",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1503763092",
+    "titulo": "PS4 Slim",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:09",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "tempoOlx": "Na OLX desde novembro de 2018",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-500gb-com-7-jogos-1503763139",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1503763092",
+    "fotoUrl": "https://img.olx.com.br/images/38/382649760785885.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/382649760785885.jpg",
+      "https://img.olx.com.br/images/41/410648523221179.jpg",
+      "https://img.olx.com.br/images/43/430646042386134.jpg",
+      "https://img.olx.com.br/images/44/448661163882108.jpg",
+      "https://img.olx.com.br/images/47/473681640956972.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779318569
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:09",
     "fotoUrl": "https://img.olx.com.br/images/22/226624163084272.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/226624163084272.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/26/267677881995583.jpg",
       "https://img.olx.com.br/images/27/279658166526467.jpg"
     ],
-    "defeito": false,
+    "id": "1503763139",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-500gb-com-7-jogos-1503763139",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "PS4 500GB COM 7 JOGOS",
     "ts": 1779318560
   },
   {
@@ -9937,23 +9959,5 @@
     "tempoOlx": "",
     "titulo": "Xbox série S para consertar ",
     "ts": 1779279791
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/46/467593590671665.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/467593590671665.jpg"
-    ],
-    "id": "1462831427",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/limpeza-completa-troca-pasta-termica-ps3-ps4-xbox-one-pc-1462831427",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Limpeza Completa + Troca Pasta Térmica PS3 PS4 Xbox One PC!",
-    "ts": 1779279773
   }
 ]
