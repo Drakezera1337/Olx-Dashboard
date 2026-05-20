@@ -1,22 +1,42 @@
 [
   {
-    "id": "1495164459",
-    "titulo": "SPIDER-MAN",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1495165094",
+    "titulo": "CALL OF DUTY MODERN WARFARE",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "13:30",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/spider-man-1495164459",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/call-of-duty-modern-warfare-1495165094",
+    "fotoUrl": "https://img.olx.com.br/images/31/318638150950893.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/318638150950893.jpg",
+      "https://img.olx.com.br/images/32/327698156669000.jpg",
+      "https://img.olx.com.br/images/33/334641155338475.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294614
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:30",
     "fotoUrl": "https://img.olx.com.br/images/76/760617874652613.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/760617874652613.jpg",
       "https://img.olx.com.br/images/76/763692515718195.jpg",
       "https://img.olx.com.br/images/78/781602159244765.jpg"
     ],
-    "defeito": false,
+    "id": "1495164459",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/spider-man-1495164459",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "SPIDER-MAN",
     "ts": 1779294602
   },
   {
@@ -9975,28 +9995,5 @@
     "tempoOlx": "",
     "titulo": "PS5 usado semi-novo, completo sem caixa",
     "ts": 1779220945
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:02",
-    "fotoUrl": "https://img.olx.com.br/images/45/452660032735395.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/452660032735395.jpg",
-      "https://img.olx.com.br/images/58/582658752432761.jpg",
-      "https://img.olx.com.br/images/58/583669154929559.jpg",
-      "https://img.olx.com.br/images/58/589679635622281.jpg",
-      "https://img.olx.com.br/images/59/593612756635415.jpg",
-      "https://img.olx.com.br/images/59/593653638575986.jpg"
-    ],
-    "id": "1494707089",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/caixa-e-berco-vazios-ps5-nacionais-originais-1494707089",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Caixa E Berço Vazios PS5 Nacionais Originais",
-    "ts": 1779220942
   }
 ]
