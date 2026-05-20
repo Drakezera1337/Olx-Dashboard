@@ -1,15 +1,31 @@
 [
   {
-    "id": "1503593975",
-    "titulo": "Playstation 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1503594836",
+    "titulo": "Ps3 slim série 3001b    nao funciona  o Bluetooth ",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "09:50",
-    "tempoOlx": "Na OLX desde agosto de 2014",
+    "detectado": "09:53",
+    "tempoOlx": "Na OLX desde julho de 2014",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-5-1503593975",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-serie-3001b-nao-funciona-o-bluetooth-1503594836",
+    "fotoUrl": "https://img.olx.com.br/images/49/491638289938166.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/491638289938166.jpg",
+      "https://img.olx.com.br/images/50/504646287959777.jpg",
+      "https://img.olx.com.br/images/52/522625763450609.jpg",
+      "https://img.olx.com.br/images/55/558614404563439.jpg",
+      "https://img.olx.com.br/images/56/568618522812907.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779281583
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:50",
     "fotoUrl": "https://img.olx.com.br/images/85/851618524892455.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/851618524892455.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/89/899605644015031.jpg",
       "https://img.olx.com.br/images/91/916625528151265.jpg"
     ],
-    "defeito": false,
+    "id": "1503593975",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-5-1503593975",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2014",
+    "titulo": "Playstation 5",
     "ts": 1779281400
   },
   {
@@ -9944,23 +9966,5 @@
     "tempoOlx": "",
     "titulo": "Jogo ps4 fifa 2018",
     "ts": 1779212847
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:47",
-    "fotoUrl": "https://img.olx.com.br/images/19/193696045566369.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/193696045566369.jpg"
-    ],
-    "id": "1503360279",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-fifa-2015-1503360279",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo ps4 fifa 2015 ",
-    "ts": 1779212839
   }
 ]
