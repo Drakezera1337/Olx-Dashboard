@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503769924",
-    "titulo": "Resident Evil 7",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1503771838",
+    "titulo": "Console Nintendo psp x7 plus ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "20:33",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "20:37",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-7-1503769924",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/console-nintendo-psp-x7-plus-1503771838",
+    "fotoUrl": "https://img.olx.com.br/images/81/815656768487056.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/815656768487056.jpg",
+      "https://img.olx.com.br/images/82/822637649642412.jpg",
+      "https://img.olx.com.br/images/83/837645048830529.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779320244
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:33",
     "fotoUrl": "https://img.olx.com.br/images/13/135693405040864.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/135693405040864.jpg",
       "https://img.olx.com.br/images/16/162625881287514.jpg"
     ],
-    "defeito": false,
+    "id": "1503769924",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-7-1503769924",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Resident Evil 7",
     "ts": 1779319987
   },
   {
@@ -9920,28 +9940,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "4 grip borracha analógico Nintendo Switch / Oled / Lite ",
-    "ts": 1779279836
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:23",
-    "fotoUrl": "https://img.olx.com.br/images/37/377683648400932.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/377683648400932.jpg",
-      "https://img.olx.com.br/images/39/395629401934875.jpg",
-      "https://img.olx.com.br/images/41/417669403340131.jpg",
-      "https://img.olx.com.br/images/43/436628640485143.jpg",
-      "https://img.olx.com.br/images/45/454682526493007.jpg"
-    ],
-    "id": "1503150413",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-azul-usado-1503150413",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Lite Azul - Usado",
     "ts": 1779279836
   }
 ]
