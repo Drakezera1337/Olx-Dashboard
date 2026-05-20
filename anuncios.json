@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503761604",
-    "titulo": "Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503763119",
+    "titulo": "Ps5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "20:02",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "20:08",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-series-s-1503761604",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps5-1503763119",
+    "fotoUrl": "https://img.olx.com.br/images/42/422684286247791.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/422684286247791.jpg",
+      "https://img.olx.com.br/images/44/448691527371100.jpg",
+      "https://img.olx.com.br/images/46/469666882811247.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779318535
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:02",
     "fotoUrl": "https://img.olx.com.br/images/75/752616886847083.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/752616886847083.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/80/804660762896108.jpg",
       "https://img.olx.com.br/images/81/813663284841933.jpg"
     ],
-    "defeito": false,
+    "id": "1503761604",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-series-s-1503761604",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox Series S",
     "ts": 1779318176
   },
   {
@@ -9936,27 +9956,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "The Falconer - Warrior Edition - Ps4",
-    "ts": 1779279768
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/46/469602163034452.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/469602163034452.jpg",
-      "https://img.olx.com.br/images/48/486664760603431.jpg",
-      "https://img.olx.com.br/images/50/505661766885504.jpg",
-      "https://img.olx.com.br/images/51/518603287449504.jpg"
-    ],
-    "id": "1503224122",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/aceito-proposta-playstation-3-slim-completo-funcionando-perfeitamente-1503224122",
-    "preco": 690,
-    "precoRaw": "R$ 690",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Aceito proposta. ? PlayStation 3 Slim Completo - Funcionando Perfeitamente",
     "ts": 1779279768
   }
 ]
