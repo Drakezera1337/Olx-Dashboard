@@ -1,20 +1,41 @@
 [
   {
-    "id": "1503662789",
-    "titulo": "Vídeo game",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "outros",
+    "id": "1503658175",
+    "titulo": "Xbox Series S (NÃO FUNCIONA!)",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "13:55",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "detectado": "13:59",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/video-game-1503662789",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/xbox-series-s-nao-funciona-1503658175",
+    "fotoUrl": "https://img.olx.com.br/images/97/975693168738951.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/975693168738951.jpg",
+      "https://img.olx.com.br/images/99/992656405656850.jpg",
+      "https://img.olx.com.br/images/13/137628166396076.jpg",
+      "https://img.olx.com.br/images/15/156610400872090.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779296372
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:55",
     "fotoUrl": "https://img.olx.com.br/images/70/702661169080136.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/702661169080136.jpg"
     ],
-    "defeito": false,
+    "id": "1503662789",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/video-game-1503662789",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Vídeo game",
     "ts": 1779296147
   },
   {
@@ -9982,24 +10003,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "PS4 SLIM 500GB",
     "ts": 1779221823
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:16",
-    "fotoUrl": "https://img.olx.com.br/images/63/632601642058167.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/632601642058167.jpg",
-      "https://img.olx.com.br/images/64/648615767155203.jpg"
-    ],
-    "id": "1503430288",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-5-1tb-7meses-de-uso-1503430288",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "Playstation 5 1TB  7meses de uso",
-    "ts": 1779221814
   }
 ]
