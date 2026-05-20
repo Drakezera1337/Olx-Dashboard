@@ -1,20 +1,41 @@
 [
   {
-    "id": "1503513328",
-    "titulo": "Ps4",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps4",
+    "id": "1485516009",
+    "titulo": "Jogos de PS3",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "22:44",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "detectado": "22:45",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-1503513328",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps3-1485516009",
+    "fotoUrl": "https://img.olx.com.br/images/66/663683628068703.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/663683628068703.jpg",
+      "https://img.olx.com.br/images/68/687690027257750.jpg",
+      "https://img.olx.com.br/images/69/691617744108833.jpg",
+      "https://img.olx.com.br/images/70/704670863987518.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779241525
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:44",
     "fotoUrl": "https://img.olx.com.br/images/31/316670160948030.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/316670160948030.jpg"
     ],
-    "defeito": false,
+    "id": "1503513328",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-1503513328",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "Ps4",
     "ts": 1779241452
   },
   {
@@ -9852,27 +9873,5 @@
     "tempoOlx": "Na OLX desde agosto de 2021",
     "titulo": "Ps4 + 2 controles + 12 jogos",
     "ts": 1779151080
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:37",
-    "fotoUrl": "https://img.olx.com.br/images/64/646600400638034.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/646600400638034.jpg",
-      "https://img.olx.com.br/images/65/654666401154292.jpg",
-      "https://img.olx.com.br/images/67/672610402820729.jpg",
-      "https://img.olx.com.br/images/69/696679766884653.jpg",
-      "https://img.olx.com.br/images/70/701606281063430.jpg"
-    ],
-    "id": "1503191397",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-slim-controles-jogos-1503191397",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Playstation 4 Slim + Controles + Jogos",
-    "ts": 1779151052
   }
 ]
