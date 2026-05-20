@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503638437",
-    "titulo": "Xbox One S",
-    "preco": 990,
-    "precoRaw": "R$ 990",
-    "categoria": "xbox",
+    "id": "1503627948",
+    "titulo": "Vendo",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:28",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-one-s-1503638437",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/vendo-1503627948",
+    "fotoUrl": "https://img.olx.com.br/images/16/163629406789537.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/163629406789537.jpg",
+      "https://img.olx.com.br/images/18/183692049735081.jpg",
+      "https://img.olx.com.br/images/20/205644400393811.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294500
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:28",
     "fotoUrl": "https://img.olx.com.br/images/41/413615886215507.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/413615886215507.jpg",
       "https://img.olx.com.br/images/43/431624168943783.jpg"
     ],
-    "defeito": false,
+    "id": "1503638437",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-one-s-1503638437",
+    "preco": 990,
+    "precoRaw": "R$ 990",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Xbox One S",
     "ts": 1779294491
   },
   {
@@ -9962,24 +9982,5 @@
     "tempoOlx": "",
     "titulo": "LOTE 10 JOGOS PS4 (LOTE COMPLETO 10 UNIDADES)",
     "ts": 1779213276
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:54",
-    "fotoUrl": "https://img.olx.com.br/images/23/238651366840146.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/238651366840146.jpg",
-      "https://img.olx.com.br/images/26/267637607389337.jpg"
-    ],
-    "id": "1466976722",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/lote-5-jogos-ps4-lote-completo-5-unidades-1466976722",
-    "preco": 330,
-    "precoRaw": "R$ 330",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "LOTE 5 JOGOS PS4 (LOTE COMPLETO 5 UNIDADES)",
-    "ts": 1779213267
   }
 ]
