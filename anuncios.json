@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503763092",
-    "titulo": "PS4 Slim",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
+    "id": "1503763101",
+    "titulo": "Watch Dogs 2 - PS4",
+    "preco": 20,
+    "precoRaw": "R$ 20",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:09",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "tempoOlx": "Na OLX desde abril de 2025",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1503763092",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/watch-dogs-2-ps4-1503763101",
+    "fotoUrl": "https://img.olx.com.br/images/48/480652407879633.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/480652407879633.jpg",
+      "https://img.olx.com.br/images/50/503634165896448.jpg",
+      "https://img.olx.com.br/images/51/510611766785171.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779318578
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:09",
     "fotoUrl": "https://img.olx.com.br/images/38/382649760785885.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/382649760785885.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/44/448661163882108.jpg",
       "https://img.olx.com.br/images/47/473681640956972.jpg"
     ],
-    "defeito": false,
+    "id": "1503763092",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1503763092",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "PS4 Slim",
     "ts": 1779318569
   },
   {
@@ -9939,25 +9959,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox Series S",
-    "ts": 1779279791
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:23",
-    "fotoUrl": "https://img.olx.com.br/images/66/669638404306407.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/669638404306407.jpg",
-      "https://img.olx.com.br/images/67/674624764998107.jpg"
-    ],
-    "id": "1503543415",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-serie-s-para-consertar-1503543415",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox série S para consertar ",
     "ts": 1779279791
   }
 ]
