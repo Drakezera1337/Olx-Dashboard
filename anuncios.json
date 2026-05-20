@@ -1,15 +1,32 @@
 [
   {
-    "id": "1485516009",
-    "titulo": "Jogos de PS3",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "categoria": "ps3",
+    "id": "1441993031",
+    "titulo": "Xbox 360 4gb com HD externo de 250gb com jogos",
+    "preco": 680,
+    "precoRaw": "R$ 680",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "22:45",
     "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps3-1485516009",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/xbox-360-4gb-com-hd-externo-de-250gb-com-jogos-1441993031",
+    "fotoUrl": "https://img.olx.com.br/images/99/992598457863271.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/992598457863271.jpg",
+      "https://img.olx.com.br/images/66/667584938899194.jpg",
+      "https://img.olx.com.br/images/68/688544578915242.jpg",
+      "https://img.olx.com.br/images/69/698552696232134.jpg",
+      "https://img.olx.com.br/images/70/708578330529874.jpg",
+      "https://img.olx.com.br/images/72/720512214869595.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779241534
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:45",
     "fotoUrl": "https://img.olx.com.br/images/66/663683628068703.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/663683628068703.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/69/691617744108833.jpg",
       "https://img.olx.com.br/images/70/704670863987518.jpg"
     ],
-    "defeito": false,
+    "id": "1485516009",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps3-1485516009",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Jogos de PS3",
     "ts": 1779241525
   },
   {
@@ -9855,23 +9878,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Play 4 slim ",
     "ts": 1779151091
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:38",
-    "fotoUrl": "https://img.olx.com.br/images/89/896611283030050.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/896611283030050.jpg"
-    ],
-    "id": "1503191929",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-2-controles-12-jogos-1503191929",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2021",
-    "titulo": "Ps4 + 2 controles + 12 jogos",
-    "ts": 1779151080
   }
 ]
