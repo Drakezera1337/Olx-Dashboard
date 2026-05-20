@@ -1,15 +1,27 @@
 [
   {
-    "id": "1471838381",
-    "titulo": "Horizon Zero Down.",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1495371463",
+    "titulo": "God of war Ragnarok",
+    "preco": 130,
+    "precoRaw": "R$ 130",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "09:54",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/horizon-zero-down-1471838381",
+    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/god-of-war-ragnarok-1495371463",
+    "fotoUrl": "https://img.olx.com.br/images/41/411686037734127.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/411686037734127.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779281664
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:54",
     "fotoUrl": "https://img.olx.com.br/images/26/267694006415218.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/267694006415218.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/29/295635364249118.jpg",
       "https://img.olx.com.br/images/30/301661121430323.jpg"
     ],
-    "defeito": false,
+    "id": "1471838381",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/horizon-zero-down-1471838381",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Horizon Zero Down.",
     "ts": 1779281656
   },
   {
@@ -9950,24 +9968,5 @@
     "tempoOlx": "",
     "titulo": "JOGOS PS4 ",
     "ts": 1779212879
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:47",
-    "fotoUrl": "https://img.olx.com.br/images/67/679626883592916.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/679626883592916.jpg",
-      "https://img.olx.com.br/images/71/712612284766291.jpg"
-    ],
-    "id": "1503356303",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-fat-god-of-war-brinde-1503356303",
-    "preco": 1149,
-    "precoRaw": "R$ 1.149",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4 fat + God of War brinde",
-    "ts": 1779212871
   }
 ]
