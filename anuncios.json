@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503534614",
-    "titulo": "Vende-se PlayStation 5 ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1503535932",
+    "titulo": "FC 24",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "00:06",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "00:10",
+    "tempoOlx": "Na OLX desde agosto de 2014",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-playstation-5-1503534614",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/fc-24-1503535932",
+    "fotoUrl": "https://img.olx.com.br/images/40/402610161171508.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/402610161171508.jpg",
+      "https://img.olx.com.br/images/41/413629405414550.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779246657
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:06",
     "fotoUrl": "https://img.olx.com.br/images/19/190630400373123.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/190630400373123.jpg"
     ],
-    "defeito": false,
+    "id": "1503534614",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vende-se-playstation-5-1503534614",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Vende-se PlayStation 5 ",
     "ts": 1779246414
   },
   {
@@ -9848,27 +9867,5 @@
     "tempoOlx": "Na OLX desde maio de 2025",
     "titulo": "PlayStation 4 Slim, Seminovo, estado de conservação excelente, acompanha jogos e controles",
     "ts": 1779154637
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:37",
-    "fotoUrl": "https://img.olx.com.br/images/11/113629522184835.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/113629522184835.jpg",
-      "https://img.olx.com.br/images/13/138612640911951.jpg",
-      "https://img.olx.com.br/images/14/141682408329551.jpg",
-      "https://img.olx.com.br/images/16/165609760789790.jpg",
-      "https://img.olx.com.br/images/17/174670404267774.jpg"
-    ],
-    "id": "1503204153",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/minecraft-legacy-edition-ps4-estado-de-novo-mundo-classico-diversao-garantida-1503204153",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Minecraft: Legacy Edition PS4 ? Estado de NOVO! Mundo Clássico + Diversão Garantida",
-    "ts": 1779154624
   }
 ]
