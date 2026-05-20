@@ -1,22 +1,42 @@
 [
   {
-    "id": "1461552091",
-    "titulo": "GTA",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1461549489",
+    "titulo": "Star Wars Battlefront 1 + Battlefront 2",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "outros",
     "publicado": "",
     "detectado": "18:33",
     "tempoOlx": "Na OLX desde setembro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/gta-1461552091",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/star-wars-battlefront-1-battlefront-2-1461549489",
+    "fotoUrl": "https://img.olx.com.br/images/82/822534839741005.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/822534839741005.jpg",
+      "https://img.olx.com.br/images/86/863580232132420.jpg",
+      "https://img.olx.com.br/images/90/906570479904595.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779312821
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/85/856662862625915.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/856662862625915.jpg",
       "https://img.olx.com.br/images/46/461682020198729.jpg",
       "https://img.olx.com.br/images/48/485643745179847.jpg"
     ],
-    "defeito": false,
+    "id": "1461552091",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/gta-1461552091",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "GTA",
     "ts": 1779312813
   },
   {
@@ -9962,24 +9982,5 @@
     "tempoOlx": "Na OLX desde março de 2022",
     "titulo": "THE LAST OF US I e II",
     "ts": 1779242493
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:01",
-    "fotoUrl": "https://img.olx.com.br/images/77/773653642162028.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/773653642162028.jpg",
-      "https://img.olx.com.br/images/76/764688647761571.jpg"
-    ],
-    "id": "1503518399",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-ps4-metro-exodus-1503518399",
-    "preco": 105,
-    "precoRaw": "R$ 105",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Jogo ps4 Metro Exodus",
-    "ts": 1779242485
   }
 ]
