@@ -1,15 +1,32 @@
 [
   {
-    "id": "1503503952",
-    "titulo": "PS4 com defeito (não liga)",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps4",
+    "id": "1503505641",
+    "titulo": "Ps5 seminovo",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "21:49",
-    "tempoOlx": "Na OLX desde julho de 2018",
+    "detectado": "21:55",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-com-defeito-nao-liga-1503503952",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps5-seminovo-1503505641",
+    "fotoUrl": "https://img.olx.com.br/images/22/221680405869447.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/221680405869447.jpg",
+      "https://img.olx.com.br/images/23/237610649232391.jpg",
+      "https://img.olx.com.br/images/24/247608166171129.jpg",
+      "https://img.olx.com.br/images/25/259683642708578.jpg",
+      "https://img.olx.com.br/images/26/262684769514030.jpg",
+      "https://img.olx.com.br/images/27/279624760584217.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779238556
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:49",
     "fotoUrl": "https://img.olx.com.br/images/53/539692160083707.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/539692160083707.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/59/590611645074018.jpg",
       "https://img.olx.com.br/images/61/618649760092890.jpg"
     ],
-    "defeito": false,
+    "id": "1503503952",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-com-defeito-nao-liga-1503503952",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2018",
+    "titulo": "PS4 com defeito (não liga)",
     "ts": 1779238196
   },
   {
@@ -9818,25 +9841,5 @@
     "tempoOlx": "Na OLX desde abril de 2025",
     "titulo": "Kit 8 jogos Sucessos ps4 ",
     "ts": 1779147964
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:44",
-    "fotoUrl": "https://img.olx.com.br/images/23/232688402042123.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/232688402042123.jpg",
-      "https://img.olx.com.br/images/25/252603643338977.jpg",
-      "https://img.olx.com.br/images/27/275661765189964.jpg"
-    ],
-    "id": "1503178269",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/ps-move-1503178269",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "PS Move",
-    "ts": 1779147855
   }
 ]
