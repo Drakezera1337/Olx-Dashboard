@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503627948",
-    "titulo": "Vendo",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "outros",
+    "id": "1503609089",
+    "titulo": "PS3 Slim - DEFEITO",
+    "preco": 349,
+    "precoRaw": "R$ 349",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:28",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/vendo-1503627948",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-slim-defeito-1503609089",
+    "fotoUrl": "https://img.olx.com.br/images/24/243683168335435.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/243683168335435.jpg",
+      "https://img.olx.com.br/images/25/254670283824120.jpg",
+      "https://img.olx.com.br/images/27/277666640010033.jpg",
+      "https://img.olx.com.br/images/29/299684883085620.jpg",
+      "https://img.olx.com.br/images/30/308641521424622.jpg",
+      "https://img.olx.com.br/images/32/325649400137162.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294509
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:28",
     "fotoUrl": "https://img.olx.com.br/images/16/163629406789537.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/163629406789537.jpg",
       "https://img.olx.com.br/images/18/183692049735081.jpg",
       "https://img.olx.com.br/images/20/205644400393811.jpg"
     ],
-    "defeito": false,
+    "id": "1503627948",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/vendo-1503627948",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "Vendo",
     "ts": 1779294500
   },
   {
@@ -9963,24 +9986,5 @@
     "tempoOlx": "",
     "titulo": "The order 1886 ps4",
     "ts": 1779213284
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:54",
-    "fotoUrl": "https://img.olx.com.br/images/44/449629365783132.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/449629365783132.jpg",
-      "https://img.olx.com.br/images/51/512625368337502.jpg"
-    ],
-    "id": "1466978608",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/lote-10-jogos-ps4-lote-completo-10-unidades-1466978608",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "LOTE 10 JOGOS PS4 (LOTE COMPLETO 10 UNIDADES)",
-    "ts": 1779213276
   }
 ]
