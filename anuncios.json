@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503639219",
-    "titulo": "Jogos ps4 e ps5",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps5",
+    "id": "1503638000",
+    "titulo": "GTA V PS4 jogo",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:35",
-    "tempoOlx": "Na OLX desde junho de 2016",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/jogos-ps4-e-ps5-1503639219",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/gta-v-ps4-jogo-1503638000",
+    "fotoUrl": "https://img.olx.com.br/images/97/973610400003517.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/973610400003517.jpg",
+      "https://img.olx.com.br/images/99/997639641792067.jpg",
+      "https://img.olx.com.br/images/13/132650760382005.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294939
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:35",
     "fotoUrl": "https://img.olx.com.br/images/33/336669161418773.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/336669161418773.jpg"
     ],
-    "defeito": false,
+    "id": "1503639219",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/jogos-ps4-e-ps5-1503639219",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "titulo": "Jogos ps4 e ps5",
     "ts": 1779294929
   },
   {
@@ -9963,23 +9983,5 @@
     "tempoOlx": "Na OLX desde outubro de 2013",
     "titulo": "PS4 LEGO BATMAN 3 BEYOND GOTHAM PLAYSTATION 4",
     "ts": 1779221236
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:07",
-    "fotoUrl": "https://img.olx.com.br/images/23/235632148523058.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/235632148523058.jpg"
-    ],
-    "id": "1485730123",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/terminator-2d-no-fate-day-one-edition-ps4-midia-fisica-lacrado-1485730123",
-    "preco": 360,
-    "precoRaw": "R$ 360",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "Terminator 2d No Fate Day One Edition PS4 - Mídia Física - Lacrado",
-    "ts": 1779221227
   }
 ]
