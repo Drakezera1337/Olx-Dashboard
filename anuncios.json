@@ -1,22 +1,60 @@
 [
   {
-    "id": "1503317209",
-    "titulo": "playstation 4 slim",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1486008310",
+    "titulo": "PS4 ",
+    "preco": 999,
+    "precoRaw": "R$ 999",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:40",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "detectado": "18:42",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-1503317209",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps4-1486008310",
+    "fotoUrl": "https://img.olx.com.br/images/76/765647625315432.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/765647625315432.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779313372
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:40",
+    "fotoUrl": "https://img.olx.com.br/images/64/643669041901831.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/643669041901831.jpg",
+      "https://img.olx.com.br/images/65/658695040097227.jpg",
+      "https://img.olx.com.br/images/67/678633289648870.jpg"
+    ],
+    "id": "1503745350",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1503745350",
+    "preco": 4199,
+    "precoRaw": "R$ 4.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "iPhone 15 Pro Max",
+    "ts": 1779313256
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:40",
     "fotoUrl": "https://img.olx.com.br/images/47/478601283999518.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/478601283999518.jpg",
       "https://img.olx.com.br/images/60/602645528723383.jpg",
       "https://img.olx.com.br/images/71/716608768725723.jpg"
     ],
-    "defeito": false,
+    "id": "1503317209",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-1503317209",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "playstation 4 slim",
     "ts": 1779313254
   },
   {
@@ -9933,43 +9971,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2024",
     "titulo": "The witcher 3 Edição de colecionador + Uncharted 4 (PS4)",
     "ts": 1779243582
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:19",
-    "fotoUrl": "https://img.olx.com.br/images/17/170620288791679.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/170620288791679.jpg",
-      "https://img.olx.com.br/images/19/198641282564557.jpg",
-      "https://img.olx.com.br/images/21/212665641153793.jpg"
-    ],
-    "id": "1503521402",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/horizon-zero-down-ps4-1503521402",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "Horizon Zero Down Ps4",
-    "ts": 1779243574
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:19",
-    "fotoUrl": "https://img.olx.com.br/images/52/527640408783335.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/527640408783335.jpg"
-    ],
-    "id": "1503521577",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/cavaleiros-do-zodiaco-ps4-alma-dos-soldados-1503521577",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Cavaleiros do zodíaco Ps4 alma dos soldados ",
-    "ts": 1779243566
   }
 ]
