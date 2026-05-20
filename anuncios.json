@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503534884",
-    "titulo": "Hitman - PS4",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "ps4",
+    "id": "1503536849",
+    "titulo": "God of War: Ragnarok (PS4 e PS5)",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "00:11",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "detectado": "00:16",
+    "tempoOlx": "Na OLX desde abril de 2015",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/hitman-ps4-1503534884",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/god-of-war-ragnarok-ps4-e-ps5-1503536849",
+    "fotoUrl": "https://img.olx.com.br/images/71/713692527080562.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/713692527080562.jpg",
+      "https://img.olx.com.br/images/74/742657763392352.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779247017
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:11",
     "fotoUrl": "https://img.olx.com.br/images/55/551682169255260.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/551682169255260.jpg"
     ],
-    "defeito": false,
+    "id": "1503534884",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/hitman-ps4-1503534884",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Hitman - PS4",
     "ts": 1779246664
   },
   {
@@ -9841,26 +9860,5 @@
     "tempoOlx": "Na OLX desde junho de 2025",
     "titulo": "Ps4 1tb",
     "ts": 1779154982
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:40",
-    "fotoUrl": "https://img.olx.com.br/images/50/501693169974698.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/501693169974698.jpg",
-      "https://img.olx.com.br/images/51/514663164647163.jpg",
-      "https://img.olx.com.br/images/52/524672287404199.jpg",
-      "https://img.olx.com.br/images/53/537639765323353.jpg"
-    ],
-    "id": "1503206168",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-ps4-com-2-controles-1503206168",
-    "preco": 990,
-    "precoRaw": "R$ 990",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2015",
-    "titulo": "Playstation 4 Ps4 com 2 controles",
-    "ts": 1779154801
   }
 ]
