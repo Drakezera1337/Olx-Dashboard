@@ -1,15 +1,30 @@
 [
   {
-    "id": "1503772380",
-    "titulo": "Gta five",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "outros",
+    "id": "1503773446",
+    "titulo": "Ps5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "20:44",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "20:45",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-five-1503772380",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps5-1503773446",
+    "fotoUrl": "https://img.olx.com.br/images/45/454656164617729.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/454656164617729.jpg",
+      "https://img.olx.com.br/images/46/460627285709954.jpg",
+      "https://img.olx.com.br/images/48/485601169503221.jpg",
+      "https://img.olx.com.br/images/49/495629887654304.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779320724
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:44",
     "fotoUrl": "https://img.olx.com.br/images/85/857646648384757.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/857646648384757.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/88/888622044330836.jpg",
       "https://img.olx.com.br/images/89/893674644905543.jpg"
     ],
-    "defeito": false,
+    "id": "1503772380",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-five-1503772380",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Gta five",
     "ts": 1779320672
   },
   {
@@ -9920,26 +9941,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Console Portátil R36S com 15.000 jogos novo na caixa!",
-    "ts": 1779279843
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/31/319569352911194.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/319569352911194.jpg",
-      "https://img.olx.com.br/images/32/329557471076157.jpg",
-      "https://img.olx.com.br/images/34/345545350111771.jpg"
-    ],
-    "id": "1465599058",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-portatil-r36h-horizontal-modelo-2025-15-000-jogos-novo-na-caixa-br-1465599058",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vídeo Game Portátil R36H Horizontal modelo 2025 15.000 jogos novo na caixa! <br>",
     "ts": 1779279843
   }
 ]
