@@ -1,21 +1,41 @@
 [
   {
-    "id": "1491852361",
-    "titulo": "Jogos não oficias para Xbox 360 desbloqueado",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "xbox",
+    "id": "1503752498",
+    "titulo": "Playstation 2 Slim",
+    "preco": 399,
+    "precoRaw": "R$ 399",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:11",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "detectado": "19:13",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-nao-oficias-para-xbox-360-desbloqueado-1491852361",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-2-slim-1503752498",
+    "fotoUrl": "https://img.olx.com.br/images/13/138696409725025.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/138696409725025.jpg",
+      "https://img.olx.com.br/images/12/126621402852586.jpg",
+      "https://img.olx.com.br/images/13/132657762182492.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779315233
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:11",
     "fotoUrl": "https://img.olx.com.br/images/61/613671396465703.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/613671396465703.jpg",
       "https://img.olx.com.br/images/63/634643271232178.jpg"
     ],
-    "defeito": false,
+    "id": "1491852361",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-nao-oficias-para-xbox-360-desbloqueado-1491852361",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "Jogos não oficias para Xbox 360 desbloqueado",
     "ts": 1779315084
   },
   {
@@ -9948,25 +9968,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PlayStation Vr2 Novo Usado Uma Vez ",
-    "ts": 1779279722
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/19/198646645614040.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/198646645614040.jpg",
-      "https://img.olx.com.br/images/20/202604407727647.jpg"
-    ],
-    "id": "1503564576",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-5-fat-1503564576",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 5 FAT",
     "ts": 1779279722
   }
 ]
