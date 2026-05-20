@@ -1,15 +1,30 @@
 [
   {
-    "id": "1503591689",
-    "titulo": "Play station 4 slim ",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "outros",
+    "id": "1503593975",
+    "titulo": "Playstation 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "09:42",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "09:50",
+    "tempoOlx": "Na OLX desde agosto de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/play-station-4-slim-1503591689",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-5-1503593975",
+    "fotoUrl": "https://img.olx.com.br/images/85/851618524892455.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/851618524892455.jpg",
+      "https://img.olx.com.br/images/87/875673760105042.jpg",
+      "https://img.olx.com.br/images/89/899605644015031.jpg",
+      "https://img.olx.com.br/images/91/916625528151265.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779281400
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:42",
     "fotoUrl": "https://img.olx.com.br/images/80/802632527743027.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/802632527743027.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/82/824654163061958.jpg",
       "https://img.olx.com.br/images/84/842669646111569.jpg"
     ],
-    "defeito": false,
+    "id": "1503591689",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/play-station-4-slim-1503591689",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Play station 4 slim ",
     "ts": 1779280953
   },
   {
@@ -9941,25 +9962,5 @@
     "tempoOlx": "",
     "titulo": "Jogo ps4 fifa 2015 ",
     "ts": 1779212839
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:47",
-    "fotoUrl": "https://img.olx.com.br/images/95/951578196932096.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/951578196932096.jpg",
-      "https://img.olx.com.br/images/95/955530312095582.jpg",
-      "https://img.olx.com.br/images/95/956570676449068.jpg"
-    ],
-    "id": "1430787250",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ea-sports-ufc-1430787250",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "EA Sports UFC",
-    "ts": 1779212831
   }
 ]
