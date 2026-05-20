@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503701181",
-    "titulo": "Jogos PlayStation ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "outros",
+    "id": "1503700450",
+    "titulo": "Jogos de PS4",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:02",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-playstation-1503701181",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1503700450",
+    "fotoUrl": "https://img.olx.com.br/images/93/930653762317787.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/930653762317787.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779307378
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:02",
     "fotoUrl": "https://img.olx.com.br/images/55/554683764908888.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/554683764908888.jpg",
       "https://img.olx.com.br/images/56/566672401995887.jpg",
       "https://img.olx.com.br/images/57/571648403682700.jpg"
     ],
-    "defeito": false,
+    "id": "1503701181",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-playstation-1503701181",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "Jogos PlayStation ",
     "ts": 1779307370
   },
   {
@@ -9942,28 +9960,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2020",
     "titulo": "Ps3 super slim desbloqueado",
     "ts": 1779231536
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:56",
-    "fotoUrl": "https://img.olx.com.br/images/15/153663409861331.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/153663409861331.jpg",
-      "https://img.olx.com.br/images/16/165684764107908.jpg",
-      "https://img.olx.com.br/images/17/175682044461217.jpg",
-      "https://img.olx.com.br/images/19/199614881470182.jpg",
-      "https://img.olx.com.br/images/21/214671760268723.jpg",
-      "https://img.olx.com.br/images/82/820695523205885.jpg"
-    ],
-    "id": "1503306443",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-series-s-1503306443",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Xbox One series s ",
-    "ts": 1779231385
   }
 ]
