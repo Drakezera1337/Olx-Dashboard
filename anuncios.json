@@ -1,15 +1,30 @@
 [
   {
-    "id": "1471841036",
-    "titulo": "Gta V.",
-    "preco": 160,
-    "precoRaw": "R$ 160",
+    "id": "1471841628",
+    "titulo": "Digimon Survivor.",
+    "preco": 170,
+    "precoRaw": "R$ 170",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "09:36",
+    "detectado": "09:37",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/gta-v-1471841036",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/digimon-survivor-1471841628",
+    "fotoUrl": "https://img.olx.com.br/images/57/573609127399572.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/573609127399572.jpg",
+      "https://img.olx.com.br/images/58/581655245919199.jpg",
+      "https://img.olx.com.br/images/60/601678241559466.jpg",
+      "https://img.olx.com.br/images/62/628603723068436.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779280628
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:36",
     "fotoUrl": "https://img.olx.com.br/images/97/976624123908232.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/976624123908232.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/11/113621608590701.jpg",
       "https://img.olx.com.br/images/13/135614721680447.jpg"
     ],
-    "defeito": false,
+    "id": "1471841036",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/gta-v-1471841036",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Gta V.",
     "ts": 1779280619
   },
   {
@@ -9916,26 +9937,5 @@
     "tempoOlx": "",
     "titulo": "Resident Evil 4 Remake PS4/PS5",
     "ts": 1779212703
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:44",
-    "fotoUrl": "https://img.olx.com.br/images/68/684628526557814.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/684628526557814.jpg",
-      "https://img.olx.com.br/images/72/728672523143518.jpg",
-      "https://img.olx.com.br/images/73/731630521381284.jpg",
-      "https://img.olx.com.br/images/75/756665520995245.jpg"
-    ],
-    "id": "1503372766",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1503372766",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogos de PS4",
-    "ts": 1779212694
   }
 ]
