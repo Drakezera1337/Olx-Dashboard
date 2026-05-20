@@ -1,20 +1,41 @@
 [
   {
-    "id": "1476704534",
-    "titulo": "Jogos para Playstation 4",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "ps4",
+    "id": "1503504109",
+    "titulo": "iPhone 11 128 G",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "21:40",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "detectado": "21:48",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rr.olx.com.br/roraima/games/jogos-de-video-game/jogos-para-playstation-4-1476704534",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128-g-1503504109",
+    "fotoUrl": "https://img.olx.com.br/images/68/686617886255655.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/686617886255655.jpg",
+      "https://img.olx.com.br/images/69/698655769171785.jpg",
+      "https://img.olx.com.br/images/70/708615288338584.jpg",
+      "https://img.olx.com.br/images/71/714628769078232.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779238106
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:40",
     "fotoUrl": "https://img.olx.com.br/images/59/592632499759006.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/592632499759006.jpg"
     ],
-    "defeito": false,
+    "id": "1476704534",
+    "link": "https://rr.olx.com.br/roraima/games/jogos-de-video-game/jogos-para-playstation-4-1476704534",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "Jogos para Playstation 4",
     "ts": 1779237611
   },
   {
@@ -9813,23 +9834,5 @@
     "tempoOlx": "Na OLX desde setembro de 2017",
     "titulo": "Ghost of yotei ps5",
     "ts": 1779147844
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:42",
-    "fotoUrl": "https://img.olx.com.br/images/95/954649282498975.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/954649282498975.jpg"
-    ],
-    "id": "1503178026",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/playstation-5-1503178026",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Playstation 5",
-    "ts": 1779147751
   }
 ]
