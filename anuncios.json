@@ -1,22 +1,41 @@
 [
   {
-    "id": "1476255828",
-    "titulo": "Ps4 ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1503666465",
+    "titulo": "Ps4 + controle ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:07",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "detectado": "14:08",
+    "tempoOlx": "Na OLX desde março de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1476255828",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/ps4-controle-1503666465",
+    "fotoUrl": "https://img.olx.com.br/images/55/552680769715563.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/552680769715563.jpg",
+      "https://img.olx.com.br/images/57/579627764681342.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779296909
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:07",
     "fotoUrl": "https://img.olx.com.br/images/62/626663132322421.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/626663132322421.jpg",
       "https://img.olx.com.br/images/63/632614259759836.jpg",
       "https://img.olx.com.br/images/64/649623010974626.jpg"
     ],
-    "defeito": false,
+    "id": "1476255828",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1476255828",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "Ps4 ",
     "ts": 1779296867
   },
   {
@@ -9982,24 +10001,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Sombras de mordor ps4",
     "ts": 1779222192
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:23",
-    "fotoUrl": "https://img.olx.com.br/images/40/400668404530358.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/400668404530358.jpg",
-      "https://img.olx.com.br/images/42/428657521152872.jpg"
-    ],
-    "id": "1503431516",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/jogo-midia-fisica-god-of-war-ragnarok-ps4-ps5-lacrado-1503431516",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2017",
-    "titulo": "jogo mídia física god of war ragnarok ps4 ps5 lacrado ",
-    "ts": 1779222185
   }
 ]
