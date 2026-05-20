@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503773446",
-    "titulo": "Ps5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1503773044",
+    "titulo": "Nintendo Switch OLED colecionador Zelda Tears",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "20:45",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "detectado": "20:46",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps5-1503773446",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-colecionador-zelda-tears-1503773044",
+    "fotoUrl": "https://img.olx.com.br/images/10/107681525988783.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/107681525988783.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779320782
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:45",
     "fotoUrl": "https://img.olx.com.br/images/45/454656164617729.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/454656164617729.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/48/485601169503221.jpg",
       "https://img.olx.com.br/images/49/495629887654304.jpg"
     ],
-    "defeito": false,
+    "id": "1503773446",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps5-1503773446",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "Ps5",
     "ts": 1779320724
   },
   {
@@ -9921,26 +9939,5 @@
     "tempoOlx": "",
     "titulo": "Start Wars ",
     "ts": 1779279858
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/83/837546955837748.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/837546955837748.jpg",
-      "https://img.olx.com.br/images/85/856533351105594.jpg",
-      "https://img.olx.com.br/images/86/869529594361910.jpg",
-      "https://img.olx.com.br/images/87/878544596877240.jpg"
-    ],
-    "id": "1465599624",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/console-portatil-r36s-com-15-000-jogos-novo-na-caixa-1465599624",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Console Portátil R36S com 15.000 jogos novo na caixa!",
-    "ts": 1779279843
   }
 ]
