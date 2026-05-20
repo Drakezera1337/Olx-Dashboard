@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503512033",
-    "titulo": "Jogos PS4 combo",
-    "preco": 150,
-    "precoRaw": "R$ 150",
+    "id": "1503511784",
+    "titulo": "PlayStation 4",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:25",
+    "detectado": "22:26",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-ps4-combo-1503512033",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1503511784",
+    "fotoUrl": "https://img.olx.com.br/images/84/844635402855219.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/844635402855219.jpg",
+      "https://img.olx.com.br/images/87/875657160782336.jpg",
+      "https://img.olx.com.br/images/89/894615042138561.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779240365
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:25",
     "fotoUrl": "https://img.olx.com.br/images/88/886681281475439.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/886681281475439.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/95/952648163500457.jpg",
       "https://img.olx.com.br/images/96/963616286073700.jpg"
     ],
-    "defeito": false,
+    "id": "1503512033",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-ps4-combo-1503512033",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Jogos PS4 combo",
     "ts": 1779240357
   },
   {
@@ -9842,23 +9862,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Batman Arkham Knight PS4 ",
     "ts": 1779150075
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:21",
-    "fotoUrl": "https://img.olx.com.br/images/83/836611143738667.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/836611143738667.jpg"
-    ],
-    "id": "1489857183",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/wolfenstein-new-order-ps4-1489857183",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Wolfenstein New Order PS4 ",
-    "ts": 1779150066
   }
 ]
