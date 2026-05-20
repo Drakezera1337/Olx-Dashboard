@@ -1,21 +1,44 @@
 [
   {
-    "id": "1503509579",
-    "titulo": "PlayStation PS 4 ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "outros",
+    "id": "1473213887",
+    "titulo": "Jogos a partir de 80,00 Ps4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "22:20",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "tempoOlx": "Na OLX desde outubro de 2021",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/playstation-ps-4-1503509579",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogos-a-partir-de-80-00-ps4-1473213887",
+    "fotoUrl": "https://img.olx.com.br/images/95/953603488957503.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/953603488957503.jpg",
+      "https://img.olx.com.br/images/97/973672120469301.jpg",
+      "https://img.olx.com.br/images/98/987611489729458.jpg",
+      "https://img.olx.com.br/images/15/156616366515087.jpg",
+      "https://img.olx.com.br/images/17/171603242321626.jpg",
+      "https://img.olx.com.br/images/21/211605726514831.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779240023
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:20",
     "fotoUrl": "https://img.olx.com.br/images/63/634602165263362.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/634602165263362.jpg",
       "https://img.olx.com.br/images/65/658635287906857.jpg"
     ],
-    "defeito": false,
+    "id": "1503509579",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/playstation-ps-4-1503509579",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "PlayStation PS 4 ",
     "ts": 1779240016
   },
   {
@@ -9829,24 +9852,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2015",
     "titulo": "Jogos PS4 ",
     "ts": 1779150033
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:15",
-    "fotoUrl": "https://img.olx.com.br/images/37/370677167744600.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/370677167744600.jpg",
-      "https://img.olx.com.br/images/39/390647523237483.jpg"
-    ],
-    "id": "1502747032",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-dualsense-1502747032",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Playstation 5 + DualSense",
-    "ts": 1779149758
   }
 ]
