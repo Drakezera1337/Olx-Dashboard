@@ -1,15 +1,30 @@
 [
   {
-    "id": "1471840748",
-    "titulo": "Sifu - Vengeance Edition.",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "outros",
+    "id": "1491397478",
+    "titulo": "Final Fantasy Tactics - PS5.",
+    "preco": 240,
+    "precoRaw": "R$ 240",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "09:37",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/sifu-vengeance-edition-1471840748",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/final-fantasy-tactics-ps5-1491397478",
+    "fotoUrl": "https://img.olx.com.br/images/36/362611632556639.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/362611632556639.jpg",
+      "https://img.olx.com.br/images/38/384660155623228.jpg",
+      "https://img.olx.com.br/images/40/407603871674660.jpg",
+      "https://img.olx.com.br/images/42/420697030043131.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779280644
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:37",
     "fotoUrl": "https://img.olx.com.br/images/23/234671367917443.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/234671367917443.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/28/288667249269582.jpg",
       "https://img.olx.com.br/images/29/290670128343650.jpg"
     ],
-    "defeito": false,
+    "id": "1471840748",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/sifu-vengeance-edition-1471840748",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Sifu - Vengeance Edition.",
     "ts": 1779280636
   },
   {
@@ -9920,24 +9941,5 @@
     "tempoOlx": "",
     "titulo": "Lote com 22 jogos de ps3 ",
     "ts": 1779212720
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:45",
-    "fotoUrl": "https://img.olx.com.br/images/62/625608643248894.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/625608643248894.jpg",
-      "https://img.olx.com.br/images/63/633661288720322.jpg"
-    ],
-    "id": "1503336386",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/devil-may-cry-5-playstation-4-1503336386",
-    "preco": 112,
-    "precoRaw": "R$ 112",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Devil May Cry 5 - PlayStation 4",
-    "ts": 1779212711
   }
 ]
