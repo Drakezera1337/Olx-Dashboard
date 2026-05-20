@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503530112",
-    "titulo": "Jogo PS4 Star Wars - Battlefront",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1503528557",
+    "titulo": "FIFA 23",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "23:52",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "23:53",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-star-wars-battlefront-1503530112",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-23-1503528557",
+    "fotoUrl": "https://img.olx.com.br/images/61/617686521552801.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/617686521552801.jpg",
+      "https://img.olx.com.br/images/64/645668643616411.jpg",
+      "https://img.olx.com.br/images/70/707682169114614.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779245584
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:52",
     "fotoUrl": "https://img.olx.com.br/images/95/958619400453569.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/958619400453569.jpg",
       "https://img.olx.com.br/images/97/970661167828458.jpg"
     ],
-    "defeito": false,
+    "id": "1503530112",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-star-wars-battlefront-1503530112",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Jogo PS4 Star Wars - Battlefront",
     "ts": 1779245576
   },
   {
@@ -9850,25 +9870,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Final Fantasy VII Remake PS4",
     "ts": 1779153903
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:19",
-    "fotoUrl": "https://img.olx.com.br/images/16/168663768699668.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/168663768699668.jpg",
-      "https://img.olx.com.br/images/18/185649527677340.jpg",
-      "https://img.olx.com.br/images/22/226670401682386.jpg"
-    ],
-    "id": "1503200598",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-pro-800gb-1503200598",
-    "preco": 1850,
-    "precoRaw": "R$ 1.850",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2024",
-    "titulo": "PS4 PRO 800gb ",
-    "ts": 1779153579
   }
 ]
