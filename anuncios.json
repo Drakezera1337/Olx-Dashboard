@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503762598",
-    "titulo": "Desapego PS4 com 2 controles e 3 grandes jogos",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1503763179",
+    "titulo": "Nintendo switch lite",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "20:09",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "20:10",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/desapego-ps4-com-2-controles-e-3-grandes-jogos-1503762598",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1503763179",
+    "fotoUrl": "https://img.olx.com.br/images/69/691643526898264.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/691643526898264.jpg",
+      "https://img.olx.com.br/images/70/704620164462515.jpg",
+      "https://img.olx.com.br/images/72/720603881120265.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779318624
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:09",
     "fotoUrl": "https://img.olx.com.br/images/43/433630288998755.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/433630288998755.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/50/508632529384915.jpg",
       "https://img.olx.com.br/images/51/515633646068587.jpg"
     ],
-    "defeito": false,
+    "id": "1503762598",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/desapego-ps4-com-2-controles-e-3-grandes-jogos-1503762598",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Desapego PS4 com 2 controles e 3 grandes jogos",
     "ts": 1779318586
   },
   {
@@ -9940,29 +9960,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "JOGO PS3 METALGEARRISING",
-    "ts": 1779279805
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:23",
-    "fotoUrl": "https://img.olx.com.br/images/68/684607034165839.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/684607034165839.jpg",
-      "https://img.olx.com.br/images/69/697697634240955.jpg",
-      "https://img.olx.com.br/images/71/714609158673854.jpg",
-      "https://img.olx.com.br/images/72/723659757409167.jpg",
-      "https://img.olx.com.br/images/73/730622517437956.jpg",
-      "https://img.olx.com.br/images/74/744688279928751.jpg"
-    ],
-    "id": "1495365445",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/kit-5-playstation-ps3-1495365445",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Kit 5 Playstation PS3 ",
     "ts": 1779279805
   }
 ]
