@@ -1,21 +1,44 @@
 [
   {
-    "id": "1503514182",
-    "titulo": "PS5 mídia física 2 controles",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "categoria": "ps5",
+    "id": "1503515251",
+    "titulo": "Nintendo Switch usado",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "22:40",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "22:43",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-midia-fisica-2-controles-1503514182",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/nintendo-switch-usado-1503515251",
+    "fotoUrl": "https://img.olx.com.br/images/63/633654525144910.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/633654525144910.jpg",
+      "https://img.olx.com.br/images/65/657616649480327.jpg",
+      "https://img.olx.com.br/images/66/661612169008622.jpg",
+      "https://img.olx.com.br/images/67/679629760479023.jpg",
+      "https://img.olx.com.br/images/68/680654767464467.jpg",
+      "https://img.olx.com.br/images/69/693645769667758.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779241436
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:40",
     "fotoUrl": "https://img.olx.com.br/images/74/741618880839386.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/741618880839386.jpg",
       "https://img.olx.com.br/images/76/768691529828756.jpg"
     ],
-    "defeito": false,
+    "id": "1503514182",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-midia-fisica-2-controles-1503514182",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "PS5 mídia física 2 controles",
     "ts": 1779241203
   },
   {
@@ -9855,25 +9878,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Playstation 5 ",
     "ts": 1779150869
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:32",
-    "fotoUrl": "https://img.olx.com.br/images/55/552669526833455.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/552669526833455.jpg",
-      "https://img.olx.com.br/images/61/614668289691868.jpg",
-      "https://img.olx.com.br/images/66/660694764495148.jpg"
-    ],
-    "id": "1503189742",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-com-2-controles-e-um-jogo-1503189742",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "PS4 com 2 controles e um jogo ",
-    "ts": 1779150730
   }
 ]
