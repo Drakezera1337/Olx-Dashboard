@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503513307",
-    "titulo": "Xbox one ",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "xbox",
+    "id": "1503513994",
+    "titulo": "Vendo PS5 ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "22:33",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "22:37",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-1503513307",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps5-1503513994",
+    "fotoUrl": "https://img.olx.com.br/images/82/820607405347946.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/820607405347946.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779241075
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:33",
     "fotoUrl": "https://img.olx.com.br/images/79/797681161755796.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/797681161755796.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/83/833634042770916.jpg",
       "https://img.olx.com.br/images/83/834620525015171.jpg"
     ],
-    "defeito": false,
+    "id": "1503513307",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-1503513307",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox one ",
     "ts": 1779240813
   },
   {
@@ -9850,24 +9868,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Jogos ps4 ",
     "ts": 1779150391
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:22",
-    "fotoUrl": "https://img.olx.com.br/images/19/193683285950182.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/193683285950182.jpg",
-      "https://img.olx.com.br/images/21/217611162198298.jpg"
-    ],
-    "id": "1503188513",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-serie-s-1503188513",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
-    "titulo": "Xbox série S ",
-    "ts": 1779150150
   }
 ]
