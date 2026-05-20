@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503486591",
-    "titulo": "Xbox Series S ( Usado )",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1503479518",
+    "titulo": "Vende-se ps3",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "17:07",
+    "detectado": "17:08",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-usado-1503486591",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/vende-se-ps3-1503479518",
+    "fotoUrl": "https://img.olx.com.br/images/31/315653644189164.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/315653644189164.jpg",
+      "https://img.olx.com.br/images/33/336676882199794.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779307692
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:07",
     "fotoUrl": "https://img.olx.com.br/images/89/891614520695112.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/891614520695112.jpg",
@@ -18,57 +31,57 @@
       "https://img.olx.com.br/images/92/925673520588148.jpg",
       "https://img.olx.com.br/images/93/933603649462925.jpg"
     ],
-    "defeito": false,
+    "id": "1503486591",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-series-s-usado-1503486591",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox Series S ( Usado )",
     "ts": 1779307676
   },
   {
-    "id": "1503354723",
-    "titulo": "Xbox S ",
-    "preco": 850,
-    "precoRaw": "R$ 850",
     "categoria": "xbox",
-    "publicado": "",
-    "detectado": "17:07",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-s-1503354723",
+    "detectado": "17:07",
     "fotoUrl": "https://img.olx.com.br/images/38/382610644583739.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/382610644583739.jpg",
       "https://img.olx.com.br/images/43/433649527058713.jpg"
     ],
-    "defeito": false,
+    "id": "1503354723",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/xbox-s-1503354723",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox S ",
     "ts": 1779307676
   },
   {
-    "id": "1503316310",
-    "titulo": "Xbox s ",
-    "preco": 950,
-    "precoRaw": "R$ 950",
     "categoria": "xbox",
-    "publicado": "",
-    "detectado": "17:07",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-s-1503316310",
+    "detectado": "17:07",
     "fotoUrl": "https://img.olx.com.br/images/71/714669526317320.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/714669526317320.jpg"
     ],
-    "defeito": false,
+    "id": "1503316310",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-s-1503316310",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox s ",
     "ts": 1779307676
   },
   {
-    "id": "1503306443",
-    "titulo": "Xbox One series s ",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
     "categoria": "xbox",
-    "publicado": "",
-    "detectado": "17:07",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-series-s-1503306443",
+    "detectado": "17:07",
     "fotoUrl": "https://img.olx.com.br/images/15/153663409861331.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/153663409861331.jpg",
@@ -78,7 +91,13 @@
       "https://img.olx.com.br/images/21/214671760268723.jpg",
       "https://img.olx.com.br/images/82/820695523205885.jpg"
     ],
-    "defeito": false,
+    "id": "1503306443",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-series-s-1503306443",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Xbox One series s ",
     "ts": 1779307676
   },
   {
@@ -9979,24 +9998,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "Jogos ps4",
     "ts": 1779235354
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:02",
-    "fotoUrl": "https://img.olx.com.br/images/11/112683768669592.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/112683768669592.jpg",
-      "https://img.olx.com.br/images/95/957685769125723.jpg"
-    ],
-    "id": "1503493634",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/9-jogos-de-playstation-4-em-midia-fisica-otimo-estado-1503493634",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "9 JOGOS DE PLAYSTATION 4 EM MÍDIA FÍSICA, ÓTIMO ESTADO",
-    "ts": 1779235346
   }
 ]
