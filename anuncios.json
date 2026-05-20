@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503640016",
-    "titulo": "Lote de jogos PS4 + Controle",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps4",
+    "id": "1503639986",
+    "titulo": "The Witcher 3: Wild Hunt",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:34",
-    "tempoOlx": "Na OLX desde março de 2023",
+    "tempoOlx": "Na OLX desde junho de 2023",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/lote-de-jogos-ps4-controle-1503640016",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-witcher-3-wild-hunt-1503639986",
+    "fotoUrl": "https://img.olx.com.br/images/58/586625525704133.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/586625525704133.jpg",
+      "https://img.olx.com.br/images/60/602611041022241.jpg",
+      "https://img.olx.com.br/images/62/629631287308672.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294873
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:34",
     "fotoUrl": "https://img.olx.com.br/images/50/503640886695669.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/503640886695669.jpg"
     ],
-    "defeito": false,
+    "id": "1503640016",
+    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/lote-de-jogos-ps4-controle-1503640016",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "Lote de jogos PS4 + Controle",
     "ts": 1779294864
   },
   {
@@ -9969,25 +9989,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Watch Dogs",
     "ts": 1779221177
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:06",
-    "fotoUrl": "https://img.olx.com.br/images/22/226523777722708.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/226523777722708.jpg",
-      "https://img.olx.com.br/images/23/237578415335966.jpg",
-      "https://img.olx.com.br/images/25/253564537119817.jpg"
-    ],
-    "id": "1409204710",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/tt-isle-of-man-ride-on-the-edge-ps4-seminovo-1409204710",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "TT Isle of Man: Ride on the Edge - PS4 seminovo",
-    "ts": 1779221169
   }
 ]
