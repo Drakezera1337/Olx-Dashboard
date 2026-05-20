@@ -1,15 +1,30 @@
 [
   {
-    "id": "1502541608",
-    "titulo": "Xbox Series S pra sair logo",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "xbox",
+    "id": "1503531921",
+    "titulo": "Red Dead Redemption 2",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "23:58",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/xbox-series-s-pra-sair-logo-1502541608",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-1503531921",
+    "fotoUrl": "https://img.olx.com.br/images/31/314678407032824.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/314678407032824.jpg",
+      "https://img.olx.com.br/images/32/321624404572491.jpg",
+      "https://img.olx.com.br/images/33/330611167422238.jpg",
+      "https://img.olx.com.br/images/35/358627761986015.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779245936
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:58",
     "fotoUrl": "https://img.olx.com.br/images/87/873628164927884.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/873628164927884.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/92/922685286338394.jpg",
       "https://img.olx.com.br/images/93/936692887415551.jpg"
     ],
-    "defeito": false,
+    "id": "1502541608",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/xbox-series-s-pra-sair-logo-1502541608",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "titulo": "Xbox Series S pra sair logo",
     "ts": 1779245905
   },
   {
@@ -9848,26 +9869,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Ghost of Tsuchima - PS4 - Lacrado ",
     "ts": 1779154261
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:25",
-    "fotoUrl": "https://img.olx.com.br/images/82/825672762384155.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/825672762384155.jpg",
-      "https://img.olx.com.br/images/85/856643167053550.jpg",
-      "https://img.olx.com.br/images/87/879626762624215.jpg",
-      "https://img.olx.com.br/images/90/904614640333092.jpg"
-    ],
-    "id": "1503201758",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-originais-cod-wwii-pes-2018-mortal-kombat-xl-1503201758",
-    "preco": 310,
-    "precoRaw": "R$ 310",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2019",
-    "titulo": "Jogos PS4 Originais - COD WWII + PES 2018 + Mortal Kombat XL",
-    "ts": 1779153928
   }
 ]
