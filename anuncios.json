@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503647729",
-    "titulo": "Ps4",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "ps4",
+    "id": "1503603757",
+    "titulo": "Nintendo Switch Oled Desbloqueado ",
+    "preco": 2700,
+    "precoRaw": "R$ 2.700",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "13:36",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "tempoOlx": "Na OLX desde março de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1503647729",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-desbloqueado-1503603757",
+    "fotoUrl": "https://img.olx.com.br/images/96/966691525218699.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/966691525218699.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779295012
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:36",
     "fotoUrl": "https://img.olx.com.br/images/87/874606289182392.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/874606289182392.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/92/925681289267853.jpg",
       "https://img.olx.com.br/images/94/945675885376844.jpg"
     ],
-    "defeito": false,
+    "id": "1503647729",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1503647729",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Ps4",
     "ts": 1779295004
   },
   {
@@ -9966,24 +9984,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Naruto Shippuden Ultimate Ninja Storm 4 Road To Boruto",
     "ts": 1779221319
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:08",
-    "fotoUrl": "https://img.olx.com.br/images/80/808624030386639.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/808624030386639.jpg",
-      "https://img.olx.com.br/images/81/811641153518427.jpg"
-    ],
-    "id": "1494402956",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/uncharted-4-ps4-1494402956",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Uncharted 4 ps4 ",
-    "ts": 1779221307
   }
 ]
