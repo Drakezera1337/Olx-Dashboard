@@ -1,15 +1,31 @@
 [
   {
-    "id": "1462922393",
-    "titulo": "IPHONE 15 PRO MAX / IPHONE 14 PRO- 256 GB",
-    "preco": 4500,
-    "precoRaw": "R$ 4.500",
-    "categoria": "iphone",
+    "id": "1503761604",
+    "titulo": "Xbox Series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "20:01",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "detectado": "20:02",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-iphone-14-pro-256-gb-1462922393",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-series-s-1503761604",
+    "fotoUrl": "https://img.olx.com.br/images/75/752616886847083.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/752616886847083.jpg",
+      "https://img.olx.com.br/images/76/761602283556873.jpg",
+      "https://img.olx.com.br/images/77/776676525886192.jpg",
+      "https://img.olx.com.br/images/80/804660762896108.jpg",
+      "https://img.olx.com.br/images/81/813663284841933.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779318176
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:01",
     "fotoUrl": "https://img.olx.com.br/images/82/822589593840055.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/822589593840055.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/18/185514718104036.jpg",
       "https://img.olx.com.br/images/20/203597472736226.jpg"
     ],
-    "defeito": false,
+    "id": "1462922393",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-iphone-14-pro-256-gb-1462922393",
+    "preco": 4500,
+    "precoRaw": "R$ 4.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "IPHONE 15 PRO MAX / IPHONE 14 PRO- 256 GB",
     "ts": 1779318116
   },
   {
@@ -9935,26 +9957,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Aceito proposta. ? PlayStation 3 Slim Completo - Funcionando Perfeitamente",
-    "ts": 1779279768
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/29/290622283887415.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/290622283887415.jpg",
-      "https://img.olx.com.br/images/30/305636289844635.jpg",
-      "https://img.olx.com.br/images/33/332609403479176.jpg"
-    ],
-    "id": "1503062131",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-1503062131",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps4 Slim 500Gb",
     "ts": 1779279768
   }
 ]
