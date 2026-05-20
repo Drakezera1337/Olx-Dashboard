@@ -1,15 +1,29 @@
 [
   {
-    "id": "1494868592",
-    "titulo": " Vendo jogos PS4 / PS3/ XBOX ONE",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps4",
+    "id": "1477871242",
+    "titulo": "Jogo Shadow of the Tomb Raider",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "17:00",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "tempoOlx": "Na OLX desde julho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/vendo-jogos-ps4-ps3-xbox-one-1494868592",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-shadow-of-the-tomb-raider-1477871242",
+    "fotoUrl": "https://img.olx.com.br/images/40/407602375912948.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/407602375912948.jpg",
+      "https://img.olx.com.br/images/43/435670377551362.jpg",
+      "https://img.olx.com.br/images/46/466625257764174.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779307234
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:00",
     "fotoUrl": "https://img.olx.com.br/images/98/982650275532611.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/982650275532611.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/46/464655635584803.jpg",
       "https://img.olx.com.br/images/46/467653399771086.jpg"
     ],
-    "defeito": false,
+    "id": "1494868592",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/vendo-jogos-ps4-ps3-xbox-one-1494868592",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": " Vendo jogos PS4 / PS3/ XBOX ONE",
     "ts": 1779307226
   },
   {
@@ -9952,24 +9972,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "iPhone 13",
     "ts": 1779229196
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:19",
-    "fotoUrl": "https://img.olx.com.br/images/93/936605283115204.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/936605283115204.jpg",
-      "https://img.olx.com.br/images/94/943641404031629.jpg"
-    ],
-    "id": "1503449126",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/battlefield-4-1503449126",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2023",
-    "titulo": "Battlefield 4",
-    "ts": 1779229181
   }
 ]
