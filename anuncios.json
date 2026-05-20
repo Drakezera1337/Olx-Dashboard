@@ -1,35 +1,92 @@
 [
   {
-    "id": "1503462765",
-    "titulo": "iPhone xr ",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "categoria": "iphone",
+    "id": "1503413735",
+    "titulo": "PS4 slim ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:07",
     "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1503462765",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-slim-1503413735",
+    "fotoUrl": "https://img.olx.com.br/images/97/978616164704770.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/978616164704770.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779307656
+  },
+  {
+    "id": "1503358899",
+    "titulo": "Playstation 4",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
+    "publicado": "",
+    "detectado": "17:07",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-4-1503358899",
+    "fotoUrl": "https://img.olx.com.br/images/35/351624406160797.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/351624406160797.jpg",
+      "https://img.olx.com.br/images/37/372632047126902.jpg",
+      "https://img.olx.com.br/images/39/393697280871023.jpg",
+      "https://img.olx.com.br/images/41/417638529499365.jpg",
+      "https://img.olx.com.br/images/43/438643289162284.jpg",
+      "https://img.olx.com.br/images/62/622655889454440.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779307656
+  },
+  {
+    "id": "1503356319",
+    "titulo": "Ps4 islim com 1 TB conservado usei ele 2 a 3 anos funcionando tudo normal vem com um contr",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
+    "publicado": "",
+    "detectado": "17:07",
+    "tempoOlx": "",
+    "descricao": "",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-islim-com-1-tb-conservado-usei-ele-2-a-3-anos-funcionando-tudo-normal-vem-com-um-contr-1503356319",
+    "fotoUrl": "https://img.olx.com.br/images/58/585660768687593.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/585660768687593.jpg",
+      "https://img.olx.com.br/images/59/595668889257522.jpg",
+      "https://img.olx.com.br/images/61/610659160875757.jpg",
+      "https://img.olx.com.br/images/62/629688764403732.jpg",
+      "https://img.olx.com.br/images/64/643679401001700.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779307656
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:07",
     "fotoUrl": "https://img.olx.com.br/images/38/387629042254946.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/387629042254946.jpg",
       "https://img.olx.com.br/images/40/402622282327278.jpg",
       "https://img.olx.com.br/images/42/428615762091058.jpg"
     ],
-    "defeito": false,
+    "id": "1503462765",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1503462765",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone xr ",
     "ts": 1779307653
   },
   {
-    "id": "1503452482",
-    "titulo": "iPhone 13 Pro - 512Gb",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
     "categoria": "iphone",
-    "publicado": "",
-    "detectado": "17:07",
-    "tempoOlx": "",
+    "defeito": false,
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-512gb-1503452482",
+    "detectado": "17:07",
     "fotoUrl": "https://img.olx.com.br/images/19/190655280178438.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/190655280178438.jpg",
@@ -39,7 +96,13 @@
       "https://img.olx.com.br/images/25/254655285293731.jpg",
       "https://img.olx.com.br/images/26/261628408030908.jpg"
     ],
-    "defeito": false,
+    "id": "1503452482",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-512gb-1503452482",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 13 Pro - 512Gb",
     "ts": 1779307653
   },
   {
@@ -9936,63 +9999,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 5 ",
     "ts": 1779234295
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:43",
-    "fotoUrl": "https://img.olx.com.br/images/24/242632285769152.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/242632285769152.jpg"
-    ],
-    "id": "1503489098",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-256gb-novo-1503489098",
-    "preco": 5900,
-    "precoRaw": "R$ 5.900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2016",
-    "titulo": "Iphone 16 Pro Max 256GB NOVO ",
-    "ts": 1779234207
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:43",
-    "fotoUrl": "https://img.olx.com.br/images/41/410686600831128.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/410686600831128.jpg",
-      "https://img.olx.com.br/images/43/433604722358760.jpg",
-      "https://img.olx.com.br/images/72/721695366068217.jpg",
-      "https://img.olx.com.br/images/75/753634129382223.jpg"
-    ],
-    "id": "1470248814",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/just-dance-2020-ps4-medievil-ps4-1470248814",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2025",
-    "titulo": "Just dance 2020 ps4 + Medievil ps4",
-    "ts": 1779234207
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:38",
-    "fotoUrl": "https://img.olx.com.br/images/64/645609388129827.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/645609388129827.jpg",
-      "https://img.olx.com.br/images/66/665674021268569.jpg"
-    ],
-    "id": "1485200821",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/controle-ps5-original-1485200821",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Controle PS5 original ",
-    "ts": 1779233936
   }
 ]
