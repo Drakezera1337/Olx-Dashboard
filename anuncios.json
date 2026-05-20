@@ -1,21 +1,40 @@
 [
   {
-    "id": "1503752628",
-    "titulo": "Ps4",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "ps4",
+    "id": "1503751650",
+    "titulo": "Xbox One Series S",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "19:14",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "19:15",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-1503752628",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-one-series-s-1503751650",
+    "fotoUrl": "https://img.olx.com.br/images/25/250607285693935.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/250607285693935.jpg",
+      "https://img.olx.com.br/images/63/632625282132819.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779315356
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:14",
     "fotoUrl": "https://img.olx.com.br/images/70/708674282853970.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/708674282853970.jpg",
       "https://img.olx.com.br/images/87/877661047654063.jpg"
     ],
-    "defeito": false,
+    "id": "1503752628",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-1503752628",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Ps4",
     "ts": 1779315293
   },
   {
@@ -9946,28 +9965,5 @@
     "tempoOlx": "",
     "titulo": "IPHONE 15 PRO MAX 256 ",
     "ts": 1779279730
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/29/298668642375055.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/298668642375055.jpg",
-      "https://img.olx.com.br/images/32/329624166496950.jpg",
-      "https://img.olx.com.br/images/35/350625409788474.jpg",
-      "https://img.olx.com.br/images/38/381698889911163.jpg",
-      "https://img.olx.com.br/images/42/429670884006727.jpg",
-      "https://img.olx.com.br/images/45/453637289246653.jpg"
-    ],
-    "id": "1503585796",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128-gigas-1503585796",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 13 - 128 gigas ",
-    "ts": 1779279724
   }
 ]
