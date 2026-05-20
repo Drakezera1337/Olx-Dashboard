@@ -1,15 +1,30 @@
 [
   {
-    "id": "1502733290",
-    "titulo": "VENDO IPHONE 16 PRO MAX 256 GB ",
-    "preco": 5600,
-    "precoRaw": "R$ 5.600",
-    "categoria": "iphone",
+    "id": "1471841036",
+    "titulo": "Gta V.",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "09:34",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "detectado": "09:36",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-16-pro-max-256-gb-1502733290",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/gta-v-1471841036",
+    "fotoUrl": "https://img.olx.com.br/images/97/976624123908232.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/976624123908232.jpg",
+      "https://img.olx.com.br/images/99/990658245368927.jpg",
+      "https://img.olx.com.br/images/11/113621608590701.jpg",
+      "https://img.olx.com.br/images/13/135614721680447.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779280619
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:34",
     "fotoUrl": "https://img.olx.com.br/images/74/747655767307649.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/747655767307649.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/84/846616280415885.jpg",
       "https://img.olx.com.br/images/87/878675522488316.jpg"
     ],
-    "defeito": false,
+    "id": "1502733290",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-16-pro-max-256-gb-1502733290",
+    "preco": 5600,
+    "precoRaw": "R$ 5.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "VENDO IPHONE 16 PRO MAX 256 GB ",
     "ts": 1779280468
   },
   {
@@ -9916,23 +9937,5 @@
     "tempoOlx": "",
     "titulo": "Jogos de PS4",
     "ts": 1779212694
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:44",
-    "fotoUrl": "https://img.olx.com.br/images/27/274678401123454.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/274678401123454.jpg"
-    ],
-    "id": "1503373371",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-zerado-1503373371",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4 ZERADO ",
-    "ts": 1779212684
   }
 ]
