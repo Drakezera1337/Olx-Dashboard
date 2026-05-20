@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503531921",
-    "titulo": "Red Dead Redemption 2",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1503530680",
+    "titulo": "Jogo Battlefield Hardline",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "23:58",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "23:59",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-1503531921",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-battlefield-hardline-1503530680",
+    "fotoUrl": "https://img.olx.com.br/images/86/868671401485562.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/868671401485562.jpg",
+      "https://img.olx.com.br/images/88/888624648815402.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779245943
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:58",
     "fotoUrl": "https://img.olx.com.br/images/31/314678407032824.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/314678407032824.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/33/330611167422238.jpg",
       "https://img.olx.com.br/images/35/358627761986015.jpg"
     ],
-    "defeito": false,
+    "id": "1503531921",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-1503531921",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Red Dead Redemption 2",
     "ts": 1779245936
   },
   {
@@ -9851,23 +9870,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "PlayStation4  1TB",
     "ts": 1779154273
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:31",
-    "fotoUrl": "https://img.olx.com.br/images/65/656650620728504.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/656650620728504.jpg"
-    ],
-    "id": "1483756050",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ghost-of-tsuchima-ps4-lacrado-1483756050",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Ghost of Tsuchima - PS4 - Lacrado ",
-    "ts": 1779154261
   }
 ]
