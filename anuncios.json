@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503608796",
-    "titulo": "Ps4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1503604029",
+    "titulo": "Vendo play 4",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:26",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "detectado": "13:27",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-1503608796",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/vendo-play-4-1503604029",
+    "fotoUrl": "https://img.olx.com.br/images/55/558680164541519.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/558680164541519.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779294423
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:26",
     "fotoUrl": "https://img.olx.com.br/images/50/504621647430327.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/504621647430327.jpg",
       "https://img.olx.com.br/images/58/589618166863005.jpg",
       "https://img.olx.com.br/images/67/676662760372228.jpg"
     ],
-    "defeito": false,
+    "id": "1503608796",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-1503608796",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Ps4",
     "ts": 1779294415
   },
   {
@@ -9958,23 +9976,5 @@
     "tempoOlx": "",
     "titulo": "The last guardian ps4",
     "ts": 1779213212
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:53",
-    "fotoUrl": "https://img.olx.com.br/images/32/323673881862847.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/323673881862847.jpg"
-    ],
-    "id": "1503386126",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/uncharted-4-1503386126",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Uncharted 4",
-    "ts": 1779213203
   }
 ]
