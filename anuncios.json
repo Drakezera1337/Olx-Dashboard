@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503511784",
-    "titulo": "PlayStation 4",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "ps4",
+    "id": "1503512272",
+    "titulo": "Leitor para ps5 slim ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "22:26",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "22:29",
+    "tempoOlx": "Na OLX desde junho de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1503511784",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/leitor-para-ps5-slim-1503512272",
+    "fotoUrl": "https://img.olx.com.br/images/95/955659161861779.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/955659161861779.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779240595
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:26",
     "fotoUrl": "https://img.olx.com.br/images/84/844635402855219.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/844635402855219.jpg",
       "https://img.olx.com.br/images/87/875657160782336.jpg",
       "https://img.olx.com.br/images/89/894615042138561.jpg"
     ],
-    "defeito": false,
+    "id": "1503511784",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1503511784",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PlayStation 4",
     "ts": 1779240365
   },
   {
@@ -9844,23 +9862,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Mirror's Edge Catalyst PS4 ",
     "ts": 1779150085
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:21",
-    "fotoUrl": "https://img.olx.com.br/images/42/424665387244834.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/424665387244834.jpg"
-    ],
-    "id": "1489856865",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/batman-arkham-knight-ps4-1489856865",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Batman Arkham Knight PS4 ",
-    "ts": 1779150075
   }
 ]
