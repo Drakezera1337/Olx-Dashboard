@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503758174",
-    "titulo": "PS3 Slim 160gb",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps3",
+    "id": "1503759214",
+    "titulo": "Playstation 4 Slim ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:38",
-    "tempoOlx": "Na OLX desde abril de 2024",
+    "detectado": "19:43",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/ps3-slim-160gb-1503758174",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/playstation-4-slim-1503759214",
+    "fotoUrl": "https://img.olx.com.br/images/30/304603764004582.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/304603764004582.jpg",
+      "https://img.olx.com.br/images/31/313694166212256.jpg",
+      "https://img.olx.com.br/images/33/339614646940190.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779317034
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:38",
     "fotoUrl": "https://img.olx.com.br/images/64/646651882328056.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/646651882328056.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/69/690691884380272.jpg",
       "https://img.olx.com.br/images/71/718638649932123.jpg"
     ],
-    "defeito": false,
+    "id": "1503758174",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/ps3-slim-160gb-1503758174",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2024",
+    "titulo": "PS3 Slim 160gb",
     "ts": 1779316735
   },
   {
@@ -9947,29 +9967,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Moto G14 NOVO Nunca usado",
-    "ts": 1779279747
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/38/383650163494000.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/383650163494000.jpg",
-      "https://img.olx.com.br/images/40/403624884100253.jpg",
-      "https://img.olx.com.br/images/42/425626167355447.jpg",
-      "https://img.olx.com.br/images/44/442692887874353.jpg",
-      "https://img.olx.com.br/images/46/469687048029951.jpg",
-      "https://img.olx.com.br/images/48/483623164215214.jpg"
-    ],
-    "id": "1501442236",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1501442236",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 12",
     "ts": 1779279747
   }
 ]
