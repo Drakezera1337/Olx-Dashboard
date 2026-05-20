@@ -1,21 +1,39 @@
 [
   {
-    "id": "1503751650",
-    "titulo": "Xbox One Series S",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "categoria": "xbox",
+    "id": "1495310653",
+    "titulo": "Uncharted 4 ps4",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:15",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "19:19",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-one-series-s-1503751650",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-4-ps4-1495310653",
+    "fotoUrl": "https://img.olx.com.br/images/35/357688035079422.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/357688035079422.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779315592
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:15",
     "fotoUrl": "https://img.olx.com.br/images/25/250607285693935.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/250607285693935.jpg",
       "https://img.olx.com.br/images/63/632625282132819.jpg"
     ],
-    "defeito": false,
+    "id": "1503751650",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-one-series-s-1503751650",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox One Series S",
     "ts": 1779315356
   },
   {
@@ -9946,24 +9964,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 11 64GB à venda",
-    "ts": 1779279730
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:22",
-    "fotoUrl": "https://img.olx.com.br/images/43/435647272110219.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/435647272110219.jpg"
-    ],
-    "id": "1496822601",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-1496822601",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "IPHONE 15 PRO MAX 256 ",
     "ts": 1779279730
   }
 ]
