@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503994428",
-    "titulo": "Horizon Zero Dawn - PS4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1503994377",
+    "titulo": "Jogos de PS4 (80$ cada)",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:35",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "16:36",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-ps4-1503994428",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-de-ps4-80-cada-1503994377",
+    "fotoUrl": "https://img.olx.com.br/images/45/456629400192685.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/456629400192685.jpg",
+      "https://img.olx.com.br/images/47/471640642521149.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779392163
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:35",
     "fotoUrl": "https://img.olx.com.br/images/94/943610162097915.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/943610162097915.jpg",
       "https://img.olx.com.br/images/25/253686402342594.jpg",
       "https://img.olx.com.br/images/34/341630164320610.jpg"
     ],
-    "defeito": false,
+    "id": "1503994428",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-ps4-1503994428",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Horizon Zero Dawn - PS4",
     "ts": 1779392154
   },
   {
@@ -9839,25 +9858,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Cyberpunk 2077 PS4",
     "ts": 1779362567
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:22",
-    "fotoUrl": "https://img.olx.com.br/images/12/120652165946067.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/120652165946067.jpg",
-      "https://img.olx.com.br/images/14/146681283919332.jpg",
-      "https://img.olx.com.br/images/16/164602404202199.jpg"
-    ],
-    "id": "1503849776",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/the-last-of-us-part-ii-edicao-especial-1503849776",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "The Last Of Us Part II Edição Especial ",
-    "ts": 1779362559
   }
 ]
