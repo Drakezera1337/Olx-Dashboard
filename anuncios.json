@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503984404",
-    "titulo": "Venda Emergencial -- Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503857864",
+    "titulo": "Ps4 500mb + controle ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:01",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "detectado": "16:03",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/venda-emergencial-xbox-series-s-1503984404",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-500mb-controle-1503857864",
+    "fotoUrl": "https://img.olx.com.br/images/99/998625763270651.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/998625763270651.jpg",
+      "https://img.olx.com.br/images/11/119659406096197.jpg",
+      "https://img.olx.com.br/images/12/128667520361756.jpg",
+      "https://img.olx.com.br/images/14/140607283838536.jpg",
+      "https://img.olx.com.br/images/15/153683524720013.jpg",
+      "https://img.olx.com.br/images/17/172685288658125.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779390203
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:01",
     "fotoUrl": "https://img.olx.com.br/images/38/381605769985421.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/381605769985421.jpg",
       "https://img.olx.com.br/images/38/383674408355000.jpg",
       "https://img.olx.com.br/images/38/387629166025834.jpg"
     ],
-    "defeito": false,
+    "id": "1503984404",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/venda-emergencial-xbox-series-s-1503984404",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Venda Emergencial -- Xbox Series S",
     "ts": 1779390113
   },
   {
@@ -9845,25 +9868,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Farcry 4 Original Playstation 4 PS4",
     "ts": 1779362454
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:20",
-    "fotoUrl": "https://img.olx.com.br/images/43/432572094186261.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/432572094186261.jpg",
-      "https://img.olx.com.br/images/43/430568336828405.jpg",
-      "https://img.olx.com.br/images/43/433562218162511.jpg"
-    ],
-    "id": "1444723418",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/injustice-2-playstation-4-ps4-midia-fisica-1444723418",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Injustice 2 Playstation 4 PS4 mídia física",
-    "ts": 1779362445
   }
 ]
