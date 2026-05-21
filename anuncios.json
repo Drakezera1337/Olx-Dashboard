@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504050627",
-    "titulo": "Spider man miles Morales ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1504050394",
+    "titulo": "Fallout 4 PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:47",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/spider-man-miles-morales-1504050627",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/fallout-4-ps4-1504050394",
+    "fotoUrl": "https://img.olx.com.br/images/47/478631525123696.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/478631525123696.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779407254
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:47",
     "fotoUrl": "https://img.olx.com.br/images/14/142621407192858.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/142621407192858.jpg"
     ],
-    "defeito": false,
+    "id": "1504050627",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/spider-man-miles-morales-1504050627",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "Spider man miles Morales ",
     "ts": 1779407244
   },
   {
@@ -9829,27 +9847,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Ps3 slim cfw troco por snes ou vendo",
     "ts": 1779367495
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:44",
-    "fotoUrl": "https://img.olx.com.br/images/83/838682767284821.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/838682767284821.jpg",
-      "https://img.olx.com.br/images/85/855647528688114.jpg",
-      "https://img.olx.com.br/images/86/869647403162640.jpg",
-      "https://img.olx.com.br/images/88/884676041611468.jpg",
-      "https://img.olx.com.br/images/90/902654404224018.jpg"
-    ],
-    "id": "1503873774",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/ps4-playstation-4-500-gb-1503873774",
-    "preco": 1499,
-    "precoRaw": "R$ 1.499",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "PS4 Playstation 4 500 gb",
-    "ts": 1779367454
   }
 ]
