@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503895803",
-    "titulo": "PS3 ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1503898866",
+    "titulo": "Fc 24",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:09",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "11:10",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps3-1503895803",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/fc-24-1503898866",
+    "fotoUrl": "https://img.olx.com.br/images/52/521685289780630.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/521685289780630.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779372653
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:09",
     "fotoUrl": "https://img.olx.com.br/images/29/290619766905733.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/290619766905733.jpg"
     ],
-    "defeito": false,
+    "id": "1503895803",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps3-1503895803",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "PS3 ",
     "ts": 1779372592
   },
   {
@@ -9910,28 +9928,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "PlayStation 4 ",
     "ts": 1779314581
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:02",
-    "fotoUrl": "https://img.olx.com.br/images/57/575640631840380.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/575640631840380.jpg",
-      "https://img.olx.com.br/images/58/581637396704308.jpg",
-      "https://img.olx.com.br/images/59/591643631208939.jpg",
-      "https://img.olx.com.br/images/61/613661397957145.jpg",
-      "https://img.olx.com.br/images/62/629649759356275.jpg",
-      "https://img.olx.com.br/images/63/639665393082130.jpg"
-    ],
-    "id": "1493731295",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/injustice-2-ultimate-edition-ps4-steelbook-de-colecionador-1493731295",
-    "preco": 190,
-    "precoRaw": "R$ 190",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2018",
-    "titulo": "Injustice 2 Ultimate Edition PS4 - Steelbook de Colecionador",
-    "ts": 1779314574
   }
 ]
