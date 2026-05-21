@@ -1,20 +1,38 @@
 [
   {
-    "id": "1463252480",
-    "titulo": "Gran Turismo Sport",
-    "preco": 130,
-    "precoRaw": "R$ 130",
+    "id": "1371965862",
+    "titulo": "Dragon Ball FighterZ e Kakarot",
+    "preco": 330,
+    "precoRaw": "R$ 330",
     "categoria": "jogos",
     "publicado": "",
-    "detectado": "22:01",
+    "detectado": "22:02",
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "descricao": "",
-    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/gran-turismo-sport-1463252480",
+    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/dragon-ball-fighterz-e-kakarot-1371965862",
+    "fotoUrl": "https://img.olx.com.br/images/28/288674364643626.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/288674364643626.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779325324
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:01",
     "fotoUrl": "https://img.olx.com.br/images/63/634589596284013.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/634589596284013.jpg"
     ],
-    "defeito": false,
+    "id": "1463252480",
+    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/gran-turismo-sport-1463252480",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Gran Turismo Sport",
     "ts": 1779325315
   },
   {
@@ -9910,27 +9928,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation 4 Slim 500gb + 2 Controles + 12 Jogos",
     "ts": 1779279949
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/60/603603038359920.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/603603038359920.jpg",
-      "https://img.olx.com.br/images/61/613612750785021.jpg",
-      "https://img.olx.com.br/images/63/634648752960835.jpg",
-      "https://img.olx.com.br/images/65/654646515959921.jpg",
-      "https://img.olx.com.br/images/67/674693519508319.jpg"
-    ],
-    "id": "1494815191",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-edicao-especial-ps4-1494815191",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Horizon Forbidden West Edição Especial ps4",
-    "ts": 1779279935
   }
 ]
