@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503973779",
-    "titulo": "Celular iphone",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "categoria": "iphone",
+    "id": "1491800227",
+    "titulo": "Ps4 FAT 500gb",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:26",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "detectado": "15:30",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-iphone-1503973779",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-fat-500gb-1491800227",
+    "fotoUrl": "https://img.olx.com.br/images/41/417637033858438.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/417637033858438.jpg",
+      "https://img.olx.com.br/images/42/426638396896691.jpg",
+      "https://img.olx.com.br/images/43/439635756497645.jpg",
+      "https://img.olx.com.br/images/44/447625157211257.jpg",
+      "https://img.olx.com.br/images/46/464663156655869.jpg",
+      "https://img.olx.com.br/images/47/479632757305470.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779388224
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:26",
     "fotoUrl": "https://img.olx.com.br/images/41/410634401437962.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/410634401437962.jpg",
       "https://img.olx.com.br/images/41/410600403641136.jpg",
       "https://img.olx.com.br/images/41/410628403600900.jpg"
     ],
-    "defeito": false,
+    "id": "1503973779",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-iphone-1503973779",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "Celular iphone",
     "ts": 1779388014
   },
   {
@@ -9863,23 +9886,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Dying Light 2: Stay Human - PS4 Mídia Física (Com Atualização Grátis para PS5)",
     "ts": 1779334690
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:38",
-    "fotoUrl": "https://img.olx.com.br/images/75/757657645161260.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/757657645161260.jpg"
-    ],
-    "id": "1503817115",
-    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/jogos-de-video-game/marvel-s-spider-man-edicao-jogo-do-ano-goty-ps4-sem-dlc-1503817115",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Marvel's Spider-Man Edição Jogo do Ano (GOTY) PS4 - Sem DLC",
-    "ts": 1779334682
   }
 ]
