@@ -1,20 +1,43 @@
 [
   {
-    "id": "1465231240",
-    "titulo": "Ghost Recon: Breakpoint",
-    "preco": 135,
-    "precoRaw": "R$ 135",
-    "categoria": "outros",
+    "id": "1503791174",
+    "titulo": "PlayStation 4 Dragon Quest CIB ",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "22:02",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "tempoOlx": "Na OLX desde novembro de 2024",
     "descricao": "",
-    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/ghost-recon-breakpoint-1465231240",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/playstation-4-dragon-quest-cib-1503791174",
+    "fotoUrl": "https://img.olx.com.br/images/26/268659169269662.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/268659169269662.jpg",
+      "https://img.olx.com.br/images/27/275633280637523.jpg",
+      "https://img.olx.com.br/images/28/284692162833150.jpg",
+      "https://img.olx.com.br/images/29/295687882925351.jpg",
+      "https://img.olx.com.br/images/31/312697765896172.jpg",
+      "https://img.olx.com.br/images/33/335617527413578.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779325356
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:02",
     "fotoUrl": "https://img.olx.com.br/images/40/408540591715100.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/408540591715100.jpg"
     ],
-    "defeito": false,
+    "id": "1465231240",
+    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/ghost-recon-breakpoint-1465231240",
+    "preco": 135,
+    "precoRaw": "R$ 135",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Ghost Recon: Breakpoint",
     "ts": 1779325348
   },
   {
@@ -9896,25 +9919,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox one s + 6 jogos ",
-    "ts": 1779279949
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/86/863642283233775.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/863642283233775.jpg",
-      "https://img.olx.com.br/images/88/885614760037904.jpg"
-    ],
-    "id": "1502677554",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1502677554",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps4",
     "ts": 1779279949
   }
 ]
