@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503808192",
-    "titulo": "PlayStation 4 (500GB com 2 controles) ",
-    "preco": 1620,
-    "precoRaw": "R$ 1.620",
+    "id": "1476819067",
+    "titulo": "PlayStation 4 (PS4) 500GB + 2 Controles",
+    "preco": 800,
+    "precoRaw": "R$ 800",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:44",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "detectado": "23:45",
+    "tempoOlx": "Na OLX desde abril de 2023",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-500gb-com-2-controles-1503808192",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-ps4-500gb-2-controles-1476819067",
+    "fotoUrl": "https://img.olx.com.br/images/18/187652378188369.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/187652378188369.jpg",
+      "https://img.olx.com.br/images/18/186613256011371.jpg",
+      "https://img.olx.com.br/images/18/188695251761005.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779331552
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:44",
     "fotoUrl": "https://img.olx.com.br/images/46/460656401109204.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/460656401109204.jpg",
       "https://img.olx.com.br/images/45/452607403964257.jpg"
     ],
-    "defeito": false,
+    "id": "1503808192",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-500gb-com-2-controles-1503808192",
+    "preco": 1620,
+    "precoRaw": "R$ 1.620",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "PlayStation 4 (500GB com 2 controles) ",
     "ts": 1779331472
   },
   {
@@ -9847,23 +9867,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "ps4 e xbox ( manutenção )",
     "ts": 1779294450
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:27",
-    "fotoUrl": "https://img.olx.com.br/images/47/476670765560753.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/476670765560753.jpg"
-    ],
-    "id": "1503655990",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-1tb-1503655990",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2016",
-    "titulo": "PS4 SLIM 1TB",
-    "ts": 1779294440
   }
 ]
