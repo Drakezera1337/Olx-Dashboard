@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503996080",
-    "titulo": "Play Station 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1503996927",
+    "titulo": "Shadow of the Colossus - PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:43",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "detectado": "16:47",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/play-station-4-1503996080",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/shadow-of-the-colossus-ps4-1503996927",
+    "fotoUrl": "https://img.olx.com.br/images/31/313670767788886.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/313670767788886.jpg",
+      "https://img.olx.com.br/images/42/426639529264969.jpg",
+      "https://img.olx.com.br/images/51/512602760778099.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779392875
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:43",
     "fotoUrl": "https://img.olx.com.br/images/61/615650284722170.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/615650284722170.jpg",
       "https://img.olx.com.br/images/62/622692644382900.jpg"
     ],
-    "defeito": false,
+    "id": "1503996080",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/play-station-4-1503996080",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "Play Station 4",
     "ts": 1779392634
   },
   {
@@ -9847,26 +9867,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "Jogos de ps4 ",
     "ts": 1779362688
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:24",
-    "fotoUrl": "https://img.olx.com.br/images/62/621677398305846.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/621677398305846.jpg",
-      "https://img.olx.com.br/images/64/644656037888191.jpg",
-      "https://img.olx.com.br/images/66/663628397547349.jpg",
-      "https://img.olx.com.br/images/67/679626155568243.jpg"
-    ],
-    "id": "1495720502",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-plants-vs-zombies-1495720502",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Jogo PS4 Plants vs Zombies!!",
-    "ts": 1779362678
   }
 ]
