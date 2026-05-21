@@ -1,22 +1,42 @@
 [
   {
-    "id": "1494813984",
-    "titulo": "Resident Evil 5: Gold Edition",
-    "preco": 130,
-    "precoRaw": "R$ 130",
+    "id": "1494817025",
+    "titulo": "Uncharted 3: Drake's Deception",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "jogos",
     "publicado": "",
-    "detectado": "09:14",
+    "detectado": "09:15",
     "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-5-gold-edition-1494813984",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-3-drake-s-deception-1494817025",
+    "fotoUrl": "https://img.olx.com.br/images/93/936636516943931.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/936636516943931.jpg",
+      "https://img.olx.com.br/images/93/934616277566807.jpg",
+      "https://img.olx.com.br/images/94/949680515431259.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779365701
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:14",
     "fotoUrl": "https://img.olx.com.br/images/58/585691279030201.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/585691279030201.jpg",
       "https://img.olx.com.br/images/58/585630754445313.jpg",
       "https://img.olx.com.br/images/58/586663154215387.jpg"
     ],
-    "defeito": false,
+    "id": "1494813984",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-5-gold-edition-1494813984",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Resident Evil 5: Gold Edition",
     "ts": 1779365691
   },
   {
@@ -9900,24 +9920,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Playstation 5 Slim 5 meses de uso ",
-    "ts": 1779307628
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:07",
-    "fotoUrl": "https://img.olx.com.br/images/50/505642647245517.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/505642647245517.jpg"
-    ],
-    "id": "1503370394",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-portal-1503370394",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation portal ",
     "ts": 1779307628
   }
 ]
