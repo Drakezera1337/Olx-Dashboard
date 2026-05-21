@@ -1,22 +1,42 @@
 [
   {
-    "id": "1503993157",
-    "titulo": "iPhone 11",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "iphone",
+    "id": "1503994428",
+    "titulo": "Horizon Zero Dawn - PS4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:35",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1503993157",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-ps4-1503994428",
+    "fotoUrl": "https://img.olx.com.br/images/94/943610162097915.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/943610162097915.jpg",
+      "https://img.olx.com.br/images/25/253686402342594.jpg",
+      "https://img.olx.com.br/images/34/341630164320610.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779392154
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:35",
     "fotoUrl": "https://img.olx.com.br/images/13/133684168784585.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/133684168784585.jpg",
       "https://img.olx.com.br/images/16/165670526284624.jpg",
       "https://img.olx.com.br/images/19/194697402626364.jpg"
     ],
-    "defeito": false,
+    "id": "1503993157",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1503993157",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "iPhone 11",
     "ts": 1779392125
   },
   {
@@ -9839,23 +9859,5 @@
     "tempoOlx": "",
     "titulo": "The Last Of Us Part II Edição Especial ",
     "ts": 1779362559
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:22",
-    "fotoUrl": "https://img.olx.com.br/images/26/265535347511164.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/265535347511164.jpg"
-    ],
-    "id": "1449799819",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/diablo-reaper-of-souls-1449799819",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2015",
-    "titulo": "diablo reaper of souls",
-    "ts": 1779362550
   }
 ]
