@@ -1,15 +1,31 @@
 [
   {
-    "id": "1503889646",
-    "titulo": "Playstation 5 FAT midia fisica",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1503888813",
+    "titulo": "iPhone XR 128 GB",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "10:38",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "detectado": "10:39",
+    "tempoOlx": "Na OLX desde março de 2025",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/playstation-5-fat-midia-fisica-1503889646",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-128-gb-1503888813",
+    "fotoUrl": "https://img.olx.com.br/images/90/901610888758745.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/901610888758745.jpg",
+      "https://img.olx.com.br/images/91/910639761657458.jpg",
+      "https://img.olx.com.br/images/93/939620046791832.jpg",
+      "https://img.olx.com.br/images/94/944604881043526.jpg",
+      "https://img.olx.com.br/images/95/955686767993872.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779370747
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:38",
     "fotoUrl": "https://img.olx.com.br/images/11/114632520796744.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/114632520796744.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/11/119684165223646.jpg",
       "https://img.olx.com.br/images/11/114636167612783.jpg"
     ],
-    "defeito": false,
+    "id": "1503889646",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/playstation-5-fat-midia-fisica-1503889646",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "titulo": "Playstation 5 FAT midia fisica",
     "ts": 1779370739
   },
   {
@@ -9900,23 +9922,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Playstation 4 Slim 1TB (NOVÍSSIMO)",
     "ts": 1779313208
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:40",
-    "fotoUrl": "https://img.olx.com.br/images/71/718531453324906.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/718531453324906.jpg"
-    ],
-    "id": "1442337173",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/uncharted-4-1442337173",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "Uncharted 4",
-    "ts": 1779313200
   }
 ]
