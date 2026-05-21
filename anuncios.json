@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504023399",
-    "titulo": "Ps4 slim 1tb",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "ps4",
+    "id": "1504023386",
+    "titulo": "Jogos PlayStation ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:40",
-    "tempoOlx": "Na OLX desde setembro de 2025",
+    "tempoOlx": "Na OLX desde julho de 2013",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-1504023399",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-playstation-1504023386",
+    "fotoUrl": "https://img.olx.com.br/images/39/395627040788308.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/395627040788308.jpg",
+      "https://img.olx.com.br/images/40/401622644571154.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779399631
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:40",
     "fotoUrl": "https://img.olx.com.br/images/96/969698769389619.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/969698769389619.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/11/118650169170831.jpg",
       "https://img.olx.com.br/images/12/129656164990387.jpg"
     ],
-    "defeito": false,
+    "id": "1504023399",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-1504023399",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "titulo": "Ps4 slim 1tb",
     "ts": 1779399620
   },
   {
@@ -9822,24 +9841,5 @@
     "tempoOlx": "",
     "titulo": "Destiny",
     "ts": 1779362941
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:28",
-    "fotoUrl": "https://img.olx.com.br/images/60/609618646133215.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/609618646133215.jpg",
-      "https://img.olx.com.br/images/62/620653640740680.jpg"
-    ],
-    "id": "1502599859",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-all-digital-1502599859",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One All Digital",
-    "ts": 1779362922
   }
 ]
