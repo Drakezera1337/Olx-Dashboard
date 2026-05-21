@@ -1,15 +1,31 @@
 [
   {
-    "id": "1478376739",
-    "titulo": "PS3 Air conflicts",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps3",
+    "id": "1503849970",
+    "titulo": "Play 4 novo",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "08:22",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/ps3-air-conflicts-1478376739",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/play-4-novo-1503849970",
+    "fotoUrl": "https://img.olx.com.br/images/14/148666528717022.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/148666528717022.jpg",
+      "https://img.olx.com.br/images/16/163649402552705.jpg",
+      "https://img.olx.com.br/images/18/183671048555645.jpg",
+      "https://img.olx.com.br/images/21/213647046228772.jpg",
+      "https://img.olx.com.br/images/23/231633282985423.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779362543
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:22",
     "fotoUrl": "https://img.olx.com.br/images/46/466626854683755.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/466626854683755.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/34/344662395969175.jpg",
       "https://img.olx.com.br/images/37/378653513064162.jpg"
     ],
-    "defeito": false,
+    "id": "1478376739",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/ps3-air-conflicts-1478376739",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "PS3 Air conflicts",
     "ts": 1779362534
   },
   {
@@ -9848,24 +9870,5 @@
     "tempoOlx": "Na OLX desde junho de 2022",
     "titulo": "The last of us 1 e 2",
     "ts": 1779294995
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:36",
-    "fotoUrl": "https://img.olx.com.br/images/81/812639886267231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/812639886267231.jpg",
-      "https://img.olx.com.br/images/82/826626409858547.jpg"
-    ],
-    "id": "1503635388",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/playstation-4-1503635388",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Playstation 4",
-    "ts": 1779294987
   }
 ]
