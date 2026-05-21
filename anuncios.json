@@ -1,20 +1,41 @@
 [
   {
-    "id": "1503961153",
-    "titulo": "Jogos ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1495325058",
+    "titulo": "Resident Evil 4 Remake PS4",
+    "preco": 180,
+    "precoRaw": "R$ 180",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:37",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "detectado": "14:42",
+    "tempoOlx": "Na OLX desde maio de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-ps4-1503961153",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/resident-evil-4-remake-ps4-1495325058",
+    "fotoUrl": "https://img.olx.com.br/images/49/497681636273903.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/497681636273903.jpg",
+      "https://img.olx.com.br/images/49/498614512881137.jpg",
+      "https://img.olx.com.br/images/50/508630391764142.jpg",
+      "https://img.olx.com.br/images/50/500653278747879.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779385344
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:37",
     "fotoUrl": "https://img.olx.com.br/images/28/287650160170558.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/287650160170558.jpg"
     ],
-    "defeito": false,
+    "id": "1503961153",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-ps4-1503961153",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Jogos ps4",
     "ts": 1779385072
   },
   {
@@ -9862,27 +9883,5 @@
     "tempoOlx": "Na OLX desde março de 2019",
     "titulo": "Jogo need for speed payback ",
     "ts": 1779330685
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:26",
-    "fotoUrl": "https://img.olx.com.br/images/12/129631529063872.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/129631529063872.jpg",
-      "https://img.olx.com.br/images/14/147606046228287.jpg",
-      "https://img.olx.com.br/images/15/157664289357695.jpg",
-      "https://img.olx.com.br/images/17/179624281235238.jpg",
-      "https://img.olx.com.br/images/19/195665641037161.jpg"
-    ],
-    "id": "1503805998",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-xbox-360-desbloq-com-hd-de-500gb-1503805998",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
-    "titulo": "Vendo Xbox 360 desbloq com HD de 500gb",
-    "ts": 1779330362
   }
 ]
