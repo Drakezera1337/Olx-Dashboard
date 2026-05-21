@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504016213",
-    "titulo": "VENDO PS4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1504016331",
+    "titulo": "Playstation 3 Slim",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "18:06",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "detectado": "18:07",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps4-1504016213",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-slim-1504016331",
+    "fotoUrl": "https://img.olx.com.br/images/95/950618044506098.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/950618044506098.jpg",
+      "https://img.olx.com.br/images/98/981618280292325.jpg",
+      "https://img.olx.com.br/images/10/101609887287311.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779397644
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:06",
     "fotoUrl": "https://img.olx.com.br/images/28/285604283923049.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/285604283923049.jpg"
     ],
-    "defeito": false,
+    "id": "1504016213",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps4-1504016213",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "titulo": "VENDO PS4",
     "ts": 1779397582
   },
   {
@@ -9831,25 +9851,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PSP",
-    "ts": 1779362889
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:28",
-    "fotoUrl": "https://img.olx.com.br/images/67/673676152572625.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/673676152572625.jpg",
-      "https://img.olx.com.br/images/69/691687872790469.jpg"
-    ],
-    "id": "1490719468",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/jogo-de-psp-1490719468",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo de psp",
     "ts": 1779362889
   }
 ]
