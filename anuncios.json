@@ -1,15 +1,32 @@
 [
   {
-    "id": "1503865784",
-    "titulo": "The Last of Us 1 e 2 - PS4",
-    "preco": 160,
-    "precoRaw": "R$ 160",
+    "id": "1503867718",
+    "titulo": "PlayStation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "09:15",
-    "tempoOlx": "Na OLX desde agosto de 2024",
+    "detectado": "09:18",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/the-last-of-us-1-e-2-ps4-1503865784",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1503867718",
+    "fotoUrl": "https://img.olx.com.br/images/29/297615285988540.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/297615285988540.jpg",
+      "https://img.olx.com.br/images/31/313656407381379.jpg",
+      "https://img.olx.com.br/images/32/327698886337323.jpg",
+      "https://img.olx.com.br/images/34/344680529227702.jpg",
+      "https://img.olx.com.br/images/36/360618400244402.jpg",
+      "https://img.olx.com.br/images/38/389661042580337.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779365933
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:15",
     "fotoUrl": "https://img.olx.com.br/images/38/385616402843999.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/385616402843999.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/41/416618526395863.jpg",
       "https://img.olx.com.br/images/43/437656882782957.jpg"
     ],
-    "defeito": false,
+    "id": "1503865784",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/the-last-of-us-1-e-2-ps4-1503865784",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "titulo": "The Last of Us 1 e 2 - PS4",
     "ts": 1779365710
   },
   {
@@ -9905,23 +9928,5 @@
     "tempoOlx": "",
     "titulo": "iPhone 13 Pro - 512Gb",
     "ts": 1779307653
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:07",
-    "fotoUrl": "https://img.olx.com.br/images/44/444588215295962.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/444588215295962.jpg"
-    ],
-    "id": "1449103105",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/jogo-infamous-second-son-ps4-1449103105",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo Infamous Second Son PS4",
-    "ts": 1779307643
   }
 ]
