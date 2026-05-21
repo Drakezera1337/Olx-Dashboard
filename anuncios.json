@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504033919",
-    "titulo": "vendo jogos de super nintendo ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "switch",
+    "id": "1489041274",
+    "titulo": "XBOX - RTECHGAMES_",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "19:26",
-    "tempoOlx": "Na OLX desde março de 2020",
+    "detectado": "19:27",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/vendo-jogos-de-super-nintendo-1504033919",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-rtechgames-1489041274",
+    "fotoUrl": "https://img.olx.com.br/images/11/110681867325164.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/110681867325164.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779402471
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:26",
     "fotoUrl": "https://img.olx.com.br/images/32/324606046787852.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/324606046787852.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/38/383617046426553.jpg",
       "https://img.olx.com.br/images/42/426605523696129.jpg"
     ],
-    "defeito": false,
+    "id": "1504033919",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/vendo-jogos-de-super-nintendo-1504033919",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2020",
+    "titulo": "vendo jogos de super nintendo ",
     "ts": 1779402384
   },
   {
@@ -9809,26 +9827,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "PS4 500GB SLIM + CONTROLE + JOGOS",
     "ts": 1779364594
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:56",
-    "fotoUrl": "https://img.olx.com.br/images/41/419640160006631.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/419640160006631.jpg",
-      "https://img.olx.com.br/images/43/438692524630601.jpg",
-      "https://img.olx.com.br/images/44/445693406761861.jpg",
-      "https://img.olx.com.br/images/45/452629400496029.jpg"
-    ],
-    "id": "1503862633",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/bloodborne-e-shadow-of-colossus-ps4-1503862633",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Bloodborne e shadow of colossus ps4 ",
-    "ts": 1779364585
   }
 ]
