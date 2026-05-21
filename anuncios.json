@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504051877",
-    "titulo": "PS4 1TB",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1504012209",
+    "titulo": "Darksiders Warmastered",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:59",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1tb-1504051877",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/darksiders-warmastered-1504012209",
+    "fotoUrl": "https://img.olx.com.br/images/65/655639644697407.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/655639644697407.jpg",
+      "https://img.olx.com.br/images/64/643616409511380.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779407977
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:59",
     "fotoUrl": "https://img.olx.com.br/images/78/784674280050029.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/784674280050029.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/80/804653284115364.jpg",
       "https://img.olx.com.br/images/81/817615524886480.jpg"
     ],
-    "defeito": false,
+    "id": "1504051877",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1tb-1504051877",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "PS4 1TB",
     "ts": 1779407969
   },
   {
@@ -9826,25 +9845,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Bloodborne - Playstation 4",
     "ts": 1779367846
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:50",
-    "fotoUrl": "https://img.olx.com.br/images/44/447564699278227.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/447564699278227.jpg",
-      "https://img.olx.com.br/images/46/466521579331217.jpg",
-      "https://img.olx.com.br/images/48/483544454552837.jpg"
-    ],
-    "id": "1444948584",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/terra-media-sombras-de-mordor-game-of-the-year-edition-playstation-4-1444948584",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Terra média sombras de mordor game of The year edition - Playstation 4",
-    "ts": 1779367834
   }
 ]
