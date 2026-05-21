@@ -1,21 +1,39 @@
 [
   {
-    "id": "1504038362",
-    "titulo": "Ps4",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
+    "id": "1504039895",
+    "titulo": "Ps4 500gb c/ Gta 5",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:48",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "detectado": "19:52",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/ps4-1504038362",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-500gb-c-gta-5-1504039895",
+    "fotoUrl": "https://img.olx.com.br/images/44/445697280450665.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/445697280450665.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779403974
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:48",
     "fotoUrl": "https://img.olx.com.br/images/53/533611169207740.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/533611169207740.jpg",
       "https://img.olx.com.br/images/54/545648040238912.jpg"
     ],
-    "defeito": false,
+    "id": "1504038362",
+    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/ps4-1504038362",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Ps4",
     "ts": 1779403685
   },
   {
@@ -9794,25 +9812,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Borderlands 3",
     "ts": 1779365672
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:14",
-    "fotoUrl": "https://img.olx.com.br/images/53/535658394725314.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/535658394725314.jpg",
-      "https://img.olx.com.br/images/53/530639394091373.jpg",
-      "https://img.olx.com.br/images/53/534667510646037.jpg"
-    ],
-    "id": "1494808535",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-2-remake-1494808535",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Resident Evil 2 Remake",
-    "ts": 1779365664
   }
 ]
