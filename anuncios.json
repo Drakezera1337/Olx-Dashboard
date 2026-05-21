@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504006259",
-    "titulo": "Jogos de ps4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps4",
+    "id": "1368858563",
+    "titulo": "Jogo psp umd pes 2012",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "17:27",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "detectado": "17:28",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1504006259",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-psp-umd-pes-2012-1368858563",
+    "fotoUrl": "https://img.olx.com.br/images/16/167518484816162.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/167518484816162.jpg",
+      "https://img.olx.com.br/images/16/164528604113927.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779395305
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:27",
     "fotoUrl": "https://img.olx.com.br/images/26/265638169504457.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/265638169504457.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/31/319692284229636.jpg",
       "https://img.olx.com.br/images/33/338678769929480.jpg"
     ],
-    "defeito": false,
+    "id": "1504006259",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1504006259",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "Jogos de ps4",
     "ts": 1779395268
   },
   {
@@ -9848,23 +9867,5 @@
     "tempoOlx": "",
     "titulo": "iPhone 14 Pro Max 256gb",
     "ts": 1779362795
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:26",
-    "fotoUrl": "https://img.olx.com.br/images/69/691629881042964.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/691629881042964.jpg"
-    ],
-    "id": "1503671265",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/ps4-slim-1503671265",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps4 slim",
-    "ts": 1779362793
   }
 ]
