@@ -1,21 +1,39 @@
 [
   {
-    "id": "1503504160",
-    "titulo": "Playstation 5 1 tera",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1481798886",
+    "titulo": "PS4 (2) Jogos Conjuntos homem aranha e Miles ",
+    "preco": 215,
+    "precoRaw": "R$ 215",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:10",
-    "tempoOlx": "Na OLX desde julho de 2015",
+    "detectado": "22:12",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-5-1-tera-1503504160",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-2-jogos-conjuntos-homem-aranha-e-miles-1481798886",
+    "fotoUrl": "https://img.olx.com.br/images/22/223676866160393.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/223676866160393.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779325946
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:10",
     "fotoUrl": "https://img.olx.com.br/images/16/161669645845040.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/161669645845040.jpg",
       "https://img.olx.com.br/images/18/186631283182828.jpg"
     ],
-    "defeito": false,
+    "id": "1503504160",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-5-1-tera-1503504160",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2015",
+    "titulo": "Playstation 5 1 tera",
     "ts": 1779325854
   },
   {
@@ -9889,29 +9907,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS5",
-    "ts": 1779279949
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/43/439616401819910.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/439616401819910.jpg",
-      "https://img.olx.com.br/images/44/441665643421452.jpg",
-      "https://img.olx.com.br/images/46/463644641599684.jpg",
-      "https://img.olx.com.br/images/47/472610402718931.jpg",
-      "https://img.olx.com.br/images/49/499664647327853.jpg",
-      "https://img.olx.com.br/images/51/519632769119149.jpg"
-    ],
-    "id": "1502900594",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-desbloqueado-via-software-256gb-1502900594",
-    "preco": 1897,
-    "precoRaw": "R$ 1.897",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Desbloqueado via software 256gb",
     "ts": 1779279949
   }
 ]
