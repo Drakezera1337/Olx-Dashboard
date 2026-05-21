@@ -1,21 +1,40 @@
 [
   {
-    "id": "1494810194",
-    "titulo": "Borderlands 3",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "outros",
+    "id": "1503866031",
+    "titulo": "Red Dead Redemption 2 - PS4",
+    "preco": 95,
+    "precoRaw": "R$ 95",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "09:14",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde agosto de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/borderlands-3-1494810194",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/red-dead-redemption-2-ps4-1503866031",
+    "fotoUrl": "https://img.olx.com.br/images/34/348611766299307.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/348611766299307.jpg",
+      "https://img.olx.com.br/images/36/363620765471502.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779365682
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:14",
     "fotoUrl": "https://img.olx.com.br/images/67/672610754451352.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/672610754451352.jpg",
       "https://img.olx.com.br/images/67/678617270082953.jpg"
     ],
-    "defeito": false,
+    "id": "1494810194",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/borderlands-3-1494810194",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Borderlands 3",
     "ts": 1779365672
   },
   {
@@ -9898,29 +9917,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 14/ 256gb",
-    "ts": 1779307617
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:06",
-    "fotoUrl": "https://img.olx.com.br/images/16/160611643929801.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/160611643929801.jpg",
-      "https://img.olx.com.br/images/18/187638289993986.jpg",
-      "https://img.olx.com.br/images/19/196666888525138.jpg",
-      "https://img.olx.com.br/images/21/216624644274878.jpg",
-      "https://img.olx.com.br/images/23/231619768855317.jpg",
-      "https://img.olx.com.br/images/70/700682645449845.jpg"
-    ],
-    "id": "1503468431",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1503468431",
-    "preco": 1950,
-    "precoRaw": "R$ 1.950",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 13",
     "ts": 1779307617
   }
 ]
