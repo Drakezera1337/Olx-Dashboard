@@ -1,20 +1,41 @@
 [
   {
-    "id": "1503937731",
-    "titulo": "JOGOS DE PS4 ORIGINAIS ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps4",
+    "id": "1503939181",
+    "titulo": "PS5 com defeito",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:14",
-    "tempoOlx": "Na OLX desde setembro de 2014",
+    "detectado": "13:18",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-de-ps4-originais-1503937731",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/ps5-com-defeito-1503939181",
+    "fotoUrl": "https://img.olx.com.br/images/55/559651287394832.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/559651287394832.jpg",
+      "https://img.olx.com.br/images/56/561655169221483.jpg",
+      "https://img.olx.com.br/images/57/573682406109830.jpg",
+      "https://img.olx.com.br/images/58/586689641560469.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779380303
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:14",
     "fotoUrl": "https://img.olx.com.br/images/52/528673763183799.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/528673763183799.jpg"
     ],
-    "defeito": false,
+    "id": "1503937731",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-de-ps4-originais-1503937731",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "JOGOS DE PS4 ORIGINAIS ",
     "ts": 1779380050
   },
   {
@@ -9874,23 +9895,5 @@
     "tempoOlx": "Na OLX desde julho de 2022",
     "titulo": "Haaland ",
     "ts": 1779324603
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:49",
-    "fotoUrl": "https://img.olx.com.br/images/61/612619648429976.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/612619648429976.jpg"
-    ],
-    "id": "1503788449",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-para-playstation-3-4-e-5-1503788449",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "Jogos para PlayStation (3,4 e 5) ",
-    "ts": 1779324596
   }
 ]
