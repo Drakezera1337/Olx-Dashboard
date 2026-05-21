@@ -1,22 +1,40 @@
 [
   {
-    "id": "1503949281",
-    "titulo": "Vende-se PS4 Slim",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1503950523",
+    "titulo": "Jogos Ps4 originais",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:58",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "14:00",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/vende-se-ps4-slim-1503949281",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-ps4-originais-1503950523",
+    "fotoUrl": "https://img.olx.com.br/images/84/842640647452495.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/842640647452495.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779382825
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:58",
     "fotoUrl": "https://img.olx.com.br/images/56/567637041941877.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/567637041941877.jpg",
       "https://img.olx.com.br/images/57/570635762066630.jpg",
       "https://img.olx.com.br/images/59/595651766868283.jpg"
     ],
-    "defeito": false,
+    "id": "1503949281",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/vende-se-ps4-slim-1503949281",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Vende-se PS4 Slim",
     "ts": 1779382734
   },
   {
@@ -9865,25 +9883,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2022",
     "titulo": "Horizon Zero Dawn",
     "ts": 1779327724
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:41",
-    "fotoUrl": "https://img.olx.com.br/images/40/405693526875813.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/405693526875813.jpg",
-      "https://img.olx.com.br/images/47/478696407872604.jpg",
-      "https://img.olx.com.br/images/51/511604284353557.jpg"
-    ],
-    "id": "1503799531",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-ps4-ps5-1503799531",
-    "preco": 132,
-    "precoRaw": "R$ 132",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "Call of duty ps4 ps5",
-    "ts": 1779327717
   }
 ]
