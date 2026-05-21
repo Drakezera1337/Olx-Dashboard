@@ -1,20 +1,43 @@
 [
   {
-    "id": "1503990850",
-    "titulo": "PS4",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
+    "id": "1503990120",
+    "titulo": "Playstation 4 Sony 1T 2 controles 1 jogo",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "16:24",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/ps4-1503990850",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-sony-1t-2-controles-1-jogo-1503990120",
+    "fotoUrl": "https://img.olx.com.br/images/27/276642281406501.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/276642281406501.jpg",
+      "https://img.olx.com.br/images/27/276611527124212.jpg",
+      "https://img.olx.com.br/images/27/274610400256804.jpg",
+      "https://img.olx.com.br/images/27/274674164547342.jpg",
+      "https://img.olx.com.br/images/28/280627401402228.jpg",
+      "https://img.olx.com.br/images/27/271653401092912.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779391458
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:24",
     "fotoUrl": "https://img.olx.com.br/images/32/321671646534596.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/321671646534596.jpg"
     ],
-    "defeito": false,
+    "id": "1503990850",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/ps4-1503990850",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4",
     "ts": 1779391449
   },
   {
@@ -9839,26 +9862,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Jogo Resident EVIL 5 para PS4 com Caixa de Papelão e Pôster.",
     "ts": 1779362499
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:21",
-    "fotoUrl": "https://img.olx.com.br/images/86/861647271077796.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/861647271077796.jpg",
-      "https://img.olx.com.br/images/87/873624631746740.jpg",
-      "https://img.olx.com.br/images/88/884604155254360.jpg",
-      "https://img.olx.com.br/images/89/891672750145730.jpg"
-    ],
-    "id": "1495537804",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-resident-evil-revelations-2-para-ps4-1495537804",
-    "preco": 149,
-    "precoRaw": "R$ 149",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Jogo Resident Evil Revelations 2 para PS4",
-    "ts": 1779362491
   }
 ]
