@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504020405",
-    "titulo": "Playstation 4 FAT 500gb + 3 Jogos",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1504020916",
+    "titulo": "Playstation 4 Slim 1TB + 3 Jogos",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:21",
+    "detectado": "18:27",
     "tempoOlx": "Na OLX desde dezembro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-fat-500gb-3-jogos-1504020405",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-3-jogos-1504020916",
+    "fotoUrl": "https://img.olx.com.br/images/34/343625765373613.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/343625765373613.jpg",
+      "https://img.olx.com.br/images/35/356643881069442.jpg",
+      "https://img.olx.com.br/images/36/363698643764581.jpg",
+      "https://img.olx.com.br/images/37/378630523565863.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779398846
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:21",
     "fotoUrl": "https://img.olx.com.br/images/74/742664523229310.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/742664523229310.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/77/774658406969203.jpg",
       "https://img.olx.com.br/images/78/785645881204454.jpg"
     ],
-    "defeito": false,
+    "id": "1504020405",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-fat-500gb-3-jogos-1504020405",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Playstation 4 FAT 500gb + 3 Jogos",
     "ts": 1779398487
   },
   {
@@ -9825,25 +9846,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PSP Portátil Gamer Emulador",
-    "ts": 1779362889
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:28",
-    "fotoUrl": "https://img.olx.com.br/images/33/331666160856775.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/331666160856775.jpg",
-      "https://img.olx.com.br/images/33/337618766898332.jpg"
-    ],
-    "id": "1502609856",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/video-game-portatil-10000-jogos-retro-tipo-p-s-eony-6-5-1502609856",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vídeo Game Portátil 10000 Jogos Retrô Tipo P-s.eony 6.5",
     "ts": 1779362889
   }
 ]
