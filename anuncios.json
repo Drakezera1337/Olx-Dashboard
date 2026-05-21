@@ -1,22 +1,40 @@
 [
   {
-    "id": "1504042261",
-    "titulo": "PS 4 ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "outros",
+    "id": "1504043400",
+    "titulo": "switch",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "20:10",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "20:13",
+    "tempoOlx": "Na OLX desde março de 2023",
     "descricao": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/ps-4-1504042261",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/switch-1504043400",
+    "fotoUrl": "https://img.olx.com.br/images/28/280676285438918.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/280676285438918.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779405202
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:10",
     "fotoUrl": "https://img.olx.com.br/images/30/306693765869384.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/306693765869384.jpg",
       "https://img.olx.com.br/images/32/324644641820742.jpg",
       "https://img.olx.com.br/images/33/332668041729579.jpg"
     ],
-    "defeito": false,
+    "id": "1504042261",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/ps-4-1504042261",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "PS 4 ",
     "ts": 1779405051
   },
   {
@@ -9796,23 +9814,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Ps4 ",
     "ts": 1779366317
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/98/980531569508113.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/980531569508113.jpg"
-    ],
-    "id": "1436704477",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/spyro-trilogy-ps4-ps5-lacrado-1436704477",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Spyro Trilogy - PS4 / PS5 - Lacrado",
-    "ts": 1779366309
   }
 ]
