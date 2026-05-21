@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503946311",
-    "titulo": "Horizon Zero Dawn Especial Edtion. ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "jogos",
+    "id": "1503946008",
+    "titulo": "Death Strading Especial Edtion. ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:48",
     "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-especial-edtion-1503946311",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/death-strading-especial-edtion-1503946008",
+    "fotoUrl": "https://img.olx.com.br/images/58/584614047930872.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/584614047930872.jpg",
+      "https://img.olx.com.br/images/60/605690286693969.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779382139
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:48",
     "fotoUrl": "https://img.olx.com.br/images/56/563611763688145.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/563611763688145.jpg"
     ],
-    "defeito": false,
+    "id": "1503946311",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-especial-edtion-1503946311",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2015",
+    "titulo": "Horizon Zero Dawn Especial Edtion. ",
     "ts": 1779382131
   },
   {
@@ -9873,24 +9892,5 @@
     "tempoOlx": "Na OLX desde outubro de 2020",
     "titulo": "PS4 slim 1TB",
     "ts": 1779326285
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:17",
-    "fotoUrl": "https://img.olx.com.br/images/81/816684649116899.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/816684649116899.jpg",
-      "https://img.olx.com.br/images/83/838667281767492.jpg"
-    ],
-    "id": "1503795486",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-os-us-ps4-remasterizado-1503795486",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "The last os us ps4 remasterizado ",
-    "ts": 1779326274
   }
 ]
