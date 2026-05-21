@@ -1,15 +1,29 @@
 [
   {
-    "id": "1472146421",
-    "titulo": "PlayStation 4 Slim ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1504042261",
+    "titulo": "PS 4 ",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:10",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/playstation-4-slim-1472146421",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/ps-4-1504042261",
+    "fotoUrl": "https://img.olx.com.br/images/30/306693765869384.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/306693765869384.jpg",
+      "https://img.olx.com.br/images/32/324644641820742.jpg",
+      "https://img.olx.com.br/images/33/332668041729579.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779405051
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:10",
     "fotoUrl": "https://img.olx.com.br/images/98/987637125128120.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/987637125128120.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/16/163634725002393.jpg",
       "https://img.olx.com.br/images/18/184670247863030.jpg"
     ],
-    "defeito": false,
+    "id": "1472146421",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/playstation-4-slim-1472146421",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "PlayStation 4 Slim ",
     "ts": 1779405042
   },
   {
@@ -9794,23 +9814,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Spyro Trilogy - PS4 / PS5 - Lacrado",
     "ts": 1779366309
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/17/173523326228162.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/173523326228162.jpg"
-    ],
-    "id": "1437058909",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/call-of-duty-ww-ii-ps4-ps5-leia-o-anuncio-1437058909",
-    "preco": 165,
-    "precoRaw": "R$ 165",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Call Of Duty WW II - PS4 / PS5 - Leia o anúncio ",
-    "ts": 1779366301
   }
 ]
