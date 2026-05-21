@@ -1,15 +1,31 @@
 [
   {
-    "id": "1503888813",
-    "titulo": "iPhone XR 128 GB",
-    "preco": 850,
-    "precoRaw": "R$ 850",
+    "id": "1503889837",
+    "titulo": "iPhone 11 128gb ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
     "categoria": "iphone",
     "publicado": "",
-    "detectado": "10:39",
-    "tempoOlx": "Na OLX desde março de 2025",
+    "detectado": "10:40",
+    "tempoOlx": "Na OLX desde outubro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-128-gb-1503888813",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-1503889837",
+    "fotoUrl": "https://img.olx.com.br/images/44/449606168619030.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/449606168619030.jpg",
+      "https://img.olx.com.br/images/46/463617166259826.jpg",
+      "https://img.olx.com.br/images/47/478624522489352.jpg",
+      "https://img.olx.com.br/images/49/499623166242035.jpg",
+      "https://img.olx.com.br/images/50/505672641567007.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779370859
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:39",
     "fotoUrl": "https://img.olx.com.br/images/90/901610888758745.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/901610888758745.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/94/944604881043526.jpg",
       "https://img.olx.com.br/images/95/955686767993872.jpg"
     ],
-    "defeito": false,
+    "id": "1503888813",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-128-gb-1503888813",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2025",
+    "titulo": "iPhone XR 128 GB",
     "ts": 1779370747
   },
   {
@@ -9902,25 +9924,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Lote jogos de PS4",
     "ts": 1779313215
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:40",
-    "fotoUrl": "https://img.olx.com.br/images/12/125671523036715.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/125671523036715.jpg",
-      "https://img.olx.com.br/images/14/145625404204742.jpg",
-      "https://img.olx.com.br/images/15/151658402042638.jpg"
-    ],
-    "id": "1503745157",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-slim-1tb-novissimo-1503745157",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Playstation 4 Slim 1TB (NOVÍSSIMO)",
-    "ts": 1779313208
   }
 ]
