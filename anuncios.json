@@ -1,15 +1,30 @@
 [
   {
-    "id": "1503926415",
-    "titulo": "Ps4 slim",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1477869661",
+    "titulo": "Jogo Cyberpunk 2077 PS4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:36",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "tempoOlx": "Na OLX desde julho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-1503926415",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-cyberpunk-2077-ps4-1477869661",
+    "fotoUrl": "https://img.olx.com.br/images/19/193640732602535.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/193640732602535.jpg",
+      "https://img.olx.com.br/images/21/214614252024684.jpg",
+      "https://img.olx.com.br/images/22/225600616911539.jpg",
+      "https://img.olx.com.br/images/24/240676255050980.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779377793
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:36",
     "fotoUrl": "https://img.olx.com.br/images/27/272622767299376.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/272622767299376.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/30/304632162166197.jpg",
       "https://img.olx.com.br/images/32/328651760361859.jpg"
     ],
-    "defeito": false,
+    "id": "1503926415",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-1503926415",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "Ps4 slim",
     "ts": 1779377783
   },
   {
@@ -9901,24 +9922,5 @@
     "tempoOlx": "Na OLX desde abril de 2017",
     "titulo": "Nioh 2 ps4 Mídia Física",
     "ts": 1779321032
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:50",
-    "fotoUrl": "https://img.olx.com.br/images/37/376615883688231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/376615883688231.jpg",
-      "https://img.olx.com.br/images/38/386605881214724.jpg"
-    ],
-    "id": "1503774564",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/ps4-slim-1503774564",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "ps4 slim ",
-    "ts": 1779321024
   }
 ]
