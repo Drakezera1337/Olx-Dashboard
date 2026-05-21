@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504046447",
-    "titulo": "Xbox series S",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1504047211",
+    "titulo": "Overwatvh Origins Edition PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:27",
-    "tempoOlx": "Na OLX desde outubro de 2022",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1504046447",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/overwatvh-origins-edition-ps4-1504047211",
+    "fotoUrl": "https://img.olx.com.br/images/75/753663283636457.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/753663283636457.jpg",
+      "https://img.olx.com.br/images/76/763691889195143.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779406058
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:27",
     "fotoUrl": "https://img.olx.com.br/images/71/719657403353252.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/719657403353252.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/74/747646523411453.jpg",
       "https://img.olx.com.br/images/76/767666647191217.jpg"
     ],
-    "defeito": false,
+    "id": "1504046447",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1504046447",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "Xbox series S",
     "ts": 1779406047
   },
   {
@@ -9830,23 +9849,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Spider-Man - PS4 / PS5 - Lacrado",
     "ts": 1779366718
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:31",
-    "fotoUrl": "https://img.olx.com.br/images/46/466699246506275.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/466699246506275.jpg"
-    ],
-    "id": "1469635038",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/carros-3-ps4-ps5-leia-o-anuncio-1469635038",
-    "preco": 129,
-    "precoRaw": "R$ 129",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Carros 3 - PS4 / PS5 - Leia o anúncio ",
-    "ts": 1779366711
   }
 ]
