@@ -1,15 +1,30 @@
 [
   {
-    "id": "1495707387",
-    "titulo": "Video game ",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "outros",
+    "id": "1502278337",
+    "titulo": "Iphone 12 -   128 GB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "10:10",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "detectado": "10:11",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/video-game-1495707387",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12--128-gb-1502278337",
+    "fotoUrl": "https://img.olx.com.br/images/16/161640042141948.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/161640042141948.jpg",
+      "https://img.olx.com.br/images/17/179627642030954.jpg",
+      "https://img.olx.com.br/images/17/179637640586440.jpg",
+      "https://img.olx.com.br/images/18/185687521118308.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779369083
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:10",
     "fotoUrl": "https://img.olx.com.br/images/10/106641277139858.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/106641277139858.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/10/103603396321602.jpg",
       "https://img.olx.com.br/images/10/100677515769049.jpg"
     ],
-    "defeito": false,
+    "id": "1495707387",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/video-game-1495707387",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "Video game ",
     "ts": 1779369057
   },
   {
@@ -9893,25 +9914,5 @@
     "tempoOlx": "Na OLX desde junho de 2018",
     "titulo": "GHOST OF TSUSHIMA VERSÃO DO DIRETOR (PS4)",
     "ts": 1779311435
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:10",
-    "fotoUrl": "https://img.olx.com.br/images/38/380662514951170.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/380662514951170.jpg",
-      "https://img.olx.com.br/images/39/397620159157213.jpg",
-      "https://img.olx.com.br/images/41/413656391519212.jpg"
-    ],
-    "id": "1494456489",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-remastered-complete-edition-1494456489",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2018",
-    "titulo": "HORIZON ZERO DAWN REMASTERED COMPLETE EDITION",
-    "ts": 1779311425
   }
 ]
