@@ -1,21 +1,42 @@
 [
   {
-    "id": "1504023386",
-    "titulo": "Jogos PlayStation ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "outros",
+    "id": "1504024248",
+    "titulo": "Ps4 slim ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:40",
-    "tempoOlx": "Na OLX desde julho de 2013",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-playstation-1504023386",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/ps4-slim-1504024248",
+    "fotoUrl": "https://img.olx.com.br/images/17/176692287441046.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/176692287441046.jpg",
+      "https://img.olx.com.br/images/20/206690166548492.jpg",
+      "https://img.olx.com.br/images/23/233622880895694.jpg",
+      "https://img.olx.com.br/images/26/261605642471622.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779399656
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:40",
     "fotoUrl": "https://img.olx.com.br/images/39/395627040788308.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/395627040788308.jpg",
       "https://img.olx.com.br/images/40/401622644571154.jpg"
     ],
-    "defeito": false,
+    "id": "1504023386",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-playstation-1504023386",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2013",
+    "titulo": "Jogos PlayStation ",
     "ts": 1779399631
   },
   {
@@ -9820,26 +9841,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Transformers Devastation PS4",
-    "ts": 1779362941
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:29",
-    "fotoUrl": "https://img.olx.com.br/images/22/223670765093137.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/223670765093137.jpg",
-      "https://img.olx.com.br/images/23/231682162758553.jpg",
-      "https://img.olx.com.br/images/24/248639168713327.jpg"
-    ],
-    "id": "1503800804",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/destiny-1503800804",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Destiny",
     "ts": 1779362941
   }
 ]
