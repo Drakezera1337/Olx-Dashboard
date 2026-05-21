@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504024459",
-    "titulo": "Kit Controles Nyxi Wizard e Case Nyxi",
-    "preco": 680,
-    "precoRaw": "R$ 680",
-    "categoria": "outros",
+    "id": "1504024552",
+    "titulo": "Playstation 5 slim",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:41",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "18:43",
+    "tempoOlx": "Na OLX desde novembro de 2014",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/kit-controles-nyxi-wizard-e-case-nyxi-1504024459",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-slim-1504024552",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1779399831
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:41",
     "fotoUrl": "https://img.olx.com.br/images/52/522611167135924.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/522611167135924.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/53/533695761451492.jpg",
       "https://img.olx.com.br/images/53/533676163056197.jpg"
     ],
-    "defeito": false,
+    "id": "1504024459",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/kit-controles-nyxi-wizard-e-case-nyxi-1504024459",
+    "preco": 680,
+    "precoRaw": "R$ 680",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Kit Controles Nyxi Wizard e Case Nyxi",
     "ts": 1779399715
   },
   {
@@ -9828,24 +9846,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Uncharted: The Lost Legacy - PS4",
-    "ts": 1779362941
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:29",
-    "fotoUrl": "https://img.olx.com.br/images/81/819535019078987.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/819535019078987.jpg"
-    ],
-    "id": "1382689999",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/evolve-ps4-jogo-completo-1382689999",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Evolve PS4 - Jogo Completo",
     "ts": 1779362941
   }
 ]
