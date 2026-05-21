@@ -1,20 +1,41 @@
 [
   {
-    "id": "1503932509",
-    "titulo": "Lote reservado ",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "outros",
+    "id": "1503934153",
+    "titulo": "PS5 MÍDIA DIGITAL",
+    "preco": 2550,
+    "precoRaw": "R$ 2.550",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "12:56",
-    "tempoOlx": "Na OLX desde abril de 2018",
+    "detectado": "13:00",
+    "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/jogos-de-video-game/lote-reservado-1503932509",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps5-midia-digital-1503934153",
+    "fotoUrl": "https://img.olx.com.br/images/45/455609169642502.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/455609169642502.jpg",
+      "https://img.olx.com.br/images/47/477670643701657.jpg",
+      "https://img.olx.com.br/images/50/500667528307690.jpg",
+      "https://img.olx.com.br/images/51/514696284190269.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779379223
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:56",
     "fotoUrl": "https://img.olx.com.br/images/35/357670641093051.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/357670641093051.jpg"
     ],
-    "defeito": false,
+    "id": "1503932509",
+    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/jogos-de-video-game/lote-reservado-1503932509",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2018",
+    "titulo": "Lote reservado ",
     "ts": 1779379009
   },
   {
@@ -9888,27 +9909,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "PES 2020 em Português - Mídia Física Original PS4 - Perfeito Estado",
     "ts": 1779322458
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:14",
-    "fotoUrl": "https://img.olx.com.br/images/25/254693402300119.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/254693402300119.jpg",
-      "https://img.olx.com.br/images/27/275667769527158.jpg",
-      "https://img.olx.com.br/images/29/299659406128341.jpg",
-      "https://img.olx.com.br/images/30/302671769954701.jpg",
-      "https://img.olx.com.br/images/32/328661404371697.jpg"
-    ],
-    "id": "1503778846",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-playstation-4-slim-500gb-1503778846",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "PS4 - PlayStation 4 SLIM 500gb",
-    "ts": 1779322450
   }
 ]
