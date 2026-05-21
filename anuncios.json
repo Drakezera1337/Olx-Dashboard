@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503970796",
-    "titulo": "PS4 - The Elder Scrolls - Online",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "ps4",
+    "id": "1503944071",
+    "titulo": "Uncharted 4 Especial Edtion!",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "15:12",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/ps4-the-elder-scrolls-online-1503970796",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-4-especial-edtion-1503944071",
+    "fotoUrl": "https://img.olx.com.br/images/35/359693645451784.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/359693645451784.jpg",
+      "https://img.olx.com.br/images/40/400621280917082.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779387151
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:12",
     "fotoUrl": "https://img.olx.com.br/images/74/742692529236728.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/742692529236728.jpg",
       "https://img.olx.com.br/images/74/744614161308922.jpg",
       "https://img.olx.com.br/images/11/112657767549307.jpg"
     ],
-    "defeito": false,
+    "id": "1503970796",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/ps4-the-elder-scrolls-online-1503970796",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "PS4 - The Elder Scrolls - Online",
     "ts": 1779387143
   },
   {
@@ -9869,23 +9888,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2026",
     "titulo": "Playstation 4 usado",
     "ts": 1779332632
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:03",
-    "fotoUrl": "https://img.olx.com.br/images/24/247669769759981.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/247669769759981.jpg"
-    ],
-    "id": "1503811968",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/mortal-kombat-11-ps4-midia-fisica-usado-1503811968",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Mortal Kombat 11 ps4 midia fisica usado",
-    "ts": 1779332588
   }
 ]
