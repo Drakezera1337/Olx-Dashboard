@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503875402",
-    "titulo": "PlayStation 4",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
+    "id": "1503875122",
+    "titulo": "The witcher 3 PS4",
+    "preco": 79,
+    "precoRaw": "R$ 79",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:50",
-    "tempoOlx": "Na OLX desde junho de 2013",
+    "tempoOlx": "Na OLX desde novembro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1503875402",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/the-witcher-3-ps4-1503875122",
+    "fotoUrl": "https://img.olx.com.br/images/93/937620644919038.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/937620644919038.jpg",
+      "https://img.olx.com.br/images/96/969691529567990.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779367815
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:50",
     "fotoUrl": "https://img.olx.com.br/images/43/433664169581412.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/433664169581412.jpg"
     ],
-    "defeito": false,
+    "id": "1503875402",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1503875402",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2013",
+    "titulo": "PlayStation 4",
     "ts": 1779367806
   },
   {
@@ -9907,23 +9926,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "titulo": "The  witcher wild hunt em perfeito estado",
     "ts": 1779308875
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:27",
-    "fotoUrl": "https://img.olx.com.br/images/16/161647525247058.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/161647525247058.jpg"
-    ],
-    "id": "1503725626",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-ps4-1503725626",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2019",
-    "titulo": "Jogo ps4",
-    "ts": 1779308842
   }
 ]
