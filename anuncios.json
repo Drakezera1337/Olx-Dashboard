@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503777244",
-    "titulo": "Lot de jogos de ps4",
-    "preco": 350,
-    "precoRaw": "R$ 350",
+    "id": "1503780078",
+    "titulo": "F1 2020 - Ps4",
+    "preco": 300,
+    "precoRaw": "R$ 300",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:07",
-    "tempoOlx": "Na OLX desde novembro de 2021",
+    "detectado": "21:13",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/lot-de-jogos-de-ps4-1503777244",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/f1-2020-ps4-1503780078",
+    "fotoUrl": "https://img.olx.com.br/images/86/861610048933747.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/861610048933747.jpg",
+      "https://img.olx.com.br/images/87/875602760860177.jpg",
+      "https://img.olx.com.br/images/91/915667885883547.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779322405
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:07",
     "fotoUrl": "https://img.olx.com.br/images/21/214641527140906.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/214641527140906.jpg",
       "https://img.olx.com.br/images/23/232681642298216.jpg"
     ],
-    "defeito": false,
+    "id": "1503777244",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/lot-de-jogos-de-ps4-1503777244",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2021",
+    "titulo": "Lot de jogos de ps4",
     "ts": 1779322077
   },
   {
@@ -9904,27 +9924,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Psp ",
-    "ts": 1779279871
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/40/409542892494516.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/409542892494516.jpg",
-      "https://img.olx.com.br/images/41/419597773070098.jpg",
-      "https://img.olx.com.br/images/43/438502650538496.jpg",
-      "https://img.olx.com.br/images/45/453525655011839.jpg"
-    ],
-    "id": "1415448111",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/lego-batman-2-dc-super-heroes-ps-vita-1415448111",
-    "preco": 85,
-    "precoRaw": "R$ 85",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Lego Batman 2: DC Super Heroes - PS Vita",
     "ts": 1779279871
   }
 ]
