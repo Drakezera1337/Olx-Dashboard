@@ -1,22 +1,43 @@
 [
   {
-    "id": "1503789472",
-    "titulo": "Playstation Portal",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "outros",
+    "id": "1501100359",
+    "titulo": "Nintendo switch v2 ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "21:53",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "detectado": "21:55",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-portal-1503789472",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/nintendo-switch-v2-1501100359",
+    "fotoUrl": "https://img.olx.com.br/images/25/250621763895017.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/250621763895017.jpg",
+      "https://img.olx.com.br/images/26/261647284419358.jpg",
+      "https://img.olx.com.br/images/27/276677524318860.jpg",
+      "https://img.olx.com.br/images/28/281628167943614.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779324954
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:53",
     "fotoUrl": "https://img.olx.com.br/images/66/663686164438872.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/663686164438872.jpg",
       "https://img.olx.com.br/images/66/668639769314065.jpg",
       "https://img.olx.com.br/images/66/666665402267012.jpg"
     ],
-    "defeito": false,
+    "id": "1503789472",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-portal-1503789472",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "Playstation Portal",
     "ts": 1779324804
   },
   {
@@ -9909,25 +9930,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "EA FC 26 all digiital ps4",
-    "ts": 1779279935
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/10/106645122537304.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/106645122537304.jpg",
-      "https://img.olx.com.br/images/12/121608604761967.jpg"
-    ],
-    "id": "1467461309",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-ps4-midia-fisica-redout-1467461309",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo PS4 Mídia Física Redout ",
     "ts": 1779279935
   }
 ]
