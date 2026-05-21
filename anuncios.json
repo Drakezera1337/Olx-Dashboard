@@ -1,22 +1,41 @@
 [
   {
-    "id": "1494808535",
-    "titulo": "Resident Evil 2 Remake",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1494810194",
+    "titulo": "Borderlands 3",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "09:14",
     "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-2-remake-1494808535",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/borderlands-3-1494810194",
+    "fotoUrl": "https://img.olx.com.br/images/67/672610754451352.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/672610754451352.jpg",
+      "https://img.olx.com.br/images/67/678617270082953.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779365672
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:14",
     "fotoUrl": "https://img.olx.com.br/images/53/535658394725314.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/535658394725314.jpg",
       "https://img.olx.com.br/images/53/530639394091373.jpg",
       "https://img.olx.com.br/images/53/534667510646037.jpg"
     ],
-    "defeito": false,
+    "id": "1494808535",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-2-remake-1494808535",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Resident Evil 2 Remake",
     "ts": 1779365664
   },
   {
@@ -9902,29 +9921,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 13",
-    "ts": 1779307617
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:06",
-    "fotoUrl": "https://img.olx.com.br/images/76/760675523163600.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/760675523163600.jpg",
-      "https://img.olx.com.br/images/77/770611405980222.jpg",
-      "https://img.olx.com.br/images/78/782645761765113.jpg",
-      "https://img.olx.com.br/images/79/798623643371406.jpg",
-      "https://img.olx.com.br/images/80/807669044574132.jpg",
-      "https://img.olx.com.br/images/81/810634286694958.jpg"
-    ],
-    "id": "1503461947",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-seminovo-1503461947",
-    "preco": 4300,
-    "precoRaw": "R$ 4.300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 15 Pro Max 256gb - Seminovo",
     "ts": 1779307617
   }
 ]
