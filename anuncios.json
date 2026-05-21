@@ -1,21 +1,43 @@
 [
   {
-    "id": "1472163003",
-    "titulo": "PlayStation 4 slim",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1472146421",
+    "titulo": "PlayStation 4 Slim ",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:10",
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/playstation-4-slim-1472163003",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/playstation-4-slim-1472146421",
+    "fotoUrl": "https://img.olx.com.br/images/98/987637125128120.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/987637125128120.jpg",
+      "https://img.olx.com.br/images/11/117636722200331.jpg",
+      "https://img.olx.com.br/images/15/150643722968663.jpg",
+      "https://img.olx.com.br/images/16/163634725002393.jpg",
+      "https://img.olx.com.br/images/18/184670247863030.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779405042
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:10",
     "fotoUrl": "https://img.olx.com.br/images/12/129660725759798.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/129660725759798.jpg",
       "https://img.olx.com.br/images/13/138607848166498.jpg"
     ],
-    "defeito": false,
+    "id": "1472163003",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/playstation-4-slim-1472163003",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "PlayStation 4 slim",
     "ts": 1779405032
   },
   {
@@ -9790,24 +9812,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Call Of Duty WW II - PS4 / PS5 - Leia o anúncio ",
     "ts": 1779366301
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/65/651517560706823.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/651517560706823.jpg",
-      "https://img.olx.com.br/images/66/661527204238483.jpg"
-    ],
-    "id": "1436715860",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/mafia-trilogy-ps4-ps5-lacrado-1436715860",
-    "preco": 299,
-    "precoRaw": "R$ 299",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Máfia Trilogy - PS4 / PS5 - Lacrado ",
-    "ts": 1779366294
   }
 ]
