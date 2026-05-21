@@ -1,21 +1,44 @@
 [
   {
-    "id": "1503778040",
-    "titulo": "Playstation 4 + 2 controles",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1503215514",
+    "titulo": "Playstation 4 (Ps4 Slim)",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "08:18",
-    "tempoOlx": "Na OLX desde novembro de 2017",
+    "tempoOlx": "Na OLX desde março de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-2-controles-1503778040",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-ps4-slim-1503215514",
+    "fotoUrl": "https://img.olx.com.br/images/50/500678160690138.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/500678160690138.jpg",
+      "https://img.olx.com.br/images/51/518611407768541.jpg",
+      "https://img.olx.com.br/images/53/539638280250742.jpg",
+      "https://img.olx.com.br/images/54/542616643526458.jpg",
+      "https://img.olx.com.br/images/56/561693162432312.jpg",
+      "https://img.olx.com.br/images/57/576660165806871.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779362337
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:18",
     "fotoUrl": "https://img.olx.com.br/images/64/649666408021585.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/649666408021585.jpg",
       "https://img.olx.com.br/images/65/655685049166039.jpg"
     ],
-    "defeito": false,
+    "id": "1503778040",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-2-controles-1503778040",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2017",
+    "titulo": "Playstation 4 + 2 controles",
     "ts": 1779362328
   },
   {
@@ -9818,25 +9841,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "Jogo PS4 Immortals Fenyx Rising ",
     "ts": 1779294773
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:32",
-    "fotoUrl": "https://img.olx.com.br/images/65/650639147964833.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/650639147964833.jpg",
-      "https://img.olx.com.br/images/59/590669260167796.jpg",
-      "https://img.olx.com.br/images/69/694627023798385.jpg"
-    ],
-    "id": "1486491394",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-overwatch-midia-fisica-atualizacao-para-o-2-gratis-1486491394",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Jogo PS4 Overwatch Mídia Física (atualização para o 2 grátis)",
-    "ts": 1779294763
   }
 ]
