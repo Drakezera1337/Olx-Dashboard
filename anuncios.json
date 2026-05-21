@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503942858",
-    "titulo": "Ps5",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1503942578",
+    "titulo": "The last of us 2 novo",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "13:32",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-1503942858",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/the-last-of-us-2-novo-1503942578",
+    "fotoUrl": "https://img.olx.com.br/images/91/911664648714007.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/911664648714007.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779381150
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:32",
     "fotoUrl": "https://img.olx.com.br/images/98/988672406673782.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/988672406673782.jpg"
     ],
-    "defeito": false,
+    "id": "1503942858",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-1503942858",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Ps5",
     "ts": 1779381142
   },
   {
@@ -9868,28 +9886,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "The Witcher 3: Edição Completa",
     "ts": 1779325365
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:02",
-    "fotoUrl": "https://img.olx.com.br/images/26/268659169269662.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/268659169269662.jpg",
-      "https://img.olx.com.br/images/27/275633280637523.jpg",
-      "https://img.olx.com.br/images/28/284692162833150.jpg",
-      "https://img.olx.com.br/images/29/295687882925351.jpg",
-      "https://img.olx.com.br/images/31/312697765896172.jpg",
-      "https://img.olx.com.br/images/33/335617527413578.jpg"
-    ],
-    "id": "1503791174",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/playstation-4-dragon-quest-cib-1503791174",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "PlayStation 4 Dragon Quest CIB ",
-    "ts": 1779325356
   }
 ]
