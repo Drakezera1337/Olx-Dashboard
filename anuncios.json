@@ -1,22 +1,44 @@
 [
   {
-    "id": "1503900212",
-    "titulo": "Vendo Playstation 5 semi novo ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1503900529",
+    "titulo": "PS4 Slim",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:15",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "detectado": "11:17",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/vendo-playstation-5-semi-novo-1503900212",
+    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/ps4-slim-1503900529",
+    "fotoUrl": "https://img.olx.com.br/images/65/653641161246529.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/653641161246529.jpg",
+      "https://img.olx.com.br/images/66/665643165377294.jpg",
+      "https://img.olx.com.br/images/68/689654167335569.jpg",
+      "https://img.olx.com.br/images/69/699650167194026.jpg",
+      "https://img.olx.com.br/images/70/708690163933740.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779373020
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:15",
     "fotoUrl": "https://img.olx.com.br/images/82/829659889974305.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/829659889974305.jpg",
       "https://img.olx.com.br/images/84/842618769046260.jpg",
       "https://img.olx.com.br/images/85/852637281974518.jpg"
     ],
-    "defeito": false,
+    "id": "1503900212",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/vendo-playstation-5-semi-novo-1503900212",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Vendo Playstation 5 semi novo ",
     "ts": 1779372935
   },
   {
@@ -9907,25 +9929,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "The king of fhigters xiv para ps4",
     "ts": 1779314957
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:09",
-    "fotoUrl": "https://img.olx.com.br/images/79/799646168311762.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/799646168311762.jpg",
-      "https://img.olx.com.br/images/80/800697047850763.jpg",
-      "https://img.olx.com.br/images/82/828679401760063.jpg"
-    ],
-    "id": "1503750917",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-de-ps4-lego-dc-supervillains-1503750917",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Jogo de ps4 lego dc supervillains ",
-    "ts": 1779314950
   }
 ]
