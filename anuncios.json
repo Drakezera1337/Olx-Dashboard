@@ -1,21 +1,40 @@
 [
   {
-    "id": "1434664092",
-    "titulo": "Jojo Bizarre Adventure PS5",
-    "preco": 180,
-    "precoRaw": "R$ 180",
+    "id": "1434665293",
+    "titulo": "Crazy Chicken PS5",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "09:07",
     "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/jojo-bizarre-adventure-ps5-1434664092",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/crazy-chicken-ps5-1434665293",
+    "fotoUrl": "https://img.olx.com.br/images/62/625536688444781.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/625536688444781.jpg",
+      "https://img.olx.com.br/images/19/192547594267924.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779365256
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:07",
     "fotoUrl": "https://img.olx.com.br/images/80/803505328308193.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/803505328308193.jpg",
       "https://img.olx.com.br/images/69/692571831247776.jpg"
     ],
-    "defeito": false,
+    "id": "1434664092",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/jojo-bizarre-adventure-ps5-1434664092",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Jojo Bizarre Adventure PS5",
     "ts": 1779365249
   },
   {
@@ -9913,23 +9932,5 @@
     "tempoOlx": "",
     "titulo": "Playstation Portal Para Console Ps5 Cor Branco",
     "ts": 1779307615
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:06",
-    "fotoUrl": "https://img.olx.com.br/images/33/339669761909064.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/339669761909064.jpg"
-    ],
-    "id": "1503693235",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-ps4-1503693235",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogos PS4",
-    "ts": 1779307595
   }
 ]
