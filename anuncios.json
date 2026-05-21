@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503803874",
-    "titulo": "Crash ps4",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "ps4",
+    "id": "1503803629",
+    "titulo": "Vendo Battlefield 4 original",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "23:08",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/crash-ps4-1503803874",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-battlefield-4-original-1503803629",
+    "fotoUrl": "https://img.olx.com.br/images/87/872610529195625.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/872610529195625.jpg",
+      "https://img.olx.com.br/images/90/909670287142765.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779329311
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:08",
     "fotoUrl": "https://img.olx.com.br/images/13/133626769104960.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/133626769104960.jpg",
       "https://img.olx.com.br/images/14/148663407368172.jpg",
       "https://img.olx.com.br/images/16/167636047621642.jpg"
     ],
-    "defeito": false,
+    "id": "1503803874",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/crash-ps4-1503803874",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Crash ps4",
     "ts": 1779329298
   },
   {
@@ -9860,23 +9879,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation Portal com case - POUQUÍSSIMO USADO. ",
     "ts": 1779294382
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:26",
-    "fotoUrl": "https://img.olx.com.br/images/23/230524867747711.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/230524867747711.jpg"
-    ],
-    "id": "1387837589",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-e-xbox-troca-e-venda-a-partir-de-1099-00-1387837589",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation e Xbox - Troca e Venda - a partir de 1099,00",
-    "ts": 1779294380
   }
 ]
