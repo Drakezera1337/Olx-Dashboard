@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503948516",
-    "titulo": "Xbox Series S - 512gb",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503949281",
+    "titulo": "Vende-se PS4 Slim",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:55",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "detectado": "13:58",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-series-s-512gb-1503948516",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/vende-se-ps4-slim-1503949281",
+    "fotoUrl": "https://img.olx.com.br/images/56/567637041941877.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/567637041941877.jpg",
+      "https://img.olx.com.br/images/57/570635762066630.jpg",
+      "https://img.olx.com.br/images/59/595651766868283.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779382734
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:55",
     "fotoUrl": "https://img.olx.com.br/images/62/623670282811471.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/623670282811471.jpg",
       "https://img.olx.com.br/images/65/654609402900140.jpg"
     ],
-    "defeito": false,
+    "id": "1503948516",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/xbox-series-s-512gb-1503948516",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "titulo": "Xbox Series S - 512gb",
     "ts": 1779382554
   },
   {
@@ -9865,25 +9885,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "Call of duty ps4 ps5",
     "ts": 1779327717
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:39",
-    "fotoUrl": "https://img.olx.com.br/images/76/768664766721425.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/768664766721425.jpg",
-      "https://img.olx.com.br/images/77/777642167407085.jpg",
-      "https://img.olx.com.br/images/78/781611644350760.jpg"
-    ],
-    "id": "1503796752",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1503796752",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "Ps4",
-    "ts": 1779327593
   }
 ]
