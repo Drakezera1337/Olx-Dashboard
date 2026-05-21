@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503808809",
-    "titulo": "Play 4  1 tb",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "outros",
+    "id": "1503808192",
+    "titulo": "PlayStation 4 (500GB com 2 controles) ",
+    "preco": 1620,
+    "precoRaw": "R$ 1.620",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "23:44",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/play-4-1-tb-1503808809",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-500gb-com-2-controles-1503808192",
+    "fotoUrl": "https://img.olx.com.br/images/46/460656401109204.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/460656401109204.jpg",
+      "https://img.olx.com.br/images/45/452607403964257.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779331472
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:44",
     "fotoUrl": "https://img.olx.com.br/images/60/606687286070300.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/606687286070300.jpg"
     ],
-    "defeito": false,
+    "id": "1503808809",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/play-4-1-tb-1503808809",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Play 4  1 tb",
     "ts": 1779331464
   },
   {
@@ -9846,24 +9865,5 @@
     "tempoOlx": "Na OLX desde maio de 2016",
     "titulo": "PS4 SLIM 1TB",
     "ts": 1779294440
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:27",
-    "fotoUrl": "https://img.olx.com.br/images/68/683477232556488.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/683477232556488.jpg",
-      "https://img.olx.com.br/images/68/683400712452183.jpg"
-    ],
-    "id": "1359324109",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/tales-of-symphonia-remastered-ps4-novo-1359324109",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Tales of Symphonia Remastered PS4 - Novo",
-    "ts": 1779294431
   }
 ]
