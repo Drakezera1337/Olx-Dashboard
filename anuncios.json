@@ -1,15 +1,32 @@
 [
   {
-    "id": "1503930516",
-    "titulo": "Vídeo game",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "outros",
+    "id": "1503932577",
+    "titulo": "PS4 - Slim 500Gb",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:50",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "12:54",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/video-game-1503930516",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps4-slim-500gb-1503932577",
+    "fotoUrl": "https://img.olx.com.br/images/48/485654284658608.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/485654284658608.jpg",
+      "https://img.olx.com.br/images/50/503610403807869.jpg",
+      "https://img.olx.com.br/images/52/524684642752106.jpg",
+      "https://img.olx.com.br/images/54/540684521390635.jpg",
+      "https://img.olx.com.br/images/56/560623401843302.jpg",
+      "https://img.olx.com.br/images/59/594669641118892.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779378865
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:50",
     "fotoUrl": "https://img.olx.com.br/images/37/370626288462210.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/370626288462210.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/39/395658404769093.jpg",
       "https://img.olx.com.br/images/40/406684525410736.jpg"
     ],
-    "defeito": false,
+    "id": "1503930516",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/video-game-1503930516",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Vídeo game",
     "ts": 1779378640
   },
   {
@@ -9898,25 +9921,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "PlayStation 4 slim usado 800gb+3 jogos+1 controle original",
     "ts": 1779322414
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:13",
-    "fotoUrl": "https://img.olx.com.br/images/86/861610048933747.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/861610048933747.jpg",
-      "https://img.olx.com.br/images/87/875602760860177.jpg",
-      "https://img.olx.com.br/images/91/915667885883547.jpg"
-    ],
-    "id": "1503780078",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/f1-2020-ps4-1503780078",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2018",
-    "titulo": "F1 2020 - Ps4",
-    "ts": 1779322405
   }
 ]
