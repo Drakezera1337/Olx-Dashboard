@@ -1,15 +1,30 @@
 [
   {
-    "id": "1501763919",
-    "titulo": "iPhone 14 Pro Max 256 ",
-    "preco": 3700,
-    "precoRaw": "R$ 3.700",
-    "categoria": "iphone",
+    "id": "1503779762",
+    "titulo": "Console Gamer RS5 Retrô 4K + 2 Controles Sem Fio | Até 30.000 Jogos | HDMI",
+    "preco": 349,
+    "precoRaw": "R$ 349",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "21:14",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "detectado": "21:16",
+    "tempoOlx": "Na OLX desde junho de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-256-1501763919",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/console-gamer-rs5-retro-4k-2-controles-sem-fio-ate-30-000-jogos-hdmi-1503779762",
+    "fotoUrl": "https://img.olx.com.br/images/63/634675648850989.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/634675648850989.jpg",
+      "https://img.olx.com.br/images/64/644697041323229.jpg",
+      "https://img.olx.com.br/images/65/652622525590534.jpg",
+      "https://img.olx.com.br/images/66/668689405494928.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779322584
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:14",
     "fotoUrl": "https://img.olx.com.br/images/74/741637649436434.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/741637649436434.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/77/773622408050907.jpg",
       "https://img.olx.com.br/images/63/635650766179293.jpg"
     ],
-    "defeito": false,
+    "id": "1501763919",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-256-1501763919",
+    "preco": 3700,
+    "precoRaw": "R$ 3.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "iPhone 14 Pro Max 256 ",
     "ts": 1779322495
   },
   {
@@ -9908,28 +9929,5 @@
     "tempoOlx": "",
     "titulo": "?*VENDOO*?",
     "ts": 1779279906
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/13/138685047323821.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/138685047323821.jpg",
-      "https://img.olx.com.br/images/18/186653287697026.jpg",
-      "https://img.olx.com.br/images/19/192657648846367.jpg",
-      "https://img.olx.com.br/images/21/219603402199346.jpg",
-      "https://img.olx.com.br/images/23/238631646161684.jpg",
-      "https://img.olx.com.br/images/25/256683285925918.jpg"
-    ],
-    "id": "1495439939",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-1tb-estado-de-novo-1495439939",
-    "preco": 2700,
-    "precoRaw": "R$ 2.700",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS5 Slim 1TB - Estado de Novo! ",
-    "ts": 1779279893
   }
 ]
