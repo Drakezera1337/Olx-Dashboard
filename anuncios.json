@@ -1,20 +1,38 @@
 [
   {
-    "id": "1489041274",
-    "titulo": "XBOX - RTECHGAMES_",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "categoria": "xbox",
+    "id": "1503995460",
+    "titulo": "Jogos de PS4 (120$ cada)",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:27",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "detectado": "19:31",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-rtechgames-1489041274",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-de-ps4-120-cada-1503995460",
+    "fotoUrl": "https://img.olx.com.br/images/72/727690884374887.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/727690884374887.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779402683
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:27",
     "fotoUrl": "https://img.olx.com.br/images/11/110681867325164.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/110681867325164.jpg"
     ],
-    "defeito": false,
+    "id": "1489041274",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-rtechgames-1489041274",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "XBOX - RTECHGAMES_",
     "ts": 1779402471
   },
   {
@@ -9805,27 +9823,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "PS4 ORIGINAL ",
     "ts": 1779364763
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:56",
-    "fotoUrl": "https://img.olx.com.br/images/33/338673406566227.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/338673406566227.jpg",
-      "https://img.olx.com.br/images/34/346615161399054.jpg",
-      "https://img.olx.com.br/images/35/353633768697325.jpg",
-      "https://img.olx.com.br/images/37/377604281684074.jpg",
-      "https://img.olx.com.br/images/38/383694643120908.jpg"
-    ],
-    "id": "1503862635",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-500gb-slim-controle-jogos-1503862635",
-    "preco": 1149,
-    "precoRaw": "R$ 1.149",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "PS4 500GB SLIM + CONTROLE + JOGOS",
-    "ts": 1779364594
   }
 ]
