@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503968333",
-    "titulo": "Vendo jogo Batman Arkham knight",
-    "preco": 61,
-    "precoRaw": "R$ 61",
+    "id": "1485927627",
+    "titulo": "Jogo star wars o despertar da força LEGO",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "15:06",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "15:07",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/vendo-jogo-batman-arkham-knight-1503968333",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/jogo-star-wars-o-despertar-da-forca-lego-1485927627",
+    "fotoUrl": "https://img.olx.com.br/images/57/578676383490410.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/578676383490410.jpg",
+      "https://img.olx.com.br/images/59/596678500903421.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779386825
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:06",
     "fotoUrl": "https://img.olx.com.br/images/73/730631649972239.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/730631649972239.jpg",
       "https://img.olx.com.br/images/77/774683163839591.jpg",
       "https://img.olx.com.br/images/81/817609761928541.jpg"
     ],
-    "defeito": false,
+    "id": "1503968333",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/vendo-jogo-batman-arkham-knight-1503968333",
+    "preco": 61,
+    "precoRaw": "R$ 61",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Vendo jogo Batman Arkham knight",
     "ts": 1779386817
   },
   {
@@ -9866,23 +9885,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "Horizon Zero dawn Complete Edition Ps4 usado",
     "ts": 1779332580
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:02",
-    "fotoUrl": "https://img.olx.com.br/images/14/145616284979406.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/145616284979406.jpg"
-    ],
-    "id": "1503812430",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/final-fantasy-vii-remake-ps4-usado-1503812430",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Final Fantasy VII Remake Ps4 usado",
-    "ts": 1779332573
   }
 ]
