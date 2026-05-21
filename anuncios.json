@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504028338",
-    "titulo": "Jump force",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "categoria": "outros",
+    "id": "1309468845",
+    "titulo": "Jogo Ps4 - God of War",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:57",
-    "tempoOlx": "Na OLX desde março de 2016",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jump-force-1504028338",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogo-ps4-god-of-war-1309468845",
+    "fotoUrl": "https://img.olx.com.br/images/46/462454176716357.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/462454176716357.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779400635
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:57",
     "fotoUrl": "https://img.olx.com.br/images/67/672686763830862.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/672686763830862.jpg"
     ],
-    "defeito": false,
+    "id": "1504028338",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jump-force-1504028338",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2016",
+    "titulo": "Jump force",
     "ts": 1779400627
   },
   {
@@ -9817,28 +9835,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps4",
-    "ts": 1779362955
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:29",
-    "fotoUrl": "https://img.olx.com.br/images/65/651685407423456.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/651685407423456.jpg",
-      "https://img.olx.com.br/images/75/750690645351971.jpg",
-      "https://img.olx.com.br/images/84/843653043638359.jpg",
-      "https://img.olx.com.br/images/93/933643044332966.jpg",
-      "https://img.olx.com.br/images/10/103672763997756.jpg"
-    ],
-    "id": "1503083168",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-1503083168",
-    "preco": 2950,
-    "precoRaw": "R$ 2.950",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS5",
     "ts": 1779362955
   }
 ]
