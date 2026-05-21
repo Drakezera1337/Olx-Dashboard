@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504012481",
-    "titulo": "Sekiro",
+    "id": "1504012422",
+    "titulo": "Mass Effect Legendary Edition",
     "preco": 150,
     "precoRaw": "R$ 150",
     "categoria": "outros",
     "publicado": "",
     "detectado": "17:52",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/sekiro-1504012481",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/mass-effect-legendary-edition-1504012422",
+    "fotoUrl": "https://img.olx.com.br/images/33/338661761921757.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/338661761921757.jpg",
+      "https://img.olx.com.br/images/33/336662649705232.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779396754
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:52",
     "fotoUrl": "https://img.olx.com.br/images/45/458653285694553.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/458653285694553.jpg"
     ],
-    "defeito": false,
+    "id": "1504012481",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/sekiro-1504012481",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Sekiro",
     "ts": 1779396743
   },
   {
@@ -9830,25 +9849,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "caixa vazia de Nintendo Switch lite",
-    "ts": 1779362861
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:27",
-    "fotoUrl": "https://img.olx.com.br/images/66/662602019094987.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/662602019094987.jpg",
-      "https://img.olx.com.br/images/68/682632853412936.jpg"
-    ],
-    "id": "1475115593",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-manual-e-berco-nintendo-switch-lite-grey-1475115593",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Caixa manual e berço Nintendo Switch Lite Grey",
     "ts": 1779362861
   }
 ]
