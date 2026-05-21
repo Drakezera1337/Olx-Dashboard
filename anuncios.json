@@ -1,15 +1,30 @@
 [
   {
-    "id": "1455830664",
-    "titulo": "Jogos PlayStation ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1501763919",
+    "titulo": "iPhone 14 Pro Max 256 ",
+    "preco": 3700,
+    "precoRaw": "R$ 3.700",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "21:14",
-    "tempoOlx": "Na OLX desde maio de 2023",
+    "tempoOlx": "Na OLX desde março de 2021",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-playstation-1455830664",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-256-1501763919",
+    "fotoUrl": "https://img.olx.com.br/images/74/741637649436434.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/741637649436434.jpg",
+      "https://img.olx.com.br/images/76/762660402924409.jpg",
+      "https://img.olx.com.br/images/77/773622408050907.jpg",
+      "https://img.olx.com.br/images/63/635650766179293.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779322495
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:14",
     "fotoUrl": "https://img.olx.com.br/images/47/472555586867840.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/472555586867840.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/56/561526587064381.jpg",
       "https://img.olx.com.br/images/58/587532468275887.jpg"
     ],
-    "defeito": false,
+    "id": "1455830664",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-playstation-1455830664",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2023",
+    "titulo": "Jogos PlayStation ",
     "ts": 1779322467
   },
   {
@@ -9909,27 +9930,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS5 Slim 1TB - Estado de Novo! ",
-    "ts": 1779279893
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/32/320648643545259.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/320648643545259.jpg",
-      "https://img.olx.com.br/images/34/343639766336225.jpg",
-      "https://img.olx.com.br/images/34/347668528565551.jpg",
-      "https://img.olx.com.br/images/36/369667160547262.jpg"
-    ],
-    "id": "1501708354",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/lote-com-4-fitas-de-super-nintendo-paralelas-capitain-commando-papaleguas-1501708354",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Lote Com 4 Fitas de Super Nintendo Paralelas: Capitain Commando, Papaleguas....",
     "ts": 1779279893
   }
 ]
