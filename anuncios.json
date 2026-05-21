@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503867718",
-    "titulo": "PlayStation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1495440254",
+    "titulo": "Fifa 19 ",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "09:18",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "09:19",
+    "tempoOlx": "Na OLX desde janeiro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1503867718",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/fifa-19-1495440254",
+    "fotoUrl": "https://img.olx.com.br/images/85/853669756481101.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/853669756481101.jpg",
+      "https://img.olx.com.br/images/87/877647753998845.jpg",
+      "https://img.olx.com.br/images/89/891612397999320.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779365995
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:18",
     "fotoUrl": "https://img.olx.com.br/images/29/297615285988540.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/297615285988540.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/36/360618400244402.jpg",
       "https://img.olx.com.br/images/38/389661042580337.jpg"
     ],
-    "defeito": false,
+    "id": "1503867718",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1503867718",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 4",
     "ts": 1779365933
   },
   {
@@ -9904,29 +9924,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone xr ",
-    "ts": 1779307653
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:07",
-    "fotoUrl": "https://img.olx.com.br/images/19/190655280178438.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/190655280178438.jpg",
-      "https://img.olx.com.br/images/20/208603282971614.jpg",
-      "https://img.olx.com.br/images/22/225665763576898.jpg",
-      "https://img.olx.com.br/images/23/235618882257444.jpg",
-      "https://img.olx.com.br/images/25/254655285293731.jpg",
-      "https://img.olx.com.br/images/26/261628408030908.jpg"
-    ],
-    "id": "1503452482",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-512gb-1503452482",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 13 Pro - 512Gb",
     "ts": 1779307653
   }
 ]
