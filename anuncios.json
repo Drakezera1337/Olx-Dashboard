@@ -1,15 +1,29 @@
 [
   {
-    "id": "1504000012",
-    "titulo": "CALL OF DUTY PLAY 4 ADVANCED WARFARE",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "jogos",
+    "id": "1503999768",
+    "titulo": "Judgment PS5 + Lost Judgment PS4",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "16:59",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/call-of-duty-play-4-advanced-warfare-1504000012",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/judgment-ps5-lost-judgment-ps4-1503999768",
+    "fotoUrl": "https://img.olx.com.br/images/29/299629288455733.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/299629288455733.jpg",
+      "https://img.olx.com.br/images/31/316683529712008.jpg",
+      "https://img.olx.com.br/images/33/339668647602883.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779393577
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:59",
     "fotoUrl": "https://img.olx.com.br/images/53/531605285981930.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/531605285981930.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/56/560603889433464.jpg",
       "https://img.olx.com.br/images/58/581602289778366.jpg"
     ],
-    "defeito": false,
+    "id": "1504000012",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/call-of-duty-play-4-advanced-warfare-1504000012",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "CALL OF DUTY PLAY 4 ADVANCED WARFARE",
     "ts": 1779393566
   },
   {
@@ -9850,25 +9870,5 @@
     "tempoOlx": "",
     "titulo": "IPHONE 15 PRO MAX 256 ",
     "ts": 1779362763
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:25",
-    "fotoUrl": "https://img.olx.com.br/images/77/771683040198132.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/771683040198132.jpg",
-      "https://img.olx.com.br/images/78/782673284724347.jpg",
-      "https://img.olx.com.br/images/80/806607525250122.jpg"
-    ],
-    "id": "1503854935",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-86-nada-trocado-1503854935",
-    "preco": 4250,
-    "precoRaw": "R$ 4.250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iphone 15 pro max 256gb 86% nada trocado ",
-    "ts": 1779362757
   }
 ]
