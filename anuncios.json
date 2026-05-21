@@ -1,20 +1,41 @@
 [
   {
-    "id": "1504024552",
-    "titulo": "Playstation 5 slim",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "ps5",
+    "id": "1489966288",
+    "titulo": "Xbox séries S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "18:43",
-    "tempoOlx": "Na OLX desde novembro de 2014",
+    "detectado": "18:45",
+    "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-slim-1504024552",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1489966288",
+    "fotoUrl": "https://img.olx.com.br/images/30/308642863998978.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/308642863998978.jpg",
+      "https://img.olx.com.br/images/31/315614029696705.jpg",
+      "https://img.olx.com.br/images/33/330688382267873.jpg",
+      "https://img.olx.com.br/images/35/356604626615302.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779399953
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:43",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1504024552",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-slim-1504024552",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2014",
+    "titulo": "Playstation 5 slim",
     "ts": 1779399831
   },
   {
@@ -9827,25 +9848,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Call of Duty infinite warfare - PS4",
-    "ts": 1779362941
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:29",
-    "fotoUrl": "https://img.olx.com.br/images/99/990679858631790.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/990679858631790.jpg",
-      "https://img.olx.com.br/images/90/906625734945627.jpg"
-    ],
-    "id": "1474837903",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/uncharted-the-lost-legacy-ps4-1474837903",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Uncharted: The Lost Legacy - PS4",
     "ts": 1779362941
   }
 ]
