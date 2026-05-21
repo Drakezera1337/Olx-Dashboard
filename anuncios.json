@@ -1,15 +1,31 @@
 [
   {
-    "id": "1500158247",
-    "titulo": "Playstation 4 1TB  C/ 10 Jogos e NF ",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "ps4",
+    "id": "1502552223",
+    "titulo": "Xbox série s",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "21:25",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "21:26",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/playstation-4-1tb-c-10-jogos-e-nf-1500158247",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/xbox-serie-s-1502552223",
+    "fotoUrl": "https://img.olx.com.br/images/80/809680289554555.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/809680289554555.jpg",
+      "https://img.olx.com.br/images/81/811622289851936.jpg",
+      "https://img.olx.com.br/images/82/825617289032995.jpg",
+      "https://img.olx.com.br/images/83/835620405743354.jpg",
+      "https://img.olx.com.br/images/85/856636521640312.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779323214
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:25",
     "fotoUrl": "https://img.olx.com.br/images/12/120600165179499.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/120600165179499.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/14/149665405337773.jpg",
       "https://img.olx.com.br/images/15/154639523517818.jpg"
     ],
-    "defeito": false,
+    "id": "1500158247",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/playstation-4-1tb-c-10-jogos-e-nf-1500158247",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "Playstation 4 1TB  C/ 10 Jogos e NF ",
     "ts": 1779323112
   },
   {
@@ -9919,24 +9941,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Anbernic RG405V 128GB nunca foi usado versão Wood Color",
-    "ts": 1779279906
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/85/852654641674048.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/852654641674048.jpg"
-    ],
-    "id": "1501247288",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/volante-multilaser-ps2-1501247288",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Volante Multilaser ps2",
     "ts": 1779279906
   }
 ]
