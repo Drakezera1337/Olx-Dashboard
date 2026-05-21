@@ -1,20 +1,41 @@
 [
   {
-    "id": "1503998004",
-    "titulo": "Jogos PS4 e PS5",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "categoria": "ps5",
+    "id": "1504000012",
+    "titulo": "CALL OF DUTY PLAY 4 ADVANCED WARFARE",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "16:54",
-    "tempoOlx": "Na OLX desde novembro de 2025",
+    "detectado": "16:59",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-e-ps5-1503998004",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/call-of-duty-play-4-advanced-warfare-1504000012",
+    "fotoUrl": "https://img.olx.com.br/images/53/531605285981930.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/531605285981930.jpg",
+      "https://img.olx.com.br/images/54/545685400667519.jpg",
+      "https://img.olx.com.br/images/56/560603889433464.jpg",
+      "https://img.olx.com.br/images/58/581602289778366.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779393566
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:54",
     "fotoUrl": "https://img.olx.com.br/images/58/588673409160743.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/588673409160743.jpg"
     ],
-    "defeito": false,
+    "id": "1503998004",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-e-ps5-1503998004",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "Jogos PS4 e PS5",
     "ts": 1779393255
   },
   {
@@ -9848,29 +9869,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iphone 15 pro max 256gb 86% nada trocado ",
-    "ts": 1779362757
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:25",
-    "fotoUrl": "https://img.olx.com.br/images/77/773604163748493.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/773604163748493.jpg",
-      "https://img.olx.com.br/images/81/819692280315152.jpg",
-      "https://img.olx.com.br/images/84/842670401243786.jpg",
-      "https://img.olx.com.br/images/87/879650521856965.jpg",
-      "https://img.olx.com.br/images/89/896683528930811.jpg",
-      "https://img.olx.com.br/images/91/917675644741948.jpg"
-    ],
-    "id": "1503622964",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128-gigas-1503622964",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 12 - 128 gigas",
     "ts": 1779362757
   }
 ]
