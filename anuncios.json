@@ -1,22 +1,41 @@
 [
   {
-    "id": "1485275576",
-    "titulo": "PS4 slim",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1504010777",
+    "titulo": "Mafia Trilogy",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "17:45",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "detectado": "17:46",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/ps4-slim-1485275576",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/mafia-trilogy-1504010777",
+    "fotoUrl": "https://img.olx.com.br/images/29/290698407094862.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/290698407094862.jpg",
+      "https://img.olx.com.br/images/29/297633884873235.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779396369
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:45",
     "fotoUrl": "https://img.olx.com.br/images/53/537640141944884.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/537640141944884.jpg",
       "https://img.olx.com.br/images/54/548680142913160.jpg",
       "https://img.olx.com.br/images/56/569601025756963.jpg"
     ],
-    "defeito": false,
+    "id": "1485275576",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/ps4-slim-1485275576",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "PS4 slim",
     "ts": 1779396359
   },
   {
@@ -9837,29 +9856,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogo Nintendo Switch 2 raidou ",
-    "ts": 1779362853
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:27",
-    "fotoUrl": "https://img.olx.com.br/images/56/567570607490946.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/567570607490946.jpg",
-      "https://img.olx.com.br/images/53/538521122034088.jpg",
-      "https://img.olx.com.br/images/53/533564604113057.jpg",
-      "https://img.olx.com.br/images/54/541538248872312.jpg",
-      "https://img.olx.com.br/images/15/156528721315892.jpg",
-      "https://img.olx.com.br/images/57/570625499011301.jpg"
-    ],
-    "id": "1372432331",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/4-grip-borracha-analogico-nintendo-switch-oled-lite-1372432331",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "4 grip borracha analógico Nintendo Switch / Oled / Lite ",
     "ts": 1779362853
   }
 ]
