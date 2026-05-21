@@ -1,20 +1,38 @@
 [
   {
-    "id": "1495116941",
+    "id": "1495117082",
     "titulo": "Jogo ps4",
-    "preco": 85,
-    "precoRaw": "R$ 85",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:30",
     "tempoOlx": "Na OLX desde novembro de 2013",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-1495116941",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-1495117082",
+    "fotoUrl": "https://img.olx.com.br/images/58/581623035932240.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/581623035932240.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779384659
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:30",
     "fotoUrl": "https://img.olx.com.br/images/91/912608030724094.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/912608030724094.jpg"
     ],
-    "defeito": false,
+    "id": "1495116941",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogo-ps4-1495116941",
+    "preco": 85,
+    "precoRaw": "R$ 85",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "Jogo ps4",
     "ts": 1779384647
   },
   {
@@ -9861,24 +9879,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Vendo Metal gear solid 5 original ",
     "ts": 1779329642
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:13",
-    "fotoUrl": "https://img.olx.com.br/images/64/646617522218649.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/646617522218649.jpg",
-      "https://img.olx.com.br/images/66/664622888993982.jpg"
-    ],
-    "id": "1503804387",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-farcry-5-original-1503804387",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Vendo Farcry 5 original ",
-    "ts": 1779329635
   }
 ]
