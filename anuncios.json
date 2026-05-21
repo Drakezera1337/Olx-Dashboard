@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503878871",
-    "titulo": "Xbox serie S, sem controle.",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1503994343",
+    "titulo": "PlayStation 4 slim 500gb / PS4 / Grajau",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:36",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "detectado": "16:39",
+    "tempoOlx": "Na OLX desde agosto de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/xbox-serie-s-sem-controle-1503878871",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-ps4-grajau-1503994343",
+    "fotoUrl": "https://img.olx.com.br/images/96/960601161484788.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/960601161484788.jpg",
+      "https://img.olx.com.br/images/98/982655523934809.jpg",
+      "https://img.olx.com.br/images/10/101692408674797.jpg",
+      "https://img.olx.com.br/images/12/124679644343637.jpg",
+      "https://img.olx.com.br/images/13/132622400471978.jpg",
+      "https://img.olx.com.br/images/16/169652408731147.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779392393
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:36",
     "fotoUrl": "https://img.olx.com.br/images/18/188604403734245.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/188604403734245.jpg",
       "https://img.olx.com.br/images/20/208689286639238.jpg",
       "https://img.olx.com.br/images/22/222614524293665.jpg"
     ],
-    "defeito": false,
+    "id": "1503878871",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/xbox-serie-s-sem-controle-1503878871",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "titulo": "Xbox serie S, sem controle.",
     "ts": 1779392213
   },
   {
@@ -9838,23 +9861,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2013",
     "titulo": "Ps4",
     "ts": 1779362593
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:23",
-    "fotoUrl": "https://img.olx.com.br/images/58/584560198045182.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/584560198045182.jpg"
-    ],
-    "id": "1430511857",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogo-de-ps4-1430511857",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
-    "titulo": "Jogo de ps4",
-    "ts": 1779362585
   }
 ]
