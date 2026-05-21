@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503805019",
-    "titulo": "PS4 slim 1Tb",
-    "preco": 1399,
-    "precoRaw": "R$ 1.399",
-    "categoria": "ps4",
+    "id": "1503805562",
+    "titulo": "Vendo GTA 5 original ",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "23:19",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/ps4-slim-1tb-1503805019",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-gta-5-original-1503805562",
+    "fotoUrl": "https://img.olx.com.br/images/90/900656880306834.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/900656880306834.jpg",
+      "https://img.olx.com.br/images/93/937640886711486.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779329985
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:19",
     "fotoUrl": "https://img.olx.com.br/images/82/820630168381203.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/820630168381203.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/88/888607283408318.jpg",
       "https://img.olx.com.br/images/92/929668647692617.jpg"
     ],
-    "defeito": false,
+    "id": "1503805019",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/ps4-slim-1tb-1503805019",
+    "preco": 1399,
+    "precoRaw": "R$ 1.399",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4 slim 1Tb",
     "ts": 1779329964
   },
   {
@@ -9854,24 +9873,5 @@
     "tempoOlx": "",
     "titulo": "iPhone 16 Pro Max 256GB Deserto Titânio",
     "ts": 1779294394
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:26",
-    "fotoUrl": "https://img.olx.com.br/images/63/632602161347968.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/632602161347968.jpg",
-      "https://img.olx.com.br/images/63/637609047845800.jpg"
-    ],
-    "id": "1503610678",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-plus-256gb-meia-noite-1503610678",
-    "preco": 2599,
-    "precoRaw": "R$ 2.599",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14 Plus 256GB Meia-noite",
-    "ts": 1779294391
   }
 ]
