@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503799373",
-    "titulo": "Horizon Zero Dawn",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1503799968",
+    "titulo": "PS4 Slim ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:42",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "detectado": "22:47",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-1503799373",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-slim-1503799968",
+    "fotoUrl": "https://img.olx.com.br/images/32/321675167029591.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/321675167029591.jpg",
+      "https://img.olx.com.br/images/33/339621164872448.jpg",
+      "https://img.olx.com.br/images/34/348650406392554.jpg",
+      "https://img.olx.com.br/images/36/367643165559025.jpg",
+      "https://img.olx.com.br/images/37/371686285570768.jpg",
+      "https://img.olx.com.br/images/38/388677768845630.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779328044
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:42",
     "fotoUrl": "https://img.olx.com.br/images/36/366604525478862.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/366604525478862.jpg",
       "https://img.olx.com.br/images/37/376601767093863.jpg",
       "https://img.olx.com.br/images/38/389693402303562.jpg"
     ],
-    "defeito": false,
+    "id": "1503799373",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-1503799373",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "Horizon Zero Dawn",
     "ts": 1779327724
   },
   {
@@ -9867,23 +9890,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Coleção de jogos",
     "ts": 1779280928
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:41",
-    "fotoUrl": "https://img.olx.com.br/images/76/768618769434636.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/768618769434636.jpg"
-    ],
-    "id": "1503592152",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cd-de-jogos-1503592152",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2017",
-    "titulo": "Cd de jogos",
-    "ts": 1779280919
   }
 ]
