@@ -1,21 +1,39 @@
 [
   {
-    "id": "1495715324",
-    "titulo": "? PlayStation 4 à venda - Ótimo estado!",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1503895803",
+    "titulo": "PS3 ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "11:08",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "11:09",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-a-venda-otimo-estado-1495715324",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps3-1503895803",
+    "fotoUrl": "https://img.olx.com.br/images/29/290619766905733.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/290619766905733.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779372592
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:08",
     "fotoUrl": "https://img.olx.com.br/images/80/809699633881620.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/809699633881620.jpg",
       "https://img.olx.com.br/images/82/826632637949200.jpg"
     ],
-    "defeito": false,
+    "id": "1495715324",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-a-venda-otimo-estado-1495715324",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "? PlayStation 4 à venda - Ótimo estado!",
     "ts": 1779372532
   },
   {
@@ -9915,25 +9933,5 @@
     "tempoOlx": "Na OLX desde agosto de 2018",
     "titulo": "Injustice 2 Ultimate Edition PS4 - Steelbook de Colecionador",
     "ts": 1779314574
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:58",
-    "fotoUrl": "https://img.olx.com.br/images/79/792696406191217.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/792696406191217.jpg",
-      "https://img.olx.com.br/images/81/819694160928364.jpg",
-      "https://img.olx.com.br/images/85/857601524636369.jpg"
-    ],
-    "id": "1503749735",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-serie-s-1503749735",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "Xbox série s",
-    "ts": 1779314336
   }
 ]
