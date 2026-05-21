@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503849970",
-    "titulo": "Play 4 novo",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1449799819",
+    "titulo": "diablo reaper of souls",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "outros",
     "publicado": "",
     "detectado": "08:22",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/play-4-novo-1503849970",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/diablo-reaper-of-souls-1449799819",
+    "fotoUrl": "https://img.olx.com.br/images/26/265535347511164.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/265535347511164.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779362550
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:22",
     "fotoUrl": "https://img.olx.com.br/images/14/148666528717022.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/148666528717022.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/21/213647046228772.jpg",
       "https://img.olx.com.br/images/23/231633282985423.jpg"
     ],
-    "defeito": false,
+    "id": "1503849970",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/play-4-novo-1503849970",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Play 4 novo",
     "ts": 1779362543
   },
   {
@@ -9849,26 +9867,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Ps4",
     "ts": 1779295004
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:36",
-    "fotoUrl": "https://img.olx.com.br/images/55/551653888171724.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/551653888171724.jpg",
-      "https://img.olx.com.br/images/57/574656640475337.jpg",
-      "https://img.olx.com.br/images/59/594615767233104.jpg",
-      "https://img.olx.com.br/images/60/603634280988598.jpg"
-    ],
-    "id": "1503635361",
-    "link": "https://ba.olx.com.br/sul-da-bahia/games/jogos-de-video-game/the-last-of-us-1-e-2-1503635361",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2022",
-    "titulo": "The last of us 1 e 2",
-    "ts": 1779294995
   }
 ]
