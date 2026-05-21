@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503788358",
-    "titulo": "Haaland ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1503789472",
+    "titulo": "Playstation Portal",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "21:50",
-    "tempoOlx": "Na OLX desde julho de 2022",
+    "detectado": "21:53",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/haaland-1503788358",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-portal-1503789472",
+    "fotoUrl": "https://img.olx.com.br/images/66/663686164438872.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/663686164438872.jpg",
+      "https://img.olx.com.br/images/66/668639769314065.jpg",
+      "https://img.olx.com.br/images/66/666665402267012.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779324804
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:50",
     "fotoUrl": "https://img.olx.com.br/images/59/590665168714925.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/590665168714925.jpg"
     ],
-    "defeito": false,
+    "id": "1503788358",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/haaland-1503788358",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Haaland ",
     "ts": 1779324603
   },
   {
@@ -9908,25 +9928,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogo PS4 Mídia Física Redout ",
-    "ts": 1779279935
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:25",
-    "fotoUrl": "https://img.olx.com.br/images/69/691683363620856.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/691683363620856.jpg",
-      "https://img.olx.com.br/images/72/723683488500776.jpg"
-    ],
-    "id": "1467462033",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-ps4-midia-fisica-moto-gp14-1467462033",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo PS4 Mídia Física Moto Gp14",
     "ts": 1779279935
   }
 ]
