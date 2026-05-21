@@ -1,20 +1,40 @@
 [
   {
-    "id": "1491019684",
-    "titulo": "Xbox Série S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1367596743",
+    "titulo": "Jogo spider man Miles Morales Ps4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:02",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "detectado": "21:07",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/xbox-serie-s-1491019684",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-spider-man-miles-morales-ps4-1367596743",
+    "fotoUrl": "https://img.olx.com.br/images/71/718507606528259.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/718507606528259.jpg",
+      "https://img.olx.com.br/images/71/710545723430489.jpg",
+      "https://img.olx.com.br/images/71/715527004290158.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779322044
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:02",
     "fotoUrl": "https://img.olx.com.br/images/19/193649632697352.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/193649632697352.jpg"
     ],
-    "defeito": false,
+    "id": "1491019684",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/xbox-serie-s-1491019684",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "Xbox Série S",
     "ts": 1779321772
   },
   {
@@ -9909,28 +9929,5 @@
     "tempoOlx": "",
     "titulo": "Jogo Monster Hunter Frontie G 8 Psvita ",
     "ts": 1779279871
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:24",
-    "fotoUrl": "https://img.olx.com.br/images/96/964612403440444.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/964612403440444.jpg",
-      "https://img.olx.com.br/images/97/975617043431062.jpg",
-      "https://img.olx.com.br/images/99/996629766243756.jpg",
-      "https://img.olx.com.br/images/11/114627646676094.jpg",
-      "https://img.olx.com.br/images/13/138642289562523.jpg",
-      "https://img.olx.com.br/images/15/151614764419621.jpg"
-    ],
-    "id": "1503269226",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/wii-mini-com-caixa-1503269226",
-    "preco": 599,
-    "precoRaw": "R$ 599",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Wii mini com caixa",
-    "ts": 1779279858
   }
 ]
