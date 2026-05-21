@@ -1,22 +1,41 @@
 [
   {
-    "id": "1503941624",
-    "titulo": "PS4 Slim + 3 controles + 5 jogos",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1503944091",
+    "titulo": "X box 360",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:32",
-    "tempoOlx": "Na OLX desde setembro de 2021",
+    "detectado": "13:37",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ps4-slim-3-controles-5-jogos-1503941624",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/x-box-360-1503944091",
+    "fotoUrl": "https://img.olx.com.br/images/68/680694161329030.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/680694161329030.jpg",
+      "https://img.olx.com.br/images/71/711666769107269.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779381473
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:32",
     "fotoUrl": "https://img.olx.com.br/images/79/794661406538463.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/794661406538463.jpg",
       "https://img.olx.com.br/images/81/810642289826576.jpg",
       "https://img.olx.com.br/images/83/834688407627581.jpg"
     ],
-    "defeito": false,
+    "id": "1503941624",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ps4-slim-3-controles-5-jogos-1503941624",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2021",
+    "titulo": "PS4 Slim + 3 controles + 5 jogos",
     "ts": 1779381168
   },
   {
@@ -9868,24 +9887,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "PS4 (2) Jogos Conjuntos homem aranha e Miles ",
     "ts": 1779325946
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:10",
-    "fotoUrl": "https://img.olx.com.br/images/16/161669645845040.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/161669645845040.jpg",
-      "https://img.olx.com.br/images/18/186631283182828.jpg"
-    ],
-    "id": "1503504160",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-5-1-tera-1503504160",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2015",
-    "titulo": "Playstation 5 1 tera",
-    "ts": 1779325854
   }
 ]
