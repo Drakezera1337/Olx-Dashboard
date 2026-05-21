@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503998884",
-    "titulo": "Ps4 Slim",
-    "preco": 1249,
-    "precoRaw": "R$ 1.249",
-    "categoria": "ps4",
+    "id": "1503998004",
+    "titulo": "Jogos PS4 e PS5",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "16:54",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-slim-1503998884",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-e-ps5-1503998004",
+    "fotoUrl": "https://img.olx.com.br/images/58/588673409160743.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/588673409160743.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779393255
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:54",
     "fotoUrl": "https://img.olx.com.br/images/50/503655284262414.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/503655284262414.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/58/580635404057406.jpg",
       "https://img.olx.com.br/images/60/600693161689304.jpg"
     ],
-    "defeito": false,
+    "id": "1503998884",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-slim-1503998884",
+    "preco": 1249,
+    "precoRaw": "R$ 1.249",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "titulo": "Ps4 Slim",
     "ts": 1779393243
   },
   {
@@ -9853,25 +9871,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 12 - 128 gigas",
-    "ts": 1779362757
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:25",
-    "fotoUrl": "https://img.olx.com.br/images/63/632602161347968.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/632602161347968.jpg",
-      "https://img.olx.com.br/images/63/637609047845800.jpg"
-    ],
-    "id": "1503610678",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-plus-256gb-meia-noite-1503610678",
-    "preco": 2599,
-    "precoRaw": "R$ 2.599",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14 Plus 256GB Meia-noite",
     "ts": 1779362757
   }
 ]
