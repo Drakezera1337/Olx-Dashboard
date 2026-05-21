@@ -1,15 +1,27 @@
 [
   {
-    "id": "1489966288",
-    "titulo": "Xbox séries S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1504025915",
+    "titulo": "iPhone 13",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "18:45",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "detectado": "18:47",
+    "tempoOlx": "Na OLX desde agosto de 2018",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1489966288",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1504025915",
+    "fotoUrl": "https://img.olx.com.br/images/70/704671889994252.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/704671889994252.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779400073
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:45",
     "fotoUrl": "https://img.olx.com.br/images/30/308642863998978.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/308642863998978.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/33/330688382267873.jpg",
       "https://img.olx.com.br/images/35/356604626615302.jpg"
     ],
-    "defeito": false,
+    "id": "1489966288",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-series-s-1489966288",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Xbox séries S",
     "ts": 1779399953
   },
   {
@@ -9829,25 +9847,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Call of duty Advanced Warfare - PS4",
-    "ts": 1779362941
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:29",
-    "fotoUrl": "https://img.olx.com.br/images/83/831635628148215.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/831635628148215.jpg",
-      "https://img.olx.com.br/images/84/846659148570431.jpg"
-    ],
-    "id": "1425614832",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/call-of-duty-infinite-warfare-ps4-1425614832",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Call of Duty infinite warfare - PS4",
     "ts": 1779362941
   }
 ]
