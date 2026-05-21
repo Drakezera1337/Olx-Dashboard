@@ -1,21 +1,39 @@
 [
   {
-    "id": "1504028373",
-    "titulo": "Call of duty infinito war fite ",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "categoria": "jogos",
+    "id": "1504028338",
+    "titulo": "Jump force",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:56",
-    "tempoOlx": "Na OLX desde setembro de 2014",
+    "detectado": "18:57",
+    "tempoOlx": "Na OLX desde março de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-infinito-war-fite-1504028373",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jump-force-1504028338",
+    "fotoUrl": "https://img.olx.com.br/images/67/672686763830862.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/672686763830862.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779400627
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:56",
     "fotoUrl": "https://img.olx.com.br/images/99/998681762293504.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/998681762293504.jpg",
       "https://img.olx.com.br/images/11/112609409816248.jpg"
     ],
-    "defeito": false,
+    "id": "1504028373",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-infinito-war-fite-1504028373",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "Call of duty infinito war fite ",
     "ts": 1779400617
   },
   {
@@ -9821,29 +9839,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS5",
-    "ts": 1779362955
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:29",
-    "fotoUrl": "https://img.olx.com.br/images/43/439616401819910.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/439616401819910.jpg",
-      "https://img.olx.com.br/images/44/441665643421452.jpg",
-      "https://img.olx.com.br/images/46/463644641599684.jpg",
-      "https://img.olx.com.br/images/47/472610402718931.jpg",
-      "https://img.olx.com.br/images/49/499664647327853.jpg",
-      "https://img.olx.com.br/images/51/519632769119149.jpg"
-    ],
-    "id": "1502900594",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-desbloqueado-via-software-256gb-1502900594",
-    "preco": 1897,
-    "precoRaw": "R$ 1.897",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch Desbloqueado via software 256gb",
     "ts": 1779362955
   }
 ]
