@@ -1,15 +1,29 @@
 [
   {
-    "id": "1504007627",
-    "titulo": "PLAYSTATION 3 SLIM",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "categoria": "ps3",
+    "id": "1474846717",
+    "titulo": "Divinity: Original Sin - Jogo PS4",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:32",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "17:39",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/playstation-3-slim-1504007627",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/divinity-original-sin-jogo-ps4-1474846717",
+    "fotoUrl": "https://img.olx.com.br/images/16/168675135557958.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/168675135557958.jpg",
+      "https://img.olx.com.br/images/17/179694132506280.jpg",
+      "https://img.olx.com.br/images/16/165681614856552.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779395995
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:32",
     "fotoUrl": "https://img.olx.com.br/images/82/826650168794207.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/826650168794207.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/82/821666407518706.jpg",
       "https://img.olx.com.br/images/82/828694763383365.jpg"
     ],
-    "defeito": false,
+    "id": "1504007627",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/playstation-3-slim-1504007627",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "PLAYSTATION 3 SLIM",
     "ts": 1779395543
   },
   {
@@ -9849,26 +9869,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox One S",
-    "ts": 1779362812
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:26",
-    "fotoUrl": "https://img.olx.com.br/images/16/163629406789537.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/163629406789537.jpg",
-      "https://img.olx.com.br/images/18/183692049735081.jpg",
-      "https://img.olx.com.br/images/20/205644400393811.jpg"
-    ],
-    "id": "1503627948",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/vendo-1503627948",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo",
     "ts": 1779362812
   }
 ]
