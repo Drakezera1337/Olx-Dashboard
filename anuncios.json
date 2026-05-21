@@ -1,15 +1,27 @@
 [
   {
-    "id": "1495560525",
-    "titulo": "Vendo PS5",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1503908272",
+    "titulo": "Ps3 ",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "11:39",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "tempoOlx": "Na OLX desde março de 2019",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-ps5-1495560525",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-1503908272",
+    "fotoUrl": "https://img.olx.com.br/images/28/283616407537872.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/283616407537872.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779374372
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
     "fotoUrl": "https://img.olx.com.br/images/39/392647274083733.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/392647274083733.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/41/415669391480717.jpg",
       "https://img.olx.com.br/images/43/436601394790829.jpg"
     ],
-    "defeito": false,
+    "id": "1495560525",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/vendo-ps5-1495560525",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "Vendo PS5",
     "ts": 1779374364
   },
   {
@@ -9910,23 +9928,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "Ps4 fat 500Gb ( ATENÇÃO A DESCRIÇÃO)",
     "ts": 1779316434
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:32",
-    "fotoUrl": "https://img.olx.com.br/images/42/422614887556674.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/422614887556674.jpg"
-    ],
-    "id": "1503755816",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16promax-256gb-oportunidade-1503755816",
-    "preco": 5400,
-    "precoRaw": "R$ 5.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2016",
-    "titulo": "Iphone 16PROMAX 256GB OPORTUNIDADE ",
-    "ts": 1779316377
   }
 ]
