@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503999501",
-    "titulo": "JOGO PS4",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps4",
+    "id": "1503999461",
+    "titulo": "Saga Judgment",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "16:59",
-    "tempoOlx": "Na OLX desde maio de 2017",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/jogo-ps4-1503999501",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/saga-judgment-1503999461",
+    "fotoUrl": "https://img.olx.com.br/images/48/488656288499301.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/488656288499301.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779393596
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:59",
     "fotoUrl": "https://img.olx.com.br/images/49/491660526372059.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/491660526372059.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/57/570603048409300.jpg",
       "https://img.olx.com.br/images/59/591632648240236.jpg"
     ],
-    "defeito": false,
+    "id": "1503999501",
+    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/jogo-ps4-1503999501",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "JOGO PS4",
     "ts": 1779393586
   },
   {
@@ -9854,26 +9872,5 @@
     "tempoOlx": "",
     "titulo": "PS Portal ",
     "ts": 1779362765
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:26",
-    "fotoUrl": "https://img.olx.com.br/images/97/979619882785412.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/979619882785412.jpg",
-      "https://img.olx.com.br/images/99/996661285904421.jpg",
-      "https://img.olx.com.br/images/67/672657041175349.jpg",
-      "https://img.olx.com.br/images/69/695637165543214.jpg"
-    ],
-    "id": "1501816448",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-a-venda-1501816448",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 11 64GB à venda",
-    "ts": 1779362763
   }
 ]
