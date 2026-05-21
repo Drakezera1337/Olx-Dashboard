@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503849776",
-    "titulo": "The Last Of Us Part II Edição Especial ",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "jogos",
+    "id": "1495664132",
+    "titulo": "Cyberpunk 2077 PS4",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "08:22",
-    "tempoOlx": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/the-last-of-us-part-ii-edicao-especial-1503849776",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-1495664132",
+    "fotoUrl": "https://img.olx.com.br/images/53/533636759411252.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/533636759411252.jpg",
+      "https://img.olx.com.br/images/54/544605512464876.jpg",
+      "https://img.olx.com.br/images/55/555661271154652.jpg",
+      "https://img.olx.com.br/images/57/572681517957395.jpg",
+      "https://img.olx.com.br/images/58/585601511334969.jpg",
+      "https://img.olx.com.br/images/60/605619157686084.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779362567
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:22",
     "fotoUrl": "https://img.olx.com.br/images/12/120652165946067.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/120652165946067.jpg",
       "https://img.olx.com.br/images/14/146681283919332.jpg",
       "https://img.olx.com.br/images/16/164602404202199.jpg"
     ],
-    "defeito": false,
+    "id": "1503849776",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/the-last-of-us-part-ii-edicao-especial-1503849776",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "The Last Of Us Part II Edição Especial ",
     "ts": 1779362559
   },
   {
@@ -9847,23 +9870,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "PS3 ",
     "ts": 1779295050
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:36",
-    "fotoUrl": "https://img.olx.com.br/images/96/966691525218699.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/966691525218699.jpg"
-    ],
-    "id": "1503603757",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-desbloqueado-1503603757",
-    "preco": 2700,
-    "precoRaw": "R$ 2.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2020",
-    "titulo": "Nintendo Switch Oled Desbloqueado ",
-    "ts": 1779295012
   }
 ]
