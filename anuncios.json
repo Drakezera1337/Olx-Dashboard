@@ -1,15 +1,31 @@
 [
   {
-    "id": "1503995834",
-    "titulo": "FIFA 14 ",
-    "preco": 149,
-    "precoRaw": "R$ 149",
-    "categoria": "jogos",
+    "id": "1503995630",
+    "titulo": "Jogo Red Dead Redemption 2 Steel Book Para PS4",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:42",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "tempoOlx": "Na OLX desde setembro de 2020",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/fifa-14-1503995834",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogo-red-dead-redemption-2-steel-book-para-ps4-1503995630",
+    "fotoUrl": "https://img.olx.com.br/images/49/493697521799979.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/493697521799979.jpg",
+      "https://img.olx.com.br/images/49/490615762213016.jpg",
+      "https://img.olx.com.br/images/49/499689043551766.jpg",
+      "https://img.olx.com.br/images/49/495637769908607.jpg",
+      "https://img.olx.com.br/images/48/487665289142962.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779392542
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:42",
     "fotoUrl": "https://img.olx.com.br/images/30/301648160706036.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/301648160706036.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/35/352643043499698.jpg",
       "https://img.olx.com.br/images/37/379629040424640.jpg"
     ],
-    "defeito": false,
+    "id": "1503995834",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/fifa-14-1503995834",
+    "preco": 149,
+    "precoRaw": "R$ 149",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "titulo": "FIFA 14 ",
     "ts": 1779392533
   },
   {
@@ -9847,25 +9869,5 @@
     "tempoOlx": "Na OLX desde março de 2023",
     "titulo": "CDs ",
     "ts": 1779362630
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:23",
-    "fotoUrl": "https://img.olx.com.br/images/75/757639508100449.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/757639508100449.jpg",
-      "https://img.olx.com.br/images/77/771633028803410.jpg",
-      "https://img.olx.com.br/images/78/781614500694473.jpg"
-    ],
-    "id": "1487145851",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-parte-2-steelbook-ps4-1487145851",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "The Last of Us Parte 2 Steelbook PS4",
-    "ts": 1779362622
   }
 ]
