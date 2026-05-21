@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504016648",
-    "titulo": "PS4",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "categoria": "ps4",
+    "id": "1504018424",
+    "titulo": "Elden ring é the last of us 2",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "18:12",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "detectado": "18:16",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-1504016648",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/elden-ring-e-the-last-of-us-2-1504018424",
+    "fotoUrl": "https://img.olx.com.br/images/54/543632767069236.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/543632767069236.jpg",
+      "https://img.olx.com.br/images/57/577607764475151.jpg",
+      "https://img.olx.com.br/images/59/599617286592331.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779398184
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:12",
     "fotoUrl": "https://img.olx.com.br/images/62/626682048948166.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/626682048948166.jpg",
       "https://img.olx.com.br/images/63/631682525396998.jpg",
       "https://img.olx.com.br/images/64/647601283652246.jpg"
     ],
-    "defeito": false,
+    "id": "1504016648",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-1504016648",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "PS4",
     "ts": 1779397972
   },
   {
@@ -9828,25 +9848,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS Vita Fat na caixa - (Não liga) Para retirada de peças",
-    "ts": 1779362889
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:28",
-    "fotoUrl": "https://img.olx.com.br/images/82/821631521944957.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/821631521944957.jpg",
-      "https://img.olx.com.br/images/84/845659289398647.jpg"
-    ],
-    "id": "1501533842",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/psp-1501533842",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Psp ",
     "ts": 1779362889
   }
 ]
