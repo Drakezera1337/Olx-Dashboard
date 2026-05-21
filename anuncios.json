@@ -1,22 +1,40 @@
 [
   {
-    "id": "1487216664",
-    "titulo": "Vende - se ou troca cd de ps4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1503942858",
+    "titulo": "Ps5",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:26",
-    "tempoOlx": "Na OLX desde maio de 2015",
+    "detectado": "13:32",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/vende-se-ou-troca-cd-de-ps4-1487216664",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-1503942858",
+    "fotoUrl": "https://img.olx.com.br/images/98/988672406673782.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/988672406673782.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779381142
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:26",
     "fotoUrl": "https://img.olx.com.br/images/57/570628622766109.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/570628622766109.jpg",
       "https://img.olx.com.br/images/60/604679381854733.jpg",
       "https://img.olx.com.br/images/63/632658622891576.jpg"
     ],
-    "defeito": false,
+    "id": "1487216664",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/vende-se-ou-troca-cd-de-ps4-1487216664",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2015",
+    "titulo": "Vende - se ou troca cd de ps4",
     "ts": 1779380816
   },
   {
@@ -9873,23 +9891,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "PlayStation 4 Dragon Quest CIB ",
     "ts": 1779325356
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:02",
-    "fotoUrl": "https://img.olx.com.br/images/40/408540591715100.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/408540591715100.jpg"
-    ],
-    "id": "1465231240",
-    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/ghost-recon-breakpoint-1465231240",
-    "preco": 135,
-    "precoRaw": "R$ 135",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
-    "titulo": "Ghost Recon: Breakpoint",
-    "ts": 1779325348
   }
 ]
