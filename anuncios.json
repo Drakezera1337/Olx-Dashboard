@@ -1,21 +1,44 @@
 [
   {
-    "id": "1504011939",
-    "titulo": "Sayonara Wild Hearts",
-    "preco": 140,
-    "precoRaw": "R$ 140",
+    "id": "1504013869",
+    "titulo": "Lote de games",
+    "preco": 650,
+    "precoRaw": "R$ 650",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "17:53",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "detectado": "17:58",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/sayonara-wild-hearts-1504011939",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/lote-de-games-1504013869",
+    "fotoUrl": "https://img.olx.com.br/images/60/606610882315222.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/606610882315222.jpg",
+      "https://img.olx.com.br/images/62/629661161950833.jpg",
+      "https://img.olx.com.br/images/63/631611169833348.jpg",
+      "https://img.olx.com.br/images/65/650616289686544.jpg",
+      "https://img.olx.com.br/images/66/665634164321715.jpg",
+      "https://img.olx.com.br/images/68/680620887666363.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779397106
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:53",
     "fotoUrl": "https://img.olx.com.br/images/99/994688525825859.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/994688525825859.jpg",
       "https://img.olx.com.br/images/99/991657881601535.jpg"
     ],
-    "defeito": false,
+    "id": "1504011939",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/sayonara-wild-hearts-1504011939",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Sayonara Wild Hearts",
     "ts": 1779396781
   },
   {
@@ -9827,24 +9850,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Start Wars ",
-    "ts": 1779362874
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:27",
-    "fotoUrl": "https://img.olx.com.br/images/20/202683031115594.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/202683031115594.jpg"
-    ],
-    "id": "1498292868",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/nintendo-2ds-vermelho-1498292868",
-    "preco": 990,
-    "precoRaw": "R$ 990",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo 2ds vermelho ",
     "ts": 1779362874
   }
 ]
