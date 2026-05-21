@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504025915",
-    "titulo": "iPhone 13",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "iphone",
+    "id": "1504027965",
+    "titulo": "Playstation 5",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:47",
-    "tempoOlx": "Na OLX desde agosto de 2018",
+    "detectado": "18:55",
+    "tempoOlx": "Na OLX desde setembro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1504025915",
+    "link": "https://pa.olx.com.br/regiao-de-maraba/games/consoles-de-video-game/playstation-5-1504027965",
+    "fotoUrl": "https://img.olx.com.br/images/94/942608887109874.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/942608887109874.jpg",
+      "https://img.olx.com.br/images/95/953625046146134.jpg",
+      "https://img.olx.com.br/images/97/976685166829498.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779400553
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:47",
     "fotoUrl": "https://img.olx.com.br/images/70/704671889994252.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/704671889994252.jpg"
     ],
-    "defeito": false,
+    "id": "1504025915",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1504025915",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2018",
+    "titulo": "iPhone 13",
     "ts": 1779400073
   },
   {
@@ -9829,24 +9849,5 @@
     "tempoOlx": "",
     "titulo": "Autorama AFX vertigo Tomy Aurora completo e raro LEIA",
     "ts": 1779362955
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:29",
-    "fotoUrl": "https://img.olx.com.br/images/77/777629746074060.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/777629746074060.jpg",
-      "https://img.olx.com.br/images/78/786622147581233.jpg"
-    ],
-    "id": "1465935309",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/call-of-duty-advanced-warfare-ps4-1465935309",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Call of duty Advanced Warfare - PS4",
-    "ts": 1779362941
   }
 ]
