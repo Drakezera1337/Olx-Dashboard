@@ -1,22 +1,45 @@
 [
   {
-    "id": "1503999768",
-    "titulo": "Judgment PS5 + Lost Judgment PS4",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "categoria": "ps5",
+    "id": "1503999501",
+    "titulo": "JOGO PS4",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:59",
-    "tempoOlx": "Na OLX desde novembro de 2025",
+    "tempoOlx": "Na OLX desde maio de 2017",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/judgment-ps5-lost-judgment-ps4-1503999768",
+    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/jogo-ps4-1503999501",
+    "fotoUrl": "https://img.olx.com.br/images/49/491660526372059.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/491660526372059.jpg",
+      "https://img.olx.com.br/images/51/513686046488993.jpg",
+      "https://img.olx.com.br/images/54/541680529085117.jpg",
+      "https://img.olx.com.br/images/55/551674888379705.jpg",
+      "https://img.olx.com.br/images/57/570603048409300.jpg",
+      "https://img.olx.com.br/images/59/591632648240236.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779393586
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:59",
     "fotoUrl": "https://img.olx.com.br/images/29/299629288455733.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/299629288455733.jpg",
       "https://img.olx.com.br/images/31/316683529712008.jpg",
       "https://img.olx.com.br/images/33/339668647602883.jpg"
     ],
-    "defeito": false,
+    "id": "1503999768",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/judgment-ps5-lost-judgment-ps4-1503999768",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "Judgment PS5 + Lost Judgment PS4",
     "ts": 1779393577
   },
   {
@@ -9851,24 +9874,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 11 64GB à venda",
-    "ts": 1779362763
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:26",
-    "fotoUrl": "https://img.olx.com.br/images/43/435647272110219.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/435647272110219.jpg"
-    ],
-    "id": "1496822601",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-1496822601",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "IPHONE 15 PRO MAX 256 ",
     "ts": 1779362763
   }
 ]
