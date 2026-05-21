@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503939181",
-    "titulo": "PS5 com defeito",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "ps5",
+    "id": "1503939766",
+    "titulo": "JOGOS DE PS4 ORIGINAIS ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:18",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "detectado": "13:20",
+    "tempoOlx": "Na OLX desde setembro de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/ps5-com-defeito-1503939181",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-de-ps4-originais-1503939766",
+    "fotoUrl": "https://img.olx.com.br/images/60/605625043044900.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/605625043044900.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779380426
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:18",
     "fotoUrl": "https://img.olx.com.br/images/55/559651287394832.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/559651287394832.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/57/573682406109830.jpg",
       "https://img.olx.com.br/images/58/586689641560469.jpg"
     ],
-    "defeito": false,
+    "id": "1503939181",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/ps5-com-defeito-1503939181",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "titulo": "PS5 com defeito",
     "ts": 1779380303
   },
   {
@@ -9877,23 +9895,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Playstation Portal",
     "ts": 1779324804
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:50",
-    "fotoUrl": "https://img.olx.com.br/images/59/590665168714925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/590665168714925.jpg"
-    ],
-    "id": "1503788358",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/haaland-1503788358",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2022",
-    "titulo": "Haaland ",
-    "ts": 1779324603
   }
 ]
