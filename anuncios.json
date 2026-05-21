@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503923966",
-    "titulo": "Hot Toys Superior Spider-Man",
-    "preco": 3090,
-    "precoRaw": "R$ 3.090",
-    "categoria": "jogos",
+    "id": "1503925472",
+    "titulo": "PS3 Super Slim 500Gb",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "12:29",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "detectado": "12:31",
+    "tempoOlx": "Na OLX desde março de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/hot-toys-superior-spider-man-1503923966",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps3-super-slim-500gb-1503925472",
+    "fotoUrl": "https://img.olx.com.br/images/76/764657648790648.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/764657648790648.jpg",
+      "https://img.olx.com.br/images/78/785626764233726.jpg",
+      "https://img.olx.com.br/images/80/806649162461193.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779377514
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:29",
     "fotoUrl": "https://img.olx.com.br/images/60/609611165218893.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/609611165218893.jpg"
     ],
-    "defeito": false,
+    "id": "1503923966",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/hot-toys-superior-spider-man-1503923966",
+    "preco": 3090,
+    "precoRaw": "R$ 3.090",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Hot Toys Superior Spider-Man",
     "ts": 1779377387
   },
   {
@@ -9907,24 +9927,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "Jogos ps4 e wii",
     "ts": 1779320312
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:38",
-    "fotoUrl": "https://img.olx.com.br/images/30/305665493643589.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/305665493643589.jpg",
-      "https://img.olx.com.br/images/31/311661738685271.jpg"
-    ],
-    "id": "1478092889",
-    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/jogos-de-video-game/combo-de-jogos-de-playstation-4-1478092889",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2023",
-    "titulo": "Combo de Jogos de PlayStation 4 ",
-    "ts": 1779320304
   }
 ]
