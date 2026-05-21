@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503954793",
-    "titulo": "Ps4 estado de zero.",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
+    "id": "1503955420",
+    "titulo": "Jogos ps4 ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:24",
-    "tempoOlx": "Na OLX desde junho de 2017",
+    "tempoOlx": "Na OLX desde março de 2020",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/ps4-estado-de-zero-1503954793",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1503955420",
+    "fotoUrl": "https://img.olx.com.br/images/24/246611764958362.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/246611764958362.jpg",
+      "https://img.olx.com.br/images/25/250621169805067.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779384275
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:24",
     "fotoUrl": "https://img.olx.com.br/images/21/212632527515505.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/212632527515505.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/34/345649287516465.jpg",
       "https://img.olx.com.br/images/38/388621043349742.jpg"
     ],
-    "defeito": false,
+    "id": "1503954793",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/ps4-estado-de-zero-1503954793",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2017",
+    "titulo": "Ps4 estado de zero.",
     "ts": 1779384265
   },
   {
@@ -9864,25 +9883,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Vendo Battlefield 4 original",
     "ts": 1779329311
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:08",
-    "fotoUrl": "https://img.olx.com.br/images/13/133626769104960.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/133626769104960.jpg",
-      "https://img.olx.com.br/images/14/148663407368172.jpg",
-      "https://img.olx.com.br/images/16/167636047621642.jpg"
-    ],
-    "id": "1503803874",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/crash-ps4-1503803874",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2021",
-    "titulo": "Crash ps4",
-    "ts": 1779329298
   }
 ]
