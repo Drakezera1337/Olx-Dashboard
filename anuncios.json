@@ -1,15 +1,27 @@
 [
   {
-    "id": "1503913386",
-    "titulo": "Iphone 13 ",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "iphone",
+    "id": "1503913052",
+    "titulo": "PS4 Fat + 4 Jogos + Controle",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:53",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "11:54",
+    "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1503913386",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/ps4-fat-4-jogos-controle-1503913052",
+    "fotoUrl": "https://img.olx.com.br/images/10/100679526374610.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/100679526374610.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779375294
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:53",
     "fotoUrl": "https://img.olx.com.br/images/82/823607767052913.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/823607767052913.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/26/260655763470781.jpg",
       "https://img.olx.com.br/images/27/277657042392995.jpg"
     ],
-    "defeito": false,
+    "id": "1503913386",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1503913386",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Iphone 13 ",
     "ts": 1779375237
   },
   {
@@ -9920,24 +9938,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Spider Man ps4 - Mídia física ",
     "ts": 1779317763
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:55",
-    "fotoUrl": "https://img.olx.com.br/images/43/435656762607358.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/435656762607358.jpg",
-      "https://img.olx.com.br/images/44/446688280729435.jpg"
-    ],
-    "id": "1503761175",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-uncharted-4-fisico-1503761175",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "Jogo uncharted 4 físico ",
-    "ts": 1779317755
   }
 ]
