@@ -1,15 +1,30 @@
 [
   {
-    "id": "1502284660",
-    "titulo": "Xbox One S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1503822060",
+    "titulo": "Ps3, não está funcionando e não tenho os controles ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "08:19",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/xbox-one-s-1502284660",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-nao-esta-funcionando-e-nao-tenho-os-controles-1503822060",
+    "fotoUrl": "https://img.olx.com.br/images/81/814660167091723.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/814660167091723.jpg",
+      "https://img.olx.com.br/images/82/825687525175633.jpg",
+      "https://img.olx.com.br/images/83/830642400877359.jpg",
+      "https://img.olx.com.br/images/84/846611521762789.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779362368
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "08:19",
     "fotoUrl": "https://img.olx.com.br/images/92/923646407975922.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/923646407975922.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/99/990652526383004.jpg",
       "https://img.olx.com.br/images/11/116661644380374.jpg"
     ],
-    "defeito": false,
+    "id": "1502284660",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/xbox-one-s-1502284660",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Xbox One S",
     "ts": 1779362362
   },
   {
@@ -9821,28 +9842,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "vendo ps4 salim 500Gb com 6 jogos 1400",
     "ts": 1779294806
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:33",
-    "fotoUrl": "https://img.olx.com.br/images/67/672659391111837.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/672659391111837.jpg",
-      "https://img.olx.com.br/images/67/678638277100215.jpg",
-      "https://img.olx.com.br/images/69/699648276737163.jpg",
-      "https://img.olx.com.br/images/69/699621273082616.jpg",
-      "https://img.olx.com.br/images/71/714655753624860.jpg",
-      "https://img.olx.com.br/images/72/725661030261928.jpg"
-    ],
-    "id": "1494323867",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-3-lacrado-1494323867",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "God of war 3 Lacrado ",
-    "ts": 1779294798
   }
 ]
