@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503995916",
-    "titulo": "Jogos de PS4 (50$ cada)",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1504038514",
+    "titulo": "Elden Ring PS4 ",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:37",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "detectado": "19:47",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-de-ps4-50-cada-1503995916",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/elden-ring-ps4-1504038514",
+    "fotoUrl": "https://img.olx.com.br/images/17/177606640194241.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/177606640194241.jpg",
+      "https://img.olx.com.br/images/18/181606282162590.jpg",
+      "https://img.olx.com.br/images/20/200606408063441.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779403675
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:37",
     "fotoUrl": "https://img.olx.com.br/images/57/572666528591155.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/572666528591155.jpg"
     ],
-    "defeito": false,
+    "id": "1503995916",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-de-ps4-50-cada-1503995916",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Jogos de PS4 (50$ cada)",
     "ts": 1779403060
   },
   {
@@ -9794,24 +9814,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Marvel's Avengers",
     "ts": 1779365302
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:07",
-    "fotoUrl": "https://img.olx.com.br/images/49/491507445798542.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/491507445798542.jpg",
-      "https://img.olx.com.br/images/74/743576718459887.jpg"
-    ],
-    "id": "1434664897",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/outriders-wolrdslayer-ps5-1434664897",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
-    "titulo": "Outriders Wolrdslayer PS5",
-    "ts": 1779365263
   }
 ]
