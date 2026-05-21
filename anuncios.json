@@ -1,21 +1,40 @@
 [
   {
-    "id": "1503805562",
-    "titulo": "Vendo GTA 5 original ",
-    "preco": 90,
-    "precoRaw": "R$ 90",
+    "id": "1503805371",
+    "titulo": "Vendo Fallout 4 original ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "outros",
     "publicado": "",
     "detectado": "23:19",
-    "tempoOlx": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-gta-5-original-1503805562",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-fallout-4-original-1503805371",
+    "fotoUrl": "https://img.olx.com.br/images/97/971632761870481.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/971632761870481.jpg",
+      "https://img.olx.com.br/images/10/102628760470153.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779329993
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:19",
     "fotoUrl": "https://img.olx.com.br/images/90/900656880306834.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/900656880306834.jpg",
       "https://img.olx.com.br/images/93/937640886711486.jpg"
     ],
-    "defeito": false,
+    "id": "1503805562",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-gta-5-original-1503805562",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Vendo GTA 5 original ",
     "ts": 1779329985
   },
   {
@@ -9850,28 +9869,5 @@
     "tempoOlx": "",
     "titulo": "iPhone 14 Pro Max 256gb",
     "ts": 1779294396
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:26",
-    "fotoUrl": "https://img.olx.com.br/images/52/524622287199577.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/524622287199577.jpg",
-      "https://img.olx.com.br/images/52/520682767620324.jpg",
-      "https://img.olx.com.br/images/52/524650160294963.jpg",
-      "https://img.olx.com.br/images/52/520663762042774.jpg",
-      "https://img.olx.com.br/images/52/523639886180931.jpg",
-      "https://img.olx.com.br/images/52/524695281395071.jpg"
-    ],
-    "id": "1503608119",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-256gb-deserto-titanio-1503608119",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 16 Pro Max 256GB Deserto Titânio",
-    "ts": 1779294394
   }
 ]
