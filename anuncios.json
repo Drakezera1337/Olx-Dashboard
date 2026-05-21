@@ -1,21 +1,44 @@
 [
   {
-    "id": "1368880683",
-    "titulo": "Jogo psp umd PES 2011",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1504007627",
+    "titulo": "PLAYSTATION 3 SLIM",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "17:28",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "17:32",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-psp-umd-pes-2011-1368880683",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/playstation-3-slim-1504007627",
+    "fotoUrl": "https://img.olx.com.br/images/82/826650168794207.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/826650168794207.jpg",
+      "https://img.olx.com.br/images/81/815605164314423.jpg",
+      "https://img.olx.com.br/images/81/818613164006838.jpg",
+      "https://img.olx.com.br/images/82/827695409906119.jpg",
+      "https://img.olx.com.br/images/82/821666407518706.jpg",
+      "https://img.olx.com.br/images/82/828694763383365.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779395543
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:28",
     "fotoUrl": "https://img.olx.com.br/images/67/675538129520850.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/675538129520850.jpg",
       "https://img.olx.com.br/images/68/685551728702145.jpg"
     ],
-    "defeito": false,
+    "id": "1368880683",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-psp-umd-pes-2011-1368880683",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Jogo psp umd PES 2011",
     "ts": 1779395331
   },
   {
@@ -9846,25 +9869,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Vendo",
-    "ts": 1779362812
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:26",
-    "fotoUrl": "https://img.olx.com.br/images/66/669638404306407.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/669638404306407.jpg",
-      "https://img.olx.com.br/images/67/674624764998107.jpg"
-    ],
-    "id": "1503543415",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-serie-s-para-consertar-1503543415",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox série S para consertar ",
     "ts": 1779362812
   }
 ]
