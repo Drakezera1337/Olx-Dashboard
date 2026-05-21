@@ -1,20 +1,39 @@
 [
   {
-    "id": "1503994887",
-    "titulo": "Jogos de PS4 (100$ cada)",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1501860266",
+    "titulo": "PS4 SLIN 500GB R$999,00",
+    "preco": 999,
+    "precoRaw": "R$ 999",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:31",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "detectado": "19:34",
+    "tempoOlx": "Na OLX desde março de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-de-ps4-100-cada-1503994887",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/ps4-slin-500gb-r-999-00-1501860266",
+    "fotoUrl": "https://img.olx.com.br/images/48/482611286137461.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/482611286137461.jpg",
+      "https://img.olx.com.br/images/49/499611527035479.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779402862
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:31",
     "fotoUrl": "https://img.olx.com.br/images/10/103678523001518.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/103678523001518.jpg"
     ],
-    "defeito": false,
+    "id": "1503994887",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-de-ps4-100-cada-1503994887",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Jogos de PS4 (100$ cada)",
     "ts": 1779402700
   },
   {
@@ -9796,24 +9815,5 @@
     "tempoOlx": "Na OLX desde abril de 2023",
     "titulo": "Jogos PS4 ",
     "ts": 1779364951
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:02",
-    "fotoUrl": "https://img.olx.com.br/images/32/320649524438100.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/320649524438100.jpg",
-      "https://img.olx.com.br/images/33/333649287604601.jpg"
-    ],
-    "id": "1503864464",
-    "link": "https://pr.olx.com.br/regiao-de-francisco-beltrao-e-pato-branco/games/jogos-de-video-game/videogame-playstation-4-slim-1-terabyte-seminovo-1503864464",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Videogame Playstation 4 Slim 1 Terabyte Seminovo",
-    "ts": 1779364942
   }
 ]
