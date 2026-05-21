@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503866031",
-    "titulo": "Red Dead Redemption 2 - PS4",
-    "preco": 95,
-    "precoRaw": "R$ 95",
-    "categoria": "ps4",
+    "id": "1494813984",
+    "titulo": "Resident Evil 5: Gold Edition",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "09:14",
-    "tempoOlx": "Na OLX desde agosto de 2024",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/red-dead-redemption-2-ps4-1503866031",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-5-gold-edition-1494813984",
+    "fotoUrl": "https://img.olx.com.br/images/58/585691279030201.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/585691279030201.jpg",
+      "https://img.olx.com.br/images/58/585630754445313.jpg",
+      "https://img.olx.com.br/images/58/586663154215387.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779365691
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:14",
     "fotoUrl": "https://img.olx.com.br/images/34/348611766299307.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/348611766299307.jpg",
       "https://img.olx.com.br/images/36/363620765471502.jpg"
     ],
-    "defeito": false,
+    "id": "1503866031",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/red-dead-redemption-2-ps4-1503866031",
+    "preco": 95,
+    "precoRaw": "R$ 95",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "titulo": "Red Dead Redemption 2 - PS4",
     "ts": 1779365682
   },
   {
@@ -9899,24 +9919,5 @@
     "tempoOlx": "",
     "titulo": "Playstation portal ",
     "ts": 1779307628
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:06",
-    "fotoUrl": "https://img.olx.com.br/images/74/743697884538369.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/743697884538369.jpg",
-      "https://img.olx.com.br/images/76/767603640661008.jpg"
-    ],
-    "id": "1503643741",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-256gb-1503643741",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14/ 256gb",
-    "ts": 1779307617
   }
 ]
