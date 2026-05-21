@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504050394",
-    "titulo": "Fallout 4 PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1504010464",
+    "titulo": "Shin Megami Tensei III Nocturne",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "20:47",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "20:54",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/fallout-4-ps4-1504050394",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/shin-megami-tensei-iii-nocturne-1504010464",
+    "fotoUrl": "https://img.olx.com.br/images/62/621654286616688.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/621654286616688.jpg",
+      "https://img.olx.com.br/images/62/629628883910910.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779407664
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:47",
     "fotoUrl": "https://img.olx.com.br/images/47/478631525123696.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/478631525123696.jpg"
     ],
-    "defeito": false,
+    "id": "1504050394",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/fallout-4-ps4-1504050394",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "Fallout 4 PS4",
     "ts": 1779407254
   },
   {
@@ -9829,23 +9848,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "PS5 Last Of US 2 Lacrado/Novo Playstation - Mídia Física",
     "ts": 1779367766
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:44",
-    "fotoUrl": "https://img.olx.com.br/images/62/624640287431868.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/624640287431868.jpg"
-    ],
-    "id": "1503819610",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-slim-cfw-troco-por-snes-ou-vendo-1503819610",
-    "preco": 499,
-    "precoRaw": "R$ 499",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Ps3 slim cfw troco por snes ou vendo",
-    "ts": 1779367495
   }
 ]
