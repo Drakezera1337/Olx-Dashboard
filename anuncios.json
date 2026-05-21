@@ -1,20 +1,41 @@
 [
   {
-    "id": "1504050967",
-    "titulo": "Playstation ",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "categoria": "outros",
+    "id": "1504051877",
+    "titulo": "PS4 1TB",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:55",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "detectado": "20:59",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-1504050967",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1tb-1504051877",
+    "fotoUrl": "https://img.olx.com.br/images/78/784674280050029.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/784674280050029.jpg",
+      "https://img.olx.com.br/images/79/797690526430577.jpg",
+      "https://img.olx.com.br/images/80/804653284115364.jpg",
+      "https://img.olx.com.br/images/81/817615524886480.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779407969
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:55",
     "fotoUrl": "https://img.olx.com.br/images/81/810626523415998.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/810626523415998.jpg"
     ],
-    "defeito": false,
+    "id": "1504050967",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-1504050967",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Playstation ",
     "ts": 1779407701
   },
   {
@@ -9825,23 +9846,5 @@
     "tempoOlx": "Na OLX desde novembro de 2022",
     "titulo": "Terra média sombras de mordor game of The year edition - Playstation 4",
     "ts": 1779367834
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:50",
-    "fotoUrl": "https://img.olx.com.br/images/29/297696647870724.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/297696647870724.jpg"
-    ],
-    "id": "1503874938",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-ps4-1503874938",
-    "preco": 499,
-    "precoRaw": "R$ 499",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "Jogos Ps4",
-    "ts": 1779367824
   }
 ]
