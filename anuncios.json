@@ -1,21 +1,41 @@
 [
   {
-    "id": "1503867676",
-    "titulo": "PES 2017 - PS4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1502946830",
+    "titulo": "The Last of Us 2 PS4",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "09:20",
-    "tempoOlx": "Na OLX desde agosto de 2024",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/pes-2017-ps4-1503867676",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/the-last-of-us-2-ps4-1502946830",
+    "fotoUrl": "https://img.olx.com.br/images/48/489627041490100.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/489627041490100.jpg",
+      "https://img.olx.com.br/images/51/510688169068220.jpg",
+      "https://img.olx.com.br/images/54/546659762875185.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779366053
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:20",
     "fotoUrl": "https://img.olx.com.br/images/48/483690643789909.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/483690643789909.jpg",
       "https://img.olx.com.br/images/50/508642041381202.jpg"
     ],
-    "defeito": false,
+    "id": "1503867676",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/pes-2017-ps4-1503867676",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "titulo": "PES 2017 - PS4",
     "ts": 1779366013
   },
   {
@@ -9897,29 +9917,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS4 slim ",
-    "ts": 1779307656
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:07",
-    "fotoUrl": "https://img.olx.com.br/images/35/351624406160797.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/351624406160797.jpg",
-      "https://img.olx.com.br/images/37/372632047126902.jpg",
-      "https://img.olx.com.br/images/39/393697280871023.jpg",
-      "https://img.olx.com.br/images/41/417638529499365.jpg",
-      "https://img.olx.com.br/images/43/438643289162284.jpg",
-      "https://img.olx.com.br/images/62/622655889454440.jpg"
-    ],
-    "id": "1503358899",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-4-1503358899",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 4",
     "ts": 1779307656
   }
 ]
