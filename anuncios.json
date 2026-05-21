@@ -1,22 +1,43 @@
 [
   {
-    "id": "1503909443",
-    "titulo": "God of War (2018), PS4, Original",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1503909389",
+    "titulo": "Fifa 22 - Playstation 4 (Física)",
+    "preco": 125,
+    "precoRaw": "R$ 125",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:45",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/god-of-war-2018-ps4-original-1503909443",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/fifa-22-playstation-4-fisica-1503909389",
+    "fotoUrl": "https://img.olx.com.br/images/84/849605282801829.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/849605282801829.jpg",
+      "https://img.olx.com.br/images/85/855684161087913.jpg",
+      "https://img.olx.com.br/images/87/873666160232996.jpg",
+      "https://img.olx.com.br/images/89/890633168032051.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779374753
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:45",
     "fotoUrl": "https://img.olx.com.br/images/33/337628161184783.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/337628161184783.jpg",
       "https://img.olx.com.br/images/31/319623522132175.jpg",
       "https://img.olx.com.br/images/33/339679285610375.jpg"
     ],
-    "defeito": false,
+    "id": "1503909443",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/god-of-war-2018-ps4-original-1503909443",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
+    "titulo": "God of War (2018), PS4, Original",
     "ts": 1779374743
   },
   {
@@ -9904,27 +9925,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "Playstation 4 Slim ",
     "ts": 1779317034
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:38",
-    "fotoUrl": "https://img.olx.com.br/images/64/646651882328056.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/646651882328056.jpg",
-      "https://img.olx.com.br/images/65/656667767363680.jpg",
-      "https://img.olx.com.br/images/67/674677644747409.jpg",
-      "https://img.olx.com.br/images/69/690691884380272.jpg",
-      "https://img.olx.com.br/images/71/718638649932123.jpg"
-    ],
-    "id": "1503758174",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/ps3-slim-160gb-1503758174",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "PS3 Slim 160gb",
-    "ts": 1779316735
   }
 ]
