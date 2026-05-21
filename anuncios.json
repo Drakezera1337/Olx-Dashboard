@@ -1,20 +1,38 @@
 [
   {
-    "id": "1503984127",
-    "titulo": "PS4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1503983821",
+    "titulo": "Ps4 slim",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "16:00",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-1503984127",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-slim-1503983821",
+    "fotoUrl": "https://img.olx.com.br/images/47/470616280993847.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/470616280993847.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779390052
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:00",
     "fotoUrl": "https://img.olx.com.br/images/72/722644401961218.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/722644401961218.jpg"
     ],
-    "defeito": false,
+    "id": "1503984127",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-1503984127",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "PS4",
     "ts": 1779390040
   },
   {
@@ -9844,28 +9862,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Guitarra PS3 Guitar Hero com dongle",
     "ts": 1779362422
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:20",
-    "fotoUrl": "https://img.olx.com.br/images/36/365649768408251.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/365649768408251.jpg",
-      "https://img.olx.com.br/images/38/381675647551340.jpg",
-      "https://img.olx.com.br/images/40/409649763582271.jpg",
-      "https://img.olx.com.br/images/41/418605409818222.jpg",
-      "https://img.olx.com.br/images/42/425629405390075.jpg",
-      "https://img.olx.com.br/images/43/433640408190182.jpg"
-    ],
-    "id": "1503851777",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-dualsense-ps5-semi-novo-1503851777",
-    "preco": 327,
-    "precoRaw": "R$ 327",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2021",
-    "titulo": "Controle dualsense PS5 semi novo ",
-    "ts": 1779362414
   }
 ]
