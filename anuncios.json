@@ -1,20 +1,39 @@
 [
   {
-    "id": "1494394246",
-    "titulo": "Videogame Playstation 3 + Acessórios",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps3",
+    "id": "1504049301",
+    "titulo": "Call of Duty Black ops 4 PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:29",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "detectado": "20:33",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/videogame-playstation-3-acessorios-1494394246",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/call-of-duty-black-ops-4-ps4-1504049301",
+    "fotoUrl": "https://img.olx.com.br/images/20/206668644953110.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/206668644953110.jpg",
+      "https://img.olx.com.br/images/21/211612642530895.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779406406
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:29",
     "fotoUrl": "https://img.olx.com.br/images/33/333604276214371.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/333604276214371.jpg"
     ],
-    "defeito": false,
+    "id": "1494394246",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/videogame-playstation-3-acessorios-1494394246",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "Videogame Playstation 3 + Acessórios",
     "ts": 1779406174
   },
   {
@@ -9831,25 +9850,5 @@
     "tempoOlx": "Na OLX desde abril de 2013",
     "titulo": "Avengers Deluxe Edition PS4",
     "ts": 1779367436
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:41",
-    "fotoUrl": "https://img.olx.com.br/images/24/241626767225450.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/241626767225450.jpg",
-      "https://img.olx.com.br/images/24/243622887912065.jpg",
-      "https://img.olx.com.br/images/82/824639046473869.jpg"
-    ],
-    "id": "1503873275",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/nintendo-dsi-branco-1503873275",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2025",
-    "titulo": "Nintendo DSi Branco",
-    "ts": 1779367315
   }
 ]
