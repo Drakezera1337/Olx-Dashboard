@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503914603",
-    "titulo": "The Last of Us 2 + Uncharted Collection Ps4",
-    "preco": 140,
-    "precoRaw": "R$ 140",
+    "id": "1503914283",
+    "titulo": "Resident Evil 7 (PS4), original, na caixa",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:58",
-    "tempoOlx": "Na OLX desde abril de 2019",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-2-uncharted-collection-ps4-1503914603",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/resident-evil-7-ps4-original-na-caixa-1503914283",
+    "fotoUrl": "https://img.olx.com.br/images/94/946645169980027.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/946645169980027.jpg",
+      "https://img.olx.com.br/images/93/936645041469108.jpg",
+      "https://img.olx.com.br/images/94/948671401677917.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779375494
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:58",
     "fotoUrl": "https://img.olx.com.br/images/94/942661524941534.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/942661524941534.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/11/113693168242241.jpg",
       "https://img.olx.com.br/images/13/135636762345618.jpg"
     ],
-    "defeito": false,
+    "id": "1503914603",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-2-uncharted-collection-ps4-1503914603",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "The Last of Us 2 + Uncharted Collection Ps4",
     "ts": 1779375484
   },
   {
@@ -9913,27 +9933,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Ps5",
     "ts": 1779318535
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:02",
-    "fotoUrl": "https://img.olx.com.br/images/75/752616886847083.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/752616886847083.jpg",
-      "https://img.olx.com.br/images/76/761602283556873.jpg",
-      "https://img.olx.com.br/images/77/776676525886192.jpg",
-      "https://img.olx.com.br/images/80/804660762896108.jpg",
-      "https://img.olx.com.br/images/81/813663284841933.jpg"
-    ],
-    "id": "1503761604",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-series-s-1503761604",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Xbox Series S",
-    "ts": 1779318176
   }
 ]
