@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503983821",
-    "titulo": "Ps4 slim",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "categoria": "ps4",
+    "id": "1503983619",
+    "titulo": "Nier Automata",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "16:00",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "detectado": "16:01",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-slim-1503983821",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/nier-automata-1503983619",
+    "fotoUrl": "https://img.olx.com.br/images/71/714677167724574.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/714677167724574.jpg",
+      "https://img.olx.com.br/images/71/715685160849726.jpg",
+      "https://img.olx.com.br/images/70/706661528626787.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779390064
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:00",
     "fotoUrl": "https://img.olx.com.br/images/47/470616280993847.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/470616280993847.jpg"
     ],
-    "defeito": false,
+    "id": "1503983821",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-slim-1503983821",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Ps4 slim",
     "ts": 1779390052
   },
   {
@@ -9842,25 +9862,5 @@
     "tempoOlx": "Na OLX desde agosto de 2023",
     "titulo": "PS4- 1 TERA DE MEMÓRIA - 1 CONTROLE- 1 ANO DE USO-JOGOS DIVERSOS.",
     "ts": 1779362430
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "08:20",
-    "fotoUrl": "https://img.olx.com.br/images/19/195638883356062.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/195638883356062.jpg",
-      "https://img.olx.com.br/images/19/197634403761686.jpg",
-      "https://img.olx.com.br/images/19/193691162195635.jpg"
-    ],
-    "id": "1503838775",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/guitarra-ps3-guitar-hero-com-dongle-1503838775",
-    "preco": 739,
-    "precoRaw": "R$ 739",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "Guitarra PS3 Guitar Hero com dongle",
-    "ts": 1779362422
   }
 ]
