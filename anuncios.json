@@ -1,20 +1,41 @@
 [
   {
-    "id": "1498053896",
-    "titulo": "Xbox series S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1504065309",
+    "titulo": "Jogos Ps4",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:41",
-    "tempoOlx": "Na OLX desde setembro de 2021",
+    "detectado": "21:45",
+    "tempoOlx": "Na OLX desde agosto de 2023",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1498053896",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-1504065309",
+    "fotoUrl": "https://img.olx.com.br/images/33/336600289918521.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/336600289918521.jpg",
+      "https://img.olx.com.br/images/34/348615881019200.jpg",
+      "https://img.olx.com.br/images/36/366661520000162.jpg",
+      "https://img.olx.com.br/images/38/387630760809257.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779410755
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:41",
     "fotoUrl": "https://img.olx.com.br/images/69/694601155898832.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/694601155898832.jpg"
     ],
-    "defeito": false,
+    "id": "1498053896",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/xbox-series-s-1498053896",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2021",
+    "titulo": "Xbox series S ",
     "ts": 1779410512
   },
   {
@@ -9832,25 +9853,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "Call of duty ww2 PS4 japonês",
     "ts": 1779369972
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:26",
-    "fotoUrl": "https://img.olx.com.br/images/14/145612493967157.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/145612493967157.jpg",
-      "https://img.olx.com.br/images/16/163689374650385.jpg",
-      "https://img.olx.com.br/images/18/189604257692643.jpg"
-    ],
-    "id": "1478101515",
-    "link": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/games/jogos-de-video-game/jogo-mad-max-ps4-1478101515",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "Jogo Mad Max - PS4",
-    "ts": 1779369963
   }
 ]
