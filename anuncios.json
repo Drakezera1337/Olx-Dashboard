@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504249173",
-    "titulo": "Vende-se PS4 ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1504263749",
+    "titulo": "PlayStation 4 500GB + 7 jogos",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:14",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "detectado": "17:16",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/vende-se-ps4-1504249173",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-500gb-7-jogos-1504263749",
+    "fotoUrl": "https://img.olx.com.br/images/19/197698643076596.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/197698643076596.jpg",
+      "https://img.olx.com.br/images/18/184614640618883.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779480978
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:14",
     "fotoUrl": "https://img.olx.com.br/images/61/617672643405870.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/617672643405870.jpg",
       "https://img.olx.com.br/images/64/646600883876004.jpg",
       "https://img.olx.com.br/images/65/655681045530778.jpg"
     ],
-    "defeito": false,
+    "id": "1504249173",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/vende-se-ps4-1504249173",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Vende-se PS4 ",
     "ts": 1779480859
   },
   {
@@ -9953,25 +9972,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Playstation 2 Slim",
-    "ts": 1779422069
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:54",
-    "fotoUrl": "https://img.olx.com.br/images/12/125692156530137.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/125692156530137.jpg",
-      "https://img.olx.com.br/images/14/141635270231495.jpg"
-    ],
-    "id": "1494623432",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-2-slim-1494623432",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 2 Slim",
     "ts": 1779422069
   }
 ]
