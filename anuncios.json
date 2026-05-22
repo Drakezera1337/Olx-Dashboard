@@ -1,15 +1,32 @@
 [
   {
-    "id": "1504224383",
-    "titulo": "iPhone XR 64gb preto",
-    "preco": 750,
-    "precoRaw": "R$ 750",
+    "id": "1504223733",
+    "titulo": "iPhone 11 128gb black",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "14:38",
     "tempoOlx": "Na OLX desde dezembro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-64gb-preto-1504224383",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-black-1504223733",
+    "fotoUrl": "https://img.olx.com.br/images/13/138691042199919.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/138691042199919.jpg",
+      "https://img.olx.com.br/images/16/166646523001463.jpg",
+      "https://img.olx.com.br/images/18/183684768345768.jpg",
+      "https://img.olx.com.br/images/19/190610163833773.jpg",
+      "https://img.olx.com.br/images/21/213645166486658.jpg",
+      "https://img.olx.com.br/images/22/229657641438586.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779471539
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:38",
     "fotoUrl": "https://img.olx.com.br/images/79/793681401351033.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/793681401351033.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/84/841648404467220.jpg",
       "https://img.olx.com.br/images/86/864644281139996.jpg"
     ],
-    "defeito": false,
+    "id": "1504224383",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-64gb-preto-1504224383",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "titulo": "iPhone XR 64gb preto",
     "ts": 1779471530
   },
   {
@@ -9957,24 +9980,5 @@
     "tempoOlx": "Na OLX desde maio de 2016",
     "titulo": "Jogos Playstation 4",
     "ts": 1779413313
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:28",
-    "fotoUrl": "https://img.olx.com.br/images/33/337679258553148.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/337679258553148.jpg",
-      "https://img.olx.com.br/images/35/354602491942870.jpg"
-    ],
-    "id": "1477682902",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-uncharted-playstation-4-1477682902",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Jogo Uncharted PlayStation 4",
-    "ts": 1779413304
   }
 ]
