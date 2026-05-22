@@ -1,15 +1,32 @@
 [
   {
-    "id": "1503707910",
-    "titulo": "XBOX SERIES-S COMPLETO ",
-    "preco": 1499,
-    "precoRaw": "R$ 1.499",
-    "categoria": "xbox",
+    "id": "1504069344",
+    "titulo": "JOGOS DE PS4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:12",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "22:16",
+    "tempoOlx": "Na OLX desde junho de 2024",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-completo-1503707910",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-de-ps4-1504069344",
+    "fotoUrl": "https://img.olx.com.br/images/29/296635166092270.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/296635166092270.jpg",
+      "https://img.olx.com.br/images/30/308646044432510.jpg",
+      "https://img.olx.com.br/images/32/323685524841392.jpg",
+      "https://img.olx.com.br/images/34/346674400620580.jpg",
+      "https://img.olx.com.br/images/35/354608043503369.jpg",
+      "https://img.olx.com.br/images/85/852658043892461.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779412585
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:12",
     "fotoUrl": "https://img.olx.com.br/images/17/173675045839746.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/173675045839746.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/41/417621286277456.jpg",
       "https://img.olx.com.br/images/47/471625403599302.jpg"
     ],
-    "defeito": false,
+    "id": "1503707910",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-completo-1503707910",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "XBOX SERIES-S COMPLETO ",
     "ts": 1779412343
   },
   {
@@ -9826,23 +9849,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Marvel's Spider-Man PS4 Mídia Original - Sem Capa",
     "ts": 1779371690
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:54",
-    "fotoUrl": "https://img.olx.com.br/images/40/409660764833498.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/409660764833498.jpg"
-    ],
-    "id": "1503894026",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/assassin-s-creed-iv-black-flag-ps4-1503894026",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Assassin's Creed IV Black Flag PS4",
-    "ts": 1779371679
   }
 ]
