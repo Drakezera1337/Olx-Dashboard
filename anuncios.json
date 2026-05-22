@@ -1,21 +1,42 @@
 [
   {
-    "id": "1504060504",
-    "titulo": "PlayStation 4 500gb",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1504059912",
+    "titulo": "Code Vein ",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "21:24",
-    "tempoOlx": "Na OLX desde outubro de 2021",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-500gb-1504060504",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/code-vein-1504059912",
+    "fotoUrl": "https://img.olx.com.br/images/98/989692048604548.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/989692048604548.jpg",
+      "https://img.olx.com.br/images/10/105680888956191.jpg",
+      "https://img.olx.com.br/images/12/128674161799175.jpg",
+      "https://img.olx.com.br/images/14/143628409639863.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779409452
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:24",
     "fotoUrl": "https://img.olx.com.br/images/80/806692527678825.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/806692527678825.jpg",
       "https://img.olx.com.br/images/82/823660645551619.jpg"
     ],
-    "defeito": false,
+    "id": "1504060504",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-500gb-1504060504",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "PlayStation 4 500gb",
     "ts": 1779409442
   },
   {
@@ -9829,26 +9850,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Jogos ps4 baratos ",
     "ts": 1779369263
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:11",
-    "fotoUrl": "https://img.olx.com.br/images/16/161640042141948.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/161640042141948.jpg",
-      "https://img.olx.com.br/images/17/179627642030954.jpg",
-      "https://img.olx.com.br/images/17/179637640586440.jpg",
-      "https://img.olx.com.br/images/18/185687521118308.jpg"
-    ],
-    "id": "1502278337",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12--128-gb-1502278337",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Iphone 12 -   128 GB",
-    "ts": 1779369083
   }
 ]
