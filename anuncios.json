@@ -1,20 +1,40 @@
 [
   {
-    "id": "1495799560",
-    "titulo": "Jogos PS4",
+    "id": "1495661806",
+    "titulo": "PlayStation 4 - Jogos a partir de 50 reais",
     "preco": 50,
     "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:55",
-    "tempoOlx": "Na OLX desde julho de 2015",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-ps4-1495799560",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-jogos-a-partir-de-50-reais-1495661806",
+    "fotoUrl": "https://img.olx.com.br/images/72/722633156884090.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/722633156884090.jpg",
+      "https://img.olx.com.br/images/74/746609755885867.jpg",
+      "https://img.olx.com.br/images/76/762607392262313.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779483328
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:55",
     "fotoUrl": "https://img.olx.com.br/images/28/281602630836167.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/281602630836167.jpg"
     ],
-    "defeito": false,
+    "id": "1495799560",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-ps4-1495799560",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2015",
+    "titulo": "Jogos PS4",
     "ts": 1779483320
   },
   {
@@ -9938,27 +9958,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS3 SUPER SLIM (DESBLOQUEADO)",
-    "ts": 1779422118
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:55",
-    "fotoUrl": "https://img.olx.com.br/images/43/430633043217047.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/430633043217047.jpg",
-      "https://img.olx.com.br/images/45/456695643051028.jpg",
-      "https://img.olx.com.br/images/47/475657523082825.jpg",
-      "https://img.olx.com.br/images/48/485602289018677.jpg"
-    ],
-    "id": "1503172131",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/ps3-com-defeito-4-controles-modelo-2501a-1503172131",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 Com Defeito + 4 Controles Modelo 2501A",
     "ts": 1779422118
   }
 ]
