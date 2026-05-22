@@ -1,21 +1,42 @@
 [
   {
-    "id": "1504252185",
-    "titulo": "PS3 com jogos",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps3",
+    "id": "1504252014",
+    "titulo": "Red Dead Redemption PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:30",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps3-com-jogos-1504252185",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/red-dead-redemption-ps4-1504252014",
+    "fotoUrl": "https://img.olx.com.br/images/16/169601525768972.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/169601525768972.jpg",
+      "https://img.olx.com.br/images/18/181624408777436.jpg",
+      "https://img.olx.com.br/images/19/194624885116198.jpg",
+      "https://img.olx.com.br/images/21/215672169199038.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779478227
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:30",
     "fotoUrl": "https://img.olx.com.br/images/28/282679401282873.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/282679401282873.jpg",
       "https://img.olx.com.br/images/31/314609402015015.jpg"
     ],
-    "defeito": false,
+    "id": "1504252185",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps3-com-jogos-1504252185",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "PS3 com jogos",
     "ts": 1779478218
   },
   {
@@ -9941,25 +9962,5 @@
     "tempoOlx": "",
     "titulo": "Samsung Galaxy J4+",
     "ts": 1779422053
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:54",
-    "fotoUrl": "https://img.olx.com.br/images/92/924608163886964.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/924608163886964.jpg",
-      "https://img.olx.com.br/images/95/954688881675010.jpg",
-      "https://img.olx.com.br/images/97/976648521876025.jpg"
-    ],
-    "id": "1503747989",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-2-slim-desbloqueado-completo-1503747989",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PLAYSTATION 2 SLIM ( DESBLOQUEADO COMPLETO ) ",
-    "ts": 1779422041
   }
 ]
