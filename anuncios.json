@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504310925",
-    "titulo": "Ps4",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1504310866",
+    "titulo": "Jogo Star Wars Battlefront PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:55",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "detectado": "20:56",
+    "tempoOlx": "Na OLX desde outubro de 2013",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/ps4-1504310925",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-star-wars-battlefront-ps4-1504310866",
+    "fotoUrl": "https://img.olx.com.br/images/67/677698524592292.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/677698524592292.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779494161
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:55",
     "fotoUrl": "https://img.olx.com.br/images/79/796699161900312.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/796699161900312.jpg"
     ],
-    "defeito": false,
+    "id": "1504310925",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/ps4-1504310925",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Ps4",
     "ts": 1779494153
   },
   {
@@ -9909,24 +9927,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "God of War Ragnarok - PS4",
     "ts": 1779457056
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:37",
-    "fotoUrl": "https://img.olx.com.br/images/94/947620155167882.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/947620155167882.jpg",
-      "https://img.olx.com.br/images/95/953690278527817.jpg"
-    ],
-    "id": "1495944317",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/wasteland-2-ps4-1495944317",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Wasteland 2 PS4",
-    "ts": 1779457049
   }
 ]
