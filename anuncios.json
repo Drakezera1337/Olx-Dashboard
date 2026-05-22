@@ -1,20 +1,41 @@
 [
   {
-    "id": "1504168845",
-    "titulo": "Vendo Vídeo Game ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1504168044",
+    "titulo": "PlayStation 5 com 2 controles originais",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:03",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "tempoOlx": "Na OLX desde julho de 2015",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/vendo-video-game-1504168845",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/playstation-5-com-2-controles-originais-1504168044",
+    "fotoUrl": "https://img.olx.com.br/images/16/165664169914744.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/165664169914744.jpg",
+      "https://img.olx.com.br/images/19/195670520011587.jpg",
+      "https://img.olx.com.br/images/21/215681643671881.jpg",
+      "https://img.olx.com.br/images/22/222605285167379.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779458607
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:03",
     "fotoUrl": "https://img.olx.com.br/images/83/835608644306502.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/835608644306502.jpg"
     ],
-    "defeito": false,
+    "id": "1504168845",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/vendo-video-game-1504168845",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Vendo Vídeo Game ",
     "ts": 1779458598
   },
   {
@@ -9990,28 +10011,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Divinity: Original Sin - Jogo PS4",
     "ts": 1779395995
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:32",
-    "fotoUrl": "https://img.olx.com.br/images/82/826650168794207.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/826650168794207.jpg",
-      "https://img.olx.com.br/images/81/815605164314423.jpg",
-      "https://img.olx.com.br/images/81/818613164006838.jpg",
-      "https://img.olx.com.br/images/82/827695409906119.jpg",
-      "https://img.olx.com.br/images/82/821666407518706.jpg",
-      "https://img.olx.com.br/images/82/828694763383365.jpg"
-    ],
-    "id": "1504007627",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/playstation-3-slim-1504007627",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "PLAYSTATION 3 SLIM",
-    "ts": 1779395543
   }
 ]
