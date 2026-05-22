@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504255755",
-    "titulo": "PS PORTAL ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "outros",
+    "id": "1504255261",
+    "titulo": "PLAYSTATION 3 SUPER SLIM PRETO",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "16:44",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps-portal-1504255755",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-3-super-slim-preto-1504255261",
+    "fotoUrl": "https://img.olx.com.br/images/14/148685642650832.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/148685642650832.jpg",
+      "https://img.olx.com.br/images/15/152682762862703.jpg",
+      "https://img.olx.com.br/images/17/172658526126281.jpg",
+      "https://img.olx.com.br/images/20/200671047952987.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779479069
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:44",
     "fotoUrl": "https://img.olx.com.br/images/79/790674168175857.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/790674168175857.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/29/296674405262227.jpg",
       "https://img.olx.com.br/images/79/793631401225988.jpg"
     ],
-    "defeito": false,
+    "id": "1504255755",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps-portal-1504255755",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "PS PORTAL ",
     "ts": 1779479059
   },
   {
@@ -9941,28 +9962,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Celular OPPO",
-    "ts": 1779422053
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:54",
-    "fotoUrl": "https://img.olx.com.br/images/93/938668883073905.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/938668883073905.jpg",
-      "https://img.olx.com.br/images/94/949691283897921.jpg",
-      "https://img.olx.com.br/images/96/966626408959075.jpg",
-      "https://img.olx.com.br/images/97/978671526203117.jpg",
-      "https://img.olx.com.br/images/99/996685524843806.jpg"
-    ],
-    "id": "1503125761",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-15-pro-max-256gb-1503125761",
-    "preco": 4800,
-    "precoRaw": "R$ 4.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo IPhone 15 Pro Max 256GB",
     "ts": 1779422053
   }
 ]
