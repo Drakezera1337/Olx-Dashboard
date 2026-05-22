@@ -1,21 +1,43 @@
 [
   {
-    "id": "1492595036",
-    "titulo": ".Vende-se Xbox séries S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1504253609",
+    "titulo": "Nintendo switch lite V2 ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "16:33",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "detectado": "16:36",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/vende-se-xbox-series-s-1492595036",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/nintendo-switch-lite-v2-1504253609",
+    "fotoUrl": "https://img.olx.com.br/images/40/402645764971926.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/402645764971926.jpg",
+      "https://img.olx.com.br/images/41/418673403635693.jpg",
+      "https://img.olx.com.br/images/43/435696526316658.jpg",
+      "https://img.olx.com.br/images/44/447653640883081.jpg",
+      "https://img.olx.com.br/images/45/458675408900696.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779478609
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:33",
     "fotoUrl": "https://img.olx.com.br/images/98/984672519652797.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/984672519652797.jpg",
       "https://img.olx.com.br/images/10/109648636357905.jpg"
     ],
-    "defeito": false,
+    "id": "1492595036",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/vende-se-xbox-series-s-1492595036",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "titulo": ".Vende-se Xbox séries S ",
     "ts": 1779478430
   },
   {
@@ -9940,27 +9962,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Asus ZenFone 9 5G Compacto Topo de Linha ",
-    "ts": 1779422053
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:54",
-    "fotoUrl": "https://img.olx.com.br/images/69/693689396083358.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/693689396083358.jpg",
-      "https://img.olx.com.br/images/70/705602399077747.jpg",
-      "https://img.olx.com.br/images/71/718640270867169.jpg",
-      "https://img.olx.com.br/images/72/726663753059912.jpg"
-    ],
-    "id": "1497801800",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/poco-x6-pro-1497801800",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "POCO X6 PRO",
     "ts": 1779422053
   }
 ]
