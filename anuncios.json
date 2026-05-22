@@ -1,22 +1,44 @@
 [
   {
-    "id": "1504066467",
-    "titulo": "Ps4 slim 500GB",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1504066895",
+    "titulo": "Iphone 6 com defeito",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "21:58",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "detectado": "22:00",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-500gb-1504066467",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-6-com-defeito-1504066895",
+    "fotoUrl": "https://img.olx.com.br/images/26/263689885103456.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/263689885103456.jpg",
+      "https://img.olx.com.br/images/28/284637286418792.jpg",
+      "https://img.olx.com.br/images/30/305632400559929.jpg",
+      "https://img.olx.com.br/images/31/319629644856804.jpg",
+      "https://img.olx.com.br/images/33/332660286009505.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779411654
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:58",
     "fotoUrl": "https://img.olx.com.br/images/29/297661160643190.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/297661160643190.jpg",
       "https://img.olx.com.br/images/30/303694162306970.jpg",
       "https://img.olx.com.br/images/31/315605285226148.jpg"
     ],
-    "defeito": false,
+    "id": "1504066467",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-500gb-1504066467",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Ps4 slim 500GB",
     "ts": 1779411528
   },
   {
@@ -9830,25 +9852,5 @@
     "tempoOlx": "Na OLX desde junho de 2013",
     "titulo": "PACOTE DE JOGOS DE PS4",
     "ts": 1779371338
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:44",
-    "fotoUrl": "https://img.olx.com.br/images/41/419617524235933.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/419617524235933.jpg",
-      "https://img.olx.com.br/images/43/436690521948446.jpg",
-      "https://img.olx.com.br/images/44/447629643418389.jpg"
-    ],
-    "id": "1503890354",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-distiny-renegados-ps4-1503890354",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Jogo DISTINY RENEGADOS PS4",
-    "ts": 1779371058
   }
 ]
