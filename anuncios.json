@@ -1,21 +1,44 @@
 [
   {
-    "id": "1504058962",
-    "titulo": "Final Fantasy collection PS4",
-    "preco": 330,
-    "precoRaw": "R$ 330",
+    "id": "1504058974",
+    "titulo": "PS4 slim",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:18",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/final-fantasy-collection-ps4-1504058962",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-slim-1504058974",
+    "fotoUrl": "https://img.olx.com.br/images/42/427607281960051.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/427607281960051.jpg",
+      "https://img.olx.com.br/images/44/441697400425428.jpg",
+      "https://img.olx.com.br/images/46/463623526562207.jpg",
+      "https://img.olx.com.br/images/48/487663767673459.jpg",
+      "https://img.olx.com.br/images/50/501652769076686.jpg",
+      "https://img.olx.com.br/images/51/512665161492901.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779409094
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:18",
     "fotoUrl": "https://img.olx.com.br/images/88/885635160413630.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/885635160413630.jpg",
       "https://img.olx.com.br/images/89/894680281846303.jpg"
     ],
-    "defeito": false,
+    "id": "1504058962",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/final-fantasy-collection-ps4-1504058962",
+    "preco": 330,
+    "precoRaw": "R$ 330",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "Final Fantasy collection PS4",
     "ts": 1779409085
   },
   {
@@ -9832,25 +9855,5 @@
     "tempoOlx": "Na OLX desde junho de 2014",
     "titulo": "Moonlighter PS4",
     "ts": 1779368863
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:07",
-    "fotoUrl": "https://img.olx.com.br/images/65/659696885358374.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/659696885358374.jpg",
-      "https://img.olx.com.br/images/67/671645167024829.jpg",
-      "https://img.olx.com.br/images/68/684667641364429.jpg"
-    ],
-    "id": "1503879401",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-3-com-dlcs-1503879401",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "Dark Souls 3 com DLCs",
-    "ts": 1779368856
   }
 ]
