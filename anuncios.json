@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504073812",
-    "titulo": "iPhone 15 pro Max 256 estado zero",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
-    "categoria": "iphone",
+    "id": "1504074375",
+    "titulo": "FIFA 19 80,00 OS DEMAIS 50,00",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "22:36",
-    "tempoOlx": "Na OLX desde fevereiro de 2013",
+    "detectado": "22:39",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-estado-zero-1504073812",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/fifa-19-80-00-os-demais-50-00-1504074375",
+    "fotoUrl": "https://img.olx.com.br/images/43/434675166364435.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/434675166364435.jpg",
+      "https://img.olx.com.br/images/45/454656884924537.jpg",
+      "https://img.olx.com.br/images/46/464692406381150.jpg",
+      "https://img.olx.com.br/images/47/470603407904722.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779413995
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:36",
     "fotoUrl": "https://img.olx.com.br/images/21/213608769495318.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/213608769495318.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/25/257690401230243.jpg",
       "https://img.olx.com.br/images/27/277652160514551.jpg"
     ],
-    "defeito": false,
+    "id": "1504073812",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-estado-zero-1504073812",
+    "preco": 4000,
+    "precoRaw": "R$ 4.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2013",
+    "titulo": "iPhone 15 pro Max 256 estado zero",
     "ts": 1779413814
   },
   {
@@ -9836,23 +9857,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Far Cry New Dawn PS4",
     "ts": 1779372342
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:05",
-    "fotoUrl": "https://img.olx.com.br/images/57/570692520160173.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/570692520160173.jpg"
-    ],
-    "id": "1503897655",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/god-of-war-ps4-1503897655",
-    "preco": 109,
-    "precoRaw": "R$ 109",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "God of War PS4",
-    "ts": 1779372332
   }
 ]
