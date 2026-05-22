@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504178092",
-    "titulo": "PS4 slim ",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "categoria": "ps4",
+    "id": "1504179403",
+    "titulo": "Console Xbox Series S",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "11:39",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "11:42",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-slim-1504178092",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/console-xbox-series-s-1504179403",
+    "fotoUrl": "https://img.olx.com.br/images/62/623670641933281.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/623670641933281.jpg",
+      "https://img.olx.com.br/images/62/620603045439917.jpg",
+      "https://img.olx.com.br/images/62/622625525927695.jpg",
+      "https://img.olx.com.br/images/62/620684520830989.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779460941
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
     "fotoUrl": "https://img.olx.com.br/images/43/430629882803445.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/430629882803445.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/31/310615766808390.jpg",
       "https://img.olx.com.br/images/32/323677522194766.jpg"
     ],
-    "defeito": false,
+    "id": "1504178092",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-slim-1504178092",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "PS4 slim ",
     "ts": 1779460783
   },
   {
@@ -9984,25 +10005,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "Ps5 slim com defeito",
     "ts": 1779398424
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:16",
-    "fotoUrl": "https://img.olx.com.br/images/54/543632767069236.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/543632767069236.jpg",
-      "https://img.olx.com.br/images/57/577607764475151.jpg",
-      "https://img.olx.com.br/images/59/599617286592331.jpg"
-    ],
-    "id": "1504018424",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/elden-ring-e-the-last-of-us-2-1504018424",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2021",
-    "titulo": "Elden ring é the last of us 2",
-    "ts": 1779398184
   }
 ]
