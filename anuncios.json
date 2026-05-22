@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504207209",
-    "titulo": "Ps4",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1504206364",
+    "titulo": "pes 2015 (ps4)",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "13:27",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1504207209",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2015-ps4-1504206364",
+    "fotoUrl": "https://img.olx.com.br/images/65/658670401064198.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/658670401064198.jpg",
+      "https://img.olx.com.br/images/42/422675762919777.jpg",
+      "https://img.olx.com.br/images/60/600695407210390.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779467247
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:27",
     "fotoUrl": "https://img.olx.com.br/images/67/672681163189455.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/672681163189455.jpg",
       "https://img.olx.com.br/images/68/688601169647950.jpg"
     ],
-    "defeito": false,
+    "id": "1504207209",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1504207209",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Ps4",
     "ts": 1779467239
   },
   {
@@ -9974,23 +9994,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "Call of Duty Black ops 4 PS4",
     "ts": 1779406406
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:29",
-    "fotoUrl": "https://img.olx.com.br/images/33/333604276214371.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/333604276214371.jpg"
-    ],
-    "id": "1494394246",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/videogame-playstation-3-acessorios-1494394246",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Videogame Playstation 3 + Acessórios",
-    "ts": 1779406174
   }
 ]
