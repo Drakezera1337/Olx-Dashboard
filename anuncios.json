@@ -1,20 +1,43 @@
 [
   {
-    "id": "1504154188",
-    "titulo": "Jogo de PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1419947592",
+    "titulo": "Jogo Cyberpunk 2077 PS4 PS5 Edição Especial",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "10:41",
-    "tempoOlx": "Na OLX desde junho de 2019",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-de-ps4-1504154188",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-cyberpunk-2077-ps4-ps5-edicao-especial-1419947592",
+    "fotoUrl": "https://img.olx.com.br/images/30/303555559286249.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/303555559286249.jpg",
+      "https://img.olx.com.br/images/33/330598198247196.jpg",
+      "https://img.olx.com.br/images/22/228631758329362.jpg",
+      "https://img.olx.com.br/images/45/451555317547093.jpg",
+      "https://img.olx.com.br/images/51/517584676107489.jpg",
+      "https://img.olx.com.br/images/78/785513319617856.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779457275
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:41",
     "fotoUrl": "https://img.olx.com.br/images/74/744658164223086.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/744658164223086.jpg"
     ],
-    "defeito": false,
+    "id": "1504154188",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-de-ps4-1504154188",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2019",
+    "titulo": "Jogo de PS4",
     "ts": 1779457266
   },
   {
@@ -10003,23 +10026,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Play Station 4",
     "ts": 1779392634
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:43",
-    "fotoUrl": "https://img.olx.com.br/images/83/833611381203205.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/833611381203205.jpg"
-    ],
-    "id": "1485814900",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/minecraft-ps4-e-ps5-m-i-d-i-a-d-i-g-i-t-a-l-1485814900",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Minecraft ps4 e ps5 - M i d i a    D i g i t a l ",
-    "ts": 1779392588
   }
 ]
