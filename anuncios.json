@@ -1,22 +1,43 @@
 [
   {
-    "id": "1486163821",
-    "titulo": "Starter Disc ",
-    "preco": 29,
-    "precoRaw": "R$ 29",
-    "categoria": "outros",
+    "id": "1504219924",
+    "titulo": "PlayStation 5 versão slim 2 controle",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "14:20",
-    "tempoOlx": "Na OLX desde setembro de 2016",
+    "detectado": "14:25",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/starter-disc-1486163821",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-5-versao-slim-2-controle-1504219924",
+    "fotoUrl": "https://img.olx.com.br/images/89/894658040017115.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/894658040017115.jpg",
+      "https://img.olx.com.br/images/90/908668768803312.jpg",
+      "https://img.olx.com.br/images/91/916641528743990.jpg",
+      "https://img.olx.com.br/images/92/927641047108755.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779470719
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:20",
     "fotoUrl": "https://img.olx.com.br/images/45/451646381932313.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/451646381932313.jpg",
       "https://img.olx.com.br/images/47/476613268108432.jpg",
       "https://img.olx.com.br/images/48/486616745547458.jpg"
     ],
-    "defeito": false,
+    "id": "1486163821",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/starter-disc-1486163821",
+    "preco": 29,
+    "precoRaw": "R$ 29",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2016",
+    "titulo": "Starter Disc ",
     "ts": 1779470441
   },
   {
@@ -9980,23 +10001,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Ps4",
     "ts": 1779411483
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:57",
-    "fotoUrl": "https://img.olx.com.br/images/18/180690260890252.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/180690260890252.jpg"
-    ],
-    "id": "1485507649",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-ps4-1485507649",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "God of War ps4",
-    "ts": 1779411474
   }
 ]
