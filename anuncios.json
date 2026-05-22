@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504065309",
-    "titulo": "Jogos Ps4",
-    "preco": 250,
-    "precoRaw": "R$ 250",
+    "id": "1502705019",
+    "titulo": "PlayStation 4 ",
+    "preco": 840,
+    "precoRaw": "R$ 840",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:45",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "detectado": "21:47",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-1504065309",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1502705019",
+    "fotoUrl": "https://img.olx.com.br/images/33/336638408805657.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/336638408805657.jpg",
+      "https://img.olx.com.br/images/34/343683164005853.jpg",
+      "https://img.olx.com.br/images/35/356655763269870.jpg",
+      "https://img.olx.com.br/images/36/361677402214541.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779410844
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:45",
     "fotoUrl": "https://img.olx.com.br/images/33/336600289918521.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/336600289918521.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/36/366661520000162.jpg",
       "https://img.olx.com.br/images/38/387630760809257.jpg"
     ],
-    "defeito": false,
+    "id": "1504065309",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-1504065309",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "Jogos Ps4",
     "ts": 1779410755
   },
   {
@@ -9835,23 +9856,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Jogo PS4 The Last of Us 2",
     "ts": 1779369981
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:26",
-    "fotoUrl": "https://img.olx.com.br/images/61/619667380356474.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/619667380356474.jpg"
-    ],
-    "id": "1490112329",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/call-of-duty-ww2-ps4-japones-1490112329",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2024",
-    "titulo": "Call of duty ww2 PS4 japonês",
-    "ts": 1779369972
   }
 ]
