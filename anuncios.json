@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504230401",
-    "titulo": "IPhone 16e",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "categoria": "iphone",
+    "id": "1488871134",
+    "titulo": "PlayStation 4 slim 1 Terabyte + 2 jogos + 1 Controle",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:08",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "detectado": "15:11",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16e-1504230401",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-4-slim-1-terabyte-2-jogos-1-controle-1488871134",
+    "fotoUrl": "https://img.olx.com.br/images/18/184664505119106.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/184664505119106.jpg",
+      "https://img.olx.com.br/images/20/202654262539003.jpg",
+      "https://img.olx.com.br/images/22/226659741188792.jpg",
+      "https://img.olx.com.br/images/23/233691027626191.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779473480
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:08",
     "fotoUrl": "https://img.olx.com.br/images/90/904652286677651.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/904652286677651.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/97/975606640287663.jpg",
       "https://img.olx.com.br/images/99/997681288518358.jpg"
     ],
-    "defeito": false,
+    "id": "1504230401",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16e-1504230401",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "IPhone 16e",
     "ts": 1779473329
   },
   {
@@ -9964,27 +9985,5 @@
     "tempoOlx": "Na OLX desde maio de 2013",
     "titulo": "Star Wars Squadrons Ps4 usado ",
     "ts": 1779415401
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:03",
-    "fotoUrl": "https://img.olx.com.br/images/76/765642763472612.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/765642763472612.jpg",
-      "https://img.olx.com.br/images/70/704610286948518.jpg",
-      "https://img.olx.com.br/images/70/708603288796334.jpg",
-      "https://img.olx.com.br/images/70/702667408645859.jpg",
-      "https://img.olx.com.br/images/70/701620523538789.jpg"
-    ],
-    "id": "1504077959",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/resident-evil-4-ps4-e-ps5-30-dias-1504077959",
-    "preco": 10,
-    "precoRaw": "R$ 10",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Resident Evil 4 PS4 e PS5 (30 dias)",
-    "ts": 1779415392
   }
 ]
