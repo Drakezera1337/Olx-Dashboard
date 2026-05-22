@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504301948",
-    "titulo": "PLAYSTATION 4 FAT",
-    "preco": 550,
-    "precoRaw": "R$ 550",
+    "id": "1504301630",
+    "titulo": "PlayStation 4 com 2 controles",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:10",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde julho de 2024",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/playstation-4-fat-1504301948",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-com-2-controles-1504301630",
+    "fotoUrl": "https://img.olx.com.br/images/29/290617528953300.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/290617528953300.jpg",
+      "https://img.olx.com.br/images/30/301663169511112.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779491426
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:10",
     "fotoUrl": "https://img.olx.com.br/images/57/573629646699135.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/573629646699135.jpg"
     ],
-    "defeito": false,
+    "id": "1504301948",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/playstation-4-fat-1504301948",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PLAYSTATION 4 FAT",
     "ts": 1779491418
   },
   {
@@ -9920,23 +9939,5 @@
     "tempoOlx": "Na OLX desde setembro de 2017",
     "titulo": "PS4 + 1 controle + 8 jogos",
     "ts": 1779456845
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/31/310630167284053.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/310630167284053.jpg"
-    ],
-    "id": "1504136298",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-semi-novo-1504136298",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
-    "titulo": "PlayStation 4 semi novo",
-    "ts": 1779456837
   }
 ]
