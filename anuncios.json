@@ -1,7 +1,7 @@
 [
   {
-    "id": "1470297465",
-    "titulo": "Spider-man ",
+    "id": "1470298240",
+    "titulo": "THE LAST OF US: Remasterizado.",
     "preco": 100,
     "precoRaw": "R$ 100",
     "categoria": "jogos",
@@ -9,14 +9,34 @@
     "detectado": "10:43",
     "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spider-man-1470297465",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-remasterizado-1470298240",
+    "fotoUrl": "https://img.olx.com.br/images/23/233644245341602.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/233644245341602.jpg",
+      "https://img.olx.com.br/images/25/251601361055413.jpg",
+      "https://img.olx.com.br/images/28/282628126543310.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779457405
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:43",
     "fotoUrl": "https://img.olx.com.br/images/52/526679367383496.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/526679367383496.jpg",
       "https://img.olx.com.br/images/54/541622129038518.jpg",
       "https://img.olx.com.br/images/55/552689842686473.jpg"
     ],
-    "defeito": false,
+    "id": "1470297465",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spider-man-1470297465",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Spider-man ",
     "ts": 1779457397
   },
   {
@@ -9997,28 +10017,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "Saga Judgment",
     "ts": 1779393596
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:59",
-    "fotoUrl": "https://img.olx.com.br/images/49/491660526372059.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/491660526372059.jpg",
-      "https://img.olx.com.br/images/51/513686046488993.jpg",
-      "https://img.olx.com.br/images/54/541680529085117.jpg",
-      "https://img.olx.com.br/images/55/551674888379705.jpg",
-      "https://img.olx.com.br/images/57/570603048409300.jpg",
-      "https://img.olx.com.br/images/59/591632648240236.jpg"
-    ],
-    "id": "1503999501",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/jogo-ps4-1503999501",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "JOGO PS4",
-    "ts": 1779393586
   }
 ]
