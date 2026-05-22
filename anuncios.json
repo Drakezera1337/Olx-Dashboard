@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504173800",
-    "titulo": "Playstation 4",
-    "preco": 850,
-    "precoRaw": "R$ 850",
+    "id": "1493479252",
+    "titulo": "Vende-se PS4 +6 jogos em mídia fisica",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:20",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "tempoOlx": "Na OLX desde setembro de 2016",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1504173800",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/vende-se-ps4-6-jogos-em-midia-fisica-1493479252",
+    "fotoUrl": "https://img.olx.com.br/images/98/988626517589965.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/988626517589965.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779459632
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:20",
     "fotoUrl": "https://img.olx.com.br/images/82/828624884108834.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/828624884108834.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/10/109630409560129.jpg",
       "https://img.olx.com.br/images/15/154695403467622.jpg"
     ],
-    "defeito": false,
+    "id": "1504173800",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1504173800",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Playstation 4",
     "ts": 1779459620
   },
   {
@@ -9995,25 +10013,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Playstation 3 - desbloqueado",
     "ts": 1779396084
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:40",
-    "fotoUrl": "https://img.olx.com.br/images/51/511694276981446.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/511694276981446.jpg",
-      "https://img.olx.com.br/images/52/525635394254898.jpg",
-      "https://img.olx.com.br/images/53/537696154502568.jpg"
-    ],
-    "id": "1495716173",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/disco-elysium-ps4-midia-fisica-raro-1495716173",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "Disco Elysium PS4 - Midia Fisica Raro!",
-    "ts": 1779396042
   }
 ]
