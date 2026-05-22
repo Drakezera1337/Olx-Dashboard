@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504147760",
-    "titulo": "Vendo PsVita ligando mas não da imagem",
-    "preco": 200,
-    "precoRaw": "R$ 200",
+    "id": "1486995259",
+    "titulo": "Mini Game portatil R36H 15 mil jogos",
+    "preco": 300,
+    "precoRaw": "R$ 300",
     "categoria": "outros",
     "publicado": "",
     "detectado": "10:36",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "tempoOlx": "Na OLX desde novembro de 2013",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-psvita-ligando-mas-nao-da-imagem-1504147760",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/mini-game-portatil-r36h-15-mil-jogos-1486995259",
+    "fotoUrl": "https://img.olx.com.br/images/41/416665625836628.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/416665625836628.jpg",
+      "https://img.olx.com.br/images/41/413625149492382.jpg",
+      "https://img.olx.com.br/images/41/419613263937854.jpg",
+      "https://img.olx.com.br/images/41/418646744312297.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779457006
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:36",
     "fotoUrl": "https://img.olx.com.br/images/34/347631644746364.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/347631644746364.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/35/353659288759524.jpg",
       "https://img.olx.com.br/images/35/350632527197951.jpg"
     ],
-    "defeito": false,
+    "id": "1504147760",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-psvita-ligando-mas-nao-da-imagem-1504147760",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Vendo PsVita ligando mas não da imagem",
     "ts": 1779456999
   },
   {
@@ -10020,25 +10041,5 @@
     "tempoOlx": "Na OLX desde junho de 2018",
     "titulo": "PS4",
     "ts": 1779390040
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:00",
-    "fotoUrl": "https://img.olx.com.br/images/82/826516152520213.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/826516152520213.jpg",
-      "https://img.olx.com.br/images/83/833593272619686.jpg",
-      "https://img.olx.com.br/images/83/833515398034461.jpg"
-    ],
-    "id": "1397363584",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-ps3-e-ps4-nao-envio-via-correios-1397363584",
-    "preco": 790,
-    "precoRaw": "R$ 790",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "Jogos PS3 e PS4 - Não envio via correios",
-    "ts": 1779390028
   }
 ]
