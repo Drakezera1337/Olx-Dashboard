@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504286859",
-    "titulo": "Jogos de ps4",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps4",
+    "id": "1504289030",
+    "titulo": "Starlink Battle for Atlas",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:04",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "detectado": "19:05",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-de-ps4-1504286859",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/starlink-battle-for-atlas-1504289030",
+    "fotoUrl": "https://img.olx.com.br/images/91/918690401489620.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/918690401489620.jpg",
+      "https://img.olx.com.br/images/92/926631287118807.jpg",
+      "https://img.olx.com.br/images/94/949604882469823.jpg",
+      "https://img.olx.com.br/images/95/950616409718411.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779487549
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:04",
     "fotoUrl": "https://img.olx.com.br/images/88/888611164362339.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/888611164362339.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/95/950641401634830.jpg",
       "https://img.olx.com.br/images/97/970645760268452.jpg"
     ],
-    "defeito": false,
+    "id": "1504286859",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-de-ps4-1504286859",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "Jogos de ps4",
     "ts": 1779487440
   },
   {
@@ -9900,25 +9921,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "powkidd v90 com cartao 64",
-    "ts": 1779422200
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:56",
-    "fotoUrl": "https://img.olx.com.br/images/22/220663768127637.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/220663768127637.jpg",
-      "https://img.olx.com.br/images/95/959647644256359.jpg"
-    ],
-    "id": "1500947313",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/powkidd-q90-carta32-gb-com-jogos-1500947313",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "powkidd q90 carta32 gb com jogos",
     "ts": 1779422200
   }
 ]
