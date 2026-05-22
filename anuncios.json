@@ -1,22 +1,40 @@
 [
   {
-    "id": "1504060095",
-    "titulo": "PlayStation 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1504061422",
+    "titulo": "Jogo ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:24",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "21:28",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/playstation-5-1504060095",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/jogo-ps4-1504061422",
+    "fotoUrl": "https://img.olx.com.br/images/77/779650400282711.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/779650400282711.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779409734
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:24",
     "fotoUrl": "https://img.olx.com.br/images/31/319669282750208.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/319669282750208.jpg",
       "https://img.olx.com.br/images/32/322692403167839.jpg",
       "https://img.olx.com.br/images/33/335668525203178.jpg"
     ],
-    "defeito": false,
+    "id": "1504060095",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/playstation-5-1504060095",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "PlayStation 5",
     "ts": 1779409492
   },
   {
@@ -9834,23 +9852,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Street fighter 6 ps4",
     "ts": 1779369279
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:14",
-    "fotoUrl": "https://img.olx.com.br/images/86/865545437542439.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/865545437542439.jpg"
-    ],
-    "id": "1377142387",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/armello-special-edition-ps4-1377142387",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Armello Special Edition - Ps4",
-    "ts": 1779369270
   }
 ]
