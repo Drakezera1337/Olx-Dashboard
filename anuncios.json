@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504080915",
-    "titulo": "Grand Theft Auto V PS4 e PS5 (30 Dias)",
-    "preco": 10,
-    "precoRaw": "R$ 10",
+    "id": "1504081176",
+    "titulo": "PlayStation 5 Slim Digital",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "23:24",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "23:27",
+    "tempoOlx": "Na OLX desde abril de 2020",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/grand-theft-auto-v-ps4-e-ps5-30-dias-1504080915",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-5-slim-digital-1504081176",
+    "fotoUrl": "https://img.olx.com.br/images/24/242609286164916.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/242609286164916.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779416842
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:24",
     "fotoUrl": "https://img.olx.com.br/images/16/162696525451440.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/162696525451440.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/43/436622526530787.jpg",
       "https://img.olx.com.br/images/43/434605643010154.jpg"
     ],
-    "defeito": false,
+    "id": "1504080915",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/grand-theft-auto-v-ps4-e-ps5-30-dias-1504080915",
+    "preco": 10,
+    "precoRaw": "R$ 10",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Grand Theft Auto V PS4 e PS5 (30 Dias)",
     "ts": 1779416682
   },
   {
@@ -9860,23 +9878,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Kit Jogos PS4",
     "ts": 1779374424
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:39",
-    "fotoUrl": "https://img.olx.com.br/images/28/283616407537872.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/283616407537872.jpg"
-    ],
-    "id": "1503908272",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-1503908272",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Ps3 ",
-    "ts": 1779374372
   }
 ]
