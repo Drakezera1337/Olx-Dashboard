@@ -1,22 +1,40 @@
 [
   {
-    "id": "1504214564",
-    "titulo": "Horizon forbidden west",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "categoria": "jogos",
+    "id": "1504214385",
+    "titulo": "Lotes de jogos ps4 2",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:04",
-    "tempoOlx": "Na OLX desde setembro de 2016",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-1504214564",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lotes-de-jogos-ps4-2-1504214385",
+    "fotoUrl": "https://img.olx.com.br/images/69/696605647800397.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/696605647800397.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779469451
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:04",
     "fotoUrl": "https://img.olx.com.br/images/35/354603885164676.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/354603885164676.jpg",
       "https://img.olx.com.br/images/37/374662408950136.jpg",
       "https://img.olx.com.br/images/90/909653523273873.jpg"
     ],
-    "defeito": false,
+    "id": "1504214564",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-1504214564",
+    "preco": 89,
+    "precoRaw": "R$ 89",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2016",
+    "titulo": "Horizon forbidden west",
     "ts": 1779469441
   },
   {
@@ -9985,28 +10003,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "PlayStation 4",
     "ts": 1779410095
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:30",
-    "fotoUrl": "https://img.olx.com.br/images/98/985617649646597.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/985617649646597.jpg",
-      "https://img.olx.com.br/images/11/112625523429893.jpg",
-      "https://img.olx.com.br/images/65/651636289127872.jpg",
-      "https://img.olx.com.br/images/66/661673642043837.jpg",
-      "https://img.olx.com.br/images/67/679621766893209.jpg",
-      "https://img.olx.com.br/images/69/696693762731557.jpg"
-    ],
-    "id": "1504061928",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/meta-quest-3s-128gb-completo-brinde-carregador-e-pilhas-apenas-4-meses-de-uso-1504061928",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Meta Quest 3S 128GB - Completo + Brinde Carregador e Pilhas (Apenas 4 meses de uso!)",
-    "ts": 1779409824
   }
 ]
