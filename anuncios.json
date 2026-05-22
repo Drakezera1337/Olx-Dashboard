@@ -1,22 +1,40 @@
 [
   {
-    "id": "1402568449",
-    "titulo": "Destiny - PS4 ",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1504248689",
+    "titulo": "PS4 usado com defeito",
+    "preco": 450,
+    "precoRaw": "R$ 450",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:16",
-    "tempoOlx": "Na OLX desde novembro de 2024",
+    "detectado": "16:19",
+    "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/destiny-ps4-1402568449",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps4-usado-com-defeito-1504248689",
+    "fotoUrl": "https://img.olx.com.br/images/83/838677284615078.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/838677284615078.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779477561
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:16",
     "fotoUrl": "https://img.olx.com.br/images/90/901559525276536.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/901559525276536.jpg",
       "https://img.olx.com.br/images/94/940577760874473.jpg",
       "https://img.olx.com.br/images/89/897533288150137.jpg"
     ],
-    "defeito": false,
+    "id": "1402568449",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/destiny-ps4-1402568449",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2024",
+    "titulo": "Destiny - PS4 ",
     "ts": 1779477407
   },
   {
@@ -9936,28 +9954,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 14 128gb sem detalhes ",
-    "ts": 1779422033
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:53",
-    "fotoUrl": "https://img.olx.com.br/images/87/878679289179242.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/878679289179242.jpg",
-      "https://img.olx.com.br/images/88/885669046885717.jpg",
-      "https://img.olx.com.br/images/90/900673764484891.jpg",
-      "https://img.olx.com.br/images/91/916664282159149.jpg",
-      "https://img.olx.com.br/images/97/978668525613129.jpg"
-    ],
-    "id": "1503871899",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-zero-1503871899",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 15 128GB zero! ",
     "ts": 1779422033
   }
 ]
