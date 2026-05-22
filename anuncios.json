@@ -1,15 +1,29 @@
 [
   {
-    "id": "1504193640",
-    "titulo": "Ps4 500 GB + 3 jogos + 1 controle",
-    "preco": 1049,
-    "precoRaw": "R$ 1.049",
-    "categoria": "ps4",
+    "id": "1504195498",
+    "titulo": "Playstation 5 FAT + 2 jogos",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "12:34",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "detectado": "12:35",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-500-gb-3-jogos-1-controle-1504193640",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-fat-2-jogos-1504195498",
+    "fotoUrl": "https://img.olx.com.br/images/53/533697762709144.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/533697762709144.jpg",
+      "https://img.olx.com.br/images/54/540680286633063.jpg",
+      "https://img.olx.com.br/images/56/563640525436121.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779464148
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:34",
     "fotoUrl": "https://img.olx.com.br/images/33/331616400161962.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/331616400161962.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/37/371641408902301.jpg",
       "https://img.olx.com.br/images/39/394603400154306.jpg"
     ],
-    "defeito": false,
+    "id": "1504193640",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-500-gb-3-jogos-1-controle-1504193640",
+    "preco": 1049,
+    "precoRaw": "R$ 1.049",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "Ps4 500 GB + 3 jogos + 1 controle",
     "ts": 1779464065
   },
   {
@@ -10016,23 +10036,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Elden Ring PS4 ",
     "ts": 1779403675
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:37",
-    "fotoUrl": "https://img.olx.com.br/images/57/572666528591155.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/572666528591155.jpg"
-    ],
-    "id": "1503995916",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-de-ps4-50-cada-1503995916",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Jogos de PS4 (50$ cada)",
-    "ts": 1779403060
   }
 ]
