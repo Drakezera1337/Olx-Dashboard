@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504269967",
-    "titulo": "Nintendo switch lite usado",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "switch",
+    "id": "1503865080",
+    "titulo": "Ps4 1 terá controle, com defeito ( NÃO LIGA)",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:37",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "detectado": "17:39",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://es.olx.com.br/sul-do-espirito-santo/games/consoles-de-video-game/nintendo-switch-lite-usado-1504269967",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-1-tera-controle-com-defeito-nao-liga-1503865080",
+    "fotoUrl": "https://img.olx.com.br/images/25/253642163892017.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/253642163892017.jpg",
+      "https://img.olx.com.br/images/27/270662166078936.jpg",
+      "https://img.olx.com.br/images/29/296695644039140.jpg",
+      "https://img.olx.com.br/images/30/302654769314884.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779482390
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:37",
     "fotoUrl": "https://img.olx.com.br/images/71/714677522498256.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/714677522498256.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/81/819645408608042.jpg",
       "https://img.olx.com.br/images/84/840689405027081.jpg"
     ],
-    "defeito": false,
+    "id": "1504269967",
+    "link": "https://es.olx.com.br/sul-do-espirito-santo/games/consoles-de-video-game/nintendo-switch-lite-usado-1504269967",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "Nintendo switch lite usado",
     "ts": 1779482269
   },
   {
@@ -9947,28 +9968,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "CARCAÇA VAZIA DE PS3 SLIM",
-    "ts": 1779422103
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:55",
-    "fotoUrl": "https://img.olx.com.br/images/37/374610278909930.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/374610278909930.jpg",
-      "https://img.olx.com.br/images/40/401611879490028.jpg",
-      "https://img.olx.com.br/images/43/433633271108991.jpg",
-      "https://img.olx.com.br/images/45/458696632609541.jpg",
-      "https://img.olx.com.br/images/47/470626393617886.jpg"
-    ],
-    "id": "1493313281",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/sonic-generations-ps3-1493313281",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Sonic Generations - PS3",
     "ts": 1779422103
   }
 ]
