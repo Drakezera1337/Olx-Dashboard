@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504062593",
-    "titulo": "PlayStation 4",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps4",
+    "id": "1501592143",
+    "titulo": "Console Xbox Series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "21:35",
-    "tempoOlx": "Na OLX desde julho de 2014",
+    "detectado": "21:36",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-1504062593",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/console-xbox-series-s-1501592143",
+    "fotoUrl": "https://img.olx.com.br/images/91/911656522696755.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/911656522696755.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779410161
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:35",
     "fotoUrl": "https://img.olx.com.br/images/75/750666281249448.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/750666281249448.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/79/792637764231733.jpg",
       "https://img.olx.com.br/images/81/812626287201215.jpg"
     ],
-    "defeito": false,
+    "id": "1504062593",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-1504062593",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2014",
+    "titulo": "PlayStation 4",
     "ts": 1779410153
   },
   {
@@ -9839,28 +9857,5 @@
     "tempoOlx": "Na OLX desde março de 2020",
     "titulo": "PES 2021 original Ps4",
     "ts": 1779369935
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:25",
-    "fotoUrl": "https://img.olx.com.br/images/24/249622645236099.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/249622645236099.jpg",
-      "https://img.olx.com.br/images/26/266697408882477.jpg",
-      "https://img.olx.com.br/images/27/271615640764589.jpg",
-      "https://img.olx.com.br/images/29/294608404847847.jpg",
-      "https://img.olx.com.br/images/30/300601528856599.jpg",
-      "https://img.olx.com.br/images/32/320688285956882.jpg"
-    ],
-    "id": "1503885272",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/cavaleiros-do-zodiaco-batman-arkham-splinter-cell-1503885272",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Cavaleiros do zodíaco + Batman Arkham + Splinter Cell ",
-    "ts": 1779369926
   }
 ]
