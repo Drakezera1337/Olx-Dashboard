@@ -1,21 +1,39 @@
 [
   {
-    "id": "1504227481",
-    "titulo": "PS4 ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1504227327",
+    "titulo": "Jogos PS4",
+    "preco": 550,
+    "precoRaw": "R$ 550",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:53",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "14:54",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-1504227481",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-ps4-1504227327",
+    "fotoUrl": "https://img.olx.com.br/images/20/200660525451982.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/200660525451982.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779472448
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:53",
     "fotoUrl": "https://img.olx.com.br/images/47/474641762956495.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/474641762956495.jpg",
       "https://img.olx.com.br/images/48/488630161291592.jpg"
     ],
-    "defeito": false,
+    "id": "1504227481",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-1504227481",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "PS4 ",
     "ts": 1779472438
   },
   {
@@ -9958,26 +9976,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "Jogo Dragon's Dogma Dark Arisen Ps4",
     "ts": 1779414295
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:39",
-    "fotoUrl": "https://img.olx.com.br/images/43/434675166364435.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/434675166364435.jpg",
-      "https://img.olx.com.br/images/45/454656884924537.jpg",
-      "https://img.olx.com.br/images/46/464692406381150.jpg",
-      "https://img.olx.com.br/images/47/470603407904722.jpg"
-    ],
-    "id": "1504074375",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/fifa-19-80-00-os-demais-50-00-1504074375",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "FIFA 19 80,00 OS DEMAIS 50,00",
-    "ts": 1779413995
   }
 ]
