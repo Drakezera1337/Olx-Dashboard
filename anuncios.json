@@ -1,21 +1,42 @@
 [
   {
-    "id": "1504074883",
-    "titulo": "Jogos de ps4 ",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1504075580",
+    "titulo": "XBOX SERIES-S SSD 512GB ",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "22:45",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "22:46",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-de-ps4-1504074883",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-ssd-512gb-1504075580",
+    "fotoUrl": "https://img.olx.com.br/images/54/549649520730669.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/549649520730669.jpg",
+      "https://img.olx.com.br/images/71/713609403201539.jpg",
+      "https://img.olx.com.br/images/80/802687645434278.jpg",
+      "https://img.olx.com.br/images/88/884636523264768.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779414413
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:45",
     "fotoUrl": "https://img.olx.com.br/images/17/175610644864280.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/175610644864280.jpg",
       "https://img.olx.com.br/images/18/185677400926879.jpg"
     ],
-    "defeito": false,
+    "id": "1504074883",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-de-ps4-1504074883",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Jogos de ps4 ",
     "ts": 1779414332
   },
   {
@@ -9843,23 +9864,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "Fc 24",
     "ts": 1779372653
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:09",
-    "fotoUrl": "https://img.olx.com.br/images/29/290619766905733.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/290619766905733.jpg"
-    ],
-    "id": "1503895803",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps3-1503895803",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "PS3 ",
-    "ts": 1779372592
   }
 ]
