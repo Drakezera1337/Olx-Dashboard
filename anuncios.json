@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504058819",
-    "titulo": "Ps4 ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1504055979",
+    "titulo": "Ps4",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:13",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/ps4-1504058819",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1504055979",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1779408810
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:13",
     "fotoUrl": "https://img.olx.com.br/images/54/547632285699750.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/547632285699750.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/61/619633169630908.jpg",
       "https://img.olx.com.br/images/62/622683768969185.jpg"
     ],
-    "defeito": false,
+    "id": "1504058819",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/ps4-1504058819",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Ps4 ",
     "ts": 1779408803
   },
   {
@@ -9834,25 +9852,5 @@
     "tempoOlx": "Na OLX desde outubro de 2013",
     "titulo": "FIFA 20 - PARA PS4 - EM ÓTIMO ESTADO",
     "ts": 1779368583
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:02",
-    "fotoUrl": "https://img.olx.com.br/images/29/297643643181705.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/297643643181705.jpg",
-      "https://img.olx.com.br/images/30/304629640244215.jpg",
-      "https://img.olx.com.br/images/32/323624769680553.jpg"
-    ],
-    "id": "1503877382",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-playstation-4-playstation-5-steep-1503877382",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2019",
-    "titulo": "Jogo Playstation 4/ Playstation 5 steep ",
-    "ts": 1779368575
   }
 ]
