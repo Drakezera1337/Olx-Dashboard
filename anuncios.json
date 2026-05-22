@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504185349",
-    "titulo": "Playstation 4",
-    "preco": 260,
-    "precoRaw": "R$ 260",
+    "id": "1504190302",
+    "titulo": "Horizon Chase turbo Ps4 Original",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:03",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "detectado": "12:15",
+    "tempoOlx": "Na OLX desde agosto de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1504185349",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/jogos-de-video-game/horizon-chase-turbo-ps4-original-1504190302",
+    "fotoUrl": "https://img.olx.com.br/images/24/249662169294793.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/249662169294793.jpg",
+      "https://img.olx.com.br/images/26/263657408397069.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779462921
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:03",
     "fotoUrl": "https://img.olx.com.br/images/43/433694767897491.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/433694767897491.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/49/495661643160209.jpg",
       "https://img.olx.com.br/images/51/515656764861450.jpg"
     ],
-    "defeito": false,
+    "id": "1504185349",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1504185349",
+    "preco": 260,
+    "precoRaw": "R$ 260",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Playstation 4",
     "ts": 1779462229
   },
   {
@@ -9985,23 +10004,5 @@
     "tempoOlx": "Na OLX desde março de 2018",
     "titulo": "Xbox séries S",
     "ts": 1779399953
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:43",
-    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
-    "fotosUrls": [
-      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
-    ],
-    "id": "1504024552",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-slim-1504024552",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2014",
-    "titulo": "Playstation 5 slim",
-    "ts": 1779399831
   }
 ]
