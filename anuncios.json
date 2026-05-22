@@ -1,20 +1,43 @@
 [
   {
-    "id": "1504169012",
-    "titulo": "Vende-se",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "outros",
+    "id": "1462520049",
+    "titulo": "Jogos de PS4 (Enviamos para todo o Brasil)",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:02",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vende-se-1504169012",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogos-de-ps4-enviamos-para-todo-o-brasil-1462520049",
+    "fotoUrl": "https://img.olx.com.br/images/78/781562597322159.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/781562597322159.jpg",
+      "https://img.olx.com.br/images/79/793554598401053.jpg",
+      "https://img.olx.com.br/images/81/818518236046178.jpg",
+      "https://img.olx.com.br/images/82/829596354568676.jpg",
+      "https://img.olx.com.br/images/85/851506472358918.jpg",
+      "https://img.olx.com.br/images/87/874584358115040.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779458558
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:02",
     "fotoUrl": "https://img.olx.com.br/images/12/124656403096419.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/124656403096419.jpg"
     ],
-    "defeito": false,
+    "id": "1504169012",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vende-se-1504169012",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Vende-se",
     "ts": 1779458549
   },
   {
@@ -9993,24 +10016,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Jogo psp umd piratas do caribe lego",
     "ts": 1779395313
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:28",
-    "fotoUrl": "https://img.olx.com.br/images/16/167518484816162.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/167518484816162.jpg",
-      "https://img.olx.com.br/images/16/164528604113927.jpg"
-    ],
-    "id": "1368858563",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-psp-umd-pes-2012-1368858563",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogo psp umd pes 2012",
-    "ts": 1779395305
   }
 ]
