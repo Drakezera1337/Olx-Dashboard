@@ -1,15 +1,28 @@
 [
   {
-    "id": "1500926942",
-    "titulo": "Console game",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1504095967",
+    "titulo": "Venda se PS4",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:01",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "detectado": "01:03",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/console-game-1500926942",
+    "link": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/venda-se-ps4-1504095967",
+    "fotoUrl": "https://img.olx.com.br/images/44/449643408511761.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/449643408511761.jpg",
+      "https://img.olx.com.br/images/45/453614161849152.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779422627
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:01",
     "fotoUrl": "https://img.olx.com.br/images/86/863691283519434.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/863691283519434.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/89/895650884803159.jpg",
       "https://img.olx.com.br/images/91/913629407784167.jpg"
     ],
-    "defeito": false,
+    "id": "1500926942",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/console-game-1500926942",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Console game",
     "ts": 1779422481
   },
   {
@@ -9992,23 +10011,5 @@
     "tempoOlx": "Na OLX desde maio de 2013",
     "titulo": "Vendo Ps4 Slim 1tb+Rdr2+joystick",
     "ts": 1779384985
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:32",
-    "fotoUrl": "https://img.olx.com.br/images/31/317621276254081.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/317621276254081.jpg"
-    ],
-    "id": "1495048829",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-videogame-originais-1495048829",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2019",
-    "titulo": "Jogos De Videogame, Originais",
-    "ts": 1779384725
   }
 ]
