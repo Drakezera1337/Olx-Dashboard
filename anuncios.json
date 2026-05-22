@@ -1,22 +1,43 @@
 [
   {
-    "id": "1504195498",
-    "titulo": "Playstation 5 FAT + 2 jogos",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "categoria": "ps5",
+    "id": "1502138526",
+    "titulo": "Xbox Series S ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:35",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "detectado": "12:36",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-fat-2-jogos-1504195498",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1502138526",
+    "fotoUrl": "https://img.olx.com.br/images/48/481671765251788.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/481671765251788.jpg",
+      "https://img.olx.com.br/images/54/541661283538229.jpg",
+      "https://img.olx.com.br/images/57/577674761270613.jpg",
+      "https://img.olx.com.br/images/61/619671761203099.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779464179
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:35",
     "fotoUrl": "https://img.olx.com.br/images/53/533697762709144.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/533697762709144.jpg",
       "https://img.olx.com.br/images/54/540680286633063.jpg",
       "https://img.olx.com.br/images/56/563640525436121.jpg"
     ],
-    "defeito": false,
+    "id": "1504195498",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-fat-2-jogos-1504195498",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Playstation 5 FAT + 2 jogos",
     "ts": 1779464148
   },
   {
@@ -10016,25 +10037,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2021",
     "titulo": "Ps4",
     "ts": 1779403685
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:47",
-    "fotoUrl": "https://img.olx.com.br/images/17/177606640194241.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/177606640194241.jpg",
-      "https://img.olx.com.br/images/18/181606282162590.jpg",
-      "https://img.olx.com.br/images/20/200606408063441.jpg"
-    ],
-    "id": "1504038514",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/elden-ring-ps4-1504038514",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Elden Ring PS4 ",
-    "ts": 1779403675
   }
 ]
