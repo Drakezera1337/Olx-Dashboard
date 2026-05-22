@@ -1,21 +1,42 @@
 [
   {
-    "id": "1504062836",
+    "id": "1504062593",
     "titulo": "PlayStation 4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "preco": 250,
+    "precoRaw": "R$ 250",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:34",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "detectado": "21:35",
+    "tempoOlx": "Na OLX desde julho de 2014",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-4-1504062836",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-1504062593",
+    "fotoUrl": "https://img.olx.com.br/images/75/750666281249448.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/750666281249448.jpg",
+      "https://img.olx.com.br/images/77/779660885826109.jpg",
+      "https://img.olx.com.br/images/79/792637764231733.jpg",
+      "https://img.olx.com.br/images/81/812626287201215.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779410153
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:34",
     "fotoUrl": "https://img.olx.com.br/images/13/133638046066514.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/133638046066514.jpg",
       "https://img.olx.com.br/images/14/146629886493428.jpg"
     ],
-    "defeito": false,
+    "id": "1504062836",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-4-1504062836",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "PlayStation 4",
     "ts": 1779410095
   },
   {
@@ -9841,23 +9862,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Cavaleiros do zodíaco + Batman Arkham + Splinter Cell ",
     "ts": 1779369926
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:20",
-    "fotoUrl": "https://img.olx.com.br/images/94/948689888366728.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/948689888366728.jpg"
-    ],
-    "id": "1503882109",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-de-ps4-days-gone-1503882109",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Jogo de ps4 DAYS GONE",
-    "ts": 1779369600
   }
 ]
