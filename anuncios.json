@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504248689",
-    "titulo": "PS4 usado com defeito",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps4",
+    "id": "1504249746",
+    "titulo": "Vendo ",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "16:19",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "detectado": "16:20",
+    "tempoOlx": "Na OLX desde março de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps4-usado-com-defeito-1504248689",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/vendo-1504249746",
+    "fotoUrl": "https://img.olx.com.br/images/73/734696521380748.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/734696521380748.jpg",
+      "https://img.olx.com.br/images/74/747647644998316.jpg",
+      "https://img.olx.com.br/images/76/762674882185865.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779477618
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:19",
     "fotoUrl": "https://img.olx.com.br/images/83/838677284615078.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/838677284615078.jpg"
     ],
-    "defeito": false,
+    "id": "1504248689",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps4-usado-com-defeito-1504248689",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "PS4 usado com defeito",
     "ts": 1779477561
   },
   {
@@ -9932,28 +9952,5 @@
     "tempoOlx": "",
     "titulo": "IPHONE 15 PRO MAX 256 ",
     "ts": 1779422039
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:53",
-    "fotoUrl": "https://img.olx.com.br/images/79/797616049371384.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/797616049371384.jpg",
-      "https://img.olx.com.br/images/80/802677646200247.jpg",
-      "https://img.olx.com.br/images/81/819698648213737.jpg",
-      "https://img.olx.com.br/images/83/836620763168211.jpg",
-      "https://img.olx.com.br/images/84/841624289093396.jpg",
-      "https://img.olx.com.br/images/85/850681640335289.jpg"
-    ],
-    "id": "1503911755",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-128gb-sem-detalhes-1503911755",
-    "preco": 2350,
-    "precoRaw": "R$ 2.350",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14 128gb sem detalhes ",
-    "ts": 1779422033
   }
 ]
