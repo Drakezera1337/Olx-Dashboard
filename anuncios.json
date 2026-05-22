@@ -1,22 +1,43 @@
 [
   {
-    "id": "1470298742",
-    "titulo": "Horizon Zero Dawn ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1503925042",
+    "titulo": "The division",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "10:43",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-1470298742",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-division-1503925042",
+    "fotoUrl": "https://img.olx.com.br/images/76/760659400923506.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/760659400923506.jpg",
+      "https://img.olx.com.br/images/78/783643285269278.jpg",
+      "https://img.olx.com.br/images/79/799652521556396.jpg",
+      "https://img.olx.com.br/images/81/813638169071313.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779457420
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:43",
     "fotoUrl": "https://img.olx.com.br/images/17/171684602492565.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/171684602492565.jpg",
       "https://img.olx.com.br/images/20/202625365891099.jpg",
       "https://img.olx.com.br/images/21/219601723482099.jpg"
     ],
-    "defeito": false,
+    "id": "1470298742",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-1470298742",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Horizon Zero Dawn ",
     "ts": 1779457413
   },
   {
@@ -9997,27 +10018,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Console Playstation 3 U. Slim 250Gb ",
     "ts": 1779393865
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:00",
-    "fotoUrl": "https://img.olx.com.br/images/93/938609526307299.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/938609526307299.jpg",
-      "https://img.olx.com.br/images/95/953640287589489.jpg",
-      "https://img.olx.com.br/images/96/967686405205467.jpg",
-      "https://img.olx.com.br/images/98/981647640468398.jpg",
-      "https://img.olx.com.br/images/10/109611649379207.jpg"
-    ],
-    "id": "1503998969",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-de-play-4-lego-1503998969",
-    "preco": 210,
-    "precoRaw": "R$ 210",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2017",
-    "titulo": "JOGOS DE PLAY 4 LEGO ",
-    "ts": 1779393605
   }
 ]
