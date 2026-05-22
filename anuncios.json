@@ -1,21 +1,40 @@
 [
   {
-    "id": "1504182264",
-    "titulo": "Ps4 500gb 2 controles",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1504182190",
+    "titulo": "Venda - PlayStation 5",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "11:55",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "11:56",
+    "tempoOlx": "Na OLX desde maio de 2015",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-500gb-2-controles-1504182264",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/venda-playstation-5-1504182190",
+    "fotoUrl": "https://img.olx.com.br/images/57/571625641990233.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/571625641990233.jpg",
+      "https://img.olx.com.br/images/59/594681286886420.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779461781
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:55",
     "fotoUrl": "https://img.olx.com.br/images/39/390666889559422.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/390666889559422.jpg",
       "https://img.olx.com.br/images/41/419651644585658.jpg"
     ],
-    "defeito": false,
+    "id": "1504182264",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-500gb-2-controles-1504182264",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Ps4 500gb 2 controles",
     "ts": 1779461755
   },
   {
@@ -9986,24 +10005,5 @@
     "tempoOlx": "Na OLX desde março de 2023",
     "titulo": "Jogos ps4",
     "ts": 1779399597
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:37",
-    "fotoUrl": "https://img.olx.com.br/images/79/799663769561015.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/799663769561015.jpg",
-      "https://img.olx.com.br/images/80/807630766274987.jpg"
-    ],
-    "id": "1504023734",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/playstation-5-slim-1-tb-sdd-1504023734",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "PLAYSTATION 5 SLIM 1 TB SDD",
-    "ts": 1779399473
   }
 ]
