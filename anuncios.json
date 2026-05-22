@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504071963",
-    "titulo": "Jogos Playstation 4",
+    "id": "1504071341",
+    "titulo": "Horizon forbidden west ",
     "preco": 100,
     "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "22:28",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "tempoOlx": "Na OLX desde junho de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-playstation-4-1504071963",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/horizon-forbidden-west-1504071341",
+    "fotoUrl": "https://img.olx.com.br/images/36/365681047188528.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/365681047188528.jpg",
+      "https://img.olx.com.br/images/38/386643167678362.jpg",
+      "https://img.olx.com.br/images/40/409637523594420.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779413322
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:28",
     "fotoUrl": "https://img.olx.com.br/images/59/595635167600282.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/595635167600282.jpg",
       "https://img.olx.com.br/images/63/631619286280292.jpg",
       "https://img.olx.com.br/images/72/722626287441067.jpg"
     ],
-    "defeito": false,
+    "id": "1504071963",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-playstation-4-1504071963",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Jogos Playstation 4",
     "ts": 1779413313
   },
   {
@@ -9833,23 +9853,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "?EA Sports UFC 2 - Original - Ps4",
     "ts": 1779371731
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:55",
-    "fotoUrl": "https://img.olx.com.br/images/10/101675765133976.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/101675765133976.jpg"
-    ],
-    "id": "1503893490",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/red-dead-redemption-2-ps4-1503893490",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Red Dead Redemption 2 PS4",
-    "ts": 1779371722
   }
 ]
