@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504065909",
-    "titulo": "IPHONE 15 PRO MAX",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
-    "categoria": "iphone",
+    "id": "1504067237",
+    "titulo": "Xbox one s",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "21:54",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "detectado": "21:57",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1504065909",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1504067237",
+    "fotoUrl": "https://img.olx.com.br/images/67/674638887047830.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/674638887047830.jpg",
+      "https://img.olx.com.br/images/69/696679163845813.jpg",
+      "https://img.olx.com.br/images/70/703671645841068.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779411445
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:54",
     "fotoUrl": "https://img.olx.com.br/images/10/104646404823002.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/104646404823002.jpg",
       "https://img.olx.com.br/images/13/133605886488324.jpg"
     ],
-    "defeito": false,
+    "id": "1504065909",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1504065909",
+    "preco": 4000,
+    "precoRaw": "R$ 4.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "IPHONE 15 PRO MAX",
     "ts": 1779411295
   },
   {
@@ -9833,28 +9853,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogos RAINBOWSIX EXTRACRION PS4",
     "ts": 1779370681
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/22/220683289798900.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/220683289798900.jpg",
-      "https://img.olx.com.br/images/27/278683648414436.jpg",
-      "https://img.olx.com.br/images/31/313664164327935.jpg",
-      "https://img.olx.com.br/images/35/358679045629668.jpg",
-      "https://img.olx.com.br/images/41/414654529349567.jpg",
-      "https://img.olx.com.br/images/44/442666283651124.jpg"
-    ],
-    "id": "1503886598",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-fat-1503886598",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "PlayStation 4 fat ",
-    "ts": 1779370379
   }
 ]
