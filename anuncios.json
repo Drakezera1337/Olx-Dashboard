@@ -1,20 +1,41 @@
 [
   {
-    "id": "1504294834",
-    "titulo": "Fifa 22",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "jogos",
+    "id": "1504295016",
+    "titulo": "Xbox Series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "19:33",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "detectado": "19:34",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/fifa-22-1504294834",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/xbox-series-s-1504295016",
+    "fotoUrl": "https://img.olx.com.br/images/70/700621640117771.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/700621640117771.jpg",
+      "https://img.olx.com.br/images/71/710661524228279.jpg",
+      "https://img.olx.com.br/images/73/733696281352953.jpg",
+      "https://img.olx.com.br/images/74/746673884560913.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779489259
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:33",
     "fotoUrl": "https://img.olx.com.br/images/24/245694409439403.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/245694409439403.jpg"
     ],
-    "defeito": false,
+    "id": "1504294834",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/fifa-22-1504294834",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "Fifa 22",
     "ts": 1779489226
   },
   {
@@ -9894,23 +9915,5 @@
     "tempoOlx": "Na OLX desde outubro de 2024",
     "titulo": "Vendo jogos de ps3 e xbox 360",
     "ts": 1779423289
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:08",
-    "fotoUrl": "https://img.olx.com.br/images/89/894690364111912.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/894690364111912.jpg"
-    ],
-    "id": "1472363469",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/dap049-ps4-slim-1472363469",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "DAP049 PS4 SLIM",
-    "ts": 1779422929
   }
 ]
