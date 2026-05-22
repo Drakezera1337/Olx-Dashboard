@@ -1,7 +1,7 @@
 [
   {
-    "id": "1470298240",
-    "titulo": "THE LAST OF US: Remasterizado.",
+    "id": "1470298742",
+    "titulo": "Horizon Zero Dawn ",
     "preco": 100,
     "precoRaw": "R$ 100",
     "categoria": "jogos",
@@ -9,14 +9,34 @@
     "detectado": "10:43",
     "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-remasterizado-1470298240",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-1470298742",
+    "fotoUrl": "https://img.olx.com.br/images/17/171684602492565.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/171684602492565.jpg",
+      "https://img.olx.com.br/images/20/202625365891099.jpg",
+      "https://img.olx.com.br/images/21/219601723482099.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779457413
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:43",
     "fotoUrl": "https://img.olx.com.br/images/23/233644245341602.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/233644245341602.jpg",
       "https://img.olx.com.br/images/25/251601361055413.jpg",
       "https://img.olx.com.br/images/28/282628126543310.jpg"
     ],
-    "defeito": false,
+    "id": "1470298240",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-remasterizado-1470298240",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "THE LAST OF US: Remasterizado.",
     "ts": 1779457405
   },
   {
@@ -9999,23 +10019,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "JOGOS DE PLAY 4 LEGO ",
     "ts": 1779393605
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:59",
-    "fotoUrl": "https://img.olx.com.br/images/48/488656288499301.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/488656288499301.jpg"
-    ],
-    "id": "1503999461",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/saga-judgment-1503999461",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Saga Judgment",
-    "ts": 1779393596
   }
 ]
