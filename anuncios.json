@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504303365",
-    "titulo": "Xbox séries s ",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "xbox",
+    "id": "1504303624",
+    "titulo": "GOD OF WAR 2018 PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:17",
-    "tempoOlx": "Na OLX desde abril de 2016",
+    "detectado": "20:19",
+    "tempoOlx": "Na OLX desde outubro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1504303365",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/god-of-war-2018-ps4-1504303624",
+    "fotoUrl": "https://img.olx.com.br/images/49/494693160928927.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/494693160928927.jpg",
+      "https://img.olx.com.br/images/50/508613523968657.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779491989
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:17",
     "fotoUrl": "https://img.olx.com.br/images/14/142677041300350.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/142677041300350.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/17/176613640204492.jpg",
       "https://img.olx.com.br/images/18/185693284268536.jpg"
     ],
-    "defeito": false,
+    "id": "1504303365",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1504303365",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "Xbox séries s ",
     "ts": 1779491838
   },
   {
@@ -9917,27 +9936,5 @@
     "tempoOlx": "Na OLX desde novembro de 2019",
     "titulo": "PS3 Slim 160gb CECH-3011A",
     "ts": 1779456876
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:34",
-    "fotoUrl": "https://img.olx.com.br/images/47/471602403374126.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/471602403374126.jpg",
-      "https://img.olx.com.br/images/49/490663406431180.jpg",
-      "https://img.olx.com.br/images/50/500672644696437.jpg",
-      "https://img.olx.com.br/images/52/529633643679251.jpg",
-      "https://img.olx.com.br/images/53/536670527416594.jpg"
-    ],
-    "id": "1503969124",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/ps4-fat-dourado-2-jogos-originais-controle-original-1503969124",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "PS4 Fat Dourado + 2 Jogos Originais + Controle Original",
-    "ts": 1779456867
   }
 ]
