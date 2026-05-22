@@ -1,15 +1,32 @@
 [
   {
-    "id": "1504131149",
-    "titulo": "iphone 11 64 gb Somente à vista ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1503770152",
+    "titulo": "Videogame ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "10:33",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64-gb-somente-a-vista-1504131149",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/videogame-1503770152",
+    "fotoUrl": "https://img.olx.com.br/images/52/523689401223160.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/523689401223160.jpg",
+      "https://img.olx.com.br/images/64/643629880490855.jpg",
+      "https://img.olx.com.br/images/74/741606160588606.jpg",
+      "https://img.olx.com.br/images/85/850613767107744.jpg",
+      "https://img.olx.com.br/images/89/897665408393433.jpg",
+      "https://img.olx.com.br/images/97/976653401654218.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779456822
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:33",
     "fotoUrl": "https://img.olx.com.br/images/11/117616765384949.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/117616765384949.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/14/145670761588079.jpg",
       "https://img.olx.com.br/images/16/166629280220089.jpg"
     ],
-    "defeito": false,
+    "id": "1504131149",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64-gb-somente-a-vista-1504131149",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "iphone 11 64 gb Somente à vista ",
     "ts": 1779456817
   },
   {
@@ -10005,28 +10028,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Jogos ps4 TLOU e spider man ",
     "ts": 1779388233
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:30",
-    "fotoUrl": "https://img.olx.com.br/images/41/417637033858438.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/417637033858438.jpg",
-      "https://img.olx.com.br/images/42/426638396896691.jpg",
-      "https://img.olx.com.br/images/43/439635756497645.jpg",
-      "https://img.olx.com.br/images/44/447625157211257.jpg",
-      "https://img.olx.com.br/images/46/464663156655869.jpg",
-      "https://img.olx.com.br/images/47/479632757305470.jpg"
-    ],
-    "id": "1491800227",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-fat-500gb-1491800227",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Ps4 FAT 500gb",
-    "ts": 1779388224
   }
 ]
