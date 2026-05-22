@@ -1,15 +1,29 @@
 [
   {
-    "id": "1504066895",
-    "titulo": "Iphone 6 com defeito",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "iphone",
+    "id": "1504068293",
+    "titulo": "Jogos",
+    "preco": 20,
+    "precoRaw": "R$ 20",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "22:00",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "detectado": "22:04",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-6-com-defeito-1504066895",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-1504068293",
+    "fotoUrl": "https://img.olx.com.br/images/31/315648889611546.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/315648889611546.jpg",
+      "https://img.olx.com.br/images/33/338616649224440.jpg",
+      "https://img.olx.com.br/images/36/361659288809799.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779411867
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:00",
     "fotoUrl": "https://img.olx.com.br/images/26/263689885103456.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/263689885103456.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/31/319629644856804.jpg",
       "https://img.olx.com.br/images/33/332660286009505.jpg"
     ],
-    "defeito": false,
+    "id": "1504066895",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-6-com-defeito-1504066895",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Iphone 6 com defeito",
     "ts": 1779411654
   },
   {
@@ -9830,27 +9850,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Grand Theft Auto V PS4",
     "ts": 1779371348
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:48",
-    "fotoUrl": "https://img.olx.com.br/images/20/208619276119313.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/208619276119313.jpg",
-      "https://img.olx.com.br/images/41/417617758450376.jpg",
-      "https://img.olx.com.br/images/31/311677150343580.jpg",
-      "https://img.olx.com.br/images/26/268675759529574.jpg",
-      "https://img.olx.com.br/images/45/454655152907018.jpg"
-    ],
-    "id": "1493953924",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/pacote-de-jogos-de-ps4-1493953924",
-    "preco": 359,
-    "precoRaw": "R$ 359",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2013",
-    "titulo": "PACOTE DE JOGOS DE PS4",
-    "ts": 1779371338
   }
 ]
