@@ -1,15 +1,29 @@
 [
   {
-    "id": "1504306017",
-    "titulo": "Jogos de ps5 e ps4 ",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1504305899",
+    "titulo": "World War Z PS4 - Jogo de Sobrevivência contra Hordas de Zumbis",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:32",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jogos-de-ps5-e-ps4-1504306017",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/world-war-z-ps4-jogo-de-sobrevivencia-contra-hordas-de-zumbis-1504305899",
+    "fotoUrl": "https://img.olx.com.br/images/48/488671407931699.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/488671407931699.jpg",
+      "https://img.olx.com.br/images/50/509629400091329.jpg",
+      "https://img.olx.com.br/images/52/520639523174625.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779492733
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:32",
     "fotoUrl": "https://img.olx.com.br/images/28/285638640768334.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/285638640768334.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/28/284680161258470.jpg",
       "https://img.olx.com.br/images/27/276624408540966.jpg"
     ],
-    "defeito": false,
+    "id": "1504306017",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jogos-de-ps5-e-ps4-1504306017",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "Jogos de ps5 e ps4 ",
     "ts": 1779492725
   },
   {
@@ -9912,25 +9932,5 @@
     "tempoOlx": "Na OLX desde julho de 2025",
     "titulo": "Adaptador de tomada europeia ",
     "ts": 1779456961
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:35",
-    "fotoUrl": "https://img.olx.com.br/images/55/550635643385077.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/55/550635643385077.jpg",
-      "https://img.olx.com.br/images/57/570661766189044.jpg",
-      "https://img.olx.com.br/images/58/581613169947932.jpg"
-    ],
-    "id": "1504125346",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/nintendo-dsi-xl-desbloqueado-carregador-1504125346",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Nintendo DSi XL(DESBLOQUEADO) + Carregador",
-    "ts": 1779456954
   }
 ]
