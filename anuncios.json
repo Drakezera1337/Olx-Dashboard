@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504136298",
-    "titulo": "PlayStation 4 semi novo",
-    "preco": 900,
-    "precoRaw": "R$ 900",
+    "id": "1504131308",
+    "titulo": "PS4 + 1 controle + 8 jogos",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:33",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "detectado": "10:34",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-semi-novo-1504136298",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1-controle-8-jogos-1504131308",
+    "fotoUrl": "https://img.olx.com.br/images/62/623692403938941.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/623692403938941.jpg",
+      "https://img.olx.com.br/images/63/634622167187672.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779456845
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:33",
     "fotoUrl": "https://img.olx.com.br/images/31/310630167284053.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/310630167284053.jpg"
     ],
-    "defeito": false,
+    "id": "1504136298",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-semi-novo-1504136298",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "titulo": "PlayStation 4 semi novo",
     "ts": 1779456837
   },
   {
@@ -10006,25 +10025,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Jogos PS4 (Minecraft, Shadow Of The Colossus e Little Nightmares 2)",
     "ts": 1779388584
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:33",
-    "fotoUrl": "https://img.olx.com.br/images/46/467680758458826.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/467680758458826.jpg",
-      "https://img.olx.com.br/images/47/477608756462368.jpg",
-      "https://img.olx.com.br/images/49/491697511993681.jpg"
-    ],
-    "id": "1495711597",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/company-of-heroes-3-console-edition-ps5-steelbook-1495711597",
-    "preco": 379,
-    "precoRaw": "R$ 379",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Company Of Heroes 3 Console Edition Ps5 Steelbook",
-    "ts": 1779388402
   }
 ]
