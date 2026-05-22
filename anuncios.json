@@ -1,20 +1,39 @@
 [
   {
-    "id": "1489061019",
-    "titulo": "Jogos PS4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1504227481",
+    "titulo": "PS4 ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:53",
-    "tempoOlx": "Na OLX desde agosto de 2018",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1489061019",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/ps4-1504227481",
+    "fotoUrl": "https://img.olx.com.br/images/47/474641762956495.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/474641762956495.jpg",
+      "https://img.olx.com.br/images/48/488630161291592.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779472438
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:53",
     "fotoUrl": "https://img.olx.com.br/images/57/571672387700259.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/571672387700259.jpg"
     ],
-    "defeito": false,
+    "id": "1489061019",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1489061019",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2018",
+    "titulo": "Jogos PS4",
     "ts": 1779472430
   },
   {
@@ -9960,26 +9979,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2022",
     "titulo": "FIFA 19 80,00 OS DEMAIS 50,00",
     "ts": 1779413995
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:36",
-    "fotoUrl": "https://img.olx.com.br/images/21/213608769495318.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/213608769495318.jpg",
-      "https://img.olx.com.br/images/24/247617284662756.jpg",
-      "https://img.olx.com.br/images/25/257690401230243.jpg",
-      "https://img.olx.com.br/images/27/277652160514551.jpg"
-    ],
-    "id": "1504073812",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-estado-zero-1504073812",
-    "preco": 4000,
-    "precoRaw": "R$ 4.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2013",
-    "titulo": "iPhone 15 pro Max 256 estado zero",
-    "ts": 1779413814
   }
 ]
