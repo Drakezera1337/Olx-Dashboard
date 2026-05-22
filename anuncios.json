@@ -1,20 +1,43 @@
 [
   {
-    "id": "1504224541",
-    "titulo": "Pes 2021 PS4",
-    "preco": 175,
-    "precoRaw": "R$ 175",
-    "categoria": "ps4",
+    "id": "1504224785",
+    "titulo": "iPhone XR 128gb branco",
+    "preco": 699,
+    "precoRaw": "R$ 699",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "14:43",
-    "tempoOlx": "Na OLX desde novembro de 2025",
+    "detectado": "14:44",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/pes-2021-ps4-1504224541",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-128gb-branco-1504224785",
+    "fotoUrl": "https://img.olx.com.br/images/56/563687289063187.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/563687289063187.jpg",
+      "https://img.olx.com.br/images/58/588632768011528.jpg",
+      "https://img.olx.com.br/images/59/598687289809534.jpg",
+      "https://img.olx.com.br/images/62/627602522155995.jpg",
+      "https://img.olx.com.br/images/64/647699882874592.jpg",
+      "https://img.olx.com.br/images/66/663664165181053.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779471890
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:43",
     "fotoUrl": "https://img.olx.com.br/images/61/615644407060669.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/615644407060669.jpg"
     ],
-    "defeito": false,
+    "id": "1504224541",
+    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/pes-2021-ps4-1504224541",
+    "preco": 175,
+    "precoRaw": "R$ 175",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "Pes 2021 PS4",
     "ts": 1779471780
   },
   {
@@ -9961,23 +9984,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Jogo PlayStation 4 Red ",
     "ts": 1779413683
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:34",
-    "fotoUrl": "https://img.olx.com.br/images/84/847665378190545.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/847665378190545.jpg"
-    ],
-    "id": "1476018190",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/kart-racers-playstation-4-1476018190",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Kart Racers PlayStation 4",
-    "ts": 1779413675
   }
 ]
