@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504080589",
-    "titulo": "Xbox série s",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1504081329",
+    "titulo": "Playstation 4",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:21",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "detectado": "23:24",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "descricao": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-serie-s-1504080589",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-1504081329",
+    "fotoUrl": "https://img.olx.com.br/images/46/467623163868339.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/467623163868339.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779416663
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:21",
     "fotoUrl": "https://img.olx.com.br/images/14/140638765845409.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/140638765845409.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/18/182623520976557.jpg",
       "https://img.olx.com.br/images/19/196607648670325.jpg"
     ],
-    "defeito": false,
+    "id": "1504080589",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/xbox-serie-s-1504080589",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Xbox série s",
     "ts": 1779416482
   },
   {
@@ -9860,23 +9878,5 @@
     "tempoOlx": "Na OLX desde julho de 2019",
     "titulo": "PLAYSTATION 4 - 1 controle + SPIDER MAN (2014)",
     "ts": 1779374144
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:35",
-    "fotoUrl": "https://img.olx.com.br/images/51/519676522325089.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/519676522325089.jpg"
-    ],
-    "id": "1503869744",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/call-of-duty-ww2-1503869744",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "Call of duty ww2",
-    "ts": 1779374135
   }
 ]
