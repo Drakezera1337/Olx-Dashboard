@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504095687",
-    "titulo": "NINTENDO SWIT LIGHT ",
-    "preco": 780,
-    "precoRaw": "R$ 780",
-    "categoria": "switch",
+    "id": "1500926942",
+    "titulo": "Console game",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "01:00",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "01:01",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/nintendo-swit-light-1504095687",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/console-game-1500926942",
+    "fotoUrl": "https://img.olx.com.br/images/86/863691283519434.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/863691283519434.jpg",
+      "https://img.olx.com.br/images/88/880670645249198.jpg",
+      "https://img.olx.com.br/images/89/895650884803159.jpg",
+      "https://img.olx.com.br/images/91/913629407784167.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779422481
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "01:00",
     "fotoUrl": "https://img.olx.com.br/images/80/803656168861551.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/803656168861551.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/84/842632761079343.jpg",
       "https://img.olx.com.br/images/85/857651647876104.jpg"
     ],
-    "defeito": false,
+    "id": "1504095687",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/nintendo-swit-light-1504095687",
+    "preco": 780,
+    "precoRaw": "R$ 780",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "NINTENDO SWIT LIGHT ",
     "ts": 1779422451
   },
   {
@@ -9989,28 +10010,5 @@
     "tempoOlx": "Na OLX desde julho de 2019",
     "titulo": "Jogos De Videogame, Originais",
     "ts": 1779384725
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:31",
-    "fotoUrl": "https://img.olx.com.br/images/61/613697048494934.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/613697048494934.jpg",
-      "https://img.olx.com.br/images/63/634689169715312.jpg",
-      "https://img.olx.com.br/images/65/655686529275849.jpg",
-      "https://img.olx.com.br/images/67/671656885786485.jpg",
-      "https://img.olx.com.br/images/69/693683286835721.jpg",
-      "https://img.olx.com.br/images/71/712638769542368.jpg"
-    ],
-    "id": "1503959057",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-1503959057",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "Ps4 ",
-    "ts": 1779384715
   }
 ]
