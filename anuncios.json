@@ -1,20 +1,40 @@
 [
   {
-    "id": "1503998004",
-    "titulo": "Jogos PS4 e PS5",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "categoria": "ps5",
+    "id": "1470297465",
+    "titulo": "Spider-man ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "10:43",
-    "tempoOlx": "Na OLX desde novembro de 2025",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-e-ps5-1503998004",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spider-man-1470297465",
+    "fotoUrl": "https://img.olx.com.br/images/52/526679367383496.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/526679367383496.jpg",
+      "https://img.olx.com.br/images/54/541622129038518.jpg",
+      "https://img.olx.com.br/images/55/552689842686473.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779457397
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:43",
     "fotoUrl": "https://img.olx.com.br/images/58/588673409160743.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/588673409160743.jpg"
     ],
-    "defeito": false,
+    "id": "1503998004",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-e-ps5-1503998004",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "Jogos PS4 e PS5",
     "ts": 1779457385
   },
   {
@@ -10000,25 +10020,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "JOGO PS4",
     "ts": 1779393586
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:59",
-    "fotoUrl": "https://img.olx.com.br/images/29/299629288455733.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/299629288455733.jpg",
-      "https://img.olx.com.br/images/31/316683529712008.jpg",
-      "https://img.olx.com.br/images/33/339668647602883.jpg"
-    ],
-    "id": "1503999768",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/judgment-ps5-lost-judgment-ps4-1503999768",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Judgment PS5 + Lost Judgment PS4",
-    "ts": 1779393577
   }
 ]
