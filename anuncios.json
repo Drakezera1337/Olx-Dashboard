@@ -1,22 +1,40 @@
 [
   {
-    "id": "1495661806",
-    "titulo": "PlayStation 4 - Jogos a partir de 50 reais",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1504256022",
+    "titulo": "Xbox series s ",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "17:55",
-    "tempoOlx": "Na OLX desde abril de 2019",
+    "detectado": "17:57",
+    "tempoOlx": "Na OLX desde setembro de 2018",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-jogos-a-partir-de-50-reais-1495661806",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/xbox-series-s-1504256022",
+    "fotoUrl": "https://img.olx.com.br/images/67/670659529575416.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/670659529575416.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779483470
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:55",
     "fotoUrl": "https://img.olx.com.br/images/72/722633156884090.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/722633156884090.jpg",
       "https://img.olx.com.br/images/74/746609755885867.jpg",
       "https://img.olx.com.br/images/76/762607392262313.jpg"
     ],
-    "defeito": false,
+    "id": "1495661806",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/playstation-4-jogos-a-partir-de-50-reais-1495661806",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "PlayStation 4 - Jogos a partir de 50 reais",
     "ts": 1779483328
   },
   {
@@ -9940,24 +9958,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS3 Slim - DEFEITO",
-    "ts": 1779422118
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:55",
-    "fotoUrl": "https://img.olx.com.br/images/58/585668885821614.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/585668885821614.jpg"
-    ],
-    "id": "1503189404",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-super-slim-desbloqueado-1503189404",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 SUPER SLIM (DESBLOQUEADO)",
     "ts": 1779422118
   }
 ]
