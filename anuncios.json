@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504271827",
-    "titulo": "Jogos mídia física para PS4 ",
-    "preco": 280,
-    "precoRaw": "R$ 280",
+    "id": "1504271801",
+    "titulo": "The Last of Us part 2 - PS4",
+    "preco": 130,
+    "precoRaw": "R$ 130",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:49",
-    "tempoOlx": "Na OLX desde agosto de 2015",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-midia-fisica-para-ps4-1504271827",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-part-2-ps4-1504271801",
+    "fotoUrl": "https://img.olx.com.br/images/25/259636647274270.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/259636647274270.jpg",
+      "https://img.olx.com.br/images/26/262657765381854.jpg",
+      "https://img.olx.com.br/images/28/283619880557421.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779482969
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:49",
     "fotoUrl": "https://img.olx.com.br/images/12/123684282380982.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/123684282380982.jpg",
       "https://img.olx.com.br/images/14/140607525587377.jpg",
       "https://img.olx.com.br/images/15/155672403138419.jpg"
     ],
-    "defeito": false,
+    "id": "1504271827",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-midia-fisica-para-ps4-1504271827",
+    "preco": 280,
+    "precoRaw": "R$ 280",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "Jogos mídia física para PS4 ",
     "ts": 1779482959
   },
   {
@@ -9944,25 +9964,5 @@
     "tempoOlx": "",
     "titulo": "PS3 SLIM DEFEITO OU REAPROVEITAMENTO DE PEÇAS",
     "ts": 1779422118
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:55",
-    "fotoUrl": "https://img.olx.com.br/images/76/764657648790648.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/764657648790648.jpg",
-      "https://img.olx.com.br/images/78/785626764233726.jpg",
-      "https://img.olx.com.br/images/80/806649162461193.jpg"
-    ],
-    "id": "1503925472",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps3-super-slim-500gb-1503925472",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS3 Super Slim 500Gb",
-    "ts": 1779422103
   }
 ]
