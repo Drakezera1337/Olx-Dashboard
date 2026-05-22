@@ -1,21 +1,40 @@
 [
   {
-    "id": "1504246487",
-    "titulo": "Detroit PS 4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1504245904",
+    "titulo": "Gta PS 4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "16:10",
     "tempoOlx": "Na OLX desde maio de 2017",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/detroit-ps-4-1504246487",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/gta-ps-4-1504245904",
+    "fotoUrl": "https://img.olx.com.br/images/39/390606765588268.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/390606765588268.jpg",
+      "https://img.olx.com.br/images/40/405694403406314.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779477058
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:10",
     "fotoUrl": "https://img.olx.com.br/images/90/908677884945824.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/908677884945824.jpg",
       "https://img.olx.com.br/images/91/919616404873476.jpg"
     ],
-    "defeito": false,
+    "id": "1504246487",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/detroit-ps-4-1504246487",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "Detroit PS 4",
     "ts": 1779477049
   },
   {
@@ -9943,29 +9962,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 14 Plus 256GB Meia-noite",
-    "ts": 1779422033
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:53",
-    "fotoUrl": "https://img.olx.com.br/images/52/524622287199577.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/524622287199577.jpg",
-      "https://img.olx.com.br/images/52/520682767620324.jpg",
-      "https://img.olx.com.br/images/52/524650160294963.jpg",
-      "https://img.olx.com.br/images/52/520663762042774.jpg",
-      "https://img.olx.com.br/images/52/523639886180931.jpg",
-      "https://img.olx.com.br/images/52/524695281395071.jpg"
-    ],
-    "id": "1503608119",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-256gb-deserto-titanio-1503608119",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 16 Pro Max 256GB Deserto Titânio",
     "ts": 1779422033
   }
 ]
