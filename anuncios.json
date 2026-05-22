@@ -1,15 +1,28 @@
 [
   {
-    "id": "1469711081",
-    "titulo": "Ps4 FAT",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1504306384",
+    "titulo": "Jogos de ps4",
+    "preco": 600,
+    "precoRaw": "R$ 600",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:28",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "20:31",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-fat-1469711081",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-de-ps4-1504306384",
+    "fotoUrl": "https://img.olx.com.br/images/80/800672520720160.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/800672520720160.jpg",
+      "https://img.olx.com.br/images/82/821666640781108.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779492708
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:28",
     "fotoUrl": "https://img.olx.com.br/images/95/950669847152691.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/950669847152691.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/96/967608721083724.jpg",
       "https://img.olx.com.br/images/95/954669609306039.jpg"
     ],
-    "defeito": false,
+    "id": "1469711081",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-fat-1469711081",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Ps4 FAT",
     "ts": 1779492528
   },
   {
@@ -9913,27 +9932,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "Nitendo Wil ",
     "ts": 1779456940
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:35",
-    "fotoUrl": "https://img.olx.com.br/images/36/364671167403878.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/364671167403878.jpg",
-      "https://img.olx.com.br/images/37/379694763343776.jpg",
-      "https://img.olx.com.br/images/38/387608766767791.jpg",
-      "https://img.olx.com.br/images/39/392661885324455.jpg",
-      "https://img.olx.com.br/images/40/400670400849831.jpg"
-    ],
-    "id": "1504145023",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/tomb-raider-trilogy-1504145023",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Tomb Raider Trilogy",
-    "ts": 1779456931
   }
 ]
