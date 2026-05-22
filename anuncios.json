@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504083499",
-    "titulo": "PS4 SLIM",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "ps4",
+    "id": "1504083487",
+    "titulo": "Geladeira",
+    "preco": 791,
+    "precoRaw": "R$ 791",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "23:43",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1504083499",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/geladeira-1504083487",
+    "fotoUrl": "https://img.olx.com.br/images/84/843645647356227.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/843645647356227.jpg",
+      "https://img.olx.com.br/images/85/859624521715482.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779417816
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:43",
     "fotoUrl": "https://img.olx.com.br/images/44/440665400155528.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/440665400155528.jpg",
       "https://img.olx.com.br/images/46/467679040467876.jpg",
       "https://img.olx.com.br/images/47/470613404587749.jpg"
     ],
-    "defeito": false,
+    "id": "1504083499",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-1504083499",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "PS4 SLIM",
     "ts": 1779417803
   },
   {
@@ -9860,23 +9879,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "Hello Neighbor, PS4, original na caixa",
     "ts": 1779375166
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:52",
-    "fotoUrl": "https://img.olx.com.br/images/39/399622760316189.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/399622760316189.jpg"
-    ],
-    "id": "1503913035",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1503913035",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Jogos de ps4 e ps5",
-    "ts": 1779375156
   }
 ]
