@@ -1,15 +1,28 @@
 [
   {
-    "id": "1503925042",
-    "titulo": "The division",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "categoria": "outros",
+    "id": "1503919609",
+    "titulo": "Uncharted 1, 2, 3 e 4 mídia física.",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "10:43",
     "tempoOlx": "Na OLX desde novembro de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-division-1503925042",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/uncharted-1-2-3-e-4-midia-fisica-1503919609",
+    "fotoUrl": "https://img.olx.com.br/images/36/363641403526751.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/363641403526751.jpg",
+      "https://img.olx.com.br/images/37/374692884491689.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779457427
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:43",
     "fotoUrl": "https://img.olx.com.br/images/76/760659400923506.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/760659400923506.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/79/799652521556396.jpg",
       "https://img.olx.com.br/images/81/813638169071313.jpg"
     ],
-    "defeito": false,
+    "id": "1503925042",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-division-1503925042",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "The division",
     "ts": 1779457420
   },
   {
@@ -9996,27 +10015,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "SPYRO PLAYSTATION 4 ÓTIMO ESTADO",
     "ts": 1779393897
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:04",
-    "fotoUrl": "https://img.olx.com.br/images/89/893672408819882.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/893672408819882.jpg",
-      "https://img.olx.com.br/images/90/901649766628861.jpg",
-      "https://img.olx.com.br/images/91/919659163863174.jpg",
-      "https://img.olx.com.br/images/92/923685883136060.jpg",
-      "https://img.olx.com.br/images/95/952673889537043.jpg"
-    ],
-    "id": "1504000574",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/console-playstation-3-u-slim-250gb-1504000574",
-    "preco": 745,
-    "precoRaw": "R$ 745",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2015",
-    "titulo": "Console Playstation 3 U. Slim 250Gb ",
-    "ts": 1779393865
   }
 ]
