@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504290767",
-    "titulo": "Playstation 4 Slim + Brinde",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1504290325",
+    "titulo": "Fatal Fury PS4/5 Lacrado",
+    "preco": 130,
+    "precoRaw": "R$ 130",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:16",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/playstation-4-slim-brinde-1504290767",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fatal-fury-ps4-5-lacrado-1504290325",
+    "fotoUrl": "https://img.olx.com.br/images/29/299647160986846.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/299647160986846.jpg",
+      "https://img.olx.com.br/images/32/322665408698289.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779488178
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:16",
     "fotoUrl": "https://img.olx.com.br/images/49/491661644880851.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/491661644880851.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/51/517612766848519.jpg",
       "https://img.olx.com.br/images/52/526616640841388.jpg"
     ],
-    "defeito": false,
+    "id": "1504290767",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/playstation-4-slim-brinde-1504290767",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Playstation 4 Slim + Brinde",
     "ts": 1779488170
   },
   {
@@ -9913,24 +9932,5 @@
     "tempoOlx": "",
     "titulo": "PS5 com Defeito. Faz o bip mas não liga. Sem controles. LER A DESCRIÇÃO DO ANÚNCIO.",
     "ts": 1779422228
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:56",
-    "fotoUrl": "https://img.olx.com.br/images/60/609618646133215.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/609618646133215.jpg",
-      "https://img.olx.com.br/images/62/620653640740680.jpg"
-    ],
-    "id": "1502599859",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-all-digital-1502599859",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One All Digital",
-    "ts": 1779422200
   }
 ]
