@@ -1,22 +1,42 @@
 [
   {
-    "id": "1493813220",
-    "titulo": "Medievil ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1493813946",
+    "titulo": "Sonic ps4 ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:23",
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/medievil-ps4-1493813220",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/sonic-ps4-1493813946",
+    "fotoUrl": "https://img.olx.com.br/images/43/439650876161681.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/439650876161681.jpg",
+      "https://img.olx.com.br/images/44/442668152338255.jpg",
+      "https://img.olx.com.br/images/45/456643392069476.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779463394
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:23",
     "fotoUrl": "https://img.olx.com.br/images/64/645654390208114.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/645654390208114.jpg",
       "https://img.olx.com.br/images/66/663649514472588.jpg",
       "https://img.olx.com.br/images/67/676620278928855.jpg"
     ],
-    "defeito": false,
+    "id": "1493813220",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/medievil-ps4-1493813220",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "Medievil ps4",
     "ts": 1779463384
   },
   {
@@ -10000,23 +10020,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2026",
     "titulo": "PS4 PRO 800GB",
     "ts": 1779401432
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:10",
-    "fotoUrl": "https://img.olx.com.br/images/19/199686403854491.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/199686403854491.jpg"
-    ],
-    "id": "1504030246",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/play-4-slim-1504030246",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "Play 4 SLIM",
-    "ts": 1779401423
   }
 ]
