@@ -1,21 +1,40 @@
 [
   {
-    "id": "1504065528",
-    "titulo": "PS3 vídeo game ",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "categoria": "ps3",
+    "id": "1504065909",
+    "titulo": "IPHONE 15 PRO MAX",
+    "preco": 4000,
+    "precoRaw": "R$ 4.000",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "21:52",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "detectado": "21:54",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-video-game-1504065528",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1504065909",
+    "fotoUrl": "https://img.olx.com.br/images/10/104646404823002.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/104646404823002.jpg",
+      "https://img.olx.com.br/images/13/133605886488324.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779411295
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:52",
     "fotoUrl": "https://img.olx.com.br/images/75/758639526121705.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/758639526121705.jpg",
       "https://img.olx.com.br/images/78/784640404397630.jpg"
     ],
-    "defeito": false,
+    "id": "1504065528",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps3-video-game-1504065528",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "PS3 vídeo game ",
     "ts": 1779411143
   },
   {
@@ -9837,26 +9856,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "PlayStation 4 fat ",
     "ts": 1779370379
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:31",
-    "fotoUrl": "https://img.olx.com.br/images/83/832677280021479.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/832677280021479.jpg",
-      "https://img.olx.com.br/images/85/852623400778131.jpg",
-      "https://img.olx.com.br/images/87/875634764064184.jpg",
-      "https://img.olx.com.br/images/89/890633649014678.jpg"
-    ],
-    "id": "1503886587",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/watch-dogs-watch-dogs-legion-1503886587",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Watch Dogs + Watch Dogs Legion",
-    "ts": 1779370289
   }
 ]
