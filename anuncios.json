@@ -1,21 +1,44 @@
 [
   {
-    "id": "1447330276",
-    "titulo": "Vendo jogos de ps4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1504069211",
+    "titulo": "Jogos de ps4",
+    "preco": 300,
+    "precoRaw": "R$ 300",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "22:10",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "tempoOlx": "Na OLX desde setembro de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-jogos-de-ps4-1447330276",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-de-ps4-1504069211",
+    "fotoUrl": "https://img.olx.com.br/images/46/467695887651682.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/467695887651682.jpg",
+      "https://img.olx.com.br/images/97/976685526104851.jpg",
+      "https://img.olx.com.br/images/99/991639528528317.jpg",
+      "https://img.olx.com.br/images/10/104614281060773.jpg",
+      "https://img.olx.com.br/images/16/162682521807166.jpg",
+      "https://img.olx.com.br/images/18/185602047599657.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779412234
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:10",
     "fotoUrl": "https://img.olx.com.br/images/12/122553574695945.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/122553574695945.jpg",
       "https://img.olx.com.br/images/14/146532339625405.jpg"
     ],
-    "defeito": false,
+    "id": "1447330276",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/vendo-jogos-de-ps4-1447330276",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "Vendo jogos de ps4",
     "ts": 1779412224
   },
   {
@@ -9827,26 +9850,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Jogo FARCRY6 PS4",
     "ts": 1779371390
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:49",
-    "fotoUrl": "https://img.olx.com.br/images/88/883689043791641.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/883689043791641.jpg",
-      "https://img.olx.com.br/images/88/881643402514149.jpg",
-      "https://img.olx.com.br/images/88/884690047591673.jpg",
-      "https://img.olx.com.br/images/88/882638160374915.jpg"
-    ],
-    "id": "1503891686",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/tom-clancy-s-rainbow-six-siege-ps4-midia-fisica-1503891686",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Tom Clancy's Rainbow Six Siege Ps4 Midia Física",
-    "ts": 1779371380
   }
 ]
