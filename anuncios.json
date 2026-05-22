@@ -1,22 +1,45 @@
 [
   {
-    "id": "1504295593",
-    "titulo": "Peod",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1504295235",
+    "titulo": "Vende-se jogos de play 4 ",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "outros",
     "publicado": "",
     "detectado": "19:33",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/peod-1504295593",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/vende-se-jogos-de-play-4-1504295235",
+    "fotoUrl": "https://img.olx.com.br/images/94/944654524165303.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/944654524165303.jpg",
+      "https://img.olx.com.br/images/95/952687289862508.jpg",
+      "https://img.olx.com.br/images/97/976651524464325.jpg",
+      "https://img.olx.com.br/images/13/132606529063132.jpg",
+      "https://img.olx.com.br/images/14/147662881773618.jpg",
+      "https://img.olx.com.br/images/16/164607769219367.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779489209
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:33",
     "fotoUrl": "https://img.olx.com.br/images/33/339660160494042.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/339660160494042.jpg",
       "https://img.olx.com.br/images/34/347620760603899.jpg",
       "https://img.olx.com.br/images/35/355666525366495.jpg"
     ],
-    "defeito": false,
+    "id": "1504295593",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/peod-1504295593",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Peod",
     "ts": 1779489201
   },
   {
@@ -9892,27 +9915,5 @@
     "tempoOlx": "Na OLX desde junho de 2020",
     "titulo": "Console game",
     "ts": 1779422481
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "01:00",
-    "fotoUrl": "https://img.olx.com.br/images/80/803656168861551.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/803656168861551.jpg",
-      "https://img.olx.com.br/images/81/813695167091922.jpg",
-      "https://img.olx.com.br/images/83/837680647555037.jpg",
-      "https://img.olx.com.br/images/84/842632761079343.jpg",
-      "https://img.olx.com.br/images/85/857651647876104.jpg"
-    ],
-    "id": "1504095687",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/nintendo-swit-light-1504095687",
-    "preco": 780,
-    "precoRaw": "R$ 780",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "NINTENDO SWIT LIGHT ",
-    "ts": 1779422451
   }
 ]
