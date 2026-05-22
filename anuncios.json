@@ -1,21 +1,40 @@
 [
   {
-    "id": "1504108545",
-    "titulo": "Playstation 4",
+    "id": "1443501065",
+    "titulo": "RETURNAL NOVO LACRADO - PS5",
     "preco": 80,
     "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "03:14",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "10:33",
+    "tempoOlx": "Na OLX desde maio de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1504108545",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/returnal-novo-lacrado-ps5-1443501065",
+    "fotoUrl": "https://img.olx.com.br/images/94/940532214932554.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/940532214932554.jpg",
+      "https://img.olx.com.br/images/96/963525458446933.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779456792
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "03:14",
     "fotoUrl": "https://img.olx.com.br/images/56/569691287710698.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/569691287710698.jpg",
       "https://img.olx.com.br/images/57/577625526087888.jpg"
     ],
-    "defeito": false,
+    "id": "1504108545",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1504108545",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Playstation 4",
     "ts": 1779430492
   },
   {
@@ -10007,23 +10026,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Street Fighter V - PS4 ",
     "ts": 1779387541
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:18",
-    "fotoUrl": "https://img.olx.com.br/images/97/976641512969700.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/976641512969700.jpg"
-    ],
-    "id": "1483232642",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/lego-ninja-go-novo-lacrado-1483232642",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "Lego Ninja Go (novo lacrado)",
-    "ts": 1779387532
   }
 ]
