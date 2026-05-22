@@ -1,15 +1,29 @@
 [
   {
-    "id": "1504059912",
-    "titulo": "Code Vein ",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "outros",
+    "id": "1504060095",
+    "titulo": "PlayStation 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "21:24",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde setembro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/code-vein-1504059912",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/playstation-5-1504060095",
+    "fotoUrl": "https://img.olx.com.br/images/31/319669282750208.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/319669282750208.jpg",
+      "https://img.olx.com.br/images/32/322692403167839.jpg",
+      "https://img.olx.com.br/images/33/335668525203178.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779409492
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:24",
     "fotoUrl": "https://img.olx.com.br/images/98/989692048604548.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/989692048604548.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/12/128674161799175.jpg",
       "https://img.olx.com.br/images/14/143628409639863.jpg"
     ],
-    "defeito": false,
+    "id": "1504059912",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/code-vein-1504059912",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Code Vein ",
     "ts": 1779409452
   },
   {
@@ -9832,23 +9852,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Armello Special Edition - Ps4",
     "ts": 1779369270
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:14",
-    "fotoUrl": "https://img.olx.com.br/images/57/574642408927850.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/574642408927850.jpg"
-    ],
-    "id": "1503881505",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-ps4-baratos-1503881505",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Jogos ps4 baratos ",
-    "ts": 1779369263
   }
 ]
