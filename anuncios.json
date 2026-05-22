@@ -1,15 +1,29 @@
 [
   {
-    "id": "1503508501",
-    "titulo": "ps4 500gb",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1444706491",
+    "titulo": "Metal Gear V - PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:59",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "15:05",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/ps4-500gb-1503508501",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/metal-gear-v-ps4-1444706491",
+    "fotoUrl": "https://img.olx.com.br/images/23/231543575390709.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/231543575390709.jpg",
+      "https://img.olx.com.br/images/23/236555932273662.jpg",
+      "https://img.olx.com.br/images/65/656599219327403.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779473150
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:59",
     "fotoUrl": "https://img.olx.com.br/images/55/552657164191860.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/552657164191860.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/59/596620289267903.jpg",
       "https://img.olx.com.br/images/61/610698527256625.jpg"
     ],
-    "defeito": false,
+    "id": "1503508501",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/ps4-500gb-1503508501",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "ps4 500gb",
     "ts": 1779472790
   },
   {
@@ -9959,23 +9979,5 @@
     "tempoOlx": "Na OLX desde agosto de 2020",
     "titulo": "Lote com 17 jogos de ps4 e 1 de ps5 ",
     "ts": 1779414654
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:47",
-    "fotoUrl": "https://img.olx.com.br/images/44/449647646064430.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/449647646064430.jpg"
-    ],
-    "id": "1504075452",
-    "link": "https://pr.olx.com.br/regiao-de-ponta-grossa-e-guarapuava/games/consoles-de-video-game/switch-lite-1504075452",
-    "preco": 851,
-    "precoRaw": "R$ 851",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2020",
-    "titulo": "Switch lite",
-    "ts": 1779414421
   }
 ]
