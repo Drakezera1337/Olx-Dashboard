@@ -1,22 +1,44 @@
 [
   {
-    "id": "1504305100",
-    "titulo": "Nintendo switch lite",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1469711081",
+    "titulo": "Ps4 FAT",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:27",
-    "tempoOlx": "Na OLX desde agosto de 2014",
+    "detectado": "20:28",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1504305100",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-fat-1469711081",
+    "fotoUrl": "https://img.olx.com.br/images/95/950669847152691.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/950669847152691.jpg",
+      "https://img.olx.com.br/images/95/951694723149294.jpg",
+      "https://img.olx.com.br/images/95/959681244428920.jpg",
+      "https://img.olx.com.br/images/96/967608721083724.jpg",
+      "https://img.olx.com.br/images/95/954669609306039.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779492528
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:27",
     "fotoUrl": "https://img.olx.com.br/images/80/808683523053392.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/808683523053392.jpg",
       "https://img.olx.com.br/images/80/800651287184424.jpg",
       "https://img.olx.com.br/images/79/791668760118289.jpg"
     ],
-    "defeito": false,
+    "id": "1504305100",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-lite-1504305100",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2014",
+    "titulo": "Nintendo switch lite",
     "ts": 1779492440
   },
   {
@@ -9913,26 +9935,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "Tomb Raider Trilogy",
     "ts": 1779456931
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:35",
-    "fotoUrl": "https://img.olx.com.br/images/89/899697887235191.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/899697887235191.jpg",
-      "https://img.olx.com.br/images/91/912655408963344.jpg",
-      "https://img.olx.com.br/images/94/948614641837637.jpg",
-      "https://img.olx.com.br/images/97/975610284274962.jpg"
-    ],
-    "id": "1504158023",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-3-1504158023",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2014",
-    "titulo": "Play 3",
-    "ts": 1779456919
   }
 ]
