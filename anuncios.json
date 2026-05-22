@@ -1,15 +1,46 @@
 [
   {
-    "id": "1504179403",
-    "titulo": "Console Xbox Series S",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "xbox",
+    "id": "1504180095",
+    "titulo": "Play4 excelente estado de conservação 950 reais",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:42",
-    "tempoOlx": "Na OLX desde abril de 2016",
+    "detectado": "11:43",
+    "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/console-xbox-series-s-1504179403",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play4-excelente-estado-de-conservacao-950-reais-1504180095",
+    "fotoUrl": "https://img.olx.com.br/images/20/203661409186351.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/203661409186351.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779461028
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:42",
+    "fotoUrl": "https://img.olx.com.br/images/42/424684164850289.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/424684164850289.jpg",
+      "https://img.olx.com.br/images/44/449612283045573.jpg"
+    ],
+    "id": "1504179097",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-muito-novo-1504179097",
+    "preco": 2999,
+    "precoRaw": "R$ 2.999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "iPhone 13 pro Max - muito novo ",
+    "ts": 1779460942
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:42",
     "fotoUrl": "https://img.olx.com.br/images/62/623670641933281.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/623670641933281.jpg",
@@ -17,7 +48,13 @@
       "https://img.olx.com.br/images/62/622625525927695.jpg",
       "https://img.olx.com.br/images/62/620684520830989.jpg"
     ],
-    "defeito": false,
+    "id": "1504179403",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/console-xbox-series-s-1504179403",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "Console Xbox Series S",
     "ts": 1779460941
   },
   {
@@ -9966,44 +10003,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2022",
     "titulo": "Playstation 4 Slim 1TB + 3 Jogos",
     "ts": 1779398846
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:21",
-    "fotoUrl": "https://img.olx.com.br/images/74/742664523229310.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/742664523229310.jpg",
-      "https://img.olx.com.br/images/75/756669404831334.jpg",
-      "https://img.olx.com.br/images/77/774658406969203.jpg",
-      "https://img.olx.com.br/images/78/785645881204454.jpg"
-    ],
-    "id": "1504020405",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-fat-500gb-3-jogos-1504020405",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "Playstation 4 FAT 500gb + 3 Jogos",
-    "ts": 1779398487
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:20",
-    "fotoUrl": "https://img.olx.com.br/images/91/910609761327893.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/910609761327893.jpg"
-    ],
-    "id": "1504020566",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-slim-com-defeito-1504020566",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2024",
-    "titulo": "Ps5 slim com defeito",
-    "ts": 1779398424
   }
 ]
