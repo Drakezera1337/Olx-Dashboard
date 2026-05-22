@@ -1,21 +1,40 @@
 [
   {
-    "id": "1442274798",
-    "titulo": "Bioshock 2 - PS3",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps3",
+    "id": "1425440713",
+    "titulo": "Battleborn - Ps4",
+    "preco": 29,
+    "precoRaw": "R$ 29",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:50",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "tempoOlx": "Na OLX desde setembro de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/bioshock-2-ps3-1442274798",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/battleborn-ps4-1425440713",
+    "fotoUrl": "https://img.olx.com.br/images/69/690684874544808.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/690684874544808.jpg",
+      "https://img.olx.com.br/images/71/719602039687756.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779457826
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:50",
     "fotoUrl": "https://img.olx.com.br/images/83/833553578683538.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/833553578683538.jpg",
       "https://img.olx.com.br/images/83/835512690151921.jpg"
     ],
-    "defeito": false,
+    "id": "1442274798",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/bioshock-2-ps3-1442274798",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
+    "titulo": "Bioshock 2 - PS3",
     "ts": 1779457818
   },
   {
@@ -9996,25 +10015,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Rise of Tombe Raider 20 Year Celebration - PS4 Original",
     "ts": 1779394903
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:21",
-    "fotoUrl": "https://img.olx.com.br/images/61/615670885041228.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/615670885041228.jpg",
-      "https://img.olx.com.br/images/66/664692522060258.jpg",
-      "https://img.olx.com.br/images/73/738638401153717.jpg"
-    ],
-    "id": "1504005804",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/mortal-kombat-11-ps4-original-1504005804",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Mortal Kombat 11 - PS4 Original",
-    "ts": 1779394894
   }
 ]
