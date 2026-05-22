@@ -1,5 +1,41 @@
 [
   {
+    "id": "1504135672",
+    "titulo": "Ps5 ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
+    "publicado": "",
+    "detectado": "10:33",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "descricao": "",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1504135672",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1779456814
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:33",
+    "fotoUrl": "https://img.olx.com.br/images/81/818691167468633.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/818691167468633.jpg"
+    ],
+    "id": "1504134768",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1504134768",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "iPhone 11",
+    "ts": 1779456808
+  },
+  {
     "id": "1504139919",
     "titulo": "Playstation 5 ",
     "preco": 2600,
@@ -9991,44 +10027,5 @@
     "tempoOlx": "Na OLX desde julho de 2021",
     "titulo": "Celular iphone",
     "ts": 1779388014
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:24",
-    "fotoUrl": "https://img.olx.com.br/images/80/804585561944250.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/804585561944250.jpg",
-      "https://img.olx.com.br/images/81/814593325452154.jpg",
-      "https://img.olx.com.br/images/83/837556085921830.jpg",
-      "https://img.olx.com.br/images/85/854510921411094.jpg"
-    ],
-    "id": "1440522372",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-slim-500-controle-e-15-jogos-midia-fisica-1440522372",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "PlayStation 4 slim 500+ controle e 15 jogos (mídia física)",
-    "ts": 1779387871
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:24",
-    "fotoUrl": "https://img.olx.com.br/images/62/623623407933772.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/623623407933772.jpg"
-    ],
-    "id": "1503974147",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dead-pool-ps4-1503974147",
-    "preco": 530,
-    "precoRaw": "R$ 530",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "dead pool ps4",
-    "ts": 1779387863
   }
 ]
