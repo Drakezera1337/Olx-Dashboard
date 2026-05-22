@@ -1,15 +1,31 @@
 [
   {
-    "id": "1504158023",
-    "titulo": "Play 3",
-    "preco": 89,
-    "precoRaw": "R$ 89",
+    "id": "1504145023",
+    "titulo": "Tomb Raider Trilogy",
+    "preco": 125,
+    "precoRaw": "R$ 125",
     "categoria": "outros",
     "publicado": "",
     "detectado": "10:35",
-    "tempoOlx": "Na OLX desde novembro de 2014",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-3-1504158023",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/tomb-raider-trilogy-1504145023",
+    "fotoUrl": "https://img.olx.com.br/images/36/364671167403878.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/364671167403878.jpg",
+      "https://img.olx.com.br/images/37/379694763343776.jpg",
+      "https://img.olx.com.br/images/38/387608766767791.jpg",
+      "https://img.olx.com.br/images/39/392661885324455.jpg",
+      "https://img.olx.com.br/images/40/400670400849831.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779456931
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:35",
     "fotoUrl": "https://img.olx.com.br/images/89/899697887235191.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/899697887235191.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/94/948614641837637.jpg",
       "https://img.olx.com.br/images/97/975610284274962.jpg"
     ],
-    "defeito": false,
+    "id": "1504158023",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-3-1504158023",
+    "preco": 89,
+    "precoRaw": "R$ 89",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2014",
+    "titulo": "Play 3",
     "ts": 1779456919
   },
   {
@@ -10015,25 +10037,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Play 4 500giga",
     "ts": 1779389338
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:48",
-    "fotoUrl": "https://img.olx.com.br/images/53/535681039078854.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/535681039078854.jpg",
-      "https://img.olx.com.br/images/55/559673270779695.jpg",
-      "https://img.olx.com.br/images/56/568635510691699.jpg"
-    ],
-    "id": "1495388337",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/spider-man-homem-aranha-ps4-midia-fisica-1495388337",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
-    "titulo": " Spider-Man(Homem-aranha) PS4 (mídia física)",
-    "ts": 1779389330
   }
 ]
