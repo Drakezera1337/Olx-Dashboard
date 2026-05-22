@@ -1,15 +1,32 @@
 [
   {
-    "id": "1504268064",
-    "titulo": "Ps4 seminovo de 1T",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1504268279",
+    "titulo": "Ps Portal impecável + caixa com berço e manuais",
+    "preco": 978,
+    "precoRaw": "R$ 978",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "17:31",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "17:32",
+    "tempoOlx": "Na OLX desde janeiro de 2013",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-seminovo-de-1t-1504268064",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps-portal-impecavel-caixa-com-berco-e-manuais-1504268279",
+    "fotoUrl": "https://img.olx.com.br/images/65/654624283211683.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/654624283211683.jpg",
+      "https://img.olx.com.br/images/67/674669285014717.jpg",
+      "https://img.olx.com.br/images/69/697636641896109.jpg",
+      "https://img.olx.com.br/images/71/711645526548688.jpg",
+      "https://img.olx.com.br/images/74/744667525350162.jpg",
+      "https://img.olx.com.br/images/75/750692161959845.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779481939
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:31",
     "fotoUrl": "https://img.olx.com.br/images/91/916602882764917.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/916602882764917.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/95/953680763144392.jpg",
       "https://img.olx.com.br/images/97/973635760313838.jpg"
     ],
-    "defeito": false,
+    "id": "1504268064",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-seminovo-de-1t-1504268064",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Ps4 seminovo de 1T",
     "ts": 1779481912
   },
   {
@@ -9942,25 +9965,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox Series S (NÃO FUNCIONA!)",
-    "ts": 1779422090
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:54",
-    "fotoUrl": "https://img.olx.com.br/images/41/413615886215507.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/413615886215507.jpg",
-      "https://img.olx.com.br/images/43/431624168943783.jpg"
-    ],
-    "id": "1503638437",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-one-s-1503638437",
-    "preco": 990,
-    "precoRaw": "R$ 990",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox One S",
     "ts": 1779422090
   }
 ]
