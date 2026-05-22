@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504220434",
+    "id": "1504219902",
     "titulo": "Jogo ps4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:25",
     "tempoOlx": "Na OLX desde junho de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-ps4-1504220434",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-ps4-1504219902",
+    "fotoUrl": "https://img.olx.com.br/images/24/243626161727555.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/243626161727555.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779470738
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:25",
     "fotoUrl": "https://img.olx.com.br/images/69/692666284295710.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/692666284295710.jpg"
     ],
-    "defeito": false,
+    "id": "1504220434",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-ps4-1504220434",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2019",
+    "titulo": "Jogo ps4",
     "ts": 1779470730
   },
   {
@@ -9979,26 +9997,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "Ps4",
     "ts": 1779411501
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:58",
-    "fotoUrl": "https://img.olx.com.br/images/72/727635644491342.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/727635644491342.jpg",
-      "https://img.olx.com.br/images/74/745643169068955.jpg",
-      "https://img.olx.com.br/images/75/758689169774630.jpg",
-      "https://img.olx.com.br/images/77/770642765041148.jpg"
-    ],
-    "id": "1504067110",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/medievil-ps4-1504067110",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Medievil - PS4",
-    "ts": 1779411492
   }
 ]
