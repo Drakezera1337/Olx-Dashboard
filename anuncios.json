@@ -1,20 +1,43 @@
 [
   {
-    "id": "1504421819",
-    "titulo": "Nintendo Switch OLED usado",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "switch",
+    "id": "1504423363",
+    "titulo": "Jogos PS4",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:56",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "detectado": "12:00",
+    "tempoOlx": "Na OLX desde abril de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/nintendo-switch-oled-usado-1504421819",
+    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogos-ps4-1504423363",
+    "fotoUrl": "https://img.olx.com.br/images/13/138607160957227.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/138607160957227.jpg",
+      "https://img.olx.com.br/images/14/149652886977070.jpg",
+      "https://img.olx.com.br/images/15/155624281895562.jpg",
+      "https://img.olx.com.br/images/17/172610161798849.jpg",
+      "https://img.olx.com.br/images/18/189692284195402.jpg",
+      "https://img.olx.com.br/images/20/202643166705732.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779548453
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:56",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1504421819",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/nintendo-switch-oled-usado-1504421819",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Nintendo Switch OLED usado",
     "ts": 1779548180
   },
   {
@@ -9924,24 +9947,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "ps4 500gb",
     "ts": 1779472790
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:59",
-    "fotoUrl": "https://img.olx.com.br/images/29/290693284495988.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/290693284495988.jpg",
-      "https://img.olx.com.br/images/31/317683162681104.jpg"
-    ],
-    "id": "1504228404",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/vendo-call-of-duty-infinite-warfare-versao-japonesa-1504228404",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Vendo Call of Duty Infinite Warfare (Versão Japonesa)",
-    "ts": 1779472757
   }
 ]
