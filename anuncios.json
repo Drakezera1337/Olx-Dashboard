@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504509516",
-    "titulo": "iPhone 13 128GB Meia Noite",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "categoria": "iphone",
+    "id": "1504510415",
+    "titulo": "The Witcher III wild Hunt PS4/PS5",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "18:53",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:56",
+    "tempoOlx": "Na OLX desde agosto de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-meia-noite-1504509516",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-iii-wild-hunt-ps4-ps5-1504510415",
+    "fotoUrl": "https://img.olx.com.br/images/51/512605166348255.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/512605166348255.jpg",
+      "https://img.olx.com.br/images/52/524623884324340.jpg",
+      "https://img.olx.com.br/images/54/547688528773360.jpg",
+      "https://img.olx.com.br/images/56/565606402473166.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779573414
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:53",
     "fotoUrl": "https://img.olx.com.br/images/41/415696161628628.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/415696161628628.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/46/462634764615377.jpg",
       "https://img.olx.com.br/images/48/481680648116451.jpg"
     ],
-    "defeito": false,
+    "id": "1504509516",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-meia-noite-1504509516",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "iPhone 13 128GB Meia Noite",
     "ts": 1779573229
   },
   {
@@ -9803,28 +9824,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Infamous Second Son PS4",
     "ts": 1779506779
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:21",
-    "fotoUrl": "https://img.olx.com.br/images/37/374680168275598.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/374680168275598.jpg",
-      "https://img.olx.com.br/images/37/378675400942912.jpg",
-      "https://img.olx.com.br/images/38/384693524888862.jpg",
-      "https://img.olx.com.br/images/39/396631407415399.jpg",
-      "https://img.olx.com.br/images/40/408652763458225.jpg",
-      "https://img.olx.com.br/images/40/408619880954446.jpg"
-    ],
-    "id": "1504340581",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-ps4-slim-de-500gb-1504340581",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "Vendo PS4 slim de 500gb",
-    "ts": 1779506509
   }
 ]
