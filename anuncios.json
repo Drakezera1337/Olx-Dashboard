@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504528989",
-    "titulo": "Ps4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1504528906",
+    "titulo": "iPhone 13 128GB",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "20:56",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "20:58",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ps4-1504528989",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-1504528906",
+    "fotoUrl": "https://img.olx.com.br/images/59/599689880904726.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/599689880904726.jpg",
+      "https://img.olx.com.br/images/60/608603288875585.jpg",
+      "https://img.olx.com.br/images/60/600661161754539.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779580728
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:56",
     "fotoUrl": "https://img.olx.com.br/images/62/622627529369821.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/622627529369821.jpg",
       "https://img.olx.com.br/images/63/638630889080643.jpg"
     ],
-    "defeito": false,
+    "id": "1504528989",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ps4-1504528989",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Ps4",
     "ts": 1779580610
   },
   {
@@ -9849,25 +9869,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Jogo Final Fantasy 7 Rebirth PS5",
     "ts": 1779541632
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:07",
-    "fotoUrl": "https://img.olx.com.br/images/85/852661168768807.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/852661168768807.jpg",
-      "https://img.olx.com.br/images/86/862693762841469.jpg",
-      "https://img.olx.com.br/images/87/873607523703245.jpg"
-    ],
-    "id": "1504395733",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-portatil-1504395733",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Vídeo game portátil ",
-    "ts": 1779541624
   }
 ]
