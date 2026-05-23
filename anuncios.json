@@ -1,20 +1,38 @@
 [
   {
-    "id": "1495364757",
-    "titulo": "Coleção Resident Evil",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "jogos",
+    "id": "1504326852",
+    "titulo": "Ps4",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:25",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "22:28",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/colecao-resident-evil-1495364757",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps4-1504326852",
+    "fotoUrl": "https://img.olx.com.br/images/64/644621404260245.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/644621404260245.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779499728
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:25",
     "fotoUrl": "https://img.olx.com.br/images/90/907622391539964.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/907622391539964.jpg"
     ],
-    "defeito": false,
+    "id": "1495364757",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/colecao-resident-evil-1495364757",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Coleção Resident Evil",
     "ts": 1779499559
   },
   {
@@ -9920,25 +9938,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "The division",
     "ts": 1779457420
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:43",
-    "fotoUrl": "https://img.olx.com.br/images/17/171684602492565.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/171684602492565.jpg",
-      "https://img.olx.com.br/images/20/202625365891099.jpg",
-      "https://img.olx.com.br/images/21/219601723482099.jpg"
-    ],
-    "id": "1470298742",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-1470298742",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Horizon Zero Dawn ",
-    "ts": 1779457413
   }
 ]
