@@ -1,21 +1,39 @@
 [
   {
-    "id": "1504339084",
-    "titulo": "Saros PS5",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "categoria": "ps5",
+    "id": "1504339775",
+    "titulo": "Jogos Ps4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:11",
-    "tempoOlx": "Na OLX desde junho de 2014",
+    "detectado": "00:14",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/saros-ps5-1504339084",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/jogos-ps4-1504339775",
+    "fotoUrl": "https://img.olx.com.br/images/67/671688160466567.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/671688160466567.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779506059
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:11",
     "fotoUrl": "https://img.olx.com.br/images/12/123659520781876.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/123659520781876.jpg",
       "https://img.olx.com.br/images/13/137627764997145.jpg"
     ],
-    "defeito": false,
+    "id": "1504339084",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/saros-ps5-1504339084",
+    "preco": 230,
+    "precoRaw": "R$ 230",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2014",
+    "titulo": "Saros PS5",
     "ts": 1779505878
   },
   {
@@ -9926,28 +9944,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Vende-se PS4 +6 jogos em mídia fisica",
     "ts": 1779459632
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:20",
-    "fotoUrl": "https://img.olx.com.br/images/82/828624884108834.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/828624884108834.jpg",
-      "https://img.olx.com.br/images/88/887656168801189.jpg",
-      "https://img.olx.com.br/images/91/919613287291174.jpg",
-      "https://img.olx.com.br/images/96/966690649056695.jpg",
-      "https://img.olx.com.br/images/10/109630409560129.jpg",
-      "https://img.olx.com.br/images/15/154695403467622.jpg"
-    ],
-    "id": "1504173800",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1504173800",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2022",
-    "titulo": "Playstation 4",
-    "ts": 1779459620
   }
 ]
