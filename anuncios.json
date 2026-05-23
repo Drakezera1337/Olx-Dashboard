@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504448967",
-    "titulo": "Playstation 3 Slim",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps3",
+    "id": "1504450489",
+    "titulo": "Switch Lite com Problema na Tela",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "13:50",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "13:54",
+    "tempoOlx": "Na OLX desde maio de 2025",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-slim-1504448967",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/switch-lite-com-problema-na-tela-1504450489",
+    "fotoUrl": "https://img.olx.com.br/images/84/843672403380039.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/843672403380039.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779555258
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:50",
     "fotoUrl": "https://img.olx.com.br/images/69/695676762368147.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/695676762368147.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/74/743626640805594.jpg",
       "https://img.olx.com.br/images/76/764636406615710.jpg"
     ],
-    "defeito": false,
+    "id": "1504448967",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-3-slim-1504448967",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Playstation 3 Slim",
     "ts": 1779555050
   },
   {
@@ -9901,26 +9919,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2013",
     "titulo": "Ps Portal impecável + caixa com berço e manuais",
     "ts": 1779481939
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:31",
-    "fotoUrl": "https://img.olx.com.br/images/91/916602882764917.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/916602882764917.jpg",
-      "https://img.olx.com.br/images/93/932668647011836.jpg",
-      "https://img.olx.com.br/images/95/953680763144392.jpg",
-      "https://img.olx.com.br/images/97/973635760313838.jpg"
-    ],
-    "id": "1504268064",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-seminovo-de-1t-1504268064",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "Ps4 seminovo de 1T",
-    "ts": 1779481912
   }
 ]
