@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504260902",
-    "titulo": "VENDO XBOX ONE S",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "categoria": "xbox",
+    "id": "1361331534",
+    "titulo": "Jogos  PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:29",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "detectado": "12:31",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/vendo-xbox-one-s-1504260902",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogos-ps4-1361331534",
+    "fotoUrl": "https://img.olx.com.br/images/43/436492471170895.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/436492471170895.jpg",
+      "https://img.olx.com.br/images/43/433449119133985.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779550308
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:29",
     "fotoUrl": "https://img.olx.com.br/images/28/287607768649876.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/287607768649876.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/74/741691882385805.jpg",
       "https://img.olx.com.br/images/76/765629884184399.jpg"
     ],
-    "defeito": false,
+    "id": "1504260902",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/vendo-xbox-one-s-1504260902",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "titulo": "VENDO XBOX ONE S",
     "ts": 1779550162
   },
   {
@@ -9912,28 +9931,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Doom eternal",
     "ts": 1779474150
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:22",
-    "fotoUrl": "https://img.olx.com.br/images/69/695600525086659.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/695600525086659.jpg",
-      "https://img.olx.com.br/images/70/703669643373000.jpg",
-      "https://img.olx.com.br/images/72/729693407034192.jpg",
-      "https://img.olx.com.br/images/72/727619887710636.jpg",
-      "https://img.olx.com.br/images/73/730616408900149.jpg",
-      "https://img.olx.com.br/images/73/738648521081113.jpg"
-    ],
-    "id": "1504235099",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/god-of-war-ragnarok-ps4-midia-fisica-1504235099",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "God of War - Ragnarok - PS4 - Mídia Fisica",
-    "ts": 1779474140
   }
 ]
