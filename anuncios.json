@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504507771",
-    "titulo": "PS4 500GB",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
+    "id": "1504507634",
+    "titulo": "PS4 Jogo Ratchet & Clank",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:39",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde junho de 2016",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-500gb-1504507771",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-jogo-ratchet-clank-1504507634",
+    "fotoUrl": "https://img.olx.com.br/images/64/647618168231874.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/647618168231874.jpg",
+      "https://img.olx.com.br/images/65/659698644940923.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779572375
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:39",
     "fotoUrl": "https://img.olx.com.br/images/91/914652764633049.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/914652764633049.jpg",
       "https://img.olx.com.br/images/92/923650042156763.jpg",
       "https://img.olx.com.br/images/93/935606767438412.jpg"
     ],
-    "defeito": false,
+    "id": "1504507771",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-500gb-1504507771",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "PS4 500GB",
     "ts": 1779572367
   },
   {
@@ -9819,27 +9838,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Call of Duty MW PS4",
     "ts": 1779500313
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:38",
-    "fotoUrl": "https://img.olx.com.br/images/77/779608762684024.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/779608762684024.jpg",
-      "https://img.olx.com.br/images/78/782602769980245.jpg",
-      "https://img.olx.com.br/images/79/796616764887518.jpg",
-      "https://img.olx.com.br/images/80/805634164509067.jpg",
-      "https://img.olx.com.br/images/80/803627520888980.jpg"
-    ],
-    "id": "1504328175",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/mortal-kombat-11-1504328175",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Mortal Kombat 11 ",
-    "ts": 1779500302
   }
 ]
