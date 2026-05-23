@@ -1,21 +1,43 @@
 [
   {
-    "id": "1504487390",
-    "titulo": "PlayStation 4 ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1504488826",
+    "titulo": "Xbox séries S 512gb",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "17:16",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "detectado": "17:17",
+    "tempoOlx": "Na OLX desde maio de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1504487390",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/xbox-series-s-512gb-1504488826",
+    "fotoUrl": "https://img.olx.com.br/images/30/302649642683108.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/302649642683108.jpg",
+      "https://img.olx.com.br/images/31/314690648918988.jpg",
+      "https://img.olx.com.br/images/32/324696886297888.jpg",
+      "https://img.olx.com.br/images/34/344619408709232.jpg",
+      "https://img.olx.com.br/images/35/358653168546976.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779567439
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:16",
     "fotoUrl": "https://img.olx.com.br/images/91/910641521308398.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/910641521308398.jpg",
       "https://img.olx.com.br/images/94/942690163310752.jpg"
     ],
-    "defeito": false,
+    "id": "1504487390",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1504487390",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "titulo": "PlayStation 4 ",
     "ts": 1779567411
   },
   {
@@ -9839,24 +9861,5 @@
     "tempoOlx": "Na OLX desde maio de 2021",
     "titulo": "Jogos de ps5 e ps4 ",
     "ts": 1779492725
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:31",
-    "fotoUrl": "https://img.olx.com.br/images/57/575630284618388.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/575630284618388.jpg",
-      "https://img.olx.com.br/images/59/594610522815018.jpg"
-    ],
-    "id": "1504306062",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/anthem-ps4-envio-via-olx-pay-1504306062",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2022",
-    "titulo": "Anthem ps4 envio via Olx pay ",
-    "ts": 1779492716
   }
 ]
