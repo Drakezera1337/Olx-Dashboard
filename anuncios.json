@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504434000",
-    "titulo": "Jogo de ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1504433214",
+    "titulo": "Sleeping Dogs Definitive Edition ",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "12:43",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogo-de-ps4-1504434000",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/sleeping-dogs-definitive-edition-1504433214",
+    "fotoUrl": "https://img.olx.com.br/images/51/511636649911756.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/511636649911756.jpg",
+      "https://img.olx.com.br/images/53/538697765023575.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779551009
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:43",
     "fotoUrl": "https://img.olx.com.br/images/92/928676760936420.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/928676760936420.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/25/253645761990460.jpg",
       "https://img.olx.com.br/images/31/313677406231181.jpg"
     ],
-    "defeito": false,
+    "id": "1504434000",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogo-de-ps4-1504434000",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
+    "titulo": "Jogo de ps4",
     "ts": 1779551000
   },
   {
@@ -9908,28 +9927,5 @@
     "tempoOlx": "Na OLX desde outubro de 2023",
     "titulo": "Days gone PS4- Faço OLX pay ",
     "ts": 1779475580
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:44",
-    "fotoUrl": "https://img.olx.com.br/images/86/863641765201556.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/863641765201556.jpg",
-      "https://img.olx.com.br/images/88/884685887098782.jpg",
-      "https://img.olx.com.br/images/89/892693163831075.jpg",
-      "https://img.olx.com.br/images/91/917671886912785.jpg",
-      "https://img.olx.com.br/images/92/923609165548835.jpg",
-      "https://img.olx.com.br/images/93/934670161588058.jpg"
-    ],
-    "id": "1504239892",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/playstation-portal-psportal-ps5-dualsense-com-display-headphone-sony-pulse-3d-ps5-1504239892",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2017",
-    "titulo": "Playstation Portal PSPortal PS5 Dualsense com display + Headphone Sony Pulse 3D PS5",
-    "ts": 1779475459
   }
 ]
