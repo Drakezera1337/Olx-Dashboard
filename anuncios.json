@@ -1,22 +1,40 @@
 [
   {
-    "id": "1504508720",
-    "titulo": "Batlefield V",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "outros",
+    "id": "1504522959",
+    "titulo": "Xbox Siries S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "20:08",
-    "tempoOlx": "Na OLX desde março de 2023",
+    "detectado": "20:13",
+    "tempoOlx": "Na OLX desde novembro de 2018",
     "descricao": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/batlefield-v-1504508720",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-siries-s-1504522959",
+    "fotoUrl": "https://img.olx.com.br/images/62/623658762704129.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/623658762704129.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779578027
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:08",
     "fotoUrl": "https://img.olx.com.br/images/82/829641284627472.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/829641284627472.jpg",
       "https://img.olx.com.br/images/84/845661648761988.jpg",
       "https://img.olx.com.br/images/86/862688767196679.jpg"
     ],
-    "defeito": false,
+    "id": "1504508720",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/batlefield-v-1504508720",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "Batlefield V",
     "ts": 1779577735
   },
   {
@@ -9819,25 +9837,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "Overwatch: Origins Edition - PS4 usado",
     "ts": 1779541335
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:02",
-    "fotoUrl": "https://img.olx.com.br/images/35/358612488020273.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/358612488020273.jpg",
-      "https://img.olx.com.br/images/37/370689007796137.jpg",
-      "https://img.olx.com.br/images/39/394608725278554.jpg"
-    ],
-    "id": "1470102102",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dragonball-xenoverse-xv-ps4-playstation-1470102102",
-    "preco": 85,
-    "precoRaw": "R$ 85",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "DragonBall Xenoverse XV Ps4 PlayStation ",
-    "ts": 1779541326
   }
 ]
