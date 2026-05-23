@@ -1,15 +1,27 @@
 [
   {
-    "id": "1488002298",
-    "titulo": "The Order: 1886 - PS4/PS5 - Playstation 4/Playstation 5",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps5",
+    "id": "1504478989",
+    "titulo": "PlayStation 4",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:28",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-order-1886-ps4-ps5-playstation-4-playstation-5-1488002298",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/playstation-4-1504478989",
+    "fotoUrl": "https://img.olx.com.br/images/94/947696282819949.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/947696282819949.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779564526
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:28",
     "fotoUrl": "https://img.olx.com.br/images/18/187626142286233.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/187626142286233.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/18/189610622255969.jpg",
       "https://img.olx.com.br/images/18/187644503215440.jpg"
     ],
-    "defeito": false,
+    "id": "1488002298",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-order-1886-ps4-ps5-playstation-4-playstation-5-1488002298",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "The Order: 1886 - PS4/PS5 - Playstation 4/Playstation 5",
     "ts": 1779564483
   },
   {
@@ -9839,23 +9857,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "Death stranding play 4",
     "ts": 1779490916
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:01",
-    "fotoUrl": "https://img.olx.com.br/images/20/202581443413925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/202581443413925.jpg"
-    ],
-    "id": "1436947981",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-serie-tom-clancy-1436947981",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Jogos PS4 - série Tom Clancy",
-    "ts": 1779490907
   }
 ]
