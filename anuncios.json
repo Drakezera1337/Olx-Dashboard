@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504471244",
-    "titulo": "FIFA 22",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1504454442",
+    "titulo": "Yakuza Kiwami 2",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "15:41",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/fifa-22-1504471244",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/yakuza-kiwami-2-1504454442",
+    "fotoUrl": "https://img.olx.com.br/images/90/902671043896585.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/902671043896585.jpg",
+      "https://img.olx.com.br/images/91/918679523104992.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779561703
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:41",
     "fotoUrl": "https://img.olx.com.br/images/21/213625048556462.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/213625048556462.jpg"
     ],
-    "defeito": false,
+    "id": "1504471244",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/fifa-22-1504471244",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "FIFA 22",
     "ts": 1779561694
   },
   {
@@ -9850,28 +9869,5 @@
     "tempoOlx": "Na OLX desde setembro de 2018",
     "titulo": "Jogo Ps4 Ayrton Senna ",
     "ts": 1779489468
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:36",
-    "fotoUrl": "https://img.olx.com.br/images/29/296674281796249.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/296674281796249.jpg",
-      "https://img.olx.com.br/images/30/307661521710300.jpg",
-      "https://img.olx.com.br/images/31/318624405162934.jpg",
-      "https://img.olx.com.br/images/32/326698161118743.jpg",
-      "https://img.olx.com.br/images/34/343619642007016.jpg",
-      "https://img.olx.com.br/images/35/357692163981257.jpg"
-    ],
-    "id": "1504295887",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/psp-3001-desbloqueado-com-jogos-1504295887",
-    "preco": 430,
-    "precoRaw": "R$ 430",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "PSP 3001 DESBLOQUEADO COM JOGOS",
-    "ts": 1779489409
   }
 ]
