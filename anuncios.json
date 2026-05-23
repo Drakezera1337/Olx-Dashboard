@@ -1,15 +1,31 @@
 [
   {
-    "id": "1504467572",
-    "titulo": "God Of War  - Ragnarok ( PS4 )",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "ps4",
+    "id": "1500468321",
+    "titulo": "Nintendo Switch Oled",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "15:27",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "15:32",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/god-of-war-ragnarok-ps4-1504467572",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/nintendo-switch-oled-1500468321",
+    "fotoUrl": "https://img.olx.com.br/images/66/661603880201011.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/661603880201011.jpg",
+      "https://img.olx.com.br/images/67/679620049933782.jpg",
+      "https://img.olx.com.br/images/69/693648646181304.jpg",
+      "https://img.olx.com.br/images/71/712684885199743.jpg",
+      "https://img.olx.com.br/images/72/728634046569208.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779561169
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:27",
     "fotoUrl": "https://img.olx.com.br/images/96/966667643523315.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/966667643523315.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/99/992629160096609.jpg",
       "https://img.olx.com.br/images/11/113657641122040.jpg"
     ],
-    "defeito": false,
+    "id": "1504467572",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/god-of-war-ragnarok-ps4-1504467572",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "God Of War  - Ragnarok ( PS4 )",
     "ts": 1779560855
   },
   {
@@ -9873,25 +9895,5 @@
     "tempoOlx": "Na OLX desde agosto de 2020",
     "titulo": "Assassins Creed Valhalla PS4/5",
     "ts": 1779488150
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:11",
-    "fotoUrl": "https://img.olx.com.br/images/12/123633162354931.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/123633162354931.jpg",
-      "https://img.olx.com.br/images/13/133676521430602.jpg",
-      "https://img.olx.com.br/images/15/158668161770386.jpg"
-    ],
-    "id": "1504290720",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/charizard-x-ex-1504290720",
-    "preco": 36,
-    "precoRaw": "R$ 36",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Charizard x ex",
-    "ts": 1779487879
   }
 ]
