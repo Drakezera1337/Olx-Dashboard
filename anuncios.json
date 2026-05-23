@@ -1,22 +1,40 @@
 [
   {
-    "id": "1504451785",
-    "titulo": "Streets Of Rage 4 - PS4",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "categoria": "ps4",
+    "id": "1504453416",
+    "titulo": "PS5 - desapegando",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "14:06",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "detectado": "14:08",
+    "tempoOlx": "Na OLX desde março de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/streets-of-rage-4-ps4-1504451785",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps5-desapegando-1504453416",
+    "fotoUrl": "https://img.olx.com.br/images/37/377614286799815.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/377614286799815.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779556130
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:06",
     "fotoUrl": "https://img.olx.com.br/images/45/458616886076264.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/458616886076264.jpg",
       "https://img.olx.com.br/images/46/465665287140950.jpg",
       "https://img.olx.com.br/images/47/474672524296268.jpg"
     ],
-    "defeito": false,
+    "id": "1504451785",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/streets-of-rage-4-ps4-1504451785",
+    "preco": 220,
+    "precoRaw": "R$ 220",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Streets Of Rage 4 - PS4",
     "ts": 1779555987
   },
   {
@@ -9888,27 +9906,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2023",
     "titulo": "Ps4 1 terá controle, com defeito ( NÃO LIGA)",
     "ts": 1779482390
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:37",
-    "fotoUrl": "https://img.olx.com.br/images/71/714677522498256.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/714677522498256.jpg",
-      "https://img.olx.com.br/images/76/762647285295711.jpg",
-      "https://img.olx.com.br/images/78/783685526582461.jpg",
-      "https://img.olx.com.br/images/81/819645408608042.jpg",
-      "https://img.olx.com.br/images/84/840689405027081.jpg"
-    ],
-    "id": "1504269967",
-    "link": "https://es.olx.com.br/sul-do-espirito-santo/games/consoles-de-video-game/nintendo-switch-lite-usado-1504269967",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2023",
-    "titulo": "Nintendo switch lite usado",
-    "ts": 1779482269
   }
 ]
