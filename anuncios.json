@@ -1,21 +1,44 @@
 [
   {
-    "id": "1504464402",
-    "titulo": "Ps3",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1504465754",
+    "titulo": "Ps4 Slim - 500gb c/ jogo Gta 5",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:11",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "detectado": "15:14",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/ps3-1504464402",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-500gb-c-jogo-gta-5-1504465754",
+    "fotoUrl": "https://img.olx.com.br/images/32/327670288342400.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/327670288342400.jpg",
+      "https://img.olx.com.br/images/33/338641523803581.jpg",
+      "https://img.olx.com.br/images/34/344628763172015.jpg",
+      "https://img.olx.com.br/images/35/353678647625438.jpg",
+      "https://img.olx.com.br/images/37/379691646922103.jpg",
+      "https://img.olx.com.br/images/38/388679525026381.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779560058
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:11",
     "fotoUrl": "https://img.olx.com.br/images/36/360697160145059.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/360697160145059.jpg",
       "https://img.olx.com.br/images/38/387644641399596.jpg"
     ],
-    "defeito": false,
+    "id": "1504464402",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/ps3-1504464402",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Ps3",
     "ts": 1779559881
   },
   {
@@ -9881,23 +9904,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "FIFA 24 PS4",
     "ts": 1779486461
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:47",
-    "fotoUrl": "https://img.olx.com.br/images/36/361601525037005.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/361601525037005.jpg"
-    ],
-    "id": "1441275414",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-trilogy-ps4-lacrado-original-1441275414",
-    "preco": 149,
-    "precoRaw": "R$ 149",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "GTA trilogy Ps4 lacrado original",
-    "ts": 1779486451
   }
 ]
