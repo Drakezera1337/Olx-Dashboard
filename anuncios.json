@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504522959",
-    "titulo": "Xbox Siries S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1504522990",
+    "titulo": "PES 20 - PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:13",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "detectado": "20:14",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "descricao": "",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-siries-s-1504522959",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/pes-20-ps4-1504522990",
+    "fotoUrl": "https://img.olx.com.br/images/75/758682280029339.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/758682280029339.jpg",
+      "https://img.olx.com.br/images/79/791661161970017.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779578059
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:13",
     "fotoUrl": "https://img.olx.com.br/images/62/623658762704129.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/623658762704129.jpg"
     ],
-    "defeito": false,
+    "id": "1504522959",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-siries-s-1504522959",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "Xbox Siries S",
     "ts": 1779578027
   },
   {
@@ -9817,25 +9836,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "Pay Day 2 Crimewave Edition PS4 ",
     "ts": 1779541343
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:02",
-    "fotoUrl": "https://img.olx.com.br/images/30/303515910000674.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/303515910000674.jpg",
-      "https://img.olx.com.br/images/30/303563317317648.jpg",
-      "https://img.olx.com.br/images/30/303549316155745.jpg"
-    ],
-    "id": "1427748816",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/overwatch-origins-edition-ps4-usado-1427748816",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "Overwatch: Origins Edition - PS4 usado",
-    "ts": 1779541335
   }
 ]
