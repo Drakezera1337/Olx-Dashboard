@@ -1,20 +1,43 @@
 [
   {
-    "id": "1504477621",
-    "titulo": "Jogos de Playstation 4 ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
+    "id": "1504480060",
+    "titulo": "4 Jogos Call of Duty - PS4 (Em Portugues)",
+    "preco": 360,
+    "precoRaw": "R$ 360",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:16",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "detectado": "16:27",
+    "tempoOlx": "Na OLX desde março de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jogos-de-playstation-4-1504477621",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/4-jogos-call-of-duty-ps4-em-portugues-1504480060",
+    "fotoUrl": "https://img.olx.com.br/images/60/608602166792295.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/608602166792295.jpg",
+      "https://img.olx.com.br/images/63/637639522317135.jpg",
+      "https://img.olx.com.br/images/63/632634041970003.jpg",
+      "https://img.olx.com.br/images/65/650643760476478.jpg",
+      "https://img.olx.com.br/images/66/668657400442010.jpg",
+      "https://img.olx.com.br/images/67/673697400087260.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779564474
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "16:16",
     "fotoUrl": "https://img.olx.com.br/images/80/800639163875076.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/800639163875076.jpg"
     ],
-    "defeito": false,
+    "id": "1504477621",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jogos-de-playstation-4-1504477621",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Jogos de Playstation 4 ",
     "ts": 1779563809
   },
   {
@@ -9833,23 +9856,5 @@
     "tempoOlx": "Na OLX desde agosto de 2013",
     "titulo": "Oculus quest 2 sem caixa ",
     "ts": 1779490697
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:57",
-    "fotoUrl": "https://img.olx.com.br/images/45/457654281212085.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/457654281212085.jpg"
-    ],
-    "id": "1504299750",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/lcd-nintendo-switch-lite-1504299750",
-    "preco": 39,
-    "precoRaw": "R$ 39",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Lcd nintendo switch lite ",
-    "ts": 1779490646
   }
 ]
