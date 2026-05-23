@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504514131",
+    "id": "1504513876",
     "titulo": "JOGO PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:20",
+    "detectado": "19:21",
     "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogo-ps4-1504514131",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogo-ps4-1504513876",
+    "fotoUrl": "https://img.olx.com.br/images/48/486670640554551.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/486670640554551.jpg",
+      "https://img.olx.com.br/images/50/500697525469092.jpg",
+      "https://img.olx.com.br/images/52/529673527717547.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779574860
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:20",
     "fotoUrl": "https://img.olx.com.br/images/88/887648281011269.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/887648281011269.jpg",
       "https://img.olx.com.br/images/90/903683523606252.jpg",
       "https://img.olx.com.br/images/92/925625169746742.jpg"
     ],
-    "defeito": false,
+    "id": "1504514131",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogo-ps4-1504514131",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "JOGO PS4",
     "ts": 1779574848
   },
   {
@@ -9813,26 +9833,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "Caixa de Xbox One S ALL ",
     "ts": 1779541088
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:57",
-    "fotoUrl": "https://img.olx.com.br/images/54/542650522531973.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/542650522531973.jpg",
-      "https://img.olx.com.br/images/60/608609405328617.jpg",
-      "https://img.olx.com.br/images/65/658614523289198.jpg",
-      "https://img.olx.com.br/images/70/709611643749154.jpg"
-    ],
-    "id": "1502832919",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/ps4-pro-controle-original-base-carregadora-de-controle-hyperx-1502832919",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
-    "titulo": "PS4 Pro + Controle Original + Base Carregadora de Controle HyperX",
-    "ts": 1779541079
   }
 ]
