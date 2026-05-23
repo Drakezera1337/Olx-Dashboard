@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504328093",
-    "titulo": "Call of Duty MW PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1504328637",
+    "titulo": "Resident Evil 7 PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:38",
+    "detectado": "22:44",
     "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-mw-ps4-1504328093",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/resident-evil-7-ps4-1504328637",
+    "fotoUrl": "https://img.olx.com.br/images/49/499665404952827.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/499665404952827.jpg",
+      "https://img.olx.com.br/images/50/500663168638764.jpg",
+      "https://img.olx.com.br/images/53/537681287032516.jpg",
+      "https://img.olx.com.br/images/55/552641403277359.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779500661
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:38",
     "fotoUrl": "https://img.olx.com.br/images/45/453648765173223.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/453648765173223.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/50/500632887436986.jpg",
       "https://img.olx.com.br/images/51/518642288524826.jpg"
     ],
-    "defeito": false,
+    "id": "1504328093",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/call-of-duty-mw-ps4-1504328093",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Call of Duty MW PS4",
     "ts": 1779500313
   },
   {
@@ -9924,25 +9945,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "Dragonball XenoVerse 2",
     "ts": 1779457504
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:44",
-    "fotoUrl": "https://img.olx.com.br/images/54/545568498427681.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/545568498427681.jpg",
-      "https://img.olx.com.br/images/56/569563617499468.jpg",
-      "https://img.olx.com.br/images/54/543537613475047.jpg"
-    ],
-    "id": "1376071261",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nier-replicant-ps4-1376071261",
-    "preco": 220,
-    "precoRaw": "R$ 220",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "Nier Replicant Ps4",
-    "ts": 1779457493
   }
 ]
