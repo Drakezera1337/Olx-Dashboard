@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504508008",
-    "titulo": "Uncharted 4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "jogos",
+    "id": "1504507771",
+    "titulo": "PS4 500GB",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:39",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/uncharted-4-1504508008",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-500gb-1504507771",
+    "fotoUrl": "https://img.olx.com.br/images/91/914652764633049.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/914652764633049.jpg",
+      "https://img.olx.com.br/images/92/923650042156763.jpg",
+      "https://img.olx.com.br/images/93/935606767438412.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779572367
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:39",
     "fotoUrl": "https://img.olx.com.br/images/37/370649289162293.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/370649289162293.jpg",
       "https://img.olx.com.br/images/38/389665286434392.jpg"
     ],
-    "defeito": false,
+    "id": "1504508008",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/uncharted-4-1504508008",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Uncharted 4",
     "ts": 1779572359
   },
   {
@@ -9821,26 +9841,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Mortal Kombat 11 ",
     "ts": 1779500302
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:38",
-    "fotoUrl": "https://img.olx.com.br/images/25/250667285087318.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/250667285087318.jpg",
-      "https://img.olx.com.br/images/27/275605280754437.jpg",
-      "https://img.olx.com.br/images/29/290698760703951.jpg",
-      "https://img.olx.com.br/images/30/301627644130950.jpg"
-    ],
-    "id": "1504328391",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-remastered-ps4-1504328391",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Dark Souls Remastered PS4",
-    "ts": 1779500292
   }
 ]
