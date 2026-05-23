@@ -1,15 +1,29 @@
 [
   {
-    "id": "1497617264",
-    "titulo": "Switch OLED",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "switch",
+    "id": "1504504694",
+    "titulo": "Jogo Detroit PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:18",
-    "tempoOlx": "Na OLX desde outubro de 2014",
+    "detectado": "18:20",
+    "tempoOlx": "Na OLX desde abril de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/switch-oled-1497617264",
+    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogo-detroit-ps4-1504504694",
+    "fotoUrl": "https://img.olx.com.br/images/47/474628046852932.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/474628046852932.jpg",
+      "https://img.olx.com.br/images/48/485658406777175.jpg",
+      "https://img.olx.com.br/images/49/491615402239077.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779571219
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:18",
     "fotoUrl": "https://img.olx.com.br/images/95/952631754856899.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/952631754856899.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/10/100680275779508.jpg",
       "https://img.olx.com.br/images/11/118602158324251.jpg"
     ],
-    "defeito": false,
+    "id": "1497617264",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/switch-oled-1497617264",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "titulo": "Switch OLED",
     "ts": 1779571131
   },
   {
@@ -9838,24 +9858,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2023",
     "titulo": "God of War Ragnarok PS4 - ",
     "ts": 1779498119
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:01",
-    "fotoUrl": "https://img.olx.com.br/images/87/873606287434306.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/873606287434306.jpg",
-      "https://img.olx.com.br/images/88/886657648540805.jpg"
-    ],
-    "id": "1504323796",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/grand-theft-auto-iv-1504323796",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "GRAND THEFT AUTO IV ",
-    "ts": 1779498110
   }
 ]
