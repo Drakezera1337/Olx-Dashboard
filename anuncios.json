@@ -1,20 +1,38 @@
 [
   {
-    "id": "1470421529",
-    "titulo": "Revista Playstation 199",
-    "preco": 12,
-    "precoRaw": "R$ 12",
+    "id": "1470324996",
+    "titulo": "Revista Playstation 161",
+    "preco": 10,
+    "precoRaw": "R$ 10",
     "categoria": "outros",
     "publicado": "",
     "detectado": "09:59",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-199-1470421529",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-161-1470324996",
+    "fotoUrl": "https://img.olx.com.br/images/36/368660120234454.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/368660120234454.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779541191
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:59",
     "fotoUrl": "https://img.olx.com.br/images/61/618653248614431.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/618653248614431.jpg"
     ],
-    "defeito": false,
+    "id": "1470421529",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-199-1470421529",
+    "preco": 12,
+    "precoRaw": "R$ 12",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Revista Playstation 199",
     "ts": 1779541183
   },
   {
@@ -9934,24 +9952,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "The Witcher 3 ",
     "ts": 1779461132
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:45",
-    "fotoUrl": "https://img.olx.com.br/images/80/806657281052486.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/806657281052486.jpg",
-      "https://img.olx.com.br/images/82/827662042719821.jpg"
-    ],
-    "id": "1504180142",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/vendo-homem-aranha-ps4-3-e-god-of-war-2018-1504180142",
-    "preco": 119,
-    "precoRaw": "R$ 119",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Vendo homem aranha PS4 3 e god of war 2018",
-    "ts": 1779461123
   }
 ]
