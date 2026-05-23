@@ -1,20 +1,42 @@
 [
   {
-    "id": "1504436496",
-    "titulo": "Jogos PS4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "ps4",
+    "id": "1504219980",
+    "titulo": "iPhone 14 Pro 128",
+    "preco": 2900,
+    "precoRaw": "R$ 2.900",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "12:54",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "12:56",
+    "tempoOlx": "Na OLX desde dezembro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-ps4-1504436496",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-128-1504219980",
+    "fotoUrl": "https://img.olx.com.br/images/55/552631401290315.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/552631401290315.jpg",
+      "https://img.olx.com.br/images/58/584687769037198.jpg",
+      "https://img.olx.com.br/images/60/600647286349434.jpg",
+      "https://img.olx.com.br/images/67/676639046116324.jpg",
+      "https://img.olx.com.br/images/71/718601160020555.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779551784
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:54",
     "fotoUrl": "https://img.olx.com.br/images/43/439631162405662.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/439631162405662.jpg"
     ],
-    "defeito": false,
+    "id": "1504436496",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-ps4-1504436496",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Jogos PS4",
     "ts": 1779551662
   },
   {
@@ -9908,23 +9930,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": "Jogos de PS4",
     "ts": 1779476018
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:53",
-    "fotoUrl": "https://img.olx.com.br/images/30/309626766916849.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/309626766916849.jpg"
-    ],
-    "id": "1504242037",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-3-ps4-1504242037",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "God of War 3 PS4",
-    "ts": 1779476008
   }
 ]
