@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504522064",
-    "titulo": "Jogo ps3 Nier ",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps3",
+    "id": "1504522433",
+    "titulo": "GTA 5 PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:05",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "detectado": "20:08",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/jogo-ps3-nier-1504522064",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/gta-5-ps4-1504522433",
+    "fotoUrl": "https://img.olx.com.br/images/17/178604644146062.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/178604644146062.jpg",
+      "https://img.olx.com.br/images/21/210607642066261.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779577719
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:05",
     "fotoUrl": "https://img.olx.com.br/images/22/227657529188349.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/227657529188349.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/25/255612405962545.jpg",
       "https://img.olx.com.br/images/26/262691648218598.jpg"
     ],
-    "defeito": false,
+    "id": "1504522064",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/jogo-ps3-nier-1504522064",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Jogo ps3 Nier ",
     "ts": 1779577550
   },
   {
@@ -9819,24 +9838,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "Lote Games PS4 PlayStation 4",
     "ts": 1779541310
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:01",
-    "fotoUrl": "https://img.olx.com.br/images/64/641611880399374.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/641611880399374.jpg",
-      "https://img.olx.com.br/images/67/672663166466372.jpg"
-    ],
-    "id": "1504390348",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-v-ps4-1504390348",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "GTA V - PS4",
-    "ts": 1779541303
   }
 ]
