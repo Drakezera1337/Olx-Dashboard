@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504465270",
-    "titulo": "Playstation 4 (PS4) SLIM 1TB com 3 controles",
-    "preco": 980,
-    "precoRaw": "R$ 980",
-    "categoria": "ps4",
+    "id": "1504465358",
+    "titulo": "IPHONE 15 PRO MAX",
+    "preco": 4000,
+    "precoRaw": "R$ 4.000",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "15:14",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "15:16",
+    "tempoOlx": "Na OLX desde julho de 2018",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/playstation-4-ps4-slim-1tb-com-3-controles-1504465270",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1504465358",
+    "fotoUrl": "https://img.olx.com.br/images/63/636656284935053.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/636656284935053.jpg",
+      "https://img.olx.com.br/images/64/643664521073746.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779560178
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:14",
     "fotoUrl": "https://img.olx.com.br/images/69/694692166203282.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/694692166203282.jpg",
       "https://img.olx.com.br/images/71/713622645351982.jpg",
       "https://img.olx.com.br/images/74/747669049940663.jpg"
     ],
-    "defeito": false,
+    "id": "1504465270",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/playstation-4-ps4-slim-1tb-com-3-controles-1504465270",
+    "preco": 980,
+    "precoRaw": "R$ 980",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Playstation 4 (PS4) SLIM 1TB com 3 controles",
     "ts": 1779560088
   },
   {
@@ -9881,25 +9900,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2018",
     "titulo": "Capcom Fighting Collection 2 - PlayStation 4",
     "ts": 1779487070
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:57",
-    "fotoUrl": "https://img.olx.com.br/images/33/331669401889980.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/331669401889980.jpg",
-      "https://img.olx.com.br/images/33/334644883177496.jpg",
-      "https://img.olx.com.br/images/32/327652526321516.jpg"
-    ],
-    "id": "1504286112",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/jogo-de-ps4-wolfenstein-2-steelbook-edition-playstation-4-1504286112",
-    "preco": 470,
-    "precoRaw": "R$ 470",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "Jogo de PS4 Wolfenstein 2 Steelbook Edition - Playstation 4",
-    "ts": 1779487040
   }
 ]
