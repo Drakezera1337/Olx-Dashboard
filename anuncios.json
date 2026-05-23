@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504407682",
-    "titulo": "Uncharted 4 PS4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "ps4",
+    "id": "1504407205",
+    "titulo": "Destiny 2 ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:00",
-    "tempoOlx": "Na OLX desde abril de 2016",
+    "detectado": "11:01",
+    "tempoOlx": "Na OLX desde maio de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-4-ps4-1504407682",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/destiny-2-1504407205",
+    "fotoUrl": "https://img.olx.com.br/images/17/179607529949138.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/179607529949138.jpg",
+      "https://img.olx.com.br/images/19/190637048574783.jpg",
+      "https://img.olx.com.br/images/21/217669769861713.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779544862
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:00",
     "fotoUrl": "https://img.olx.com.br/images/38/384669524390106.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/384669524390106.jpg"
     ],
-    "defeito": false,
+    "id": "1504407682",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-4-ps4-1504407682",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "Uncharted 4 PS4",
     "ts": 1779544851
   },
   {
@@ -9905,23 +9925,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Horizon forbidden west",
     "ts": 1779469441
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:03",
-    "fotoUrl": "https://img.olx.com.br/images/39/396694763202022.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/396694763202022.jpg"
-    ],
-    "id": "1504215017",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lote-com-15-jogos-de-ps4-e-um-de-ps5-1504215017",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "Lote com 15 jogos de ps4 e um de ps5 ",
-    "ts": 1779469428
   }
 ]
