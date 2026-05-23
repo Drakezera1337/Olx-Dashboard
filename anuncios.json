@@ -1,21 +1,43 @@
 [
   {
-    "id": "1503610490",
-    "titulo": "Playstation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1504326238",
+    "titulo": "IPHONE 17 PLUS 256 GARANTIA 03/27",
+    "preco": 5200,
+    "precoRaw": "R$ 5.200",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "22:22",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "22:23",
+    "tempoOlx": "Na OLX desde outubro de 2013",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-1503610490",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-plus-256-garantia-03-27-1504326238",
+    "fotoUrl": "https://img.olx.com.br/images/11/114672404819936.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/114672404819936.jpg",
+      "https://img.olx.com.br/images/13/131685401442523.jpg",
+      "https://img.olx.com.br/images/15/158613167586624.jpg",
+      "https://img.olx.com.br/images/17/179647046215287.jpg",
+      "https://img.olx.com.br/images/19/195627284142105.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779499429
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:22",
     "fotoUrl": "https://img.olx.com.br/images/65/653638768210475.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/653638768210475.jpg",
       "https://img.olx.com.br/images/67/673603521790733.jpg"
     ],
-    "defeito": false,
+    "id": "1503610490",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-1503610490",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "Playstation 4",
     "ts": 1779499367
   },
   {
@@ -9920,23 +9942,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Spider-man ",
     "ts": 1779457397
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:43",
-    "fotoUrl": "https://img.olx.com.br/images/58/588673409160743.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/58/588673409160743.jpg"
-    ],
-    "id": "1503998004",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-ps4-e-ps5-1503998004",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Jogos PS4 e PS5",
-    "ts": 1779457385
   }
 ]
