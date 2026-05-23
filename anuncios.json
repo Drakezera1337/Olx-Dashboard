@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504488826",
-    "titulo": "Xbox séries S 512gb",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1504490280",
+    "titulo": "Anthem ps4 mídia física ",
+    "preco": 59,
+    "precoRaw": "R$ 59",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:17",
-    "tempoOlx": "Na OLX desde maio de 2017",
+    "detectado": "17:22",
+    "tempoOlx": "Na OLX desde julho de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/xbox-series-s-512gb-1504488826",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/anthem-ps4-midia-fisica-1504490280",
+    "fotoUrl": "https://img.olx.com.br/images/72/721686041553709.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/721686041553709.jpg",
+      "https://img.olx.com.br/images/73/735626041959367.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779567739
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:17",
     "fotoUrl": "https://img.olx.com.br/images/30/302649642683108.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/302649642683108.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/34/344619408709232.jpg",
       "https://img.olx.com.br/images/35/358653168546976.jpg"
     ],
-    "defeito": false,
+    "id": "1504488826",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/xbox-series-s-512gb-1504488826",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "Xbox séries S 512gb",
     "ts": 1779567439
   },
   {
@@ -9840,26 +9859,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "World War Z PS4 - Jogo de Sobrevivência contra Hordas de Zumbis",
     "ts": 1779492733
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:32",
-    "fotoUrl": "https://img.olx.com.br/images/28/285638640768334.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/285638640768334.jpg",
-      "https://img.olx.com.br/images/28/281655646482892.jpg",
-      "https://img.olx.com.br/images/28/284680161258470.jpg",
-      "https://img.olx.com.br/images/27/276624408540966.jpg"
-    ],
-    "id": "1504306017",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/jogos-de-ps5-e-ps4-1504306017",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2021",
-    "titulo": "Jogos de ps5 e ps4 ",
-    "ts": 1779492725
   }
 ]
