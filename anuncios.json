@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504457346",
-    "titulo": "Jogos ps4",
-    "preco": 320,
-    "precoRaw": "R$ 320",
+    "id": "1504458563",
+    "titulo": "Jogo de ps4  F1 2020",
+    "preco": 270,
+    "precoRaw": "R$ 270",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:31",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "14:38",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1504457346",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-de-ps4-f1-2020-1504458563",
+    "fotoUrl": "https://img.olx.com.br/images/74/742613286725630.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/742613286725630.jpg",
+      "https://img.olx.com.br/images/76/760626763485656.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779557928
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:31",
     "fotoUrl": "https://img.olx.com.br/images/33/337681889887013.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/337681889887013.jpg"
     ],
-    "defeito": false,
+    "id": "1504457346",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1504457346",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Jogos ps4",
     "ts": 1779557507
   },
   {
@@ -9882,23 +9901,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Death Stranding - PS4",
     "ts": 1779484330
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:12",
-    "fotoUrl": "https://img.olx.com.br/images/36/366690404811285.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/366690404811285.jpg"
-    ],
-    "id": "1504276579",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dragon-ball-z-ps4-1504276579",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Dragon Ball Z - PS4",
-    "ts": 1779484320
   }
 ]
