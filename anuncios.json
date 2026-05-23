@@ -1,22 +1,43 @@
 [
   {
-    "id": "1504513876",
-    "titulo": "JOGO PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1504513625",
+    "titulo": "Horizon Chase Turbo PS4 ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:21",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "tempoOlx": "Na OLX desde março de 2018",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogo-ps4-1504513876",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/horizon-chase-turbo-ps4-1504513625",
+    "fotoUrl": "https://img.olx.com.br/images/19/198633403560521.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/198633403560521.jpg",
+      "https://img.olx.com.br/images/20/208656765447600.jpg",
+      "https://img.olx.com.br/images/21/212613524916838.jpg",
+      "https://img.olx.com.br/images/22/220614647145023.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779574869
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:21",
     "fotoUrl": "https://img.olx.com.br/images/48/486670640554551.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/486670640554551.jpg",
       "https://img.olx.com.br/images/50/500697525469092.jpg",
       "https://img.olx.com.br/images/52/529673527717547.jpg"
     ],
-    "defeito": false,
+    "id": "1504513876",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogo-ps4-1504513876",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "JOGO PS4",
     "ts": 1779574860
   },
   {
@@ -9813,25 +9834,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Xbox series s ",
     "ts": 1779541095
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:58",
-    "fotoUrl": "https://img.olx.com.br/images/52/523649167944328.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/523649167944328.jpg",
-      "https://img.olx.com.br/images/54/542677281161553.jpg",
-      "https://img.olx.com.br/images/56/560694644169965.jpg"
-    ],
-    "id": "1504392645",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/caixa-de-xbox-one-s-all-1504392645",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2015",
-    "titulo": "Caixa de Xbox One S ALL ",
-    "ts": 1779541088
   }
 ]
