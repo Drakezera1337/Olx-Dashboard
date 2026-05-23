@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504330249",
-    "titulo": "Final Fantasy VII Rebirth PS5",
+    "id": "1504329909",
+    "titulo": "Dragon ball Sparking Zero (Inglês)",
     "preco": 150,
     "precoRaw": "R$ 150",
-    "categoria": "ps5",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "22:51",
+    "detectado": "22:52",
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/final-fantasy-vii-rebirth-ps5-1504330249",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/dragon-ball-sparking-zero-ingles-1504329909",
+    "fotoUrl": "https://img.olx.com.br/images/43/431627648045759.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/431627648045759.jpg",
+      "https://img.olx.com.br/images/45/455680045118022.jpg",
+      "https://img.olx.com.br/images/46/460657042162360.jpg",
+      "https://img.olx.com.br/images/47/473624163494567.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779501120
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:51",
     "fotoUrl": "https://img.olx.com.br/images/43/433604524409755.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/433604524409755.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/46/463656400502495.jpg",
       "https://img.olx.com.br/images/47/476646401784690.jpg"
     ],
-    "defeito": false,
+    "id": "1504330249",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/final-fantasy-vii-rebirth-ps5-1504330249",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Final Fantasy VII Rebirth PS5",
     "ts": 1779501110
   },
   {
@@ -9928,24 +9949,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Battleborn - Ps4",
     "ts": 1779457826
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:50",
-    "fotoUrl": "https://img.olx.com.br/images/83/833553578683538.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/833553578683538.jpg",
-      "https://img.olx.com.br/images/83/835512690151921.jpg"
-    ],
-    "id": "1442274798",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/bioshock-2-ps3-1442274798",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Bioshock 2 - PS3",
-    "ts": 1779457818
   }
 ]
