@@ -1,21 +1,64 @@
 [
   {
-    "id": "1504305466",
-    "titulo": "Playstation 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1504504788",
+    "titulo": "Ps4 1tb + PS2 slim, ambos com defeito!",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:21",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:26",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-5-1504305466",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-1tb-ps2-slim-ambos-com-defeito-1504504788",
+    "fotoUrl": "https://img.olx.com.br/images/92/921656643222190.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/921656643222190.jpg",
+      "https://img.olx.com.br/images/93/937629642942042.jpg",
+      "https://img.olx.com.br/images/95/953669528867525.jpg",
+      "https://img.olx.com.br/images/96/967681160431634.jpg",
+      "https://img.olx.com.br/images/69/694685162174956.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779571578
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:21",
+    "fotoUrl": "https://img.olx.com.br/images/67/675691402265724.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/675691402265724.jpg",
+      "https://img.olx.com.br/images/68/687674647444468.jpg",
+      "https://img.olx.com.br/images/70/706650162879983.jpg",
+      "https://img.olx.com.br/images/71/719609407113942.jpg"
+    ],
+    "id": "1504504321",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1504504321",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "iPhone 14",
+    "ts": 1779571280
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:21",
     "fotoUrl": "https://img.olx.com.br/images/48/485643644548841.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/485643644548841.jpg",
       "https://img.olx.com.br/images/49/495666161898737.jpg"
     ],
-    "defeito": false,
+    "id": "1504305466",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-5-1504305466",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Playstation 5",
     "ts": 1779571278
   },
   {
@@ -9815,43 +9858,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Resident Evil Village PS4",
     "ts": 1779498522
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:08",
-    "fotoUrl": "https://img.olx.com.br/images/98/983657525251835.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/983657525251835.jpg"
-    ],
-    "id": "1504312377",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-assassin-s-creed-iv-black-flag-ps4-1504312377",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Jogo Assassin?s Creed IV Black Flag PS4",
-    "ts": 1779498513
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:08",
-    "fotoUrl": "https://img.olx.com.br/images/65/658481228915073.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/658481228915073.jpg",
-      "https://img.olx.com.br/images/65/656479582795869.jpg",
-      "https://img.olx.com.br/images/65/657483347979616.jpg"
-    ],
-    "id": "1358857128",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/fifa-20-ps4-usado-1358857128",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "FIFA 20 PS4 - usado",
-    "ts": 1779498504
   }
 ]
