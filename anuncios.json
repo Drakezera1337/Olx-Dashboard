@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504493103",
-    "titulo": "Jogos ps4 e ps5 ",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "categoria": "ps5",
+    "id": "1504492707",
+    "titulo": "Resident Evil 4 - ps4 mídia física ",
+    "preco": 185,
+    "precoRaw": "R$ 185",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:40",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "tempoOlx": "Na OLX desde julho de 2018",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-ps4-e-ps5-1504493103",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/resident-evil-4-ps4-midia-fisica-1504492707",
+    "fotoUrl": "https://img.olx.com.br/images/88/884695284368856.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/884695284368856.jpg",
+      "https://img.olx.com.br/images/90/903601043038549.jpg",
+      "https://img.olx.com.br/images/91/913681408597745.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779568848
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:40",
     "fotoUrl": "https://img.olx.com.br/images/52/521614880217075.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/521614880217075.jpg",
       "https://img.olx.com.br/images/53/538679043600846.jpg"
     ],
-    "defeito": false,
+    "id": "1504493103",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-ps4-e-ps5-1504493103",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "Jogos ps4 e ps5 ",
     "ts": 1779568838
   },
   {
@@ -9838,23 +9858,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Ps4",
     "ts": 1779494153
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:50",
-    "fotoUrl": "https://img.olx.com.br/images/73/735577672011089.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/735577672011089.jpg"
-    ],
-    "id": "1431095300",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/revista-playstation-e-revista-xbox-e-revista-pokemon-valor-unidade-1431095300",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Revista Playstation e revista Xbox e revista pokémon VALOR UNIDADE ",
-    "ts": 1779493825
   }
 ]
