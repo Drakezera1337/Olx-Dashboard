@@ -1,20 +1,38 @@
 [
   {
-    "id": "1470325441",
-    "titulo": "Revista Playstation 180",
-    "preco": 11,
-    "precoRaw": "R$ 11",
+    "id": "1470424640",
+    "titulo": "Revista Playstation 170",
+    "preco": 10,
+    "precoRaw": "R$ 10",
     "categoria": "outros",
     "publicado": "",
     "detectado": "10:00",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-180-1470325441",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-170-1470424640",
+    "fotoUrl": "https://img.olx.com.br/images/72/723692121467783.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/723692121467783.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779541214
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:00",
     "fotoUrl": "https://img.olx.com.br/images/17/177621480534539.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/177621480534539.jpg"
     ],
-    "defeito": false,
+    "id": "1470325441",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-180-1470325441",
+    "preco": 11,
+    "precoRaw": "R$ 11",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Revista Playstation 180",
     "ts": 1779541206
   },
   {
@@ -9926,25 +9944,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2014",
     "titulo": "Playstation 4 slim 500gb (ps4) Whats *",
     "ts": 1779461486
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:51",
-    "fotoUrl": "https://img.olx.com.br/images/32/322680645756030.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/322680645756030.jpg",
-      "https://img.olx.com.br/images/34/341695285184895.jpg",
-      "https://img.olx.com.br/images/35/357657284214797.jpg"
-    ],
-    "id": "1504181496",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/2-jogos-de-ps5-mais-ssd-de-1-tera-1504181496",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
-    "titulo": "2 jogos de PS5 mais SSD de 1 tera",
-    "ts": 1779461478
   }
 ]
