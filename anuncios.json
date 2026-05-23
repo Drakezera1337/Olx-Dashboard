@@ -1,15 +1,32 @@
 [
   {
-    "id": "1504440212",
-    "titulo": "PS3 super slim com defeito",
-    "preco": 265,
-    "precoRaw": "R$ 265",
+    "id": "1461047084",
+    "titulo": "Coleção Completa God of War - PS3",
+    "preco": 299,
+    "precoRaw": "R$ 299",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "13:13",
-    "tempoOlx": "Na OLX desde novembro de 2022",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps3-super-slim-com-defeito-1504440212",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/colecao-completa-god-of-war-ps3-1461047084",
+    "fotoUrl": "https://img.olx.com.br/images/83/835569831573403.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/835569831573403.jpg",
+      "https://img.olx.com.br/images/86/862547838237883.jpg",
+      "https://img.olx.com.br/images/93/936539359816362.jpg",
+      "https://img.olx.com.br/images/95/958569835277933.jpg",
+      "https://img.olx.com.br/images/99/999517952927812.jpg",
+      "https://img.olx.com.br/images/12/122562474166899.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779552806
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:13",
     "fotoUrl": "https://img.olx.com.br/images/70/705674522944671.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/705674522944671.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/75/750604282466651.jpg",
       "https://img.olx.com.br/images/77/772681641703972.jpg"
     ],
-    "defeito": false,
+    "id": "1504440212",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps3-super-slim-com-defeito-1504440212",
+    "preco": 265,
+    "precoRaw": "R$ 265",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "titulo": "PS3 super slim com defeito",
     "ts": 1779552798
   },
   {
@@ -9918,25 +9941,5 @@
     "tempoOlx": "Na OLX desde agosto de 2016",
     "titulo": "PS4 usado com defeito",
     "ts": 1779477561
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:16",
-    "fotoUrl": "https://img.olx.com.br/images/90/901559525276536.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/901559525276536.jpg",
-      "https://img.olx.com.br/images/94/940577760874473.jpg",
-      "https://img.olx.com.br/images/89/897533288150137.jpg"
-    ],
-    "id": "1402568449",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/destiny-ps4-1402568449",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "Destiny - PS4 ",
-    "ts": 1779477407
   }
 ]
