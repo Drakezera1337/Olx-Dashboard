@@ -1,15 +1,31 @@
 [
   {
-    "id": "1504503143",
-    "titulo": "PS4 Pro 1TB + 5 Jogos e 2 Controles Originais",
-    "preco": 1900,
-    "precoRaw": "R$ 1.900",
-    "categoria": "ps4",
+    "id": "1497617264",
+    "titulo": "Switch OLED",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "18:15",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "18:18",
+    "tempoOlx": "Na OLX desde outubro de 2014",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-pro-1tb-5-jogos-e-2-controles-originais-1504503143",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/switch-oled-1497617264",
+    "fotoUrl": "https://img.olx.com.br/images/95/952631754856899.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/952631754856899.jpg",
+      "https://img.olx.com.br/images/96/966624519267260.jpg",
+      "https://img.olx.com.br/images/98/987637153676736.jpg",
+      "https://img.olx.com.br/images/10/100680275779508.jpg",
+      "https://img.olx.com.br/images/11/118602158324251.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779571131
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:15",
     "fotoUrl": "https://img.olx.com.br/images/15/157605761711383.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/157605761711383.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/15/152683521187383.jpg",
       "https://img.olx.com.br/images/14/142648643556742.jpg"
     ],
-    "defeito": false,
+    "id": "1504503143",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-pro-1tb-5-jogos-e-2-controles-originais-1504503143",
+    "preco": 1900,
+    "precoRaw": "R$ 1.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PS4 Pro 1TB + 5 Jogos e 2 Controles Originais",
     "ts": 1779570906
   },
   {
@@ -9835,23 +9857,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "GRAND THEFT AUTO IV ",
     "ts": 1779498110
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:55",
-    "fotoUrl": "https://img.olx.com.br/images/91/910665402792631.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/910665402792631.jpg"
-    ],
-    "id": "1504321994",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-valores-individuais-na-descricao-1504321994",
-    "preco": 1430,
-    "precoRaw": "R$ 1.430",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Jogos PS4/PS5 - valores individuais na descrição",
-    "ts": 1779497754
   }
 ]
