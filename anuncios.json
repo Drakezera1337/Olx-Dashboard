@@ -1,20 +1,41 @@
 [
   {
-    "id": "1504440603",
-    "titulo": "Ps4 com defeito ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps4",
+    "id": "1504441536",
+    "titulo": "Vendo Vendo Sony PlayStation 5 Digital Edition 825GB / HDR / 8K ",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:19",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "13:20",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-com-defeito-1504440603",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/vendo-vendo-sony-playstation-5-digital-edition-825gb-hdr-8k-1504441536",
+    "fotoUrl": "https://img.olx.com.br/images/49/490696163211856.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/490696163211856.jpg",
+      "https://img.olx.com.br/images/51/511688881060401.jpg",
+      "https://img.olx.com.br/images/52/524685285290534.jpg",
+      "https://img.olx.com.br/images/54/542607403223689.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779553251
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:19",
     "fotoUrl": "https://img.olx.com.br/images/45/457648886963867.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/457648886963867.jpg"
     ],
-    "defeito": false,
+    "id": "1504440603",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-com-defeito-1504440603",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "Ps4 com defeito ",
     "ts": 1779553187
   },
   {
@@ -9914,24 +9935,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "Red Dead Redemption PS4",
     "ts": 1779478227
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:30",
-    "fotoUrl": "https://img.olx.com.br/images/28/282679401282873.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/282679401282873.jpg",
-      "https://img.olx.com.br/images/31/314609402015015.jpg"
-    ],
-    "id": "1504252185",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps3-com-jogos-1504252185",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "PS3 com jogos",
-    "ts": 1779478218
   }
 ]
