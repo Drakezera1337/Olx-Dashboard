@@ -1,20 +1,38 @@
 [
   {
-    "id": "1470324996",
-    "titulo": "Revista Playstation 161",
-    "preco": 10,
-    "precoRaw": "R$ 10",
+    "id": "1470422758",
+    "titulo": "Revista Playstation 153",
+    "preco": 15,
+    "precoRaw": "R$ 15",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "09:59",
+    "detectado": "10:00",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-161-1470324996",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-153-1470422758",
+    "fotoUrl": "https://img.olx.com.br/images/61/612686488496447.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/612686488496447.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779541200
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "09:59",
     "fotoUrl": "https://img.olx.com.br/images/36/368660120234454.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/368660120234454.jpg"
     ],
-    "defeito": false,
+    "id": "1470324996",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-161-1470324996",
+    "preco": 10,
+    "precoRaw": "R$ 10",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Revista Playstation 161",
     "ts": 1779541191
   },
   {
@@ -9931,26 +9949,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "X box ONE série s 1 t",
     "ts": 1779461299
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:45",
-    "fotoUrl": "https://img.olx.com.br/images/18/180662402488993.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/180662402488993.jpg",
-      "https://img.olx.com.br/images/51/513602042743878.jpg",
-      "https://img.olx.com.br/images/78/789692045649394.jpg",
-      "https://img.olx.com.br/images/27/273662400086248.jpg"
-    ],
-    "id": "1504179288",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/the-witcher-3-1504179288",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "The Witcher 3 ",
-    "ts": 1779461132
   }
 ]
