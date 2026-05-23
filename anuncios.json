@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504520115",
-    "titulo": "Lote de jogos variados ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1504520377",
+    "titulo": "Astro bot ps5 lacrado",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:56",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "19:57",
+    "tempoOlx": "Na OLX desde julho de 2016",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/lote-de-jogos-variados-1504520115",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/astro-bot-ps5-lacrado-1504520377",
+    "fotoUrl": "https://img.olx.com.br/images/68/687698642675850.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/687698642675850.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779577038
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:56",
     "fotoUrl": "https://img.olx.com.br/images/28/286658644732338.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/286658644732338.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/32/324692647438816.jpg",
       "https://img.olx.com.br/images/33/334607167970596.jpg"
     ],
-    "defeito": false,
+    "id": "1504520115",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/lote-de-jogos-variados-1504520115",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Lote de jogos variados ",
     "ts": 1779577011
   },
   {
@@ -9829,24 +9847,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Injustice 2 PS4 com DLC ",
     "ts": 1779541269
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:01",
-    "fotoUrl": "https://img.olx.com.br/images/42/425526183492845.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/425526183492845.jpg",
-      "https://img.olx.com.br/images/44/444578549267109.jpg"
-    ],
-    "id": "1418275648",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/star-wars-battlefront-playstation-4-1418275648",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Star Wars Battlefront - Playstation 4",
-    "ts": 1779541261
   }
 ]
