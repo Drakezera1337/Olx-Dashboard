@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504505709",
-    "titulo": "Jogo Homem Aranha PS4",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "ps4",
+    "id": "1504505346",
+    "titulo": "Jogo Gran Turismo",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "18:26",
     "tempoOlx": "Na OLX desde abril de 2015",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogo-homem-aranha-ps4-1504505709",
+    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogo-gran-turismo-1504505346",
+    "fotoUrl": "https://img.olx.com.br/images/96/965642882763419.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/965642882763419.jpg",
+      "https://img.olx.com.br/images/98/982623881544617.jpg",
+      "https://img.olx.com.br/images/10/109601525932127.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779571594
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:26",
     "fotoUrl": "https://img.olx.com.br/images/34/344644884868338.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/344644884868338.jpg",
       "https://img.olx.com.br/images/35/352646046092005.jpg",
       "https://img.olx.com.br/images/37/374667408711657.jpg"
     ],
-    "defeito": false,
+    "id": "1504505709",
+    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogo-homem-aranha-ps4-1504505709",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "Jogo Homem Aranha PS4",
     "ts": 1779571586
   },
   {
@@ -9834,28 +9854,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Until Dawn PS4",
     "ts": 1779498835
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:13",
-    "fotoUrl": "https://img.olx.com.br/images/35/350649163063485.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/350649163063485.jpg",
-      "https://img.olx.com.br/images/38/383683043737058.jpg",
-      "https://img.olx.com.br/images/40/406660883640187.jpg",
-      "https://img.olx.com.br/images/42/420659886104743.jpg",
-      "https://img.olx.com.br/images/45/458647044214594.jpg",
-      "https://img.olx.com.br/images/47/476653525701925.jpg"
-    ],
-    "id": "1504245962",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-ps3-slim-leia-o-anuncio-1504245962",
-    "preco": 299,
-    "precoRaw": "R$ 299",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Playstation 3 PS3 Slim LEIA O ANÚNCIO",
-    "ts": 1779498801
   }
 ]
