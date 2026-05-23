@@ -1,21 +1,40 @@
 [
   {
-    "id": "1499388808",
-    "titulo": "Controle Séries S Verde",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "xbox",
+    "id": "1504528989",
+    "titulo": "Ps4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:49",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "detectado": "20:56",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/controle-series-s-verde-1499388808",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ps4-1504528989",
+    "fotoUrl": "https://img.olx.com.br/images/62/622627529369821.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/622627529369821.jpg",
+      "https://img.olx.com.br/images/63/638630889080643.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779580610
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:49",
     "fotoUrl": "https://img.olx.com.br/images/92/924630645681080.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/924630645681080.jpg",
       "https://img.olx.com.br/images/94/943692880347693.jpg"
     ],
-    "defeito": false,
+    "id": "1499388808",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/controle-series-s-verde-1499388808",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Controle Séries S Verde",
     "ts": 1779580164
   },
   {
@@ -9850,23 +9869,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Vídeo game portátil ",
     "ts": 1779541624
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:06",
-    "fotoUrl": "https://img.olx.com.br/images/36/365619403218925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/365619403218925.jpg"
-    ],
-    "id": "1504395549",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/gamer-1504395549",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2019",
-    "titulo": "Gamer ",
-    "ts": 1779541614
   }
 ]
