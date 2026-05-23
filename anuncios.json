@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504500142",
-    "titulo": "Xbox Serie S com um controle",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1504502575",
+    "titulo": "Resident Evil 3 Ps4 Lacrado ",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:06",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "detectado": "18:08",
+    "tempoOlx": "Na OLX desde julho de 2015",
     "descricao": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-serie-s-com-um-controle-1504500142",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/resident-evil-3-ps4-lacrado-1504502575",
+    "fotoUrl": "https://img.olx.com.br/images/23/235627286120026.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/235627286120026.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779570527
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:06",
     "fotoUrl": "https://img.olx.com.br/images/66/666653288390102.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/666653288390102.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/71/710684405746555.jpg",
       "https://img.olx.com.br/images/72/724614164545008.jpg"
     ],
-    "defeito": false,
+    "id": "1504500142",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/xbox-serie-s-com-um-controle-1504500142",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "Xbox Serie S com um controle",
     "ts": 1779570378
   },
   {
@@ -9836,26 +9854,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "PS4 Slim 500gb (Leitor Nao Funciona) - SEM MENOS!!",
     "ts": 1779496968
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:38",
-    "fotoUrl": "https://img.olx.com.br/images/17/177631049939782.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/177631049939782.jpg",
-      "https://img.olx.com.br/images/18/180627165983431.jpg",
-      "https://img.olx.com.br/images/19/199636885339903.jpg",
-      "https://img.olx.com.br/images/21/214606160431509.jpg"
-    ],
-    "id": "1504318741",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-lite-d-bloqu-d0-zerado-varios-jogos-instalados-1504318741",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Nintendo Switch LITE D&$bloqu@d0 zerado vários jogos instalados!",
-    "ts": 1779496681
   }
 ]
