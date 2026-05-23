@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504329909",
-    "titulo": "Dragon ball Sparking Zero (Inglês)",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "jogos",
+    "id": "1504329892",
+    "titulo": "Ps4 slim 500GB",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:52",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "detectado": "22:56",
+    "tempoOlx": "Na OLX desde junho de 2017",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/dragon-ball-sparking-zero-ingles-1504329909",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-500gb-1504329892",
+    "fotoUrl": "https://img.olx.com.br/images/46/461654643538511.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/461654643538511.jpg",
+      "https://img.olx.com.br/images/47/473616169640268.jpg",
+      "https://img.olx.com.br/images/49/491634287565980.jpg",
+      "https://img.olx.com.br/images/52/527682769097452.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779501385
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:52",
     "fotoUrl": "https://img.olx.com.br/images/43/431627648045759.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/431627648045759.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/46/460657042162360.jpg",
       "https://img.olx.com.br/images/47/473624163494567.jpg"
     ],
-    "defeito": false,
+    "id": "1504329909",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/dragon-ball-sparking-zero-ingles-1504329909",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Dragon ball Sparking Zero (Inglês)",
     "ts": 1779501120
   },
   {
@@ -9930,24 +9951,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2017",
     "titulo": "Gran Turismo Sport - PS4 ",
     "ts": 1779457834
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:50",
-    "fotoUrl": "https://img.olx.com.br/images/69/690684874544808.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/690684874544808.jpg",
-      "https://img.olx.com.br/images/71/719602039687756.jpg"
-    ],
-    "id": "1425440713",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/battleborn-ps4-1425440713",
-    "preco": 29,
-    "precoRaw": "R$ 29",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Battleborn - Ps4",
-    "ts": 1779457826
   }
 ]
