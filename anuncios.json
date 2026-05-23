@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504493309",
-    "titulo": "PlayStation 4 Fat 500GB",
-    "preco": 950,
-    "precoRaw": "R$ 950",
+    "id": "1504494274",
+    "titulo": "Ps4 slim 500gb",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:44",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "17:45",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-fat-500gb-1504493309",
+    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/jogos-de-video-game/ps4-slim-500gb-1504494274",
+    "fotoUrl": "https://img.olx.com.br/images/43/434634040588471.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/434634040588471.jpg",
+      "https://img.olx.com.br/images/44/447684286712813.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779569120
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "17:44",
     "fotoUrl": "https://img.olx.com.br/images/60/602642287226798.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/602642287226798.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/63/639605769860883.jpg",
       "https://img.olx.com.br/images/64/641616282975129.jpg"
     ],
-    "defeito": false,
+    "id": "1504493309",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-fat-500gb-1504493309",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "PlayStation 4 Fat 500GB",
     "ts": 1779569087
   },
   {
@@ -9845,23 +9864,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2015",
     "titulo": "PES 2015 - PS3",
     "ts": 1779494180
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:56",
-    "fotoUrl": "https://img.olx.com.br/images/59/598613520886846.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/598613520886846.jpg"
-    ],
-    "id": "1504310628",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-call-of-duty-infinite-warfare-ps4-1504310628",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Jogo Call of Duty Infinite Warfare PS4",
-    "ts": 1779494171
   }
 ]
