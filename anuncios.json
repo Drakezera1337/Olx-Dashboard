@@ -1,22 +1,40 @@
 [
   {
-    "id": "1504505069",
-    "titulo": "Jogo RainbowSix PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1504505019",
+    "titulo": "Ps4",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:26",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogo-rainbowsix-ps4-1504505069",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1504505019",
+    "fotoUrl": "https://img.olx.com.br/images/16/161646645613767.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/161646645613767.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779571612
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:26",
     "fotoUrl": "https://img.olx.com.br/images/87/877691041391107.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/877691041391107.jpg",
       "https://img.olx.com.br/images/88/881685643165109.jpg",
       "https://img.olx.com.br/images/89/898669529198589.jpg"
     ],
-    "defeito": false,
+    "id": "1504505069",
+    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogo-rainbowsix-ps4-1504505069",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "Jogo RainbowSix PS4",
     "ts": 1779571603
   },
   {
@@ -9832,26 +9850,5 @@
     "tempoOlx": "Na OLX desde setembro de 2017",
     "titulo": "jogo the order 1886 ps4",
     "ts": 1779498854
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:14",
-    "fotoUrl": "https://img.olx.com.br/images/81/812697286993810.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/812697286993810.jpg",
-      "https://img.olx.com.br/images/83/832647407714352.jpg",
-      "https://img.olx.com.br/images/84/847646880380918.jpg",
-      "https://img.olx.com.br/images/86/867681401010340.jpg"
-    ],
-    "id": "1504324917",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/sekiro-ps4-1504324917",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Sekiro PS4",
-    "ts": 1779498845
   }
 ]
