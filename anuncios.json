@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504515729",
-    "titulo": "Jogo ps5",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps5",
+    "id": "1504516788",
+    "titulo": "JUST DANCE PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:28",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "detectado": "19:32",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/jogo-ps5-1504515729",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/just-dance-ps4-1504516788",
+    "fotoUrl": "https://img.olx.com.br/images/91/911673885376548.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/911673885376548.jpg",
+      "https://img.olx.com.br/images/94/943690041418287.jpg",
+      "https://img.olx.com.br/images/96/961681166191089.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779575569
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:28",
     "fotoUrl": "https://img.olx.com.br/images/28/285685648461465.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/285685648461465.jpg",
       "https://img.olx.com.br/images/43/432672405135699.jpg",
       "https://img.olx.com.br/images/51/513655166955155.jpg"
     ],
-    "defeito": false,
+    "id": "1504515729",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/jogo-ps5-1504515729",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Jogo ps5",
     "ts": 1779575328
   },
   {
@@ -9818,24 +9838,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "Nintendo switch lite V2 ",
     "ts": 1779541141
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:58",
-    "fotoUrl": "https://img.olx.com.br/images/59/590635035691474.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/590635035691474.jpg",
-      "https://img.olx.com.br/images/58/582672156260035.jpg"
-    ],
-    "id": "1496050906",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/the-last-of-us-somente-a-caixa-sem-o-jogo-do-playstation-3-1496050906",
-    "preco": 19,
-    "precoRaw": "R$ 19",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2014",
-    "titulo": "The Last Of Us Somente A Caixa Sem O Jogo Do Playstation 3",
-    "ts": 1779541133
   }
 ]
