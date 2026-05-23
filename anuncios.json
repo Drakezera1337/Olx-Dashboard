@@ -1,15 +1,29 @@
 [
   {
-    "id": "1504510534",
-    "titulo": "Playstation 5 Slim (05 Meses de Uso)",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1504510349",
+    "titulo": "Playstation 4",
+    "preco": 790,
+    "precoRaw": "R$ 790",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:57",
-    "tempoOlx": "Na OLX desde junho de 2024",
+    "detectado": "18:58",
+    "tempoOlx": "Na OLX desde março de 2015",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/playstation-5-slim-05-meses-de-uso-1504510534",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1504510349",
+    "fotoUrl": "https://img.olx.com.br/images/12/129603644285160.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/129603644285160.jpg",
+      "https://img.olx.com.br/images/13/131666168907399.jpg",
+      "https://img.olx.com.br/images/15/154659648111245.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779573498
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:57",
     "fotoUrl": "https://img.olx.com.br/images/34/346630163105534.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/346630163105534.jpg",
@@ -17,7 +31,13 @@
       "https://img.olx.com.br/images/37/373669409897528.jpg",
       "https://img.olx.com.br/images/38/383610885714819.jpg"
     ],
-    "defeito": false,
+    "id": "1504510534",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/playstation-5-slim-05-meses-de-uso-1504510534",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2024",
+    "titulo": "Playstation 5 Slim (05 Meses de Uso)",
     "ts": 1779573467
   },
   {
@@ -9802,28 +9822,5 @@
     "tempoOlx": "Na OLX desde outubro de 2017",
     "titulo": "PS Portal PS5",
     "ts": 1779540982
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:56",
-    "fotoUrl": "https://img.olx.com.br/images/59/594691270727415.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/594691270727415.jpg",
-      "https://img.olx.com.br/images/59/594623515804102.jpg",
-      "https://img.olx.com.br/images/59/598669392491479.jpg",
-      "https://img.olx.com.br/images/59/597620514804640.jpg",
-      "https://img.olx.com.br/images/59/593619398936736.jpg",
-      "https://img.olx.com.br/images/59/591622151375590.jpg"
-    ],
-    "id": "1496083399",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/console-remoto-playstation-portal-para-playstation-5-cor-branca-1496083399",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "Console remoto Playstation Portal para Playstation 5 cor branca",
-    "ts": 1779540974
   }
 ]
