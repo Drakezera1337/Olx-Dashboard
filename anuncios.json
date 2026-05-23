@@ -1,20 +1,40 @@
 [
   {
-    "id": "1470424640",
-    "titulo": "Revista Playstation 170",
-    "preco": 10,
-    "precoRaw": "R$ 10",
-    "categoria": "outros",
+    "id": "1332968973",
+    "titulo": "Jogo call of duty modern warfare",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "10:00",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde março de 2022",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-170-1470424640",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-call-of-duty-modern-warfare-1332968973",
+    "fotoUrl": "https://img.olx.com.br/images/93/939410563151621.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/939410563151621.jpg",
+      "https://img.olx.com.br/images/93/931407560024172.jpg",
+      "https://img.olx.com.br/images/97/971443207903785.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779541223
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:00",
     "fotoUrl": "https://img.olx.com.br/images/72/723692121467783.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/723692121467783.jpg"
     ],
-    "defeito": false,
+    "id": "1470424640",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/revista-playstation-170-1470424640",
+    "preco": 10,
+    "precoRaw": "R$ 10",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Revista Playstation 170",
     "ts": 1779541214
   },
   {
@@ -9925,24 +9945,5 @@
     "tempoOlx": "Na OLX desde abril de 2020",
     "titulo": "Jogo PS4 God of War",
     "ts": 1779461496
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:51",
-    "fotoUrl": "https://img.olx.com.br/images/52/526686372074862.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/526686372074862.jpg",
-      "https://img.olx.com.br/images/52/528609131840721.jpg"
-    ],
-    "id": "1480725857",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-ps4-whats-1480725857",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
-    "titulo": "Playstation 4 slim 500gb (ps4) Whats *",
-    "ts": 1779461486
   }
 ]
