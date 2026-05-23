@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504417251",
-    "titulo": "PlayStation 4 ",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "ps4",
+    "id": "1504417212",
+    "titulo": "Jogos de PS4 e PS5 (Leia a descrição)",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "11:36",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "detectado": "11:37",
+    "tempoOlx": "Na OLX desde agosto de 2016",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/playstation-4-1504417251",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/jogos-de-ps4-e-ps5-leia-a-descricao-1504417212",
+    "fotoUrl": "https://img.olx.com.br/images/43/437604409236490.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/437604409236490.jpg",
+      "https://img.olx.com.br/images/43/437620765000967.jpg",
+      "https://img.olx.com.br/images/43/433660523957724.jpg",
+      "https://img.olx.com.br/images/43/433624162723281.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779547024
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:36",
     "fotoUrl": "https://img.olx.com.br/images/68/685691523185163.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/685691523185163.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/78/781682766513255.jpg",
       "https://img.olx.com.br/images/80/800695407526870.jpg"
     ],
-    "defeito": false,
+    "id": "1504417251",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/playstation-4-1504417251",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "PlayStation 4 ",
     "ts": 1779547012
   },
   {
@@ -9922,23 +9943,5 @@
     "tempoOlx": "Na OLX desde agosto de 2024",
     "titulo": "Sombras de Mordor Ps4 Lacrado",
     "ts": 1779471448
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:37",
-    "fotoUrl": "https://img.olx.com.br/images/89/891658754107399.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/891658754107399.jpg"
-    ],
-    "id": "1495890300",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/assassina-creed-unity-ps4-lacrado-1495890300",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2024",
-    "titulo": "Assassina Creed Unity Ps4 Lacrado",
-    "ts": 1779471440
   }
 ]
