@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504448226",
-    "titulo": "Ps5 - desapegando",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "ps5",
+    "id": "1504448235",
+    "titulo": "Xbox Series S - Com defeito",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "13:45",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "detectado": "13:46",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps5-desapegando-1504448226",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-com-defeito-1504448235",
+    "fotoUrl": "https://img.olx.com.br/images/57/577625165310629.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/577625165310629.jpg",
+      "https://img.olx.com.br/images/59/596657400730346.jpg",
+      "https://img.olx.com.br/images/61/617607649515762.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779554780
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:45",
     "fotoUrl": "https://img.olx.com.br/images/33/338658283602801.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/338658283602801.jpg"
     ],
-    "defeito": false,
+    "id": "1504448226",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps5-desapegando-1504448226",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Ps5 - desapegando",
     "ts": 1779554720
   },
   {
@@ -9899,24 +9919,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2015",
     "titulo": "Star Wars Battlefront PS4",
     "ts": 1779481882
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:26",
-    "fotoUrl": "https://img.olx.com.br/images/38/387587464079776.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/387587464079776.jpg",
-      "https://img.olx.com.br/images/16/160652525746596.jpg"
-    ],
-    "id": "1458152756",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1458152756",
-    "preco": 520,
-    "precoRaw": "R$ 520",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "Jogos de ps4 ",
-    "ts": 1779481599
   }
 ]
