@@ -1,15 +1,30 @@
 [
   {
-    "id": "1472668855",
-    "titulo": "Play Station 4",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1504520115",
+    "titulo": "Lote de jogos variados ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "19:54",
-    "tempoOlx": "Na OLX desde agosto de 2014",
+    "detectado": "19:56",
+    "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/play-station-4-1472668855",
+    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/lote-de-jogos-variados-1504520115",
+    "fotoUrl": "https://img.olx.com.br/images/28/286658644732338.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/286658644732338.jpg",
+      "https://img.olx.com.br/images/30/303663881084831.jpg",
+      "https://img.olx.com.br/images/32/324692647438816.jpg",
+      "https://img.olx.com.br/images/33/334607167970596.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779577011
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:54",
     "fotoUrl": "https://img.olx.com.br/images/55/554648845258502.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/554648845258502.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/19/194687370260719.jpg",
       "https://img.olx.com.br/images/21/214661493014190.jpg"
     ],
-    "defeito": false,
+    "id": "1472668855",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/play-station-4-1472668855",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2014",
+    "titulo": "Play Station 4",
     "ts": 1779576890
   },
   {
@@ -9827,28 +9848,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Star Wars Battlefront - Playstation 4",
     "ts": 1779541261
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:00",
-    "fotoUrl": "https://img.olx.com.br/images/78/788667490232020.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/788667490232020.jpg",
-      "https://img.olx.com.br/images/80/809686731437796.jpg",
-      "https://img.olx.com.br/images/82/823659256398208.jpg",
-      "https://img.olx.com.br/images/84/842679250321663.jpg",
-      "https://img.olx.com.br/images/85/854680493125831.jpg",
-      "https://img.olx.com.br/images/87/870617015984583.jpg"
-    ],
-    "id": "1478902753",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-e-ps5-1478902753",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Cyberpunk 2077 PS4 e PS5",
-    "ts": 1779541253
   }
 ]
