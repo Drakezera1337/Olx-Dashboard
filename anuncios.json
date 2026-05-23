@@ -1,15 +1,31 @@
 [
   {
-    "id": "1504328391",
-    "titulo": "Dark Souls Remastered PS4",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "categoria": "ps4",
+    "id": "1504328175",
+    "titulo": "Mortal Kombat 11 ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "22:38",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-remastered-ps4-1504328391",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/mortal-kombat-11-1504328175",
+    "fotoUrl": "https://img.olx.com.br/images/77/779608762684024.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/779608762684024.jpg",
+      "https://img.olx.com.br/images/78/782602769980245.jpg",
+      "https://img.olx.com.br/images/79/796616764887518.jpg",
+      "https://img.olx.com.br/images/80/805634164509067.jpg",
+      "https://img.olx.com.br/images/80/803627520888980.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779500302
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:38",
     "fotoUrl": "https://img.olx.com.br/images/25/250667285087318.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/250667285087318.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/29/290698760703951.jpg",
       "https://img.olx.com.br/images/30/301627644130950.jpg"
     ],
-    "defeito": false,
+    "id": "1504328391",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dark-souls-remastered-ps4-1504328391",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Dark Souls Remastered PS4",
     "ts": 1779500292
   },
   {
@@ -9920,23 +9942,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "PS3 DES BL* QUE AD* COM CAIXA E MANUAIS",
     "ts": 1779457484
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:44",
-    "fotoUrl": "https://img.olx.com.br/images/51/519632760105838.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/519632760105838.jpg"
-    ],
-    "id": "1504163069",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/xbox-serie-s-1504163069",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Xbox Serie S",
-    "ts": 1779457476
   }
 ]
