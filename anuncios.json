@@ -1,15 +1,28 @@
 [
   {
-    "id": "1478902753",
-    "titulo": "Cyberpunk 2077 PS4 e PS5",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "ps5",
+    "id": "1418275648",
+    "titulo": "Star Wars Battlefront - Playstation 4",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:00",
+    "detectado": "10:01",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-e-ps5-1478902753",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/star-wars-battlefront-playstation-4-1418275648",
+    "fotoUrl": "https://img.olx.com.br/images/42/425526183492845.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/425526183492845.jpg",
+      "https://img.olx.com.br/images/44/444578549267109.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779541261
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:00",
     "fotoUrl": "https://img.olx.com.br/images/78/788667490232020.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/788667490232020.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/85/854680493125831.jpg",
       "https://img.olx.com.br/images/87/870617015984583.jpg"
     ],
-    "defeito": false,
+    "id": "1478902753",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-e-ps5-1478902753",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Cyberpunk 2077 PS4 e PS5",
     "ts": 1779541253
   },
   {
@@ -9932,24 +9951,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Venda - PlayStation 5",
     "ts": 1779461781
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:55",
-    "fotoUrl": "https://img.olx.com.br/images/39/390666889559422.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/390666889559422.jpg",
-      "https://img.olx.com.br/images/41/419651644585658.jpg"
-    ],
-    "id": "1504182264",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-500gb-2-controles-1504182264",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "Ps4 500gb 2 controles",
-    "ts": 1779461755
   }
 ]
