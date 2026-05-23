@@ -1,22 +1,40 @@
 [
   {
-    "id": "1504462314",
-    "titulo": "Grand theft auto V ",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "jogos",
+    "id": "1504462264",
+    "titulo": "Jogos PS4 - R$50 cada ou Pacote Completo por R$500",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:58",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "tempoOlx": "Na OLX desde janeiro de 2014",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/grand-theft-auto-v-1504462314",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-r-50-cada-ou-pacote-completo-por-r-500-1504462264",
+    "fotoUrl": "https://img.olx.com.br/images/91/919610402524918.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/919610402524918.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779559095
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:58",
     "fotoUrl": "https://img.olx.com.br/images/76/763668760045418.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/763668760045418.jpg",
       "https://img.olx.com.br/images/78/785690647326231.jpg",
       "https://img.olx.com.br/images/80/806658160682139.jpg"
     ],
-    "defeito": false,
+    "id": "1504462314",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/grand-theft-auto-v-1504462314",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Grand theft auto V ",
     "ts": 1779559085
   },
   {
@@ -9883,26 +9901,5 @@
     "tempoOlx": "Na OLX desde março de 2017",
     "titulo": "Lote 30 jogos ps4",
     "ts": 1779485391
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:27",
-    "fotoUrl": "https://img.olx.com.br/images/62/621680289652296.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/621680289652296.jpg",
-      "https://img.olx.com.br/images/63/634634168237656.jpg",
-      "https://img.olx.com.br/images/66/662661401908233.jpg",
-      "https://img.olx.com.br/images/67/670679287978983.jpg"
-    ],
-    "id": "1504280219",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-bluetooth-sem-fio-para-celular-pc-android-e-emuladores-1504280219",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Controle Bluetooth Sem Fio para Celular/PC - Android e Emuladores",
-    "ts": 1779485270
   }
 ]
