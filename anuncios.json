@@ -1,22 +1,43 @@
 [
   {
-    "id": "1504516788",
-    "titulo": "JUST DANCE PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1504517527",
+    "titulo": "God of War",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:32",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "detectado": "19:35",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/just-dance-ps4-1504516788",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/god-of-war-1504517527",
+    "fotoUrl": "https://img.olx.com.br/images/76/761658763385579.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/761658763385579.jpg",
+      "https://img.olx.com.br/images/77/770648642446043.jpg",
+      "https://img.olx.com.br/images/80/804617520765084.jpg",
+      "https://img.olx.com.br/images/81/810676400294995.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779575716
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:32",
     "fotoUrl": "https://img.olx.com.br/images/91/911673885376548.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/911673885376548.jpg",
       "https://img.olx.com.br/images/94/943690041418287.jpg",
       "https://img.olx.com.br/images/96/961681166191089.jpg"
     ],
-    "defeito": false,
+    "id": "1504516788",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/just-dance-ps4-1504516788",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "JUST DANCE PS4",
     "ts": 1779575569
   },
   {
@@ -9816,27 +9837,5 @@
     "tempoOlx": "Na OLX desde outubro de 2025",
     "titulo": "Naruto sh figuarts +caixa parda",
     "ts": 1779541149
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "09:59",
-    "fotoUrl": "https://img.olx.com.br/images/38/382624641137600.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/382624641137600.jpg",
-      "https://img.olx.com.br/images/40/403638768717726.jpg",
-      "https://img.olx.com.br/images/41/419630161310851.jpg",
-      "https://img.olx.com.br/images/43/439614409033658.jpg",
-      "https://img.olx.com.br/images/44/441606041903638.jpg"
-    ],
-    "id": "1504387205",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/nintendo-switch-lite-v2-1504387205",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "Nintendo switch lite V2 ",
-    "ts": 1779541141
   }
 ]
