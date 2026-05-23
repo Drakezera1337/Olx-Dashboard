@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504456130",
-    "titulo": "Jogos PS 4",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "jogos",
+    "id": "1504455863",
+    "titulo": "Yakuza 6",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "14:25",
-    "tempoOlx": "Na OLX desde julho de 2014",
+    "detectado": "14:26",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/jogos-ps-4-1504456130",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/yakuza-6-1504455863",
+    "fotoUrl": "https://img.olx.com.br/images/85/854651405897507.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/854651405897507.jpg",
+      "https://img.olx.com.br/images/86/866623400533343.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779557166
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "14:25",
     "fotoUrl": "https://img.olx.com.br/images/96/969697647396584.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/969697647396584.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/99/990633168770806.jpg",
       "https://img.olx.com.br/images/10/107647285597175.jpg"
     ],
-    "defeito": false,
+    "id": "1504456130",
+    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/jogos-ps-4-1504456130",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2014",
+    "titulo": "Jogos PS 4",
     "ts": 1779557157
   },
   {
@@ -9886,26 +9905,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Lote de jogos PS4/PS5 (24 jogos)",
     "ts": 1779483989
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:06",
-    "fotoUrl": "https://img.olx.com.br/images/97/979675379877603.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/979675379877603.jpg",
-      "https://img.olx.com.br/images/98/981689139888943.jpg",
-      "https://img.olx.com.br/images/10/100620619381994.jpg",
-      "https://img.olx.com.br/images/12/126603615700311.jpg"
-    ],
-    "id": "1477919176",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/jogos-de-video-game/resident-evil-7-gold-edition-ps4-novo-1477919176",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2025",
-    "titulo": "Resident Evil 7 GOLD Edition - PS4 (novo)",
-    "ts": 1779483980
   }
 ]
