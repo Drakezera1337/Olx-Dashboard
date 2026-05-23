@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504395733",
-    "titulo": "Vídeo game portátil ",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "categoria": "outros",
+    "id": "1504396638",
+    "titulo": "Jogo Final Fantasy 7 Rebirth PS5",
+    "preco": 299,
+    "precoRaw": "R$ 299",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "10:07",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-portatil-1504395733",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-final-fantasy-7-rebirth-ps5-1504396638",
+    "fotoUrl": "https://img.olx.com.br/images/27/271616161009536.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/271616161009536.jpg",
+      "https://img.olx.com.br/images/28/285627161682718.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779541632
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:07",
     "fotoUrl": "https://img.olx.com.br/images/85/852661168768807.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/852661168768807.jpg",
       "https://img.olx.com.br/images/86/862693762841469.jpg",
       "https://img.olx.com.br/images/87/873607523703245.jpg"
     ],
-    "defeito": false,
+    "id": "1504395733",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-portatil-1504395733",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "titulo": "Vídeo game portátil ",
     "ts": 1779541624
   },
   {
@@ -9910,25 +9929,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2020",
     "titulo": "Xbox Series S ",
     "ts": 1779464179
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:35",
-    "fotoUrl": "https://img.olx.com.br/images/53/533697762709144.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/533697762709144.jpg",
-      "https://img.olx.com.br/images/54/540680286633063.jpg",
-      "https://img.olx.com.br/images/56/563640525436121.jpg"
-    ],
-    "id": "1504195498",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-fat-2-jogos-1504195498",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2019",
-    "titulo": "Playstation 5 FAT + 2 jogos",
-    "ts": 1779464148
   }
 ]
