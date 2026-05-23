@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504520377",
-    "titulo": "Astro bot ps5 lacrado",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "categoria": "ps5",
+    "id": "1504521671",
+    "titulo": "Vendo ou troco ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:57",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "20:02",
+    "tempoOlx": "Na OLX desde novembro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/astro-bot-ps5-lacrado-1504520377",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/vendo-ou-troco-1504521671",
+    "fotoUrl": "https://img.olx.com.br/images/63/636676401766637.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/636676401766637.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779577370
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:57",
     "fotoUrl": "https://img.olx.com.br/images/68/687698642675850.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/687698642675850.jpg"
     ],
-    "defeito": false,
+    "id": "1504520377",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/astro-bot-ps5-lacrado-1504520377",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Astro bot ps5 lacrado",
     "ts": 1779577038
   },
   {
@@ -9826,26 +9844,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "4 Jogos ps4",
     "ts": 1779541277
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:01",
-    "fotoUrl": "https://img.olx.com.br/images/87/879600600766784.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/879600600766784.jpg",
-      "https://img.olx.com.br/images/88/881642489969647.jpg",
-      "https://img.olx.com.br/images/90/903602243702386.jpg",
-      "https://img.olx.com.br/images/62/622676729248129.jpg"
-    ],
-    "id": "1470091816",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/injustice-2-ps4-com-dlc-1470091816",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Injustice 2 PS4 com DLC ",
-    "ts": 1779541269
   }
 ]
