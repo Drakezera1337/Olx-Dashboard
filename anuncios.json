@@ -1,21 +1,40 @@
 [
   {
-    "id": "1504464169",
-    "titulo": "GTA V Premium Edition - PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1504464402",
+    "titulo": "Ps3",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:09",
-    "tempoOlx": "Na OLX desde janeiro de 2014",
+    "detectado": "15:11",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-v-premium-edition-ps4-1504464169",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/ps3-1504464402",
+    "fotoUrl": "https://img.olx.com.br/images/36/360697160145059.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/360697160145059.jpg",
+      "https://img.olx.com.br/images/38/387644641399596.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779559881
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "15:09",
     "fotoUrl": "https://img.olx.com.br/images/77/774613640776405.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/774613640776405.jpg",
       "https://img.olx.com.br/images/78/781680048083218.jpg"
     ],
-    "defeito": false,
+    "id": "1504464169",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-v-premium-edition-ps4-1504464169",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2014",
+    "titulo": "GTA V Premium Edition - PS4",
     "ts": 1779559774
   },
   {
@@ -9880,23 +9899,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "GTA trilogy Ps4 lacrado original",
     "ts": 1779486451
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:47",
-    "fotoUrl": "https://img.olx.com.br/images/62/626678169595937.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/626678169595937.jpg"
-    ],
-    "id": "1504276100",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/doom-eternal-ps4-1504276100",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Doom Eternal - PS4",
-    "ts": 1779486441
   }
 ]
