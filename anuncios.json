@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504421611",
-    "titulo": "Astrobot - PS5",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "categoria": "ps5",
+    "id": "1504421539",
+    "titulo": "Playstation VR1 Completo com Defeito",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:53",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/astrobot-ps5-1504421611",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-vr1-completo-com-defeito-1504421539",
+    "fotoUrl": "https://img.olx.com.br/images/42/425686165602126.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/425686165602126.jpg",
+      "https://img.olx.com.br/images/44/445665641743544.jpg",
+      "https://img.olx.com.br/images/46/462639402657378.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779548007
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:53",
     "fotoUrl": "https://img.olx.com.br/images/88/884625289151712.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/884625289151712.jpg"
     ],
-    "defeito": false,
+    "id": "1504421611",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/astrobot-ps5-1504421611",
+    "preco": 79,
+    "precoRaw": "R$ 79",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "Astrobot - PS5",
     "ts": 1779547997
   },
   {
@@ -9919,25 +9939,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Skyrim Special Edition PS4",
     "ts": 1779471771
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:40",
-    "fotoUrl": "https://img.olx.com.br/images/76/768683401519678.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/768683401519678.jpg",
-      "https://img.olx.com.br/images/77/772673163602696.jpg",
-      "https://img.olx.com.br/images/78/783622280043933.jpg"
-    ],
-    "id": "1504192894",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/troco-um-xbox-series-s-por-um-pc-gamer-ou-notebook-gamer-leia-o-descricao-abaixo-1504192894",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Troco um Xbox  series s por um PC gamer ou notebook gamer ( leia o descrição abaixo.)",
-    "ts": 1779471648
   }
 ]
