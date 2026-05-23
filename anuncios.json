@@ -1,22 +1,40 @@
 [
   {
-    "id": "1495363361",
-    "titulo": "Coleção God Of War",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1495364757",
+    "titulo": "Coleção Resident Evil",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "22:25",
     "tempoOlx": "Na OLX desde abril de 2026",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/colecao-god-of-war-1495363361",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/colecao-resident-evil-1495364757",
+    "fotoUrl": "https://img.olx.com.br/images/90/907622391539964.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/907622391539964.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779499559
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:25",
     "fotoUrl": "https://img.olx.com.br/images/49/499617519079358.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/499617519079358.jpg",
       "https://img.olx.com.br/images/50/506609154439874.jpg",
       "https://img.olx.com.br/images/52/525617639370741.jpg"
     ],
-    "defeito": false,
+    "id": "1495363361",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/colecao-god-of-war-1495363361",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Coleção God Of War",
     "ts": 1779499549
   },
   {
@@ -9922,25 +9940,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Horizon Zero Dawn ",
     "ts": 1779457413
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:43",
-    "fotoUrl": "https://img.olx.com.br/images/23/233644245341602.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/233644245341602.jpg",
-      "https://img.olx.com.br/images/25/251601361055413.jpg",
-      "https://img.olx.com.br/images/28/282628126543310.jpg"
-    ],
-    "id": "1470298240",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-remasterizado-1470298240",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "THE LAST OF US: Remasterizado.",
-    "ts": 1779457405
   }
 ]
