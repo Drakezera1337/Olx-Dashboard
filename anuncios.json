@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504326852",
-    "titulo": "Ps4",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "categoria": "ps4",
+    "id": "1504327613",
+    "titulo": "Carros ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "22:28",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "22:30",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps4-1504326852",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/carros-1504327613",
+    "fotoUrl": "https://img.olx.com.br/images/93/931632760845472.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/931632760845472.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779499822
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:28",
     "fotoUrl": "https://img.olx.com.br/images/64/644621404260245.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/644621404260245.jpg"
     ],
-    "defeito": false,
+    "id": "1504326852",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps4-1504326852",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Ps4",
     "ts": 1779499728
   },
   {
@@ -9917,26 +9935,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "Uncharted 1, 2, 3 e 4 mídia física.",
     "ts": 1779457427
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:43",
-    "fotoUrl": "https://img.olx.com.br/images/76/760659400923506.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/760659400923506.jpg",
-      "https://img.olx.com.br/images/78/783643285269278.jpg",
-      "https://img.olx.com.br/images/79/799652521556396.jpg",
-      "https://img.olx.com.br/images/81/813638169071313.jpg"
-    ],
-    "id": "1503925042",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-division-1503925042",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "The division",
-    "ts": 1779457420
   }
 ]
