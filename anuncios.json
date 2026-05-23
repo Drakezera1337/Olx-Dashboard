@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504428798",
-    "titulo": "PS4 1tb slim ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1504428842",
+    "titulo": "Daysgone ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:23",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "detectado": "12:24",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1tb-slim-1504428798",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/daysgone-ps4-1504428842",
+    "fotoUrl": "https://img.olx.com.br/images/47/477693769372428.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/477693769372428.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779549892
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "12:23",
     "fotoUrl": "https://img.olx.com.br/images/67/671695406642487.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/671695406642487.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/81/815632285977388.jpg",
       "https://img.olx.com.br/images/83/831683760146925.jpg"
     ],
-    "defeito": false,
+    "id": "1504428798",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1tb-slim-1504428798",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "PS4 1tb slim ",
     "ts": 1779549800
   },
   {
@@ -9918,25 +9936,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Spider Man Miles Morales - Ps4",
     "ts": 1779473790
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:16",
-    "fotoUrl": "https://img.olx.com.br/images/26/269663888485534.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/269663888485534.jpg",
-      "https://img.olx.com.br/images/36/364618760815924.jpg",
-      "https://img.olx.com.br/images/45/459656765207049.jpg"
-    ],
-    "id": "1504233544",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-de-jogos-ps4-ps5-originais-1504233544",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "Lote de Jogos PS4 - PS5 (Originais)",
-    "ts": 1779473781
   }
 ]
