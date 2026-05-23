@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504448235",
-    "titulo": "Xbox Series S - Com defeito",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "categoria": "xbox",
+    "id": "1496062775",
+    "titulo": "Dragon Ball Xenoverse 2 para PS4, Edição de Lançamento",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:46",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "13:47",
+    "tempoOlx": "Na OLX desde agosto de 2017",
     "descricao": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-com-defeito-1504448235",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/dragon-ball-xenoverse-2-para-ps4-edicao-de-lancamento-1496062775",
+    "fotoUrl": "https://img.olx.com.br/images/59/592685870514112.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/592685870514112.jpg",
+      "https://img.olx.com.br/images/59/596649396402140.jpg",
+      "https://img.olx.com.br/images/60/608636155848299.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779554841
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "13:46",
     "fotoUrl": "https://img.olx.com.br/images/57/577625165310629.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/577625165310629.jpg",
       "https://img.olx.com.br/images/59/596657400730346.jpg",
       "https://img.olx.com.br/images/61/617607649515762.jpg"
     ],
-    "defeito": false,
+    "id": "1504448235",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-com-defeito-1504448235",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "Xbox Series S - Com defeito",
     "ts": 1779554780
   },
   {
@@ -9901,23 +9921,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Devil my Cry HD collection - PS4",
     "ts": 1779481894
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:31",
-    "fotoUrl": "https://img.olx.com.br/images/12/127614523485590.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/127614523485590.jpg"
-    ],
-    "id": "1504268634",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/star-wars-battlefront-ps4-1504268634",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
-    "titulo": "Star Wars Battlefront PS4",
-    "ts": 1779481882
   }
 ]
