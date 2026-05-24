@@ -1,21 +1,43 @@
 [
   {
-    "id": "1504620163",
-    "titulo": "Playstation Portal",
-    "preco": 1390,
-    "precoRaw": "R$ 1.390",
+    "id": "1504615463",
+    "titulo": "PlayStation Portal na caixa + brindes (PS Portal)",
+    "preco": 1299,
+    "precoRaw": "R$ 1.299",
     "categoria": "outros",
     "publicado": "",
     "detectado": "18:04",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "tempoOlx": "Na OLX desde abril de 2021",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-portal-1504620163",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-portal-na-caixa-brindes-ps-portal-1504615463",
+    "fotoUrl": "https://img.olx.com.br/images/37/370687404409365.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/370687404409365.jpg",
+      "https://img.olx.com.br/images/39/393602288494473.jpg",
+      "https://img.olx.com.br/images/41/410697769866557.jpg",
+      "https://img.olx.com.br/images/42/427677043261714.jpg",
+      "https://img.olx.com.br/images/44/443636284839163.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656667
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:04",
     "fotoUrl": "https://img.olx.com.br/images/31/319695045240592.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/319695045240592.jpg",
       "https://img.olx.com.br/images/33/337622401521221.jpg"
     ],
-    "defeito": false,
+    "id": "1504620163",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-portal-1504620163",
+    "preco": 1390,
+    "precoRaw": "R$ 1.390",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Playstation Portal",
     "ts": 1779656660
   },
   {
@@ -9875,23 +9897,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Grand theft auto V ",
     "ts": 1779559085
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:57",
-    "fotoUrl": "https://img.olx.com.br/images/21/219618863402602.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/219618863402602.jpg"
-    ],
-    "id": "1486657029",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-sniper-3-ghost-warrior-1486657029",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "Jogo PS4 Sniper 3 Ghost Warrior",
-    "ts": 1779559076
   }
 ]
