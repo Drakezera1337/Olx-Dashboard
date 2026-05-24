@@ -1,15 +1,31 @@
 [
   {
-    "id": "1504582980",
-    "titulo": "Uncharted 4",
-    "preco": 29,
-    "precoRaw": "R$ 29",
-    "categoria": "jogos",
+    "id": "1504582456",
+    "titulo": "PlayStation 4 - 500GB + 11 jogos ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:18",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-4-1504582980",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-500gb-11-jogos-1504582456",
+    "fotoUrl": "https://img.olx.com.br/images/50/500685522286462.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/500685522286462.jpg",
+      "https://img.olx.com.br/images/52/525600526373240.jpg",
+      "https://img.olx.com.br/images/54/545638529471810.jpg",
+      "https://img.olx.com.br/images/55/554657283495428.jpg",
+      "https://img.olx.com.br/images/57/570674523058591.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779628695
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:18",
     "fotoUrl": "https://img.olx.com.br/images/66/662665641664565.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/662665641664565.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/69/698657163903826.jpg",
       "https://img.olx.com.br/images/70/704662169155514.jpg"
     ],
-    "defeito": false,
+    "id": "1504582980",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/uncharted-4-1504582980",
+    "preco": 29,
+    "precoRaw": "R$ 29",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "Uncharted 4",
     "ts": 1779628687
   },
   {
@@ -9849,25 +9871,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "PS4 para retirada de peças.",
     "ts": 1779548016
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:53",
-    "fotoUrl": "https://img.olx.com.br/images/42/425686165602126.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/425686165602126.jpg",
-      "https://img.olx.com.br/images/44/445665641743544.jpg",
-      "https://img.olx.com.br/images/46/462639402657378.jpg"
-    ],
-    "id": "1504421539",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-vr1-completo-com-defeito-1504421539",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Playstation VR1 Completo com Defeito",
-    "ts": 1779548007
   }
 ]
