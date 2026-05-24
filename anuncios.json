@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504652683",
-    "titulo": "PS5 FAT DIGITAL",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
+    "id": "1504630648",
+    "titulo": "Câmera Ps5",
+    "preco": 500,
+    "precoRaw": "R$ 500",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "18:04",
-    "tempoOlx": "Na OLX desde março de 2018",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-fat-digital-1504652683",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/camera-ps5-1504630648",
+    "fotoUrl": "https://img.olx.com.br/images/32/320673164661848.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/320673164661848.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656653
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:04",
     "fotoUrl": "https://img.olx.com.br/images/94/949621409918545.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/949621409918545.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/96/963620403455017.jpg",
       "https://img.olx.com.br/images/97/972615282072968.jpg"
     ],
-    "defeito": false,
+    "id": "1504652683",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-fat-digital-1504652683",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2018",
+    "titulo": "PS5 FAT DIGITAL",
     "ts": 1779656646
   },
   {
@@ -9874,23 +9892,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "Jogo PS4 Horizon Zero Dawn",
     "ts": 1779559068
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:51",
-    "fotoUrl": "https://img.olx.com.br/images/50/509619165441957.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/509619165441957.jpg"
-    ],
-    "id": "1504460615",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-ps4-1504460615",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2023",
-    "titulo": "God of war ps4",
-    "ts": 1779558717
   }
 ]
