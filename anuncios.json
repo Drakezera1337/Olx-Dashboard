@@ -1,22 +1,40 @@
 [
   {
-    "id": "1504545251",
-    "titulo": "iPhone 12",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "iphone",
+    "id": "1504211002",
+    "titulo": "Ps4 mídia digital ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:16",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "detectado": "23:17",
+    "tempoOlx": "Na OLX desde setembro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1504545251",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-midia-digital-1504211002",
+    "fotoUrl": "https://img.olx.com.br/images/96/964633407770260.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/964633407770260.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779589066
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:16",
     "fotoUrl": "https://img.olx.com.br/images/52/527616280548503.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/527616280548503.jpg",
       "https://img.olx.com.br/images/52/527641407654039.jpg",
       "https://img.olx.com.br/images/53/533675165959675.jpg"
     ],
-    "defeito": false,
+    "id": "1504545251",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1504545251",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "iPhone 12",
     "ts": 1779589008
   },
   {
@@ -9850,24 +9868,5 @@
     "tempoOlx": "Na OLX desde maio de 2022",
     "titulo": "Sniper Elite 3 Ultimate Edition ",
     "ts": 1779543795
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:43",
-    "fotoUrl": "https://img.olx.com.br/images/44/444667283069229.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/444667283069229.jpg",
-      "https://img.olx.com.br/images/44/441645521406460.jpg"
-    ],
-    "id": "1495944836",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/assassins-creed-origins-ps4-1495944836",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Assassins Creed Origins PS4",
-    "ts": 1779543787
   }
 ]
