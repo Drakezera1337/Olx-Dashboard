@@ -1,22 +1,40 @@
 [
   {
-    "id": "1504686560",
-    "titulo": "Ghost of Tsushima (PS4/PS5)",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "categoria": "ps5",
+    "id": "1504686453",
+    "titulo": "Battlefield 4 - Jogo de PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:15",
-    "tempoOlx": "Na OLX desde maio de 2022",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-ps4-ps5-1504686560",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/battlefield-4-jogo-de-ps4-1504686453",
+    "fotoUrl": "https://img.olx.com.br/images/66/666651284027324.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/666651284027324.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779660925
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:15",
     "fotoUrl": "https://img.olx.com.br/images/88/885668286729087.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/885668286729087.jpg",
       "https://img.olx.com.br/images/89/892607165139151.jpg",
       "https://img.olx.com.br/images/91/916616887625777.jpg"
     ],
-    "defeito": false,
+    "id": "1504686560",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-ps4-ps5-1504686560",
+    "preco": 89,
+    "precoRaw": "R$ 89",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": "Ghost of Tsushima (PS4/PS5)",
     "ts": 1779660917
   },
   {
@@ -9922,24 +9940,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "iPhone 14",
     "ts": 1779571280
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:21",
-    "fotoUrl": "https://img.olx.com.br/images/48/485643644548841.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/485643644548841.jpg",
-      "https://img.olx.com.br/images/49/495666161898737.jpg"
-    ],
-    "id": "1504305466",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-5-1504305466",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Playstation 5",
-    "ts": 1779571278
   }
 ]
