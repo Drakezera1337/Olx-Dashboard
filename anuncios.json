@@ -1,15 +1,29 @@
 [
   {
-    "id": "1478899557",
-    "titulo": "Death Stranding - PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1504574210",
+    "titulo": "GTA IV",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "10:23",
-    "tempoOlx": "Na OLX desde julho de 2022",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/death-stranding-ps4-1478899557",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/gta-iv-1504574210",
+    "fotoUrl": "https://img.olx.com.br/images/38/389656283012702.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/389656283012702.jpg",
+      "https://img.olx.com.br/images/39/394604166884506.jpg",
+      "https://img.olx.com.br/images/40/404647529393937.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779628999
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:23",
     "fotoUrl": "https://img.olx.com.br/images/33/333699495971257.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/333699495971257.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/42/422675373376864.jpg",
       "https://img.olx.com.br/images/84/845627613227496.jpg"
     ],
-    "defeito": false,
+    "id": "1478899557",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/death-stranding-ps4-1478899557",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2022",
+    "titulo": "Death Stranding - PS4",
     "ts": 1779628991
   },
   {
@@ -9839,24 +9859,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "The Last of Us Remastered ",
     "ts": 1779550693
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:38",
-    "fotoUrl": "https://img.olx.com.br/images/15/159616404474238.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/159616404474238.jpg",
-      "https://img.olx.com.br/images/16/161698643933716.jpg"
-    ],
-    "id": "1504432625",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/shadow-of-mordor-goty-1504432625",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Shadow of Mordor GOTY ",
-    "ts": 1779550685
   }
 ]
