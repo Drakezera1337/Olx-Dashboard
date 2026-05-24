@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504630775",
-    "titulo": "Carta Pokémon ",
-    "preco": 99,
-    "precoRaw": "R$ 99",
+    "id": "1504604952",
+    "titulo": "Mario vs. Donkey Kong",
+    "preco": 200,
+    "precoRaw": "R$ 200",
     "categoria": "outros",
     "publicado": "",
     "detectado": "18:08",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde outubro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/carta-pokemon-1504630775",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/mario-vs-donkey-kong-1504604952",
+    "fotoUrl": "https://img.olx.com.br/images/67/679654528383662.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/679654528383662.jpg",
+      "https://img.olx.com.br/images/69/696655166529918.jpg",
+      "https://img.olx.com.br/images/70/708610160448648.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656927
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:08",
     "fotoUrl": "https://img.olx.com.br/images/38/380694529700985.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/380694529700985.jpg"
     ],
-    "defeito": false,
+    "id": "1504630775",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/consoles-de-video-game/carta-pokemon-1504630775",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Carta Pokémon ",
     "ts": 1779656920
   },
   {
@@ -9918,23 +9938,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Uncharted 4 PS4",
     "ts": 1779561320
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:35",
-    "fotoUrl": "https://img.olx.com.br/images/97/976512585224556.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/976512585224556.jpg"
-    ],
-    "id": "1457557929",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/infamous-second-son-ps4-1457557929",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2014",
-    "titulo": "Infamous Second Son PS4",
-    "ts": 1779561312
   }
 ]
