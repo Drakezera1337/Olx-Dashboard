@@ -1,21 +1,39 @@
 [
   {
-    "id": "1496328438",
-    "titulo": "Fifa 16",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1359810952",
+    "titulo": "The Last Of Us Remasterizado Ps4 ",
+    "preco": 89,
+    "precoRaw": "R$ 89",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:21",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/fifa-16-1496328438",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-last-of-us-remasterizado-ps4-1359810952",
+    "fotoUrl": "https://img.olx.com.br/images/10/102490718717480.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/102490718717480.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779628889
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:21",
     "fotoUrl": "https://img.olx.com.br/images/16/165607394613041.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/165607394613041.jpg",
       "https://img.olx.com.br/images/36/367694155191017.jpg"
     ],
-    "defeito": false,
+    "id": "1496328438",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/fifa-16-1496328438",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "Fifa 16",
     "ts": 1779628882
   },
   {
@@ -9848,23 +9866,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "Jogo para ps4",
     "ts": 1779549901
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "12:24",
-    "fotoUrl": "https://img.olx.com.br/images/47/477693769372428.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/477693769372428.jpg"
-    ],
-    "id": "1504428842",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/daysgone-ps4-1504428842",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "Daysgone ps4",
-    "ts": 1779549892
   }
 ]
