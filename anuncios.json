@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504686135",
-    "titulo": "Xbox one S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1504687941",
+    "titulo": "God of War Ragnarok 2018",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "19:16",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "detectado": "19:27",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/xbox-one-s-1504686135",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/god-of-war-ragnarok-2018-1504687941",
+    "fotoUrl": "https://img.olx.com.br/images/55/551667164139451.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/551667164139451.jpg",
+      "https://img.olx.com.br/images/57/576696647590267.jpg",
+      "https://img.olx.com.br/images/58/585624648703348.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779661637
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:16",
     "fotoUrl": "https://img.olx.com.br/images/68/680614402497359.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/680614402497359.jpg",
       "https://img.olx.com.br/images/69/699603167691503.jpg"
     ],
-    "defeito": false,
+    "id": "1504686135",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/xbox-one-s-1504686135",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "Xbox one S ",
     "ts": 1779661006
   },
   {
@@ -9912,25 +9932,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "Jogo RainbowSix PS4",
     "ts": 1779571603
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:26",
-    "fotoUrl": "https://img.olx.com.br/images/96/965642882763419.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/965642882763419.jpg",
-      "https://img.olx.com.br/images/98/982623881544617.jpg",
-      "https://img.olx.com.br/images/10/109601525932127.jpg"
-    ],
-    "id": "1504505346",
-    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogo-gran-turismo-1504505346",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2015",
-    "titulo": "Jogo Gran Turismo",
-    "ts": 1779571594
   }
 ]
