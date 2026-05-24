@@ -1,20 +1,41 @@
 [
   {
-    "id": "1504599433",
-    "titulo": "Ps5",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "categoria": "ps5",
+    "id": "1504599056",
+    "titulo": "iPhone 12 ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:39",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "tempoOlx": "Na OLX desde junho de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-1504599433",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1504599056",
+    "fotoUrl": "https://img.olx.com.br/images/26/264664760662855.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/264664760662855.jpg",
+      "https://img.olx.com.br/images/27/274657407155679.jpg",
+      "https://img.olx.com.br/images/28/280608525812179.jpg",
+      "https://img.olx.com.br/images/30/308680763239917.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779633588
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:39",
     "fotoUrl": "https://img.olx.com.br/images/64/648666040540300.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/648666040540300.jpg"
     ],
-    "defeito": false,
+    "id": "1504599433",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-1504599433",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Ps5",
     "ts": 1779633557
   },
   {
@@ -9862,23 +9883,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2014",
     "titulo": "Jogo de ps4  F1 2020",
     "ts": 1779557928
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:31",
-    "fotoUrl": "https://img.olx.com.br/images/33/337681889887013.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/337681889887013.jpg"
-    ],
-    "id": "1504457346",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1504457346",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Jogos ps4",
-    "ts": 1779557507
   }
 ]
