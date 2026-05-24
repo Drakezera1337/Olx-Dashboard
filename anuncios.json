@@ -1,20 +1,43 @@
 [
   {
-    "id": "1504588940",
-    "titulo": "Arena beyblade",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "outros",
+    "id": "1504590159",
+    "titulo": "Vídeo game ps5!",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "10:50",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "detectado": "10:55",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/arena-beyblade-1504588940",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/video-game-ps5-1504590159",
+    "fotoUrl": "https://img.olx.com.br/images/81/816643767320367.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/816643767320367.jpg",
+      "https://img.olx.com.br/images/82/827641761804685.jpg",
+      "https://img.olx.com.br/images/85/855630766047152.jpg",
+      "https://img.olx.com.br/images/86/863673168714302.jpg",
+      "https://img.olx.com.br/images/88/888678165966431.jpg",
+      "https://img.olx.com.br/images/89/894632407375003.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779630917
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:50",
     "fotoUrl": "https://img.olx.com.br/images/45/459637165999673.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/459637165999673.jpg"
     ],
-    "defeito": false,
+    "id": "1504588940",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/arena-beyblade-1504588940",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "Arena beyblade",
     "ts": 1779630646
   },
   {
@@ -9841,23 +9864,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "Vendo Vendo Sony PlayStation 5 Digital Edition 825GB / HDR / 8K ",
     "ts": 1779553251
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:19",
-    "fotoUrl": "https://img.olx.com.br/images/45/457648886963867.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/457648886963867.jpg"
-    ],
-    "id": "1504440603",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps4-com-defeito-1504440603",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "Ps4 com defeito ",
-    "ts": 1779553187
   }
 ]
