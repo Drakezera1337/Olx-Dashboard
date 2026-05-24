@@ -1,15 +1,32 @@
 [
   {
-    "id": "1495515375",
-    "titulo": "Nintendo lite",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "switch",
+    "id": "1504639147",
+    "titulo": "Funko Pop Sonic coleção The Hedgehog",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:08",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde abril de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-lite-1495515375",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/funko-pop-sonic-colecao-the-hedgehog-1504639147",
+    "fotoUrl": "https://img.olx.com.br/images/23/237632767194158.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/237632767194158.jpg",
+      "https://img.olx.com.br/images/25/258645884238159.jpg",
+      "https://img.olx.com.br/images/26/269689409589366.jpg",
+      "https://img.olx.com.br/images/29/293645405724220.jpg",
+      "https://img.olx.com.br/images/30/308626764560003.jpg",
+      "https://img.olx.com.br/images/32/320611886381739.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656912
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:08",
     "fotoUrl": "https://img.olx.com.br/images/60/603616511046914.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/603616511046914.jpg",
@@ -17,7 +34,13 @@
       "https://img.olx.com.br/images/62/620671519466876.jpg",
       "https://img.olx.com.br/images/63/630608511700166.jpg"
     ],
-    "defeito": false,
+    "id": "1495515375",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-lite-1495515375",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Nintendo lite",
     "ts": 1779656903
   },
   {
@@ -9913,23 +9936,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Fallout 4 PS4 (Atualização gratuita para versão de PS5)",
     "ts": 1779561306
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:34",
-    "fotoUrl": "https://img.olx.com.br/images/62/624685168663312.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/624685168663312.jpg"
-    ],
-    "id": "1504469370",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/jogos-de-video-game/jogo-de-ps4-1504469370",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Jogo de ps4",
-    "ts": 1779561299
   }
 ]
