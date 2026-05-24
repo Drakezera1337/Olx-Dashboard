@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504609151",
-    "titulo": "Lote PS4 com defeito",
-    "preco": 750,
-    "precoRaw": "R$ 750",
+    "id": "1504606439",
+    "titulo": "Caixa PS4 Fat",
+    "preco": 40,
+    "precoRaw": "R$ 40",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:06",
-    "tempoOlx": "Na OLX desde abril de 2024",
+    "tempoOlx": "Na OLX desde junho de 2017",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/lote-ps4-com-defeito-1504609151",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/caixa-ps4-fat-1504606439",
+    "fotoUrl": "https://img.olx.com.br/images/10/103668285954784.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/103668285954784.jpg",
+      "https://img.olx.com.br/images/11/117605766974119.jpg",
+      "https://img.olx.com.br/images/12/121667160052906.jpg",
+      "https://img.olx.com.br/images/14/145665880511399.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656769
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:06",
     "fotoUrl": "https://img.olx.com.br/images/16/164663282254961.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/164663282254961.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/20/204658400263029.jpg",
       "https://img.olx.com.br/images/22/228655403786856.jpg"
     ],
-    "defeito": false,
+    "id": "1504609151",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/lote-ps4-com-defeito-1504609151",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2024",
+    "titulo": "Lote PS4 com defeito",
     "ts": 1779656762
   },
   {
@@ -9890,24 +9911,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Ps4 Slim - 500gb c/ jogo Gta 5",
     "ts": 1779560058
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:11",
-    "fotoUrl": "https://img.olx.com.br/images/36/360697160145059.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/360697160145059.jpg",
-      "https://img.olx.com.br/images/38/387644641399596.jpg"
-    ],
-    "id": "1504464402",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/ps3-1504464402",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "Ps3",
-    "ts": 1779559881
   }
 ]
