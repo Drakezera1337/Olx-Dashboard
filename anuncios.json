@@ -1,21 +1,40 @@
 [
   {
-    "id": "1504702847",
-    "titulo": "Ps4 fat",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1504702582",
+    "titulo": "Ps3 leia o anúncio ",
+    "preco": 149,
+    "precoRaw": "R$ 149",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "20:58",
-    "tempoOlx": "Na OLX desde junho de 2018",
+    "detectado": "20:59",
+    "tempoOlx": "Na OLX desde maio de 2018",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-fat-1504702847",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps3-leia-o-anuncio-1504702582",
+    "fotoUrl": "https://img.olx.com.br/images/99/990605283191124.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/990605283191124.jpg",
+      "https://img.olx.com.br/images/10/106672287056822.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779667143
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:58",
     "fotoUrl": "https://img.olx.com.br/images/51/514669043641241.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/514669043641241.jpg",
       "https://img.olx.com.br/images/50/502683289410951.jpg"
     ],
-    "defeito": false,
+    "id": "1504702847",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-fat-1504702847",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "Ps4 fat",
     "ts": 1779667135
   },
   {
@@ -9922,23 +9941,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "Horizon ps4",
     "ts": 1779575230
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:27",
-    "fotoUrl": "https://img.olx.com.br/images/11/119666648354417.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/119666648354417.jpg"
-    ],
-    "id": "1504516039",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-ps4-1504516039",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2021",
-    "titulo": "Jogos ps4",
-    "ts": 1779575221
   }
 ]
