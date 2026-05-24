@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504693591",
-    "titulo": "The Last Of Us Part II - PS4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1504693475",
+    "titulo": "Playstation 4 Lote de Jogos",
+    "preco": 199,
+    "precoRaw": "R$ 199",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:03",
-    "tempoOlx": "Na OLX desde novembro de 2017",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-part-ii-ps4-1504693591",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/playstation-4-lote-de-jogos-1504693475",
+    "fotoUrl": "https://img.olx.com.br/images/54/541680525166566.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/541680525166566.jpg",
+      "https://img.olx.com.br/images/55/555625045555486.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779663806
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:03",
     "fotoUrl": "https://img.olx.com.br/images/25/254670041311589.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/254670041311589.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/25/254663166844274.jpg",
       "https://img.olx.com.br/images/25/259630766332814.jpg"
     ],
-    "defeito": false,
+    "id": "1504693591",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-part-ii-ps4-1504693591",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2017",
+    "titulo": "The Last Of Us Part II - PS4",
     "ts": 1779663798
   },
   {
@@ -9924,23 +9943,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Horizon Zero Dawn: Complete Edition",
     "ts": 1779572755
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:45",
-    "fotoUrl": "https://img.olx.com.br/images/16/168690743633085.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/168690743633085.jpg"
-    ],
-    "id": "1484038405",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/god-of-war-para-playstation-4-1484038405",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2014",
-    "titulo": "God of War para PlayStation 4",
-    "ts": 1779572747
   }
 ]
