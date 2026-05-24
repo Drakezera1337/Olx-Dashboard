@@ -1,20 +1,42 @@
 [
   {
-    "id": "1504688600",
-    "titulo": "PlayStation 04",
-    "preco": 1750,
-    "precoRaw": "R$ 1.750",
-    "categoria": "outros",
+    "id": "1504689257",
+    "titulo": "Iphone 16 pro 128",
+    "preco": 4800,
+    "precoRaw": "R$ 4.800",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "19:33",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "detectado": "19:36",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/playstation-04-1504688600",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-128-1504689257",
+    "fotoUrl": "https://img.olx.com.br/images/20/203664766068757.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/203664766068757.jpg",
+      "https://img.olx.com.br/images/21/213677404921909.jpg",
+      "https://img.olx.com.br/images/16/167654767296683.jpg",
+      "https://img.olx.com.br/images/18/181609401546836.jpg",
+      "https://img.olx.com.br/images/19/192689762726943.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779662178
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:33",
     "fotoUrl": "https://img.olx.com.br/images/17/174609166330182.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/174609166330182.jpg"
     ],
-    "defeito": false,
+    "id": "1504688600",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/playstation-04-1504688600",
+    "preco": 1750,
+    "precoRaw": "R$ 1.750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "PlayStation 04",
     "ts": 1779662020
   },
   {
@@ -9916,24 +9938,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "Jogo God Of War PS4 ",
     "ts": 1779572006
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:33",
-    "fotoUrl": "https://img.olx.com.br/images/73/733608502907183.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/733608502907183.jpg",
-      "https://img.olx.com.br/images/75/756680386097402.jpg"
-    ],
-    "id": "1486168891",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/mothergunship-ps4-faco-envio-pela-olx-1486168891",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": "Mothergunship ps4 (Faço envio pela Olx)",
-    "ts": 1779571998
   }
 ]
