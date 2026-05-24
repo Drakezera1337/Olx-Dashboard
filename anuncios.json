@@ -1,21 +1,41 @@
 [
   {
-    "id": "1334071448",
-    "titulo": "Jogo Far Cry 4 PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1504662145",
+    "titulo": "Resident Evil 4 Remake PS4/PS5",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "18:13",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-far-cry-4-ps4-1334071448",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/resident-evil-4-remake-ps4-ps5-1504662145",
+    "fotoUrl": "https://img.olx.com.br/images/13/130649040481629.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/130649040481629.jpg",
+      "https://img.olx.com.br/images/15/151676642673573.jpg",
+      "https://img.olx.com.br/images/18/186611529384533.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779657226
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:13",
     "fotoUrl": "https://img.olx.com.br/images/22/221505911071416.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/221505911071416.jpg",
       "https://img.olx.com.br/images/24/244581430957032.jpg"
     ],
-    "defeito": false,
+    "id": "1334071448",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-far-cry-4-ps4-1334071448",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "Jogo Far Cry 4 PS4",
     "ts": 1779657217
   },
   {
@@ -9925,23 +9945,5 @@
     "tempoOlx": "Na OLX desde março de 2023",
     "titulo": "vendo jogos de ps4, em perfeito estado GTA 5 e FIFA 19",
     "ts": 1779564831
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:28",
-    "fotoUrl": "https://img.olx.com.br/images/94/947696282819949.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/947696282819949.jpg"
-    ],
-    "id": "1504478989",
-    "link": "https://rs.olx.com.br/regioes-de-caxias-do-sul-e-passo-fundo/games/consoles-de-video-game/playstation-4-1504478989",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "PlayStation 4",
-    "ts": 1779564526
   }
 ]
