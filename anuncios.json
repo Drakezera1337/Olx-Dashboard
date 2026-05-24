@@ -1,15 +1,31 @@
 [
   {
-    "id": "1504581650",
-    "titulo": "God of war 4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1504581327",
+    "titulo": "PlayStation 4  (500 GB)",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:18",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-4-1504581650",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/playstation-4-500-gb-1504581327",
+    "fotoUrl": "https://img.olx.com.br/images/26/266611647671082.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/266611647671082.jpg",
+      "https://img.olx.com.br/images/28/281606286700333.jpg",
+      "https://img.olx.com.br/images/30/300651520113139.jpg",
+      "https://img.olx.com.br/images/31/316687525959312.jpg",
+      "https://img.olx.com.br/images/32/327608524708635.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779628727
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:18",
     "fotoUrl": "https://img.olx.com.br/images/12/123634406961144.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/123634406961144.jpg",
@@ -17,7 +33,13 @@
       "https://img.olx.com.br/images/15/151653886972590.jpg",
       "https://img.olx.com.br/images/17/175677164486988.jpg"
     ],
-    "defeito": false,
+    "id": "1504581650",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-4-1504581650",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "God of war 4",
     "ts": 1779628718
   },
   {
@@ -9851,26 +9873,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "PS4 - Uncharted 4 - A Thief's End Hits - Lacrado",
     "ts": 1779548121
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:55",
-    "fotoUrl": "https://img.olx.com.br/images/37/373671853399020.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/373671853399020.jpg",
-      "https://img.olx.com.br/images/37/374606493627437.jpg",
-      "https://img.olx.com.br/images/36/361650253566957.jpg",
-      "https://img.olx.com.br/images/36/362649611535478.jpg"
-    ],
-    "id": "1478663086",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-lego-marvel-1478663086",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "PS4 Lego Marvel",
-    "ts": 1779548112
   }
 ]
