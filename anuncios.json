@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504667438",
-    "titulo": "Ps4 Slim 1TB ",
-    "preco": 1599,
-    "precoRaw": "R$ 1.599",
-    "categoria": "ps4",
+    "id": "1504666780",
+    "titulo": "Xbox Series S SSD de 512GB",
+    "preco": 1899,
+    "precoRaw": "R$ 1.899",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "18:09",
     "tempoOlx": "Na OLX desde agosto de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-1tb-1504667438",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-ssd-de-512gb-1504666780",
+    "fotoUrl": "https://img.olx.com.br/images/47/477675042790101.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/477675042790101.jpg",
+      "https://img.olx.com.br/images/50/500690647764907.jpg",
+      "https://img.olx.com.br/images/54/548675528000927.jpg",
+      "https://img.olx.com.br/images/57/578650281327125.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656983
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:09",
     "fotoUrl": "https://img.olx.com.br/images/83/837666166686049.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/837666166686049.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/97/979657168618234.jpg",
       "https://img.olx.com.br/images/11/118601881785078.jpg"
     ],
-    "defeito": false,
+    "id": "1504667438",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-1tb-1504667438",
+    "preco": 1599,
+    "precoRaw": "R$ 1.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "Ps4 Slim 1TB ",
     "ts": 1779656976
   },
   {
@@ -9925,25 +9946,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 4 - ps4 fat com jogo do homem aranha ",
     "ts": 1779561388
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:36",
-    "fotoUrl": "https://img.olx.com.br/images/87/878647164359461.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/878647164359461.jpg",
-      "https://img.olx.com.br/images/89/894620041051286.jpg",
-      "https://img.olx.com.br/images/90/908688764528061.jpg"
-    ],
-    "id": "1504470382",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-1504470382",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2022",
-    "titulo": "Ps5 slim ",
-    "ts": 1779561378
   }
 ]
