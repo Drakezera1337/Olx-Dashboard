@@ -1,20 +1,42 @@
 [
   {
-    "id": "1504536238",
-    "titulo": "Playstation 4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1504536750",
+    "titulo": "iPhone 12 64gb",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "21:56",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "21:57",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/playstation-4-1504536238",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1504536750",
+    "fotoUrl": "https://img.olx.com.br/images/50/502629166175821.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/50/502629166175821.jpg",
+      "https://img.olx.com.br/images/52/528639521266159.jpg",
+      "https://img.olx.com.br/images/54/547682286620423.jpg",
+      "https://img.olx.com.br/images/56/562672649252955.jpg",
+      "https://img.olx.com.br/images/58/582616643688100.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779584244
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:56",
     "fotoUrl": "https://img.olx.com.br/images/43/433612642432717.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/433612642432717.jpg"
     ],
-    "defeito": false,
+    "id": "1504536238",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/playstation-4-1504536238",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Playstation 4",
     "ts": 1779584203
   },
   {
@@ -9846,23 +9868,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Promoção Jogo One Piece Burning Blood PS4( ACEITO CREDISHOP)",
     "ts": 1779542347
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/35/351698034114686.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/351698034114686.jpg"
-    ],
-    "id": "1496135339",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/promocao-jogo-final-fantasy-xv-ps4-aceito-credishop-1496135339",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Promoção Jogo Final Fantasy XV PS4( ACEITO CREDISHOP)",
-    "ts": 1779542340
   }
 ]
