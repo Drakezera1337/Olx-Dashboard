@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504551485",
-    "titulo": "Jogos play 4",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "outros",
+    "id": "1504551438",
+    "titulo": "Hogwarts Legacy PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "00:31",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "tempoOlx": "Na OLX desde outubro de 2023",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-play-4-1504551485",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/hogwarts-legacy-ps4-1504551438",
+    "fotoUrl": "https://img.olx.com.br/images/10/105662406180916.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/105662406180916.jpg",
+      "https://img.olx.com.br/images/11/115685160133670.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779593476
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:31",
     "fotoUrl": "https://img.olx.com.br/images/11/119654286120516.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/119654286120516.jpg"
     ],
-    "defeito": false,
+    "id": "1504551485",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogos-play-4-1504551485",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Jogos play 4",
     "ts": 1779593468
   },
   {
@@ -9849,25 +9868,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Uncharted 4 - PS4 JOGO MÍDIA FÍSICA ",
     "ts": 1779545597
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:13",
-    "fotoUrl": "https://img.olx.com.br/images/88/882601506214461.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/882601506214461.jpg",
-      "https://img.olx.com.br/images/91/910617506071114.jpg",
-      "https://img.olx.com.br/images/94/943610502788481.jpg"
-    ],
-    "id": "1486991439",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/mortal-kombat-xl-ps4-jogo-midia-fisica-1486991439",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Mortal Kombat XL - PS4 JOGO MÍDIA FÍSICA ",
-    "ts": 1779545589
   }
 ]
