@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504595276",
-    "titulo": "VR2 ps5",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "categoria": "ps5",
+    "id": "1504596576",
+    "titulo": "Cyberpunk 2077 edição lançamento com mapa e fotos",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "11:18",
-    "tempoOlx": "Na OLX desde outubro de 2021",
+    "detectado": "11:19",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/vr2-ps5-1504595276",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-edicao-lancamento-com-mapa-e-fotos-1504596576",
+    "fotoUrl": "https://img.olx.com.br/images/85/853688281257889.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/853688281257889.jpg",
+      "https://img.olx.com.br/images/86/864603049920751.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779632387
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:18",
     "fotoUrl": "https://img.olx.com.br/images/65/652610408580649.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/652610408580649.jpg"
     ],
-    "defeito": false,
+    "id": "1504595276",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/vr2-ps5-1504595276",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "VR2 ps5",
     "ts": 1779632326
   },
   {
@@ -9849,23 +9868,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Streets Of Rage 4 - PS4",
     "ts": 1779555987
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:06",
-    "fotoUrl": "https://img.olx.com.br/images/60/606641406816027.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/606641406816027.jpg"
-    ],
-    "id": "1504452403",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogo-ps3-1504452403",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2015",
-    "titulo": "Jogo ps3 ",
-    "ts": 1779555978
   }
 ]
