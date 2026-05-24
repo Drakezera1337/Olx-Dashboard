@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504572252",
-    "titulo": "Pacote 5 Jogos PS5",
-    "preco": 650,
-    "precoRaw": "R$ 650",
+    "id": "1504570882",
+    "titulo": "Hellodivers 2 PS5",
+    "preco": 160,
+    "precoRaw": "R$ 160",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "10:15",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/pacote-5-jogos-ps5-1504572252",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/hellodivers-2-ps5-1504570882",
+    "fotoUrl": "https://img.olx.com.br/images/91/919633643615930.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/919633643615930.jpg",
+      "https://img.olx.com.br/images/93/930644166984696.jpg",
+      "https://img.olx.com.br/images/94/948605640223595.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779628543
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:15",
     "fotoUrl": "https://img.olx.com.br/images/15/157642167862411.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/157642167862411.jpg"
     ],
-    "defeito": false,
+    "id": "1504572252",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/pacote-5-jogos-ps5-1504572252",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Pacote 5 Jogos PS5",
     "ts": 1779628535
   },
   {
@@ -39,16 +59,10 @@
     "ts": 1779628528
   },
   {
-    "id": "1504581756",
-    "titulo": "câmera hd playstation 5 sony original - full hd 1080p",
-    "preco": 500,
-    "precoRaw": "R$ 500",
     "categoria": "ps5",
-    "publicado": "",
-    "detectado": "10:15",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "defeito": false,
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/camera-hd-playstation-5-sony-original-full-hd-1080p-1504581756",
+    "detectado": "10:15",
     "fotoUrl": "https://img.olx.com.br/images/28/288686282754658.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/288686282754658.jpg",
@@ -57,7 +71,13 @@
       "https://img.olx.com.br/images/31/313636649958553.jpg",
       "https://img.olx.com.br/images/32/324698047615093.jpg"
     ],
-    "defeito": false,
+    "id": "1504581756",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/camera-hd-playstation-5-sony-original-full-hd-1080p-1504581756",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "câmera hd playstation 5 sony original - full hd 1080p",
     "ts": 1779628528
   },
   {
@@ -9844,23 +9864,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Elden Ring Ps5",
     "ts": 1779545935
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:18",
-    "fotoUrl": "https://img.olx.com.br/images/64/647682529317747.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/647682529317747.jpg"
-    ],
-    "id": "1504401529",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ghost-of-tsushima-ps4-1504401529",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "Ghost of Tsushima - PS4",
-    "ts": 1779545927
   }
 ]
