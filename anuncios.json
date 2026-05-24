@@ -1,22 +1,43 @@
 [
   {
-    "id": "1504634867",
-    "titulo": "PS4",
-    "preco": 850,
-    "precoRaw": "R$ 850",
+    "id": "1504609151",
+    "titulo": "Lote PS4 com defeito",
+    "preco": 750,
+    "precoRaw": "R$ 750",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:05",
-    "tempoOlx": "Na OLX desde agosto de 2015",
+    "detectado": "18:06",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-1504634867",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/lote-ps4-com-defeito-1504609151",
+    "fotoUrl": "https://img.olx.com.br/images/16/164663282254961.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/164663282254961.jpg",
+      "https://img.olx.com.br/images/18/187617885703153.jpg",
+      "https://img.olx.com.br/images/20/204658400263029.jpg",
+      "https://img.olx.com.br/images/22/228655403786856.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656762
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:05",
     "fotoUrl": "https://img.olx.com.br/images/73/739622763254823.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/739622763254823.jpg",
       "https://img.olx.com.br/images/75/759633524474889.jpg",
       "https://img.olx.com.br/images/76/764669526512539.jpg"
     ],
-    "defeito": false,
+    "id": "1504634867",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-1504634867",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "PS4",
     "ts": 1779656755
   },
   {
@@ -9888,24 +9909,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "Ps3",
     "ts": 1779559881
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:09",
-    "fotoUrl": "https://img.olx.com.br/images/77/774613640776405.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/774613640776405.jpg",
-      "https://img.olx.com.br/images/78/781680048083218.jpg"
-    ],
-    "id": "1504464169",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gta-v-premium-edition-ps4-1504464169",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2014",
-    "titulo": "GTA V Premium Edition - PS4",
-    "ts": 1779559774
   }
 ]
