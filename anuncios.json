@@ -1,15 +1,32 @@
 [
   {
-    "id": "1504689257",
-    "titulo": "Iphone 16 pro 128",
-    "preco": 4800,
-    "precoRaw": "R$ 4.800",
-    "categoria": "iphone",
+    "id": "1504689381",
+    "titulo": "Oculus PSVR2 ",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:36",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "detectado": "19:37",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-128-1504689257",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/oculus-psvr2-1504689381",
+    "fotoUrl": "https://img.olx.com.br/images/91/912671286078512.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/912671286078512.jpg",
+      "https://img.olx.com.br/images/92/924640402591462.jpg",
+      "https://img.olx.com.br/images/95/952677403669406.jpg",
+      "https://img.olx.com.br/images/96/960635883494518.jpg",
+      "https://img.olx.com.br/images/98/981622162360397.jpg",
+      "https://img.olx.com.br/images/10/105658282449340.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779662239
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:36",
     "fotoUrl": "https://img.olx.com.br/images/20/203664766068757.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/203664766068757.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/18/181609401546836.jpg",
       "https://img.olx.com.br/images/19/192689762726943.jpg"
     ],
-    "defeito": false,
+    "id": "1504689257",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-128-1504689257",
+    "preco": 4800,
+    "precoRaw": "R$ 4.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "Iphone 16 pro 128",
     "ts": 1779662178
   },
   {
@@ -9918,25 +9941,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": "Tales of Berseria PS4 (Faço envio pela Olx)",
     "ts": 1779572014
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:33",
-    "fotoUrl": "https://img.olx.com.br/images/12/122624769225495.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/122624769225495.jpg",
-      "https://img.olx.com.br/images/13/130672406049429.jpg",
-      "https://img.olx.com.br/images/14/146641528593899.jpg"
-    ],
-    "id": "1504506990",
-    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/jogo-god-of-war-ps4-1504506990",
-    "preco": 128,
-    "precoRaw": "R$ 128",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2015",
-    "titulo": "Jogo God Of War PS4 ",
-    "ts": 1779572006
   }
 ]
