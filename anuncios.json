@@ -1,21 +1,40 @@
 [
   {
-    "id": "1486592676",
-    "titulo": "Infamous Second Son - Jogado uma vez",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1486592192",
+    "titulo": "God of War",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "20:27",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/infamous-second-son-jogado-uma-vez-1486592676",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/god-of-war-1486592192",
+    "fotoUrl": "https://img.olx.com.br/images/79/799637624072663.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/799637624072663.jpg",
+      "https://img.olx.com.br/images/79/792697503895500.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779665273
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:27",
     "fotoUrl": "https://img.olx.com.br/images/47/477655142274752.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/477655142274752.jpg",
       "https://img.olx.com.br/images/47/473629501105264.jpg"
     ],
-    "defeito": false,
+    "id": "1486592676",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/infamous-second-son-jogado-uma-vez-1486592676",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Infamous Second Son - Jogado uma vez",
     "ts": 1779665264
   },
   {
@@ -9929,26 +9948,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": "God Of War Ragnarok ",
     "ts": 1779573423
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:56",
-    "fotoUrl": "https://img.olx.com.br/images/51/512605166348255.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/512605166348255.jpg",
-      "https://img.olx.com.br/images/52/524623884324340.jpg",
-      "https://img.olx.com.br/images/54/547688528773360.jpg",
-      "https://img.olx.com.br/images/56/565606402473166.jpg"
-    ],
-    "id": "1504510415",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-iii-wild-hunt-ps4-ps5-1504510415",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2018",
-    "titulo": "The Witcher III wild Hunt PS4/PS5",
-    "ts": 1779573414
   }
 ]
