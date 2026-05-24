@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504571591",
-    "titulo": "PS4 FAT 500GB",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1504568537",
+    "titulo": "Controle Playstation 4 Original (Lacrado)",
+    "preco": 250,
+    "precoRaw": "R$ 250",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:16",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps4-fat-500gb-1504571591",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/controle-playstation-4-original-lacrado-1504568537",
+    "fotoUrl": "https://img.olx.com.br/images/45/458648169572180.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/458648169572180.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779628579
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:16",
     "fotoUrl": "https://img.olx.com.br/images/21/216618042614401.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/216618042614401.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/23/235631524968556.jpg",
       "https://img.olx.com.br/images/24/241618164538539.jpg"
     ],
-    "defeito": false,
+    "id": "1504571591",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps4-fat-500gb-1504571591",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4 FAT 500GB",
     "ts": 1779628572
   },
   {
@@ -9846,28 +9864,5 @@
     "tempoOlx": "Na OLX desde maio de 2022",
     "titulo": "Diablo 3 Reaper Of Souls",
     "ts": 1779546660
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:30",
-    "fotoUrl": "https://img.olx.com.br/images/32/329632145076771.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/329632145076771.jpg",
-      "https://img.olx.com.br/images/33/331675385724360.jpg",
-      "https://img.olx.com.br/images/33/337650509021778.jpg",
-      "https://img.olx.com.br/images/33/336695501108780.jpg",
-      "https://img.olx.com.br/images/32/326627509327340.jpg",
-      "https://img.olx.com.br/images/33/332622502177537.jpg"
-    ],
-    "id": "1487312422",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-witcher-3-wild-hunt-ps4-conteudo-extra-usado-1487312422",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "The Witcher 3 Wild Hunt Ps4 - Conteúdo Extra (Usado)",
-    "ts": 1779546651
   }
 ]
