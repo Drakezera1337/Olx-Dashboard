@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504702535",
-    "titulo": "Pacote 30 jogos ps4/ps5",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps5",
+    "id": "1504702300",
+    "titulo": "Jogos de PS4 (LEIA A DESCRIÇÃO)",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:57",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/pacote-30-jogos-ps4-ps5-1504702535",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-leia-a-descricao-1504702300",
+    "fotoUrl": "https://img.olx.com.br/images/75/755683402534788.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/755683402534788.jpg",
+      "https://img.olx.com.br/images/77/773631520072549.jpg",
+      "https://img.olx.com.br/images/79/797624645239129.jpg",
+      "https://img.olx.com.br/images/81/818686406367636.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779667055
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:57",
     "fotoUrl": "https://img.olx.com.br/images/21/217636169945707.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/217636169945707.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/26/269601044893680.jpg",
       "https://img.olx.com.br/images/27/273658762678279.jpg"
     ],
-    "defeito": false,
+    "id": "1504702535",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/pacote-30-jogos-ps4-ps5-1504702535",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Pacote 30 jogos ps4/ps5",
     "ts": 1779667049
   },
   {
@@ -9923,26 +9944,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "Ps5 fat disc ",
     "ts": 1779574666
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:14",
-    "fotoUrl": "https://img.olx.com.br/images/16/161661153246607.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/161661153246607.jpg",
-      "https://img.olx.com.br/images/17/175602759894119.jpg",
-      "https://img.olx.com.br/images/18/184617512311062.jpg",
-      "https://img.olx.com.br/images/19/196636639728887.jpg"
-    ],
-    "id": "1495612797",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-para-play-4-fifa-17-18-e-19-1495612797",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Jogos para play 4, fifa 17, 18 e 19",
-    "ts": 1779574497
   }
 ]
