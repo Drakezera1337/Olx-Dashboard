@@ -1,15 +1,29 @@
 [
   {
-    "id": "1504581327",
-    "titulo": "PlayStation 4  (500 GB)",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "categoria": "ps4",
+    "id": "1504581226",
+    "titulo": "Horizon forbidden West",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "10:18",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "descricao": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/playstation-4-500-gb-1504581327",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/horizon-forbidden-west-1504581226",
+    "fotoUrl": "https://img.olx.com.br/images/57/574639526286513.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/574639526286513.jpg",
+      "https://img.olx.com.br/images/59/592667284054097.jpg",
+      "https://img.olx.com.br/images/61/610636045081408.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779628735
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:18",
     "fotoUrl": "https://img.olx.com.br/images/26/266611647671082.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/266611647671082.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/31/316687525959312.jpg",
       "https://img.olx.com.br/images/32/327608524708635.jpg"
     ],
-    "defeito": false,
+    "id": "1504581327",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/playstation-4-500-gb-1504581327",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "PlayStation 4  (500 GB)",
     "ts": 1779628727
   },
   {
@@ -9854,24 +9874,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "PS4 Lego Star Wars: O Despertar Ed. Deluxe - Lacrado",
     "ts": 1779548131
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:55",
-    "fotoUrl": "https://img.olx.com.br/images/94/943696136267886.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/943696136267886.jpg",
-      "https://img.olx.com.br/images/94/942691370166455.jpg"
-    ],
-    "id": "1478665283",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-uncharted-4-a-thief-s-end-hits-lacrado-1478665283",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "PS4 - Uncharted 4 - A Thief's End Hits - Lacrado",
-    "ts": 1779548121
   }
 ]
