@@ -1,15 +1,31 @@
 [
   {
-    "id": "1461722660",
-    "titulo": "PlayStation 3",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1504653255",
+    "titulo": "Playstation 3 Fat Retrocompativel ",
+    "preco": 350,
+    "precoRaw": "R$ 350",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "18:07",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-3-1461722660",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/playstation-3-fat-retrocompativel-1504653255",
+    "fotoUrl": "https://img.olx.com.br/images/92/926608401725993.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/926608401725993.jpg",
+      "https://img.olx.com.br/images/94/941625409331962.jpg",
+      "https://img.olx.com.br/images/96/966670160633689.jpg",
+      "https://img.olx.com.br/images/99/999673648952923.jpg",
+      "https://img.olx.com.br/images/11/113651163265614.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656859
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:07",
     "fotoUrl": "https://img.olx.com.br/images/97/975580839159995.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/975580839159995.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/12/125590594982945.jpg",
       "https://img.olx.com.br/images/14/149558714336926.jpg"
     ],
-    "defeito": false,
+    "id": "1461722660",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-3-1461722660",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "PlayStation 3",
     "ts": 1779656851
   },
   {
@@ -9899,27 +9921,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2013",
     "titulo": "FIFA 23 para PS4",
     "ts": 1779561258
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:32",
-    "fotoUrl": "https://img.olx.com.br/images/66/661603880201011.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/661603880201011.jpg",
-      "https://img.olx.com.br/images/67/679620049933782.jpg",
-      "https://img.olx.com.br/images/69/693648646181304.jpg",
-      "https://img.olx.com.br/images/71/712684885199743.jpg",
-      "https://img.olx.com.br/images/72/728634046569208.jpg"
-    ],
-    "id": "1500468321",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/nintendo-switch-oled-1500468321",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "Nintendo Switch Oled",
-    "ts": 1779561169
   }
 ]
