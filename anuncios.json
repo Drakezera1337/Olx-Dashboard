@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504657443",
-    "titulo": "Jogo PS4 Destiny 2",
-    "preco": 30,
-    "precoRaw": "R$ 30",
+    "id": "1504657056",
+    "titulo": "Jogo PS4 Agents Mayhem",
+    "preco": 40,
+    "precoRaw": "R$ 40",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:16",
     "tempoOlx": "Na OLX desde junho de 2021",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-destiny-2-1504657443",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-agents-mayhem-1504657056",
+    "fotoUrl": "https://img.olx.com.br/images/42/426672649579026.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/426672649579026.jpg",
+      "https://img.olx.com.br/images/44/440658522995876.jpg",
+      "https://img.olx.com.br/images/45/450669641104693.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779657401
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:16",
     "fotoUrl": "https://img.olx.com.br/images/64/649639404081951.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/649639404081951.jpg",
       "https://img.olx.com.br/images/65/652666400494357.jpg",
       "https://img.olx.com.br/images/67/679669041707230.jpg"
     ],
-    "defeito": false,
+    "id": "1504657443",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-destiny-2-1504657443",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "Jogo PS4 Destiny 2",
     "ts": 1779657392
   },
   {
@@ -9924,27 +9944,5 @@
     "tempoOlx": "Na OLX desde julho de 2018",
     "titulo": "Anthem ps4 mídia física ",
     "ts": 1779567739
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:17",
-    "fotoUrl": "https://img.olx.com.br/images/30/302649642683108.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/302649642683108.jpg",
-      "https://img.olx.com.br/images/31/314690648918988.jpg",
-      "https://img.olx.com.br/images/32/324696886297888.jpg",
-      "https://img.olx.com.br/images/34/344619408709232.jpg",
-      "https://img.olx.com.br/images/35/358653168546976.jpg"
-    ],
-    "id": "1504488826",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/xbox-series-s-512gb-1504488826",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "Xbox séries S 512gb",
-    "ts": 1779567439
   }
 ]
