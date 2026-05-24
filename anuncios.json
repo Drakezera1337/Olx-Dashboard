@@ -1,20 +1,41 @@
 [
   {
-    "id": "1504599324",
-    "titulo": "Ps3 super slim ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1504599777",
+    "titulo": "Dead By Daylight Versão exclusiva Silent Hill",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "11:35",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "11:37",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
     "descricao": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-super-slim-1504599324",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/dead-by-daylight-versao-exclusiva-silent-hill-1504599777",
+    "fotoUrl": "https://img.olx.com.br/images/73/737624286636447.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/737624286636447.jpg",
+      "https://img.olx.com.br/images/74/746669642110611.jpg",
+      "https://img.olx.com.br/images/76/767610161983926.jpg",
+      "https://img.olx.com.br/images/77/771634404025224.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779633468
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:35",
     "fotoUrl": "https://img.olx.com.br/images/94/949661281418480.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/949661281418480.jpg"
     ],
-    "defeito": false,
+    "id": "1504599324",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-super-slim-1504599324",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Ps3 super slim ",
     "ts": 1779633347
   },
   {
@@ -9858,24 +9879,5 @@
     "tempoOlx": "Na OLX desde julho de 2014",
     "titulo": "Jogos PS 4",
     "ts": 1779557157
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:25",
-    "fotoUrl": "https://img.olx.com.br/images/67/674686406566676.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/674686406566676.jpg",
-      "https://img.olx.com.br/images/68/685608281055214.jpg"
-    ],
-    "id": "1504456597",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/yakuza-like-a-dragon-ps5-1504456597",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Yakuza - Like A Dragon - PS5",
-    "ts": 1779557148
   }
 ]
