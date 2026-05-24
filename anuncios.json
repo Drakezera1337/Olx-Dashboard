@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504692878",
-    "titulo": "Spider Man - PS4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
+    "id": "1504692547",
+    "titulo": "Nioh 2 - PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:57",
-    "tempoOlx": "Na OLX desde novembro de 2017",
+    "tempoOlx": "Na OLX desde novembro de 2014",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/spider-man-ps4-1504692878",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nioh-2-ps4-1504692547",
+    "fotoUrl": "https://img.olx.com.br/images/71/711674167703905.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/711674167703905.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779663454
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:57",
     "fotoUrl": "https://img.olx.com.br/images/92/927672160097142.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/927672160097142.jpg",
@@ -17,7 +29,13 @@
       "https://img.olx.com.br/images/92/927639284904192.jpg",
       "https://img.olx.com.br/images/92/922624284876438.jpg"
     ],
-    "defeito": false,
+    "id": "1504692878",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/spider-man-ps4-1504692878",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2017",
+    "titulo": "Spider Man - PS4",
     "ts": 1779663446
   },
   {
@@ -9923,28 +9941,5 @@
     "tempoOlx": "Na OLX desde junho de 2016",
     "titulo": "Caixa de ps5",
     "ts": 1779572686
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:40",
-    "fotoUrl": "https://img.olx.com.br/images/68/689678169060627.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/689678169060627.jpg",
-      "https://img.olx.com.br/images/69/693640040338808.jpg",
-      "https://img.olx.com.br/images/70/709610529582481.jpg",
-      "https://img.olx.com.br/images/71/711645163210325.jpg",
-      "https://img.olx.com.br/images/72/724616042813603.jpg",
-      "https://img.olx.com.br/images/73/735608767587176.jpg"
-    ],
-    "id": "1504508045",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps3-slim-desbloqueado-1504508045",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "Ps3 slim desbloqueado ",
-    "ts": 1779572449
   }
 ]
