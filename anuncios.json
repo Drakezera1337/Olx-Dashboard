@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504692547",
-    "titulo": "Nioh 2 - PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1504693781",
+    "titulo": "ps5",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:57",
-    "tempoOlx": "Na OLX desde novembro de 2014",
+    "detectado": "20:00",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nioh-2-ps4-1504692547",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps5-1504693781",
+    "fotoUrl": "https://img.olx.com.br/images/16/161618526094149.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/161618526094149.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779663616
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:57",
     "fotoUrl": "https://img.olx.com.br/images/71/711674167703905.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/711674167703905.jpg"
     ],
-    "defeito": false,
+    "id": "1504692547",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/nioh-2-ps4-1504692547",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2014",
+    "titulo": "Nioh 2 - PS4",
     "ts": 1779663454
   },
   {
@@ -9922,24 +9940,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Mega Man Zero/ZX Legacy",
     "ts": 1779572736
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:44",
-    "fotoUrl": "https://img.olx.com.br/images/44/446672629964550.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/446672629964550.jpg",
-      "https://img.olx.com.br/images/45/458671742791676.jpg"
-    ],
-    "id": "1487343037",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/caixa-de-ps5-1487343037",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "Caixa de ps5",
-    "ts": 1779572686
   }
 ]
