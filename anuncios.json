@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504592480",
-    "titulo": "Figurinha legend do Messi bronze ",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "outros",
+    "id": "1504593089",
+    "titulo": "Playstation 5 ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "11:09",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "11:12",
+    "tempoOlx": "Na OLX desde abril de 2025",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/figurinha-legend-do-messi-bronze-1504592480",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-1504593089",
+    "fotoUrl": "https://img.olx.com.br/images/52/527683881280890.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/527683881280890.jpg",
+      "https://img.olx.com.br/images/53/531654883115687.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779631967
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:09",
     "fotoUrl": "https://img.olx.com.br/images/22/226624880629576.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/226624880629576.jpg"
     ],
-    "defeito": false,
+    "id": "1504592480",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/figurinha-legend-do-messi-bronze-1504592480",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Figurinha legend do Messi bronze ",
     "ts": 1779631773
   },
   {
@@ -9846,25 +9865,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Dragon Ball Xenoverse 2 para PS4, Edição de Lançamento",
     "ts": 1779554841
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:46",
-    "fotoUrl": "https://img.olx.com.br/images/57/577625165310629.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/577625165310629.jpg",
-      "https://img.olx.com.br/images/59/596657400730346.jpg",
-      "https://img.olx.com.br/images/61/617607649515762.jpg"
-    ],
-    "id": "1504448235",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/xbox-series-s-com-defeito-1504448235",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2016",
-    "titulo": "Xbox Series S - Com defeito",
-    "ts": 1779554780
   }
 ]
