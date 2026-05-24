@@ -1,21 +1,40 @@
 [
   {
-    "id": "1486592453",
-    "titulo": "Days Gone - Jogado uma vez",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1486592676",
+    "titulo": "Infamous Second Son - Jogado uma vez",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "outros",
     "publicado": "",
     "detectado": "20:27",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/days-gone-jogado-uma-vez-1486592453",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/infamous-second-son-jogado-uma-vez-1486592676",
+    "fotoUrl": "https://img.olx.com.br/images/47/477655142274752.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/477655142274752.jpg",
+      "https://img.olx.com.br/images/47/473629501105264.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779665264
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:27",
     "fotoUrl": "https://img.olx.com.br/images/54/549690267604792.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/549690267604792.jpg",
       "https://img.olx.com.br/images/54/547672507697224.jpg"
     ],
-    "defeito": false,
+    "id": "1486592453",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/days-gone-jogado-uma-vez-1486592453",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Days Gone - Jogado uma vez",
     "ts": 1779665257
   },
   {
@@ -9931,27 +9950,5 @@
     "tempoOlx": "Na OLX desde agosto de 2018",
     "titulo": "The Witcher III wild Hunt PS4/PS5",
     "ts": 1779573414
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:53",
-    "fotoUrl": "https://img.olx.com.br/images/41/415696161628628.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/415696161628628.jpg",
-      "https://img.olx.com.br/images/43/435697400825245.jpg",
-      "https://img.olx.com.br/images/44/446649406408773.jpg",
-      "https://img.olx.com.br/images/46/462634764615377.jpg",
-      "https://img.olx.com.br/images/48/481680648116451.jpg"
-    ],
-    "id": "1504509516",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-meia-noite-1504509516",
-    "preco": 2100,
-    "precoRaw": "R$ 2.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "iPhone 13 128GB Meia Noite",
-    "ts": 1779573229
   }
 ]
