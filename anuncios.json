@@ -1,15 +1,29 @@
 [
   {
-    "id": "1504597560",
-    "titulo": "XBox série S 512GB",
-    "preco": 1477,
-    "precoRaw": "R$ 1.477",
-    "categoria": "xbox",
+    "id": "1504598598",
+    "titulo": "JOGO SUPER MARIO 3D WORD NINTENDO SWITCH",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "11:27",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "detectado": "11:30",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "descricao": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-serie-s-512gb-1504597560",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/jogo-super-mario-3d-word-nintendo-switch-1504598598",
+    "fotoUrl": "https://img.olx.com.br/images/25/255690169205825.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/255690169205825.jpg",
+      "https://img.olx.com.br/images/50/506615649235832.jpg",
+      "https://img.olx.com.br/images/52/526619766329478.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779633047
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:27",
     "fotoUrl": "https://img.olx.com.br/images/99/993606521063542.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/993606521063542.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/14/148637889623708.jpg",
       "https://img.olx.com.br/images/16/163618643935517.jpg"
     ],
-    "defeito": false,
+    "id": "1504597560",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-serie-s-512gb-1504597560",
+    "preco": 1477,
+    "precoRaw": "R$ 1.477",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "XBox série S 512GB",
     "ts": 1779632837
   },
   {
@@ -9852,27 +9872,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "PlayStation VR2 + base + PULSE 3D Headset sem fio",
     "ts": 1779556678
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:17",
-    "fotoUrl": "https://img.olx.com.br/images/95/954652528494352.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/954652528494352.jpg",
-      "https://img.olx.com.br/images/96/965611527214987.jpg",
-      "https://img.olx.com.br/images/97/972627407326054.jpg",
-      "https://img.olx.com.br/images/99/990621648112087.jpg",
-      "https://img.olx.com.br/images/10/105619043114230.jpg"
-    ],
-    "id": "1504454574",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-5-slim-1tb-caixa-e-garantia-1504454574",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2014",
-    "titulo": "Playstation 5 slim 1TB caixa e garantia",
-    "ts": 1779556669
   }
 ]
