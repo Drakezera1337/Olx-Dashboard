@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504615463",
-    "titulo": "PlayStation Portal na caixa + brindes (PS Portal)",
-    "preco": 1299,
-    "precoRaw": "R$ 1.299",
+    "id": "1504610832",
+    "titulo": "PS Portal",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "outros",
     "publicado": "",
     "detectado": "18:04",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-portal-na-caixa-brindes-ps-portal-1504615463",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/ps-portal-1504610832",
+    "fotoUrl": "https://img.olx.com.br/images/75/754690526157512.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/754690526157512.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656672
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:04",
     "fotoUrl": "https://img.olx.com.br/images/37/370687404409365.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/370687404409365.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/42/427677043261714.jpg",
       "https://img.olx.com.br/images/44/443636284839163.jpg"
     ],
-    "defeito": false,
+    "id": "1504615463",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-portal-na-caixa-brindes-ps-portal-1504615463",
+    "preco": 1299,
+    "precoRaw": "R$ 1.299",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "PlayStation Portal na caixa + brindes (PS Portal)",
     "ts": 1779656667
   },
   {
@@ -9877,25 +9895,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2014",
     "titulo": "Jogos PS4 - R$50 cada ou Pacote Completo por R$500",
     "ts": 1779559095
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:58",
-    "fotoUrl": "https://img.olx.com.br/images/76/763668760045418.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/763668760045418.jpg",
-      "https://img.olx.com.br/images/78/785690647326231.jpg",
-      "https://img.olx.com.br/images/80/806658160682139.jpg"
-    ],
-    "id": "1504462314",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/grand-theft-auto-v-1504462314",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "Grand theft auto V ",
-    "ts": 1779559085
   }
 ]
