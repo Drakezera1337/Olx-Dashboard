@@ -1,22 +1,45 @@
 [
   {
-    "id": "1504596420",
-    "titulo": "Farcry 4, Playstation 4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1504598894",
+    "titulo": "Playstation 4 - botão eject não funciona.",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:31",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "detectado": "11:33",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/farcry-4-playstation-4-1504596420",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/playstation-4-botao-eject-nao-funciona-1504598894",
+    "fotoUrl": "https://img.olx.com.br/images/56/569641767637512.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/569641767637512.jpg",
+      "https://img.olx.com.br/images/57/578678408272744.jpg",
+      "https://img.olx.com.br/images/58/580686768812386.jpg",
+      "https://img.olx.com.br/images/59/594657402014374.jpg",
+      "https://img.olx.com.br/images/60/601612165338749.jpg",
+      "https://img.olx.com.br/images/61/611676762750900.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779633197
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:31",
     "fotoUrl": "https://img.olx.com.br/images/64/642604280575391.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/642604280575391.jpg",
       "https://img.olx.com.br/images/69/691617405010568.jpg",
       "https://img.olx.com.br/images/72/726696529933121.jpg"
     ],
-    "defeito": false,
+    "id": "1504596420",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/farcry-4-playstation-4-1504596420",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "titulo": "Farcry 4, Playstation 4",
     "ts": 1779633107
   },
   {
@@ -9853,24 +9876,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Sonic Forces PS4",
     "ts": 1779556738
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:18",
-    "fotoUrl": "https://img.olx.com.br/images/94/943641887598488.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/943641887598488.jpg",
-      "https://img.olx.com.br/images/95/959612763042826.jpg"
-    ],
-    "id": "1504455314",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/yakuza-remastered-collection-ps4-1504455314",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Yakuza Remastered Collection - PS4",
-    "ts": 1779556728
   }
 ]
