@@ -1,21 +1,39 @@
 [
   {
-    "id": "1504592271",
-    "titulo": "Jogos",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "outros",
+    "id": "1478131210",
+    "titulo": "FIFA 16 PS4",
+    "preco": 89,
+    "precoRaw": "R$ 89",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:07",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "detectado": "11:08",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-1504592271",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-16-ps4-1478131210",
+    "fotoUrl": "https://img.olx.com.br/images/45/456618371288227.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/456618371288227.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779631684
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:07",
     "fotoUrl": "https://img.olx.com.br/images/60/604640160096666.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/604640160096666.jpg",
       "https://img.olx.com.br/images/60/603689760395524.jpg"
     ],
-    "defeito": false,
+    "id": "1504592271",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-1504592271",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "titulo": "Jogos",
     "ts": 1779631677
   },
   {
@@ -9846,25 +9864,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "KNACK 2 JOGO PS4",
     "ts": 1779554558
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:42",
-    "fotoUrl": "https://img.olx.com.br/images/90/908631168851464.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/908631168851464.jpg",
-      "https://img.olx.com.br/images/91/914676047655325.jpg",
-      "https://img.olx.com.br/images/92/921649767349085.jpg"
-    ],
-    "id": "1504447847",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/metal-slug-tatics-ps5-1504447847",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Metal Slug Tatics - PS5",
-    "ts": 1779554548
   }
 ]
