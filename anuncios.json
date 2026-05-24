@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504685138",
-    "titulo": "Jogos Ps4/Ps5",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps5",
+    "id": "1504685035",
+    "titulo": "Spider-Man - Jogo para PS4 ",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "19:09",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "descricao": "",
-    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/jogos-ps4-ps5-1504685138",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/spider-man-jogo-para-ps4-1504685035",
+    "fotoUrl": "https://img.olx.com.br/images/62/629690526273363.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/629690526273363.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779660578
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "19:09",
     "fotoUrl": "https://img.olx.com.br/images/51/518677162380206.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/518677162380206.jpg"
     ],
-    "defeito": false,
+    "id": "1504685138",
+    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/jogos-ps4-ps5-1504685138",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Jogos Ps4/Ps5",
     "ts": 1779660566
   },
   {
@@ -9917,27 +9935,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "Jogo Detroit PS4",
     "ts": 1779571219
-  },
-  {
-    "categoria": "switch",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:18",
-    "fotoUrl": "https://img.olx.com.br/images/95/952631754856899.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/952631754856899.jpg",
-      "https://img.olx.com.br/images/96/966624519267260.jpg",
-      "https://img.olx.com.br/images/98/987637153676736.jpg",
-      "https://img.olx.com.br/images/10/100680275779508.jpg",
-      "https://img.olx.com.br/images/11/118602158324251.jpg"
-    ],
-    "id": "1497617264",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/switch-oled-1497617264",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2014",
-    "titulo": "Switch OLED",
-    "ts": 1779571131
   }
 ]
