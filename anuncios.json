@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504587031",
-    "titulo": "Xbox Series S",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "xbox",
+    "id": "1504588575",
+    "titulo": "Jogo de ps4 crash bandicoot n sane trilogy",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:42",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "10:43",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1504587031",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-de-ps4-crash-bandicoot-n-sane-trilogy-1504588575",
+    "fotoUrl": "https://img.olx.com.br/images/15/158653166414670.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/15/158653166414670.jpg",
+      "https://img.olx.com.br/images/17/171627523862212.jpg",
+      "https://img.olx.com.br/images/19/192656527109179.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779630197
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:42",
     "fotoUrl": "https://img.olx.com.br/images/32/328659525665184.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/328659525665184.jpg"
     ],
-    "defeito": false,
+    "id": "1504587031",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1504587031",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Xbox Series S",
     "ts": 1779630167
   },
   {
@@ -9849,24 +9869,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Jogo Monster Hunter World | PS4 | Japones e Completo",
     "ts": 1779552764
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "13:12",
-    "fotoUrl": "https://img.olx.com.br/images/43/432600361952355.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/432600361952355.jpg",
-      "https://img.olx.com.br/images/59/590622722227660.jpg"
-    ],
-    "id": "1461379797",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/among-us-crewmate-edition-ps4-edicao-especial-para-colecionadores-novo-e-lacrado-1461379797",
-    "preco": 199,
-    "precoRaw": "R$ 199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Among Us Crewmate Edition - PS4 Edição Especial para Colecionadores Novo e Lacrado",
-    "ts": 1779552754
   }
 ]
