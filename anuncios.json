@@ -1,20 +1,43 @@
 [
   {
-    "id": "1504538950",
-    "titulo": "Play station 4 Fat",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "outros",
+    "id": "1504025533",
+    "titulo": "Xbox séries S ",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "22:22",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "22:25",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/play-station-4-fat-1504538950",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1504025533",
+    "fotoUrl": "https://img.olx.com.br/images/24/242636169180824.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/242636169180824.jpg",
+      "https://img.olx.com.br/images/25/259606525816895.jpg",
+      "https://img.olx.com.br/images/26/269639643128771.jpg",
+      "https://img.olx.com.br/images/27/270661522788689.jpg",
+      "https://img.olx.com.br/images/28/284662165619380.jpg",
+      "https://img.olx.com.br/images/29/297628762858090.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779585923
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:22",
     "fotoUrl": "https://img.olx.com.br/images/51/513689400255825.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/513689400255825.jpg"
     ],
-    "defeito": false,
+    "id": "1504538950",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/play-station-4-fat-1504538950",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Play station 4 Fat",
     "ts": 1779585746
   },
   {
@@ -9846,25 +9869,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Vendo/troco iPhone 16 Pro Max ",
     "ts": 1779542718
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:24",
-    "fotoUrl": "https://img.olx.com.br/images/77/770470268255536.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/770470268255536.jpg",
-      "https://img.olx.com.br/images/77/776413147291053.jpg",
-      "https://img.olx.com.br/images/77/774428267734193.jpg"
-    ],
-    "id": "1290163449",
-    "link": "https://ba.olx.com.br/regiao-de-juazeiro-e-jacobina/games/jogos-de-video-game/ratchet-clank-ps4-1290163449",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2015",
-    "titulo": "Ratchet Clank- PS4",
-    "ts": 1779542681
   }
 ]
