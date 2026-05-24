@@ -1,21 +1,40 @@
 [
   {
-    "id": "1486590646",
-    "titulo": "Spider-Man GOTY",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "jogos",
+    "id": "1486592453",
+    "titulo": "Days Gone - Jogado uma vez",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:27",
     "tempoOlx": "Na OLX desde março de 2026",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/spider-man-goty-1486590646",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/days-gone-jogado-uma-vez-1486592453",
+    "fotoUrl": "https://img.olx.com.br/images/54/549690267604792.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/549690267604792.jpg",
+      "https://img.olx.com.br/images/54/547672507697224.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779665257
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "20:27",
     "fotoUrl": "https://img.olx.com.br/images/89/892685861829166.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/892685861829166.jpg",
       "https://img.olx.com.br/images/89/890652147952657.jpg"
     ],
-    "defeito": false,
+    "id": "1486590646",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/spider-man-goty-1486590646",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Spider-Man GOTY",
     "ts": 1779665247
   },
   {
@@ -9934,24 +9953,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "iPhone 13 128GB Meia Noite",
     "ts": 1779573229
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:50",
-    "fotoUrl": "https://img.olx.com.br/images/81/817629887875735.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/817629887875735.jpg",
-      "https://img.olx.com.br/images/83/834682766833293.jpg"
-    ],
-    "id": "1504509192",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/pes-2021-ps4-fisico-em-otimo-estado-1504509192",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2021",
-    "titulo": "PES 2021 PS4 FÍSICO EM ÓTIMO ESTADO! ",
-    "ts": 1779573057
   }
 ]
