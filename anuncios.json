@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504598598",
-    "titulo": "JOGO SUPER MARIO 3D WORD NINTENDO SWITCH",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "switch",
+    "id": "1504596420",
+    "titulo": "Farcry 4, Playstation 4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:30",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "11:31",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/jogo-super-mario-3d-word-nintendo-switch-1504598598",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/farcry-4-playstation-4-1504596420",
+    "fotoUrl": "https://img.olx.com.br/images/64/642604280575391.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/642604280575391.jpg",
+      "https://img.olx.com.br/images/69/691617405010568.jpg",
+      "https://img.olx.com.br/images/72/726696529933121.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779633107
+  },
+  {
+    "categoria": "switch",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:30",
     "fotoUrl": "https://img.olx.com.br/images/25/255690169205825.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/255690169205825.jpg",
       "https://img.olx.com.br/images/50/506615649235832.jpg",
       "https://img.olx.com.br/images/52/526619766329478.jpg"
     ],
-    "defeito": false,
+    "id": "1504598598",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/jogo-super-mario-3d-word-nintendo-switch-1504598598",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "JOGO SUPER MARIO 3D WORD NINTENDO SWITCH",
     "ts": 1779633047
   },
   {
@@ -9852,25 +9872,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Yakuza Remastered Collection - PS4",
     "ts": 1779556728
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:17",
-    "fotoUrl": "https://img.olx.com.br/images/16/164613889654788.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/164613889654788.jpg",
-      "https://img.olx.com.br/images/19/192660769499661.jpg",
-      "https://img.olx.com.br/images/21/216669884223999.jpg"
-    ],
-    "id": "1502558617",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-vr2-base-pulse-3d-headset-sem-fio-1502558617",
-    "preco": 2399,
-    "precoRaw": "R$ 2.399",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "PlayStation VR2 + base + PULSE 3D Headset sem fio",
-    "ts": 1779556678
   }
 ]
