@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504530736",
-    "titulo": "Jogos Digitais PlayStation",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "categoria": "outros",
+    "id": "1504531866",
+    "titulo": "Jogos de PS4 (a partir de 50$)",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:14",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "detectado": "21:19",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "descricao": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-digitais-playstation-1504530736",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-de-ps4-a-partir-de-50-1504531866",
+    "fotoUrl": "https://img.olx.com.br/images/34/344602649180535.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/344602649180535.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779581999
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:14",
     "fotoUrl": "https://img.olx.com.br/images/75/756615283937215.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/756615283937215.jpg",
@@ -19,7 +31,13 @@
       "https://img.olx.com.br/images/79/791662768238164.jpg",
       "https://img.olx.com.br/images/80/809621408013621.jpg"
     ],
-    "defeito": false,
+    "id": "1504530736",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-digitais-playstation-1504530736",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "Jogos Digitais PlayStation",
     "ts": 1779581698
   },
   {
@@ -9844,26 +9862,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "THE LAST OF US - PS4",
     "ts": 1779541683
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:07",
-    "fotoUrl": "https://img.olx.com.br/images/65/659532681754422.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/659532681754422.jpg",
-      "https://img.olx.com.br/images/68/685552200202047.jpg",
-      "https://img.olx.com.br/images/71/716528569716698.jpg",
-      "https://img.olx.com.br/images/73/733501681336673.jpg"
-    ],
-    "id": "1437802570",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/god-of-war-ragnarok-ps4-ps5-1437802570",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "GOD OF WAR RAGNAROK - PS4 / PS5",
-    "ts": 1779541674
   }
 ]
