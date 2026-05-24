@@ -1,21 +1,40 @@
 [
   {
-    "id": "1334066366",
-    "titulo": "FIFA 14 PS4",
-    "preco": 160,
-    "precoRaw": "R$ 160",
+    "id": "1334071448",
+    "titulo": "Jogo Far Cry 4 PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:13",
     "tempoOlx": "Na OLX desde setembro de 2015",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-14-ps4-1334066366",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-far-cry-4-ps4-1334071448",
+    "fotoUrl": "https://img.olx.com.br/images/22/221505911071416.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/221505911071416.jpg",
+      "https://img.olx.com.br/images/24/244581430957032.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779657217
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:13",
     "fotoUrl": "https://img.olx.com.br/images/98/982612242410892.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/982612242410892.jpg",
       "https://img.olx.com.br/images/98/982688369872529.jpg"
     ],
-    "defeito": false,
+    "id": "1334066366",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-14-ps4-1334066366",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "FIFA 14 PS4",
     "ts": 1779657209
   },
   {
@@ -9924,26 +9943,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PlayStation 4",
     "ts": 1779564526
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "16:28",
-    "fotoUrl": "https://img.olx.com.br/images/18/187626142286233.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/187626142286233.jpg",
-      "https://img.olx.com.br/images/18/188677743863317.jpg",
-      "https://img.olx.com.br/images/18/189610622255969.jpg",
-      "https://img.olx.com.br/images/18/187644503215440.jpg"
-    ],
-    "id": "1488002298",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-order-1886-ps4-ps5-playstation-4-playstation-5-1488002298",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "The Order: 1886 - PS4/PS5 - Playstation 4/Playstation 5",
-    "ts": 1779564483
   }
 ]
