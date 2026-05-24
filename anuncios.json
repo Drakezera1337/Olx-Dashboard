@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504562195",
-    "titulo": "XBOX ",
-    "preco": 700,
-    "precoRaw": "R$ 700",
-    "categoria": "xbox",
+    "id": "1504581001",
+    "titulo": "Indiana Jones 2 Lego ps3",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "10:16",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "10:17",
+    "tempoOlx": "Na OLX desde junho de 2019",
     "descricao": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-1504562195",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/indiana-jones-2-lego-ps3-1504581001",
+    "fotoUrl": "https://img.olx.com.br/images/80/802698523295204.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/802698523295204.jpg",
+      "https://img.olx.com.br/images/82/828687523495990.jpg",
+      "https://img.olx.com.br/images/83/830671282239351.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779628626
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "10:16",
     "fotoUrl": "https://img.olx.com.br/images/46/464666288883569.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/464666288883569.jpg",
       "https://img.olx.com.br/images/38/382694645457470.jpg"
     ],
-    "defeito": false,
+    "id": "1504562195",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-1504562195",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "XBOX ",
     "ts": 1779628614
   },
   {
@@ -9834,26 +9854,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Destroy All Humans PS4 - Lacrado de fábrica",
     "ts": 1779547034
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:37",
-    "fotoUrl": "https://img.olx.com.br/images/43/437604409236490.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/437604409236490.jpg",
-      "https://img.olx.com.br/images/43/437620765000967.jpg",
-      "https://img.olx.com.br/images/43/433660523957724.jpg",
-      "https://img.olx.com.br/images/43/433624162723281.jpg"
-    ],
-    "id": "1504417212",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/jogos-de-ps4-e-ps5-leia-a-descricao-1504417212",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2016",
-    "titulo": "Jogos de PS4 e PS5 (Leia a descrição)",
-    "ts": 1779547024
   }
 ]
