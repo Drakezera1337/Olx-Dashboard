@@ -1,21 +1,62 @@
 [
   {
-    "id": "1504595583",
-    "titulo": "Ps5 Playstation Slim 2 controle 2 meses de uso",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1504597021",
+    "titulo": "Nintendo switch ",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "11:21",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "11:24",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-playstation-slim-2-controle-2-meses-de-uso-1504595583",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-1504597021",
+    "fotoUrl": "https://img.olx.com.br/images/96/967605641705714.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/967605641705714.jpg",
+      "https://img.olx.com.br/images/97/978665641822109.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779632687
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:21",
+    "fotoUrl": "https://img.olx.com.br/images/12/124690763374059.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/124690763374059.jpg",
+      "https://img.olx.com.br/images/14/146685520259287.jpg",
+      "https://img.olx.com.br/images/15/151635760360723.jpg",
+      "https://img.olx.com.br/images/16/168629164126462.jpg",
+      "https://img.olx.com.br/images/17/177634527996430.jpg"
+    ],
+    "id": "1504597116",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-pro-max-1504597116",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "iPhone 11 pro Max",
+    "ts": 1779632508
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "11:21",
     "fotoUrl": "https://img.olx.com.br/images/78/781642164296257.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/781642164296257.jpg",
       "https://img.olx.com.br/images/79/796643409842503.jpg"
     ],
-    "defeito": false,
+    "id": "1504595583",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-playstation-slim-2-controle-2-meses-de-uso-1504595583",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps5 Playstation Slim 2 controle 2 meses de uso",
     "ts": 1779632507
   },
   {
@@ -9831,44 +9872,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Ps4 slim 1TB",
     "ts": 1779556415
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:13",
-    "fotoUrl": "https://img.olx.com.br/images/76/768631764313714.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/768631764313714.jpg",
-      "https://img.olx.com.br/images/77/776664760668285.jpg"
-    ],
-    "id": "1504453785",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/yakuza-kiwami-1504453785",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Yakuza Kiwami ",
-    "ts": 1779556408
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "14:13",
-    "fotoUrl": "https://img.olx.com.br/images/95/952611527085014.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/952611527085014.jpg",
-      "https://img.olx.com.br/images/96/965668046962741.jpg",
-      "https://img.olx.com.br/images/98/981688763409310.jpg"
-    ],
-    "id": "1504454019",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/has-been-heroes-ps4-1504454019",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2014",
-    "titulo": "Has Been Heroes PS4",
-    "ts": 1779556398
   }
 ]
