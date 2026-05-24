@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504682388",
-    "titulo": "F1 24 - PlayStation 5",
-    "preco": 299,
-    "precoRaw": "R$ 299",
-    "categoria": "ps5",
+    "id": "1504682224",
+    "titulo": "Call of Duty Advanced Warfare PS4 (faço envio)",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:49",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "18:51",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "descricao": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/f1-24-playstation-5-1504682388",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/call-of-duty-advanced-warfare-ps4-faco-envio-1504682224",
+    "fotoUrl": "https://img.olx.com.br/images/97/973613286060742.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/973613286060742.jpg",
+      "https://img.olx.com.br/images/99/999627767112408.jpg",
+      "https://img.olx.com.br/images/11/118656763026660.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779659478
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:49",
     "fotoUrl": "https://img.olx.com.br/images/13/134652046956585.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/134652046956585.jpg",
       "https://img.olx.com.br/images/14/149674522781186.jpg"
     ],
-    "defeito": false,
+    "id": "1504682388",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/f1-24-playstation-5-1504682388",
+    "preco": 299,
+    "precoRaw": "R$ 299",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "F1 24 - PlayStation 5",
     "ts": 1779659358
   },
   {
@@ -9930,23 +9950,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Xbox Serie S com um controle",
     "ts": 1779570378
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:03",
-    "fotoUrl": "https://img.olx.com.br/images/40/401696886693783.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/401696886693783.jpg"
-    ],
-    "id": "1504497332",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/vendo-ps5-semi-novo-1504497332",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2021",
-    "titulo": "Vendo ps5 semi novo",
-    "ts": 1779570226
   }
 ]
