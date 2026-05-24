@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504666451",
-    "titulo": "Controle dualsense edge PS4/PS5",
-    "preco": 105,
-    "precoRaw": "R$ 105",
-    "categoria": "ps5",
+    "id": "1504665101",
+    "titulo": "Ps4 com defeito",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:05",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "descricao": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/controle-dualsense-edge-ps4-ps5-1504666451",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-com-defeito-1504665101",
+    "fotoUrl": "https://img.olx.com.br/images/22/224681401671115.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/224681401671115.jpg",
+      "https://img.olx.com.br/images/23/237670289945511.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779656718
+  },
+  {
+    "categoria": "ps5",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:05",
     "fotoUrl": "https://img.olx.com.br/images/27/274677282663482.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/274677282663482.jpg",
@@ -17,7 +30,13 @@
       "https://img.olx.com.br/images/29/296609762254863.jpg",
       "https://img.olx.com.br/images/31/311647766128117.jpg"
     ],
-    "defeito": false,
+    "id": "1504666451",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/controle-dualsense-edge-ps4-ps5-1504666451",
+    "preco": 105,
+    "precoRaw": "R$ 105",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "Controle dualsense edge PS4/PS5",
     "ts": 1779656711
   },
   {
@@ -9884,25 +9903,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "Jogo PS4 Spider Man",
     "ts": 1779559415
-  },
-  {
-    "categoria": "jogos",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "15:03",
-    "fotoUrl": "https://img.olx.com.br/images/87/877613641003831.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/877613641003831.jpg",
-      "https://img.olx.com.br/images/89/890622046168967.jpg",
-      "https://img.olx.com.br/images/91/918622164774635.jpg"
-    ],
-    "id": "1504462844",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/god-of-war-iii-remasterizado-1504462844",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "God of war III Remasterizado",
-    "ts": 1779559407
   }
 ]
