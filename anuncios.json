@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504678593",
-    "titulo": "Play 4 completo ",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "outros",
+    "id": "1504678710",
+    "titulo": "Ps4",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:35",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "tempoOlx": "Na OLX desde junho de 2021",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-4-completo-1504678593",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-1504678710",
+    "fotoUrl": "https://img.olx.com.br/images/29/295677523272322.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/295677523272322.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779658522
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "18:35",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1504678593",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-4-completo-1504678593",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Play 4 completo ",
     "ts": 1779658516
   },
   {
@@ -9930,24 +9948,5 @@
     "tempoOlx": "Na OLX desde agosto de 2024",
     "titulo": "Fifa 19 novo",
     "ts": 1779569449
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "17:45",
-    "fotoUrl": "https://img.olx.com.br/images/72/723629767341464.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/723629767341464.jpg",
-      "https://img.olx.com.br/images/73/735614408063707.jpg"
-    ],
-    "id": "1504493678",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ratchet-clank-ps4-lacrado-1504493678",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2018",
-    "titulo": "ratchet clank ps4 - (lacrado)",
-    "ts": 1779569142
   }
 ]
