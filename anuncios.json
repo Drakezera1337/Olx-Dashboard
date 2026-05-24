@@ -1,15 +1,28 @@
 [
   {
-    "id": "1504536750",
-    "titulo": "iPhone 12 64gb",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1504537911",
+    "titulo": "8 jogos de PS4",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:57",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "detectado": "22:07",
+    "tempoOlx": "Na OLX desde outubro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1504536750",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/8-jogos-de-ps4-1504537911",
+    "fotoUrl": "https://img.olx.com.br/images/92/920642284684935.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/920642284684935.jpg",
+      "https://img.olx.com.br/images/94/946633042608517.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779584877
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:57",
     "fotoUrl": "https://img.olx.com.br/images/50/502629166175821.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/502629166175821.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/56/562672649252955.jpg",
       "https://img.olx.com.br/images/58/582616643688100.jpg"
     ],
-    "defeito": false,
+    "id": "1504536750",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1504536750",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "iPhone 12 64gb",
     "ts": 1779584244
   },
   {
@@ -9850,23 +9869,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Promoção Jogo Mortal Kombat XL PS4( ACEITO CREDISHOP)",
     "ts": 1779542355
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:19",
-    "fotoUrl": "https://img.olx.com.br/images/32/326624159440028.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/326624159440028.jpg"
-    ],
-    "id": "1496142503",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/promocao-jogo-one-piece-burning-blood-ps4-aceito-credishop-1496142503",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Promoção Jogo One Piece Burning Blood PS4( ACEITO CREDISHOP)",
-    "ts": 1779542347
   }
 ]
