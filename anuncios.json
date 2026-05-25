@@ -1,23 +1,43 @@
 [
   {
-    "id": "1504917987",
-    "titulo": "PS4 1T em perfeito estado",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1504917980",
+    "titulo": "Street fighter 6",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "17:13",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde março de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1t-em-perfeito-estado-1504917987",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/street-fighter-6-1504917980",
+    "fotoUrl": "https://img.olx.com.br/images/64/644623523676160.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/644623523676160.jpg",
+      "https://img.olx.com.br/images/65/657682523064021.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779739994
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:13",
     "fotoUrl": "https://img.olx.com.br/images/19/191625529061326.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/191625529061326.jpg",
       "https://img.olx.com.br/images/20/209634164171354.jpg",
       "https://img.olx.com.br/images/22/228656160690109.jpg"
     ],
-    "defeito": false,
+    "id": "1504917987",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1t-em-perfeito-estado-1504917987",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4 1T em perfeito estado",
     "ts": 1779739986
   },
   {
@@ -10371,24 +10391,5 @@
     "tempoOlx": "Na OLX desde março de 2013",
     "titulo": "XBOX ONE S com dois controles originais, 500 GB. Veja na descrição!",
     "ts": 1779715491
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:24",
-    "fotoUrl": "https://img.olx.com.br/images/17/172629041267132.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/172629041267132.jpg"
-    ],
-    "id": "1504793743",
-    "link": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/vendo-xbox-serie-s-512-gb-ssd-1504793743",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Vendo Xbox série S 512 GB SSD",
-    "ts": 1779715483
   }
 ]
