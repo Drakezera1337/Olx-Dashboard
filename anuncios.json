@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504829319",
-    "titulo": "Ps4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1504866194",
+    "titulo": "Nintendo Switch OLED desbloqueado ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "14:09",
-    "tempoOlx": "Na OLX desde outubro de 2013",
+    "detectado": "14:10",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-oled-desbloqueado-1504866194",
+    "fotoUrl": "https://img.olx.com.br/images/81/811685283629676.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/811685283629676.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779729003
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/ps4-1504829319",
+    "defeito": false,
+    "detectado": "14:09",
     "fotoUrl": "https://img.olx.com.br/images/87/874607640853914.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/874607640853914.jpg",
       "https://img.olx.com.br/images/87/874677885179722.jpg"
     ],
-    "defeito": false,
+    "id": "1504829319",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/ps4-1504829319",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2013",
+    "titulo": "Ps4",
     "ts": 1779728995
   },
   {
@@ -10388,29 +10407,5 @@
     "tempoOlx": "",
     "titulo": "Caixa manual e berço Nintendo Switch Lite Grey",
     "ts": 1779678186
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:02",
-    "fotoUrl": "https://img.olx.com.br/images/17/177662281392598.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/177662281392598.jpg",
-      "https://img.olx.com.br/images/18/189677285947056.jpg",
-      "https://img.olx.com.br/images/20/206663280433323.jpg",
-      "https://img.olx.com.br/images/21/219680645677447.jpg",
-      "https://img.olx.com.br/images/23/232659646030866.jpg",
-      "https://img.olx.com.br/images/24/241669526365778.jpg"
-    ],
-    "id": "1504547235",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-desbioqueado-completo-1504547235",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Playstation 3 DesbIoqueado Completo ",
-    "ts": 1779678163
   }
 ]
