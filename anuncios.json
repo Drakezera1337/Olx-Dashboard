@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504944737",
-    "titulo": "Jogos de ps4 ",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "categoria": "ps4",
+    "id": "1504944250",
+    "titulo": "The Last of Us Parte 1 e Parte 2",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "18:46",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde março de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1504944737",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/the-last-of-us-parte-1-e-parte-2-1504944250",
+    "fotoUrl": "https://img.olx.com.br/images/78/789661762165417.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/789661762165417.jpg",
+      "https://img.olx.com.br/images/78/783601280694104.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779745602
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:46",
     "fotoUrl": "https://img.olx.com.br/images/11/111695760065146.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/111695760065146.jpg"
     ],
-    "defeito": false,
+    "id": "1504944737",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1504944737",
+    "preco": 69,
+    "precoRaw": "R$ 69",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Jogos de ps4 ",
     "ts": 1779745594
   },
   {
@@ -10330,26 +10350,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "The Order 1886 Ps4",
     "ts": 1779716145
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:35",
-    "fotoUrl": "https://img.olx.com.br/images/72/721670761259817.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/721670761259817.jpg",
-      "https://img.olx.com.br/images/74/746667769398484.jpg",
-      "https://img.olx.com.br/images/75/755690764997584.jpg"
-    ],
-    "id": "1504795937",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/ps4-slim-2-controles-15-jogos-1504795937",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4 Slim + 2 Controles + 15 jogos ",
-    "ts": 1779716134
   }
 ]
