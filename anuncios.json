@@ -1,21 +1,40 @@
 [
   {
-    "id": "1504609667",
-    "titulo": "Lote de jogos 400R$",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "outros",
+    "id": "1504428036",
+    "titulo": "Jogo para ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:40",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/lote-de-jogos-400r-1504609667",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogo-para-ps4-1504428036",
+    "fotoUrl": "https://img.olx.com.br/images/47/473639406268646.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/473639406268646.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779716414
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:40",
     "fotoUrl": "https://img.olx.com.br/images/74/745691880949779.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/745691880949779.jpg"
     ],
-    "defeito": false,
+    "id": "1504609667",
+    "link": "https://to.olx.com.br/tocantins/games/jogos-de-video-game/lote-de-jogos-400r-1504609667",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Lote de jogos 400R$",
     "ts": 1779716407
   },
   {
@@ -10217,27 +10236,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Xbox Series S SSD de 512GB",
     "ts": 1779656983
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:09",
-    "fotoUrl": "https://img.olx.com.br/images/83/837666166686049.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/837666166686049.jpg",
-      "https://img.olx.com.br/images/87/871642643560411.jpg",
-      "https://img.olx.com.br/images/92/922637764043536.jpg",
-      "https://img.olx.com.br/images/97/979657168618234.jpg",
-      "https://img.olx.com.br/images/11/118601881785078.jpg"
-    ],
-    "id": "1504667438",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-1tb-1504667438",
-    "preco": 1599,
-    "precoRaw": "R$ 1.599",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Ps4 Slim 1TB ",
-    "ts": 1779656976
   }
 ]
