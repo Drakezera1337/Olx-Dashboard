@@ -1,16 +1,32 @@
 [
   {
-    "id": "1504171521",
-    "titulo": "Jogo PS4 Farcry 4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1504179288",
+    "titulo": "The Witcher 3 ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "10:34",
     "tempoOlx": "Na OLX desde abril de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/jogo-ps4-farcry-4-1504171521",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/the-witcher-3-1504179288",
+    "fotoUrl": "https://img.olx.com.br/images/18/180662402488993.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/180662402488993.jpg",
+      "https://img.olx.com.br/images/51/513602042743878.jpg",
+      "https://img.olx.com.br/images/78/789692045649394.jpg",
+      "https://img.olx.com.br/images/27/273662400086248.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779716073
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:34",
     "fotoUrl": "https://img.olx.com.br/images/24/241608642131361.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/241608642131361.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/27/273658761232127.jpg",
       "https://img.olx.com.br/images/28/282656040908472.jpg"
     ],
-    "defeito": false,
+    "id": "1504171521",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/jogo-ps4-farcry-4-1504171521",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Jogo PS4 Farcry 4",
     "ts": 1779716066
   },
   {
@@ -10206,24 +10228,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Jogo Dying Light The Following PS4",
     "ts": 1779656725
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:05",
-    "fotoUrl": "https://img.olx.com.br/images/22/224681401671115.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/224681401671115.jpg",
-      "https://img.olx.com.br/images/23/237670289945511.jpg"
-    ],
-    "id": "1504665101",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-com-defeito-1504665101",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "Ps4 com defeito",
-    "ts": 1779656718
   }
 ]
