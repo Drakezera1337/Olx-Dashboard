@@ -1,15 +1,27 @@
 [
   {
-    "id": "1504704305",
-    "titulo": "Lote de jogos PlayStation 3 - 8 jogos",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps3",
+    "id": "1504704325",
+    "titulo": "The Last of us parte 1 ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "21:09",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "tempoOlx": "Na OLX desde novembro de 2018",
     "descricao": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/lote-de-jogos-playstation-3-8-jogos-1504704305",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-parte-1-1504704325",
+    "fotoUrl": "https://img.olx.com.br/images/27/271676888068748.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/271676888068748.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779667766
+  },
+  {
+    "categoria": "ps3",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:09",
     "fotoUrl": "https://img.olx.com.br/images/83/839643885981366.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/839643885981366.jpg",
@@ -18,7 +30,13 @@
       "https://img.olx.com.br/images/88/888676169756888.jpg",
       "https://img.olx.com.br/images/89/891652166692881.jpg"
     ],
-    "defeito": false,
+    "id": "1504704305",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/jogos-de-video-game/lote-de-jogos-playstation-3-8-jogos-1504704305",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "titulo": "Lote de jogos PlayStation 3 - 8 jogos",
     "ts": 1779667758
   },
   {
@@ -9915,26 +9933,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "Until Dawn PS4 - Jogo de Terror Interativo",
     "ts": 1779575976
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:39",
-    "fotoUrl": "https://img.olx.com.br/images/26/267670145883901.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/267670145883901.jpg",
-      "https://img.olx.com.br/images/28/289634269727103.jpg",
-      "https://img.olx.com.br/images/31/315628025301723.jpg",
-      "https://img.olx.com.br/images/33/330636145661912.jpg"
-    ],
-    "id": "1484692333",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ratchet-clank-ps4-aventura-e-acao-otimo-estado-1484692333",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Ratchet & Clank PS4 - Aventura e Ação | Ótimo Estado",
-    "ts": 1779575967
   }
 ]
