@@ -1,36 +1,53 @@
 [
   {
-    "id": "1504960193",
-    "titulo": "Ps4 ",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "ps4",
+    "id": "1504963388",
+    "titulo": "PS5 ",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "19:45",
+    "detectado": "20:17",
     "tempoOlx": "",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1504960193",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps5-1504963388",
+    "fotoUrl": "https://img.olx.com.br/images/60/605643768022733.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/605643768022733.jpg",
+      "https://img.olx.com.br/images/61/611658405232434.jpg",
+      "https://img.olx.com.br/images/62/620696888611688.jpg",
+      "https://img.olx.com.br/images/63/637629166003966.jpg",
+      "https://img.olx.com.br/images/65/650625169389343.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779751023
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:45",
     "fotoUrl": "https://img.olx.com.br/images/31/314666649089395.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/314666649089395.jpg",
       "https://img.olx.com.br/images/34/346627766161716.jpg"
     ],
-    "defeito": false,
+    "id": "1504960193",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1504960193",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 ",
     "ts": 1779749148
   },
   {
-    "id": "1504960197",
-    "titulo": "PS4 Fat 500GB",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
-    "publicado": "",
-    "detectado": "19:45",
-    "tempoOlx": "",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1504960197",
+    "defeito": false,
+    "detectado": "19:45",
     "fotoUrl": "https://img.olx.com.br/images/29/294651760792346.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/294651760792346.jpg",
@@ -40,7 +57,13 @@
       "https://img.olx.com.br/images/35/351684524795767.jpg",
       "https://img.olx.com.br/images/36/364675762995381.jpg"
     ],
-    "defeito": false,
+    "id": "1504960197",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1504960197",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PS4 Fat 500GB",
     "ts": 1779749148
   },
   {
@@ -10374,26 +10397,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation 3 FAT  Original ",
     "ts": 1779717753
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:02",
-    "fotoUrl": "https://img.olx.com.br/images/90/909605127278368.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/909605127278368.jpg",
-      "https://img.olx.com.br/images/92/924625247118424.jpg",
-      "https://img.olx.com.br/images/94/942620483182423.jpg"
-    ],
-    "id": "1470222469",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-s-all-digital-edition-1681-excelente-1470222469",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox S ALL Digital Edition 1681 excelente",
-    "ts": 1779717739
   }
 ]
