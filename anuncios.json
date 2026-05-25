@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504705999",
-    "titulo": "iPhone 12 128gb Vermelho",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "categoria": "iphone",
+    "id": "1504707330",
+    "titulo": "PLAYSTATION 3 DESBLOQUEADO (leia descrição)",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "21:23",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "detectado": "21:27",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "descricao": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-vermelho-1504705999",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-desbloqueado-leia-descricao-1504707330",
+    "fotoUrl": "https://img.olx.com.br/images/27/273617169516023.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/273617169516023.jpg",
+      "https://img.olx.com.br/images/29/295672886932224.jpg",
+      "https://img.olx.com.br/images/30/301665282789803.jpg",
+      "https://img.olx.com.br/images/32/321697167697031.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779668838
+  },
+  {
+    "categoria": "iphone",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:23",
     "fotoUrl": "https://img.olx.com.br/images/79/799629644494846.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/799629644494846.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/15/153664045559132.jpg",
       "https://img.olx.com.br/images/17/174647287608169.jpg"
     ],
-    "defeito": false,
+    "id": "1504705999",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-vermelho-1504705999",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "iPhone 12 128gb Vermelho",
     "ts": 1779668629
   },
   {
@@ -9925,26 +9946,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "GTA 5 PS4",
     "ts": 1779577719
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:05",
-    "fotoUrl": "https://img.olx.com.br/images/22/227657529188349.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/227657529188349.jpg",
-      "https://img.olx.com.br/images/23/234635760952768.jpg",
-      "https://img.olx.com.br/images/25/255612405962545.jpg",
-      "https://img.olx.com.br/images/26/262691648218598.jpg"
-    ],
-    "id": "1504522064",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/jogo-ps3-nier-1504522064",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Jogo ps3 Nier ",
-    "ts": 1779577550
   }
 ]
