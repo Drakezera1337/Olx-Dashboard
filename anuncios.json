@@ -1,21 +1,40 @@
 [
   {
-    "id": "1504870876",
-    "titulo": "3 por 100",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1305588040",
+    "titulo": "outriders - playstation 4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "14:27",
-    "tempoOlx": "Na OLX desde março de 2017",
+    "tempoOlx": "Na OLX desde fevereiro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/3-por-100-1504870876",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/outriders-playstation-4-1305588040",
+    "fotoUrl": "https://img.olx.com.br/images/87/875499768882929.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/875499768882929.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779730055
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:27",
     "fotoUrl": "https://img.olx.com.br/images/56/562633287061191.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/562633287061191.jpg"
     ],
-    "defeito": false,
+    "id": "1504870876",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/3-por-100-1504870876",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "3 por 100",
     "ts": 1779730048
   },
   {
@@ -10369,28 +10388,5 @@
     "tempoOlx": "",
     "titulo": "Nitendo swich OLED com (super mario wonder) com 1 mês de uso pelo valor de: 2.400*",
     "ts": 1779678250
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:03",
-    "fotoUrl": "https://img.olx.com.br/images/14/142677041300350.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/142677041300350.jpg",
-      "https://img.olx.com.br/images/15/152655648311601.jpg",
-      "https://img.olx.com.br/images/16/162620646969659.jpg",
-      "https://img.olx.com.br/images/17/176613640204492.jpg",
-      "https://img.olx.com.br/images/18/185693284268536.jpg"
-    ],
-    "id": "1504303365",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1504303365",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox séries s ",
-    "ts": 1779678236
   }
 ]
