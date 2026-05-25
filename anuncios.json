@@ -1,22 +1,43 @@
 [
   {
-    "id": "1503171321",
-    "titulo": "Iphone15 pro - 256GB",
-    "preco": 3999,
-    "precoRaw": "R$ 3.999",
-    "categoria": "iphone",
+    "id": "1496580991",
+    "titulo": "Star Wars Battlefront ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:53",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "detectado": "11:56",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/star-wars-battlefront-ps4-1496580991",
+    "fotoUrl": "https://img.olx.com.br/images/25/255687272992340.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/25/255687272992340.jpg",
+      "https://img.olx.com.br/images/27/275691634383617.jpg",
+      "https://img.olx.com.br/images/29/293697631756458.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779720970
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone15-pro-256gb-1503171321",
+    "defeito": false,
+    "detectado": "11:53",
     "fotoUrl": "https://img.olx.com.br/images/87/875657167339026.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/875657167339026.jpg",
       "https://img.olx.com.br/images/88/880638403454579.jpg"
     ],
-    "defeito": false,
+    "id": "1503171321",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone15-pro-256gb-1503171321",
+    "preco": 3999,
+    "precoRaw": "R$ 3.999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "Iphone15 pro - 256GB",
     "ts": 1779720788
   },
   {
@@ -10404,26 +10425,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Star Wars Battlefront 2 PS4 ",
     "ts": 1779672138
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:20",
-    "fotoUrl": "https://img.olx.com.br/images/96/960626640997737.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/960626640997737.jpg",
-      "https://img.olx.com.br/images/98/989672286390475.jpg",
-      "https://img.olx.com.br/images/99/997657646880590.jpg",
-      "https://img.olx.com.br/images/11/110654284783369.jpg"
-    ],
-    "id": "1504715337",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/controle-ps5-1504715337",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2021",
-    "titulo": "CONTROLE PS5",
-    "ts": 1779672018
   }
 ]
