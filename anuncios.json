@@ -1,23 +1,42 @@
 [
   {
-    "id": "1499906688",
-    "titulo": "Xbox",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "xbox",
+    "id": "1504668843",
+    "titulo": "JOGO PS4-  Horizon zero down",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:31",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "detectado": "11:33",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-1499906688",
+    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/jogos-de-video-game/jogo-ps4-horizon-zero-down-1504668843",
+    "fotoUrl": "https://img.olx.com.br/images/44/444646522734480.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/444646522734480.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779719589
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:31",
     "fotoUrl": "https://img.olx.com.br/images/80/803606764484148.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/803606764484148.jpg",
       "https://img.olx.com.br/images/81/818625285708105.jpg",
       "https://img.olx.com.br/images/83/830694883182135.jpg"
     ],
-    "defeito": false,
+    "id": "1499906688",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-1499906688",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "Xbox",
     "ts": 1779719499
   },
   {
@@ -10387,24 +10406,5 @@
     "tempoOlx": "Na OLX desde maio de 2018",
     "titulo": "Ps3 leia o anúncio ",
     "ts": 1779667143
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:58",
-    "fotoUrl": "https://img.olx.com.br/images/51/514669043641241.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/514669043641241.jpg",
-      "https://img.olx.com.br/images/50/502683289410951.jpg"
-    ],
-    "id": "1504702847",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-fat-1504702847",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2018",
-    "titulo": "Ps4 fat",
-    "ts": 1779667135
   }
 ]
