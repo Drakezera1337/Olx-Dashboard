@@ -1,20 +1,41 @@
 [
   {
-    "id": "1504714729",
-    "titulo": "Jogos Play 04",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "outros",
+    "id": "1504715337",
+    "titulo": "CONTROLE PS5",
+    "preco": 260,
+    "precoRaw": "R$ 260",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "22:16",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "22:20",
+    "tempoOlx": "Na OLX desde outubro de 2021",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-play-04-1504714729",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/controle-ps5-1504715337",
+    "fotoUrl": "https://img.olx.com.br/images/96/960626640997737.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/960626640997737.jpg",
+      "https://img.olx.com.br/images/98/989672286390475.jpg",
+      "https://img.olx.com.br/images/99/997657646880590.jpg",
+      "https://img.olx.com.br/images/11/110654284783369.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779672018
+  },
+  {
+    "categoria": "outros",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "22:16",
     "fotoUrl": "https://img.olx.com.br/images/90/904624520628873.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/904624520628873.jpg"
     ],
-    "defeito": false,
+    "id": "1504714729",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-play-04-1504714729",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "Jogos Play 04",
     "ts": 1779671778
   },
   {
@@ -9932,23 +9953,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Onimusha: Warlords - PS4",
     "ts": 1779578430
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/90/905620520714165.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/905620520714165.jpg"
-    ],
-    "id": "1504524146",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogo-fifa18-ps4-cd-jogo-dayz-ps4-cd-ambos-sem-capa-somente-o-disco-1504524146",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2025",
-    "titulo": "JOGO FIFA18 PS4 CD + JOGO DAYZ PS4 CD | AMBOS SEM CAPA, SOMENTE O DISCO",
-    "ts": 1779578421
   }
 ]
