@@ -1,16 +1,34 @@
 [
   {
-    "id": "1504128614",
-    "titulo": "Jogos Playstation 4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1504122086",
+    "titulo": "Jogos ps5 lacrados e ps4",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:22",
     "tempoOlx": "Na OLX desde julho de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-playstation-4-1504128614",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps5-lacrados-e-ps4-1504122086",
+    "fotoUrl": "https://img.olx.com.br/images/48/484659527154267.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/484659527154267.jpg",
+      "https://img.olx.com.br/images/49/490670881884577.jpg",
+      "https://img.olx.com.br/images/50/500687043442642.jpg",
+      "https://img.olx.com.br/images/52/520648406116629.jpg",
+      "https://img.olx.com.br/images/54/546670168004799.jpg",
+      "https://img.olx.com.br/images/55/552616162969306.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779718948
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:22",
     "fotoUrl": "https://img.olx.com.br/images/10/102610407958785.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/102610407958785.jpg",
@@ -20,7 +38,13 @@
       "https://img.olx.com.br/images/19/197677764003261.jpg",
       "https://img.olx.com.br/images/21/211612408620674.jpg"
     ],
-    "defeito": false,
+    "id": "1504128614",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-playstation-4-1504128614",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "titulo": "Jogos Playstation 4",
     "ts": 1779718940
   },
   {
@@ -10369,23 +10393,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "Dreams - Jogado uma vez, Seminovo",
     "ts": 1779665239
-  },
-  {
-    "categoria": "ps5",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:23",
-    "fotoUrl": "https://img.olx.com.br/images/62/629654162841342.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/629654162841342.jpg"
-    ],
-    "id": "1504696856",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/manete-ps5-impecavel-1504696856",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2015",
-    "titulo": "Manete ps5 impecável ",
-    "ts": 1779664996
   }
 ]
