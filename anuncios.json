@@ -1,16 +1,31 @@
 [
   {
-    "id": "1488251677",
-    "titulo": "Caixa Vazia Ps3 ",
-    "preco": 35,
-    "precoRaw": "R$ 35",
+    "id": "1504842879",
+    "titulo": "Playstation 3 (com defeito)",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "12:38",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde junho de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/caixa-vazia-ps3-1488251677",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/playstation-3-com-defeito-1504842879",
+    "fotoUrl": "https://img.olx.com.br/images/53/531672766014059.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/531672766014059.jpg",
+      "https://img.olx.com.br/images/55/557682285308817.jpg",
+      "https://img.olx.com.br/images/76/767621168930156.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779723508
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:38",
     "fotoUrl": "https://img.olx.com.br/images/78/782623621868345.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/782623621868345.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/80/804669269650117.jpg",
       "https://img.olx.com.br/images/81/817631865860151.jpg"
     ],
-    "defeito": false,
+    "id": "1488251677",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/caixa-vazia-ps3-1488251677",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Caixa Vazia Ps3 ",
     "ts": 1779723496
   },
   {
@@ -10441,23 +10462,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "PS4 500GB/ 2 Controles e 14 jogos",
     "ts": 1779676427
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "23:27",
-    "fotoUrl": "https://img.olx.com.br/images/40/407606169392678.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/407606169392678.jpg"
-    ],
-    "id": "1504724200",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/2-jogos-ps4-1504724200",
-    "preco": 135,
-    "precoRaw": "R$ 135",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2016",
-    "titulo": "2 jogos PS4",
-    "ts": 1779676068
   }
 ]
