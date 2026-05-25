@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504917980",
-    "titulo": "Street fighter 6",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1504917812",
+    "titulo": "Hellblade Ps4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:13",
-    "tempoOlx": "Na OLX desde março de 2017",
+    "tempoOlx": "Na OLX desde agosto de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/street-fighter-6-1504917980",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/hellblade-ps4-1504917812",
+    "fotoUrl": "https://img.olx.com.br/images/73/737637524482249.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/737637524482249.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779740002
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:13",
     "fotoUrl": "https://img.olx.com.br/images/64/644623523676160.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/644623523676160.jpg",
       "https://img.olx.com.br/images/65/657682523064021.jpg"
     ],
-    "defeito": false,
+    "id": "1504917980",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/street-fighter-6-1504917980",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2017",
+    "titulo": "Street fighter 6",
     "ts": 1779739994
   },
   {
@@ -10369,27 +10388,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Pacote duplo de Batman - Ps3",
     "ts": 1779715498
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:24",
-    "fotoUrl": "https://img.olx.com.br/images/47/472544614432184.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/47/472544614432184.jpg",
-      "https://img.olx.com.br/images/47/470547012568384.jpg",
-      "https://img.olx.com.br/images/47/478549614176012.jpg",
-      "https://img.olx.com.br/images/47/477501378378847.jpg"
-    ],
-    "id": "1375333049",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-one-s-com-dois-controles-originais-500-gb-veja-na-descricao-1375333049",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2013",
-    "titulo": "XBOX ONE S com dois controles originais, 500 GB. Veja na descrição!",
-    "ts": 1779715491
   }
 ]
