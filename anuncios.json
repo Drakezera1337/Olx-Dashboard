@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504895218",
-    "titulo": "PlayStation 4",
+    "id": "1504895050",
+    "titulo": "Ps4",
     "preco": 1000,
     "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:02",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-1504895218",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-1504895050",
+    "fotoUrl": "https://img.olx.com.br/images/31/314600523685921.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/314600523685921.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779739367
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:02",
     "fotoUrl": "https://img.olx.com.br/images/60/606609642474260.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/606609642474260.jpg",
       "https://img.olx.com.br/images/62/622639284509242.jpg"
     ],
-    "defeito": false,
+    "id": "1504895218",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-1504895218",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "PlayStation 4",
     "ts": 1779739360
   },
   {
@@ -10367,29 +10386,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS5 1 TB Mídia física + 2 controles",
-    "ts": 1779678282
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:04",
-    "fotoUrl": "https://img.olx.com.br/images/18/185531707142110.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/185531707142110.jpg",
-      "https://img.olx.com.br/images/20/205549829990783.jpg",
-      "https://img.olx.com.br/images/22/223527101606236.jpg",
-      "https://img.olx.com.br/images/25/250596588582049.jpg",
-      "https://img.olx.com.br/images/28/284524340525705.jpg"
-    ],
-    "id": "1453907044",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-1453907044",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PlayStation 4 ",
     "ts": 1779678282
   }
 ]
