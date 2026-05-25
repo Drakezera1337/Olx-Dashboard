@@ -1,20 +1,40 @@
 [
   {
-    "id": "1504702883",
-    "titulo": "PlayStation 4  a Venda",
-    "preco": 1290,
-    "precoRaw": "R$ 1.290",
+    "id": "1504703329",
+    "titulo": "Ps4",
+    "preco": 10,
+    "precoRaw": "R$ 10",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:03",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "21:04",
+    "tempoOlx": "Na OLX desde setembro de 2021",
     "descricao": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-4-a-venda-1504702883",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps4-1504703329",
+    "fotoUrl": "https://img.olx.com.br/images/48/485637767026932.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/485637767026932.jpg",
+      "https://img.olx.com.br/images/48/488673162433508.jpg",
+      "https://img.olx.com.br/images/49/491607766757296.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779667458
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:03",
     "fotoUrl": "https://img.olx.com.br/images/81/811612648135938.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/811612648135938.jpg"
     ],
-    "defeito": false,
+    "id": "1504702883",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/playstation-4-a-venda-1504702883",
+    "preco": 1290,
+    "precoRaw": "R$ 1.290",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 4  a Venda",
     "ts": 1779667431
   },
   {
@@ -9916,26 +9936,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "Injustice 2 PS4",
     "ts": 1779575950
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:38",
-    "fotoUrl": "https://img.olx.com.br/images/22/221601261977000.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/221601261977000.jpg",
-      "https://img.olx.com.br/images/25/256686269806210.jpg",
-      "https://img.olx.com.br/images/26/263602502946287.jpg",
-      "https://img.olx.com.br/images/28/287633147163316.jpg"
-    ],
-    "id": "1484687866",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/farcray-primal-ps4-1484687866",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Farcray Primal PS4",
-    "ts": 1779575938
   }
 ]
