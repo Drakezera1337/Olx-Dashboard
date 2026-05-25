@@ -1,23 +1,43 @@
 [
   {
-    "id": "1504805810",
-    "titulo": "Ps4 slim",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "ps4",
+    "id": "1502067523",
+    "titulo": "iPhone 14 Pro Max ",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "10:59",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "tempoOlx": "Na OLX desde julho de 2018",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-1502067523",
+    "fotoUrl": "https://img.olx.com.br/images/86/869602884626178.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/869602884626178.jpg",
+      "https://img.olx.com.br/images/88/888655525388977.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779717571
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-slim-1504805810",
+    "defeito": false,
+    "detectado": "10:59",
     "fotoUrl": "https://img.olx.com.br/images/60/604604528701501.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/604604528701501.jpg",
       "https://img.olx.com.br/images/63/631617280710443.jpg",
       "https://img.olx.com.br/images/67/671681409608354.jpg"
     ],
-    "defeito": false,
+    "id": "1504805810",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-slim-1504805810",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Ps4 slim",
     "ts": 1779717567
   },
   {
@@ -10255,25 +10275,5 @@
     "tempoOlx": "Na OLX desde junho de 2021",
     "titulo": "Jogo PS4 Batman Arkham Knight",
     "ts": 1779657327
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:15",
-    "fotoUrl": "https://img.olx.com.br/images/60/609678161577729.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/609678161577729.jpg",
-      "https://img.olx.com.br/images/62/626682641228776.jpg",
-      "https://img.olx.com.br/images/64/641603521590641.jpg"
-    ],
-    "id": "1504659473",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-gravity-rush-2-1504659473",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "Jogo PS4 Gravity Rush 2",
-    "ts": 1779657316
   }
 ]
