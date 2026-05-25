@@ -1,16 +1,29 @@
 [
   {
-    "id": "1502027157",
-    "titulo": "Nintendo Switch Dock original com suporte para Joy-Con",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "switch",
+    "id": "1504733505",
+    "titulo": "Ps4",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:25",
-    "tempoOlx": "Na OLX desde novembro de 2025",
+    "detectado": "00:30",
+    "tempoOlx": "Na OLX desde novembro de 2019",
     "cidade": "—",
     "descricao": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/nintendo-switch-dock-original-com-suporte-para-joy-con-1502027157",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1504733505",
+    "fotoUrl": "https://img.olx.com.br/images/85/858695166267284.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/858695166267284.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779679811
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "00:25",
     "fotoUrl": "https://img.olx.com.br/images/79/791639169003361.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/791639169003361.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/91/914605767361723.jpg",
       "https://img.olx.com.br/images/92/927694284802590.jpg"
     ],
-    "defeito": false,
+    "id": "1502027157",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/nintendo-switch-dock-original-com-suporte-para-joy-con-1502027157",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "Nintendo Switch Dock original com suporte para Joy-Con",
     "ts": 1779679541
   },
   {
@@ -10118,24 +10137,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "The Witcher 3: Wild Hunt - Edição Completa PS4",
     "ts": 1779628904
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:21",
-    "fotoUrl": "https://img.olx.com.br/images/42/420638039828082.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/420638039828082.jpg",
-      "https://img.olx.com.br/images/43/434638876436195.jpg"
-    ],
-    "id": "1496327951",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/the-elder-scrolls-online-ps4-1496327951",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2019",
-    "titulo": "The Elder Scrolls online ps4",
-    "ts": 1779628897
   }
 ]
