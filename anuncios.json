@@ -1,16 +1,29 @@
 [
   {
-    "id": "1504821846",
-    "titulo": "PlayStation 4 Slim 500gb",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1504825733",
+    "titulo": "Assassin's Creed Valhala - Jogo de PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:47",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "11:50",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/playstation-4-slim-500gb-1504821846",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/assassin-s-creed-valhala-jogo-de-ps4-1504825733",
+    "fotoUrl": "https://img.olx.com.br/images/69/695660407672788.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/695660407672788.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779720611
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:47",
     "fotoUrl": "https://img.olx.com.br/images/65/655673286648631.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/655673286648631.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/72/729623402079769.jpg",
       "https://img.olx.com.br/images/73/737602882996693.jpg"
     ],
-    "defeito": false,
+    "id": "1504821846",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/playstation-4-slim-500gb-1504821846",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "PlayStation 4 Slim 500gb",
     "ts": 1779720459
   },
   {
@@ -10397,23 +10416,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Naruto Ultimate Ninja Storm 4 para PS4 ",
     "ts": 1779670278
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:35",
-    "fotoUrl": "https://img.olx.com.br/images/46/465699769833455.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/465699769833455.jpg"
-    ],
-    "id": "1504708593",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-super-slim-desbloqueado-para-conserto-ou-retirada-de-pecas-1504708593",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PS3 Super Slim Desbloqueado (Para Conserto ou Retirada de Peças)",
-    "ts": 1779669316
   }
 ]
