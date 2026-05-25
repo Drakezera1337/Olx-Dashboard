@@ -1,23 +1,45 @@
 [
   {
-    "id": "1504849230",
-    "titulo": "Resident evil 7 ps4 ps5",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps5",
+    "id": "1504786206",
+    "titulo": "VIDEO GAME PS4 FAT 500GB",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:27",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "detectado": "13:29",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/resident-evil-7-ps4-ps5-1504849230",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/video-game-ps4-fat-500gb-1504786206",
+    "fotoUrl": "https://img.olx.com.br/images/74/746643647584551.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/746643647584551.jpg",
+      "https://img.olx.com.br/images/76/769677407134798.jpg",
+      "https://img.olx.com.br/images/77/779632048526833.jpg",
+      "https://img.olx.com.br/images/78/788628402554624.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779726580
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:27",
     "fotoUrl": "https://img.olx.com.br/images/31/310626889799177.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/310626889799177.jpg",
       "https://img.olx.com.br/images/32/329618766229983.jpg",
       "https://img.olx.com.br/images/34/345688646837107.jpg"
     ],
-    "defeito": false,
+    "id": "1504849230",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/resident-evil-7-ps4-ps5-1504849230",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "Resident evil 7 ps4 ps5",
     "ts": 1779726433
   },
   {
@@ -10401,27 +10423,5 @@
     "tempoOlx": "",
     "titulo": "Ps4 slim",
     "ts": 1779678109
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:01",
-    "fotoUrl": "https://img.olx.com.br/images/67/675691402265724.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/675691402265724.jpg",
-      "https://img.olx.com.br/images/68/687674647444468.jpg",
-      "https://img.olx.com.br/images/70/706650162879983.jpg",
-      "https://img.olx.com.br/images/71/719609407113942.jpg"
-    ],
-    "id": "1504504321",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1504504321",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 14",
-    "ts": 1779678090
   }
 ]
