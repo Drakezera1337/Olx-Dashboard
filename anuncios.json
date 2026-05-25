@@ -1,23 +1,42 @@
 [
   {
-    "id": "1504195498",
-    "titulo": "Playstation 5 FAT + 2 jogos",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "categoria": "ps5",
+    "id": "1504136298",
+    "titulo": "PlayStation 4 semi novo",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:32",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-fat-2-jogos-1504195498",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-semi-novo-1504136298",
+    "fotoUrl": "https://img.olx.com.br/images/31/310630167284053.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/310630167284053.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779715968
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:32",
     "fotoUrl": "https://img.olx.com.br/images/53/533697762709144.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/533697762709144.jpg",
       "https://img.olx.com.br/images/54/540680286633063.jpg",
       "https://img.olx.com.br/images/56/563640525436121.jpg"
     ],
-    "defeito": false,
+    "id": "1504195498",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-fat-2-jogos-1504195498",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Playstation 5 FAT + 2 jogos",
     "ts": 1779715961
   },
   {
@@ -10198,28 +10217,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "IPHONE 13 ",
     "ts": 1779656634
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:03",
-    "fotoUrl": "https://img.olx.com.br/images/74/746640525874166.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/746640525874166.jpg",
-      "https://img.olx.com.br/images/75/757629282449486.jpg",
-      "https://img.olx.com.br/images/76/760613043118832.jpg",
-      "https://img.olx.com.br/images/78/787653281739990.jpg",
-      "https://img.olx.com.br/images/79/798693646183880.jpg",
-      "https://img.olx.com.br/images/80/806683526244112.jpg"
-    ],
-    "id": "1504638983",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128-gb-1504638983",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2025",
-    "titulo": "iPhone 11 128 gb",
-    "ts": 1779656625
   }
 ]
