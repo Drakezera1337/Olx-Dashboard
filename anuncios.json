@@ -1,16 +1,32 @@
 [
   {
-    "id": "1504179288",
-    "titulo": "The Witcher 3 ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1504173274",
+    "titulo": "Jogo PS4 Watch Dogs ",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:34",
     "tempoOlx": "Na OLX desde abril de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/the-witcher-3-1504179288",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/jogo-ps4-watch-dogs-1504173274",
+    "fotoUrl": "https://img.olx.com.br/images/56/567643648495218.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/567643648495218.jpg",
+      "https://img.olx.com.br/images/57/573668646235214.jpg",
+      "https://img.olx.com.br/images/44/447662880883484.jpg",
+      "https://img.olx.com.br/images/45/452670401206392.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779716080
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:34",
     "fotoUrl": "https://img.olx.com.br/images/18/180662402488993.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/180662402488993.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/78/789692045649394.jpg",
       "https://img.olx.com.br/images/27/273662400086248.jpg"
     ],
-    "defeito": false,
+    "id": "1504179288",
+    "link": "https://sp.olx.com.br/regiao-de-presidente-prudente/games/jogos-de-video-game/the-witcher-3-1504179288",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "The Witcher 3 ",
     "ts": 1779716073
   },
   {
@@ -10209,24 +10231,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "God Of War PS4",
     "ts": 1779656732
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:05",
-    "fotoUrl": "https://img.olx.com.br/images/92/922432712617284.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/922432712617284.jpg",
-      "https://img.olx.com.br/images/93/936449835463256.jpg"
-    ],
-    "id": "1324261510",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/jogo-dying-light-the-following-ps4-1324261510",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Jogo Dying Light The Following PS4",
-    "ts": 1779656725
   }
 ]
