@@ -1,5 +1,25 @@
 [
   {
+    "id": "1504562195",
+    "titulo": "XBOX ",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "xbox",
+    "publicado": "",
+    "detectado": "19:11",
+    "tempoOlx": "",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-1504562195",
+    "fotoUrl": "https://img.olx.com.br/images/46/464666288883569.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/464666288883569.jpg",
+      "https://img.olx.com.br/images/38/382694645457470.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779747081
+  },
+  {
     "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
@@ -10375,28 +10395,5 @@
     "tempoOlx": "",
     "titulo": "Play 4 usado bem novo ",
     "ts": 1779717698
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:01",
-    "fotoUrl": "https://img.olx.com.br/images/65/656602402027162.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/656602402027162.jpg",
-      "https://img.olx.com.br/images/67/679607408724589.jpg",
-      "https://img.olx.com.br/images/68/689633887069448.jpg",
-      "https://img.olx.com.br/images/70/703670763019505.jpg",
-      "https://img.olx.com.br/images/71/717662043645373.jpg"
-    ],
-    "id": "1504648949",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/player-remoto-playstation-portal-para-playstation-5-usado-semi-novo-1504648949",
-    "preco": 925,
-    "precoRaw": "R$ 925",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Player Remoto Playstation Portal Para Playstation 5 usado semi novo ",
-    "ts": 1779717683
   }
 ]
