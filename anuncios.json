@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504705667",
-    "titulo": "Lote de Jogos PS4",
-    "preco": 8800,
-    "precoRaw": "R$ 8.800",
-    "categoria": "ps4",
+    "id": "1504705780",
+    "titulo": "Xbox One S",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "21:21",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "21:22",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "descricao": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-de-jogos-ps4-1504705667",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1504705780",
+    "fotoUrl": "https://img.olx.com.br/images/84/841684764703730.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/841684764703730.jpg",
+      "https://img.olx.com.br/images/86/868662043660003.jpg",
+      "https://img.olx.com.br/images/87/873632525977257.jpg",
+      "https://img.olx.com.br/images/42/426613525920653.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779668568
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:21",
     "fotoUrl": "https://img.olx.com.br/images/48/489618408763310.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/489618408763310.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/57/574626521229260.jpg",
       "https://img.olx.com.br/images/59/594681883728880.jpg"
     ],
-    "defeito": false,
+    "id": "1504705667",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-de-jogos-ps4-1504705667",
+    "preco": 8800,
+    "precoRaw": "R$ 8.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "Lote de Jogos PS4",
     "ts": 1779668487
   },
   {
@@ -9919,23 +9940,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Red Dead Redemption 2 - PS4",
     "ts": 1779577380
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:02",
-    "fotoUrl": "https://img.olx.com.br/images/63/636676401766637.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/636676401766637.jpg"
-    ],
-    "id": "1504521671",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/vendo-ou-troco-1504521671",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2021",
-    "titulo": "Vendo ou troco ",
-    "ts": 1779577370
   }
 ]
