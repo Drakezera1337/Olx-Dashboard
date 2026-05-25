@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504643009",
-    "titulo": "The last of us",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "jogos",
+    "id": "1504546991",
+    "titulo": "Jogos para Ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:16",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "detectado": "11:17",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/the-last-of-us-1504643009",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogos-para-ps4-1504546991",
+    "fotoUrl": "https://img.olx.com.br/images/54/543676282299258.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/543676282299258.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779718624
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:16",
     "fotoUrl": "https://img.olx.com.br/images/20/209609405628602.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/209609405628602.jpg",
       "https://img.olx.com.br/images/22/229653406705490.jpg"
     ],
-    "defeito": false,
+    "id": "1504643009",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/the-last-of-us-1504643009",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "titulo": "The last of us",
     "ts": 1779718614
   },
   {
@@ -10355,26 +10374,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "Nioh 2 - PS4",
     "ts": 1779663454
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:57",
-    "fotoUrl": "https://img.olx.com.br/images/92/927672160097142.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/927672160097142.jpg",
-      "https://img.olx.com.br/images/92/922631166205759.jpg",
-      "https://img.olx.com.br/images/92/927639284904192.jpg",
-      "https://img.olx.com.br/images/92/922624284876438.jpg"
-    ],
-    "id": "1504692878",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/spider-man-ps4-1504692878",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2017",
-    "titulo": "Spider Man - PS4",
-    "ts": 1779663446
   }
 ]
