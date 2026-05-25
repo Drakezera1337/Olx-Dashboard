@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504703329",
-    "titulo": "Ps4",
-    "preco": 10,
-    "precoRaw": "R$ 10",
+    "id": "1504703015",
+    "titulo": "Ps4 fat",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:04",
-    "tempoOlx": "Na OLX desde setembro de 2021",
+    "tempoOlx": "Na OLX desde junho de 2018",
     "descricao": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps4-1504703329",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-fat-1504703015",
+    "fotoUrl": "https://img.olx.com.br/images/94/943639760198841.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/943639760198841.jpg",
+      "https://img.olx.com.br/images/94/946688525542804.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779667466
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:04",
     "fotoUrl": "https://img.olx.com.br/images/48/485637767026932.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/485637767026932.jpg",
       "https://img.olx.com.br/images/48/488673162433508.jpg",
       "https://img.olx.com.br/images/49/491607766757296.jpg"
     ],
-    "defeito": false,
+    "id": "1504703329",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps4-1504703329",
+    "preco": 10,
+    "precoRaw": "R$ 10",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2021",
+    "titulo": "Ps4",
     "ts": 1779667458
   },
   {
@@ -9916,25 +9935,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2018",
     "titulo": "Just Cause 3 PS4 - Ação em Mundo Aberto | Ótimo Estado",
     "ts": 1779575958
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:39",
-    "fotoUrl": "https://img.olx.com.br/images/64/648666140096367.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/648666140096367.jpg",
-      "https://img.olx.com.br/images/65/653615389761484.jpg",
-      "https://img.olx.com.br/images/66/667681143500576.jpg"
-    ],
-    "id": "1484683259",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/injustice-2-ps4-1484683259",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Injustice 2 PS4",
-    "ts": 1779575950
   }
 ]
