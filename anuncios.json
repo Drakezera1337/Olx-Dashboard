@@ -1,16 +1,31 @@
 [
   {
-    "id": "1504890851",
-    "titulo": "Dock Nintendo Switch Oled",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "categoria": "switch",
+    "id": "1504903134",
+    "titulo": "PS Vita Fat ",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "17:05",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "tempoOlx": "Na OLX desde abril de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/dock-nintendo-switch-oled-1504890851",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps-vita-fat-1504903134",
+    "fotoUrl": "https://img.olx.com.br/images/73/738619640249249.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/738619640249249.jpg",
+      "https://img.olx.com.br/images/76/765626763707291.jpg",
+      "https://img.olx.com.br/images/78/789689166938134.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779739534
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:05",
     "fotoUrl": "https://img.olx.com.br/images/81/810670163254848.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/810670163254848.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/85/851678766552876.jpg",
       "https://img.olx.com.br/images/87/872685040789018.jpg"
     ],
-    "defeito": false,
+    "id": "1504890851",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/dock-nintendo-switch-oled-1504890851",
+    "preco": 260,
+    "precoRaw": "R$ 260",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "Dock Nintendo Switch Oled",
     "ts": 1779739525
   },
   {
@@ -10362,24 +10383,5 @@
     "tempoOlx": "",
     "titulo": "Xbox Series S 512gb ",
     "ts": 1779680071
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:30",
-    "fotoUrl": "https://img.olx.com.br/images/85/858695166267284.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/858695166267284.jpg"
-    ],
-    "id": "1504733505",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1504733505",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2019",
-    "titulo": "Ps4",
-    "ts": 1779679811
   }
 ]
