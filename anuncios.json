@@ -1,16 +1,31 @@
 [
   {
-    "id": "1504845206",
-    "titulo": "Ps4",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1504619102",
+    "titulo": "PLAYSTATION 3 slim Com defeito ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "12:44",
-    "tempoOlx": "Na OLX desde junho de 2014",
+    "detectado": "12:50",
+    "tempoOlx": "Na OLX desde setembro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/ps4-1504845206",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-3-slim-com-defeito-1504619102",
+    "fotoUrl": "https://img.olx.com.br/images/47/471624763794633.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/471624763794633.jpg",
+      "https://img.olx.com.br/images/48/487653044226240.jpg",
+      "https://img.olx.com.br/images/50/504675047265433.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779724210
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:44",
     "fotoUrl": "https://img.olx.com.br/images/56/561684048000491.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/561684048000491.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/60/608647163575049.jpg",
       "https://img.olx.com.br/images/62/623633403419717.jpg"
     ],
-    "defeito": false,
+    "id": "1504845206",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/ps4-1504845206",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2014",
+    "titulo": "Ps4",
     "ts": 1779723850
   },
   {
@@ -10429,28 +10450,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone XR 128gb branco",
-    "ts": 1779678060
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:01",
-    "fotoUrl": "https://img.olx.com.br/images/79/793681401351033.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/793681401351033.jpg",
-      "https://img.olx.com.br/images/82/824670880778150.jpg",
-      "https://img.olx.com.br/images/84/841648404467220.jpg",
-      "https://img.olx.com.br/images/86/864644281139996.jpg"
-    ],
-    "id": "1504224383",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-64gb-preto-1504224383",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone XR 64gb preto",
     "ts": 1779678060
   }
 ]
