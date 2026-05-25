@@ -1,5 +1,25 @@
 [
   {
+    "id": "1504562195",
+    "titulo": "XBOX ",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "xbox",
+    "publicado": "",
+    "detectado": "00:16",
+    "tempoOlx": "",
+    "cidade": "—",
+    "descricao": "",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-1504562195",
+    "fotoUrl": "https://img.olx.com.br/images/46/464666288883569.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/464666288883569.jpg",
+      "https://img.olx.com.br/images/38/382694645457470.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779679006
+  },
+  {
     "categoria": "iphone",
     "cidade": "—",
     "defeito": false,
@@ -10104,26 +10124,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Uncharted Collection Ps4",
     "ts": 1779628874
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:21",
-    "fotoUrl": "https://img.olx.com.br/images/61/612687633651073.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/612687633651073.jpg",
-      "https://img.olx.com.br/images/61/614690759246484.jpg",
-      "https://img.olx.com.br/images/61/616657637986716.jpg",
-      "https://img.olx.com.br/images/61/618669276476176.jpg"
-    ],
-    "id": "1496320376",
-    "link": "https://se.olx.com.br/sergipe/games/jogos-de-video-game/days-gone-ps4-midia-fisica-1496320376",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2021",
-    "titulo": "Days Gone PS4 Mídia Física",
-    "ts": 1779628864
   }
 ]
