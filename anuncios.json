@@ -1,16 +1,31 @@
 [
   {
-    "id": "1504915342",
-    "titulo": "Ps4 em excelente estado",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
+    "id": "1504916745",
+    "titulo": "FIFA 20 - PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:05",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-20-ps4-1504916745",
+    "fotoUrl": "https://img.olx.com.br/images/80/804695163258735.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/804695163258735.jpg",
+      "https://img.olx.com.br/images/82/821667402827037.jpg",
+      "https://img.olx.com.br/images/83/836669048892262.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779739552
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/ps4-em-excelente-estado-1504915342",
+    "defeito": false,
+    "detectado": "17:05",
     "fotoUrl": "https://img.olx.com.br/images/40/402676760441821.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/402676760441821.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/50/506685642872346.jpg",
       "https://img.olx.com.br/images/53/530634763219898.jpg"
     ],
-    "defeito": false,
+    "id": "1504915342",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/ps4-em-excelente-estado-1504915342",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Ps4 em excelente estado",
     "ts": 1779739542
   },
   {
@@ -10364,27 +10385,5 @@
     "tempoOlx": "",
     "titulo": "warriors orochi 3 ps4 usado",
     "ts": 1779680198
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:35",
-    "fotoUrl": "https://img.olx.com.br/images/85/855643004590646.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/855643004590646.jpg",
-      "https://img.olx.com.br/images/87/878682606722225.jpg",
-      "https://img.olx.com.br/images/88/889668723644822.jpg",
-      "https://img.olx.com.br/images/91/912658247684834.jpg"
-    ],
-    "id": "1470348997",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-switch-iine-1470348997",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Controle Switch IINE ",
-    "ts": 1779680113
   }
 ]
