@@ -1,16 +1,29 @@
 [
   {
-    "id": "1504814398",
-    "titulo": "Ps4 com defeito na fonte.",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1504814755",
+    "titulo": "Controle Ps5 Dualsense Cosmic Red",
+    "preco": 389,
+    "precoRaw": "R$ 389",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "11:30",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-ps5-dualsense-cosmic-red-1504814755",
+    "fotoUrl": "https://img.olx.com.br/images/43/437618404645098.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/437618404645098.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779719420
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-com-defeito-na-fonte-1504814398",
+    "defeito": false,
+    "detectado": "11:30",
     "fotoUrl": "https://img.olx.com.br/images/62/620679168128899.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/620679168128899.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/67/670689760313351.jpg",
       "https://img.olx.com.br/images/68/687648763630041.jpg"
     ],
-    "defeito": false,
+    "id": "1504814398",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps4-com-defeito-na-fonte-1504814398",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
+    "titulo": "Ps4 com defeito na fonte.",
     "ts": 1779719411
   },
   {
@@ -10388,24 +10407,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "PS5 825GB + SSD 500GB + 2 controles e base de carga",
     "ts": 1779667128
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:58",
-    "fotoUrl": "https://img.olx.com.br/images/12/127662526588959.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/127662526588959.jpg",
-      "https://img.olx.com.br/images/13/133641409778319.jpg"
-    ],
-    "id": "1504701884",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-evil-within-ps4-1504701884",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2015",
-    "titulo": "The Evil Within Ps4",
-    "ts": 1779667094
   }
 ]
