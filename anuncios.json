@@ -1,20 +1,38 @@
 [
   {
-    "id": "1504722411",
-    "titulo": "Uncharted 4 PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1504722315",
+    "titulo": "Ps4",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:09",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "detectado": "23:10",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "descricao": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/uncharted-4-ps4-1504722411",
+    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/ps4-1504722315",
+    "fotoUrl": "https://img.olx.com.br/images/82/823696288391836.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/823696288391836.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779675004
+  },
+  {
+    "categoria": "ps4",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "23:09",
     "fotoUrl": "https://img.olx.com.br/images/42/424644169823143.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/424644169823143.jpg"
     ],
-    "defeito": false,
+    "id": "1504722411",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/uncharted-4-ps4-1504722411",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Uncharted 4 PS4",
     "ts": 1779674996
   },
   {
@@ -9910,23 +9928,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "Amiibo Ryu (Super Smash Bros)",
     "ts": 1779581333
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:02",
-    "fotoUrl": "https://img.olx.com.br/images/30/301616742570348.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/301616742570348.jpg"
-    ],
-    "id": "1486631371",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-slim-1tb-branco-50-jogos-1486631371",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "PS4 SLIM 1TB BRANCO 50 JOGOS",
-    "ts": 1779580938
   }
 ]
