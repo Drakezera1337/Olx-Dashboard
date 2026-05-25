@@ -1,5 +1,26 @@
 [
   {
+    "id": "1504788722",
+    "titulo": "Horizon Zero Dawn",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "jogos",
+    "publicado": "",
+    "detectado": "10:30",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/horizon-zero-dawn-1504788722",
+    "fotoUrl": "https://img.olx.com.br/images/69/695631043951570.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/695631043951570.jpg",
+      "https://img.olx.com.br/images/71/716638408568190.jpg",
+      "https://img.olx.com.br/images/73/739685403597277.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779715854
+  },
+  {
     "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "",
@@ -10199,25 +10220,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "Playstation 4 - botão eject não funciona.",
     "ts": 1779633197
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:31",
-    "fotoUrl": "https://img.olx.com.br/images/64/642604280575391.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/642604280575391.jpg",
-      "https://img.olx.com.br/images/69/691617405010568.jpg",
-      "https://img.olx.com.br/images/72/726696529933121.jpg"
-    ],
-    "id": "1504596420",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/farcry-4-playstation-4-1504596420",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Farcry 4, Playstation 4",
-    "ts": 1779633107
   }
 ]
