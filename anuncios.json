@@ -1,21 +1,42 @@
 [
   {
-    "id": "1502086881",
-    "titulo": "iPhone",
-    "preco": 6000,
-    "precoRaw": "R$ 6.000",
-    "categoria": "iphone",
+    "id": "1504805810",
+    "titulo": "Ps4 slim",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:59",
-    "tempoOlx": "Na OLX desde outubro de 2014",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-slim-1504805810",
+    "fotoUrl": "https://img.olx.com.br/images/60/604604528701501.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/604604528701501.jpg",
+      "https://img.olx.com.br/images/63/631617280710443.jpg",
+      "https://img.olx.com.br/images/67/671681409608354.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779717567
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-1502086881",
+    "defeito": false,
+    "detectado": "10:59",
     "fotoUrl": "https://img.olx.com.br/images/74/745643406237330.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/745643406237330.jpg"
     ],
-    "defeito": false,
+    "id": "1502086881",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-1502086881",
+    "preco": 6000,
+    "precoRaw": "R$ 6.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "titulo": "iPhone",
     "ts": 1779717563
   },
   {
@@ -10254,24 +10275,5 @@
     "tempoOlx": "Na OLX desde junho de 2021",
     "titulo": "Jogo PS4 Gravity Rush 2",
     "ts": 1779657316
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:15",
-    "fotoUrl": "https://img.olx.com.br/images/18/180661282853620.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/180661282853620.jpg",
-      "https://img.olx.com.br/images/20/204615766896504.jpg"
-    ],
-    "id": "1504659534",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-de-jogos-ps4-1504659534",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2021",
-    "titulo": "LOTE DE JOGOS PS4",
-    "ts": 1779657308
   }
 ]
