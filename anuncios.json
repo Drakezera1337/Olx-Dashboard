@@ -1,16 +1,31 @@
 [
   {
-    "id": "1504793372",
-    "titulo": "PlayStation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1504790817",
+    "titulo": "PS4 com defeito erro SU-42118-6 - Leia descrição",
+    "preco": 700,
+    "precoRaw": "R$ 700",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:21",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-1504793372",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-com-defeito-erro-su-42118-6-leia-descricao-1504790817",
+    "fotoUrl": "https://img.olx.com.br/images/72/720661401405600.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/720661401405600.jpg",
+      "https://img.olx.com.br/images/74/747659406750927.jpg",
+      "https://img.olx.com.br/images/75/759610642805415.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779715272
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:21",
     "fotoUrl": "https://img.olx.com.br/images/12/121615765943040.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/121615765943040.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/12/125630648869491.jpg",
       "https://img.olx.com.br/images/12/120698526175981.jpg"
     ],
-    "defeito": false,
+    "id": "1504793372",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-1504793372",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "PlayStation 4",
     "ts": 1779715264
   },
   {
@@ -10146,23 +10167,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Call of Duty Cold War em Japonês - PS4",
     "ts": 1779629808
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:31",
-    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
-    "fotosUrls": [
-      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
-    ],
-    "id": "1504585899",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-1504585899",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "PlayStation 4",
-    "ts": 1779629507
   }
 ]
