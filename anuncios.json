@@ -1,16 +1,30 @@
 [
   {
-    "id": "1488059818",
-    "titulo": "Jogos ps3 - Ufc - 02 jogos por 59,00",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "categoria": "ps3",
+    "id": "1503171321",
+    "titulo": "Iphone15 pro - 256GB",
+    "preco": 3999,
+    "precoRaw": "R$ 3.999",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "11:52",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "detectado": "11:53",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone15-pro-256gb-1503171321",
+    "fotoUrl": "https://img.olx.com.br/images/87/875657167339026.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/875657167339026.jpg",
+      "https://img.olx.com.br/images/88/880638403454579.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779720788
+  },
+  {
+    "categoria": "ps3",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-ps3-ufc-02-jogos-por-59-00-1488059818",
+    "defeito": false,
+    "detectado": "11:52",
     "fotoUrl": "https://img.olx.com.br/images/67/679677271722487.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/679677271722487.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/76/763649875179854.jpg",
       "https://img.olx.com.br/images/78/782676391455102.jpg"
     ],
-    "defeito": false,
+    "id": "1488059818",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/jogos-ps3-ufc-02-jogos-por-59-00-1488059818",
+    "preco": 59,
+    "precoRaw": "R$ 59",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "Jogos ps3 - Ufc - 02 jogos por 59,00",
     "ts": 1779720759
   },
   {
@@ -10405,23 +10425,5 @@
     "tempoOlx": "Na OLX desde outubro de 2021",
     "titulo": "CONTROLE PS5",
     "ts": 1779672018
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "22:16",
-    "fotoUrl": "https://img.olx.com.br/images/90/904624520628873.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/904624520628873.jpg"
-    ],
-    "id": "1504714729",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-play-04-1504714729",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
-    "titulo": "Jogos Play 04",
-    "ts": 1779671778
   }
 ]
