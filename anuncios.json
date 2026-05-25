@@ -1,22 +1,43 @@
 [
   {
-    "id": "1504859095",
-    "titulo": "Playstation 3 Sem Controle",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1498799488",
+    "titulo": "Ps5 mídia fisica",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "13:41",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "detectado": "13:42",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-midia-fisica-1498799488",
+    "fotoUrl": "https://img.olx.com.br/images/30/302612762334204.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/302612762334204.jpg",
+      "https://img.olx.com.br/images/31/314655408671496.jpg",
+      "https://img.olx.com.br/images/33/335672166352293.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779727359
+  },
+  {
+    "categoria": "ps3",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/playstation-3-sem-controle-1504859095",
+    "defeito": false,
+    "detectado": "13:41",
     "fotoUrl": "https://img.olx.com.br/images/96/969697042110743.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/969697042110743.jpg",
       "https://img.olx.com.br/images/98/982686281650500.jpg"
     ],
-    "defeito": false,
+    "id": "1504859095",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/playstation-3-sem-controle-1504859095",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "Playstation 3 Sem Controle",
     "ts": 1779727309
   },
   {
@@ -10395,29 +10416,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "IPHONE 17 256 GB GARANTIA 03/27 COM NOTA ",
-    "ts": 1779678119
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:01",
-    "fotoUrl": "https://img.olx.com.br/images/22/225678755392643.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/225678755392643.jpg",
-      "https://img.olx.com.br/images/23/231659396527462.jpg",
-      "https://img.olx.com.br/images/24/242620754331124.jpg",
-      "https://img.olx.com.br/images/25/251657396483970.jpg",
-      "https://img.olx.com.br/images/26/262665273735798.jpg"
-    ],
-    "id": "1495569315",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/macae-iphone-13-pro-branco-128gb-100-original-1495569315",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "[MACAÉ] iPhone 13 Pro Branco 128GB (100% Original)",
     "ts": 1779678119
   }
 ]
