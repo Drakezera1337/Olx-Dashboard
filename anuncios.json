@@ -1,23 +1,43 @@
 [
   {
-    "id": "1504860887",
-    "titulo": "Ghost of Tsushima - Mídia física PS4",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "categoria": "ps4",
+    "id": "1504862140",
+    "titulo": "iPhone XR ",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "13:51",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "13:53",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1504862140",
+    "fotoUrl": "https://img.olx.com.br/images/52/526650884316689.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/526650884316689.jpg",
+      "https://img.olx.com.br/images/53/530666644752142.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779728020
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-midia-fisica-ps4-1504860887",
+    "defeito": false,
+    "detectado": "13:51",
     "fotoUrl": "https://img.olx.com.br/images/12/129616409491762.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/129616409491762.jpg",
       "https://img.olx.com.br/images/14/140621522607687.jpg",
       "https://img.olx.com.br/images/17/175675043881524.jpg"
     ],
-    "defeito": false,
+    "id": "1504860887",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-midia-fisica-ps4-1504860887",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ghost of Tsushima - Mídia física PS4",
     "ts": 1779727875
   },
   {
@@ -10398,25 +10418,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Controle Séries S Verde",
-    "ts": 1779678134
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:02",
-    "fotoUrl": "https://img.olx.com.br/images/62/623658762704129.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/623658762704129.jpg"
-    ],
-    "id": "1504522959",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/xbox-siries-s-1504522959",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Siries S",
     "ts": 1779678134
   }
 ]
