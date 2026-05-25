@@ -1,16 +1,33 @@
 [
   {
-    "id": "1504524042",
-    "titulo": "Ps4",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1504785889",
+    "titulo": "Playstation 4 ",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:21",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "10:22",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-1504524042",
+    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/consoles-de-video-game/playstation-4-1504785889",
+    "fotoUrl": "https://img.olx.com.br/images/77/779625763031857.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/779625763031857.jpg",
+      "https://img.olx.com.br/images/78/780631764580281.jpg",
+      "https://img.olx.com.br/images/79/796643405669287.jpg",
+      "https://img.olx.com.br/images/80/806638646714439.jpg",
+      "https://img.olx.com.br/images/81/818664289796031.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779715324
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:21",
     "fotoUrl": "https://img.olx.com.br/images/50/502614280013487.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/502614280013487.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/52/520611160732153.jpg",
       "https://img.olx.com.br/images/54/544642404284428.jpg"
     ],
-    "defeito": false,
+    "id": "1504524042",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-1504524042",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Ps4",
     "ts": 1779715311
   },
   {
@@ -10156,25 +10179,5 @@
     "tempoOlx": "Na OLX desde agosto de 2016",
     "titulo": "Jogos PS3 Novos e Seminovos.",
     "ts": 1779629889
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:38",
-    "fotoUrl": "https://img.olx.com.br/images/85/859693637840925.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/859693637840925.jpg",
-      "https://img.olx.com.br/images/87/874663272691034.jpg",
-      "https://img.olx.com.br/images/88/882686276157860.jpg"
-    ],
-    "id": "1496292297",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-xbox-one-s-1496292297",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
-    "titulo": "Vídeo game Xbox one s ",
-    "ts": 1779629883
   }
 ]
