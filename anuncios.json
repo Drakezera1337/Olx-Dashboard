@@ -1,21 +1,40 @@
 [
   {
-    "id": "1504973394",
-    "titulo": "THE ORDER: 1886 - PS4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1504055979",
+    "titulo": "Ps4",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:44",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "20:45",
+    "tempoOlx": "Na OLX desde agosto de 2025",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1504055979",
+    "fotoUrl": "https://img.olx.com.br/images/39/394600287371798.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/394600287371798.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779752701
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-order-1886-ps4-1504973394",
+    "defeito": false,
+    "detectado": "20:44",
     "fotoUrl": "https://img.olx.com.br/images/95/959649404415410.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/959649404415410.jpg"
     ],
-    "defeito": false,
+    "id": "1504973394",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-order-1886-ps4-1504973394",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "THE ORDER: 1886 - PS4",
     "ts": 1779752666
   },
   {
@@ -10389,26 +10408,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "jogo ps4 dragon age inquisition",
     "ts": 1779719369
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:29",
-    "fotoUrl": "https://img.olx.com.br/images/65/655641642046494.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/655641642046494.jpg",
-      "https://img.olx.com.br/images/66/662650762299723.jpg",
-      "https://img.olx.com.br/images/67/673632402279150.jpg"
-    ],
-    "id": "1504145697",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-sombras-de-mordor-game-of-the-year-edition-1504145697",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "jogo ps4 sombras de mordor game of the year edition",
-    "ts": 1779719358
   }
 ]
