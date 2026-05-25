@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504663152",
+    "id": "1504663419",
     "titulo": "Jogo de PS4 ",
-    "preco": 130,
-    "precoRaw": "R$ 130",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:33",
     "tempoOlx": "Na OLX desde março de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogo-de-ps4-1504663152",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogo-de-ps4-1504663419",
+    "fotoUrl": "https://img.olx.com.br/images/59/597624408354477.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/597624408354477.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779719633
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:33",
     "fotoUrl": "https://img.olx.com.br/images/24/240646641218544.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/240646641218544.jpg",
       "https://img.olx.com.br/images/26/265670049337623.jpg"
     ],
-    "defeito": false,
+    "id": "1504663152",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogo-de-ps4-1504663152",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Jogo de PS4 ",
     "ts": 1779719623
   },
   {
@@ -10385,23 +10404,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 4  a Venda",
     "ts": 1779667431
-  },
-  {
-    "categoria": "outros",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "21:03",
-    "fotoUrl": "https://img.olx.com.br/images/88/886649407266692.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/886649407266692.jpg"
-    ],
-    "id": "1504703260",
-    "link": "https://rr.olx.com.br/roraima/games/jogos-de-video-game/jogo-e-controle-1504703260",
-    "preco": 390,
-    "precoRaw": "R$ 390",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2016",
-    "titulo": "Jogo é controle ",
-    "ts": 1779667424
   }
 ]
