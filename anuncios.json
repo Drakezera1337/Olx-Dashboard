@@ -1,22 +1,43 @@
 [
   {
-    "id": "1477484276",
-    "titulo": "God of War mídia física",
-    "preco": 69,
-    "precoRaw": "R$ 69",
+    "id": "1477484453",
+    "titulo": "God of War Ragnarok ",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "21:57",
     "tempoOlx": "Na OLX desde novembro de 2017",
     "descricao": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/god-of-war-midia-fisica-1477484276",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/god-of-war-ragnarok-1477484453",
+    "fotoUrl": "https://img.olx.com.br/images/73/736683373076755.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/736683373076755.jpg",
+      "https://img.olx.com.br/images/90/906636495702977.jpg",
+      "https://img.olx.com.br/images/10/107682375535534.jpg",
+      "https://img.olx.com.br/images/13/137657612304512.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779670646
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:57",
     "fotoUrl": "https://img.olx.com.br/images/27/270685130698634.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/270685130698634.jpg",
       "https://img.olx.com.br/images/33/338651491166236.jpg",
       "https://img.olx.com.br/images/39/393651252908682.jpg"
     ],
-    "defeito": false,
+    "id": "1477484276",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/god-of-war-midia-fisica-1477484276",
+    "preco": 69,
+    "precoRaw": "R$ 69",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2017",
+    "titulo": "God of War mídia física",
     "ts": 1779670638
   },
   {
@@ -9931,24 +9952,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "Castlevania Advance Collection - PS4",
     "ts": 1779578068
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:14",
-    "fotoUrl": "https://img.olx.com.br/images/75/758682280029339.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/758682280029339.jpg",
-      "https://img.olx.com.br/images/79/791661161970017.jpg"
-    ],
-    "id": "1504522990",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/pes-20-ps4-1504522990",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2019",
-    "titulo": "PES 20 - PS4",
-    "ts": 1779578059
   }
 ]
