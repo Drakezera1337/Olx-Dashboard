@@ -1,21 +1,44 @@
 [
   {
-    "id": "1407133549",
-    "titulo": "PES 2018 - PS4",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "categoria": "ps4",
+    "id": "1504940039",
+    "titulo": "iPhone XR 64G",
+    "preco": 990,
+    "precoRaw": "R$ 990",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "18:22",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "18:26",
+    "tempoOlx": "",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-64g-1504940039",
+    "fotoUrl": "https://img.olx.com.br/images/47/471697285878121.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/471697285878121.jpg",
+      "https://img.olx.com.br/images/48/485612522895138.jpg",
+      "https://img.olx.com.br/images/47/479617526887183.jpg",
+      "https://img.olx.com.br/images/48/482675163844503.jpg",
+      "https://img.olx.com.br/images/47/472670281728251.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779744360
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/pes-2018-ps4-1407133549",
+    "defeito": false,
+    "detectado": "18:22",
     "fotoUrl": "https://img.olx.com.br/images/12/123544402017205.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/123544402017205.jpg"
     ],
-    "defeito": false,
+    "id": "1407133549",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/pes-2018-ps4-1407133549",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "PES 2018 - PS4",
     "ts": 1779744137
   },
   {
@@ -10340,26 +10363,5 @@
     "tempoOlx": "Na OLX desde maio de 2020",
     "titulo": "Ps4 Slim 1TB, com 2 controles e 3 jogos ",
     "ts": 1779716037
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/85/856652403044046.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/856652403044046.jpg",
-      "https://img.olx.com.br/images/85/855640405471701.jpg",
-      "https://img.olx.com.br/images/85/855621402125027.jpg"
-    ],
-    "id": "1504796033",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-1504796033",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "Video game",
-    "ts": 1779716029
   }
 ]
