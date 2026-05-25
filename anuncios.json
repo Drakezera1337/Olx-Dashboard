@@ -1,23 +1,46 @@
 [
   {
-    "id": "1504788722",
-    "titulo": "Horizon Zero Dawn",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "categoria": "jogos",
+    "id": "1504788526",
+    "titulo": "Skyrim PS4 ",
+    "preco": 220,
+    "precoRaw": "R$ 220",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:30",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "detectado": "10:31",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/horizon-zero-dawn-1504788722",
+    "link": "https://mg.olx.com.br/regiao-de-divinopolis/games/jogos-de-video-game/skyrim-ps4-1504788526",
+    "fotoUrl": "https://img.olx.com.br/images/37/375699522219162.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/375699522219162.jpg",
+      "https://img.olx.com.br/images/38/382648402559382.jpg",
+      "https://img.olx.com.br/images/40/404674402887314.jpg",
+      "https://img.olx.com.br/images/42/424658646299393.jpg",
+      "https://img.olx.com.br/images/44/446659166093987.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779715862
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:30",
     "fotoUrl": "https://img.olx.com.br/images/69/695631043951570.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/69/695631043951570.jpg",
       "https://img.olx.com.br/images/71/716638408568190.jpg",
       "https://img.olx.com.br/images/73/739685403597277.jpg"
     ],
-    "defeito": false,
+    "id": "1504788722",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/horizon-zero-dawn-1504788722",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Horizon Zero Dawn",
     "ts": 1779715854
   },
   {
@@ -10197,28 +10220,5 @@
     "tempoOlx": "Na OLX desde junho de 2022",
     "titulo": "Psp Sony Original (Conserto/retiradas de peças)",
     "ts": 1779633229
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:33",
-    "fotoUrl": "https://img.olx.com.br/images/56/569641767637512.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/569641767637512.jpg",
-      "https://img.olx.com.br/images/57/578678408272744.jpg",
-      "https://img.olx.com.br/images/58/580686768812386.jpg",
-      "https://img.olx.com.br/images/59/594657402014374.jpg",
-      "https://img.olx.com.br/images/60/601612165338749.jpg",
-      "https://img.olx.com.br/images/61/611676762750900.jpg"
-    ],
-    "id": "1504598894",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/playstation-4-botao-eject-nao-funciona-1504598894",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "Playstation 4 - botão eject não funciona.",
-    "ts": 1779633197
   }
 ]
