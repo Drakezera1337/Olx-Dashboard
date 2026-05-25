@@ -1,16 +1,30 @@
 [
   {
-    "id": "1504859898",
-    "titulo": "PS4 MODELO FAT 500GB 2016",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1504859095",
+    "titulo": "Playstation 3 Sem Controle",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:41",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde novembro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-modelo-fat-500gb-2016-1504859898",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/playstation-3-sem-controle-1504859095",
+    "fotoUrl": "https://img.olx.com.br/images/96/969697042110743.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/969697042110743.jpg",
+      "https://img.olx.com.br/images/98/982686281650500.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779727309
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:41",
     "fotoUrl": "https://img.olx.com.br/images/98/981652285033487.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/981652285033487.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/14/145632647441116.jpg",
       "https://img.olx.com.br/images/15/152614047886884.jpg"
     ],
-    "defeito": false,
+    "id": "1504859898",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-modelo-fat-500gb-2016-1504859898",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4 MODELO FAT 500GB 2016",
     "ts": 1779727301
   },
   {
@@ -10398,29 +10418,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "[MACAÉ] iPhone 13 Pro Branco 128GB (100% Original)",
-    "ts": 1779678119
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:01",
-    "fotoUrl": "https://img.olx.com.br/images/50/502629166175821.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/50/502629166175821.jpg",
-      "https://img.olx.com.br/images/52/528639521266159.jpg",
-      "https://img.olx.com.br/images/54/547682286620423.jpg",
-      "https://img.olx.com.br/images/56/562672649252955.jpg",
-      "https://img.olx.com.br/images/58/582616643688100.jpg"
-    ],
-    "id": "1504536750",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1504536750",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 12 64gb",
     "ts": 1779678119
   }
 ]
