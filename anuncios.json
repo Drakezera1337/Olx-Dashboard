@@ -1,22 +1,44 @@
 [
   {
-    "id": "1504933511",
-    "titulo": "PS4 Preto + 2 controles",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1504933093",
+    "titulo": "iPhone 12 64gb",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "17:57",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "detectado": "17:58",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-64gb-1504933093",
+    "fotoUrl": "https://img.olx.com.br/images/22/228633402897160.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/228633402897160.jpg",
+      "https://img.olx.com.br/images/24/243649529782821.jpg",
+      "https://img.olx.com.br/images/28/288697403429567.jpg",
+      "https://img.olx.com.br/images/30/303648767875519.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779742720
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-preto-2-controles-1504933511",
+    "defeito": false,
+    "detectado": "17:57",
     "fotoUrl": "https://img.olx.com.br/images/34/343619528710056.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/343619528710056.jpg",
       "https://img.olx.com.br/images/35/353669521538788.jpg"
     ],
-    "defeito": false,
+    "id": "1504933511",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-preto-2-controles-1504933511",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "PS4 Preto + 2 controles",
     "ts": 1779742629
   },
   {
@@ -10355,25 +10377,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "Promoção jogos de ps4 90$ qualquer um na compra de 3 70$ cada ",
     "ts": 1779715821
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:30",
-    "fotoUrl": "https://img.olx.com.br/images/77/770457217998526.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/770457217998526.jpg",
-      "https://img.olx.com.br/images/77/773419330692045.jpg"
-    ],
-    "id": "1346299200",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-until-dawn-1346299200",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2021",
-    "titulo": "Jogo PS4 Until Dawn",
-    "ts": 1779715811
   }
 ]
