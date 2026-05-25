@@ -1,21 +1,41 @@
 [
   {
-    "id": "1504352251",
-    "titulo": "Days Gone PS4",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "categoria": "ps4",
+    "id": "1504352855",
+    "titulo": "Pess2021",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "10:36",
+    "detectado": "10:37",
     "tempoOlx": "Na OLX desde abril de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/days-gone-ps4-1504352251",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pess2021-1504352855",
+    "fotoUrl": "https://img.olx.com.br/images/92/929634769518720.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/929634769518720.jpg",
+      "https://img.olx.com.br/images/93/937628528964981.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779716224
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:36",
     "fotoUrl": "https://img.olx.com.br/images/84/846634525296133.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/846634525296133.jpg"
     ],
-    "defeito": false,
+    "id": "1504352251",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/days-gone-ps4-1504352251",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "Days Gone PS4",
     "ts": 1779716217
   },
   {
@@ -10211,25 +10231,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "PlayStation 3",
     "ts": 1779656851
-  },
-  {
-    "categoria": "xbox",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:07",
-    "fotoUrl": "https://img.olx.com.br/images/90/909605127278368.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/90/909605127278368.jpg",
-      "https://img.olx.com.br/images/92/924625247118424.jpg",
-      "https://img.olx.com.br/images/94/942620483182423.jpg"
-    ],
-    "id": "1470222469",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-s-all-digital-edition-1681-excelente-1470222469",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
-    "titulo": "Xbox S ALL Digital Edition 1681 excelente",
-    "ts": 1779656843
   }
 ]
