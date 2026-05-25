@@ -1,23 +1,47 @@
 [
   {
-    "id": "1504866729",
-    "titulo": "South Park ps4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1504867725",
+    "titulo": "Iphone 8 ",
+    "preco": 440,
+    "precoRaw": "R$ 440",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "14:16",
-    "tempoOlx": "Na OLX desde junho de 2013",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-1504867725",
+    "fotoUrl": "https://img.olx.com.br/images/48/488604286060684.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/488604286060684.jpg",
+      "https://img.olx.com.br/images/51/516601282971899.jpg",
+      "https://img.olx.com.br/images/53/535633887703042.jpg",
+      "https://img.olx.com.br/images/55/558666880173977.jpg",
+      "https://img.olx.com.br/images/57/578607529494679.jpg",
+      "https://img.olx.com.br/images/60/601646525612413.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779729399
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/south-park-ps4-1504866729",
+    "defeito": false,
+    "detectado": "14:16",
     "fotoUrl": "https://img.olx.com.br/images/77/772604886963590.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/772604886963590.jpg",
       "https://img.olx.com.br/images/78/780666161415624.jpg",
       "https://img.olx.com.br/images/80/800617045304518.jpg"
     ],
-    "defeito": false,
+    "id": "1504866729",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/south-park-ps4-1504866729",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2013",
+    "titulo": "South Park ps4",
     "ts": 1779729373
   },
   {
@@ -10379,30 +10403,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Carta Pikachu EX",
-    "ts": 1779678200
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:03",
-    "fotoUrl": "https://img.olx.com.br/images/13/136631520673825.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/136631520673825.jpg",
-      "https://img.olx.com.br/images/48/481649289574674.jpg",
-      "https://img.olx.com.br/images/48/489635286628312.jpg",
-      "https://img.olx.com.br/images/48/480624527432954.jpg",
-      "https://img.olx.com.br/images/48/489626403664655.jpg",
-      "https://img.olx.com.br/images/48/487632400301104.jpg"
-    ],
-    "id": "1499805280",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-dsi-rosa-seminovo-1499805280",
-    "preco": 890,
-    "precoRaw": "R$ 890",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Dsi Rosa Seminovo",
     "ts": 1779678200
   }
 ]
