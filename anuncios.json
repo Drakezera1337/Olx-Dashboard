@@ -1,16 +1,33 @@
 [
   {
-    "id": "1504955897",
-    "titulo": "PlayStation 4 1T ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1504617027",
+    "titulo": "IPHONE 13 ",
+    "preco": 1999,
+    "precoRaw": "R$ 1.999",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "19:26",
+    "detectado": "19:27",
     "tempoOlx": "",
     "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1504617027",
+    "fotoUrl": "https://img.olx.com.br/images/85/850627641205722.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/850627641205722.jpg",
+      "https://img.olx.com.br/images/86/862697523876706.jpg",
+      "https://img.olx.com.br/images/87/876658766478899.jpg",
+      "https://img.olx.com.br/images/88/883696761760080.jpg",
+      "https://img.olx.com.br/images/90/906678041453740.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779748025
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1t-1504955897",
+    "defeito": false,
+    "detectado": "19:26",
     "fotoUrl": "https://img.olx.com.br/images/97/970625044307400.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/970625044307400.jpg",
@@ -19,21 +36,21 @@
       "https://img.olx.com.br/images/12/123639882852013.jpg",
       "https://img.olx.com.br/images/14/144625287081194.jpg"
     ],
-    "defeito": false,
+    "id": "1504955897",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1t-1504955897",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "PlayStation 4 1T ",
     "ts": 1779748017
   },
   {
-    "id": "1504955580",
-    "titulo": "Ps4 lacrado 1tera, 1 controle e 03 jogos",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
     "categoria": "ps4",
-    "publicado": "",
-    "detectado": "19:26",
-    "tempoOlx": "",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/consoles-de-video-game/ps4-lacrado-1tera-1-controle-e-03-jogos-1504955580",
+    "defeito": false,
+    "detectado": "19:26",
     "fotoUrl": "https://img.olx.com.br/images/13/131644769251583.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/131644769251583.jpg",
@@ -42,7 +59,13 @@
       "https://img.olx.com.br/images/17/170633282396581.jpg",
       "https://img.olx.com.br/images/18/184650288940224.jpg"
     ],
-    "defeito": false,
+    "id": "1504955580",
+    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/consoles-de-video-game/ps4-lacrado-1tera-1-controle-e-03-jogos-1504955580",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4 lacrado 1tera, 1 controle e 03 jogos",
     "ts": 1779748017
   },
   {
@@ -10373,30 +10396,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps4 Slim Completo | Impecável",
-    "ts": 1779717716
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:01",
-    "fotoUrl": "https://img.olx.com.br/images/34/349660048790763.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/349660048790763.jpg",
-      "https://img.olx.com.br/images/37/373637287749446.jpg",
-      "https://img.olx.com.br/images/39/398621645717414.jpg",
-      "https://img.olx.com.br/images/41/416628762465548.jpg",
-      "https://img.olx.com.br/images/43/433626167639304.jpg",
-      "https://img.olx.com.br/images/45/451628280468847.jpg"
-    ],
-    "id": "1504217183",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps4-slim-1tb-completo-oportunidade-1504217183",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps4 Slim 1TB Completo Oportunidade ",
     "ts": 1779717716
   }
 ]
