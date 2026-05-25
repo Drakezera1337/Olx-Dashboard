@@ -1,23 +1,44 @@
 [
   {
-    "id": "1504735247",
-    "titulo": "Ps5",
-    "preco": 2450,
-    "precoRaw": "R$ 2.450",
-    "categoria": "ps5",
+    "id": "1504735636",
+    "titulo": "Call of Duty Infinite Warfare - PS4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:51",
-    "tempoOlx": "Na OLX desde outubro de 2022",
+    "detectado": "00:56",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps5-1504735247",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/call-of-duty-infinite-warfare-ps4-1504735636",
+    "fotoUrl": "https://img.olx.com.br/images/24/241693408296547.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/241693408296547.jpg",
+      "https://img.olx.com.br/images/25/254636769286089.jpg",
+      "https://img.olx.com.br/images/26/266644763405278.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779681415
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:51",
     "fotoUrl": "https://img.olx.com.br/images/67/674658649608261.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/674658649608261.jpg",
       "https://img.olx.com.br/images/69/697620403906038.jpg",
       "https://img.olx.com.br/images/70/701691762764583.jpg"
     ],
-    "defeito": false,
+    "id": "1504735247",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps5-1504735247",
+    "preco": 2450,
+    "precoRaw": "R$ 2.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "Ps5",
     "ts": 1779681116
   },
   {
@@ -10132,23 +10153,5 @@
     "tempoOlx": "Na OLX desde agosto de 2016",
     "titulo": "Jogo Watchdogs Ps4 - Midia Fisica - Português - Impecável! + Brindes!",
     "ts": 1779628965
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:22",
-    "fotoUrl": "https://img.olx.com.br/images/27/276409719187641.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/276409719187641.jpg"
-    ],
-    "id": "1361068613",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/residente-evil-7-ps4-1361068613",
-    "preco": 169,
-    "precoRaw": "R$ 169",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Residente Evil 7 Ps4 ",
-    "ts": 1779628957
   }
 ]
