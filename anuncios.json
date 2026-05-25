@@ -1,15 +1,30 @@
 [
   {
-    "id": "1504705780",
-    "titulo": "Xbox One S",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "xbox",
+    "id": "1504705525",
+    "titulo": "Óculos digital ",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "21:22",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "descricao": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1504705780",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/oculos-digital-1504705525",
+    "fotoUrl": "https://img.olx.com.br/images/73/730645286156137.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/730645286156137.jpg",
+      "https://img.olx.com.br/images/74/745676280065267.jpg",
+      "https://img.olx.com.br/images/75/758670405534191.jpg",
+      "https://img.olx.com.br/images/77/770677403647333.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779668577
+  },
+  {
+    "categoria": "xbox",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:22",
     "fotoUrl": "https://img.olx.com.br/images/84/841684764703730.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/841684764703730.jpg",
@@ -17,7 +32,13 @@
       "https://img.olx.com.br/images/87/873632525977257.jpg",
       "https://img.olx.com.br/images/42/426613525920653.jpg"
     ],
-    "defeito": false,
+    "id": "1504705780",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-one-s-1504705780",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Xbox One S",
     "ts": 1779668568
   },
   {
@@ -9921,24 +9942,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "Days Gone + Horizon Zero Dawn ",
     "ts": 1779577389
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "20:03",
-    "fotoUrl": "https://img.olx.com.br/images/16/161693526364345.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/161693526364345.jpg",
-      "https://img.olx.com.br/images/17/178652286137721.jpg"
-    ],
-    "id": "1504521362",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/red-dead-redemption-2-ps4-1504521362",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Red Dead Redemption 2 - PS4",
-    "ts": 1779577380
   }
 ]
