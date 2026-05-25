@@ -1,23 +1,42 @@
 [
   {
-    "id": "1504976458",
-    "titulo": "celular",
-    "preco": 2750,
-    "precoRaw": "R$ 2.750",
+    "id": "1504977258",
+    "titulo": "Play 4 slin 1T ",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "20:51",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "20:52",
+    "tempoOlx": "Na OLX desde julho de 2018",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/play-4-slin-1t-1504977258",
+    "fotoUrl": "https://img.olx.com.br/images/57/579686766874446.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/579686766874446.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779753120
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-1504976458",
+    "defeito": false,
+    "detectado": "20:51",
     "fotoUrl": "https://img.olx.com.br/images/30/309622643140158.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/309622643140158.jpg",
       "https://img.olx.com.br/images/46/461631165671705.jpg",
       "https://img.olx.com.br/images/47/476660167415155.jpg"
     ],
-    "defeito": false,
+    "id": "1504976458",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-1504976458",
+    "preco": 2750,
+    "precoRaw": "R$ 2.750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "celular",
     "ts": 1779753118
   },
   {
@@ -10390,25 +10409,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "Jogo de PS4 ",
     "ts": 1779719633
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:33",
-    "fotoUrl": "https://img.olx.com.br/images/24/240646641218544.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/240646641218544.jpg",
-      "https://img.olx.com.br/images/26/265670049337623.jpg"
-    ],
-    "id": "1504663152",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogo-de-ps4-1504663152",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Jogo de PS4 ",
-    "ts": 1779719623
   }
 ]
