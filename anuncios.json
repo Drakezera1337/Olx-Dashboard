@@ -1,16 +1,29 @@
 [
   {
-    "id": "1487574910",
-    "titulo": "Playstation VR2",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
+    "id": "1504168845",
+    "titulo": "Vendo Vídeo Game ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "outros",
     "publicado": "",
     "detectado": "10:32",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde novembro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/playstation-vr2-1487574910",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/vendo-video-game-1504168845",
+    "fotoUrl": "https://img.olx.com.br/images/83/835608644306502.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/835608644306502.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779715953
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:32",
     "fotoUrl": "https://img.olx.com.br/images/26/260692620562465.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/260692620562465.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/30/305614744497979.jpg",
       "https://img.olx.com.br/images/31/315663621182496.jpg"
     ],
-    "defeito": false,
+    "id": "1487574910",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/playstation-vr2-1487574910",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Playstation VR2",
     "ts": 1779715947
   },
   {
@@ -10201,26 +10220,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": "Metal Gear Solid Snake - PS5",
     "ts": 1779656625
-  },
-  {
-    "categoria": "iphone",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "11:39",
-    "fotoUrl": "https://img.olx.com.br/images/26/264664760662855.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/264664760662855.jpg",
-      "https://img.olx.com.br/images/27/274657407155679.jpg",
-      "https://img.olx.com.br/images/28/280608525812179.jpg",
-      "https://img.olx.com.br/images/30/308680763239917.jpg"
-    ],
-    "id": "1504599056",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1504599056",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2018",
-    "titulo": "iPhone 12 ",
-    "ts": 1779633588
   }
 ]
