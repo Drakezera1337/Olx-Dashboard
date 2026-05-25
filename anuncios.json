@@ -1,16 +1,29 @@
 [
   {
-    "id": "1495240252",
-    "titulo": "Jogos PS5 e PS4",
-    "preco": 999,
-    "precoRaw": "R$ 999",
+    "id": "1495239765",
+    "titulo": "Jogos de PS4 e PS5",
+    "preco": 200,
+    "precoRaw": "R$ 200",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "17:08",
     "tempoOlx": "Na OLX desde agosto de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps5-e-ps4-1495240252",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1495239765",
+    "fotoUrl": "https://img.olx.com.br/images/24/240684759244237.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/240684759244237.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779739709
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:08",
     "fotoUrl": "https://img.olx.com.br/images/19/199689278722169.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/199689278722169.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/25/258659155068925.jpg",
       "https://img.olx.com.br/images/27/278620630950490.jpg"
     ],
-    "defeito": false,
+    "id": "1495240252",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps5-e-ps4-1495240252",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "Jogos PS5 e PS4",
     "ts": 1779739702
   },
   {
@@ -10378,24 +10397,5 @@
     "tempoOlx": "Na OLX desde junho de 2018",
     "titulo": "iPhone 11 128GB",
     "ts": 1779715221
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:20",
-    "fotoUrl": "https://img.olx.com.br/images/59/593528577760728.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/593528577760728.jpg"
-    ],
-    "id": "1441564199",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/suporte-play-5-stand-base-horizontal-deitado-playstation-ps5-1441564199",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Suporte Play 5 Stand Base Horizontal Deitado Playstation Ps5",
-    "ts": 1779715218
   }
 ]
