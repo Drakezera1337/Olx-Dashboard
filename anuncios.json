@@ -1,22 +1,41 @@
 [
   {
-    "id": "1504352855",
-    "titulo": "Pess2021",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "outros",
+    "id": "1504284072",
+    "titulo": "SPIDER MAN  PS4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:37",
     "tempoOlx": "Na OLX desde abril de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pess2021-1504352855",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/spider-man-ps4-1504284072",
+    "fotoUrl": "https://img.olx.com.br/images/35/355698164933601.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/355698164933601.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779716231
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:37",
     "fotoUrl": "https://img.olx.com.br/images/92/929634769518720.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/929634769518720.jpg",
       "https://img.olx.com.br/images/93/937628528964981.jpg"
     ],
-    "defeito": false,
+    "id": "1504352855",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pess2021-1504352855",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "Pess2021",
     "ts": 1779716224
   },
   {
@@ -10209,27 +10228,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Playstation 3 Fat Retrocompativel ",
     "ts": 1779656859
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "18:07",
-    "fotoUrl": "https://img.olx.com.br/images/97/975580839159995.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/975580839159995.jpg",
-      "https://img.olx.com.br/images/99/992556474167569.jpg",
-      "https://img.olx.com.br/images/10/100521711822859.jpg",
-      "https://img.olx.com.br/images/12/125590594982945.jpg",
-      "https://img.olx.com.br/images/14/149558714336926.jpg"
-    ],
-    "id": "1461722660",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-3-1461722660",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "PlayStation 3",
-    "ts": 1779656851
   }
 ]
