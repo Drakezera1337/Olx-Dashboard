@@ -1,16 +1,30 @@
 [
   {
-    "id": "1504785889",
-    "titulo": "Playstation 4 ",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
+    "id": "1504546186",
+    "titulo": "PS4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:22",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "tempoOlx": "Na OLX desde setembro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/consoles-de-video-game/playstation-4-1504785889",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-1504546186",
+    "fotoUrl": "https://img.olx.com.br/images/39/393636523169099.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/393636523169099.jpg",
+      "https://img.olx.com.br/images/40/409626760510599.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779715331
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:22",
     "fotoUrl": "https://img.olx.com.br/images/77/779625763031857.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/779625763031857.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/80/806638646714439.jpg",
       "https://img.olx.com.br/images/81/818664289796031.jpg"
     ],
-    "defeito": false,
+    "id": "1504785889",
+    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/consoles-de-video-game/playstation-4-1504785889",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "titulo": "Playstation 4 ",
     "ts": 1779715324
   },
   {
@@ -10160,24 +10180,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "Xbox Series S",
     "ts": 1779630167
-  },
-  {
-    "categoria": "ps3",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "10:38",
-    "fotoUrl": "https://img.olx.com.br/images/98/985527894252887.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/985527894252887.jpg",
-      "https://img.olx.com.br/images/10/106524411981720.jpg"
-    ],
-    "id": "1414830812",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/jogos-ps3-novos-e-seminovos-1414830812",
-    "preco": 249,
-    "precoRaw": "R$ 249",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2016",
-    "titulo": "Jogos PS3 Novos e Seminovos.",
-    "ts": 1779629889
   }
 ]
