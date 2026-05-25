@@ -1,20 +1,39 @@
 [
   {
-    "id": "1504704325",
-    "titulo": "The Last of us parte 1 ",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1504704062",
+    "titulo": "The Last of us parte 2",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "21:09",
     "tempoOlx": "Na OLX desde novembro de 2018",
     "descricao": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-parte-1-1504704325",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-parte-2-1504704062",
+    "fotoUrl": "https://img.olx.com.br/images/82/829668401303268.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/829668401303268.jpg",
+      "https://img.olx.com.br/images/84/842653762901146.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779667773
+  },
+  {
+    "categoria": "jogos",
+    "defeito": false,
+    "descricao": "",
+    "detectado": "21:09",
     "fotoUrl": "https://img.olx.com.br/images/27/271676888068748.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/271676888068748.jpg"
     ],
-    "defeito": false,
+    "id": "1504704325",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-last-of-us-parte-1-1504704325",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "The Last of us parte 1 ",
     "ts": 1779667766
   },
   {
@@ -9912,26 +9931,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Lego Worlds Ps4",
     "ts": 1779575984
-  },
-  {
-    "categoria": "ps4",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "19:39",
-    "fotoUrl": "https://img.olx.com.br/images/46/463662140201315.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/463662140201315.jpg",
-      "https://img.olx.com.br/images/49/496657746309695.jpg",
-      "https://img.olx.com.br/images/52/520646382475846.jpg",
-      "https://img.olx.com.br/images/54/548644381963148.jpg"
-    ],
-    "id": "1484690843",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/until-dawn-ps4-jogo-de-terror-interativo-1484690843",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Until Dawn PS4 - Jogo de Terror Interativo",
-    "ts": 1779575976
   }
 ]
