@@ -1,22 +1,43 @@
 [
   {
-    "id": "1504975102",
-    "titulo": "Jogos e controle ps4 ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps4",
+    "id": "1504976458",
+    "titulo": "celular",
+    "preco": 2750,
+    "precoRaw": "R$ 2.750",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "20:49",
-    "tempoOlx": "Na OLX desde agosto de 2021",
+    "detectado": "20:51",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-1504976458",
+    "fotoUrl": "https://img.olx.com.br/images/30/309622643140158.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/309622643140158.jpg",
+      "https://img.olx.com.br/images/46/461631165671705.jpg",
+      "https://img.olx.com.br/images/47/476660167415155.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779753118
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-e-controle-ps4-1504975102",
+    "defeito": false,
+    "detectado": "20:49",
     "fotoUrl": "https://img.olx.com.br/images/95/959669408225881.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/959669408225881.jpg",
       "https://img.olx.com.br/images/97/976661524109029.jpg"
     ],
-    "defeito": false,
+    "id": "1504975102",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-e-controle-ps4-1504975102",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2021",
+    "titulo": "Jogos e controle ps4 ",
     "ts": 1779752977
   },
   {
@@ -10389,24 +10410,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "Jogo de PS4 ",
     "ts": 1779719623
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:33",
-    "fotoUrl": "https://img.olx.com.br/images/35/353653287681877.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/353653287681877.jpg"
-    ],
-    "id": "1504573100",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/jogo-ps4-1504573100",
-    "preco": 20,
-    "precoRaw": "R$ 20",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Jogo PS4",
-    "ts": 1779719614
   }
 ]
