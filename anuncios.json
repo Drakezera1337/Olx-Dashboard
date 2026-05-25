@@ -1,23 +1,46 @@
 [
   {
-    "id": "1504870873",
-    "titulo": "Ps4 no precinho (leia a descrição)",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps4",
+    "id": "1504906452",
+    "titulo": "iPhone 13 Branco 128GB",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "14:28",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "detectado": "17:01",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-branco-128gb-1504906452",
+    "fotoUrl": "https://img.olx.com.br/images/28/282624168536228.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/282624168536228.jpg",
+      "https://img.olx.com.br/images/30/308668883820397.jpg",
+      "https://img.olx.com.br/images/31/312618647608179.jpg",
+      "https://img.olx.com.br/images/34/348680403662016.jpg",
+      "https://img.olx.com.br/images/36/363627524950283.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779739292
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-no-precinho-leia-a-descricao-1504870873",
+    "defeito": false,
+    "detectado": "14:28",
     "fotoUrl": "https://img.olx.com.br/images/51/518632640670192.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/518632640670192.jpg",
       "https://img.olx.com.br/images/53/534620641589643.jpg",
       "https://img.olx.com.br/images/55/558625760235210.jpg"
     ],
-    "defeito": false,
+    "id": "1504870873",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-no-precinho-leia-a-descricao-1504870873",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "Ps4 no precinho (leia a descrição)",
     "ts": 1779730091
   },
   {
@@ -10361,25 +10384,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "2 Pares Borracha Premio Grip Analógico Ps Vita  Slim 2000",
-    "ts": 1779678250
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "defeito": false,
-    "descricao": "",
-    "detectado": "00:04",
-    "fotoUrl": "https://img.olx.com.br/images/63/630645640185393.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/630645640185393.jpg"
-    ],
-    "id": "1500975379",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/1-unidade-protetor-de-tela-de-vidro-para-retroid-pocket-5-1500975379",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "1 Unidade Protetor De Tela De Vidro Para Retroid Pocket 5",
     "ts": 1779678250
   }
 ]
