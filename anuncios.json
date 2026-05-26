@@ -1,16 +1,34 @@
 [
   {
-    "id": "1505175352",
-    "titulo": "iPhone 13 Pro 128gb",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "categoria": "iphone",
+    "id": "1505216963",
+    "titulo": "PS5 POR R$2400 - LEIA A DESCRIÇÃO",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "19:46",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps5-por-r-2400-leia-a-descricao-1505216963",
+    "fotoUrl": "https://img.olx.com.br/images/27/272674162646052.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/272674162646052.jpg",
+      "https://img.olx.com.br/images/27/274669400791937.jpg",
+      "https://img.olx.com.br/images/28/283646760321516.jpg",
+      "https://img.olx.com.br/images/27/273654289522201.jpg",
+      "https://img.olx.com.br/images/28/285601046946879.jpg",
+      "https://img.olx.com.br/images/27/272640887794413.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779835577
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1505175352",
+    "defeito": false,
+    "detectado": "19:46",
     "fotoUrl": "https://img.olx.com.br/images/98/983636886727241.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/983636886727241.jpg",
@@ -20,7 +38,13 @@
       "https://img.olx.com.br/images/13/133666888395249.jpg",
       "https://img.olx.com.br/images/14/149691528511069.jpg"
     ],
-    "defeito": false,
+    "id": "1505175352",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1505175352",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "iPhone 13 Pro 128gb",
     "ts": 1779835572
   },
   {
@@ -10301,26 +10325,5 @@
     "tempoOlx": "Na OLX desde março de 2016",
     "titulo": "Jogo The Last Of Us Remasterizado PS4 Midia Fisica Original",
     "ts": 1779759658
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:40",
-    "fotoUrl": "https://img.olx.com.br/images/92/921614529328978.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/921614529328978.jpg",
-      "https://img.olx.com.br/images/94/946622764782194.jpg",
-      "https://img.olx.com.br/images/95/958657409914121.jpg"
-    ],
-    "id": "1505004414",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/anthem-midia-fisica-ps4-1505004414",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "ANTHEM - MIDIA FISICA PS4",
-    "ts": 1779759649
   }
 ]
