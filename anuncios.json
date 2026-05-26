@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505123641",
-    "titulo": "Lote de jogos ps4",
-    "preco": 280,
-    "precoRaw": "R$ 280",
-    "categoria": "ps4",
+    "id": "1505123370",
+    "titulo": "FIFA 19",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "11:59",
     "tempoOlx": "Na OLX desde novembro de 2013",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/lote-de-jogos-ps4-1505123641",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/fifa-19-1505123370",
+    "fotoUrl": "https://img.olx.com.br/images/23/232679288413154.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/232679288413154.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779807564
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:59",
     "fotoUrl": "https://img.olx.com.br/images/99/991659047842036.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/991659047842036.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/14/143671403872373.jpg",
       "https://img.olx.com.br/images/14/147636762480598.jpg"
     ],
-    "defeito": false,
+    "id": "1505123641",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/lote-de-jogos-ps4-1505123641",
+    "preco": 280,
+    "precoRaw": "R$ 280",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "Lote de jogos ps4",
     "ts": 1779807556
   },
   {
@@ -10372,25 +10391,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Hot wheels Honda civic si escala 1:87 ",
-    "ts": 1779751214
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "sjb",
-    "defeito": false,
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/85/852654641674048.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/852654641674048.jpg"
-    ],
-    "id": "1501247288",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/volante-multilaser-ps2-1501247288",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Volante Multilaser ps2",
     "ts": 1779751214
   }
 ]
