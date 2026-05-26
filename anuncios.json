@@ -1,23 +1,42 @@
 [
   {
-    "id": "1505199140",
-    "titulo": "Celular à venda",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "outros",
+    "id": "1505224059",
+    "titulo": "Ps5",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "19:46",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1505224059",
+    "fotoUrl": "https://img.olx.com.br/images/35/350691043726876.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/350691043726876.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779835569
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-a-venda-1505199140",
+    "defeito": false,
+    "detectado": "19:46",
     "fotoUrl": "https://img.olx.com.br/images/63/634670167539840.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/634670167539840.jpg",
       "https://img.olx.com.br/images/65/652613408555680.jpg",
       "https://img.olx.com.br/images/67/675687164133345.jpg"
     ],
-    "defeito": false,
+    "id": "1505199140",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-a-venda-1505199140",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Celular à venda",
     "ts": 1779835564
   },
   {
@@ -10303,27 +10322,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "The Last Of Us Part 2 Edição Especial LACRADA",
     "ts": 1779759641
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:38",
-    "fotoUrl": "https://img.olx.com.br/images/49/490646528412000.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/490646528412000.jpg",
-      "https://img.olx.com.br/images/50/505634401671952.jpg",
-      "https://img.olx.com.br/images/51/519655523607719.jpg",
-      "https://img.olx.com.br/images/53/532682280459991.jpg"
-    ],
-    "id": "1505002686",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/amiibo-magnamalo-1505002686",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2024",
-    "titulo": "Amiibo Magnamalo",
-    "ts": 1779759528
   }
 ]
