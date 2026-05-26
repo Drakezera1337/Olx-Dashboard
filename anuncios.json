@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505134591",
-    "titulo": "Lote Futebol (PS4)",
-    "preco": 490,
-    "precoRaw": "R$ 490",
+    "id": "1505134331",
+    "titulo": "Rugby 15 PS4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:35",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "tempoOlx": "Na OLX desde setembro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lote-futebol-ps4-1505134591",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/rugby-15-ps4-1505134331",
+    "fotoUrl": "https://img.olx.com.br/images/97/973682640679261.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/97/973682640679261.jpg",
+      "https://img.olx.com.br/images/97/975694163429913.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779809756
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:35",
     "fotoUrl": "https://img.olx.com.br/images/19/193664520406405.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/193664520406405.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/21/218644521313505.jpg",
       "https://img.olx.com.br/images/23/237677648964943.jpg"
     ],
-    "defeito": false,
+    "id": "1505134591",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/lote-futebol-ps4-1505134591",
+    "preco": 490,
+    "precoRaw": "R$ 490",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Lote Futebol (PS4)",
     "ts": 1779809746
   },
   {
@@ -10353,24 +10373,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "Horizon Zero Dawn - PS4",
     "ts": 1779751593
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:26",
-    "fotoUrl": "https://img.olx.com.br/images/49/496617401867280.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/496617401867280.jpg"
-    ],
-    "id": "1504968816",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/horizon-zero-down-ps4-1504968816",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2015",
-    "titulo": "HORIZON ZERO DOWN PS4",
-    "ts": 1779751587
   }
 ]
