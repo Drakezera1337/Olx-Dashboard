@@ -1,22 +1,42 @@
 [
   {
-    "id": "1505170368",
-    "titulo": "Farcry 4 e 5 PS4 ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1505246736",
+    "titulo": "iPhone 16 Pro Max 256GB",
+    "preco": 6199,
+    "precoRaw": "R$ 6.199",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "14:52",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "detectado": "19:45",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-256gb-1505246736",
+    "fotoUrl": "https://img.olx.com.br/images/20/200619284889982.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/200619284889982.jpg",
+      "https://img.olx.com.br/images/21/216647407776985.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779835533
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/farcry-4-e-5-ps4-1505170368",
+    "defeito": false,
+    "detectado": "14:52",
     "fotoUrl": "https://img.olx.com.br/images/23/239607641317626.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/239607641317626.jpg",
       "https://img.olx.com.br/images/25/259676049197331.jpg"
     ],
-    "defeito": false,
+    "id": "1505170368",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/farcry-4-e-5-ps4-1505170368",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "titulo": "Farcry 4 e 5 PS4 ",
     "ts": 1779817971
   },
   {
@@ -10309,26 +10329,5 @@
     "tempoOlx": "Na OLX desde maio de 2022",
     "titulo": "Jogos de PS4",
     "ts": 1779759327
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:35",
-    "fotoUrl": "https://img.olx.com.br/images/10/101688158640624.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/101688158640624.jpg",
-      "https://img.olx.com.br/images/12/121680393427484.jpg",
-      "https://img.olx.com.br/images/15/159618517624371.jpg"
-    ],
-    "id": "1496515699",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/resident-evil-2-remake-1496515699",
-    "preco": 109,
-    "precoRaw": "R$ 109",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2015",
-    "titulo": "Resident Evil 2 Remake",
-    "ts": 1779759319
   }
 ]
