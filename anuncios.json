@@ -1,23 +1,42 @@
 [
   {
-    "id": "1505022370",
-    "titulo": "Xbox Series S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1505023831",
+    "titulo": "iPhone 14, novinho",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "00:30",
-    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "detectado": "00:32",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-novinho-1505023831",
+    "fotoUrl": "https://img.olx.com.br/images/54/543677283473919.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/543677283473919.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779766341
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1505022370",
+    "defeito": false,
+    "detectado": "00:30",
     "fotoUrl": "https://img.olx.com.br/images/51/517671768474612.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/517671768474612.jpg",
       "https://img.olx.com.br/images/52/525646281262966.jpg",
       "https://img.olx.com.br/images/54/547679281989177.jpg"
     ],
-    "defeito": false,
+    "id": "1505022370",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1505022370",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
+    "titulo": "Xbox Series S",
     "ts": 1779766220
   },
   {
@@ -10394,26 +10413,5 @@
     "tempoOlx": "Na OLX desde março de 2023",
     "titulo": "PS4 Sony ",
     "ts": 1779739561
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:05",
-    "fotoUrl": "https://img.olx.com.br/images/80/804695163258735.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/804695163258735.jpg",
-      "https://img.olx.com.br/images/82/821667402827037.jpg",
-      "https://img.olx.com.br/images/83/836669048892262.jpg"
-    ],
-    "id": "1504916745",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-20-ps4-1504916745",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2020",
-    "titulo": "FIFA 20 - PS4",
-    "ts": 1779739552
   }
 ]
