@@ -1,23 +1,44 @@
 [
   {
-    "id": "1505003713",
-    "titulo": "PlayStation 4",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
+    "id": "1505005071",
+    "titulo": "Ps4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:41",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "22:44",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/playstation-4-1505003713",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1505005071",
+    "fotoUrl": "https://img.olx.com.br/images/17/177615283571758.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/177615283571758.jpg",
+      "https://img.olx.com.br/images/18/185639408063529.jpg",
+      "https://img.olx.com.br/images/19/196605284866468.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779759852
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:41",
     "fotoUrl": "https://img.olx.com.br/images/28/287608168571747.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/287608168571747.jpg",
       "https://img.olx.com.br/images/30/305623043661439.jpg",
       "https://img.olx.com.br/images/45/450631045534895.jpg"
     ],
-    "defeito": false,
+    "id": "1505003713",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/playstation-4-1505003713",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PlayStation 4",
     "ts": 1779759683
   },
   {
@@ -10411,24 +10432,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "Caixa de ps 5 ",
     "ts": 1779728470
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:55",
-    "fotoUrl": "https://img.olx.com.br/images/61/615633287670818.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/615633287670818.jpg"
-    ],
-    "id": "1504862760",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-vr2-psvr2-preco-de-oportunidade-1504862760",
-    "preco": 1710,
-    "precoRaw": "R$ 1.710",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2023",
-    "titulo": "PlayStation VR2 (PSVR2) | Preço de Oportunidade",
-    "ts": 1779728140
   }
 ]
