@@ -1,16 +1,31 @@
 [
   {
-    "id": "1504993783",
-    "titulo": "PlayStation 4 slim 450 gb de memória ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1504992831",
+    "titulo": "Xbox one s",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "21:49",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "detectado": "21:50",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1504992831",
+    "fotoUrl": "https://img.olx.com.br/images/10/102642165581517.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/102642165581517.jpg",
+      "https://img.olx.com.br/images/12/129697161449923.jpg",
+      "https://img.olx.com.br/images/13/138678041054307.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779756601
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-450-gb-de-memoria-1504993783",
+    "defeito": false,
+    "detectado": "21:49",
     "fotoUrl": "https://img.olx.com.br/images/68/681689161001923.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/681689161001923.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/88/881636160647351.jpg",
       "https://img.olx.com.br/images/91/911681642082508.jpg"
     ],
-    "defeito": false,
+    "id": "1504993783",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-450-gb-de-memoria-1504993783",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "PlayStation 4 slim 450 gb de memória ",
     "ts": 1779756592
   },
   {
@@ -10405,26 +10426,5 @@
     "tempoOlx": "Na OLX desde novembro de 2017",
     "titulo": "Jogos novos e lacrados para ps4 - leia",
     "ts": 1779724241
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:50",
-    "fotoUrl": "https://img.olx.com.br/images/33/337671522208915.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/33/337671522208915.jpg",
-      "https://img.olx.com.br/images/34/346676400010139.jpg",
-      "https://img.olx.com.br/images/35/352615282763511.jpg"
-    ],
-    "id": "1504846215",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/jogo-ps4-ps5-ace-combat-7-frete-gratis-1504846215",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2023",
-    "titulo": "Jogo ps4/ps5 ace combat 7 Frete grátis ",
-    "ts": 1779724233
   }
 ]
