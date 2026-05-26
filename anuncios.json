@@ -1,23 +1,42 @@
 [
   {
-    "id": "1496515699",
-    "titulo": "Resident Evil 2 Remake",
-    "preco": 109,
-    "precoRaw": "R$ 109",
-    "categoria": "jogos",
+    "id": "1505003198",
+    "titulo": "Jogos de PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "22:35",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "tempoOlx": "Na OLX desde maio de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/resident-evil-2-remake-1496515699",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1505003198",
+    "fotoUrl": "https://img.olx.com.br/images/49/498681287502231.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/498681287502231.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779759327
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:35",
     "fotoUrl": "https://img.olx.com.br/images/10/101688158640624.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/101688158640624.jpg",
       "https://img.olx.com.br/images/12/121680393427484.jpg",
       "https://img.olx.com.br/images/15/159618517624371.jpg"
     ],
-    "defeito": false,
+    "id": "1496515699",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/resident-evil-2-remake-1496515699",
+    "preco": 109,
+    "precoRaw": "R$ 109",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "Resident Evil 2 Remake",
     "ts": 1779759319
   },
   {
@@ -10412,25 +10431,5 @@
     "tempoOlx": "Na OLX desde maio de 2022",
     "titulo": "GTA5 ",
     "ts": 1779727122
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:36",
-    "fotoUrl": "https://img.olx.com.br/images/80/806655164967205.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/806655164967205.jpg",
-      "https://img.olx.com.br/images/82/821641522778823.jpg"
-    ],
-    "id": "1504858677",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/2-ps3-slim-e-super-slim-com-defeito-para-pecas-1504858677",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2014",
-    "titulo": "2 ps3 slim e super slim com defeito para pecas",
-    "ts": 1779727000
   }
 ]
