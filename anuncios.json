@@ -1,21 +1,41 @@
 [
   {
-    "id": "1505144200",
-    "titulo": "Jogo de ps4 fifa",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1505144847",
+    "titulo": "Nintendo Switch v1",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "13:16",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "detectado": "13:17",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogo-de-ps4-fifa-1505144200",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/nintendo-switch-v1-1505144847",
+    "fotoUrl": "https://img.olx.com.br/images/48/480659042488342.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/480659042488342.jpg",
+      "https://img.olx.com.br/images/50/506628769548523.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779812255
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:16",
     "fotoUrl": "https://img.olx.com.br/images/38/384649165696201.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/384649165696201.jpg"
     ],
-    "defeito": false,
+    "id": "1505144200",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogo-de-ps4-fifa-1505144200",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "Jogo de ps4 fifa",
     "ts": 1779812213
   },
   {
@@ -10366,26 +10386,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "South Park - PS4",
-    "ts": 1779754088
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:08",
-    "fotoUrl": "https://img.olx.com.br/images/12/124607165529715.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/124607165529715.jpg",
-      "https://img.olx.com.br/images/14/142681641846032.jpg"
-    ],
-    "id": "1504979003",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-playstation-1504979003",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogos PlayStation ",
     "ts": 1779754088
   }
 ]
