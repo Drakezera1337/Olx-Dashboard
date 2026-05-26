@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505142913",
-    "titulo": "Xbox séries s 1tb leia o anúncio ENVIO OLX",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "xbox",
+    "id": "1421529723",
+    "titulo": "For Honor",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:05",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "13:10",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/xbox-series-s-1tb-leia-o-anuncio-envio-olx-1505142913",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/for-honor-1421529723",
+    "fotoUrl": "https://img.olx.com.br/images/57/572582182632402.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/572582182632402.jpg",
+      "https://img.olx.com.br/images/59/592538184509660.jpg",
+      "https://img.olx.com.br/images/61/611587540401335.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779811808
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:05",
     "fotoUrl": "https://img.olx.com.br/images/22/227680163593186.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/227680163593186.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/41/416659409675414.jpg",
       "https://img.olx.com.br/images/45/450638764216879.jpg"
     ],
-    "defeito": false,
+    "id": "1505142913",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/xbox-series-s-1tb-leia-o-anuncio-envio-olx-1505142913",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "Xbox séries s 1tb leia o anúncio ENVIO OLX",
     "ts": 1779811539
   },
   {
@@ -10371,26 +10392,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "CYBERPUNK 2077 - PS4",
     "ts": 1779753307
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:55",
-    "fotoUrl": "https://img.olx.com.br/images/28/288675525097529.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/288675525097529.jpg",
-      "https://img.olx.com.br/images/30/303683640322034.jpg",
-      "https://img.olx.com.br/images/35/356621766457268.jpg"
-    ],
-    "id": "1504977866",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/ps4-slim-1-tb-1504977866",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2021",
-    "titulo": "Ps4 slim 1 tb",
-    "ts": 1779753300
   }
 ]
