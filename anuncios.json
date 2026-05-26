@@ -1,21 +1,41 @@
 [
   {
-    "id": "1505020252",
-    "titulo": "Jogo PS4 - The last I (80R$) - The last II (150R$)",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1505021512",
+    "titulo": "Ps4 slim 1tb",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:15",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "detectado": "00:20",
+    "tempoOlx": "Na OLX desde novembro de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogo-ps4-the-last-i-80r--the-last-ii-150r-1505020252",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-slim-1tb-1505021512",
+    "fotoUrl": "https://img.olx.com.br/images/46/461606283708599.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/461606283708599.jpg",
+      "https://img.olx.com.br/images/48/486637768599849.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779765652
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:15",
     "fotoUrl": "https://img.olx.com.br/images/73/737692400285956.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/737692400285956.jpg"
     ],
-    "defeito": false,
+    "id": "1505020252",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogo-ps4-the-last-i-80r--the-last-ii-150r-1505020252",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "titulo": "Jogo PS4 - The last I (80R$) - The last II (150R$)",
     "ts": 1779765331
   },
   {
@@ -10397,27 +10417,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "PS Vita Fat ",
     "ts": 1779739534
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:05",
-    "fotoUrl": "https://img.olx.com.br/images/81/810670163254848.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/810670163254848.jpg",
-      "https://img.olx.com.br/images/83/839643409239118.jpg",
-      "https://img.olx.com.br/images/85/851678766552876.jpg",
-      "https://img.olx.com.br/images/87/872685040789018.jpg"
-    ],
-    "id": "1504890851",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/dock-nintendo-switch-oled-1504890851",
-    "preco": 260,
-    "precoRaw": "R$ 260",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Dock Nintendo Switch Oled",
-    "ts": 1779739525
   }
 ]
