@@ -1,21 +1,62 @@
 [
   {
-    "id": "1505179610",
-    "titulo": "Sansung J8 ",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "outros",
+    "id": "1505241701",
+    "titulo": "IPHONE 16 PRO MAX 256GB",
+    "preco": 6400,
+    "precoRaw": "R$ 6.400",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "19:45",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-256gb-1505241701",
+    "fotoUrl": "https://img.olx.com.br/images/49/496661166753068.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/496661166753068.jpg",
+      "https://img.olx.com.br/images/51/514648644226227.jpg",
+      "https://img.olx.com.br/images/53/532659283050537.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779835555
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:45",
+    "fotoUrl": "https://img.olx.com.br/images/65/659627047639862.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/659627047639862.jpg",
+      "https://img.olx.com.br/images/66/668659047182764.jpg"
+    ],
+    "id": "1505228306",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-semi-novo-a-venda-1505228306",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "PS5 semi novo à venda!",
+    "ts": 1779835549
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "sjb",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/sansung-j8-1505179610",
+    "defeito": false,
+    "detectado": "19:45",
     "fotoUrl": "https://img.olx.com.br/images/11/112668767283739.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/112668767283739.jpg"
     ],
-    "defeito": false,
+    "id": "1505179610",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/sansung-j8-1505179610",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Sansung J8 ",
     "ts": 1779835547
   },
   {
@@ -10284,50 +10325,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2014",
     "titulo": "iPhone 14 Pro Max 512gb",
     "ts": 1779759491
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:36",
-    "fotoUrl": "https://img.olx.com.br/images/96/960637141572603.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/960637141572603.jpg",
-      "https://img.olx.com.br/images/97/977695269220031.jpg",
-      "https://img.olx.com.br/images/98/984658626702680.jpg",
-      "https://img.olx.com.br/images/10/105609627958312.jpg",
-      "https://img.olx.com.br/images/11/116680023626762.jpg",
-      "https://img.olx.com.br/images/12/120616504457148.jpg"
-    ],
-    "id": "1488582000",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-de-lego-playstation-4-1488582000",
-    "preco": 155,
-    "precoRaw": "R$ 155",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2025",
-    "titulo": "Jogos De Lego - Playstation 4 ",
-    "ts": 1779759372
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:36",
-    "fotoUrl": "https://img.olx.com.br/images/19/195674527302201.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/195674527302201.jpg",
-      "https://img.olx.com.br/images/20/202635521485614.jpg",
-      "https://img.olx.com.br/images/21/216615881537399.jpg"
-    ],
-    "id": "1505002597",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ghost-jogo-de-ps4-midia-fisica-1505002597",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "GHOST - JOGO DE PS4 MIDIA FISICA",
-    "ts": 1779759362
   }
 ]
