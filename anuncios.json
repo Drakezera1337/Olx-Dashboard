@@ -1,21 +1,43 @@
 [
   {
-    "id": "1498560590",
-    "titulo": "Playstation 5",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "categoria": "ps5",
+    "id": "1505000898",
+    "titulo": "PS4 Usado - Desapego",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:23",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "detectado": "22:27",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-usado-desapego-1505000898",
+    "fotoUrl": "https://img.olx.com.br/images/37/373671400237441.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/373671400237441.jpg",
+      "https://img.olx.com.br/images/37/373651283033858.jpg",
+      "https://img.olx.com.br/images/37/372650163254387.jpg",
+      "https://img.olx.com.br/images/37/378621768769575.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779758830
+  },
+  {
+    "categoria": "ps5",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1498560590",
+    "defeito": false,
+    "detectado": "22:23",
     "fotoUrl": "https://img.olx.com.br/images/59/594688285878600.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/594688285878600.jpg"
     ],
-    "defeito": false,
+    "id": "1498560590",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1498560590",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Playstation 5",
     "ts": 1779758614
   },
   {
@@ -10417,27 +10439,5 @@
     "tempoOlx": "Na OLX desde junho de 2023",
     "titulo": "PS4 - 1 TB NOVO",
     "ts": 1779726763
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:29",
-    "fotoUrl": "https://img.olx.com.br/images/74/746643647584551.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/746643647584551.jpg",
-      "https://img.olx.com.br/images/76/769677407134798.jpg",
-      "https://img.olx.com.br/images/77/779632048526833.jpg",
-      "https://img.olx.com.br/images/78/788628402554624.jpg"
-    ],
-    "id": "1504786206",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/video-game-ps4-fat-500gb-1504786206",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "VIDEO GAME PS4 FAT 500GB",
-    "ts": 1779726580
   }
 ]
