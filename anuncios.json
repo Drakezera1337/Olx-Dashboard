@@ -1,23 +1,43 @@
 [
   {
-    "id": "1505232876",
-    "titulo": "PS4 SLIM 1 TERABYTE",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "categoria": "ps4",
+    "id": "1505232773",
+    "titulo": "FIFA 2017",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "19:57",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde abril de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-1-terabyte-1505232876",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/fifa-2017-1505232773",
+    "fotoUrl": "https://img.olx.com.br/images/38/383690760814844.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/383690760814844.jpg",
+      "https://img.olx.com.br/images/42/425649647633380.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779836266
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:57",
     "fotoUrl": "https://img.olx.com.br/images/56/569605047294840.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/569605047294840.jpg",
       "https://img.olx.com.br/images/57/578699524946088.jpg",
       "https://img.olx.com.br/images/58/581662403973854.jpg"
     ],
-    "defeito": false,
+    "id": "1505232876",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-1-terabyte-1505232876",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4 SLIM 1 TERABYTE",
     "ts": 1779836257
   },
   {
@@ -10315,25 +10335,5 @@
     "tempoOlx": "Na OLX desde novembro de 2016",
     "titulo": "Controle Ps4 Sem Fio ",
     "ts": 1779767513
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:48",
-    "fotoUrl": "https://img.olx.com.br/images/51/511659404049851.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/511659404049851.jpg",
-      "https://img.olx.com.br/images/53/532661764807559.jpg"
-    ],
-    "id": "1505025674",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/the-division-ps4-ps5-lacrado-1505025674",
-    "preco": 85,
-    "precoRaw": "R$ 85",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2022",
-    "titulo": "THE DIVISION PS4 & PS5 LACRADO",
-    "ts": 1779767330
   }
 ]
