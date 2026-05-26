@@ -1,22 +1,45 @@
 [
   {
-    "id": "1505130090",
-    "titulo": "iPhone 12 128GB",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "categoria": "iphone",
+    "id": "1505129003",
+    "titulo": "Ps4 500GB",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:19",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "detectado": "12:20",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-500gb-1505129003",
+    "fotoUrl": "https://img.olx.com.br/images/64/641605768974639.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/641605768974639.jpg",
+      "https://img.olx.com.br/images/64/645603404035277.jpg",
+      "https://img.olx.com.br/images/65/653688521234080.jpg",
+      "https://img.olx.com.br/images/65/652636761592914.jpg",
+      "https://img.olx.com.br/images/65/653634761851466.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779808806
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-1505130090",
+    "defeito": false,
+    "detectado": "12:19",
     "fotoUrl": "https://img.olx.com.br/images/33/331641768567518.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/331641768567518.jpg",
       "https://img.olx.com.br/images/35/352647404409665.jpg"
     ],
-    "defeito": false,
+    "id": "1505130090",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-1505130090",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "titulo": "iPhone 12 128GB",
     "ts": 1779808750
   },
   {
@@ -10362,27 +10385,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Nintendo Switch LITE D&$bloqu@d0 zerado vários jogos instalados!",
-    "ts": 1779751251
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/74/746624283141099.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/746624283141099.jpg",
-      "https://img.olx.com.br/images/75/752601041254535.jpg",
-      "https://img.olx.com.br/images/77/774654648016250.jpg"
-    ],
-    "id": "1504315217",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-1-tb-midia-fisica-2-controles-1504315217",
-    "preco": 3500,
-    "precoRaw": "R$ 3.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS5 1 TB Mídia física + 2 controles",
     "ts": 1779751251
   }
 ]
