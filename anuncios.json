@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505115906",
-    "titulo": "PS4",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
+    "id": "1483433877",
+    "titulo": "Call of Duty: Black Ops III Gold Edition para PS4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:31",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "tempoOlx": "Na OLX desde março de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/ps4-1505115906",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/call-of-duty-black-ops-iii-gold-edition-para-ps4-1483433877",
+    "fotoUrl": "https://img.olx.com.br/images/92/923606141594025.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/923606141594025.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779805879
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:31",
     "fotoUrl": "https://img.olx.com.br/images/74/740683522671175.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/740683522671175.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/73/738635168155936.jpg",
       "https://img.olx.com.br/images/73/736628406367082.jpg"
     ],
-    "defeito": false,
+    "id": "1505115906",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/ps4-1505115906",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "PS4",
     "ts": 1779805870
   },
   {
@@ -10399,27 +10418,5 @@
     "tempoOlx": "",
     "titulo": "PS4 slim 500 GB",
     "ts": 1779751071
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:17",
-    "fotoUrl": "https://img.olx.com.br/images/89/890670283628444.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/890670283628444.jpg",
-      "https://img.olx.com.br/images/89/893626768429071.jpg",
-      "https://img.olx.com.br/images/89/898624408827037.jpg",
-      "https://img.olx.com.br/images/89/896688886971568.jpg"
-    ],
-    "id": "1504965509",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-manete-1504965509",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4 FAT 500GB + MANETE",
-    "ts": 1779751054
   }
 ]
