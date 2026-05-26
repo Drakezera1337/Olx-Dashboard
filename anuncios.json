@@ -1,22 +1,42 @@
 [
   {
-    "id": "1505231932",
-    "titulo": "UFC 2",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "outros",
+    "id": "1505231433",
+    "titulo": "Call of Duty: Black Ops 4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "19:58",
     "tempoOlx": "Na OLX desde abril de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ufc-2-1505231932",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/call-of-duty-black-ops-4-1505231433",
+    "fotoUrl": "https://img.olx.com.br/images/56/560660409162013.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/560660409162013.jpg",
+      "https://img.olx.com.br/images/59/593629409954178.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779836290
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:58",
     "fotoUrl": "https://img.olx.com.br/images/82/829654040419530.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/829654040419530.jpg",
       "https://img.olx.com.br/images/84/846665282370915.jpg"
     ],
-    "defeito": false,
+    "id": "1505231932",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ufc-2-1505231932",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "UFC 2",
     "ts": 1779836281
   },
   {
@@ -10315,25 +10335,5 @@
     "tempoOlx": "Na OLX desde outubro de 2022",
     "titulo": "UNTIL DAWN PS4",
     "ts": 1779767767
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:55",
-    "fotoUrl": "https://img.olx.com.br/images/71/717617289877423.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/717617289877423.jpg",
-      "https://img.olx.com.br/images/73/737609401021293.jpg"
-    ],
-    "id": "1505026058",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/fifa-17-ps4-modo-historia-1505026058",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2022",
-    "titulo": "FIFA 17 PS4 MODO HISTÓRIA",
-    "ts": 1779767759
   }
 ]
