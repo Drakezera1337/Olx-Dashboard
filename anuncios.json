@@ -1,21 +1,43 @@
 [
   {
-    "id": "1505130099",
-    "titulo": "Jogos PS 4",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "jogos",
+    "id": "1505130053",
+    "titulo": "Red Dead Redemption 2 - PS4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:24",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "tempoOlx": "Na OLX desde junho de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-ps-4-1505130099",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-ps4-1505130053",
+    "fotoUrl": "https://img.olx.com.br/images/81/814615042081882.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/814615042081882.jpg",
+      "https://img.olx.com.br/images/83/832627640643442.jpg",
+      "https://img.olx.com.br/images/84/848649288341496.jpg",
+      "https://img.olx.com.br/images/86/863611880745664.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779809051
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:24",
     "fotoUrl": "https://img.olx.com.br/images/49/492667404559479.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/492667404559479.jpg"
     ],
-    "defeito": false,
+    "id": "1505130099",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/jogos-ps-4-1505130099",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "Jogos PS 4",
     "ts": 1779809043
   },
   {
@@ -10352,26 +10374,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox Series S",
-    "ts": 1779751251
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/59/590610888864119.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/590610888864119.jpg",
-      "https://img.olx.com.br/images/61/617689408029337.jpg"
-    ],
-    "id": "1504572663",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-xbox-one-s-usado-bom-estado-1504572663",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Vendo xbox one S usado bom estado",
     "ts": 1779751251
   }
 ]
