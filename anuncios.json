@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505129003",
-    "titulo": "Ps4 500GB",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1505129482",
+    "titulo": "PS3",
+    "preco": 330,
+    "precoRaw": "R$ 330",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "12:20",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-500gb-1505129003",
+    "link": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/ps3-1505129482",
+    "fotoUrl": "https://img.olx.com.br/images/48/487663283248986.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/487663283248986.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779808835
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:20",
     "fotoUrl": "https://img.olx.com.br/images/64/641605768974639.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/641605768974639.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/65/652636761592914.jpg",
       "https://img.olx.com.br/images/65/653634761851466.jpg"
     ],
-    "defeito": false,
+    "id": "1505129003",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-500gb-1505129003",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "Ps4 500GB",
     "ts": 1779808806
   },
   {
@@ -10363,28 +10382,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "NINTENDO WII U DESBLOQUEADO ? PRONTO PRA JOGAR",
-    "ts": 1779751251
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/17/177631049939782.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/177631049939782.jpg",
-      "https://img.olx.com.br/images/18/180627165983431.jpg",
-      "https://img.olx.com.br/images/19/199636885339903.jpg",
-      "https://img.olx.com.br/images/21/214606160431509.jpg"
-    ],
-    "id": "1504318741",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-lite-d-bloqu-d0-zerado-varios-jogos-instalados-1504318741",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Nintendo Switch LITE D&$bloqu@d0 zerado vários jogos instalados!",
     "ts": 1779751251
   }
 ]
