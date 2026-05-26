@@ -1,22 +1,46 @@
 [
   {
-    "id": "1505087466",
-    "titulo": "Xbox séries S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1504967661",
+    "titulo": "PS P? + A?ssó?s",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:54",
-    "tempoOlx": "Na OLX desde agosto de 2018",
+    "detectado": "12:56",
+    "tempoOlx": "Na OLX desde junho de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1505087466",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps-p-a-sso-s-1504967661",
+    "fotoUrl": "https://img.olx.com.br/images/63/638658048872770.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/638658048872770.jpg",
+      "https://img.olx.com.br/images/65/655649762190547.jpg",
+      "https://img.olx.com.br/images/66/662669166159838.jpg",
+      "https://img.olx.com.br/images/67/673684522303671.jpg",
+      "https://img.olx.com.br/images/69/695655404801458.jpg",
+      "https://img.olx.com.br/images/70/708668521462306.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779810966
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:54",
     "fotoUrl": "https://img.olx.com.br/images/75/759638762218818.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/759638762218818.jpg",
       "https://img.olx.com.br/images/77/774673768012402.jpg"
     ],
-    "defeito": false,
+    "id": "1505087466",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1505087466",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2018",
+    "titulo": "Xbox séries S ",
     "ts": 1779810876
   },
   {
@@ -10354,25 +10378,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "METAL GEAR SOLID V GROUND ZEROES - PS4",
     "ts": 1779752954
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:49",
-    "fotoUrl": "https://img.olx.com.br/images/19/194655647180251.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/194655647180251.jpg",
-      "https://img.olx.com.br/images/23/239622645510108.jpg"
-    ],
-    "id": "1504976273",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogo-ps4-pes-2020-midia-fisica-1504976273",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Jogo ps4 - PES 2020 - Mídia Física",
-    "ts": 1779752947
   }
 ]
