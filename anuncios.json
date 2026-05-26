@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505259678",
-    "titulo": "PES 2020 - Jogo para PS4",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "categoria": "ps4",
+    "id": "1505259373",
+    "titulo": "The last of us",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "20:36",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/pes-2020-jogo-para-ps4-1505259678",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/the-last-of-us-1505259373",
+    "fotoUrl": "https://img.olx.com.br/images/29/294681406946998.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/294681406946998.jpg",
+      "https://img.olx.com.br/images/36/363601287768391.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779838581
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:36",
     "fotoUrl": "https://img.olx.com.br/images/29/298665520444995.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/298665520444995.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/33/334605289915418.jpg",
       "https://img.olx.com.br/images/35/354682763149143.jpg"
     ],
-    "defeito": false,
+    "id": "1505259678",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/pes-2020-jogo-para-ps4-1505259678",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "PES 2020 - Jogo para PS4",
     "ts": 1779838572
   },
   {
@@ -10291,24 +10311,5 @@
     "tempoOlx": "Na OLX desde novembro de 2017",
     "titulo": "PS4 ",
     "ts": 1779800725
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:05",
-    "fotoUrl": "https://img.olx.com.br/images/94/946625276093313.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/946625276093313.jpg"
-    ],
-    "id": "1496969666",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/jogo-ps4-1496969666",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "Jogo ps4",
-    "ts": 1779800717
   }
 ]
