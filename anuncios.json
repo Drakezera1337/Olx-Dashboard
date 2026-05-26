@@ -1,16 +1,30 @@
 [
   {
-    "id": "1491666914",
-    "titulo": "Torre de resfriamento Xbox Series X",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "xbox",
+    "id": "1504986694",
+    "titulo": "Play 4 slim",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "21:23",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "detectado": "21:24",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/torre-de-resfriamento-xbox-series-x-1491666914",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-4-slim-1504986694",
+    "fotoUrl": "https://img.olx.com.br/images/58/589654282291025.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/589654282291025.jpg",
+      "https://img.olx.com.br/images/60/603635282852616.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779755051
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:23",
     "fotoUrl": "https://img.olx.com.br/images/95/952698758769763.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/952698758769763.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/10/105650871215432.jpg",
       "https://img.olx.com.br/images/11/113688153851758.jpg"
     ],
-    "defeito": false,
+    "id": "1491666914",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/torre-de-resfriamento-xbox-series-x-1491666914",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Torre de resfriamento Xbox Series X",
     "ts": 1779754991
   },
   {
@@ -10387,25 +10407,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Resident Evil VII - Gold Editions - Jogo para PS4",
     "ts": 1779722426
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:20",
-    "fotoUrl": "https://img.olx.com.br/images/68/681687763062669.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/681687763062669.jpg",
-      "https://img.olx.com.br/images/69/695621042937695.jpg"
-    ],
-    "id": "1504631713",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/sombras-de-mordor-ps4-e-ps5-1504631713",
-    "preco": 59,
-    "precoRaw": "R$ 59",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2025",
-    "titulo": "Sombras de Mordor - PS4 e PS5",
-    "ts": 1779722419
   }
 ]
