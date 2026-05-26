@@ -1,16 +1,29 @@
 [
   {
-    "id": "1428977452",
-    "titulo": "Spider-Man PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1504522683",
+    "titulo": "PlayStation 4",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:46",
-    "tempoOlx": "Na OLX desde maio de 2017",
+    "detectado": "23:50",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/spider-man-ps4-1428977452",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-1504522683",
+    "fotoUrl": "https://img.olx.com.br/images/26/263689403781936.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/263689403781936.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779763850
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "23:46",
     "fotoUrl": "https://img.olx.com.br/images/22/220595197957412.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/220595197957412.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/25/259507310428804.jpg",
       "https://img.olx.com.br/images/25/253530678931051.jpg"
     ],
-    "defeito": false,
+    "id": "1428977452",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/spider-man-ps4-1428977452",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "Spider-Man PS4",
     "ts": 1779763576
   },
   {
@@ -10421,26 +10440,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PLAYSTATION VR COMPLETO + DOOM",
     "ts": 1779739393
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:03",
-    "fotoUrl": "https://img.olx.com.br/images/81/812686521722189.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/812686521722189.jpg",
-      "https://img.olx.com.br/images/82/827650760799064.jpg",
-      "https://img.olx.com.br/images/83/832610166534913.jpg"
-    ],
-    "id": "1504884337",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-900-1504884337",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Ps4 900",
-    "ts": 1779739385
   }
 ]
