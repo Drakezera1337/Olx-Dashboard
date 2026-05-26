@@ -1,23 +1,43 @@
 [
   {
-    "id": "1505197022",
-    "titulo": "Xbox series s",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1466268708",
+    "titulo": "Skate ps3",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "19:51",
-    "tempoOlx": "Na OLX desde novembro de 2018",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/xbox-series-s-1505197022",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/skate-ps3-1466268708",
+    "fotoUrl": "https://img.olx.com.br/images/84/840676240089648.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/84/840676240089648.jpg",
+      "https://img.olx.com.br/images/86/864603365088160.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779835916
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:51",
     "fotoUrl": "https://img.olx.com.br/images/39/396667409815341.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/396667409815341.jpg",
       "https://img.olx.com.br/images/40/408666760797905.jpg",
       "https://img.olx.com.br/images/42/423614160886346.jpg"
     ],
-    "defeito": false,
+    "id": "1505197022",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/xbox-series-s-1505197022",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2018",
+    "titulo": "Xbox series s",
     "ts": 1779835908
   },
   {
@@ -10323,26 +10343,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogo para PS4 PS5 usado mídia física Assassins Creed Odyssey",
-    "ts": 1779762221
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "23:23",
-    "fotoUrl": "https://img.olx.com.br/images/24/241676647288710.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/241676647288710.jpg",
-      "https://img.olx.com.br/images/87/876684286026905.jpg"
-    ],
-    "id": "1505011614",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/uncherted-the-lost-legacy-original-1505011614",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "UNCHERTED THE LOST LEGACY ORIGINAL ",
     "ts": 1779762221
   }
 ]
