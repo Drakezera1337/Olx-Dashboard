@@ -1,21 +1,45 @@
 [
   {
-    "id": "1505224059",
-    "titulo": "Ps5",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "categoria": "ps5",
+    "id": "1505175352",
+    "titulo": "iPhone 13 Pro 128gb",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "19:46",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1505175352",
+    "fotoUrl": "https://img.olx.com.br/images/98/983636886727241.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/983636886727241.jpg",
+      "https://img.olx.com.br/images/99/993614165849520.jpg",
+      "https://img.olx.com.br/images/10/104611281755962.jpg",
+      "https://img.olx.com.br/images/12/123657403018684.jpg",
+      "https://img.olx.com.br/images/13/133666888395249.jpg",
+      "https://img.olx.com.br/images/14/149691528511069.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779835572
+  },
+  {
+    "categoria": "ps5",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1505224059",
+    "defeito": false,
+    "detectado": "19:46",
     "fotoUrl": "https://img.olx.com.br/images/35/350691043726876.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/350691043726876.jpg"
     ],
-    "defeito": false,
+    "id": "1505224059",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1505224059",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Ps5",
     "ts": 1779835569
   },
   {
@@ -10298,29 +10322,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "ANTHEM - MIDIA FISICA PS4",
     "ts": 1779759649
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:40",
-    "fotoUrl": "https://img.olx.com.br/images/83/832613284495973.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/832613284495973.jpg",
-      "https://img.olx.com.br/images/84/849627288958034.jpg",
-      "https://img.olx.com.br/images/86/868664528639779.jpg",
-      "https://img.olx.com.br/images/87/877648523405643.jpg",
-      "https://img.olx.com.br/images/88/883667286397405.jpg",
-      "https://img.olx.com.br/images/90/901607525932934.jpg"
-    ],
-    "id": "1505004435",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-part-2-edicao-especial-lacrada-1505004435",
-    "preco": 699,
-    "precoRaw": "R$ 699",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2014",
-    "titulo": "The Last Of Us Part 2 Edição Especial LACRADA",
-    "ts": 1779759641
   }
 ]
