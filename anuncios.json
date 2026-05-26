@@ -1,22 +1,43 @@
 [
   {
-    "id": "1505144280",
-    "titulo": "Playstation 4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1505143282",
+    "titulo": "Xbox Série S",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "13:11",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-4-1505144280",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/xbox-serie-s-1505143282",
+    "fotoUrl": "https://img.olx.com.br/images/36/367675289189927.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/367675289189927.jpg",
+      "https://img.olx.com.br/images/37/370617166334246.jpg",
+      "https://img.olx.com.br/images/38/381669284711102.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779811905
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:11",
     "fotoUrl": "https://img.olx.com.br/images/89/899640520396058.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/899640520396058.jpg",
       "https://img.olx.com.br/images/90/904624529857915.jpg"
     ],
-    "defeito": false,
+    "id": "1505144280",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-4-1505144280",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "Playstation 4",
     "ts": 1779811895
   },
   {
@@ -10368,24 +10389,5 @@
     "tempoOlx": "",
     "titulo": "Ps4 sim 1 Tb  (nao envio via olx,golpista nem tenta.Leia a Descrição)",
     "ts": 1779753911
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:04",
-    "fotoUrl": "https://img.olx.com.br/images/84/840603402836889.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/840603402836889.jpg"
-    ],
-    "id": "1504957959",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/playstation-5-com-bom-preco-a-vista-1504957959",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": " Playstation 5 com bom preço a vista .",
-    "ts": 1779753882
   }
 ]
