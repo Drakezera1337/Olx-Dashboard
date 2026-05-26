@@ -1,23 +1,44 @@
 [
   {
-    "id": "1504992831",
-    "titulo": "Xbox one s",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "xbox",
+    "id": "1504994849",
+    "titulo": "PlayStation 2 slim ",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "21:50",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "detectado": "21:53",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-2-slim-1504994849",
+    "fotoUrl": "https://img.olx.com.br/images/17/174628161002137.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/174628161002137.jpg",
+      "https://img.olx.com.br/images/19/192661643857338.jpg",
+      "https://img.olx.com.br/images/21/217679889243635.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779756792
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1504992831",
+    "defeito": false,
+    "detectado": "21:50",
     "fotoUrl": "https://img.olx.com.br/images/10/102642165581517.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/102642165581517.jpg",
       "https://img.olx.com.br/images/12/129697161449923.jpg",
       "https://img.olx.com.br/images/13/138678041054307.jpg"
     ],
-    "defeito": false,
+    "id": "1504992831",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1504992831",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "titulo": "Xbox one s",
     "ts": 1779756601
   },
   {
@@ -10406,25 +10427,5 @@
     "tempoOlx": "Na OLX desde abril de 2023",
     "titulo": "Gran Turismo Sport PS4",
     "ts": 1779724570
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:50",
-    "fotoUrl": "https://img.olx.com.br/images/29/290674646335331.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/290674646335331.jpg",
-      "https://img.olx.com.br/images/32/324630523259609.jpg"
-    ],
-    "id": "1504846143",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-novos-e-lacrados-para-ps4-leia-1504846143",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2017",
-    "titulo": "Jogos novos e lacrados para ps4 - leia",
-    "ts": 1779724241
   }
 ]
