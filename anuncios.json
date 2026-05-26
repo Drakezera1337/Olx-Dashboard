@@ -1,16 +1,52 @@
 [
   {
-    "id": "1504366734",
-    "titulo": "PlayStation 5 Slim 1tb + Dualsense 5",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1505250179",
+    "titulo": "Playstation 4 Slim 500GB (MUITO NOVO)",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:01",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-5-slim-1tb-dualsense-5-1504366734",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-muito-novo-1505250179",
+    "fotoUrl": "https://img.olx.com.br/images/51/517624529971899.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/51/517624529971899.jpg",
+      "https://img.olx.com.br/images/52/526694883958676.jpg",
+      "https://img.olx.com.br/images/54/545663287192383.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779836505
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "defeito": false,
+    "detectado": "20:01",
+    "fotoUrl": "https://img.olx.com.br/images/86/866674168145097.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/866674168145097.jpg",
+      "https://img.olx.com.br/images/88/886673641829752.jpg",
+      "https://img.olx.com.br/images/90/904639048631289.jpg"
+    ],
+    "id": "1505249831",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-256gb-1505249831",
+    "preco": 2799,
+    "precoRaw": "R$ 2.799",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "iPhone 13 Pro 256GB",
+    "ts": 1779836498
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:01",
     "fotoUrl": "https://img.olx.com.br/images/85/855602284574544.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/855602284574544.jpg",
@@ -20,7 +56,13 @@
       "https://img.olx.com.br/images/91/916671042164392.jpg",
       "https://img.olx.com.br/images/93/938696887472300.jpg"
     ],
-    "defeito": false,
+    "id": "1504366734",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/playstation-5-slim-1tb-dualsense-5-1504366734",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "PlayStation 5 Slim 1tb + Dualsense 5",
     "ts": 1779836496
   },
   {
@@ -10301,47 +10343,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2021",
     "titulo": "PlayStation 4 (Fat) PS4 com Controle",
     "ts": 1779800376
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "09:59",
-    "fotoUrl": "https://img.olx.com.br/images/15/152645524010855.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/152645524010855.jpg",
-      "https://img.olx.com.br/images/16/168654760098080.jpg"
-    ],
-    "id": "1505078729",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/ps4-1505078729",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PS4",
-    "ts": 1779800368
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "09:59",
-    "fotoUrl": "https://img.olx.com.br/images/62/629624767607434.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/629624767607434.jpg",
-      "https://img.olx.com.br/images/64/644683163308698.jpg",
-      "https://img.olx.com.br/images/67/675622049997017.jpg",
-      "https://img.olx.com.br/images/68/681624406490006.jpg"
-    ],
-    "id": "1505079343",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/playstation-4-1tb-3-controles-vai-com-jogos-1505079343",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "PlayStation 4 1TB 3 controles vai com jogos ",
-    "ts": 1779800360
   }
 ]
