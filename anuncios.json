@@ -1,16 +1,34 @@
 [
   {
-    "id": "1505182799",
-    "titulo": "Playstation 5",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
+    "id": "1505175541",
+    "titulo": "PlayStation VR2, Óculos de Realidade Virtual VR Para PS5, Branco e Preto",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "19:46",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "tempoOlx": "Na OLX desde outubro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-5-1505182799",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-vr2-oculos-de-realidade-virtual-vr-para-ps5-branco-e-preto-1505175541",
+    "fotoUrl": "https://img.olx.com.br/images/96/966641168229868.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/966641168229868.jpg",
+      "https://img.olx.com.br/images/12/121691165703827.jpg",
+      "https://img.olx.com.br/images/22/227675168218959.jpg",
+      "https://img.olx.com.br/images/28/286658405215022.jpg",
+      "https://img.olx.com.br/images/34/343698040022678.jpg",
+      "https://img.olx.com.br/images/39/393642762930593.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779835611
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:46",
     "fotoUrl": "https://img.olx.com.br/images/36/364601527468535.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/364601527468535.jpg",
@@ -20,7 +38,13 @@
       "https://img.olx.com.br/images/42/420649042548667.jpg",
       "https://img.olx.com.br/images/44/443608402243686.jpg"
     ],
-    "defeito": false,
+    "id": "1505182799",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-5-1505182799",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "Playstation 5",
     "ts": 1779835598
   },
   {
@@ -10307,24 +10331,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "PlayStation 4",
     "ts": 1779759683
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:41",
-    "fotoUrl": "https://img.olx.com.br/images/65/657626765557640.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/65/657626765557640.jpg"
-    ],
-    "id": "1505003909",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/days-gone-ps4-ps5-1505003909",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Days gone ps4 / ps5 ",
-    "ts": 1779759675
   }
 ]
