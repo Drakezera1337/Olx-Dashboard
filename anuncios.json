@@ -1,21 +1,41 @@
 [
   {
-    "id": "1505129728",
-    "titulo": "Destiny",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1505133008",
+    "titulo": "Jogo ps4 ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:24",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "detectado": "12:29",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/destiny-1505129728",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogo-ps4-1505133008",
+    "fotoUrl": "https://img.olx.com.br/images/56/562612764351471.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/562612764351471.jpg",
+      "https://img.olx.com.br/images/63/635674761711648.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779809381
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:24",
     "fotoUrl": "https://img.olx.com.br/images/57/578691168666970.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/578691168666970.jpg"
     ],
-    "defeito": false,
+    "id": "1505129728",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/destiny-1505129728",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "Destiny",
     "ts": 1779809061
   },
   {
@@ -10354,26 +10374,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Xbox séries S",
-    "ts": 1779751251
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/72/726685645242335.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/726685645242335.jpg",
-      "https://img.olx.com.br/images/72/727678642356740.jpg"
-    ],
-    "id": "1504592902",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1504592902",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4 ",
     "ts": 1779751251
   }
 ]
