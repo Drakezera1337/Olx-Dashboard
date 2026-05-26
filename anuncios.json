@@ -1,22 +1,41 @@
 [
   {
-    "id": "1505019986",
-    "titulo": "Vendo PS4, com jogos.",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1505019319",
+    "titulo": "Jogos ps4",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:08",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "00:09",
+    "tempoOlx": "Na OLX desde outubro de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/vendo-ps4-com-jogos-1505019986",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-ps4-1505019319",
+    "fotoUrl": "https://img.olx.com.br/images/70/707666405180825.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/707666405180825.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779764940
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:08",
     "fotoUrl": "https://img.olx.com.br/images/86/865661401489973.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/865661401489973.jpg",
       "https://img.olx.com.br/images/87/877680761502237.jpg"
     ],
-    "defeito": false,
+    "id": "1505019986",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/vendo-ps4-com-jogos-1505019986",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Vendo PS4, com jogos.",
     "ts": 1779764931
   },
   {
@@ -10407,28 +10426,5 @@
     "tempoOlx": "Na OLX desde outubro de 2024",
     "titulo": "Kit Playstation Move -PS3",
     "ts": 1779739479
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:04",
-    "fotoUrl": "https://img.olx.com.br/images/73/734601739787850.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/734601739787850.jpg",
-      "https://img.olx.com.br/images/74/741660492764713.jpg",
-      "https://img.olx.com.br/images/76/765641612074758.jpg",
-      "https://img.olx.com.br/images/78/780678619923212.jpg",
-      "https://img.olx.com.br/images/79/792683614579841.jpg"
-    ],
-    "id": "1480024620",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/xbox-series-s-1480024620",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "XBOX SERIES S ",
-    "ts": 1779739471
   }
 ]
