@@ -1,16 +1,34 @@
 [
   {
-    "id": "1504988977",
-    "titulo": "Xbox mais barato de Joinville",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1504990240",
+    "titulo": "PS4 - KIT DE JOGOS",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:28",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "21:30",
+    "tempoOlx": "Na OLX desde outubro de 2013",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-mais-barato-de-joinville-1504988977",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ps4-kit-de-jogos-1504990240",
+    "fotoUrl": "https://img.olx.com.br/images/98/983640760278046.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/983640760278046.jpg",
+      "https://img.olx.com.br/images/10/102654163826331.jpg",
+      "https://img.olx.com.br/images/12/122638164829458.jpg",
+      "https://img.olx.com.br/images/13/133699768036985.jpg",
+      "https://img.olx.com.br/images/15/153670889098248.jpg",
+      "https://img.olx.com.br/images/16/168661520226902.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779755412
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:28",
     "fotoUrl": "https://img.olx.com.br/images/37/379697404705848.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/379697404705848.jpg",
@@ -18,7 +36,13 @@
       "https://img.olx.com.br/images/40/406625646745084.jpg",
       "https://img.olx.com.br/images/41/417657887672247.jpg"
     ],
-    "defeito": false,
+    "id": "1504988977",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/xbox-mais-barato-de-joinville-1504988977",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Xbox mais barato de Joinville",
     "ts": 1779755300
   },
   {
@@ -10388,25 +10412,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2015",
     "titulo": "Console Dragon Ball plug and play ",
     "ts": 1779722949
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:26",
-    "fotoUrl": "https://img.olx.com.br/images/38/381600409681973.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/381600409681973.jpg",
-      "https://img.olx.com.br/images/39/391611764456288.jpg"
-    ],
-    "id": "1504839773",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/gta-v-definite-edition-1504839773",
-    "preco": 125,
-    "precoRaw": "R$ 125",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2023",
-    "titulo": "GTA V definite edition",
-    "ts": 1779722794
   }
 ]
