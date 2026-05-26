@@ -1,22 +1,43 @@
 [
   {
-    "id": "1505145443",
-    "titulo": "GOD OF WAR 3",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1505143233",
+    "titulo": "JOGO PS4/PS5 Call of Duty WW2 (JAPAN)",
+    "preco": 339,
+    "precoRaw": "R$ 339",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "13:16",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde abril de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/god-of-war-3-1505145443",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogo-ps4-ps5-call-of-duty-ww2-japan-1505143233",
+    "fotoUrl": "https://img.olx.com.br/images/99/997657288824105.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/997657288824105.jpg",
+      "https://img.olx.com.br/images/11/111699640986567.jpg",
+      "https://img.olx.com.br/images/13/139696526117568.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779812175
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:16",
     "fotoUrl": "https://img.olx.com.br/images/51/518694163488569.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/518694163488569.jpg",
       "https://img.olx.com.br/images/58/582640045665116.jpg"
     ],
-    "defeito": false,
+    "id": "1505145443",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/god-of-war-3-1505145443",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "GOD OF WAR 3",
     "ts": 1779812166
   },
   {
@@ -10370,24 +10391,5 @@
     "tempoOlx": "",
     "titulo": "PlayStation 3 Não dar imagem no estado ",
     "ts": 1779753965
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:05",
-    "fotoUrl": "https://img.olx.com.br/images/13/133650647847951.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/13/133650647847951.jpg"
-    ],
-    "id": "1504979861",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-slim-500gb-perfeito-estado-1504979861",
-    "preco": 1050,
-    "precoRaw": "R$ 1.050",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4 Slim 500GB - Perfeito estado",
-    "ts": 1779753926
   }
 ]
