@@ -1,21 +1,40 @@
 [
   {
-    "id": "1505107525",
-    "titulo": "Horizon zero Dawn Playstation 4 ",
-    "preco": 70,
-    "precoRaw": "R$ 70",
+    "id": "1505107105",
+    "titulo": "Hogwarts legacy Playstation 4 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:02",
     "tempoOlx": "Na OLX desde abril de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/horizon-zero-dawn-playstation-4-1505107525",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/hogwarts-legacy-playstation-4-1505107105",
+    "fotoUrl": "https://img.olx.com.br/images/78/787657647445920.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/787657647445920.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779804163
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:02",
     "fotoUrl": "https://img.olx.com.br/images/77/773622409423947.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/773622409423947.jpg"
     ],
-    "defeito": false,
+    "id": "1505107525",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/horizon-zero-dawn-playstation-4-1505107525",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "titulo": "Horizon zero Dawn Playstation 4 ",
     "ts": 1779804155
   },
   {
@@ -10448,27 +10467,5 @@
     "tempoOlx": "",
     "titulo": "Mega scrafty Ex",
     "ts": 1779745908
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:51",
-    "fotoUrl": "https://img.olx.com.br/images/83/837546955837748.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/837546955837748.jpg",
-      "https://img.olx.com.br/images/85/856533351105594.jpg",
-      "https://img.olx.com.br/images/86/869529594361910.jpg",
-      "https://img.olx.com.br/images/87/878544596877240.jpg"
-    ],
-    "id": "1465599624",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/console-portatil-r36s-com-15-000-jogos-novo-na-caixa-1465599624",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Console Portátil R36S com 15.000 jogos novo na caixa!",
-    "ts": 1779745894
   }
 ]
