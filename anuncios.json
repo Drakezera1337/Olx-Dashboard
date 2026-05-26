@@ -1,16 +1,10 @@
 [
   {
-    "id": "1484532564",
-    "titulo": "Playstation 3 Slim com defeito ",
-    "preco": 350,
-    "precoRaw": "R$ 350",
     "categoria": "ps3",
-    "publicado": "",
-    "detectado": "21:06",
-    "tempoOlx": "",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-3-slim-com-defeito-1484532564",
+    "defeito": false,
+    "detectado": "21:06",
     "fotoUrl": "https://img.olx.com.br/images/18/183679383030819.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/183679383030819.jpg",
@@ -18,7 +12,13 @@
       "https://img.olx.com.br/images/21/211656624020654.jpg",
       "https://img.olx.com.br/images/88/885654142745098.jpg"
     ],
-    "defeito": false,
+    "id": "1484532564",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-3-slim-com-defeito-1484532564",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Playstation 3 Slim com defeito ",
     "ts": 1779753979
   },
   {
