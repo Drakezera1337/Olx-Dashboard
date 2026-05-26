@@ -1,21 +1,40 @@
 [
   {
-    "id": "1505135567",
-    "titulo": "Ps4 usado",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1505124180",
+    "titulo": "iPhone 17 Pro Max 256GB",
+    "preco": 8199,
+    "precoRaw": "R$ 8.199",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "12:43",
-    "tempoOlx": "Na OLX desde agosto de 2024",
+    "detectado": "12:45",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-256gb-1505124180",
+    "fotoUrl": "https://img.olx.com.br/images/58/582669646940373.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/582669646940373.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779810307
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-usado-1505135567",
+    "defeito": false,
+    "detectado": "12:43",
     "fotoUrl": "https://img.olx.com.br/images/52/521635528936588.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/52/521635528936588.jpg"
     ],
-    "defeito": false,
+    "id": "1505135567",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-usado-1505135567",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "titulo": "Ps4 usado",
     "ts": 1779810224
   },
   {
@@ -10349,24 +10368,5 @@
     "tempoOlx": "Na OLX desde novembro de 2021",
     "titulo": "Games ",
     "ts": 1779752266
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:37",
-    "fotoUrl": "https://img.olx.com.br/images/96/961637407640343.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/961637407640343.jpg"
-    ],
-    "id": "1504973696",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/raimbow-six-siege-ps4-1504973696",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2015",
-    "titulo": "RAIMBOW SIX SIEGE - PS4",
-    "ts": 1779752258
   }
 ]
