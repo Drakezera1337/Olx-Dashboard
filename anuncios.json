@@ -1,21 +1,44 @@
 [
   {
-    "id": "1504837876",
-    "titulo": "Nintendo Switch",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "switch",
+    "id": "1505081562",
+    "titulo": "PS3 Slim 160 GB",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "10:03",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "tempoOlx": "Na OLX desde dezembro de 2023",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps3-slim-160-gb-1505081562",
+    "fotoUrl": "https://img.olx.com.br/images/17/171617166315725.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/171617166315725.jpg",
+      "https://img.olx.com.br/images/19/193607645265438.jpg",
+      "https://img.olx.com.br/images/21/217648407458396.jpg",
+      "https://img.olx.com.br/images/22/225666401073621.jpg",
+      "https://img.olx.com.br/images/24/248690164625809.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779800634
+  },
+  {
+    "categoria": "switch",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/nintendo-switch-1504837876",
+    "defeito": false,
+    "detectado": "10:03",
     "fotoUrl": "https://img.olx.com.br/images/10/107685044897918.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/107685044897918.jpg"
     ],
-    "defeito": false,
+    "id": "1504837876",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/nintendo-switch-1504837876",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Nintendo Switch",
     "ts": 1779800625
   },
   {
@@ -10425,24 +10448,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "Xbox Séries S 512 GB NÃO ACEITO TROCAS",
     "ts": 1779741613
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:37",
-    "fotoUrl": "https://img.olx.com.br/images/19/196658523254020.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/196658523254020.jpg"
-    ],
-    "id": "1504857766",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps4-playstation-4-fat-usado-1504857766",
-    "preco": 1050,
-    "precoRaw": "R$ 1.050",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "PS4 (PlayStation 4) FAT usado",
-    "ts": 1779741430
   }
 ]
