@@ -1,23 +1,43 @@
 [
   {
-    "id": "1505120871",
-    "titulo": "PS5 FAT com Defeito (Leia a descrição)",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1505087964",
+    "titulo": "Ps5",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "11:49",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps5-fat-com-defeito-leia-a-descricao-1505120871",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps5-1505087964",
+    "fotoUrl": "https://img.olx.com.br/images/12/123674641773963.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/123674641773963.jpg",
+      "https://img.olx.com.br/images/13/138626767300936.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779806956
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:49",
     "fotoUrl": "https://img.olx.com.br/images/68/688681649148089.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/688681649148089.jpg",
       "https://img.olx.com.br/images/69/692680525422231.jpg",
       "https://img.olx.com.br/images/71/711666401302450.jpg"
     ],
-    "defeito": false,
+    "id": "1505120871",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/ps5-fat-com-defeito-leia-a-descricao-1505120871",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "PS5 FAT com Defeito (Leia a descrição)",
     "ts": 1779806945
   },
   {
@@ -10386,25 +10406,5 @@
     "tempoOlx": "",
     "titulo": "Psp Sony Original (Conserto/retiradas de peças)",
     "ts": 1779751177
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:19",
-    "fotoUrl": "https://img.olx.com.br/images/77/776692404742245.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/776692404742245.jpg",
-      "https://img.olx.com.br/images/78/787601288028715.jpg"
-    ],
-    "id": "1504657079",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/card-pikachu-vmax-hp-310-1504657079",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Card pikachu Vmax HP 310",
-    "ts": 1779751163
   }
 ]
