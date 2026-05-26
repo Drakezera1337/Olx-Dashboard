@@ -1,21 +1,41 @@
 [
   {
-    "id": "1505137685",
-    "titulo": "Nintendo novo ",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "switch",
+    "id": "1505138292",
+    "titulo": "Xbox 360",
+    "preco": 580,
+    "precoRaw": "R$ 580",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:48",
-    "tempoOlx": "Na OLX desde julho de 2019",
+    "detectado": "12:51",
+    "tempoOlx": "Na OLX desde outubro de 2018",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-360-1505138292",
+    "fotoUrl": "https://img.olx.com.br/images/28/284653406090606.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/284653406090606.jpg",
+      "https://img.olx.com.br/images/31/313681406373195.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779810699
+  },
+  {
+    "categoria": "switch",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/nintendo-novo-1505137685",
+    "defeito": false,
+    "detectado": "12:48",
     "fotoUrl": "https://img.olx.com.br/images/99/995689761987153.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/995689761987153.jpg"
     ],
-    "defeito": false,
+    "id": "1505137685",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/nintendo-novo-1505137685",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2019",
+    "titulo": "Nintendo novo ",
     "ts": 1779810516
   },
   {
@@ -10349,24 +10369,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "Lei a descrição, PS4/PS5",
     "ts": 1779752616
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:43",
-    "fotoUrl": "https://img.olx.com.br/images/34/346615524577619.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/346615524577619.jpg"
-    ],
-    "id": "1504975144",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/just-dance-2014-ps4-1504975144",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2015",
-    "titulo": "JUST DANCE 2014 - PS4",
-    "ts": 1779752610
   }
 ]
