@@ -1,22 +1,42 @@
 [
   {
-    "id": "1505169238",
-    "titulo": "Vídeo game Xbox ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1505170517",
+    "titulo": "God of War Ragnarok PS4/PS5",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "14:51",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "14:52",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/video-game-xbox-1505169238",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/god-of-war-ragnarok-ps4-ps5-1505170517",
+    "fotoUrl": "https://img.olx.com.br/images/11/119685282769313.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/119685282769313.jpg",
+      "https://img.olx.com.br/images/18/181600886995270.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779817955
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:51",
     "fotoUrl": "https://img.olx.com.br/images/91/913665766606240.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/913665766606240.jpg",
       "https://img.olx.com.br/images/93/935675045846972.jpg"
     ],
-    "defeito": false,
+    "id": "1505169238",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/video-game-xbox-1505169238",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Vídeo game Xbox ",
     "ts": 1779817896
   },
   {
@@ -10312,25 +10332,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Ps5 Slim",
     "ts": 1779759281
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:33",
-    "fotoUrl": "https://img.olx.com.br/images/37/374635409216958.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/37/374635409216958.jpg",
-      "https://img.olx.com.br/images/38/384627761550769.jpg"
-    ],
-    "id": "1505002604",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps3-com-defeito-1505002604",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
-    "titulo": "PS3 COM DEFEITO ",
-    "ts": 1779759220
   }
 ]
