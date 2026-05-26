@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505223983",
-    "titulo": "PlayStation 4",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "ps4",
+    "id": "1505221442",
+    "titulo": "Play Station 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "19:47",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "detectado": "19:48",
+    "tempoOlx": "Na OLX desde novembro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-1505223983",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/play-station-4-1505221442",
+    "fotoUrl": "https://img.olx.com.br/images/11/115613400167188.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/115613400167188.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779835683
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:47",
     "fotoUrl": "https://img.olx.com.br/images/74/749611649025821.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/749611649025821.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/80/801612049607882.jpg",
       "https://img.olx.com.br/images/82/821620524129675.jpg"
     ],
-    "defeito": false,
+    "id": "1505223983",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-4-1505223983",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "PlayStation 4",
     "ts": 1779835677
   },
   {
@@ -10312,26 +10331,5 @@
     "tempoOlx": "Na OLX desde maio de 2021",
     "titulo": "JOGOS PS4 e PS5.",
     "ts": 1779760349
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:52",
-    "fotoUrl": "https://img.olx.com.br/images/96/963667408374574.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/963667408374574.jpg",
-      "https://img.olx.com.br/images/98/989670523538643.jpg",
-      "https://img.olx.com.br/images/10/102612769752896.jpg"
-    ],
-    "id": "1505006338",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogo-do-homem-aranha-usado-1505006338",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Jogo do homem aranha usado ",
-    "ts": 1779760338
   }
 ]
