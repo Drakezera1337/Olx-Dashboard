@@ -1,16 +1,32 @@
 [
   {
-    "id": "1505113856",
-    "titulo": "The Last of Us PS4",
-    "preco": 105,
-    "precoRaw": "R$ 105",
+    "id": "1505113233",
+    "titulo": "PS4 500GB + jogos (PARA TROCA)",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:25",
-    "tempoOlx": "Na OLX desde abril de 2014",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-ps4-1505113856",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/ps4-500gb-jogos-para-troca-1505113233",
+    "fotoUrl": "https://img.olx.com.br/images/81/815613526017656.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/815613526017656.jpg",
+      "https://img.olx.com.br/images/82/820639649725757.jpg",
+      "https://img.olx.com.br/images/83/830632761471865.jpg",
+      "https://img.olx.com.br/images/84/844616162211371.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779805550
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:25",
     "fotoUrl": "https://img.olx.com.br/images/15/151604762853503.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/151604762853503.jpg",
@@ -20,7 +36,13 @@
       "https://img.olx.com.br/images/22/221697761939553.jpg",
       "https://img.olx.com.br/images/24/241609400123376.jpg"
     ],
-    "defeito": false,
+    "id": "1505113856",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-ps4-1505113856",
+    "preco": 105,
+    "precoRaw": "R$ 105",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2014",
+    "titulo": "The Last of Us PS4",
     "ts": 1779805542
   },
   {
@@ -10427,28 +10449,5 @@
     "tempoOlx": "",
     "titulo": "XBOX ",
     "ts": 1779747081
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "18:56",
-    "fotoUrl": "https://img.olx.com.br/images/67/673680164204623.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/673680164204623.jpg",
-      "https://img.olx.com.br/images/69/695680761737444.jpg",
-      "https://img.olx.com.br/images/70/702684407421497.jpg",
-      "https://img.olx.com.br/images/72/729671523861292.jpg",
-      "https://img.olx.com.br/images/74/743647287873380.jpg"
-    ],
-    "id": "1504946333",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-1504946333",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 15 Pro Max",
-    "ts": 1779746183
   }
 ]
