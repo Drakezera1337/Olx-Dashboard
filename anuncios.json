@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505140539",
-    "titulo": "Jogos PS4/PS5",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps5",
+    "id": "1488750441",
+    "titulo": "Jogos Fifa 22 23 24",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "12:59",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "tempoOlx": "Na OLX desde março de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-ps5-1505140539",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-fifa-22-23-24-1488750441",
+    "fotoUrl": "https://img.olx.com.br/images/88/883682744927419.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/883682744927419.jpg",
+      "https://img.olx.com.br/images/89/892649746595747.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779811174
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:59",
     "fotoUrl": "https://img.olx.com.br/images/93/930693768407549.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/930693768407549.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/93/933689649570754.jpg",
       "https://img.olx.com.br/images/93/935672409686346.jpg"
     ],
-    "defeito": false,
+    "id": "1505140539",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogos-ps4-ps5-1505140539",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "Jogos PS4/PS5",
     "ts": 1779811165
   },
   {
@@ -10367,25 +10387,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "celular",
     "ts": 1779753118
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:49",
-    "fotoUrl": "https://img.olx.com.br/images/95/959669408225881.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/959669408225881.jpg",
-      "https://img.olx.com.br/images/97/976661524109029.jpg"
-    ],
-    "id": "1504975102",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-e-controle-ps4-1504975102",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2021",
-    "titulo": "Jogos e controle ps4 ",
-    "ts": 1779752977
   }
 ]
