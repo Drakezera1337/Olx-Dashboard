@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505128585",
-    "titulo": "Ps5 Fat",
-    "preco": 2350,
-    "precoRaw": "R$ 2.350",
-    "categoria": "ps5",
+    "id": "1505130090",
+    "titulo": "iPhone 12 128GB",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "12:13",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "detectado": "12:19",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-1505130090",
+    "fotoUrl": "https://img.olx.com.br/images/33/331641768567518.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/331641768567518.jpg",
+      "https://img.olx.com.br/images/35/352647404409665.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779808750
+  },
+  {
+    "categoria": "ps5",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps5-fat-1505128585",
+    "defeito": false,
+    "detectado": "12:13",
     "fotoUrl": "https://img.olx.com.br/images/12/123619769873622.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/123619769873622.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/15/153685521178910.jpg",
       "https://img.olx.com.br/images/16/168629525418549.jpg"
     ],
-    "defeito": false,
+    "id": "1505128585",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps5-fat-1505128585",
+    "preco": 2350,
+    "precoRaw": "R$ 2.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "titulo": "Ps5 Fat",
     "ts": 1779808387
   },
   {
@@ -10364,27 +10384,5 @@
     "tempoOlx": "",
     "titulo": "PS5 1 TB Mídia física + 2 controles",
     "ts": 1779751251
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/92/920579671638861.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/920579671638861.jpg",
-      "https://img.olx.com.br/images/92/928511434381166.jpg",
-      "https://img.olx.com.br/images/92/922590915862012.jpg",
-      "https://img.olx.com.br/images/92/928520790216799.jpg"
-    ],
-    "id": "1431720719",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-ps4-1431720719",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Horizon zero dawn ps4",
-    "ts": 1779751237
   }
 ]
