@@ -1,21 +1,42 @@
 [
   {
-    "id": "1505256856",
-    "titulo": "Valhalla e the last of us 1 e 2",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "jogos",
+    "id": "1505256663",
+    "titulo": "Jogo PS4 Days Gone",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:23",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "tempoOlx": "Na OLX desde junho de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/valhalla-e-the-last-of-us-1-e-2-1505256856",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-days-gone-1505256663",
+    "fotoUrl": "https://img.olx.com.br/images/10/109695401368680.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/109695401368680.jpg",
+      "https://img.olx.com.br/images/12/129607403689217.jpg",
+      "https://img.olx.com.br/images/14/144667645720676.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779837793
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:23",
     "fotoUrl": "https://img.olx.com.br/images/61/614690888570913.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/614690888570913.jpg"
     ],
-    "defeito": false,
+    "id": "1505256856",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/valhalla-e-the-last-of-us-1-e-2-1505256856",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "Valhalla e the last of us 1 e 2",
     "ts": 1779837784
   },
   {
@@ -10293,29 +10314,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "Nintendo switch ",
     "ts": 1779800618
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:03",
-    "fotoUrl": "https://img.olx.com.br/images/96/968654042440852.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/968654042440852.jpg",
-      "https://img.olx.com.br/images/97/975603166245700.jpg",
-      "https://img.olx.com.br/images/98/982673522970838.jpg",
-      "https://img.olx.com.br/images/99/991674168950564.jpg",
-      "https://img.olx.com.br/images/10/105626527604635.jpg",
-      "https://img.olx.com.br/images/49/495622401080594.jpg"
-    ],
-    "id": "1505072557",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/maleta-do-mario-nintendo-swith-1505072557",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Maleta do mario Nintendo swith",
-    "ts": 1779800609
   }
 ]
