@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505255530",
-    "titulo": "Vendo PS4 Slim 950",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "ps4",
+    "id": "1505256856",
+    "titulo": "Valhalla e the last of us 1 e 2",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "20:19",
-    "tempoOlx": "Na OLX desde outubro de 2022",
+    "detectado": "20:23",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/vendo-ps4-slim-950-1505255530",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/valhalla-e-the-last-of-us-1-e-2-1505256856",
+    "fotoUrl": "https://img.olx.com.br/images/61/614690888570913.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/614690888570913.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779837784
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:19",
     "fotoUrl": "https://img.olx.com.br/images/32/322621523834827.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/322621523834827.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/34/341610526199187.jpg",
       "https://img.olx.com.br/images/35/352696286555634.jpg"
     ],
-    "defeito": false,
+    "id": "1505255530",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/vendo-ps4-slim-950-1505255530",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "Vendo PS4 Slim 950",
     "ts": 1779837583
   },
   {
@@ -10298,25 +10317,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Maleta do mario Nintendo swith",
     "ts": 1779800609
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:03",
-    "fotoUrl": "https://img.olx.com.br/images/79/798694642419517.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/798694642419517.jpg",
-      "https://img.olx.com.br/images/80/805640888837930.jpg"
-    ],
-    "id": "1505074545",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/nintendo-switch-v1-1505074545",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Nintendo Switch v1",
-    "ts": 1779800598
   }
 ]
