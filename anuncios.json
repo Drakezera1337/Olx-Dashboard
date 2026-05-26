@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505130053",
-    "titulo": "Red Dead Redemption 2 - PS4",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "ps4",
+    "id": "1505129728",
+    "titulo": "Destiny",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "12:24",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-ps4-1505130053",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/destiny-1505129728",
+    "fotoUrl": "https://img.olx.com.br/images/57/578691168666970.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/578691168666970.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779809061
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:24",
     "fotoUrl": "https://img.olx.com.br/images/81/814615042081882.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/814615042081882.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/84/848649288341496.jpg",
       "https://img.olx.com.br/images/86/863611880745664.jpg"
     ],
-    "defeito": false,
+    "id": "1505130053",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/red-dead-redemption-2-ps4-1505130053",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "Red Dead Redemption 2 - PS4",
     "ts": 1779809051
   },
   {
@@ -10355,25 +10374,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "PS4 ",
-    "ts": 1779751251
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "20:20",
-    "fotoUrl": "https://img.olx.com.br/images/32/328659525665184.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/328659525665184.jpg"
-    ],
-    "id": "1504587031",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1504587031",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Series S",
     "ts": 1779751251
   }
 ]
