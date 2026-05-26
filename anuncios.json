@@ -1,22 +1,43 @@
 [
   {
-    "id": "1505002604",
-    "titulo": "PS3 COM DEFEITO ",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "ps3",
+    "id": "1505002629",
+    "titulo": "Ps5 Slim",
+    "preco": 3500,
+    "precoRaw": "R$ 3.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "22:33",
-    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "detectado": "22:34",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-1505002629",
+    "fotoUrl": "https://img.olx.com.br/images/42/427628283998453.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/427628283998453.jpg",
+      "https://img.olx.com.br/images/44/442609400475694.jpg",
+      "https://img.olx.com.br/images/46/467676286865380.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779759281
+  },
+  {
+    "categoria": "ps3",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps3-com-defeito-1505002604",
+    "defeito": false,
+    "detectado": "22:33",
     "fotoUrl": "https://img.olx.com.br/images/37/374635409216958.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/374635409216958.jpg",
       "https://img.olx.com.br/images/38/384627761550769.jpg"
     ],
-    "defeito": false,
+    "id": "1505002604",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps3-com-defeito-1505002604",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "PS3 COM DEFEITO ",
     "ts": 1779759220
   },
   {
@@ -10412,27 +10433,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "PS4 Slim450gb",
     "ts": 1779726799
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:33",
-    "fotoUrl": "https://img.olx.com.br/images/46/466665244217335.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/466665244217335.jpg",
-      "https://img.olx.com.br/images/39/392678601190188.jpg",
-      "https://img.olx.com.br/images/41/415676241536202.jpg",
-      "https://img.olx.com.br/images/42/428660720359003.jpg"
-    ],
-    "id": "1468360841",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/deadpool-ps4-jogo-raro-colecionador-rio-de-janeiro-1468360841",
-    "preco": 1119,
-    "precoRaw": "R$ 1.119",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2025",
-    "titulo": "Deadpool PS4 - Jogo Raro - Colecionador - Rio de Janeiro.",
-    "ts": 1779726790
   }
 ]
