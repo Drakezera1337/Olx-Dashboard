@@ -1,23 +1,44 @@
 [
   {
-    "id": "1505256663",
-    "titulo": "Jogo PS4 Days Gone",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1505256478",
+    "titulo": "Playstation 4 slim 500gb",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:23",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-days-gone-1505256663",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-slim-500gb-1505256478",
+    "fotoUrl": "https://img.olx.com.br/images/16/165643524059572.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/165643524059572.jpg",
+      "https://img.olx.com.br/images/21/214637286507631.jpg",
+      "https://img.olx.com.br/images/27/279648644076397.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779837802
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:23",
     "fotoUrl": "https://img.olx.com.br/images/10/109695401368680.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/109695401368680.jpg",
       "https://img.olx.com.br/images/12/129607403689217.jpg",
       "https://img.olx.com.br/images/14/144667645720676.jpg"
     ],
-    "defeito": false,
+    "id": "1505256663",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-days-gone-1505256663",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "Jogo PS4 Days Gone",
     "ts": 1779837793
   },
   {
@@ -10290,29 +10311,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "Nintendo Switch",
     "ts": 1779800625
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:03",
-    "fotoUrl": "https://img.olx.com.br/images/56/568697403741347.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/568697403741347.jpg",
-      "https://img.olx.com.br/images/57/575685645113792.jpg",
-      "https://img.olx.com.br/images/58/589609405842860.jpg",
-      "https://img.olx.com.br/images/59/599662049087429.jpg",
-      "https://img.olx.com.br/images/60/605636643377379.jpg",
-      "https://img.olx.com.br/images/61/615624761002625.jpg"
-    ],
-    "id": "1505069489",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/nintendo-switch-1505069489",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
-    "titulo": "Nintendo switch ",
-    "ts": 1779800618
   }
 ]
