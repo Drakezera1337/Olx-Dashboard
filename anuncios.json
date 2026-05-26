@@ -1,21 +1,42 @@
 [
   {
-    "id": "1505098846",
-    "titulo": "PS4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1505098623",
+    "titulo": "ps4",
+    "preco": 950,
+    "precoRaw": "R$ 950",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:37",
-    "tempoOlx": "Na OLX desde setembro de 2015",
+    "tempoOlx": "Na OLX desde novembro de 2013",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-1505098846",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-1505098623",
+    "fotoUrl": "https://img.olx.com.br/images/32/325657766484633.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/325657766484633.jpg",
+      "https://img.olx.com.br/images/32/320648169742652.jpg",
+      "https://img.olx.com.br/images/32/320632644322988.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779802665
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:37",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1505098846",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-1505098846",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2015",
+    "titulo": "PS4",
     "ts": 1779802655
   },
   {
@@ -10459,30 +10480,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "[MACAÉ] iPhone 13 Pro Branco 128GB (100% Original)",
-    "ts": 1779745820
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "18:50",
-    "fotoUrl": "https://img.olx.com.br/images/79/799629644494846.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/799629644494846.jpg",
-      "https://img.olx.com.br/images/80/808688405579031.jpg",
-      "https://img.olx.com.br/images/81/814634285422032.jpg",
-      "https://img.olx.com.br/images/15/153664045559132.jpg",
-      "https://img.olx.com.br/images/17/174647287608169.jpg",
-      "https://img.olx.com.br/images/41/412641526274446.jpg"
-    ],
-    "id": "1504705999",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128gb-vermelho-1504705999",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 12 128gb Vermelho",
     "ts": 1779745820
   }
 ]
