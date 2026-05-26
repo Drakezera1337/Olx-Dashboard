@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505135761",
-    "titulo": "xbox one s",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1505137685",
+    "titulo": "Nintendo novo ",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "12:46",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "12:48",
+    "tempoOlx": "Na OLX desde julho de 2019",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/nintendo-novo-1505137685",
+    "fotoUrl": "https://img.olx.com.br/images/99/995689761987153.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/995689761987153.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779810516
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1505135761",
+    "defeito": false,
+    "detectado": "12:46",
     "fotoUrl": "https://img.olx.com.br/images/46/464689767348001.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/464689767348001.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/49/491679285602842.jpg",
       "https://img.olx.com.br/images/50/502640401902848.jpg"
     ],
-    "defeito": false,
+    "id": "1505135761",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1505135761",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "xbox one s",
     "ts": 1779810418
   },
   {
@@ -10349,25 +10368,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "JUST DANCE 2014 - PS4",
     "ts": 1779752610
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:41",
-    "fotoUrl": "https://img.olx.com.br/images/85/855658646815688.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/855658646815688.jpg",
-      "https://img.olx.com.br/images/87/870653287814089.jpg"
-    ],
-    "id": "1503690400",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps3-fat-defeito-liga-e-desliga-1503690400",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Ps3 fat defeito liga e desliga",
-    "ts": 1779752487
   }
 ]
