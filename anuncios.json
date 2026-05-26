@@ -1,21 +1,44 @@
 [
   {
-    "id": "1505060290",
-    "titulo": "X box one séries s",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1505041039",
+    "titulo": "Xbox Série S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "10:02",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/x-box-one-series-s-1505060290",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/xbox-serie-s-1505041039",
+    "fotoUrl": "https://img.olx.com.br/images/46/460605288766017.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/460605288766017.jpg",
+      "https://img.olx.com.br/images/47/470604403684926.jpg",
+      "https://img.olx.com.br/images/48/487677165987493.jpg",
+      "https://img.olx.com.br/images/50/505681401369455.jpg",
+      "https://img.olx.com.br/images/52/525696882610861.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779800537
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:02",
     "fotoUrl": "https://img.olx.com.br/images/92/923633766304501.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/923633766304501.jpg"
     ],
-    "defeito": false,
+    "id": "1505060290",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/x-box-one-series-s-1505060290",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "X box one séries s",
     "ts": 1779800529
   },
   {
@@ -10412,24 +10435,5 @@
     "tempoOlx": "Na OLX desde outubro de 2020",
     "titulo": "Playstation 4 1 TB incluso 18 jogos originais",
     "ts": 1779740268
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:17",
-    "fotoUrl": "https://img.olx.com.br/images/77/779629640212717.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/779629640212717.jpg"
-    ],
-    "id": "1504922988",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-pro-de-1-tb-versao-cuh7215b-com-caixa-1504922988",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Ps4 Pro de 1 Tb, versão CUH7215B com caixa",
-    "ts": 1779740260
   }
 ]
