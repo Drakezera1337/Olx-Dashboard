@@ -1,21 +1,41 @@
 [
   {
-    "id": "1444303507",
-    "titulo": "South Park A fenda que abunda a força",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "categoria": "outros",
+    "id": "1505144280",
+    "titulo": "Playstation 4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:10",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "detectado": "13:11",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/south-park-a-fenda-que-abunda-a-forca-1444303507",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/playstation-4-1505144280",
+    "fotoUrl": "https://img.olx.com.br/images/89/899640520396058.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/899640520396058.jpg",
+      "https://img.olx.com.br/images/90/904624529857915.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779811895
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:10",
     "fotoUrl": "https://img.olx.com.br/images/62/621555456326514.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/621555456326514.jpg"
     ],
-    "defeito": false,
+    "id": "1444303507",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/south-park-a-fenda-que-abunda-a-forca-1444303507",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "South Park A fenda que abunda a força",
     "ts": 1779811833
   },
   {
@@ -10367,24 +10387,5 @@
     "tempoOlx": "",
     "titulo": " Playstation 5 com bom preço a vista .",
     "ts": 1779753882
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "21:01",
-    "fotoUrl": "https://img.olx.com.br/images/43/437618404645098.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/437618404645098.jpg"
-    ],
-    "id": "1504814755",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-ps5-dualsense-cosmic-red-1504814755",
-    "preco": 389,
-    "precoRaw": "R$ 389",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Controle Ps5 Dualsense Cosmic Red",
-    "ts": 1779753694
   }
 ]
