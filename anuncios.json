@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505242289",
-    "titulo": "PS4 Slim",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1505239031",
+    "titulo": "Playstation 4 slim",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:50",
-    "tempoOlx": "Na OLX desde março de 2020",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-1505242289",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/playstation-4-slim-1505239031",
+    "fotoUrl": "https://img.olx.com.br/images/80/804651287149362.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/804651287149362.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779835812
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:50",
     "fotoUrl": "https://img.olx.com.br/images/18/180679886937363.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/180679886937363.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/22/220656161644574.jpg",
       "https://img.olx.com.br/images/24/242695521818430.jpg"
     ],
-    "defeito": false,
+    "id": "1505242289",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-slim-1505242289",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2020",
+    "titulo": "PS4 Slim",
     "ts": 1779835805
   },
   {
@@ -10315,27 +10334,5 @@
     "tempoOlx": "",
     "titulo": "Console Dragon Ball plug and play ",
     "ts": 1779762129
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "23:21",
-    "fotoUrl": "https://img.olx.com.br/images/78/782623621868345.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/782623621868345.jpg",
-      "https://img.olx.com.br/images/79/793656622383144.jpg",
-      "https://img.olx.com.br/images/80/804669269650117.jpg",
-      "https://img.olx.com.br/images/81/817631865860151.jpg"
-    ],
-    "id": "1488251677",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/caixa-vazia-ps3-1488251677",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Caixa Vazia Ps3 ",
-    "ts": 1779762100
   }
 ]
