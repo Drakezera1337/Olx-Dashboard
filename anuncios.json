@@ -1,21 +1,41 @@
 [
   {
-    "id": "1505124180",
-    "titulo": "iPhone 17 Pro Max 256GB",
-    "preco": 8199,
-    "precoRaw": "R$ 8.199",
-    "categoria": "iphone",
+    "id": "1505137363",
+    "titulo": "Spider-man",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "12:45",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "12:46",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/spider-man-1505137363",
+    "fotoUrl": "https://img.olx.com.br/images/34/340696285186475.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/340696285186475.jpg",
+      "https://img.olx.com.br/images/36/363697767770003.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779810399
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-256gb-1505124180",
+    "defeito": false,
+    "detectado": "12:45",
     "fotoUrl": "https://img.olx.com.br/images/58/582669646940373.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/582669646940373.jpg"
     ],
-    "defeito": false,
+    "id": "1505124180",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-256gb-1505124180",
+    "preco": 8199,
+    "precoRaw": "R$ 8.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "iPhone 17 Pro Max 256GB",
     "ts": 1779810307
   },
   {
@@ -10346,27 +10366,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "DESTINY THE TAKEN KING - PS4",
     "ts": 1779752273
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:37",
-    "fotoUrl": "https://img.olx.com.br/images/14/145682281020368.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/145682281020368.jpg",
-      "https://img.olx.com.br/images/16/160694281691919.jpg",
-      "https://img.olx.com.br/images/17/178614649126659.jpg",
-      "https://img.olx.com.br/images/19/199655163178791.jpg"
-    ],
-    "id": "1504973457",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/games-1504973457",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2021",
-    "titulo": "Games ",
-    "ts": 1779752266
   }
 ]
