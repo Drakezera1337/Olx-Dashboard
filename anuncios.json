@@ -1,22 +1,64 @@
 [
   {
-    "id": "1505135660",
-    "titulo": "PS4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "id": "1505135567",
+    "titulo": "Ps4 usado",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:43",
-    "tempoOlx": "Na OLX desde agosto de 2022",
+    "tempoOlx": "Na OLX desde agosto de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1505135660",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-usado-1505135567",
+    "fotoUrl": "https://img.olx.com.br/images/52/521635528936588.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/52/521635528936588.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779810224
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "defeito": false,
+    "detectado": "12:43",
+    "fotoUrl": "https://img.olx.com.br/images/34/344642282750397.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/344642282750397.jpg",
+      "https://img.olx.com.br/images/36/361688880655025.jpg",
+      "https://img.olx.com.br/images/37/373666643642612.jpg",
+      "https://img.olx.com.br/images/38/388611523588186.jpg",
+      "https://img.olx.com.br/images/40/402677042615755.jpg"
+    ],
+    "id": "1505136569",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1505136569",
+    "preco": 3800,
+    "precoRaw": "R$ 3.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "iPhone 15 PRO MAX 256GB",
+    "ts": 1779810219
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:43",
     "fotoUrl": "https://img.olx.com.br/images/34/341698408960763.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/341698408960763.jpg",
       "https://img.olx.com.br/images/40/404670648268268.jpg"
     ],
-    "defeito": false,
+    "id": "1505135660",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1505135660",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "titulo": "PS4",
     "ts": 1779810217
   },
   {
@@ -10326,49 +10368,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "RAIMBOW SIX SIEGE - PS4",
     "ts": 1779752258
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:37",
-    "fotoUrl": "https://img.olx.com.br/images/67/675659885795475.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/675659885795475.jpg",
-      "https://img.olx.com.br/images/69/695650049002100.jpg"
-    ],
-    "id": "1504973720",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogo-gta-v-ps4-midia-fisica-1504973720",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Jogo GTA V - PS4 - Mídia Física",
-    "ts": 1779752250
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:34",
-    "fotoUrl": "https://img.olx.com.br/images/56/560658282485178.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/560658282485178.jpg",
-      "https://img.olx.com.br/images/57/574688409477716.jpg",
-      "https://img.olx.com.br/images/59/597607769022782.jpg",
-      "https://img.olx.com.br/images/61/616621287263573.jpg",
-      "https://img.olx.com.br/images/63/635625760262129.jpg",
-      "https://img.olx.com.br/images/65/656603524539071.jpg"
-    ],
-    "id": "1504971733",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-1504971733",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "Playstation 4",
-    "ts": 1779752071
   }
 ]
