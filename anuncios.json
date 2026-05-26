@@ -1,23 +1,47 @@
 [
   {
-    "id": "1505098623",
-    "titulo": "ps4",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "ps4",
+    "id": "1505080926",
+    "titulo": "Nintendo Switch v2 - Travado - Ssd 256GB",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "10:37",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "detectado": "10:39",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-1505098623",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-switch-v2-travado-ssd-256gb-1505080926",
+    "fotoUrl": "https://img.olx.com.br/images/77/770683764587470.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/770683764587470.jpg",
+      "https://img.olx.com.br/images/78/781638169210490.jpg",
+      "https://img.olx.com.br/images/79/793609640051850.jpg",
+      "https://img.olx.com.br/images/81/819674760276194.jpg",
+      "https://img.olx.com.br/images/82/820611288053831.jpg",
+      "https://img.olx.com.br/images/84/849615528009598.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779802778
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:37",
     "fotoUrl": "https://img.olx.com.br/images/32/325657766484633.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/325657766484633.jpg",
       "https://img.olx.com.br/images/32/320648169742652.jpg",
       "https://img.olx.com.br/images/32/320632644322988.jpg"
     ],
-    "defeito": false,
+    "id": "1505098623",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-1505098623",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "ps4",
     "ts": 1779802665
   },
   {
@@ -10457,29 +10481,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "iPhone 11 128GB",
-    "ts": 1779745820
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "18:50",
-    "fotoUrl": "https://img.olx.com.br/images/22/225678755392643.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/225678755392643.jpg",
-      "https://img.olx.com.br/images/23/231659396527462.jpg",
-      "https://img.olx.com.br/images/24/242620754331124.jpg",
-      "https://img.olx.com.br/images/25/251657396483970.jpg",
-      "https://img.olx.com.br/images/26/262665273735798.jpg"
-    ],
-    "id": "1495569315",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/macae-iphone-13-pro-branco-128gb-100-original-1495569315",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "[MACAÉ] iPhone 13 Pro Branco 128GB (100% Original)",
     "ts": 1779745820
   }
 ]
