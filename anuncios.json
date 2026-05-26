@@ -1,21 +1,41 @@
 [
   {
-    "id": "1505023831",
-    "titulo": "iPhone 14, novinho",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
+    "id": "1505022681",
+    "titulo": "iPhone 16 pro max, na garantia, vendo/troco",
+    "preco": 6500,
+    "precoRaw": "R$ 6.500",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "00:32",
     "tempoOlx": "Na OLX desde outubro de 2017",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-novinho-1505023831",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-max-na-garantia-vendo-troco-1505022681",
+    "fotoUrl": "https://img.olx.com.br/images/71/710606286919102.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/710606286919102.jpg",
+      "https://img.olx.com.br/images/72/720632284098118.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779766350
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "defeito": false,
+    "detectado": "00:32",
     "fotoUrl": "https://img.olx.com.br/images/54/543677283473919.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/543677283473919.jpg"
     ],
-    "defeito": false,
+    "id": "1505023831",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-novinho-1505023831",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2017",
+    "titulo": "iPhone 14, novinho",
     "ts": 1779766341
   },
   {
@@ -10392,26 +10412,5 @@
     "tempoOlx": "Na OLX desde agosto de 2023",
     "titulo": "EA FC 26 PS4 lacrado a pronta entrega",
     "ts": 1779739569
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:06",
-    "fotoUrl": "https://img.olx.com.br/images/67/675635400350859.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/675635400350859.jpg",
-      "https://img.olx.com.br/images/68/687622404408172.jpg",
-      "https://img.olx.com.br/images/70/704688768038141.jpg"
-    ],
-    "id": "1504916129",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/ps4-sony-1504916129",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2023",
-    "titulo": "PS4 Sony ",
-    "ts": 1779739561
   }
 ]
