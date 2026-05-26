@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505258107",
-    "titulo": "PlayStation 3",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1505260105",
+    "titulo": "Unhcharted trilogia - ps4",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:31",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "detectado": "20:36",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/playstation-3-1505258107",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/unhcharted-trilogia-ps4-1505260105",
+    "fotoUrl": "https://img.olx.com.br/images/60/605637046605702.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/605637046605702.jpg",
+      "https://img.olx.com.br/images/63/636690404770905.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779838564
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:31",
     "fotoUrl": "https://img.olx.com.br/images/76/764636168417830.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/76/764636168417830.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/79/790623761052943.jpg",
       "https://img.olx.com.br/images/81/819681044855087.jpg"
     ],
-    "defeito": false,
+    "id": "1505258107",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/playstation-3-1505258107",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
+    "titulo": "PlayStation 3",
     "ts": 1779838297
   },
   {
@@ -10286,24 +10306,5 @@
     "tempoOlx": "Na OLX desde setembro de 2020",
     "titulo": "Cyberpunk 2077 - PS4 - edição limitada com steelbook dos Valentinos",
     "ts": 1779800709
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:05",
-    "fotoUrl": "https://img.olx.com.br/images/80/809660527258193.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/809660527258193.jpg"
-    ],
-    "id": "1505085929",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-cada-um-100-1505085929",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2024",
-    "titulo": "Jogos de ps4, cada um 100",
-    "ts": 1779800701
   }
 ]
