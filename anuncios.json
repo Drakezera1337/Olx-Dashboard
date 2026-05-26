@@ -1,23 +1,45 @@
 [
   {
-    "id": "1505009501",
-    "titulo": "Knack 2 ",
-    "preco": 130,
-    "precoRaw": "R$ 130",
+    "id": "1504863530",
+    "titulo": "Caixa de ps 5 ",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "23:11",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "23:15",
+    "tempoOlx": "",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/knack-2-1505009501",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/caixa-de-ps-5-1504863530",
+    "fotoUrl": "https://img.olx.com.br/images/41/417620886320033.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/417620886320033.jpg",
+      "https://img.olx.com.br/images/42/421670289980473.jpg",
+      "https://img.olx.com.br/images/44/440675888712941.jpg",
+      "https://img.olx.com.br/images/45/453653288292713.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779761759
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "23:11",
     "fotoUrl": "https://img.olx.com.br/images/83/834614045054830.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/834614045054830.jpg",
       "https://img.olx.com.br/images/85/853639163057237.jpg",
       "https://img.olx.com.br/images/86/869661645577716.jpg"
     ],
-    "defeito": false,
+    "id": "1505009501",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/knack-2-1505009501",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Knack 2 ",
     "ts": 1779761493
   },
   {
@@ -10414,26 +10436,5 @@
     "tempoOlx": "Na OLX desde junho de 2013",
     "titulo": "South Park ps4",
     "ts": 1779729373
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:16",
-    "fotoUrl": "https://img.olx.com.br/images/34/342680644501938.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/342680644501938.jpg",
-      "https://img.olx.com.br/images/34/343635286426918.jpg",
-      "https://img.olx.com.br/images/34/341609525851566.jpg"
-    ],
-    "id": "1504867308",
-    "link": "https://ac.olx.com.br/acre/games/jogos-de-video-game/code-realize-wintertide-miracles-edicao-limitada-ps4-1504867308",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Code Realize Wintertide Miracles Edição Limitada PS4",
-    "ts": 1779729364
   }
 ]
