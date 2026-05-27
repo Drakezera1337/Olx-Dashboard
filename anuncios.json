@@ -1,16 +1,34 @@
 [
   {
-    "id": "1505895530",
-    "titulo": "Playstation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1505895664",
+    "titulo": "Play station 4 fat",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "20:41",
-    "tempoOlx": "Na OLX desde agosto de 2015",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1505895530",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/play-station-4-fat-1505895664",
+    "fotoUrl": "https://img.olx.com.br/images/76/761657648310394.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/761657648310394.jpg",
+      "https://img.olx.com.br/images/77/778691281064708.jpg",
+      "https://img.olx.com.br/images/78/786674523854189.jpg",
+      "https://img.olx.com.br/images/80/800678168864276.jpg",
+      "https://img.olx.com.br/images/81/818658648365272.jpg",
+      "https://img.olx.com.br/images/83/832663407999163.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779925296
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:41",
     "fotoUrl": "https://img.olx.com.br/images/95/955622767028292.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/955622767028292.jpg",
@@ -20,7 +38,13 @@
       "https://img.olx.com.br/images/11/113615768548137.jpg",
       "https://img.olx.com.br/images/14/149601280848119.jpg"
     ],
-    "defeito": false,
+    "id": "1505895530",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1505895530",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "Playstation 4",
     "ts": 1779925267
   },
   {
@@ -10362,25 +10386,5 @@
     "tempoOlx": "Na OLX desde abril de 2017",
     "titulo": "Batman Arkham Asylum - Game of The Year Edition ( Original)",
     "ts": 1779892993
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/19/192634644091873.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/192634644091873.jpg",
-      "https://img.olx.com.br/images/22/227666287856552.jpg"
-    ],
-    "id": "1505749192",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogo-ps4-grand-kingdom-original-1505749192",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2017",
-    "titulo": "Jogo PS4 Grand Kingdom Original",
-    "ts": 1779892984
   }
 ]
