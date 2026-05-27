@@ -1,23 +1,44 @@
 [
   {
-    "id": "1505850433",
-    "titulo": "Uncharted 4",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "jogos",
+    "id": "1470160689",
+    "titulo": "Fifa 15 Ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:44",
-    "tempoOlx": "Na OLX desde agosto de 2021",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/uncharted-4-1505850433",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/fifa-15-ps4-1470160689",
+    "fotoUrl": "https://img.olx.com.br/images/92/925607242656713.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/925607242656713.jpg",
+      "https://img.olx.com.br/images/94/946682609346653.jpg",
+      "https://img.olx.com.br/images/80/809683127348614.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779914684
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:44",
     "fotoUrl": "https://img.olx.com.br/images/24/249659760407574.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/249659760407574.jpg",
       "https://img.olx.com.br/images/26/264651045438470.jpg",
       "https://img.olx.com.br/images/28/284607286791194.jpg"
     ],
-    "defeito": false,
+    "id": "1505850433",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/uncharted-4-1505850433",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2021",
+    "titulo": "Uncharted 4",
     "ts": 1779914676
   },
   {
@@ -10343,25 +10364,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2024",
     "titulo": "Call of Duty MW3",
     "ts": 1779847545
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "23:05",
-    "fotoUrl": "https://img.olx.com.br/images/34/346698528648681.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/346698528648681.jpg",
-      "https://img.olx.com.br/images/37/371608646547216.jpg"
-    ],
-    "id": "1505295945",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-1505295945",
-    "preco": 69,
-    "precoRaw": "R$ 69",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
-    "titulo": "Red dead redemption ",
-    "ts": 1779847537
   }
 ]
