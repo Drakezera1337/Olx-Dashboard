@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505878336",
-    "titulo": "Horizon Zero Dawn - PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1505878948",
+    "titulo": "VENDO IPHONE 12 128 GB",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "19:33",
-    "tempoOlx": "Na OLX desde maio de 2017",
+    "tempoOlx": "Na OLX desde maio de 2015",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-12-128-gb-1505878948",
+    "fotoUrl": "https://img.olx.com.br/images/80/803695407753849.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/803695407753849.jpg",
+      "https://img.olx.com.br/images/81/813669285779100.jpg",
+      "https://img.olx.com.br/images/83/837689161081575.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779921216
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-ps4-1505878336",
+    "defeito": false,
+    "detectado": "19:33",
     "fotoUrl": "https://img.olx.com.br/images/38/384647642455609.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/384647642455609.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/42/427620166677989.jpg",
       "https://img.olx.com.br/images/44/443640641020083.jpg"
     ],
-    "defeito": false,
+    "id": "1505878336",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-ps4-1505878336",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "Horizon Zero Dawn - PS4",
     "ts": 1779921186
   },
   {
@@ -10316,24 +10337,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2026",
     "titulo": "Ps4 Slim 1TB",
     "ts": 1779889365
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:42",
-    "fotoUrl": "https://img.olx.com.br/images/73/739632409337005.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/739632409337005.jpg"
-    ],
-    "id": "1505728051",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/lego-harry-potter-ps4-1505728051",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2025",
-    "titulo": "Lego Harry Potter PS4",
-    "ts": 1779889356
   }
 ]
