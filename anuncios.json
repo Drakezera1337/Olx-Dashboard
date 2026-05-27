@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505720456",
-    "titulo": "Playstation 5 Slim 850GB na Caixa + Controle",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1505346027",
+    "titulo": "Vídeo game PlayStation ",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "10:23",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-slim-850gb-na-caixa-controle-1505720456",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-playstation-1505346027",
+    "fotoUrl": "https://img.olx.com.br/images/28/286605402625317.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/286605402625317.jpg",
+      "https://img.olx.com.br/images/29/297603167151056.jpg",
+      "https://img.olx.com.br/images/30/306672281165298.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779888194
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:23",
     "fotoUrl": "https://img.olx.com.br/images/23/236694169484115.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/236694169484115.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/26/267624285652823.jpg",
       "https://img.olx.com.br/images/28/283689287613061.jpg"
     ],
-    "defeito": false,
+    "id": "1505720456",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-slim-850gb-na-caixa-controle-1505720456",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "Playstation 5 Slim 850GB na Caixa + Controle",
     "ts": 1779888186
   },
   {
@@ -10372,24 +10393,5 @@
     "tempoOlx": "Na OLX desde outubro de 2018",
     "titulo": "Xbox 360",
     "ts": 1779810699
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:48",
-    "fotoUrl": "https://img.olx.com.br/images/99/995689761987153.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/995689761987153.jpg"
-    ],
-    "id": "1505137685",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/nintendo-novo-1505137685",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2019",
-    "titulo": "Nintendo novo ",
-    "ts": 1779810516
   }
 ]
