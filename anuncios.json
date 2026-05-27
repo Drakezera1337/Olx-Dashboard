@@ -1,21 +1,40 @@
 [
   {
-    "id": "1505760422",
-    "titulo": "Controle ps5",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "ps5",
+    "id": "1505761904",
+    "titulo": "Controle xbox",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:18",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "12:19",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps5-1505760422",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/controle-xbox-1505761904",
+    "fotoUrl": "https://img.olx.com.br/images/79/799696040383154.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/79/799696040383154.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779895143
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:18",
     "fotoUrl": "https://img.olx.com.br/images/26/262665168396921.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/262665168396921.jpg"
     ],
-    "defeito": false,
+    "id": "1505760422",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps5-1505760422",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Controle ps5",
     "ts": 1779895133
   },
   {
@@ -10361,29 +10380,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "PS4  Slim 1TB ",
     "ts": 1779835848
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:50",
-    "fotoUrl": "https://img.olx.com.br/images/46/461616048221700.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/461616048221700.jpg",
-      "https://img.olx.com.br/images/47/479644403525869.jpg",
-      "https://img.olx.com.br/images/49/491688648984324.jpg",
-      "https://img.olx.com.br/images/51/512619402253491.jpg",
-      "https://img.olx.com.br/images/52/526651885253732.jpg",
-      "https://img.olx.com.br/images/54/544613280856977.jpg"
-    ],
-    "id": "1505235608",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps4-slim-1tb-c-2-cont-e-base-carregamento-1505235608",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2022",
-    "titulo": "PS4 SLIM 1TB C/2 CONT E BASE CARREGAMENTO",
-    "ts": 1779835837
   }
 ]
