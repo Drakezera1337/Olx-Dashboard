@@ -1,16 +1,33 @@
 [
   {
-    "id": "1505726781",
-    "titulo": "Controle de Ps5 c/ drifit R2 ",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "ps5",
+    "id": "1505726638",
+    "titulo": "PlayStation 4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:36",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "tempoOlx": "Na OLX desde julho de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/controle-de-ps5-c-drifit-r2-1505726781",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-1505726638",
+    "fotoUrl": "https://img.olx.com.br/images/59/598603407116581.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/598603407116581.jpg",
+      "https://img.olx.com.br/images/61/616664406768968.jpg",
+      "https://img.olx.com.br/images/62/627665888811082.jpg",
+      "https://img.olx.com.br/images/63/639696761536852.jpg",
+      "https://img.olx.com.br/images/65/658652880588426.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779888977
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:36",
     "fotoUrl": "https://img.olx.com.br/images/29/290619525777346.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/290619525777346.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/34/343603521916621.jpg",
       "https://img.olx.com.br/images/35/358608287425706.jpg"
     ],
-    "defeito": false,
+    "id": "1505726781",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/controle-de-ps5-c-drifit-r2-1505726781",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "Controle de Ps5 c/ drifit R2 ",
     "ts": 1779888967
   },
   {
@@ -10361,26 +10384,5 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "titulo": "Game The Evil Within 2 PS4",
     "ts": 1779811816
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:10",
-    "fotoUrl": "https://img.olx.com.br/images/57/572582182632402.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/572582182632402.jpg",
-      "https://img.olx.com.br/images/59/592538184509660.jpg",
-      "https://img.olx.com.br/images/61/611587540401335.jpg"
-    ],
-    "id": "1421529723",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/for-honor-1421529723",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
-    "titulo": "For Honor",
-    "ts": 1779811808
   }
 ]
