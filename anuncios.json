@@ -1,21 +1,40 @@
 [
   {
-    "id": "1505765458",
-    "titulo": "Controle XBOX",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "xbox",
+    "id": "1505766564",
+    "titulo": "Ps3 com defeito ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "12:36",
-    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "detectado": "12:37",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/controle-xbox-1505765458",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps3-com-defeito-1505766564",
+    "fotoUrl": "https://img.olx.com.br/images/54/541698406915316.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/541698406915316.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779896254
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:36",
     "fotoUrl": "https://img.olx.com.br/images/57/575655408581940.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/575655408581940.jpg"
     ],
-    "defeito": false,
+    "id": "1505765458",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/controle-xbox-1505765458",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
+    "titulo": "Controle XBOX",
     "ts": 1779896207
   },
   {
@@ -10352,29 +10371,5 @@
     "tempoOlx": "Na OLX desde outubro de 2018",
     "titulo": "[RARO] Devil may cry PS4 Pack",
     "ts": 1779836037
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "19:53",
-    "fotoUrl": "https://img.olx.com.br/images/62/623662045324416.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/623662045324416.jpg",
-      "https://img.olx.com.br/images/63/632603409677866.jpg",
-      "https://img.olx.com.br/images/64/643636642183667.jpg",
-      "https://img.olx.com.br/images/66/669656409017053.jpg",
-      "https://img.olx.com.br/images/69/697604400436507.jpg",
-      "https://img.olx.com.br/images/70/706600403545756.jpg"
-    ],
-    "id": "1505174428",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/efootbal-mobile-1505174428",
-    "preco": 429,
-    "precoRaw": "R$ 429",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": " EFOOTBAL MOBILE",
-    "ts": 1779836029
   }
 ]
