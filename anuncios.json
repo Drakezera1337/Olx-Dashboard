@@ -1,16 +1,34 @@
 [
   {
-    "id": "1505833222",
-    "titulo": "iPhone 13 rosa",
-    "preco": 2150,
-    "precoRaw": "R$ 2.150",
-    "categoria": "iphone",
+    "id": "1505841694",
+    "titulo": "Oculos VR PSVR2 PS5",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "17:36",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/oculos-vr-psvr2-ps5-1505841694",
+    "fotoUrl": "https://img.olx.com.br/images/13/134622162513536.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/134622162513536.jpg",
+      "https://img.olx.com.br/images/14/146625049305480.jpg",
+      "https://img.olx.com.br/images/16/165688286866781.jpg",
+      "https://img.olx.com.br/images/17/174658286419245.jpg",
+      "https://img.olx.com.br/images/19/196627405616945.jpg",
+      "https://img.olx.com.br/images/20/207649288504960.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779914203
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-rosa-1505833222",
+    "defeito": false,
+    "detectado": "17:36",
     "fotoUrl": "https://img.olx.com.br/images/90/903615286115431.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/903615286115431.jpg",
@@ -20,7 +38,13 @@
       "https://img.olx.com.br/images/96/960606169973073.jpg",
       "https://img.olx.com.br/images/98/982664400321687.jpg"
     ],
-    "defeito": false,
+    "id": "1505833222",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-rosa-1505833222",
+    "preco": 2150,
+    "precoRaw": "R$ 2.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "iPhone 13 rosa",
     "ts": 1779914187
   },
   {
@@ -10344,25 +10368,5 @@
     "tempoOlx": "Na OLX desde abril de 2022",
     "titulo": "Vendo jogos de ps4",
     "ts": 1779843690
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:01",
-    "fotoUrl": "https://img.olx.com.br/images/56/562657166770917.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/562657166770917.jpg",
-      "https://img.olx.com.br/images/57/579630169764977.jpg"
-    ],
-    "id": "1505281048",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/mortal-kombat-11-aftermath-1505281048",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2021",
-    "titulo": "Mortal kombat 11 aftermath",
-    "ts": 1779843679
   }
 ]
