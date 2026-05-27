@@ -1,16 +1,33 @@
 [
   {
-    "id": "1505762948",
-    "titulo": "Ps5 Novo",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "categoria": "ps5",
+    "id": "1505763064",
+    "titulo": "PlayStation 3 ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "12:25",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-novo-1505762948",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-1505763064",
+    "fotoUrl": "https://img.olx.com.br/images/18/184627405784668.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/184627405784668.jpg",
+      "https://img.olx.com.br/images/19/196686525953183.jpg",
+      "https://img.olx.com.br/images/21/212626169752589.jpg",
+      "https://img.olx.com.br/images/21/216628283584178.jpg",
+      "https://img.olx.com.br/images/23/235657764227523.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779895517
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:25",
     "fotoUrl": "https://img.olx.com.br/images/32/327616286550636.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/327616286550636.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/34/340619288952558.jpg",
       "https://img.olx.com.br/images/36/369698529085205.jpg"
     ],
-    "defeito": false,
+    "id": "1505762948",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-novo-1505762948",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Ps5 Novo",
     "ts": 1779895509
   },
   {
@@ -10357,24 +10380,5 @@
     "tempoOlx": "Na OLX desde novembro de 2018",
     "titulo": "Xbox series s",
     "ts": 1779835908
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:51",
-    "fotoUrl": "https://img.olx.com.br/images/51/511626408993753.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/511626408993753.jpg"
-    ],
-    "id": "1505219995",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-1505219995",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "video game",
-    "ts": 1779835900
   }
 ]
