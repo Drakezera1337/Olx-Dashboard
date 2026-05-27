@@ -1,16 +1,32 @@
 [
   {
-    "id": "1505144582",
-    "titulo": "Nintendo Switch Lite 100%",
-    "preco": 749,
-    "precoRaw": "R$ 749",
-    "categoria": "switch",
+    "id": "1505886012",
+    "titulo": "Iphone 13",
+    "preco": 1700,
+    "precoRaw": "R$ 1.700",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "20:09",
-    "tempoOlx": "Na OLX desde junho de 2015",
+    "detectado": "20:10",
+    "tempoOlx": "Na OLX desde junho de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1505886012",
+    "fotoUrl": "https://img.olx.com.br/images/10/102639405239723.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/102639405239723.jpg",
+      "https://img.olx.com.br/images/10/101605527400716.jpg",
+      "https://img.olx.com.br/images/10/102641642882293.jpg",
+      "https://img.olx.com.br/images/10/108673523030577.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779923406
+  },
+  {
+    "categoria": "switch",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-switch-lite-100-1505144582",
+    "defeito": false,
+    "detectado": "20:09",
     "fotoUrl": "https://img.olx.com.br/images/54/540677520692337.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/540677520692337.jpg",
@@ -20,7 +36,13 @@
       "https://img.olx.com.br/images/58/586658402631516.jpg",
       "https://img.olx.com.br/images/29/291689402603457.jpg"
     ],
-    "defeito": false,
+    "id": "1505144582",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/nintendo-switch-lite-100-1505144582",
+    "preco": 749,
+    "precoRaw": "R$ 749",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2015",
+    "titulo": "Nintendo Switch Lite 100%",
     "ts": 1779923375
   },
   {
@@ -10338,24 +10360,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Horizon Zero Dawn Complete Edition PS4 | Exclusivo PlayStation",
     "ts": 1779891298
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:14",
-    "fotoUrl": "https://img.olx.com.br/images/83/838626035324343.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/838626035324343.jpg"
-    ],
-    "id": "1495821966",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/shenmue-3-playstation-4-1495821966",
-    "preco": 135,
-    "precoRaw": "R$ 135",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Shenmue 3 Playstation 4",
-    "ts": 1779891289
   }
 ]
