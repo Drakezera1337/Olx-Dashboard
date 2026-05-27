@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505741594",
-    "titulo": "iPhone 17e 256GB Branco",
-    "preco": 3800,
-    "precoRaw": "R$ 3.800",
-    "categoria": "iphone",
+    "id": "1505753798",
+    "titulo": "Controle Playstation 3",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "11:58",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "detectado": "11:59",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-playstation-3-1505753798",
+    "fotoUrl": "https://img.olx.com.br/images/64/647634640901252.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/647634640901252.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779893974
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17e-256gb-branco-1505741594",
+    "defeito": false,
+    "detectado": "11:58",
     "fotoUrl": "https://img.olx.com.br/images/60/608628162692127.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/608628162692127.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/74/741633168009661.jpg",
       "https://img.olx.com.br/images/80/803658169514737.jpg"
     ],
-    "defeito": false,
+    "id": "1505741594",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17e-256gb-branco-1505741594",
+    "preco": 3800,
+    "precoRaw": "R$ 3.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "iPhone 17e 256GB Branco",
     "ts": 1779893885
   },
   {
@@ -10395,29 +10414,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "Controle PlayStation 5",
     "ts": 1779835584
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:46",
-    "fotoUrl": "https://img.olx.com.br/images/27/272674162646052.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/272674162646052.jpg",
-      "https://img.olx.com.br/images/27/274669400791937.jpg",
-      "https://img.olx.com.br/images/28/283646760321516.jpg",
-      "https://img.olx.com.br/images/27/273654289522201.jpg",
-      "https://img.olx.com.br/images/28/285601046946879.jpg",
-      "https://img.olx.com.br/images/27/272640887794413.jpg"
-    ],
-    "id": "1505216963",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps5-por-r-2400-leia-a-descricao-1505216963",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2023",
-    "titulo": "PS5 POR R$2400 - LEIA A DESCRIÇÃO",
-    "ts": 1779835577
   }
 ]
