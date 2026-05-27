@@ -1,21 +1,43 @@
 [
   {
-    "id": "1505300374",
-    "titulo": "Games ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1505300294",
+    "titulo": "Xbox séries s usado",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "23:28",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "detectado": "23:30",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/games-1505300374",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-usado-1505300294",
+    "fotoUrl": "https://img.olx.com.br/images/63/630612169175229.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/630612169175229.jpg",
+      "https://img.olx.com.br/images/65/650684169427600.jpg",
+      "https://img.olx.com.br/images/67/671679402577967.jpg",
+      "https://img.olx.com.br/images/68/687689768091491.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779849004
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "23:28",
     "fotoUrl": "https://img.olx.com.br/images/24/248647524865685.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/248647524865685.jpg"
     ],
-    "defeito": false,
+    "id": "1505300374",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/games-1505300374",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "Games ",
     "ts": 1779848885
   },
   {
@@ -10269,28 +10291,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Ps3, não está funcionando e não tenho os controles ",
     "ts": 1779805687
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "11:26",
-    "fotoUrl": "https://img.olx.com.br/images/28/281686041502830.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/281686041502830.jpg",
-      "https://img.olx.com.br/images/29/294651286659397.jpg",
-      "https://img.olx.com.br/images/31/312623886262010.jpg",
-      "https://img.olx.com.br/images/33/332647402455403.jpg",
-      "https://img.olx.com.br/images/35/359630042802711.jpg"
-    ],
-    "id": "1502887214",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-xr-128gb-1502887214",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
-    "titulo": "Vendo IPhone XR 128gb ",
-    "ts": 1779805595
   }
 ]
