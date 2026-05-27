@@ -1,22 +1,42 @@
 [
   {
-    "id": "1505282111",
-    "titulo": "Killzone shadow",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "outros",
+    "id": "1505281416",
+    "titulo": "Assassins creed Syndicate",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "22:06",
     "tempoOlx": "Na OLX desde outubro de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/killzone-shadow-1505282111",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/assassins-creed-syndicate-1505281416",
+    "fotoUrl": "https://img.olx.com.br/images/73/733661646089117.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/733661646089117.jpg",
+      "https://img.olx.com.br/images/74/740639528059709.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779844018
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:06",
     "fotoUrl": "https://img.olx.com.br/images/33/333618166334260.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/333618166334260.jpg",
       "https://img.olx.com.br/images/36/363660160498003.jpg"
     ],
-    "defeito": false,
+    "id": "1505282111",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/killzone-shadow-1505282111",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "Killzone shadow",
     "ts": 1779844008
   },
   {
@@ -10264,24 +10284,5 @@
     "tempoOlx": "",
     "titulo": "Dock Nintendo Switch Oled",
     "ts": 1779802409
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:33",
-    "fotoUrl": "https://img.olx.com.br/images/48/480605621531824.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/480605621531824.jpg"
-    ],
-    "id": "1488486391",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/controle-knup-kp-gm038-p-pc-android-switch-preto-1488486391",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "CONTROLE KNUP KP GM038 P PC ANDROID SWITCH PRETO",
-    "ts": 1779802385
   }
 ]
