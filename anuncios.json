@@ -1,16 +1,32 @@
 [
   {
-    "id": "1505863650",
-    "titulo": "iPhone 7 Plus (Ler anúncio)",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "iphone",
+    "id": "1505864565",
+    "titulo": "(PS4) Days gone",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:32",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "detectado": "18:34",
+    "tempoOlx": "Na OLX desde dezembro de 2013",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-days-gone-1505864565",
+    "fotoUrl": "https://img.olx.com.br/images/67/673620401700193.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/673620401700193.jpg",
+      "https://img.olx.com.br/images/69/697664642727014.jpg",
+      "https://img.olx.com.br/images/71/711663523720582.jpg",
+      "https://img.olx.com.br/images/72/722621403896818.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779917677
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-plus-ler-anuncio-1505863650",
+    "defeito": false,
+    "detectado": "18:32",
     "fotoUrl": "https://img.olx.com.br/images/30/303696163162600.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/303696163162600.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/34/346608765190924.jpg",
       "https://img.olx.com.br/images/35/355665164231332.jpg"
     ],
-    "defeito": false,
+    "id": "1505863650",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-plus-ler-anuncio-1505863650",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "iPhone 7 Plus (Ler anúncio)",
     "ts": 1779917554
   },
   {
@@ -10316,27 +10338,5 @@
     "tempoOlx": "Na OLX desde março de 2016",
     "titulo": "Playstation 4",
     "ts": 1779887526
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:11",
-    "fotoUrl": "https://img.olx.com.br/images/94/948641886238721.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/948641886238721.jpg",
-      "https://img.olx.com.br/images/97/971649160749121.jpg",
-      "https://img.olx.com.br/images/99/997681766223705.jpg",
-      "https://img.olx.com.br/images/10/105624642856886.jpg"
-    ],
-    "id": "1505714912",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-3-slim-1505714912",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "Playstation 3 Slim",
-    "ts": 1779887475
   }
 ]
