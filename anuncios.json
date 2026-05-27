@@ -1,21 +1,42 @@
 [
   {
-    "id": "1505310500",
-    "titulo": "Ps4 ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "ps4",
+    "id": "1505310905",
+    "titulo": "Xbox Series S (reparo)",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "00:43",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "detectado": "00:46",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/ps4-1505310500",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/xbox-series-s-reparo-1505310905",
+    "fotoUrl": "https://img.olx.com.br/images/86/869615163264605.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/869615163264605.jpg",
+      "https://img.olx.com.br/images/87/870627402573626.jpg",
+      "https://img.olx.com.br/images/88/886645649738299.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779853569
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:43",
     "fotoUrl": "https://img.olx.com.br/images/19/191643406905752.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/191643406905752.jpg"
     ],
-    "defeito": false,
+    "id": "1505310500",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/ps4-1505310500",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Ps4 ",
     "ts": 1779853390
   },
   {
@@ -10292,28 +10313,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "Devil may cry 5 - ps4 midia fisica",
     "ts": 1779806539
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:42",
-    "fotoUrl": "https://img.olx.com.br/images/79/791695648929286.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/791695648929286.jpg",
-      "https://img.olx.com.br/images/81/811604280168968.jpg",
-      "https://img.olx.com.br/images/82/822660765229154.jpg",
-      "https://img.olx.com.br/images/83/838639767525442.jpg",
-      "https://img.olx.com.br/images/84/848603762740129.jpg"
-    ],
-    "id": "1505118608",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogos-ps4-apartir-de-40-1505118608",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2022",
-    "titulo": "Jogos ps4 apartir de 40 ",
-    "ts": 1779806528
   }
 ]
