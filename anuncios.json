@@ -1,22 +1,44 @@
 [
   {
-    "id": "1505746602",
-    "titulo": "Battlefield Bad Company 2 limited edition",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "categoria": "jogos",
+    "id": "1505746497",
+    "titulo": "Playstation 4",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:36",
-    "tempoOlx": "Na OLX desde abril de 2017",
+    "tempoOlx": "Na OLX desde maio de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-bad-company-2-limited-edition-1505746602",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-1505746497",
+    "fotoUrl": "https://img.olx.com.br/images/82/821621647815830.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/821621647815830.jpg",
+      "https://img.olx.com.br/images/83/833605767911672.jpg",
+      "https://img.olx.com.br/images/84/840640520925852.jpg",
+      "https://img.olx.com.br/images/85/855656047198333.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779892615
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:36",
     "fotoUrl": "https://img.olx.com.br/images/66/669631889203128.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/669631889203128.jpg",
       "https://img.olx.com.br/images/66/660665524025527.jpg"
     ],
-    "defeito": false,
+    "id": "1505746602",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/battlefield-bad-company-2-limited-edition-1505746602",
+    "preco": 45,
+    "precoRaw": "R$ 45",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2017",
+    "titulo": "Battlefield Bad Company 2 limited edition",
     "ts": 1779892604
   },
   {
@@ -10382,24 +10404,5 @@
     "tempoOlx": "Na OLX desde agosto de 2013",
     "titulo": "Resident Evil 2 PS4 upgrade gratuito para PS5",
     "ts": 1779817292
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:41",
-    "fotoUrl": "https://img.olx.com.br/images/89/897607520889767.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/897607520889767.jpg"
-    ],
-    "id": "1505166579",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogo-ps4-rainbowsix-1505166579",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "Jogo PS4  Rainbowsix",
-    "ts": 1779817283
   }
 ]
