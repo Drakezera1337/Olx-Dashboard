@@ -1,16 +1,30 @@
 [
   {
-    "id": "1479012187",
-    "titulo": "Ps4 1TB",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1366312670",
+    "titulo": "Madden NFL e Fifa 15 de PS 4",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "22:20",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "detectado": "22:24",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/madden-nfl-e-fifa-15-de-ps-4-1366312670",
+    "fotoUrl": "https://img.olx.com.br/images/46/461478351825688.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/461478351825688.jpg",
+      "https://img.olx.com.br/images/45/453429231493355.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779845047
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1tb-1479012187",
+    "defeito": false,
+    "detectado": "22:20",
     "fotoUrl": "https://img.olx.com.br/images/64/642694379483177.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/642694379483177.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/68/684661375531336.jpg",
       "https://img.olx.com.br/images/70/701619738162184.jpg"
     ],
-    "defeito": false,
+    "id": "1479012187",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1tb-1479012187",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "Ps4 1TB",
     "ts": 1779844807
   },
   {
@@ -10268,24 +10288,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "ps4",
     "ts": 1779802665
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:37",
-    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
-    "fotosUrls": [
-      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
-    ],
-    "id": "1505098846",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-1505098846",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "PS4",
-    "ts": 1779802655
   }
 ]
