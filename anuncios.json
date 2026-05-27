@@ -1,16 +1,34 @@
 [
   {
-    "id": "1505721173",
-    "titulo": "Playstation 3 Slim ",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "ps3",
+    "id": "1505720456",
+    "titulo": "Playstation 5 Slim 850GB na Caixa + Controle",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "10:22",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "10:23",
+    "tempoOlx": "Na OLX desde março de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-3-slim-1505721173",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-5-slim-850gb-na-caixa-controle-1505720456",
+    "fotoUrl": "https://img.olx.com.br/images/23/236694169484115.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/236694169484115.jpg",
+      "https://img.olx.com.br/images/24/245671528834186.jpg",
+      "https://img.olx.com.br/images/25/258687169869088.jpg",
+      "https://img.olx.com.br/images/26/262608289637088.jpg",
+      "https://img.olx.com.br/images/26/267624285652823.jpg",
+      "https://img.olx.com.br/images/28/283689287613061.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779888186
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:22",
     "fotoUrl": "https://img.olx.com.br/images/89/896637402352634.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/896637402352634.jpg",
@@ -18,7 +36,13 @@
       "https://img.olx.com.br/images/92/929664529371974.jpg",
       "https://img.olx.com.br/images/93/937683647711841.jpg"
     ],
-    "defeito": false,
+    "id": "1505721173",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-3-slim-1505721173",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "Playstation 3 Slim ",
     "ts": 1779888146
   },
   {
@@ -10367,27 +10391,5 @@
     "tempoOlx": "Na OLX desde julho de 2019",
     "titulo": "Nintendo novo ",
     "ts": 1779810516
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "12:46",
-    "fotoUrl": "https://img.olx.com.br/images/46/464689767348001.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/464689767348001.jpg",
-      "https://img.olx.com.br/images/47/477622287197047.jpg",
-      "https://img.olx.com.br/images/49/491679285602842.jpg",
-      "https://img.olx.com.br/images/50/502640401902848.jpg"
-    ],
-    "id": "1505135761",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1505135761",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "xbox one s",
-    "ts": 1779810418
   }
 ]
