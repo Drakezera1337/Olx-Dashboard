@@ -1,16 +1,33 @@
 [
   {
-    "id": "1505725015",
-    "titulo": "Vídeo game ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "outros",
+    "id": "1505726781",
+    "titulo": "Controle de Ps5 c/ drifit R2 ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "10:34",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "detectado": "10:36",
+    "tempoOlx": "Na OLX desde julho de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/video-game-1505725015",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/controle-de-ps5-c-drifit-r2-1505726781",
+    "fotoUrl": "https://img.olx.com.br/images/29/290619525777346.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/290619525777346.jpg",
+      "https://img.olx.com.br/images/30/303630280046632.jpg",
+      "https://img.olx.com.br/images/32/328675766414453.jpg",
+      "https://img.olx.com.br/images/34/343603521916621.jpg",
+      "https://img.olx.com.br/images/35/358608287425706.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779888967
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:34",
     "fotoUrl": "https://img.olx.com.br/images/48/489618045090076.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/489618045090076.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/53/531601048106242.jpg",
       "https://img.olx.com.br/images/55/558690048290155.jpg"
     ],
-    "defeito": false,
+    "id": "1505725015",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/video-game-1505725015",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "titulo": "Vídeo game ",
     "ts": 1779888845
   },
   {
@@ -10359,29 +10382,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "For Honor",
     "ts": 1779811808
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:05",
-    "fotoUrl": "https://img.olx.com.br/images/22/227680163593186.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/227680163593186.jpg",
-      "https://img.olx.com.br/images/25/257689649912206.jpg",
-      "https://img.olx.com.br/images/30/304683281515146.jpg",
-      "https://img.olx.com.br/images/34/349656043399029.jpg",
-      "https://img.olx.com.br/images/41/416659409675414.jpg",
-      "https://img.olx.com.br/images/45/450638764216879.jpg"
-    ],
-    "id": "1505142913",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/xbox-series-s-1tb-leia-o-anuncio-envio-olx-1505142913",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "Xbox séries s 1tb leia o anúncio ENVIO OLX",
-    "ts": 1779811539
   }
 ]
