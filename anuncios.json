@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505723469",
-    "titulo": "Ps4 slim (todo bom) 58 jogos",
-    "preco": 1080,
-    "precoRaw": "R$ 1.080",
-    "categoria": "ps4",
+    "id": "1459159415",
+    "titulo": "Pokémon White",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "10:30",
-    "tempoOlx": "Na OLX desde novembro de 2025",
+    "detectado": "10:32",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/pokemon-white-1459159415",
+    "fotoUrl": "https://img.olx.com.br/images/46/465583712675410.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/465583712675410.jpg",
+      "https://img.olx.com.br/images/48/485523952446071.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779888725
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-slim-todo-bom-58-jogos-1505723469",
+    "defeito": false,
+    "detectado": "10:30",
     "fotoUrl": "https://img.olx.com.br/images/79/795644288780210.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/795644288780210.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/82/822684163729785.jpg",
       "https://img.olx.com.br/images/84/846608529564658.jpg"
     ],
-    "defeito": false,
+    "id": "1505723469",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/ps4-slim-todo-bom-58-jogos-1505723469",
+    "preco": 1080,
+    "precoRaw": "R$ 1.080",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2025",
+    "titulo": "Ps4 slim (todo bom) 58 jogos",
     "ts": 1779888650
   },
   {
@@ -10361,26 +10381,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "Battlefield V",
     "ts": 1779811502
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:04",
-    "fotoUrl": "https://img.olx.com.br/images/61/614628644731850.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/614628644731850.jpg",
-      "https://img.olx.com.br/images/65/656611286659814.jpg",
-      "https://img.olx.com.br/images/53/533663044729459.jpg"
-    ],
-    "id": "1505142206",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/jogo-ps4-ps5-infamous-sencond-son-1505142206",
-    "preco": 89,
-    "precoRaw": "R$ 89",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "JOGO PS4/PS5 inFAMOUS Sencond Son",
-    "ts": 1779811492
   }
 ]
