@@ -1,16 +1,32 @@
 [
   {
-    "id": "1505714912",
-    "titulo": "Playstation 3 Slim",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "categoria": "ps3",
+    "id": "1505717919",
+    "titulo": "Playstation 4",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:11",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "10:12",
+    "tempoOlx": "Na OLX desde março de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-3-slim-1505714912",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-1505717919",
+    "fotoUrl": "https://img.olx.com.br/images/29/292628403031105.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/292628403031105.jpg",
+      "https://img.olx.com.br/images/51/512698523184921.jpg",
+      "https://img.olx.com.br/images/54/548699043348525.jpg",
+      "https://img.olx.com.br/images/56/563602526743996.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779887526
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:11",
     "fotoUrl": "https://img.olx.com.br/images/94/948641886238721.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/948641886238721.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/99/997681766223705.jpg",
       "https://img.olx.com.br/images/10/105624642856886.jpg"
     ],
-    "defeito": false,
+    "id": "1505714912",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-3-slim-1505714912",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "Playstation 3 Slim",
     "ts": 1779887475
   },
   {
@@ -10361,25 +10383,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "For Honor PS4",
     "ts": 1779809785
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:36",
-    "fotoUrl": "https://img.olx.com.br/images/84/844622767938809.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/844622767938809.jpg",
-      "https://img.olx.com.br/images/85/850682526933133.jpg"
-    ],
-    "id": "1505133634",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-chase-turbo-ps4-1505133634",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "Horizon Chase Turbo PS4",
-    "ts": 1779809777
   }
 ]
