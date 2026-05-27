@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505196877",
-    "titulo": "Playstation 4 Fat 500GB extremamente conservado com 4 jogos físicos",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1505281048",
+    "titulo": "Mortal kombat 11 aftermath",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "22:01",
-    "tempoOlx": "Na OLX desde maio de 2023",
+    "tempoOlx": "Na OLX desde outubro de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-fat-500gb-extremamente-conservado-com-4-jogos-fisicos-1505196877",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/mortal-kombat-11-aftermath-1505281048",
+    "fotoUrl": "https://img.olx.com.br/images/56/562657166770917.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/562657166770917.jpg",
+      "https://img.olx.com.br/images/57/579630169764977.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779843679
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:01",
     "fotoUrl": "https://img.olx.com.br/images/65/654659408961609.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/654659408961609.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/68/683664281703363.jpg",
       "https://img.olx.com.br/images/69/697601768936174.jpg"
     ],
-    "defeito": false,
+    "id": "1505196877",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-fat-500gb-extremamente-conservado-com-4-jogos-fisicos-1505196877",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2023",
+    "titulo": "Playstation 4 Fat 500GB extremamente conservado com 4 jogos físicos",
     "ts": 1779843669
   },
   {
@@ -10269,28 +10289,5 @@
     "tempoOlx": "",
     "titulo": "Playstation 3 defeito liga e não dá imagem ",
     "ts": 1779802356
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/45/454619640584197.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/454619640584197.jpg",
-      "https://img.olx.com.br/images/47/473605045256363.jpg",
-      "https://img.olx.com.br/images/49/499694288273100.jpg",
-      "https://img.olx.com.br/images/50/508697888154595.jpg",
-      "https://img.olx.com.br/images/67/679630163106197.jpg"
-    ],
-    "id": "1504818834",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-controle-de-brinde-usado-1504818834",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Xbox Series S + Controle de brinde | Usado",
-    "ts": 1779802343
   }
 ]
