@@ -1,22 +1,42 @@
 [
   {
-    "id": "1505280647",
-    "titulo": "Transformers Dark",
-    "preco": 250,
-    "precoRaw": "R$ 250",
+    "id": "1505280277",
+    "titulo": "Jump force",
+    "preco": 170,
+    "precoRaw": "R$ 170",
     "categoria": "outros",
     "publicado": "",
     "detectado": "22:01",
     "tempoOlx": "Na OLX desde outubro de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/transformers-dark-1505280647",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jump-force-1505280277",
+    "fotoUrl": "https://img.olx.com.br/images/92/927629768929984.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/927629768929984.jpg",
+      "https://img.olx.com.br/images/93/939633525981311.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779843710
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:01",
     "fotoUrl": "https://img.olx.com.br/images/29/290610528569136.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/290610528569136.jpg",
       "https://img.olx.com.br/images/30/303608406973929.jpg"
     ],
-    "defeito": false,
+    "id": "1505280647",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/transformers-dark-1505280647",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "Transformers Dark",
     "ts": 1779843701
   },
   {
@@ -10262,27 +10282,5 @@
     "tempoOlx": "",
     "titulo": "Manual ps3 ",
     "ts": 1779802371
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:32",
-    "fotoUrl": "https://img.olx.com.br/images/22/227657529188349.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/227657529188349.jpg",
-      "https://img.olx.com.br/images/23/234635760952768.jpg",
-      "https://img.olx.com.br/images/25/255612405962545.jpg",
-      "https://img.olx.com.br/images/26/262691648218598.jpg"
-    ],
-    "id": "1504522064",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/jogo-ps3-nier-1504522064",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo ps3 Nier ",
-    "ts": 1779802356
   }
 ]
