@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505864565",
-    "titulo": "(PS4) Days gone",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "ps4",
+    "id": "1505864115",
+    "titulo": "iPhone 14",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "18:34",
-    "tempoOlx": "Na OLX desde dezembro de 2013",
+    "detectado": "18:35",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1505864115",
+    "fotoUrl": "https://img.olx.com.br/images/28/280615642408183.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/280615642408183.jpg",
+      "https://img.olx.com.br/images/30/305672169682975.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779917736
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-days-gone-1505864565",
+    "defeito": false,
+    "detectado": "18:34",
     "fotoUrl": "https://img.olx.com.br/images/67/673620401700193.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/673620401700193.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/71/711663523720582.jpg",
       "https://img.olx.com.br/images/72/722621403896818.jpg"
     ],
-    "defeito": false,
+    "id": "1505864565",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-days-gone-1505864565",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2013",
+    "titulo": "(PS4) Days gone",
     "ts": 1779917677
   },
   {
@@ -10316,27 +10336,5 @@
     "tempoOlx": "Na OLX desde julho de 2019",
     "titulo": "The Last of Us 2 - PS4",
     "ts": 1779887535
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:12",
-    "fotoUrl": "https://img.olx.com.br/images/29/292628403031105.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/292628403031105.jpg",
-      "https://img.olx.com.br/images/51/512698523184921.jpg",
-      "https://img.olx.com.br/images/54/548699043348525.jpg",
-      "https://img.olx.com.br/images/56/563602526743996.jpg"
-    ],
-    "id": "1505717919",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-1505717919",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2016",
-    "titulo": "Playstation 4",
-    "ts": 1779887526
   }
 ]
