@@ -1,22 +1,43 @@
 [
   {
-    "id": "1505744428",
-    "titulo": "Controle PRO para Nintendo Switch ",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "switch",
+    "id": "1505744961",
+    "titulo": "Jogos de futebol PS4",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:29",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "11:30",
+    "tempoOlx": "Na OLX desde abril de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/controle-pro-para-nintendo-switch-1505744428",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/jogos-de-futebol-ps4-1505744961",
+    "fotoUrl": "https://img.olx.com.br/images/57/573648526155387.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/573648526155387.jpg",
+      "https://img.olx.com.br/images/58/589627763653382.jpg",
+      "https://img.olx.com.br/images/60/609699164007628.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779892235
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:29",
     "fotoUrl": "https://img.olx.com.br/images/47/472622640093342.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/472622640093342.jpg",
       "https://img.olx.com.br/images/48/482683041370438.jpg"
     ],
-    "defeito": false,
+    "id": "1505744428",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/controle-pro-para-nintendo-switch-1505744428",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Controle PRO para Nintendo Switch ",
     "ts": 1779892145
   },
   {
@@ -10377,24 +10398,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Jogos ps4",
     "ts": 1779816617
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:30",
-    "fotoUrl": "https://img.olx.com.br/images/98/989638281066331.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/989638281066331.jpg"
-    ],
-    "id": "1505164623",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/bloodborne-game-of-the-year-edition-1505164623",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Bloodborne Game of the Year Edition ",
-    "ts": 1779816607
   }
 ]
