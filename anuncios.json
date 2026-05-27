@@ -1,16 +1,29 @@
 [
   {
-    "id": "1500466234",
-    "titulo": "Aluguel videogame Xbox series S",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "xbox",
+    "id": "1505278977",
+    "titulo": "Jogos de Playstation 4",
+    "preco": 240,
+    "precoRaw": "R$ 240",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:50",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "detectado": "21:56",
+    "tempoOlx": "Na OLX desde março de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/aluguel-videogame-xbox-series-s-1500466234",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/jogos-de-playstation-4-1505278977",
+    "fotoUrl": "https://img.olx.com.br/images/45/450641160943019.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/450641160943019.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779843370
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:50",
     "fotoUrl": "https://img.olx.com.br/images/10/109644285285877.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/109644285285877.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/14/146620763655785.jpg",
       "https://img.olx.com.br/images/15/151629406543039.jpg"
     ],
-    "defeito": false,
+    "id": "1500466234",
+    "link": "https://al.olx.com.br/alagoas/games/consoles-de-video-game/aluguel-videogame-xbox-series-s-1500466234",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Aluguel videogame Xbox series S",
     "ts": 1779843036
   },
   {
@@ -10271,25 +10290,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Ps4 slim 500GB ",
-    "ts": 1779802317
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:31",
-    "fotoUrl": "https://img.olx.com.br/images/88/883646284740316.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/883646284740316.jpg"
-    ],
-    "id": "1504937485",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps4-slim-512gb-com-controle-mas-sem-funcionar-cabos-todos-e-um-jogo-a-escolha-1504937485",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "PS4 Slim, 512GB, com controle (mas sem funcionar), cabos todos e um jogo a escolha!",
     "ts": 1779802317
   }
 ]
