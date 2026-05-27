@@ -1,23 +1,44 @@
 [
   {
-    "id": "1505866597",
-    "titulo": "vendo dock de switch OLED ",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "switch",
+    "id": "1505867520",
+    "titulo": "Xbox Series S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "18:46",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "18:50",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-series-s-1505867520",
+    "fotoUrl": "https://img.olx.com.br/images/16/163674760641968.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/163674760641968.jpg",
+      "https://img.olx.com.br/images/18/189684767653523.jpg",
+      "https://img.olx.com.br/images/19/196685404166244.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779918637
+  },
+  {
+    "categoria": "switch",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-dock-de-switch-oled-1505866597",
+    "defeito": false,
+    "detectado": "18:46",
     "fotoUrl": "https://img.olx.com.br/images/63/637647169771470.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/637647169771470.jpg",
       "https://img.olx.com.br/images/65/659663528359992.jpg",
       "https://img.olx.com.br/images/67/677608284376530.jpg"
     ],
-    "defeito": false,
+    "id": "1505866597",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-dock-de-switch-oled-1505866597",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "vendo dock de switch OLED ",
     "ts": 1779918396
   },
   {
@@ -10306,24 +10327,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "DAY ONE EDITION FINAL FANTASY XV ps4 ",
     "ts": 1779888247
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:23",
-    "fotoUrl": "https://img.olx.com.br/images/22/226624282015139.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/226624282015139.jpg"
-    ],
-    "id": "1505721197",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/controle-original-1505721197",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Controle original ",
-    "ts": 1779888219
   }
 ]
