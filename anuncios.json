@@ -1,22 +1,44 @@
 [
   {
-    "id": "1505753372",
-    "titulo": "PS4",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "categoria": "ps4",
+    "id": "1505741594",
+    "titulo": "iPhone 17e 256GB Branco",
+    "preco": 3800,
+    "precoRaw": "R$ 3.800",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "11:57",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "detectado": "11:58",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17e-256gb-branco-1505741594",
+    "fotoUrl": "https://img.olx.com.br/images/60/608628162692127.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/608628162692127.jpg",
+      "https://img.olx.com.br/images/66/667697763382540.jpg",
+      "https://img.olx.com.br/images/74/741633168009661.jpg",
+      "https://img.olx.com.br/images/80/803658169514737.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779893885
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1505753372",
+    "defeito": false,
+    "detectado": "11:57",
     "fotoUrl": "https://img.olx.com.br/images/47/475696402065726.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/475696402065726.jpg",
       "https://img.olx.com.br/images/48/482633524881015.jpg"
     ],
-    "defeito": false,
+    "id": "1505753372",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1505753372",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "PS4",
     "ts": 1779893857
   },
   {
@@ -10397,29 +10419,5 @@
     "tempoOlx": "Na OLX desde abril de 2023",
     "titulo": "PS5 POR R$2400 - LEIA A DESCRIÇÃO",
     "ts": 1779835577
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "19:46",
-    "fotoUrl": "https://img.olx.com.br/images/98/983636886727241.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/983636886727241.jpg",
-      "https://img.olx.com.br/images/99/993614165849520.jpg",
-      "https://img.olx.com.br/images/10/104611281755962.jpg",
-      "https://img.olx.com.br/images/12/123657403018684.jpg",
-      "https://img.olx.com.br/images/13/133666888395249.jpg",
-      "https://img.olx.com.br/images/14/149691528511069.jpg"
-    ],
-    "id": "1505175352",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1505175352",
-    "preco": 2000,
-    "precoRaw": "R$ 2.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
-    "titulo": "iPhone 13 Pro 128gb",
-    "ts": 1779835572
   }
 ]
