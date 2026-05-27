@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505719141",
-    "titulo": "Vendo manete Xbox sem fio ",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "xbox",
+    "id": "1505721493",
+    "titulo": "Ps3 com defeito ",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "10:22",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vendo-manete-xbox-sem-fio-1505719141",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps3-com-defeito-1505721493",
+    "fotoUrl": "https://img.olx.com.br/images/40/407624286698995.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/407624286698995.jpg",
+      "https://img.olx.com.br/images/41/413689401340874.jpg",
+      "https://img.olx.com.br/images/43/432638167143936.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779888137
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:22",
     "fotoUrl": "https://img.olx.com.br/images/49/491677642945563.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/491677642945563.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/53/535693647959952.jpg",
       "https://img.olx.com.br/images/55/556627049423931.jpg"
     ],
-    "defeito": false,
+    "id": "1505719141",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vendo-manete-xbox-sem-fio-1505719141",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "Vendo manete Xbox sem fio ",
     "ts": 1779888128
   },
   {
@@ -10366,25 +10387,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Lote de jogos PS4 (Faço envio)",
     "ts": 1779810408
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:46",
-    "fotoUrl": "https://img.olx.com.br/images/34/340696285186475.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/340696285186475.jpg",
-      "https://img.olx.com.br/images/36/363697767770003.jpg"
-    ],
-    "id": "1505137363",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/spider-man-1505137363",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Spider-man",
-    "ts": 1779810399
   }
 ]
