@@ -1,22 +1,43 @@
 [
   {
-    "id": "1505841253",
-    "titulo": "PlayStation Portal ",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "outros",
+    "id": "1505820402",
+    "titulo": "iPhone SE",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "17:36",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "tempoOlx": "Na OLX desde agosto de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-se-1505820402",
+    "fotoUrl": "https://img.olx.com.br/images/90/905681167201096.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/905681167201096.jpg",
+      "https://img.olx.com.br/images/92/923651764106334.jpg",
+      "https://img.olx.com.br/images/93/934686282192023.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779914218
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-portal-1505841253",
+    "defeito": false,
+    "detectado": "17:36",
     "fotoUrl": "https://img.olx.com.br/images/30/307653765182340.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/307653765182340.jpg",
       "https://img.olx.com.br/images/31/314650527341896.jpg"
     ],
-    "defeito": false,
+    "id": "1505841253",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-portal-1505841253",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "PlayStation Portal ",
     "ts": 1779914211
   },
   {
@@ -10349,25 +10370,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "Jogos de Playstation 4 valor na foto ler descrição",
     "ts": 1779843997
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:01",
-    "fotoUrl": "https://img.olx.com.br/images/92/927629768929984.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/927629768929984.jpg",
-      "https://img.olx.com.br/images/93/939633525981311.jpg"
-    ],
-    "id": "1505280277",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jump-force-1505280277",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2021",
-    "titulo": "Jump force",
-    "ts": 1779843710
   }
 ]
