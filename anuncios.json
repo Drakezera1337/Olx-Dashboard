@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505896222",
-    "titulo": "Xbox ONE X edição limitada ",
-    "preco": 1399,
-    "precoRaw": "R$ 1.399",
-    "categoria": "xbox",
+    "id": "1505897307",
+    "titulo": "PES 21",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "20:48",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "detectado": "20:53",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-21-1505897307",
+    "fotoUrl": "https://img.olx.com.br/images/23/230696406151862.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/230696406151862.jpg",
+      "https://img.olx.com.br/images/25/257686648653487.jpg",
+      "https://img.olx.com.br/images/26/265602761087842.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779926017
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-x-edicao-limitada-1505896222",
+    "defeito": false,
+    "detectado": "20:48",
     "fotoUrl": "https://img.olx.com.br/images/48/481699169682496.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/481699169682496.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/56/562611768132042.jpg",
       "https://img.olx.com.br/images/57/572632640444540.jpg"
     ],
-    "defeito": false,
+    "id": "1505896222",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-x-edicao-limitada-1505896222",
+    "preco": 1399,
+    "precoRaw": "R$ 1.399",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "Xbox ONE X edição limitada ",
     "ts": 1779925717
   },
   {
@@ -10377,24 +10398,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Xbox Series S - 512gb - 01 controle ",
     "ts": 1779893374
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/71/719626763724959.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/719626763724959.jpg"
-    ],
-    "id": "1505751337",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/lote-de-jogos-ps4-spider-man-cyber-punk-mortal-11-medevil-horizon-zero-batman-nioh-vr-1505751337",
-    "preco": 599,
-    "precoRaw": "R$ 599",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2017",
-    "titulo": "Lote de Jogos PS4 Spider man + Cyber Punk+ Mortal 11+ Medevil+ Horizon zero+Batman+Nioh+VR",
-    "ts": 1779893285
   }
 ]
