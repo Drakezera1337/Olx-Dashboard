@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505753643",
-    "titulo": "Carcaça ps4 Fat modelo fosco ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1505753539",
+    "titulo": "Vídeo game PS4",
+    "preco": 500,
+    "precoRaw": "R$ 500",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:57",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "tempoOlx": "Na OLX desde setembro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/carcaca-ps4-fat-modelo-fosco-1505753643",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-ps4-1505753539",
+    "fotoUrl": "https://img.olx.com.br/images/27/271638888199927.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/271638888199927.jpg",
+      "https://img.olx.com.br/images/28/283673289615742.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779893849
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:57",
     "fotoUrl": "https://img.olx.com.br/images/33/330677289702288.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/330677289702288.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/42/427639646663513.jpg",
       "https://img.olx.com.br/images/44/442692048750316.jpg"
     ],
-    "defeito": false,
+    "id": "1505753643",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/carcaca-ps4-fat-modelo-fosco-1505753643",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Carcaça ps4 Fat modelo fosco ",
     "ts": 1779893841
   },
   {
@@ -10400,26 +10420,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2022",
     "titulo": "Ps5",
     "ts": 1779835569
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "19:46",
-    "fotoUrl": "https://img.olx.com.br/images/63/634670167539840.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/634670167539840.jpg",
-      "https://img.olx.com.br/images/65/652613408555680.jpg",
-      "https://img.olx.com.br/images/67/675687164133345.jpg"
-    ],
-    "id": "1505199140",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-a-venda-1505199140",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Celular à venda",
-    "ts": 1779835564
   }
 ]
