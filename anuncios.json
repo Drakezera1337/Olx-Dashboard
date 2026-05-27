@@ -1,21 +1,41 @@
 [
   {
-    "id": "1505719780",
-    "titulo": "iPhone 15 pro max 256 ",
-    "preco": 6200,
-    "precoRaw": "R$ 6.200",
-    "categoria": "iphone",
+    "id": "1505718066",
+    "titulo": "Ps4 jogos",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:17",
-    "tempoOlx": "Na OLX desde novembro de 2016",
+    "detectado": "10:18",
+    "tempoOlx": "Na OLX desde outubro de 2014",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-jogos-1505718066",
+    "fotoUrl": "https://img.olx.com.br/images/20/205679165513046.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/205679165513046.jpg",
+      "https://img.olx.com.br/images/23/236682644000993.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779887888
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-1505719780",
+    "defeito": false,
+    "detectado": "10:17",
     "fotoUrl": "https://img.olx.com.br/images/98/987643043240714.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/987643043240714.jpg"
     ],
-    "defeito": false,
+    "id": "1505719780",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256-1505719780",
+    "preco": 6200,
+    "precoRaw": "R$ 6.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2016",
+    "titulo": "iPhone 15 pro max 256 ",
     "ts": 1779887861
   },
   {
@@ -10363,24 +10383,5 @@
     "tempoOlx": "Na OLX desde outubro de 2016",
     "titulo": "iPhone 17 Pro Max 256GB",
     "ts": 1779810307
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:43",
-    "fotoUrl": "https://img.olx.com.br/images/52/521635528936588.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/521635528936588.jpg"
-    ],
-    "id": "1505135567",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-usado-1505135567",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2024",
-    "titulo": "Ps4 usado",
-    "ts": 1779810224
   }
 ]
