@@ -1,16 +1,34 @@
 [
   {
-    "id": "1488652967",
-    "titulo": "Jogo de PS4 Horizon zero dawn",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1505876930",
+    "titulo": "PS4 com 2 controles e 3 jogos ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:51",
-    "tempoOlx": "Na OLX desde outubro de 2016",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogo-de-ps4-horizon-zero-dawn-1488652967",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-com-2-controles-e-3-jogos-1505876930",
+    "fotoUrl": "https://img.olx.com.br/images/43/439684285654422.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/439684285654422.jpg",
+      "https://img.olx.com.br/images/45/459653761560331.jpg",
+      "https://img.olx.com.br/images/46/463630645792882.jpg",
+      "https://img.olx.com.br/images/48/480625642060140.jpg",
+      "https://img.olx.com.br/images/49/490669281983625.jpg",
+      "https://img.olx.com.br/images/51/518650168726889.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779922293
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:51",
     "fotoUrl": "https://img.olx.com.br/images/55/559607140573521.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/559607140573521.jpg",
@@ -18,7 +36,13 @@
       "https://img.olx.com.br/images/58/582668265757676.jpg",
       "https://img.olx.com.br/images/60/608673380297111.jpg"
     ],
-    "defeito": false,
+    "id": "1488652967",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/jogo-de-ps4-horizon-zero-dawn-1488652967",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2016",
+    "titulo": "Jogo de PS4 Horizon zero dawn",
     "ts": 1779922283
   },
   {
@@ -10320,24 +10344,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Killzone Shadow Fall PS4 ",
     "ts": 1779890375
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:58",
-    "fotoUrl": "https://img.olx.com.br/images/19/195612522312830.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/195612522312830.jpg"
-    ],
-    "id": "1505735052",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/controle-pra-xbox-series-s-e-pra-pc-1505735052",
-    "preco": 165,
-    "precoRaw": "R$ 165",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Controle pra Xbox séries s e pra pc",
-    "ts": 1779890314
   }
 ]
