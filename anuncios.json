@@ -1,22 +1,42 @@
 [
   {
-    "id": "1505288089",
-    "titulo": "Detroit ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1505287889",
+    "titulo": "Cyberpunk",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "jogos",
     "publicado": "",
     "detectado": "22:29",
     "tempoOlx": "Na OLX desde outubro de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/detroit-1505288089",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/cyberpunk-1505287889",
+    "fotoUrl": "https://img.olx.com.br/images/69/695677520538481.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/695677520538481.jpg",
+      "https://img.olx.com.br/images/70/708668762903970.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779845388
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:29",
     "fotoUrl": "https://img.olx.com.br/images/42/428679289650893.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/428679289650893.jpg",
       "https://img.olx.com.br/images/43/436626282289539.jpg"
     ],
-    "defeito": false,
+    "id": "1505288089",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/detroit-1505288089",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "Detroit ",
     "ts": 1779845377
   },
   {
@@ -10261,27 +10281,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "South park a fenda que abunda força ps4",
     "ts": 1779803164
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:45",
-    "fotoUrl": "https://img.olx.com.br/images/87/872642488014901.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/872642488014901.jpg",
-      "https://img.olx.com.br/images/89/897687720804967.jpg",
-      "https://img.olx.com.br/images/91/915698008479804.jpg",
-      "https://img.olx.com.br/images/93/939648847302612.jpg"
-    ],
-    "id": "1467368268",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2020-ps4-1467368268",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Pes 2020 ps4",
-    "ts": 1779803155
   }
 ]
