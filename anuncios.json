@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505885811",
-    "titulo": "iPhone 15 Pro Max 256gb",
-    "preco": 4500,
-    "precoRaw": "R$ 4.500",
-    "categoria": "iphone",
+    "id": "1505885906",
+    "titulo": "Ps4 slim",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:07",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-slim-1505885906",
+    "fotoUrl": "https://img.olx.com.br/images/77/770618280965175.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/770618280965175.jpg",
+      "https://img.olx.com.br/images/78/785629405351095.jpg",
+      "https://img.olx.com.br/images/80/805602649614654.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779923257
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1505885811",
+    "defeito": false,
+    "detectado": "20:07",
     "fotoUrl": "https://img.olx.com.br/images/42/423695528257730.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/423695528257730.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/47/473667163796815.jpg",
       "https://img.olx.com.br/images/49/499636641162922.jpg"
     ],
-    "defeito": false,
+    "id": "1505885811",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1505885811",
+    "preco": 4500,
+    "precoRaw": "R$ 4.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "iPhone 15 Pro Max 256gb",
     "ts": 1779923227
   },
   {
@@ -10336,24 +10357,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "JogoHorizon zero dawn de ps4 ",
     "ts": 1779891244
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:13",
-    "fotoUrl": "https://img.olx.com.br/images/67/673638166441014.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/673638166441014.jpg"
-    ],
-    "id": "1505739142",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/god-of-war-ragnarok-jogo-ps4-1505739142",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2020",
-    "titulo": "God of war ragnarok - Jogo ps4",
-    "ts": 1779891235
   }
 ]
