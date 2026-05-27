@@ -1,16 +1,34 @@
 [
   {
-    "id": "1505846481",
-    "titulo": "Vende-se PS4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "id": "1505840452",
+    "titulo": "PS4 Fat 500gb",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:38",
-    "tempoOlx": "Na OLX desde agosto de 2015",
+    "tempoOlx": "Na OLX desde fevereiro de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vende-se-ps4-1505846481",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-fat-500gb-1505840452",
+    "fotoUrl": "https://img.olx.com.br/images/49/497693160574382.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/497693160574382.jpg",
+      "https://img.olx.com.br/images/50/504692169304893.jpg",
+      "https://img.olx.com.br/images/51/515619647309685.jpg",
+      "https://img.olx.com.br/images/52/525660761555111.jpg",
+      "https://img.olx.com.br/images/55/559638280923781.jpg",
+      "https://img.olx.com.br/images/56/563631287399725.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779914327
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:38",
     "fotoUrl": "https://img.olx.com.br/images/17/173654880036680.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/173654880036680.jpg",
@@ -18,7 +36,13 @@
       "https://img.olx.com.br/images/19/197658404568564.jpg",
       "https://img.olx.com.br/images/20/204610048331627.jpg"
     ],
-    "defeito": false,
+    "id": "1505846481",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vende-se-ps4-1505846481",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "titulo": "Vende-se PS4",
     "ts": 1779914318
   },
   {
@@ -10347,25 +10371,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "Gran Turismo 7 (Legendas em Português) - Ps4",
     "ts": 1779844648
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:17",
-    "fotoUrl": "https://img.olx.com.br/images/36/369609127095285.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/369609127095285.jpg",
-      "https://img.olx.com.br/images/37/375635368111837.jpg"
-    ],
-    "id": "1469656853",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/batlefield-5-audio-em-portugues-ps4-1469656853",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2024",
-    "titulo": "Batlefield 5 (Áudio em Português) - Ps4",
-    "ts": 1779844638
   }
 ]
