@@ -1,22 +1,43 @@
 [
   {
-    "id": "1505305609",
-    "titulo": "Vendo ps4",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "ps4",
+    "id": "1505306096",
+    "titulo": "Controle de PS5",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "00:04",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "00:05",
+    "tempoOlx": "Na OLX desde abril de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/vendo-ps4-1505305609",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/controle-de-ps5-1505306096",
+    "fotoUrl": "https://img.olx.com.br/images/28/285619285542564.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/285619285542564.jpg",
+      "https://img.olx.com.br/images/30/304605407964837.jpg",
+      "https://img.olx.com.br/images/33/332687641132397.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779851107
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:04",
     "fotoUrl": "https://img.olx.com.br/images/38/383635408413045.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/383635408413045.jpg",
       "https://img.olx.com.br/images/39/396607409279273.jpg"
     ],
-    "defeito": false,
+    "id": "1505305609",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/vendo-ps4-1505305609",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Vendo ps4",
     "ts": 1779851047
   },
   {
@@ -10278,24 +10299,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Need for Speed Rivals PS4",
     "ts": 1779805736
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "11:28",
-    "fotoUrl": "https://img.olx.com.br/images/97/972619505810586.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/972619505810586.jpg"
-    ],
-    "id": "1483435605",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/sherlock-holmes-the-devil-s-daughter-para-ps4-1483435605",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": " Sherlock Holmes: The Devil's Daughter para PS4",
-    "ts": 1779805726
   }
 ]
