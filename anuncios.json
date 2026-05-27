@@ -1,23 +1,45 @@
 [
   {
-    "id": "1505346027",
-    "titulo": "Vídeo game PlayStation ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "outros",
+    "id": "1505721717",
+    "titulo": "iPhone 8 comun 64gb",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "10:23",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-comun-64gb-1505721717",
+    "fotoUrl": "https://img.olx.com.br/images/35/354661406622303.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/354661406622303.jpg",
+      "https://img.olx.com.br/images/36/366688044905748.jpg",
+      "https://img.olx.com.br/images/39/396672288520149.jpg",
+      "https://img.olx.com.br/images/40/400643528143499.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779888217
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-playstation-1505346027",
+    "defeito": false,
+    "detectado": "10:23",
     "fotoUrl": "https://img.olx.com.br/images/28/286605402625317.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/286605402625317.jpg",
       "https://img.olx.com.br/images/29/297603167151056.jpg",
       "https://img.olx.com.br/images/30/306672281165298.jpg"
     ],
-    "defeito": false,
+    "id": "1505346027",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-playstation-1505346027",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Vídeo game PlayStation ",
     "ts": 1779888194
   },
   {
@@ -10373,25 +10395,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "Uncharted 1,2,3 e 4 PS4",
     "ts": 1779810761
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "12:51",
-    "fotoUrl": "https://img.olx.com.br/images/28/284653406090606.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/284653406090606.jpg",
-      "https://img.olx.com.br/images/31/313681406373195.jpg"
-    ],
-    "id": "1505138292",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-360-1505138292",
-    "preco": 580,
-    "precoRaw": "R$ 580",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2018",
-    "titulo": "Xbox 360",
-    "ts": 1779810699
   }
 ]
