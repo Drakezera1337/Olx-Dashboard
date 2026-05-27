@@ -1,16 +1,33 @@
 [
   {
-    "id": "1464568293",
-    "titulo": "Playstation 5 PS Portal PS5",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "categoria": "ps5",
+    "id": "1505284390",
+    "titulo": "PS4 1tb",
+    "preco": 1050,
+    "precoRaw": "R$ 1.050",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "22:13",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-5-ps-portal-ps5-1464568293",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1tb-1505284390",
+    "fotoUrl": "https://img.olx.com.br/images/46/465611520720264.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/46/465611520720264.jpg",
+      "https://img.olx.com.br/images/47/478691526662509.jpg",
+      "https://img.olx.com.br/images/49/495612883279942.jpg",
+      "https://img.olx.com.br/images/50/500686529670269.jpg",
+      "https://img.olx.com.br/images/51/512693404485404.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779844396
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:13",
     "fotoUrl": "https://img.olx.com.br/images/40/404596117087110.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/404596117087110.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/58/584530357719975.jpg",
       "https://img.olx.com.br/images/67/672598473006939.jpg"
     ],
-    "defeito": false,
+    "id": "1464568293",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-5-ps-portal-ps5-1464568293",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Playstation 5 PS Portal PS5",
     "ts": 1779844385
   },
   {
@@ -10255,27 +10278,6 @@
     "publicado": "",
     "tempoOlx": "",
     "titulo": "Jogos PS4 - Apartir de 50 R$",
-    "ts": 1779802481
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:34",
-    "fotoUrl": "https://img.olx.com.br/images/53/537654407226217.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/537654407226217.jpg",
-      "https://img.olx.com.br/images/54/542670161741042.jpg",
-      "https://img.olx.com.br/images/55/553699164278778.jpg"
-    ],
-    "id": "1505097352",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/fallout-76-ps4-ps5-1505097352",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Fallout 76 ps4 ps5",
     "ts": 1779802481
   }
 ]
