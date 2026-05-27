@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505308503",
-    "titulo": "Iphone 15 PRO",
-    "preco": 3800,
-    "precoRaw": "R$ 3.800",
-    "categoria": "iphone",
+    "id": "1505309719",
+    "titulo": "PS4 Slim 1T",
+    "preco": 1149,
+    "precoRaw": "R$ 1.149",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:21",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "detectado": "00:38",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/ps4-slim-1t-1505309719",
+    "fotoUrl": "https://img.olx.com.br/images/72/728659766250707.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/728659766250707.jpg",
+      "https://img.olx.com.br/images/73/738693765516709.jpg",
+      "https://img.olx.com.br/images/73/737615762066847.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779853087
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-1505308503",
+    "defeito": false,
+    "detectado": "00:21",
     "fotoUrl": "https://img.olx.com.br/images/67/675604641693588.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/67/675604641693588.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/90/903627523648428.jpg",
       "https://img.olx.com.br/images/11/118683645021618.jpg"
     ],
-    "defeito": false,
+    "id": "1505308503",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-1505308503",
+    "preco": 3800,
+    "precoRaw": "R$ 3.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "titulo": "Iphone 15 PRO",
     "ts": 1779852066
   },
   {
@@ -10294,25 +10315,5 @@
     "tempoOlx": "Na OLX desde outubro de 2025",
     "titulo": "Troco ps4 slim por outro ps4 ",
     "ts": 1779806224
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:36",
-    "fotoUrl": "https://img.olx.com.br/images/25/257607880157018.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/257607880157018.jpg",
-      "https://img.olx.com.br/images/27/278606168715768.jpg"
-    ],
-    "id": "1505116629",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-com-1-controle-e-3-jogos-1505116629",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "PS4 com 1 controle e 3 jogos",
-    "ts": 1779806198
   }
 ]
