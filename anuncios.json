@@ -1,23 +1,42 @@
 [
   {
-    "id": "1505766498",
-    "titulo": "Xbox Séries S",
-    "preco": 1499,
-    "precoRaw": "R$ 1.499",
+    "id": "1505765458",
+    "titulo": "Controle XBOX",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "xbox",
     "publicado": "",
     "detectado": "12:36",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "tempoOlx": "Na OLX desde fevereiro de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/xbox-series-s-1505766498",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/controle-xbox-1505765458",
+    "fotoUrl": "https://img.olx.com.br/images/57/575655408581940.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/575655408581940.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779896207
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:36",
     "fotoUrl": "https://img.olx.com.br/images/73/733658169807454.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/73/733658169807454.jpg",
       "https://img.olx.com.br/images/75/751695049310680.jpg",
       "https://img.olx.com.br/images/76/760663526571581.jpg"
     ],
-    "defeito": false,
+    "id": "1505766498",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/xbox-series-s-1505766498",
+    "preco": 1499,
+    "precoRaw": "R$ 1.499",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Xbox Séries S",
     "ts": 1779896199
   },
   {
@@ -10357,29 +10376,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2020",
     "titulo": " EFOOTBAL MOBILE",
     "ts": 1779836029
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "19:53",
-    "fotoUrl": "https://img.olx.com.br/images/89/894636282007073.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/894636282007073.jpg",
-      "https://img.olx.com.br/images/91/916662762822941.jpg",
-      "https://img.olx.com.br/images/93/934648281670330.jpg",
-      "https://img.olx.com.br/images/95/958611644742078.jpg",
-      "https://img.olx.com.br/images/97/972668641635282.jpg",
-      "https://img.olx.com.br/images/98/986691403482020.jpg"
-    ],
-    "id": "1505175889",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-v1-desbloqueado-256gb-varios-controles-e-acessorios-1505175889",
-    "preco": 2599,
-    "precoRaw": "R$ 2.599",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2018",
-    "titulo": "Nintendo Switch V1 Desbloqueado (256GB) + Vários Controles e Acessórios!",
-    "ts": 1779836021
   }
 ]
