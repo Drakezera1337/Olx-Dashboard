@@ -1,22 +1,42 @@
 [
   {
-    "id": "1505753539",
-    "titulo": "Vídeo game PS4",
-    "preco": 500,
-    "precoRaw": "R$ 500",
+    "id": "1505753372",
+    "titulo": "PS4",
+    "preco": 750,
+    "precoRaw": "R$ 750",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:57",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "tempoOlx": "Na OLX desde junho de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-ps4-1505753539",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1505753372",
+    "fotoUrl": "https://img.olx.com.br/images/47/475696402065726.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/475696402065726.jpg",
+      "https://img.olx.com.br/images/48/482633524881015.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779893857
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:57",
     "fotoUrl": "https://img.olx.com.br/images/27/271638888199927.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/271638888199927.jpg",
       "https://img.olx.com.br/images/28/283673289615742.jpg"
     ],
-    "defeito": false,
+    "id": "1505753539",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/video-game-ps4-1505753539",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "Vídeo game PS4",
     "ts": 1779893849
   },
   {
@@ -10401,24 +10421,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "iPhone 13 Pro 128gb",
     "ts": 1779835572
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:46",
-    "fotoUrl": "https://img.olx.com.br/images/35/350691043726876.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/350691043726876.jpg"
-    ],
-    "id": "1505224059",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-1505224059",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "Ps5",
-    "ts": 1779835569
   }
 ]
