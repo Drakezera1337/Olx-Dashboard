@@ -1,21 +1,40 @@
 [
   {
-    "id": "1505898902",
-    "titulo": "iPhone 16 Pro ",
-    "preco": 6000,
-    "precoRaw": "R$ 6.000",
-    "categoria": "iphone",
+    "id": "1505899980",
+    "titulo": "Days Gone ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:58",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "20:59",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/days-gone-ps4-1505899980",
+    "fotoUrl": "https://img.olx.com.br/images/56/563608529265872.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/563608529265872.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779926375
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "sjb",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-1505898902",
+    "defeito": false,
+    "detectado": "20:58",
     "fotoUrl": "https://img.olx.com.br/images/97/978684160376196.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/978684160376196.jpg"
     ],
-    "defeito": false,
+    "id": "1505898902",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-1505898902",
+    "preco": 6000,
+    "precoRaw": "R$ 6.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "iPhone 16 Pro ",
     "ts": 1779926315
   },
   {
@@ -10379,27 +10398,5 @@
     "tempoOlx": "Na OLX desde abril de 2014",
     "titulo": "Minecraft ",
     "ts": 1779893525
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:51",
-    "fotoUrl": "https://img.olx.com.br/images/98/986629283476796.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/986629283476796.jpg",
-      "https://img.olx.com.br/images/99/999649405256051.jpg",
-      "https://img.olx.com.br/images/10/102612649609328.jpg",
-      "https://img.olx.com.br/images/11/113617880888010.jpg"
-    ],
-    "id": "1505752198",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps4-slim-1tb-sem-controle-usado-1505752198",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2020",
-    "titulo": "Ps4 slim 1TB (SEM CONTROLE) USADO",
-    "ts": 1779893495
   }
 ]
