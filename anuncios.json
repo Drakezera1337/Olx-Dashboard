@@ -1,23 +1,45 @@
 [
   {
-    "id": "1505272804",
-    "titulo": "PS4",
-    "preco": 999,
-    "precoRaw": "R$ 999",
+    "id": "1505272711",
+    "titulo": "PS4 SLIM 1 TB",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "21:25",
-    "tempoOlx": "Na OLX desde agosto de 2018",
+    "tempoOlx": "Na OLX desde novembro de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-1505272804",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/ps4-slim-1-tb-1505272711",
+    "fotoUrl": "https://img.olx.com.br/images/48/486620040401714.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/486620040401714.jpg",
+      "https://img.olx.com.br/images/50/505623524290938.jpg",
+      "https://img.olx.com.br/images/52/524639766020140.jpg",
+      "https://img.olx.com.br/images/53/538639761895836.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779841513
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:25",
     "fotoUrl": "https://img.olx.com.br/images/94/946628885208909.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/946628885208909.jpg",
       "https://img.olx.com.br/images/95/956695047089796.jpg",
       "https://img.olx.com.br/images/96/967639282294930.jpg"
     ],
-    "defeito": false,
+    "id": "1505272804",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-1505272804",
+    "preco": 999,
+    "precoRaw": "R$ 999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2018",
+    "titulo": "PS4",
     "ts": 1779841505
   },
   {
@@ -10293,26 +10315,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "Lote 30 jogos ps4",
     "ts": 1779800979
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:09",
-    "fotoUrl": "https://img.olx.com.br/images/35/357681768187941.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/357681768187941.jpg",
-      "https://img.olx.com.br/images/36/364690289334070.jpg",
-      "https://img.olx.com.br/images/37/370652523416414.jpg"
-    ],
-    "id": "1504812965",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/read-dead-redemption-2-com-mapa-1504812965",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "Read dead redemption 2 - com mapa",
-    "ts": 1779800971
   }
 ]
