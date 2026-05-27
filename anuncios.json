@@ -1,21 +1,41 @@
 [
   {
-    "id": "1505830064",
-    "titulo": "PS4 + 10 jogos",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1505829863",
+    "titulo": "Devil May Cry 5 PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:48",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde outubro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-10-jogos-1505830064",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/devil-may-cry-5-ps4-1505829863",
+    "fotoUrl": "https://img.olx.com.br/images/17/172612287548450.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/172612287548450.jpg",
+      "https://img.olx.com.br/images/19/197677764402395.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779914909
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:48",
     "fotoUrl": "https://img.olx.com.br/images/80/807620527778058.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/807620527778058.jpg"
     ],
-    "defeito": false,
+    "id": "1505830064",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-10-jogos-1505830064",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4 + 10 jogos",
     "ts": 1779914901
   },
   {
@@ -10328,24 +10348,5 @@
     "tempoOlx": "Na OLX desde julho de 2018",
     "titulo": "GTA 5",
     "ts": 1779851906
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:18",
-    "fotoUrl": "https://img.olx.com.br/images/68/685689761854947.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/68/685689761854947.jpg"
-    ],
-    "id": "1505307989",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/efootball-1505307989",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2018",
-    "titulo": "Efootball ",
-    "ts": 1779851898
   }
 ]
