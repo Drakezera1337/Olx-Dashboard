@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505778674",
-    "titulo": "Xbox Series S",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1505779517",
+    "titulo": "The last of us Part 1 e 2 PS4",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:22",
-    "tempoOlx": "Na OLX desde agosto de 2016",
+    "detectado": "13:26",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/xbox-series-s-1505778674",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-part-1-e-2-ps4-1505779517",
+    "fotoUrl": "https://img.olx.com.br/images/41/414610760281300.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/414610760281300.jpg",
+      "https://img.olx.com.br/images/43/439608520928822.jpg",
+      "https://img.olx.com.br/images/44/443607169731796.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779899165
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:22",
     "fotoUrl": "https://img.olx.com.br/images/24/240659643305178.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/240659643305178.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/27/271616644390014.jpg",
       "https://img.olx.com.br/images/28/283677764787613.jpg"
     ],
-    "defeito": false,
+    "id": "1505778674",
+    "link": "https://rr.olx.com.br/roraima/games/consoles-de-video-game/xbox-series-s-1505778674",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2016",
+    "titulo": "Xbox Series S",
     "ts": 1779898957
   },
   {
@@ -10365,24 +10386,5 @@
     "tempoOlx": "Na OLX desde outubro de 2021",
     "titulo": "Lote jogos ps4 monte seu combo",
     "ts": 1779836369
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:59",
-    "fotoUrl": "https://img.olx.com.br/images/63/634663165544002.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/634663165544002.jpg"
-    ],
-    "id": "1505227985",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-4-jogos-1505227985",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
-    "titulo": "PS4+4 JOGOS",
-    "ts": 1779836360
   }
 ]
