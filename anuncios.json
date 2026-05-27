@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505717919",
-    "titulo": "Playstation 4",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1505717753",
+    "titulo": "The Last of Us 2 - PS4",
+    "preco": 130,
+    "precoRaw": "R$ 130",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:12",
-    "tempoOlx": "Na OLX desde março de 2016",
+    "tempoOlx": "Na OLX desde julho de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-1505717919",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/the-last-of-us-2-ps4-1505717753",
+    "fotoUrl": "https://img.olx.com.br/images/91/919697641868619.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/919697641868619.jpg",
+      "https://img.olx.com.br/images/92/926663283850539.jpg",
+      "https://img.olx.com.br/images/93/932698169185525.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779887535
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:12",
     "fotoUrl": "https://img.olx.com.br/images/29/292628403031105.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/292628403031105.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/54/548699043348525.jpg",
       "https://img.olx.com.br/images/56/563602526743996.jpg"
     ],
-    "defeito": false,
+    "id": "1505717919",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-1505717919",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2016",
+    "titulo": "Playstation 4",
     "ts": 1779887526
   },
   {
@@ -10363,25 +10384,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "titulo": "Ps4 slim ",
     "ts": 1779809827
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:36",
-    "fotoUrl": "https://img.olx.com.br/images/19/199692407542179.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/199692407542179.jpg",
-      "https://img.olx.com.br/images/19/190635769808665.jpg"
-    ],
-    "id": "1505133193",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/for-honor-ps4-1505133193",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2015",
-    "titulo": "For Honor PS4",
-    "ts": 1779809785
   }
 ]
