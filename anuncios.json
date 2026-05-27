@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505739297",
-    "titulo": "Vendo ps4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1505752932",
+    "titulo": "Nintendo switch lite ",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "11:54",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "detectado": "11:56",
+    "tempoOlx": "Na OLX desde abril de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/vendo-ps4-1505739297",
+    "link": "https://ba.olx.com.br/sul-da-bahia/games/consoles-de-video-game/nintendo-switch-lite-1505752932",
+    "fotoUrl": "https://img.olx.com.br/images/42/420639524288882.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/420639524288882.jpg",
+      "https://img.olx.com.br/images/44/446618163153646.jpg",
+      "https://img.olx.com.br/images/45/456607760888265.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779893794
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:54",
     "fotoUrl": "https://img.olx.com.br/images/93/932666284039837.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/932666284039837.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/12/127634046687954.jpg",
       "https://img.olx.com.br/images/16/160652409586929.jpg"
     ],
-    "defeito": false,
+    "id": "1505739297",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/vendo-ps4-1505739297",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Vendo ps4",
     "ts": 1779893656
   },
   {
@@ -10393,24 +10414,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "PS5 semi novo à venda!",
     "ts": 1779835549
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "sjb",
-    "defeito": false,
-    "detectado": "19:45",
-    "fotoUrl": "https://img.olx.com.br/images/11/112668767283739.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/112668767283739.jpg"
-    ],
-    "id": "1505179610",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/sansung-j8-1505179610",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2020",
-    "titulo": "Sansung J8 ",
-    "ts": 1779835547
   }
 ]
