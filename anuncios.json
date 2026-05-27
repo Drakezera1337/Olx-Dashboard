@@ -1,22 +1,44 @@
 [
   {
-    "id": "1459159415",
-    "titulo": "Pokémon White",
-    "preco": 450,
-    "precoRaw": "R$ 450",
+    "id": "1505725015",
+    "titulo": "Vídeo game ",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "10:32",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "detectado": "10:34",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/video-game-1505725015",
+    "fotoUrl": "https://img.olx.com.br/images/48/489618045090076.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/489618045090076.jpg",
+      "https://img.olx.com.br/images/51/516628283787366.jpg",
+      "https://img.olx.com.br/images/53/531601048106242.jpg",
+      "https://img.olx.com.br/images/55/558690048290155.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779888845
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/pokemon-white-1459159415",
+    "defeito": false,
+    "detectado": "10:32",
     "fotoUrl": "https://img.olx.com.br/images/46/465583712675410.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/465583712675410.jpg",
       "https://img.olx.com.br/images/48/485523952446071.jpg"
     ],
-    "defeito": false,
+    "id": "1459159415",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/pokemon-white-1459159415",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "Pokémon White",
     "ts": 1779888725
   },
   {
@@ -10361,25 +10383,5 @@
     "tempoOlx": "Na OLX desde julho de 2016",
     "titulo": "Xbox séries s 1tb leia o anúncio ENVIO OLX",
     "ts": 1779811539
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:05",
-    "fotoUrl": "https://img.olx.com.br/images/52/528663649720898.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/528663649720898.jpg",
-      "https://img.olx.com.br/images/54/545695520112205.jpg"
-    ],
-    "id": "1505135561",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/battlefield-v-1505135561",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Battlefield V",
-    "ts": 1779811502
   }
 ]
