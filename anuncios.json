@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505253255",
-    "titulo": "Playstation 4 slim 1tb",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1505295945",
+    "titulo": "Red dead redemption ",
+    "preco": 69,
+    "precoRaw": "R$ 69",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "23:05",
-    "tempoOlx": "Na OLX desde outubro de 2022",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-slim-1tb-1505253255",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/red-dead-redemption-1505295945",
+    "fotoUrl": "https://img.olx.com.br/images/34/346698528648681.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/34/346698528648681.jpg",
+      "https://img.olx.com.br/images/37/371608646547216.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779847537
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "23:05",
     "fotoUrl": "https://img.olx.com.br/images/88/886633528098251.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/886633528098251.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/91/916691521106283.jpg",
       "https://img.olx.com.br/images/93/931638167039871.jpg"
     ],
-    "defeito": false,
+    "id": "1505253255",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-slim-1tb-1505253255",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "Playstation 4 slim 1tb",
     "ts": 1779847505
   },
   {
@@ -10276,26 +10296,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Mortal Kombat X",
     "ts": 1779804785
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "11:11",
-    "fotoUrl": "https://img.olx.com.br/images/92/924648404482980.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/924648404482980.jpg",
-      "https://img.olx.com.br/images/93/936686166120702.jpg",
-      "https://img.olx.com.br/images/94/948614641575420.jpg"
-    ],
-    "id": "1505109848",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/xbox-one-manete-original-900r-1505109848",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Xbox one + manete original  900R$",
-    "ts": 1779804696
   }
 ]
