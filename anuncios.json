@@ -1,16 +1,32 @@
 [
   {
-    "id": "1505775436",
-    "titulo": "PlayStation 4",
-    "preco": 1299,
-    "precoRaw": "R$ 1.299",
-    "categoria": "ps4",
+    "id": "1460745259",
+    "titulo": "Cyberpunk 2077",
+    "preco": 99,
+    "precoRaw": "R$ 99",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "13:14",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/playstation-4-1505775436",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/cyberpunk-2077-1460745259",
+    "fotoUrl": "https://img.olx.com.br/images/85/850584115538677.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/850584115538677.jpg",
+      "https://img.olx.com.br/images/86/867502230566169.jpg",
+      "https://img.olx.com.br/images/88/881514832797937.jpg",
+      "https://img.olx.com.br/images/90/903586712328736.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779898484
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:14",
     "fotoUrl": "https://img.olx.com.br/images/21/217624529658107.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/217624529658107.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/24/247656763801001.jpg",
       "https://img.olx.com.br/images/25/259677401681508.jpg"
     ],
-    "defeito": false,
+    "id": "1505775436",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/playstation-4-1505775436",
+    "preco": 1299,
+    "precoRaw": "R$ 1.299",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "PlayStation 4",
     "ts": 1779898475
   },
   {
@@ -10367,25 +10389,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Batman Return to Arkham PS4",
     "ts": 1779836299
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:58",
-    "fotoUrl": "https://img.olx.com.br/images/56/560660409162013.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/560660409162013.jpg",
-      "https://img.olx.com.br/images/59/593629409954178.jpg"
-    ],
-    "id": "1505231433",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/call-of-duty-black-ops-4-1505231433",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2025",
-    "titulo": "Call of Duty: Black Ops 4",
-    "ts": 1779836290
   }
 ]
