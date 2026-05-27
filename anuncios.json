@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505861935",
-    "titulo": "(PS4) Overwatch (Game of the Year Edition)",
-    "preco": 25,
-    "precoRaw": "R$ 25",
+    "id": "1505861580",
+    "titulo": "Red Dead Redemption 2 - PS4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:23",
-    "tempoOlx": "Na OLX desde dezembro de 2013",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-overwatch-game-of-the-year-edition-1505861935",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/red-dead-redemption-2-ps4-1505861580",
+    "fotoUrl": "https://img.olx.com.br/images/65/658615407339558.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/658615407339558.jpg",
+      "https://img.olx.com.br/images/66/663612165823823.jpg",
+      "https://img.olx.com.br/images/68/689661406217920.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779917022
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:23",
     "fotoUrl": "https://img.olx.com.br/images/56/561612405877547.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/561612405877547.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/59/590609402822526.jpg",
       "https://img.olx.com.br/images/60/603628281738532.jpg"
     ],
-    "defeito": false,
+    "id": "1505861935",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-overwatch-game-of-the-year-edition-1505861935",
+    "preco": 25,
+    "precoRaw": "R$ 25",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2013",
+    "titulo": "(PS4) Overwatch (Game of the Year Edition)",
     "ts": 1779917014
   },
   {
@@ -10305,25 +10326,5 @@
     "tempoOlx": "Na OLX desde outubro de 2015",
     "titulo": "PS4 The Last Of Us Part II",
     "ts": 1779887192
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:06",
-    "fotoUrl": "https://img.olx.com.br/images/53/538431807525024.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/538431807525024.jpg",
-      "https://img.olx.com.br/images/53/531493440711485.jpg"
-    ],
-    "id": "1338149828",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-children-of-morta-1338149828",
-    "preco": 265,
-    "precoRaw": "R$ 265",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "PS4 Children Of Morta",
-    "ts": 1779887183
   }
 ]
