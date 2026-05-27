@@ -1,21 +1,41 @@
 [
   {
-    "id": "1505751516",
-    "titulo": "Xbox Series S - 512gb - 01 controle ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1505751971",
+    "titulo": "iPhone 11 128gb ",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "11:49",
+    "detectado": "11:51",
     "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-1505751971",
+    "fotoUrl": "https://img.olx.com.br/images/86/866635160465960.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/866635160465960.jpg",
+      "https://img.olx.com.br/images/88/884607520430825.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779893495
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/xbox-series-s-512gb-01-controle-1505751516",
+    "defeito": false,
+    "detectado": "11:49",
     "fotoUrl": "https://img.olx.com.br/images/98/983639407644939.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/983639407644939.jpg"
     ],
-    "defeito": false,
+    "id": "1505751516",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/xbox-series-s-512gb-01-controle-1505751516",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox Series S - 512gb - 01 controle ",
     "ts": 1779893374
   },
   {
@@ -10383,25 +10403,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "God of war Ragnarok ",
     "ts": 1779817963
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:52",
-    "fotoUrl": "https://img.olx.com.br/images/11/119685282769313.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/119685282769313.jpg",
-      "https://img.olx.com.br/images/18/181600886995270.jpg"
-    ],
-    "id": "1505170517",
-    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/god-of-war-ragnarok-ps4-ps5-1505170517",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2017",
-    "titulo": "God of War Ragnarok PS4/PS5",
-    "ts": 1779817955
   }
 ]
