@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505287199",
-    "titulo": "iPhone 13 Pro ",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "categoria": "iphone",
+    "id": "1505288089",
+    "titulo": "Detroit ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "22:26",
-    "tempoOlx": "",
+    "detectado": "22:29",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/detroit-1505288089",
+    "fotoUrl": "https://img.olx.com.br/images/42/428679289650893.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/428679289650893.jpg",
+      "https://img.olx.com.br/images/43/436626282289539.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779845377
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-1505287199",
+    "defeito": false,
+    "detectado": "22:26",
     "fotoUrl": "https://img.olx.com.br/images/85/850684283231743.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/850684283231743.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/89/895656524836371.jpg",
       "https://img.olx.com.br/images/91/911629281445812.jpg"
     ],
-    "defeito": false,
+    "id": "1505287199",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-1505287199",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "iPhone 13 Pro ",
     "ts": 1779845200
   },
   {
@@ -10263,26 +10283,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Pes 2020 ps4",
     "ts": 1779803155
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:45",
-    "fotoUrl": "https://img.olx.com.br/images/83/835666168450373.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/835666168450373.jpg",
-      "https://img.olx.com.br/images/83/839632281946059.jpg",
-      "https://img.olx.com.br/images/83/833603162653963.jpg"
-    ],
-    "id": "1505101164",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/overwatch-midia-fisica-goty-jogo-ps4-e-ps5-playstation-4-e-5-1505101164",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Overwatch Mídia Física goty Jogo PS4 e PS5 Playstation 4 e 5",
-    "ts": 1779803146
   }
 ]
