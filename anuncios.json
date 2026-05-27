@@ -1,16 +1,32 @@
 [
   {
-    "id": "1505285503",
-    "titulo": "Xbox 360 S.",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "xbox",
+    "id": "1479012187",
+    "titulo": "Ps4 1TB",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:19",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "22:20",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1tb-1479012187",
+    "fotoUrl": "https://img.olx.com.br/images/64/642694379483177.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/642694379483177.jpg",
+      "https://img.olx.com.br/images/66/666662376592438.jpg",
+      "https://img.olx.com.br/images/68/684661375531336.jpg",
+      "https://img.olx.com.br/images/70/701619738162184.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779844807
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-360-s-1505285503",
+    "defeito": false,
+    "detectado": "22:19",
     "fotoUrl": "https://img.olx.com.br/images/89/895655280751684.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/895655280751684.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/93/937690762759180.jpg",
       "https://img.olx.com.br/images/94/945614883130518.jpg"
     ],
-    "defeito": false,
+    "id": "1505285503",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-360-s-1505285503",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox 360 S.",
     "ts": 1779844748
   },
   {
@@ -10265,24 +10287,5 @@
     "tempoOlx": "Na OLX desde setembro de 2015",
     "titulo": "PS4",
     "ts": 1779802655
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:34",
-    "fotoUrl": "https://img.olx.com.br/images/49/499632757087753.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/499632757087753.jpg"
-    ],
-    "id": "1491487489",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-saints-row-1491487489",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Jogo Saints Row ",
-    "ts": 1779802481
   }
 ]
