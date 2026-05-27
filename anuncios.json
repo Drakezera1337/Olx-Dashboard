@@ -1,22 +1,45 @@
 [
   {
-    "id": "1505809979",
-    "titulo": "PS4 Fat Completo",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
+    "id": "1505809284",
+    "titulo": "PlayStation 4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:40",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps4-fat-completo-1505809979",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-4-1505809284",
+    "fotoUrl": "https://img.olx.com.br/images/95/959603162167178.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/959603162167178.jpg",
+      "https://img.olx.com.br/images/97/979626524643135.jpg",
+      "https://img.olx.com.br/images/98/983624644767715.jpg",
+      "https://img.olx.com.br/images/11/118640761849861.jpg",
+      "https://img.olx.com.br/images/14/147660285703103.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779914429
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:40",
     "fotoUrl": "https://img.olx.com.br/images/51/514618160787285.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/51/514618160787285.jpg",
       "https://img.olx.com.br/images/53/531665887612283.jpg"
     ],
-    "defeito": false,
+    "id": "1505809979",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps4-fat-completo-1505809979",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "PS4 Fat Completo",
     "ts": 1779914420
   },
   {
@@ -10348,27 +10371,5 @@
     "tempoOlx": "Na OLX desde outubro de 2021",
     "titulo": "Detroit ",
     "ts": 1779845377
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "22:26",
-    "fotoUrl": "https://img.olx.com.br/images/85/850684283231743.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/850684283231743.jpg",
-      "https://img.olx.com.br/images/87/876695761881907.jpg",
-      "https://img.olx.com.br/images/89/895656524836371.jpg",
-      "https://img.olx.com.br/images/91/911629281445812.jpg"
-    ],
-    "id": "1505287199",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-1505287199",
-    "preco": 3200,
-    "precoRaw": "R$ 3.200",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "iPhone 13 Pro ",
-    "ts": 1779845200
   }
 ]
