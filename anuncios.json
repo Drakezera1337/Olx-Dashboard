@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505746497",
-    "titulo": "Playstation 4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1505747087",
+    "titulo": "Controle de Xbox séries S",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "11:36",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "detectado": "11:38",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-1505746497",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/controle-de-xbox-series-s-1505747087",
+    "fotoUrl": "https://img.olx.com.br/images/56/564630528193981.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/564630528193981.jpg",
+      "https://img.olx.com.br/images/66/666690161756436.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779892715
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:36",
     "fotoUrl": "https://img.olx.com.br/images/82/821621647815830.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/82/821621647815830.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/84/840640520925852.jpg",
       "https://img.olx.com.br/images/85/855656047198333.jpg"
     ],
-    "defeito": false,
+    "id": "1505746497",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-1505746497",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Playstation 4",
     "ts": 1779892615
   },
   {
@@ -10385,24 +10405,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 3 LEIA O ANÚNCIO ",
     "ts": 1779817508
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:41",
-    "fotoUrl": "https://img.olx.com.br/images/26/265641514153337.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/265641514153337.jpg"
-    ],
-    "id": "1496846448",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/resident-evil-2-ps4-upgrade-gratuito-para-ps5-1496846448",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2013",
-    "titulo": "Resident Evil 2 PS4 upgrade gratuito para PS5",
-    "ts": 1779817292
   }
 ]
