@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505809284",
-    "titulo": "PlayStation 4",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "id": "1505808995",
+    "titulo": "Controle PS4 Sem Fio Joystick com Cabo Carregável",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:40",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-4-1505809284",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/controle-ps4-sem-fio-joystick-com-cabo-carregavel-1505808995",
+    "fotoUrl": "https://img.olx.com.br/images/48/487655768327464.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/487655768327464.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779914436
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:40",
     "fotoUrl": "https://img.olx.com.br/images/95/959603162167178.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/959603162167178.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/11/118640761849861.jpg",
       "https://img.olx.com.br/images/14/147660285703103.jpg"
     ],
-    "defeito": false,
+    "id": "1505809284",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-4-1505809284",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "PlayStation 4",
     "ts": 1779914429
   },
   {
@@ -10351,25 +10370,5 @@
     "tempoOlx": "Na OLX desde outubro de 2021",
     "titulo": "Cyberpunk",
     "ts": 1779845388
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:29",
-    "fotoUrl": "https://img.olx.com.br/images/42/428679289650893.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/428679289650893.jpg",
-      "https://img.olx.com.br/images/43/436626282289539.jpg"
-    ],
-    "id": "1505288089",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/detroit-1505288089",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2021",
-    "titulo": "Detroit ",
-    "ts": 1779845377
   }
 ]
