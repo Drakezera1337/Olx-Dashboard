@@ -1,23 +1,44 @@
 [
   {
-    "id": "1505270530",
-    "titulo": "PS4 500GB",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "id": "1505272804",
+    "titulo": "PS4",
+    "preco": 999,
+    "precoRaw": "R$ 999",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:18",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "detectado": "21:25",
+    "tempoOlx": "Na OLX desde agosto de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-500gb-1505270530",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/ps4-1505272804",
+    "fotoUrl": "https://img.olx.com.br/images/94/946628885208909.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/946628885208909.jpg",
+      "https://img.olx.com.br/images/95/956695047089796.jpg",
+      "https://img.olx.com.br/images/96/967639282294930.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779841505
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:18",
     "fotoUrl": "https://img.olx.com.br/images/94/949677045728959.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/94/949677045728959.jpg",
       "https://img.olx.com.br/images/96/964640520112339.jpg",
       "https://img.olx.com.br/images/98/986638642604415.jpg"
     ],
-    "defeito": false,
+    "id": "1505270530",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-500gb-1505270530",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "titulo": "PS4 500GB",
     "ts": 1779841094
   },
   {
@@ -10293,27 +10314,5 @@
     "tempoOlx": "Na OLX desde setembro de 2025",
     "titulo": "Read dead redemption 2 - com mapa",
     "ts": 1779800971
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:09",
-    "fotoUrl": "https://img.olx.com.br/images/98/988660281543983.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/988660281543983.jpg",
-      "https://img.olx.com.br/images/99/999670763442794.jpg",
-      "https://img.olx.com.br/images/10/108667527844339.jpg",
-      "https://img.olx.com.br/images/11/117685529290606.jpg"
-    ],
-    "id": "1504814374",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/read-dead-redemption-2-1504814374",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "Read dead redemption 2",
-    "ts": 1779800965
   }
 ]
