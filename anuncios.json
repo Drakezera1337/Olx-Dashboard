@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505272711",
-    "titulo": "PS4 SLIM 1 TB",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1505273927",
+    "titulo": "Playstation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:25",
-    "tempoOlx": "Na OLX desde novembro de 2017",
+    "detectado": "21:31",
+    "tempoOlx": "Na OLX desde abril de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/ps4-slim-1-tb-1505272711",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1505273927",
+    "fotoUrl": "https://img.olx.com.br/images/62/626672400115646.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/626672400115646.jpg",
+      "https://img.olx.com.br/images/64/644629646600270.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779841864
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:25",
     "fotoUrl": "https://img.olx.com.br/images/48/486620040401714.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/486620040401714.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/52/524639766020140.jpg",
       "https://img.olx.com.br/images/53/538639761895836.jpg"
     ],
-    "defeito": false,
+    "id": "1505272711",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/ps4-slim-1-tb-1505272711",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2017",
+    "titulo": "PS4 SLIM 1 TB",
     "ts": 1779841513
   },
   {
@@ -10296,24 +10316,5 @@
     "tempoOlx": "Na OLX desde agosto de 2025",
     "titulo": "Lote 30 jogos ps4",
     "ts": 1779800986
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:09",
-    "fotoUrl": "https://img.olx.com.br/images/14/147668760467813.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/147668760467813.jpg"
-    ],
-    "id": "1504908964",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/lote-30-jogos-ps4-1504908964",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Lote 30 jogos ps4",
-    "ts": 1779800979
   }
 ]
