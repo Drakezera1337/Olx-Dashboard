@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505723445",
-    "titulo": "Vídeo game ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "outros",
+    "id": "1505722345",
+    "titulo": "Controle Xbox series S",
+    "preco": 290,
+    "precoRaw": "R$ 290",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "10:29",
-    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/video-game-1505723445",
+    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/controle-xbox-series-s-1505722345",
+    "fotoUrl": "https://img.olx.com.br/images/68/682692044864627.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/682692044864627.jpg",
+      "https://img.olx.com.br/images/69/697620406178151.jpg",
+      "https://img.olx.com.br/images/71/712635164192610.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779888563
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:29",
     "fotoUrl": "https://img.olx.com.br/images/46/464629407404551.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/464629407404551.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/46/466675285416431.jpg",
       "https://img.olx.com.br/images/46/463673286376414.jpg"
     ],
-    "defeito": false,
+    "id": "1505723445",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/video-game-1505723445",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
+    "titulo": "Vídeo game ",
     "ts": 1779888553
   },
   {
@@ -10368,25 +10389,5 @@
     "tempoOlx": "Na OLX desde junho de 2014",
     "titulo": "PS P? + A?ssó?s",
     "ts": 1779810966
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:54",
-    "fotoUrl": "https://img.olx.com.br/images/75/759638762218818.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/759638762218818.jpg",
-      "https://img.olx.com.br/images/77/774673768012402.jpg"
-    ],
-    "id": "1505087466",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/xbox-series-s-1505087466",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2018",
-    "titulo": "Xbox séries S ",
-    "ts": 1779810876
   }
 ]
