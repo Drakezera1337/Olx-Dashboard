@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505298736",
-    "titulo": "PlayStation 3 pro ",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "ps3",
+    "id": "1505299253",
+    "titulo": "Jogo ps4 e ps5",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "23:19",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "23:23",
+    "tempoOlx": "Na OLX desde outubro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-3-pro-1505298736",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-e-ps5-1505299253",
+    "fotoUrl": "https://img.olx.com.br/images/43/439649761462777.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/439649761462777.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779848628
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "23:19",
     "fotoUrl": "https://img.olx.com.br/images/20/207647765881985.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/20/207647765881985.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/28/284657040110241.jpg",
       "https://img.olx.com.br/images/30/309653400311909.jpg"
     ],
-    "defeito": false,
+    "id": "1505298736",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-3-pro-1505298736",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 3 pro ",
     "ts": 1779848345
   },
   {
@@ -10274,29 +10293,5 @@
     "tempoOlx": "Na OLX desde agosto de 2019",
     "titulo": "PS4 500GB + jogos (PARA TROCA)",
     "ts": 1779805550
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:25",
-    "fotoUrl": "https://img.olx.com.br/images/15/151604762853503.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/15/151604762853503.jpg",
-      "https://img.olx.com.br/images/17/176660405589689.jpg",
-      "https://img.olx.com.br/images/19/193653649112221.jpg",
-      "https://img.olx.com.br/images/20/209646641217354.jpg",
-      "https://img.olx.com.br/images/22/221697761939553.jpg",
-      "https://img.olx.com.br/images/24/241609400123376.jpg"
-    ],
-    "id": "1505113856",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-ps4-1505113856",
-    "preco": 105,
-    "precoRaw": "R$ 105",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "The Last of Us PS4",
-    "ts": 1779805542
   }
 ]
