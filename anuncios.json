@@ -1,22 +1,44 @@
 [
   {
-    "id": "1505311587",
-    "titulo": "ps4 slim",
-    "preco": 750,
-    "precoRaw": "R$ 750",
+    "id": "1505311158",
+    "titulo": "PS4 Slim ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "00:51",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-slim-1505311587",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/ps4-slim-1505311158",
+    "fotoUrl": "https://img.olx.com.br/images/88/880643283051328.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/88/880643283051328.jpg",
+      "https://img.olx.com.br/images/90/903656767069138.jpg",
+      "https://img.olx.com.br/images/91/915645045735817.jpg",
+      "https://img.olx.com.br/images/92/924670165939898.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779853878
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:51",
     "fotoUrl": "https://img.olx.com.br/images/78/784616406463340.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/784616406463340.jpg",
       "https://img.olx.com.br/images/80/802649162877119.jpg"
     ],
-    "defeito": false,
+    "id": "1505311587",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-slim-1505311587",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "ps4 slim",
     "ts": 1779853865
   },
   {
@@ -10293,25 +10315,5 @@
     "tempoOlx": "Na OLX desde julho de 2021",
     "titulo": "PS4 sem controle",
     "ts": 1779806585
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:42",
-    "fotoUrl": "https://img.olx.com.br/images/22/220539563017414.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/220539563017414.jpg",
-      "https://img.olx.com.br/images/23/238516329321858.jpg"
-    ],
-    "id": "1439493529",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/2-jogos-ps4-lacrado-everybody-s-golf-e-gravity-rush-1439493529",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2015",
-    "titulo": "2 jogos PS4 lacrado - Everybody's golf e Gravity Rush",
-    "ts": 1779806550
   }
 ]
