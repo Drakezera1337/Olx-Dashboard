@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505787875",
-    "titulo": "iPhone 8",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "iphone",
+    "id": "1505788929",
+    "titulo": "Sony Playstation 4 Ps4 Slim 500gb +1 Controles",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:58",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "13:59",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/sony-playstation-4-ps4-slim-500gb-1-controles-1505788929",
+    "fotoUrl": "https://img.olx.com.br/images/80/806612648784039.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/806612648784039.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779901177
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-1505787875",
+    "defeito": false,
+    "detectado": "13:58",
     "fotoUrl": "https://img.olx.com.br/images/48/483617165508328.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/483617165508328.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/54/540619280597594.jpg",
       "https://img.olx.com.br/images/55/558670881921996.jpg"
     ],
-    "defeito": false,
+    "id": "1505787875",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-8-1505787875",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "iPhone 8",
     "ts": 1779901121
   },
   {
@@ -10361,26 +10380,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2017",
     "titulo": "Playstation 4 slim 500gb",
     "ts": 1779837802
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:23",
-    "fotoUrl": "https://img.olx.com.br/images/10/109695401368680.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/109695401368680.jpg",
-      "https://img.olx.com.br/images/12/129607403689217.jpg",
-      "https://img.olx.com.br/images/14/144667645720676.jpg"
-    ],
-    "id": "1505256663",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-ps4-days-gone-1505256663",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "Jogo PS4 Days Gone",
-    "ts": 1779837793
   }
 ]
