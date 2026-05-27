@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505298593",
-    "titulo": "Ps5 Slim 1TB",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1505299052",
+    "titulo": "PS4 SLIM 1TB",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:16",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "23:18",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-1tb-1505298593",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-1505299052",
+    "fotoUrl": "https://img.olx.com.br/images/54/549602163269349.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/54/549602163269349.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779848286
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "23:16",
     "fotoUrl": "https://img.olx.com.br/images/26/269667286536982.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/269667286536982.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/32/324629286915627.jpg",
       "https://img.olx.com.br/images/33/331649400331547.jpg"
     ],
-    "defeito": false,
+    "id": "1505298593",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps5-slim-1tb-1505298593",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps5 Slim 1TB",
     "ts": 1779848196
   },
   {
@@ -10276,26 +10295,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Assassins Creed IV - PS4",
     "ts": 1779805187
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:19",
-    "fotoUrl": "https://img.olx.com.br/images/39/391677887496286.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/39/391677887496286.jpg",
-      "https://img.olx.com.br/images/40/406685163985292.jpg",
-      "https://img.olx.com.br/images/42/420636644978210.jpg"
-    ],
-    "id": "1504171135",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-1-tb-com-2-controles-e-243-jogos-1504171135",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2022",
-    "titulo": "PS4 SLIM 1 TB COM 2 CONTROLES E 243 JOGOS",
-    "ts": 1779805178
   }
 ]
