@@ -1,23 +1,43 @@
 [
   {
-    "id": "1505310905",
-    "titulo": "Xbox Series S (reparo)",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "xbox",
+    "id": "1505311587",
+    "titulo": "ps4 slim",
+    "preco": 750,
+    "precoRaw": "R$ 750",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:46",
+    "detectado": "00:51",
     "tempoOlx": "Na OLX desde abril de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/xbox-series-s-reparo-1505310905",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-slim-1505311587",
+    "fotoUrl": "https://img.olx.com.br/images/78/784616406463340.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/784616406463340.jpg",
+      "https://img.olx.com.br/images/80/802649162877119.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779853865
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:46",
     "fotoUrl": "https://img.olx.com.br/images/86/869615163264605.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/869615163264605.jpg",
       "https://img.olx.com.br/images/87/870627402573626.jpg",
       "https://img.olx.com.br/images/88/886645649738299.jpg"
     ],
-    "defeito": false,
+    "id": "1505310905",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/xbox-series-s-reparo-1505310905",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Xbox Series S (reparo)",
     "ts": 1779853569
   },
   {
@@ -10293,25 +10313,5 @@
     "tempoOlx": "Na OLX desde novembro de 2015",
     "titulo": "2 jogos PS4 lacrado - Everybody's golf e Gravity Rush",
     "ts": 1779806550
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:42",
-    "fotoUrl": "https://img.olx.com.br/images/20/202633766359885.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/202633766359885.jpg",
-      "https://img.olx.com.br/images/21/213691165415721.jpg"
-    ],
-    "id": "1505118402",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/jogos-de-video-game/devil-may-cry-5-ps4-midia-fisica-1505118402",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "Devil may cry 5 - ps4 midia fisica",
-    "ts": 1779806539
   }
 ]
