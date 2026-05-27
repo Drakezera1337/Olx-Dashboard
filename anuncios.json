@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505166442",
-    "titulo": "Playstation 4 Slim 500GB",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "categoria": "ps4",
+    "id": "1505849528",
+    "titulo": "Xbox com defeito na ventoinha ",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "17:41",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-1505166442",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/xbox-com-defeito-na-ventoinha-1505849528",
+    "fotoUrl": "https://img.olx.com.br/images/73/738621523660968.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/73/738621523660968.jpg",
+      "https://img.olx.com.br/images/75/756610288678436.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779914493
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:41",
     "fotoUrl": "https://img.olx.com.br/images/91/910685760995066.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/910685760995066.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/15/158641527788582.jpg",
       "https://img.olx.com.br/images/26/267625283593665.jpg"
     ],
-    "defeito": false,
+    "id": "1505166442",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-1505166442",
+    "preco": 950,
+    "precoRaw": "R$ 950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Playstation 4 Slim 500GB",
     "ts": 1779914485
   },
   {
@@ -10346,27 +10366,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "3 jogos PS4 - Crash: it?s about time , Bloodborne e Mortal Kombat X",
     "ts": 1779846034
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:40",
-    "fotoUrl": "https://img.olx.com.br/images/91/913639501304437.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/913639501304437.jpg",
-      "https://img.olx.com.br/images/93/931648742479170.jpg",
-      "https://img.olx.com.br/images/94/945661509167392.jpg",
-      "https://img.olx.com.br/images/96/960621501694339.jpg"
-    ],
-    "id": "1486618461",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/crash-ps4-it-s-about-time-midia-fisica-1486618461",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "CRASH PS4 - It?s about time - mídia física ",
-    "ts": 1779846024
   }
 ]
