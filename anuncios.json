@@ -1,23 +1,43 @@
 [
   {
-    "id": "1505824707",
-    "titulo": "iPhone 14 Pro Max 256gb ",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "categoria": "iphone",
+    "id": "1505841253",
+    "titulo": "PlayStation Portal ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "17:36",
-    "tempoOlx": "Na OLX desde abril de 2024",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-portal-1505841253",
+    "fotoUrl": "https://img.olx.com.br/images/30/307653765182340.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/307653765182340.jpg",
+      "https://img.olx.com.br/images/31/314650527341896.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779914211
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-256gb-1505824707",
+    "defeito": false,
+    "detectado": "17:36",
     "fotoUrl": "https://img.olx.com.br/images/53/531679287217859.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/531679287217859.jpg",
       "https://img.olx.com.br/images/54/545612286938081.jpg",
       "https://img.olx.com.br/images/55/559676644705537.jpg"
     ],
-    "defeito": false,
+    "id": "1505824707",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-256gb-1505824707",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2024",
+    "titulo": "iPhone 14 Pro Max 256gb ",
     "ts": 1779914208
   },
   {
@@ -10349,25 +10369,5 @@
     "tempoOlx": "Na OLX desde outubro de 2021",
     "titulo": "Jump force",
     "ts": 1779843710
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:01",
-    "fotoUrl": "https://img.olx.com.br/images/29/290610528569136.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/29/290610528569136.jpg",
-      "https://img.olx.com.br/images/30/303608406973929.jpg"
-    ],
-    "id": "1505280647",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/transformers-dark-1505280647",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2021",
-    "titulo": "Transformers Dark",
-    "ts": 1779843701
   }
 ]
