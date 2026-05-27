@@ -1,16 +1,32 @@
 [
   {
-    "id": "1505867359",
-    "titulo": "SPIDER-MAN PS4",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "categoria": "ps4",
+    "id": "1505867174",
+    "titulo": "Terra Média Sombras da guerra edição difinitiva",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "18:50",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "detectado": "18:51",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/spider-man-ps4-1505867359",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/terra-media-sombras-da-guerra-edicao-difinitiva-1505867174",
+    "fotoUrl": "https://img.olx.com.br/images/18/181620766306307.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/181620766306307.jpg",
+      "https://img.olx.com.br/images/20/202662400946781.jpg",
+      "https://img.olx.com.br/images/22/225653405615177.jpg",
+      "https://img.olx.com.br/images/24/247693409029947.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779918668
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:50",
     "fotoUrl": "https://img.olx.com.br/images/37/370629049084505.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/37/370629049084505.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/40/403625287100866.jpg",
       "https://img.olx.com.br/images/42/426683528919983.jpg"
     ],
-    "defeito": false,
+    "id": "1505867359",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/spider-man-ps4-1505867359",
+    "preco": 110,
+    "precoRaw": "R$ 110",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "SPIDER-MAN PS4",
     "ts": 1779918657
   },
   {
@@ -10308,25 +10330,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Vídeo game ",
     "ts": 1779888275
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:24",
-    "fotoUrl": "https://img.olx.com.br/images/10/109602276097181.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/109602276097181.jpg",
-      "https://img.olx.com.br/images/12/120648279635274.jpg"
-    ],
-    "id": "1497155302",
-    "link": "https://mg.olx.com.br/regiao-de-governador-valadares-e-teofilo-otoni/games/jogos-de-video-game/far-cry-4-edicao-limitada-ps4-1497155302",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Far Cry 4 Edição Limitada PS4",
-    "ts": 1779888266
   }
 ]
