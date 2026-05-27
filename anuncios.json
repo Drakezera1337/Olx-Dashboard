@@ -1,16 +1,34 @@
 [
   {
-    "id": "1505880191",
-    "titulo": "Vídeo game ",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "outros",
+    "id": "1505887720",
+    "titulo": "Controle Dualsense PS5 Branco.",
+    "preco": 240,
+    "precoRaw": "R$ 240",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "20:16",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "detectado": "20:17",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/video-game-1505880191",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-dualsense-ps5-branco-1505887720",
+    "fotoUrl": "https://img.olx.com.br/images/23/231685164142133.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/231685164142133.jpg",
+      "https://img.olx.com.br/images/25/256649765618987.jpg",
+      "https://img.olx.com.br/images/26/263661287667606.jpg",
+      "https://img.olx.com.br/images/28/281696523112602.jpg",
+      "https://img.olx.com.br/images/30/300654167299109.jpg",
+      "https://img.olx.com.br/images/32/326624881969623.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779923857
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:16",
     "fotoUrl": "https://img.olx.com.br/images/16/161689286399046.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/161689286399046.jpg",
@@ -20,7 +38,13 @@
       "https://img.olx.com.br/images/21/218694288767336.jpg",
       "https://img.olx.com.br/images/22/226657043961025.jpg"
     ],
-    "defeito": false,
+    "id": "1505880191",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/video-game-1505880191",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Vídeo game ",
     "ts": 1779923775
   },
   {
@@ -10359,24 +10383,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Playstation slim 1 tb de memória na caixa ",
     "ts": 1779891729
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:21",
-    "fotoUrl": "https://img.olx.com.br/images/77/771614520366207.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/771614520366207.jpg"
-    ],
-    "id": "1505741927",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/controle-ps4-1505741927",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
-    "titulo": "Controle PS4",
-    "ts": 1779891697
   }
 ]
