@@ -1,6 +1,6 @@
 [
   {
-    "id": "1505881022",
+    "id": "1505880191",
     "titulo": "Vídeo game ",
     "preco": 500,
     "precoRaw": "R$ 500",
@@ -10,7 +10,25 @@
     "tempoOlx": "Na OLX desde novembro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/video-game-1505881022",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/video-game-1505880191",
+    "fotoUrl": "https://img.olx.com.br/images/16/161689286399046.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/161689286399046.jpg",
+      "https://img.olx.com.br/images/18/180623643095710.jpg",
+      "https://img.olx.com.br/images/19/197626764684927.jpg",
+      "https://img.olx.com.br/images/20/203694403337564.jpg",
+      "https://img.olx.com.br/images/21/218694288767336.jpg",
+      "https://img.olx.com.br/images/22/226657043961025.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779923775
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:16",
     "fotoUrl": "https://img.olx.com.br/images/96/961628168971772.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/961628168971772.jpg",
@@ -20,7 +38,13 @@
       "https://img.olx.com.br/images/11/115620407244693.jpg",
       "https://img.olx.com.br/images/12/124685529333575.jpg"
     ],
-    "defeito": false,
+    "id": "1505881022",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/video-game-1505881022",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "Vídeo game ",
     "ts": 1779923766
   },
   {
@@ -10354,24 +10378,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2026",
     "titulo": "Controle PS4",
     "ts": 1779891697
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:20",
-    "fotoUrl": "https://img.olx.com.br/images/74/746653285531169.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/746653285531169.jpg"
-    ],
-    "id": "1505740217",
-    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/playstation-4-slim-1-tera-1505740217",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2021",
-    "titulo": "Playstation 4 slim 1 tera",
-    "ts": 1779891604
   }
 ]
