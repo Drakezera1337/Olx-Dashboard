@@ -1,22 +1,42 @@
 [
   {
-    "id": "1506135752",
-    "titulo": "GTA 5 PlayStation 4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1506135333",
+    "titulo": "Clash Royale",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:30",
-    "tempoOlx": "Na OLX desde abril de 2015",
+    "tempoOlx": "Na OLX desde julho de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/gta-5-playstation-4-1506135752",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/clash-royale-1506135333",
+    "fotoUrl": "https://img.olx.com.br/images/33/332681165768694.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/332681165768694.jpg",
+      "https://img.olx.com.br/images/34/346627523317544.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780003856
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:30",
     "fotoUrl": "https://img.olx.com.br/images/39/393674401685477.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/393674401685477.jpg",
       "https://img.olx.com.br/images/40/401686760032843.jpg"
     ],
-    "defeito": false,
+    "id": "1506135752",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/gta-5-playstation-4-1506135752",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "GTA 5 PlayStation 4",
     "ts": 1780003847
   },
   {
@@ -10353,25 +10373,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2023",
     "titulo": "Uncharted Collection - Jogo PS4",
     "ts": 1779929135
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:45",
-    "fotoUrl": "https://img.olx.com.br/images/52/523666408994940.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/523666408994940.jpg",
-      "https://img.olx.com.br/images/54/547613404471941.jpg"
-    ],
-    "id": "1505909295",
-    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/jogos-de-video-game/ps4-slim-1tb-7-jogos-1505909295",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "PS4 SLIM 1TB + 7 JOGOS",
-    "ts": 1779929125
   }
 ]
