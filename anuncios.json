@@ -1,16 +1,32 @@
 [
   {
-    "id": "1506167046",
-    "titulo": "iPhone 14 Pro - Novo",
-    "preco": 4100,
-    "precoRaw": "R$ 4.100",
-    "categoria": "iphone",
+    "id": "1506167008",
+    "titulo": "Pes 21 ps4",
+    "preco": 180,
+    "precoRaw": "R$ 180",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "20:46",
-    "tempoOlx": "Na OLX desde setembro de 2020",
+    "detectado": "20:50",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-21-ps4-1506167008",
+    "fotoUrl": "https://img.olx.com.br/images/87/873619643978749.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/873619643978749.jpg",
+      "https://img.olx.com.br/images/89/895667166087726.jpg",
+      "https://img.olx.com.br/images/91/911679287871172.jpg",
+      "https://img.olx.com.br/images/94/941647882894531.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780012235
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-novo-1506167046",
+    "defeito": false,
+    "detectado": "20:46",
     "fotoUrl": "https://img.olx.com.br/images/41/418661283159984.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/418661283159984.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/49/494634045517900.jpg",
       "https://img.olx.com.br/images/51/518631281066480.jpg"
     ],
-    "defeito": false,
+    "id": "1506167046",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-novo-1506167046",
+    "preco": 4100,
+    "precoRaw": "R$ 4.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2020",
+    "titulo": "iPhone 14 Pro - Novo",
     "ts": 1780011968
   },
   {
@@ -10381,27 +10403,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "Naruto Storm Trilogy",
     "ts": 1779940656
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:52",
-    "fotoUrl": "https://img.olx.com.br/images/93/932615167084264.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/932615167084264.jpg",
-      "https://img.olx.com.br/images/94/944698168165744.jpg",
-      "https://img.olx.com.br/images/96/963695289905337.jpg",
-      "https://img.olx.com.br/images/97/971675529824545.jpg"
-    ],
-    "id": "1505938075",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/ps4-1505938075",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2020",
-    "titulo": "Ps4",
-    "ts": 1779940327
   }
 ]
