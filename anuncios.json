@@ -1,23 +1,46 @@
 [
   {
-    "id": "1497276162",
-    "titulo": "Injustice 1 & 2",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1506034884",
+    "titulo": "XBOX SERIES S",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:13",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "detectado": "12:18",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/injustice-1-2-1497276162",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/xbox-series-s-1506034884",
+    "fotoUrl": "https://img.olx.com.br/images/90/900662161775342.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/900662161775342.jpg",
+      "https://img.olx.com.br/images/91/913685649825255.jpg",
+      "https://img.olx.com.br/images/92/929640283467005.jpg",
+      "https://img.olx.com.br/images/93/932654047400402.jpg",
+      "https://img.olx.com.br/images/94/949667767964782.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779981515
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:13",
     "fotoUrl": "https://img.olx.com.br/images/30/307663397137510.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/307663397137510.jpg",
       "https://img.olx.com.br/images/31/315685517888444.jpg",
       "https://img.olx.com.br/images/32/324694511393891.jpg"
     ],
-    "defeito": false,
+    "id": "1497276162",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/injustice-1-2-1497276162",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "Injustice 1 & 2",
     "ts": 1779981214
   },
   {
@@ -10426,25 +10449,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "The Last of Us Parte II (Áudio em Português) - PS4 ",
     "ts": 1779914985
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:49",
-    "fotoUrl": "https://img.olx.com.br/images/63/631649254428770.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/631649254428770.jpg",
-      "https://img.olx.com.br/images/65/658647854712372.jpg"
-    ],
-    "id": "1479574809",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/call-of-duty-modern-warfare-audio-em-portugues-ps4-1479574809",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "Call of Duty Modern Warfare (Áudio em Português) - Ps4",
-    "ts": 1779914976
   }
 ]
