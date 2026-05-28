@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505998241",
-    "titulo": "iPhone 15 pro ",
-    "preco": 4300,
-    "precoRaw": "R$ 4.300",
-    "categoria": "iphone",
+    "id": "1448046832",
+    "titulo": "Ps4 3 controles  500gb fat com5 jogos",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:41",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "detectado": "11:42",
+    "tempoOlx": "Na OLX desde janeiro de 2015",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-3-controles-500gb-fat-com5-jogos-1448046832",
+    "fotoUrl": "https://img.olx.com.br/images/98/981522458374640.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/981522458374640.jpg",
+      "https://img.olx.com.br/images/10/109517217574895.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779979320
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-1505998241",
+    "defeito": false,
+    "detectado": "11:41",
     "fotoUrl": "https://img.olx.com.br/images/36/363687523906121.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/363687523906121.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/37/376645888765040.jpg",
       "https://img.olx.com.br/images/38/386620529360508.jpg"
     ],
-    "defeito": false,
+    "id": "1505998241",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-1505998241",
+    "preco": 4300,
+    "precoRaw": "R$ 4.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "iPhone 15 pro ",
     "ts": 1779979316
   },
   {
@@ -10421,27 +10441,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Play Station 4 Fat 500gb",
     "ts": 1779914371
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:39",
-    "fotoUrl": "https://img.olx.com.br/images/70/702657046700450.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/702657046700450.jpg",
-      "https://img.olx.com.br/images/71/719683525062190.jpg",
-      "https://img.olx.com.br/images/72/720624289635008.jpg",
-      "https://img.olx.com.br/images/73/732606042447603.jpg"
-    ],
-    "id": "1505834151",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/consoles-de-video-game/controle-dualshock-4-original-sony-1505834151",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Controle DualShock 4 Original Sony",
-    "ts": 1779914364
   }
 ]
