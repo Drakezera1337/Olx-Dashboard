@@ -1,22 +1,42 @@
 [
   {
-    "id": "1506070970",
-    "titulo": "Resident Evil 2 PS4 em Português",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1506073402",
+    "titulo": "Nier: Automata",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "14:22",
-    "tempoOlx": "Na OLX desde abril de 2021",
+    "detectado": "14:28",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/resident-evil-2-ps4-em-portugues-1506070970",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/nier-automata-1506073402",
+    "fotoUrl": "https://img.olx.com.br/images/70/707644283229582.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/70/707644283229582.jpg",
+      "https://img.olx.com.br/images/78/786605520704141.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779989316
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:22",
     "fotoUrl": "https://img.olx.com.br/images/97/973655642938354.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/973655642938354.jpg",
       "https://img.olx.com.br/images/99/993625527387812.jpg"
     ],
-    "defeito": false,
+    "id": "1506070970",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/resident-evil-2-ps4-em-portugues-1506070970",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2021",
+    "titulo": "Resident Evil 2 PS4 em Português",
     "ts": 1779988977
   },
   {
@@ -10397,24 +10417,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Horizon Zero Dawn - PS4",
     "ts": 1779921186
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:32",
-    "fotoUrl": "https://img.olx.com.br/images/20/208627289646742.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/208627289646742.jpg"
-    ],
-    "id": "1505878250",
-    "link": "https://mg.olx.com.br/regiao-de-divinopolis/games/consoles-de-video-game/vendo-exbox-series-s-1505878250",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Vendo exbox series S ",
-    "ts": 1779921124
   }
 ]
