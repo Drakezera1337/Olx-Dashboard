@@ -1,16 +1,34 @@
 [
   {
-    "id": "1505936494",
-    "titulo": "Play4 ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "outros",
+    "id": "1505936510",
+    "titulo": "PlayStation 4 Slim 500GB + Jogos",
+    "preco": 1160,
+    "precoRaw": "R$ 1.160",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "00:34",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde outubro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/consoles-de-video-game/play4-1505936494",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-4-slim-500gb-jogos-1505936510",
+    "fotoUrl": "https://img.olx.com.br/images/13/138672645778566.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/138672645778566.jpg",
+      "https://img.olx.com.br/images/14/146602761214395.jpg",
+      "https://img.olx.com.br/images/16/162686408577483.jpg",
+      "https://img.olx.com.br/images/17/176667160392419.jpg",
+      "https://img.olx.com.br/images/19/195623283282120.jpg",
+      "https://img.olx.com.br/images/20/202601404431159.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779939287
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:34",
     "fotoUrl": "https://img.olx.com.br/images/40/409610284687386.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/409610284687386.jpg",
@@ -18,7 +36,13 @@
       "https://img.olx.com.br/images/43/432612403024390.jpg",
       "https://img.olx.com.br/images/45/451637889473799.jpg"
     ],
-    "defeito": false,
+    "id": "1505936494",
+    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/consoles-de-video-game/play4-1505936494",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Play4 ",
     "ts": 1779939276
   },
   {
@@ -10372,24 +10396,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Mortal Kombat XL PS4 e PS5",
     "ts": 1779899917
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:33",
-    "fotoUrl": "https://img.olx.com.br/images/89/896698527878282.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/896698527878282.jpg"
-    ],
-    "id": "1505779870",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/lote-de-jogos-ps4-e-ps5-1505779870",
-    "preco": 899,
-    "precoRaw": "R$ 899",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2018",
-    "titulo": "Lote de jogos Ps4 e Ps5 ",
-    "ts": 1779899588
   }
 ]
