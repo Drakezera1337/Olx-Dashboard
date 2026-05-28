@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505908274",
-    "titulo": "Controle ps4",
-    "preco": 190,
-    "precoRaw": "R$ 190",
-    "categoria": "ps4",
+    "id": "1505908824",
+    "titulo": "Controle PS5",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "21:39",
+    "detectado": "21:45",
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps4-1505908274",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/controle-ps5-1505908824",
+    "fotoUrl": "https://img.olx.com.br/images/67/676622401273714.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/676622401273714.jpg",
+      "https://img.olx.com.br/images/69/690669289537517.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779929107
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:39",
     "fotoUrl": "https://img.olx.com.br/images/39/390637647992611.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/390637647992611.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/42/424682522050920.jpg",
       "https://img.olx.com.br/images/44/440670764024997.jpg"
     ],
-    "defeito": false,
+    "id": "1505908274",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ps4-1505908274",
+    "preco": 190,
+    "precoRaw": "R$ 190",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Controle ps4",
     "ts": 1779928777
   },
   {
@@ -10363,29 +10383,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "PlayStation 4 500gb completo ",
     "ts": 1779895050
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:17",
-    "fotoUrl": "https://img.olx.com.br/images/63/637630164023353.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/637630164023353.jpg",
-      "https://img.olx.com.br/images/64/645607529027729.jpg",
-      "https://img.olx.com.br/images/65/659697161437971.jpg",
-      "https://img.olx.com.br/images/67/679637526951198.jpg",
-      "https://img.olx.com.br/images/69/699650404354897.jpg",
-      "https://img.olx.com.br/images/70/706638408547136.jpg"
-    ],
-    "id": "1505761350",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/jogos-de-ps4-e-ps5-1505761350",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Jogos de ps4 e ps5",
-    "ts": 1779895042
   }
 ]
