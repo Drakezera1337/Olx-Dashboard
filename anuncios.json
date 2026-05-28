@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506142090",
-    "titulo": "Nintendo Switch Lite Completo, pra sair logo",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "categoria": "switch",
+    "id": "1506142152",
+    "titulo": "PS4 500gb",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:57",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "detectado": "19:01",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-500gb-1506142152",
+    "fotoUrl": "https://img.olx.com.br/images/17/171625404720641.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/171625404720641.jpg",
+      "https://img.olx.com.br/images/18/189662284672902.jpg",
+      "https://img.olx.com.br/images/20/205680168865398.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780005666
+  },
+  {
+    "categoria": "switch",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/nintendo-switch-lite-completo-pra-sair-logo-1506142090",
+    "defeito": false,
+    "detectado": "18:57",
     "fotoUrl": "https://img.olx.com.br/images/62/629669525771539.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/629669525771539.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/73/734678285583056.jpg",
       "https://img.olx.com.br/images/75/759614881346054.jpg"
     ],
-    "defeito": false,
+    "id": "1506142090",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/consoles-de-video-game/nintendo-switch-lite-completo-pra-sair-logo-1506142090",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Nintendo Switch Lite Completo, pra sair logo",
     "ts": 1780005455
   },
   {
@@ -10372,24 +10393,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PS4 A VENDA ",
     "ts": 1779929887
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:57",
-    "fotoUrl": "https://img.olx.com.br/images/94/940678282881802.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/940678282881802.jpg"
-    ],
-    "id": "1505911001",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/fc-24-ps4-impecavel-1505911001",
-    "preco": 149,
-    "precoRaw": "R$ 149",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Fc 24 ps4 impecável ",
-    "ts": 1779929857
   }
 ]
