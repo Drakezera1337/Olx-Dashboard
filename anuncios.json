@@ -1,22 +1,43 @@
 [
   {
-    "id": "1506119922",
-    "titulo": "Ps5 Fat(ler anúncio)",
-    "preco": 2250,
-    "precoRaw": "R$ 2.250",
+    "id": "1506122170",
+    "titulo": "PS5",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "17:33",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "detectado": "17:39",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps5-fat-ler-anuncio-1506119922",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/ps5-1506122170",
+    "fotoUrl": "https://img.olx.com.br/images/20/203661403888746.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/203661403888746.jpg",
+      "https://img.olx.com.br/images/21/215605048113400.jpg",
+      "https://img.olx.com.br/images/23/234649046471289.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780000774
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:33",
     "fotoUrl": "https://img.olx.com.br/images/59/591675522549905.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/591675522549905.jpg",
       "https://img.olx.com.br/images/65/650644282130987.jpg"
     ],
-    "defeito": false,
+    "id": "1506119922",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps5-fat-ler-anuncio-1506119922",
+    "preco": 2250,
+    "precoRaw": "R$ 2.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
+    "titulo": "Ps5 Fat(ler anúncio)",
     "ts": 1780000417
   },
   {
@@ -10336,24 +10357,5 @@
     "tempoOlx": "Na OLX desde março de 2025",
     "titulo": "HORIZON - Zero Dawn (Complete Edition)",
     "ts": 1779927738
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:22",
-    "fotoUrl": "https://img.olx.com.br/images/10/102542694766359.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/102542694766359.jpg"
-    ],
-    "id": "1444442242",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/gta-5-ps4-impecavel-1444442242",
-    "preco": 149,
-    "precoRaw": "R$ 149",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "GTA 5 ps4 impecável ",
-    "ts": 1779927728
   }
 ]
