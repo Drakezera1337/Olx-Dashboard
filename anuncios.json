@@ -1,23 +1,42 @@
 [
   {
-    "id": "1486034691",
-    "titulo": "Jogo do PlayStation 4",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "categoria": "ps4",
+    "id": "1410422149",
+    "titulo": "Gran Turismo Sport - PS4/PS5",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "12:39",
-    "tempoOlx": "Na OLX desde junho de 2022",
+    "tempoOlx": "Na OLX desde junho de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-do-playstation-4-1486034691",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/gran-turismo-sport-ps4-ps5-1410422149",
+    "fotoUrl": "https://img.olx.com.br/images/22/225532175129313.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/225532175129313.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779982796
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:39",
     "fotoUrl": "https://img.olx.com.br/images/68/687660744548214.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/68/687660744548214.jpg",
       "https://img.olx.com.br/images/70/703669387616355.jpg",
       "https://img.olx.com.br/images/72/726669744190301.jpg"
     ],
-    "defeito": false,
+    "id": "1486034691",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/jogo-do-playstation-4-1486034691",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "titulo": "Jogo do PlayStation 4",
     "ts": 1779982790
   },
   {
@@ -10429,26 +10448,5 @@
     "tempoOlx": "Na OLX desde maio de 2025",
     "titulo": "Vendo play 4",
     "ts": 1779915142
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:52",
-    "fotoUrl": "https://img.olx.com.br/images/84/843649520483060.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/84/843649520483060.jpg",
-      "https://img.olx.com.br/images/87/876695040941320.jpg",
-      "https://img.olx.com.br/images/91/915636404798090.jpg"
-    ],
-    "id": "1505851712",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-playstation-5-base-dualsense-1505851712",
-    "preco": 439,
-    "precoRaw": "R$ 439",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "Controle PlayStation 5 + Base DualSense",
-    "ts": 1779915134
   }
 ]
