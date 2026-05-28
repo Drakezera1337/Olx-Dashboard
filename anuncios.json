@@ -1,21 +1,41 @@
 [
   {
-    "id": "1506145919",
-    "titulo": "Nintendo Switch Lite",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1506147605",
+    "titulo": "Ps4 ",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:16",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "19:20",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/nintendo-switch-lite-1506145919",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1506147605",
+    "fotoUrl": "https://img.olx.com.br/images/98/981683644491692.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/981683644491692.jpg",
+      "https://img.olx.com.br/images/99/998630409680003.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780006837
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:16",
     "fotoUrl": "https://img.olx.com.br/images/74/748626523638945.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/748626523638945.jpg"
     ],
-    "defeito": false,
+    "id": "1506145919",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/nintendo-switch-lite-1506145919",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Nintendo Switch Lite",
     "ts": 1780006594
   },
   {
@@ -10376,28 +10396,5 @@
     "tempoOlx": "Na OLX desde junho de 2023",
     "titulo": "Playstation 4 500GB ",
     "ts": 1779931328
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:21",
-    "fotoUrl": "https://img.olx.com.br/images/27/270624514857810.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/270624514857810.jpg",
-      "https://img.olx.com.br/images/29/293601276517347.jpg",
-      "https://img.olx.com.br/images/31/310654756863563.jpg",
-      "https://img.olx.com.br/images/33/331604633277135.jpg",
-      "https://img.olx.com.br/images/34/349674754806752.jpg"
-    ],
-    "id": "1494416314",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/3-jogos-de-ps4-1494416314",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "3 jogos de ps4",
-    "ts": 1779931298
   }
 ]
