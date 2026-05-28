@@ -1,23 +1,43 @@
 [
   {
-    "id": "1486391784",
-    "titulo": "PES 2019 - PS4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1506157873",
+    "titulo": "Call of Duty Ghosts",
+    "preco": 140,
+    "precoRaw": "R$ 140",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "20:06",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "detectado": "20:11",
+    "tempoOlx": "Na OLX desde junho de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/pes-2019-ps4-1486391784",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/call-of-duty-ghosts-1506157873",
+    "fotoUrl": "https://img.olx.com.br/images/82/820652643239998.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/82/820652643239998.jpg",
+      "https://img.olx.com.br/images/82/821667528587854.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780009865
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:06",
     "fotoUrl": "https://img.olx.com.br/images/13/133617746314668.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/133617746314668.jpg",
       "https://img.olx.com.br/images/20/200695025500004.jpg",
       "https://img.olx.com.br/images/30/301609741868951.jpg"
     ],
-    "defeito": false,
+    "id": "1486391784",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/pes-2019-ps4-1486391784",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2021",
+    "titulo": "PES 2019 - PS4",
     "ts": 1780009577
   },
   {
@@ -10382,26 +10402,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Resident evil 2 Ps4",
     "ts": 1779934894
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "23:15",
-    "fotoUrl": "https://img.olx.com.br/images/69/694664047486375.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/694664047486375.jpg",
-      "https://img.olx.com.br/images/70/705612640448496.jpg",
-      "https://img.olx.com.br/images/72/727690161973930.jpg"
-    ],
-    "id": "1505926517",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/god-of-war-1505926517",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2013",
-    "titulo": "God of War ",
-    "ts": 1779934543
   }
 ]
