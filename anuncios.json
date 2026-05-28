@@ -1,16 +1,32 @@
 [
   {
-    "id": "1505938075",
-    "titulo": "Ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1505938615",
+    "titulo": "Naruto Storm Trilogy",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "00:52",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "detectado": "00:57",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/ps4-1505938075",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/naruto-storm-trilogy-1505938615",
+    "fotoUrl": "https://img.olx.com.br/images/60/609624880844826.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/609624880844826.jpg",
+      "https://img.olx.com.br/images/61/616689163431601.jpg",
+      "https://img.olx.com.br/images/63/639668525143726.jpg",
+      "https://img.olx.com.br/images/65/650686040368121.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779940656
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:52",
     "fotoUrl": "https://img.olx.com.br/images/93/932615167084264.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/932615167084264.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/96/963695289905337.jpg",
       "https://img.olx.com.br/images/97/971675529824545.jpg"
     ],
-    "defeito": false,
+    "id": "1505938075",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/ps4-1505938075",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "Ps4",
     "ts": 1779940327
   },
   {
@@ -10367,26 +10389,5 @@
     "tempoOlx": "Na OLX desde junho de 2020",
     "titulo": "5 JOGOS PARA PS4 SLiM, Novos(Pouco usado)",
     "ts": 1779899959
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:39",
-    "fotoUrl": "https://img.olx.com.br/images/94/941691526075934.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/941691526075934.jpg",
-      "https://img.olx.com.br/images/96/969608768161680.jpg",
-      "https://img.olx.com.br/images/99/996656407221443.jpg"
-    ],
-    "id": "1505782596",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-com-controles-e-jogos-parcelo-no-cartao-1505782596",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2025",
-    "titulo": "ps4 com controles e jogos ( parcelo no cartão )",
-    "ts": 1779899950
   }
 ]
