@@ -1,16 +1,32 @@
 [
   {
-    "id": "1446882704",
-    "titulo": " UFC 2 ",
-    "preco": 80,
-    "precoRaw": "R$ 80",
+    "id": "1446883701",
+    "titulo": " The Evil Within 2 ",
+    "preco": 85,
+    "precoRaw": "R$ 85",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "08:45",
+    "detectado": "08:46",
     "tempoOlx": "Na OLX desde maio de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ufc-2-1446882704",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-evil-within-2-1446883701",
+    "fotoUrl": "https://img.olx.com.br/images/45/451551576082928.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/45/451551576082928.jpg",
+      "https://img.olx.com.br/images/46/468553333207487.jpg",
+      "https://img.olx.com.br/images/48/483587214164476.jpg",
+      "https://img.olx.com.br/images/49/492596219204784.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779968769
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "08:45",
     "fotoUrl": "https://img.olx.com.br/images/80/806536578520027.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/80/806536578520027.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/84/841561576864426.jpg",
       "https://img.olx.com.br/images/86/862599694734596.jpg"
     ],
-    "defeito": false,
+    "id": "1446882704",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ufc-2-1446882704",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2022",
+    "titulo": " UFC 2 ",
     "ts": 1779968759
   },
   {
@@ -10423,26 +10445,5 @@
     "tempoOlx": "Na OLX desde agosto de 2014",
     "titulo": "Ps5 1t, 3 meses de Uso com NF",
     "ts": 1779904393
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:53",
-    "fotoUrl": "https://img.olx.com.br/images/75/756642765163165.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/756642765163165.jpg",
-      "https://img.olx.com.br/images/77/777621645020466.jpg",
-      "https://img.olx.com.br/images/78/782658160353394.jpg"
-    ],
-    "id": "1505797545",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-ps5-original-s-caixa-1505797545",
-    "preco": 240,
-    "precoRaw": "R$ 240",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2018",
-    "titulo": "Controle PS5 original s/ caixa",
-    "ts": 1779904385
   }
 ]
