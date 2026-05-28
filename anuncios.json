@@ -1,16 +1,30 @@
 [
   {
-    "id": "1505938865",
-    "titulo": "Ps4 fat 500gb + controle + 5 jogos mídia física ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1505939123",
+    "titulo": "iPhone XR ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "01:03",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "01:06",
+    "tempoOlx": "Na OLX desde novembro de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1505939123",
+    "fotoUrl": "https://img.olx.com.br/images/24/246645762047048.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/246645762047048.jpg",
+      "https://img.olx.com.br/images/26/261697160821511.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779941165
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/jogos-de-video-game/ps4-fat-500gb-controle-5-jogos-midia-fisica-1505938865",
+    "defeito": false,
+    "detectado": "01:03",
     "fotoUrl": "https://img.olx.com.br/images/63/634683524584427.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/634683524584427.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/66/662657283417794.jpg",
       "https://img.olx.com.br/images/68/688603764209307.jpg"
     ],
-    "defeito": false,
+    "id": "1505938865",
+    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/jogos-de-video-game/ps4-fat-500gb-controle-5-jogos-midia-fisica-1505938865",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Ps4 fat 500gb + controle + 5 jogos mídia física ",
     "ts": 1779941015
   },
   {
@@ -10375,24 +10395,5 @@
     "tempoOlx": "Na OLX desde maio de 2018",
     "titulo": "Immortal fenyx ps4 lacrado",
     "ts": 1779900265
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:44",
-    "fotoUrl": "https://img.olx.com.br/images/78/786644762295265.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/786644762295265.jpg"
-    ],
-    "id": "1505784071",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/battlefield-4-ps4-1505784071",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Battlefield 4 ps4 ",
-    "ts": 1779900255
   }
 ]
