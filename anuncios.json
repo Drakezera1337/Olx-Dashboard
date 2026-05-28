@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506056110",
-    "titulo": "Xbox one s",
-    "preco": 1089,
-    "precoRaw": "R$ 1.089",
-    "categoria": "xbox",
+    "id": "1506056774",
+    "titulo": "Mad Max PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:19",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "detectado": "13:20",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/mad-max-ps4-1506056774",
+    "fotoUrl": "https://img.olx.com.br/images/60/608652529033111.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/608652529033111.jpg",
+      "https://img.olx.com.br/images/63/635639766522348.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779985207
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506056110",
+    "defeito": false,
+    "detectado": "13:19",
     "fotoUrl": "https://img.olx.com.br/images/48/480645880201295.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/48/480645880201295.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/51/513631044013421.jpg",
       "https://img.olx.com.br/images/53/537686522147843.jpg"
     ],
-    "defeito": false,
+    "id": "1506056110",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506056110",
+    "preco": 1089,
+    "precoRaw": "R$ 1.089",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "Xbox one s",
     "ts": 1779985147
   },
   {
@@ -10417,28 +10437,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2013",
     "titulo": "(PS4) Days gone",
     "ts": 1779917677
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "18:32",
-    "fotoUrl": "https://img.olx.com.br/images/30/303696163162600.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/30/303696163162600.jpg",
-      "https://img.olx.com.br/images/31/318622768625722.jpg",
-      "https://img.olx.com.br/images/32/327648526325396.jpg",
-      "https://img.olx.com.br/images/34/346608765190924.jpg",
-      "https://img.olx.com.br/images/35/355665164231332.jpg"
-    ],
-    "id": "1505863650",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-plus-ler-anuncio-1505863650",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2016",
-    "titulo": "iPhone 7 Plus (Ler anúncio)",
-    "ts": 1779917554
   }
 ]
