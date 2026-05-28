@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506031199",
-    "titulo": "iPhone 17 Pro Max !! ",
-    "preco": 8000,
-    "precoRaw": "R$ 8.000",
+    "id": "1506030590",
+    "titulo": "iPhone 17 Lacrado !",
+    "preco": 5200,
+    "precoRaw": "R$ 5.200",
     "categoria": "iphone",
     "publicado": "",
     "detectado": "12:01",
     "tempoOlx": "Na OLX desde agosto de 2013",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-1506031199",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-lacrado-1506030590",
+    "fotoUrl": "https://img.olx.com.br/images/68/682639281120019.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/682639281120019.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779980473
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "defeito": false,
+    "detectado": "12:01",
     "fotoUrl": "https://img.olx.com.br/images/22/221639400036951.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/221639400036951.jpg",
       "https://img.olx.com.br/images/24/249659647183719.jpg",
       "https://img.olx.com.br/images/26/263617526973753.jpg"
     ],
-    "defeito": false,
+    "id": "1506031199",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-17-pro-max-1506031199",
+    "preco": 8000,
+    "precoRaw": "R$ 8.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2013",
+    "titulo": "iPhone 17 Pro Max !! ",
     "ts": 1779980466
   },
   {
@@ -10437,25 +10456,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PS4 + 10 jogos",
     "ts": 1779914901
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:48",
-    "fotoUrl": "https://img.olx.com.br/images/75/755660406555067.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/755660406555067.jpg",
-      "https://img.olx.com.br/images/78/789641526474010.jpg"
-    ],
-    "id": "1505830446",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/jogos-de-video-game/bloodborne-ps4-1505830446",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2023",
-    "titulo": "Bloodborne PS4",
-    "ts": 1779914891
   }
 ]
