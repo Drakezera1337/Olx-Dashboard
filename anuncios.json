@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506162372",
-    "titulo": "Jogos PS4",
-    "preco": 40,
-    "precoRaw": "R$ 40",
+    "id": "1506162096",
+    "titulo": "Jogo Stray ps4",
+    "preco": 140,
+    "precoRaw": "R$ 140",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "20:33",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde outubro de 2013",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-ps4-1506162372",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-stray-ps4-1506162096",
+    "fotoUrl": "https://img.olx.com.br/images/75/756647529578320.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/756647529578320.jpg",
+      "https://img.olx.com.br/images/76/761639283680820.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780011197
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:33",
     "fotoUrl": "https://img.olx.com.br/images/15/151685404706794.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/15/151685404706794.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/28/283650288478755.jpg",
       "https://img.olx.com.br/images/31/315699886412772.jpg"
     ],
-    "defeito": false,
+    "id": "1506162372",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-ps4-1506162372",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Jogos PS4",
     "ts": 1780011187
   },
   {
@@ -10374,24 +10394,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2020",
     "titulo": "god of war ps4",
     "ts": 1779938864
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:27",
-    "fotoUrl": "https://img.olx.com.br/images/69/698690169414417.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/698690169414417.jpg"
-    ],
-    "id": "1505936165",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/batman-return-to-arkham-ps4-1505936165",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "BATMAN Return to arkham PS4",
-    "ts": 1779938856
   }
 ]
