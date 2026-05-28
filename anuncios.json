@@ -1,23 +1,43 @@
 [
   {
-    "id": "1505909948",
-    "titulo": "Resident evil 2",
-    "preco": 160,
-    "precoRaw": "R$ 160",
-    "categoria": "jogos",
+    "id": "1505910390",
+    "titulo": "Controle PS5",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "21:51",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "detectado": "21:52",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/resident-evil-2-1505909948",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/controle-ps5-1505910390",
+    "fotoUrl": "https://img.olx.com.br/images/63/639646283482488.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/639646283482488.jpg",
+      "https://img.olx.com.br/images/65/657679163259138.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779929526
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:51",
     "fotoUrl": "https://img.olx.com.br/images/18/186618282193496.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/186618282193496.jpg",
       "https://img.olx.com.br/images/20/203649884822378.jpg",
       "https://img.olx.com.br/images/22/223632285217327.jpg"
     ],
-    "defeito": false,
+    "id": "1505909948",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/resident-evil-2-1505909948",
+    "preco": 160,
+    "precoRaw": "R$ 160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Resident evil 2",
     "ts": 1779929506
   },
   {
@@ -10360,25 +10380,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "God of War - Remasterizado | PS4",
     "ts": 1779895379
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:22",
-    "fotoUrl": "https://img.olx.com.br/images/34/343502435242015.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/34/343502435242015.jpg",
-      "https://img.olx.com.br/images/34/345547310221069.jpg"
-    ],
-    "id": "1426042023",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/uncharted-4-a-thiefs-end-ps4-1426042023",
-    "preco": 45,
-    "precoRaw": "R$ 45",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Uncharted 4 - A Thiefs End | PS4",
-    "ts": 1779895367
   }
 ]
