@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506050503",
-    "titulo": "PlayStation 4 - PS4 + Jogos + Controle",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1506051284",
+    "titulo": "XBOX SERIES S",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "12:58",
-    "tempoOlx": "Na OLX desde maio de 2020",
+    "detectado": "12:59",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-ps4-jogos-controle-1506050503",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/xbox-series-s-1506051284",
+    "fotoUrl": "https://img.olx.com.br/images/27/270608525976068.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/270608525976068.jpg",
+      "https://img.olx.com.br/images/27/270676763103895.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779983976
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:58",
     "fotoUrl": "https://img.olx.com.br/images/17/173692162806753.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/173692162806753.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/21/212690765182006.jpg",
       "https://img.olx.com.br/images/22/222647408923041.jpg"
     ],
-    "defeito": false,
+    "id": "1506050503",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-ps4-jogos-controle-1506050503",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2020",
+    "titulo": "PlayStation 4 - PS4 + Jogos + Controle",
     "ts": 1779983896
   },
   {
@@ -10428,26 +10448,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "3 Jogos de Playstation 4",
     "ts": 1779915832
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:03",
-    "fotoUrl": "https://img.olx.com.br/images/42/423674407855891.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/423674407855891.jpg",
-      "https://img.olx.com.br/images/43/435668888402093.jpg",
-      "https://img.olx.com.br/images/44/446604284475457.jpg"
-    ],
-    "id": "1505857378",
-    "link": "https://to.olx.com.br/tocantins/games/consoles-de-video-game/vendo-ps3-desbloqueado-1505857378",
-    "preco": 480,
-    "precoRaw": "R$ 480",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "Vendo PS3 desbloqueado ",
-    "ts": 1779915823
   }
 ]
