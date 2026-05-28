@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506058685",
-    "titulo": "PS4",
+    "id": "1506021641",
+    "titulo": "PlayStation 4",
     "preco": 1200,
     "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:37",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "16:38",
+    "tempoOlx": "Na OLX desde junho de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1506058685",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-1506021641",
+    "fotoUrl": "https://img.olx.com.br/images/94/949661408486177.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/949661408486177.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779997083
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "16:37",
     "fotoUrl": "https://img.olx.com.br/images/35/350606405863877.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/350606405863877.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/40/403633887338093.jpg",
       "https://img.olx.com.br/images/43/436610526144525.jpg"
     ],
-    "defeito": false,
+    "id": "1506058685",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1506058685",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PS4",
     "ts": 1779997073
   },
   {
@@ -10389,28 +10408,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "Ps4 slim",
     "ts": 1779923257
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "20:07",
-    "fotoUrl": "https://img.olx.com.br/images/42/423695528257730.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/423695528257730.jpg",
-      "https://img.olx.com.br/images/43/430661404248117.jpg",
-      "https://img.olx.com.br/images/45/453637887758787.jpg",
-      "https://img.olx.com.br/images/47/473667163796815.jpg",
-      "https://img.olx.com.br/images/49/499636641162922.jpg"
-    ],
-    "id": "1505885811",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-pro-max-256gb-1505885811",
-    "preco": 4500,
-    "precoRaw": "R$ 4.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "iPhone 15 Pro Max 256gb",
-    "ts": 1779923227
   }
 ]
