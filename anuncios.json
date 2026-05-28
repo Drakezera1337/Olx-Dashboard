@@ -1,23 +1,42 @@
 [
   {
-    "id": "1505917227",
-    "titulo": "PlayStation 4 ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1505918680",
+    "titulo": "Assassins creed unity ",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "22:28",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "detectado": "22:33",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-4-1505917227",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/assassins-creed-unity-1505918680",
+    "fotoUrl": "https://img.olx.com.br/images/64/642665880210561.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/64/642665880210561.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779932018
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:28",
     "fotoUrl": "https://img.olx.com.br/images/39/395689288965909.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/395689288965909.jpg",
       "https://img.olx.com.br/images/41/416603164140476.jpg",
       "https://img.olx.com.br/images/43/434608765896177.jpg"
     ],
-    "defeito": false,
+    "id": "1505917227",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-4-1505917227",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "PlayStation 4 ",
     "ts": 1779931687
   },
   {
@@ -10370,24 +10389,5 @@
     "tempoOlx": "Na OLX desde março de 2021",
     "titulo": "Vídeo game ps3 com detalhe",
     "ts": 1779896272
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:37",
-    "fotoUrl": "https://img.olx.com.br/images/74/744655280535440.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/744655280535440.jpg"
-    ],
-    "id": "1505765675",
-    "link": "https://ro.olx.com.br/rondonia/games/consoles-de-video-game/nao-tem-o-cabo-1505765675",
-    "preco": 34,
-    "precoRaw": "R$ 34",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Não tem o cabo ",
-    "ts": 1779896262
   }
 ]
