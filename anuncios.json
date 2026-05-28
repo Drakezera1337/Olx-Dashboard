@@ -1,22 +1,43 @@
 [
   {
-    "id": "1474983767",
-    "titulo": "FIFA 17 - PS4 MÍDIA FÍSICA",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "categoria": "ps4",
+    "id": "1506151474",
+    "titulo": "iPhone 16 Pro 128gb",
+    "preco": 4800,
+    "precoRaw": "R$ 4.800",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "19:37",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "detectado": "19:40",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-128gb-1506151474",
+    "fotoUrl": "https://img.olx.com.br/images/11/119693044732440.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/119693044732440.jpg",
+      "https://img.olx.com.br/images/13/135689283804934.jpg",
+      "https://img.olx.com.br/images/14/147620768701893.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780008005
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/fifa-17-ps4-midia-fisica-1474983767",
+    "defeito": false,
+    "detectado": "19:37",
     "fotoUrl": "https://img.olx.com.br/images/41/411669014587420.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/41/411669014587420.jpg",
       "https://img.olx.com.br/images/42/424643374265296.jpg"
     ],
-    "defeito": false,
+    "id": "1474983767",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/fifa-17-ps4-midia-fisica-1474983767",
+    "preco": 30,
+    "precoRaw": "R$ 30",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "FIFA 17 - PS4 MÍDIA FÍSICA",
     "ts": 1780007852
   },
   {
@@ -10382,26 +10403,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Xbox Series S",
     "ts": 1779932625
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:43",
-    "fotoUrl": "https://img.olx.com.br/images/64/646502338672864.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/646502338672864.jpg",
-      "https://img.olx.com.br/images/67/670567218565214.jpg",
-      "https://img.olx.com.br/images/20/206542330750834.jpg"
-    ],
-    "id": "1447342502",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-portal-30-anos-colecionador-1447342502",
-    "preco": 1999,
-    "precoRaw": "R$ 1.999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2015",
-    "titulo": "PlayStation Portal 30 Anos - Colecionador ",
-    "ts": 1779932616
   }
 ]
