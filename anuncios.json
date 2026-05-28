@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505973134",
-    "titulo": "PlayStation 4",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "categoria": "ps4",
+    "id": "1505975500",
+    "titulo": "iPhone 13 128GB branco Semino",
+    "preco": 2050,
+    "precoRaw": "R$ 2.050",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "08:36",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-128gb-branco-semino-1505975500",
+    "fotoUrl": "https://img.olx.com.br/images/98/980654164096671.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/980654164096671.jpg",
+      "https://img.olx.com.br/images/10/100618042009214.jpg",
+      "https://img.olx.com.br/images/11/116687762537795.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779968187
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1505973134",
+    "defeito": false,
+    "detectado": "08:36",
     "fotoUrl": "https://img.olx.com.br/images/91/911649168072769.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/91/911649168072769.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/96/962608882487568.jpg",
       "https://img.olx.com.br/images/97/970671405043321.jpg"
     ],
-    "defeito": false,
+    "id": "1505973134",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1505973134",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "PlayStation 4",
     "ts": 1779968184
   },
   {
@@ -10380,26 +10401,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "Jogo de PlayStation 4 pro",
     "ts": 1779900639
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:50",
-    "fotoUrl": "https://img.olx.com.br/images/40/408699642883612.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/408699642883612.jpg",
-      "https://img.olx.com.br/images/42/424644647288914.jpg",
-      "https://img.olx.com.br/images/43/438606403566849.jpg"
-    ],
-    "id": "1505786173",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/shadow-of-the-colossus-ps4-1505786173",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2023",
-    "titulo": "Shadow of the colossus ps4",
-    "ts": 1779900626
   }
 ]
