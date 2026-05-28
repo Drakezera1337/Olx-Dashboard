@@ -1,16 +1,31 @@
 [
   {
-    "id": "1503959528",
-    "titulo": "Jogos de PlayStation 4 PRO",
-    "preco": 35,
-    "precoRaw": "R$ 35",
+    "id": "1506024395",
+    "titulo": "PS4 Slim 500Gb ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:45",
-    "tempoOlx": "Na OLX desde março de 2024",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-playstation-4-pro-1503959528",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-slim-500gb-1506024395",
+    "fotoUrl": "https://img.olx.com.br/images/92/921650527419334.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/921650527419334.jpg",
+      "https://img.olx.com.br/images/93/935681048965853.jpg",
+      "https://img.olx.com.br/images/95/953630402367897.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779979510
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:45",
     "fotoUrl": "https://img.olx.com.br/images/60/608682887773063.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/608682887773063.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/64/648658285862747.jpg",
       "https://img.olx.com.br/images/65/654665288530818.jpg"
     ],
-    "defeito": false,
+    "id": "1503959528",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-playstation-4-pro-1503959528",
+    "preco": 35,
+    "precoRaw": "R$ 35",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "titulo": "Jogos de PlayStation 4 PRO",
     "ts": 1779979503
   },
   {
@@ -10432,27 +10453,5 @@
     "tempoOlx": "Na OLX desde agosto de 2018",
     "titulo": "Controle Ps3 original + cabo",
     "ts": 1779914576
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:42",
-    "fotoUrl": "https://img.olx.com.br/images/70/703675521736939.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/703675521736939.jpg",
-      "https://img.olx.com.br/images/72/720629640569858.jpg",
-      "https://img.olx.com.br/images/73/737623042712155.jpg",
-      "https://img.olx.com.br/images/75/757671407060474.jpg"
-    ],
-    "id": "1505813260",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-ioystick-sem-fio-microsoft-xbox-wireless-mineral-camo-controller-series-s-e-pc-1505813260",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "Controle ioystick sem fio Microsoft Xbox Wireless Mineral Camo Controller Series S e PC",
-    "ts": 1779914566
   }
 ]
