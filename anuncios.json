@@ -1,22 +1,42 @@
 [
   {
-    "id": "1477503940",
-    "titulo": "Jogo PS4 Injustice",
-    "preco": 55,
-    "precoRaw": "R$ 55",
-    "categoria": "ps4",
+    "id": "1505915563",
+    "titulo": "iPhone 16 bateria 100%",
+    "preco": 5000,
+    "precoRaw": "R$ 5.000",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "22:15",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "detectado": "22:18",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-bateria-100-1505915563",
+    "fotoUrl": "https://img.olx.com.br/images/80/807697160430945.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/807697160430945.jpg",
+      "https://img.olx.com.br/images/82/826620404677437.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779931089
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-injustice-1477503940",
+    "defeito": false,
+    "detectado": "22:15",
     "fotoUrl": "https://img.olx.com.br/images/96/965603255208307.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/965603255208307.jpg",
       "https://img.olx.com.br/images/97/977693619282009.jpg"
     ],
-    "defeito": false,
+    "id": "1477503940",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-ps4-injustice-1477503940",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "titulo": "Jogo PS4 Injustice",
     "ts": 1779930948
   },
   {
@@ -10363,24 +10383,5 @@
     "tempoOlx": "Na OLX desde junho de 2022",
     "titulo": "Jogos de PS4 [LEIA A DESCRIÇÃO ANTES DE COMPRAR]",
     "ts": 1779896023
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:33",
-    "fotoUrl": "https://img.olx.com.br/images/95/951694522455135.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/951694522455135.jpg"
-    ],
-    "id": "1505765445",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/3-jogos-para-ps4-1505765445",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2014",
-    "titulo": "3 jogos para PS4",
-    "ts": 1779896015
   }
 ]
