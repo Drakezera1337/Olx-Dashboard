@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506105050",
-    "titulo": "PS4 Slim Sem defeitos ou avarias",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1506104831",
+    "titulo": "Call of Duty Black Ops 4",
+    "preco": 40,
+    "precoRaw": "R$ 40",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "16:39",
-    "tempoOlx": "Na OLX desde julho de 2020",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-sem-defeitos-ou-avarias-1506105050",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/call-of-duty-black-ops-4-1506104831",
+    "fotoUrl": "https://img.olx.com.br/images/76/766650044112004.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/766650044112004.jpg",
+      "https://img.olx.com.br/images/76/767675049900382.jpg",
+      "https://img.olx.com.br/images/77/773686764049389.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779997175
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "16:39",
     "fotoUrl": "https://img.olx.com.br/images/22/227646048504137.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/227646048504137.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/25/251664760054713.jpg",
       "https://img.olx.com.br/images/28/285693169345292.jpg"
     ],
-    "defeito": false,
+    "id": "1506105050",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-sem-defeitos-ou-avarias-1506105050",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2020",
+    "titulo": "PS4 Slim Sem defeitos ou avarias",
     "ts": 1779997167
   },
   {
@@ -10370,29 +10391,5 @@
     "tempoOlx": "Na OLX desde novembro de 2023",
     "titulo": "Vídeo game ",
     "ts": 1779923766
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:13",
-    "fotoUrl": "https://img.olx.com.br/images/40/409614270745039.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/409614270745039.jpg",
-      "https://img.olx.com.br/images/40/404656273383415.jpg",
-      "https://img.olx.com.br/images/40/405687397307925.jpg",
-      "https://img.olx.com.br/images/40/404602030624026.jpg",
-      "https://img.olx.com.br/images/40/408645633830299.jpg",
-      "https://img.olx.com.br/images/40/408617878420863.jpg"
-    ],
-    "id": "1497139462",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/cyberpunk-2077-day-one-edition-ps4-1497139462",
-    "preco": 130,
-    "precoRaw": "R$ 130",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
-    "titulo": "Cyberpunk 2077 Day One Edition PS4",
-    "ts": 1779923634
   }
 ]
