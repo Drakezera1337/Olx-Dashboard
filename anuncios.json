@@ -1,16 +1,30 @@
 [
   {
-    "id": "1503867718",
-    "titulo": "PlayStation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "ps4",
+    "id": "1506055147",
+    "titulo": "IPHONE 12 128 GIGAS COM NOTA FISCAL ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "13:11",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "13:12",
+    "tempoOlx": "Na OLX desde maio de 2015",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-128-gigas-com-nota-fiscal-1506055147",
+    "fotoUrl": "https://img.olx.com.br/images/96/963669888611401.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/963669888611401.jpg",
+      "https://img.olx.com.br/images/97/976685522181059.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779984727
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1503867718",
+    "defeito": false,
+    "detectado": "13:11",
     "fotoUrl": "https://img.olx.com.br/images/29/297615285988540.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/297615285988540.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/36/360618400244402.jpg",
       "https://img.olx.com.br/images/38/389661042580337.jpg"
     ],
-    "defeito": false,
+    "id": "1503867718",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1503867718",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PlayStation 4",
     "ts": 1779984698
   },
   {
@@ -10419,27 +10439,5 @@
     "tempoOlx": "Na OLX desde abril de 2019",
     "titulo": "Red Dead Redemption 2 - PS4",
     "ts": 1779917022
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:23",
-    "fotoUrl": "https://img.olx.com.br/images/56/561612405877547.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/561612405877547.jpg",
-      "https://img.olx.com.br/images/58/586685641770780.jpg",
-      "https://img.olx.com.br/images/59/590609402822526.jpg",
-      "https://img.olx.com.br/images/60/603628281738532.jpg"
-    ],
-    "id": "1505861935",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-overwatch-game-of-the-year-edition-1505861935",
-    "preco": 25,
-    "precoRaw": "R$ 25",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2013",
-    "titulo": "(PS4) Overwatch (Game of the Year Edition)",
-    "ts": 1779917014
   }
 ]
