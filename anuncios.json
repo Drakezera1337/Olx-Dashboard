@@ -1,21 +1,43 @@
 [
   {
-    "id": "1410566009",
-    "titulo": "THE WITCHER 3",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "outros",
+    "id": "1505938075",
+    "titulo": "Ps4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:45",
-    "tempoOlx": "Na OLX desde julho de 2014",
+    "detectado": "00:52",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-witcher-3-1410566009",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/ps4-1505938075",
+    "fotoUrl": "https://img.olx.com.br/images/93/932615167084264.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/932615167084264.jpg",
+      "https://img.olx.com.br/images/94/944698168165744.jpg",
+      "https://img.olx.com.br/images/96/963695289905337.jpg",
+      "https://img.olx.com.br/images/97/971675529824545.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779940327
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:45",
     "fotoUrl": "https://img.olx.com.br/images/10/104502775539812.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/104502775539812.jpg"
     ],
-    "defeito": false,
+    "id": "1410566009",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-witcher-3-1410566009",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2014",
+    "titulo": "THE WITCHER 3",
     "ts": 1779939935
   },
   {
@@ -10366,29 +10388,5 @@
     "tempoOlx": "Na OLX desde outubro de 2025",
     "titulo": "ps4 com controles e jogos ( parcelo no cartão )",
     "ts": 1779899950
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:38",
-    "fotoUrl": "https://img.olx.com.br/images/57/572683162685556.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/572683162685556.jpg",
-      "https://img.olx.com.br/images/58/583620161698579.jpg",
-      "https://img.olx.com.br/images/60/603638044120104.jpg",
-      "https://img.olx.com.br/images/61/615682763466600.jpg",
-      "https://img.olx.com.br/images/62/624654401581638.jpg",
-      "https://img.olx.com.br/images/63/635686647180986.jpg"
-    ],
-    "id": "1505782911",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/6-jogos-para-ps4-1505782911",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2016",
-    "titulo": "6 jogos para ps4 ",
-    "ts": 1779899939
   }
 ]
