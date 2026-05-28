@@ -1,22 +1,42 @@
 [
   {
-    "id": "1495521610",
-    "titulo": "PLAYSTATION 4",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1506133945",
+    "titulo": "Playstation 4 Slim",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:17",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "detectado": "18:21",
+    "tempoOlx": "Na OLX desde janeiro de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1495521610",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/playstation-4-slim-1506133945",
+    "fotoUrl": "https://img.olx.com.br/images/12/124620166967957.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/124620166967957.jpg",
+      "https://img.olx.com.br/images/13/136665885460588.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780003296
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:17",
     "fotoUrl": "https://img.olx.com.br/images/47/475621873911768.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/475621873911768.jpg",
       "https://img.olx.com.br/images/49/495659039560626.jpg"
     ],
-    "defeito": false,
+    "id": "1495521610",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1495521610",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "PLAYSTATION 4",
     "ts": 1780003025
   },
   {
@@ -10355,25 +10375,5 @@
     "tempoOlx": "Na OLX desde julho de 2024",
     "titulo": "Play 4 slim 2 controles ",
     "ts": 1779928597
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:34",
-    "fotoUrl": "https://img.olx.com.br/images/69/697640884491355.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/697640884491355.jpg",
-      "https://img.olx.com.br/images/70/706668164606653.jpg"
-    ],
-    "id": "1505907073",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-de-ps5-com-drift-no-analogico-direito-1505907073",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Controle de ps5 com drift no analógico direito ",
-    "ts": 1779928485
   }
 ]
