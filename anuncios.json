@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505923798",
-    "titulo": "Lote jogos ps4",
-    "preco": 3299,
-    "precoRaw": "R$ 3.299",
+    "id": "1505925663",
+    "titulo": "Spyro Trilogy Ps4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:04",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "23:09",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/lote-jogos-ps4-1505923798",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/spyro-trilogy-ps4-1505925663",
+    "fotoUrl": "https://img.olx.com.br/images/24/240625282087767.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/240625282087767.jpg",
+      "https://img.olx.com.br/images/25/254645404609876.jpg",
+      "https://img.olx.com.br/images/26/264629403987475.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779934176
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "23:04",
     "fotoUrl": "https://img.olx.com.br/images/12/126661162718003.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/12/126661162718003.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/17/174682164054340.jpg",
       "https://img.olx.com.br/images/18/183681520065707.jpg"
     ],
-    "defeito": false,
+    "id": "1505923798",
+    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/lote-jogos-ps4-1505923798",
+    "preco": 3299,
+    "precoRaw": "R$ 3.299",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Lote jogos ps4",
     "ts": 1779933844
   },
   {
@@ -10374,25 +10395,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2024",
     "titulo": "controle",
     "ts": 1779897699
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:57",
-    "fotoUrl": "https://img.olx.com.br/images/27/277644527460695.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/277644527460695.jpg",
-      "https://img.olx.com.br/images/28/285664048330898.jpg"
-    ],
-    "id": "1504623419",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-slim-digital-825g-1504623419",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2021",
-    "titulo": "PS5 SLIM DIGITAL 825g",
-    "ts": 1779897425
   }
 ]
