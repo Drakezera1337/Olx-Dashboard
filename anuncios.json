@@ -1,21 +1,41 @@
 [
   {
-    "id": "1506064118",
-    "titulo": "Play 4",
-    "preco": 980,
-    "precoRaw": "R$ 980",
-    "categoria": "outros",
+    "id": "1506064120",
+    "titulo": "Jogos de Ps4 ",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "13:51",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "13:53",
+    "tempoOlx": "Na OLX desde agosto de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-4-1506064118",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1506064120",
+    "fotoUrl": "https://img.olx.com.br/images/49/493680760874235.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/493680760874235.jpg",
+      "https://img.olx.com.br/images/51/513618289357730.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779987189
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:51",
     "fotoUrl": "https://img.olx.com.br/images/96/968654164469959.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/968654164469959.jpg"
     ],
-    "defeito": false,
+    "id": "1506064118",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/play-4-1506064118",
+    "preco": 980,
+    "precoRaw": "R$ 980",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Play 4",
     "ts": 1779987066
   },
   {
@@ -10402,27 +10422,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Jogo Gran turismo ",
     "ts": 1779918795
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:53",
-    "fotoUrl": "https://img.olx.com.br/images/96/961674280943499.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/96/961674280943499.jpg",
-      "https://img.olx.com.br/images/97/971690641470671.jpg",
-      "https://img.olx.com.br/images/97/979615643855386.jpg",
-      "https://img.olx.com.br/images/98/983646646092186.jpg"
-    ],
-    "id": "1505868370",
-    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/consoles-de-video-game/dualsese-ps5-lacrado-1505868370",
-    "preco": 385,
-    "precoRaw": "R$ 385",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Dualsese ps5 lacrado",
-    "ts": 1779918787
   }
 ]
