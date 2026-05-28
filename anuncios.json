@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506136931",
-    "titulo": "Ps3",
-    "preco": 480,
-    "precoRaw": "R$ 480",
-    "categoria": "ps3",
+    "id": "1506137129",
+    "titulo": "COMBO 2 JOGOS PS4 POR 100 REAIS",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:33",
-    "tempoOlx": "Na OLX desde abril de 2018",
+    "detectado": "18:37",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-1506136931",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/combo-2-jogos-ps4-por-100-reais-1506137129",
+    "fotoUrl": "https://img.olx.com.br/images/29/293600648514024.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/293600648514024.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780004226
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/11/116621760870244.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/116621760870244.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/12/123681767999026.jpg",
       "https://img.olx.com.br/images/12/125622042223137.jpg"
     ],
-    "defeito": false,
+    "id": "1506136931",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-1506136931",
+    "preco": 480,
+    "precoRaw": "R$ 480",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2018",
+    "titulo": "Ps3",
     "ts": 1780004033
   },
   {
@@ -10360,24 +10379,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "Spyro Reignited Trilogy - Ps4",
     "ts": 1779929478
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:51",
-    "fotoUrl": "https://img.olx.com.br/images/31/313661289564509.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/313661289564509.jpg"
-    ],
-    "id": "1505910609",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/lote-com-19-jogos-de-ps4-testados-em-otimo-estado-1505910609",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Lote com 19 jogos de ps4 - testados em ótimo estado ",
-    "ts": 1779929468
   }
 ]
