@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506156118",
-    "titulo": "Nintendo DSi",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "categoria": "switch",
+    "id": "1419283681",
+    "titulo": "Watch Dogs Legion - PS4 e PS5 - Seminovo",
+    "preco": 65,
+    "precoRaw": "R$ 65",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "20:05",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde maio de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/nintendo-dsi-1506156118",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/watch-dogs-legion-ps4-e-ps5-seminovo-1419283681",
+    "fotoUrl": "https://img.olx.com.br/images/31/313547662992366.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/313547662992366.jpg",
+      "https://img.olx.com.br/images/32/321545780067720.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780009538
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:05",
     "fotoUrl": "https://img.olx.com.br/images/58/589688409017043.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/589688409017043.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/61/619676760304096.jpg",
       "https://img.olx.com.br/images/62/623673409143902.jpg"
     ],
-    "defeito": false,
+    "id": "1506156118",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/nintendo-dsi-1506156118",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Nintendo DSi",
     "ts": 1780009507
   },
   {
@@ -10384,26 +10404,5 @@
     "tempoOlx": "Na OLX desde março de 2021",
     "titulo": "Pes 2021 para PS4/PS5",
     "ts": 1779934212
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "23:10",
-    "fotoUrl": "https://img.olx.com.br/images/93/939640284594341.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/939640284594341.jpg",
-      "https://img.olx.com.br/images/95/957679401690613.jpg",
-      "https://img.olx.com.br/images/96/967610763920000.jpg"
-    ],
-    "id": "1505925130",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/crash-bandicoot-4-ps4-1505925130",
-    "preco": 240,
-    "precoRaw": "R$ 240",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Crash bandicoot 4 Ps4",
-    "ts": 1779934203
   }
 ]
