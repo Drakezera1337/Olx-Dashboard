@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506067267",
-    "titulo": "Nintendo Switch V2",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "categoria": "switch",
+    "id": "1506068947",
+    "titulo": "Warrios Orochi 3 Ultimate PS4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:05",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "detectado": "14:10",
+    "tempoOlx": "Na OLX desde setembro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-v2-1506067267",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/warrios-orochi-3-ultimate-ps4-1506068947",
+    "fotoUrl": "https://img.olx.com.br/images/72/727697164365610.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/727697164365610.jpg",
+      "https://img.olx.com.br/images/72/728641286763447.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779988210
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:05",
     "fotoUrl": "https://img.olx.com.br/images/10/108620642578143.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/108620642578143.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/15/150606881847179.jpg",
       "https://img.olx.com.br/images/17/172692769993563.jpg"
     ],
-    "defeito": false,
+    "id": "1506067267",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-v2-1506067267",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Nintendo Switch V2",
     "ts": 1779987907
   },
   {
@@ -10404,24 +10424,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "? game ",
     "ts": 1779920077
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:11",
-    "fotoUrl": "https://img.olx.com.br/images/52/524667641927378.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/52/524667641927378.jpg"
-    ],
-    "id": "1505870906",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/ps4-500gb-1505870906",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2025",
-    "titulo": "Ps4 500gb",
-    "ts": 1779919873
   }
 ]
