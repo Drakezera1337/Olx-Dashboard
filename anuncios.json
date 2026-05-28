@@ -1,22 +1,43 @@
 [
   {
-    "id": "1506061042",
-    "titulo": "Uncharted 4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "jogos",
+    "id": "1506061481",
+    "titulo": "Jogos de ps4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:42",
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/uncharted-4-1506061042",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/jogos-de-ps4-1506061481",
+    "fotoUrl": "https://img.olx.com.br/images/86/862628160733379.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/862628160733379.jpg",
+      "https://img.olx.com.br/images/88/885640401662602.jpg",
+      "https://img.olx.com.br/images/89/891689649403188.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779986540
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:42",
     "fotoUrl": "https://img.olx.com.br/images/35/353659401342737.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/353659401342737.jpg",
       "https://img.olx.com.br/images/38/380649281770609.jpg"
     ],
-    "defeito": false,
+    "id": "1506061042",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/uncharted-4-1506061042",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Uncharted 4",
     "ts": 1779986530
   },
   {
@@ -10409,26 +10430,5 @@
     "tempoOlx": "Na OLX desde junho de 2023",
     "titulo": "Xbox Series S",
     "ts": 1779918637
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "18:46",
-    "fotoUrl": "https://img.olx.com.br/images/63/637647169771470.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/63/637647169771470.jpg",
-      "https://img.olx.com.br/images/65/659663528359992.jpg",
-      "https://img.olx.com.br/images/67/677608284376530.jpg"
-    ],
-    "id": "1505866597",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/vendo-dock-de-switch-oled-1505866597",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "vendo dock de switch OLED ",
-    "ts": 1779918396
   }
 ]
