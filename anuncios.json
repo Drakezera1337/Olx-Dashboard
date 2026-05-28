@@ -1,23 +1,44 @@
 [
   {
-    "id": "1506104689",
-    "titulo": "Nintendo switch ",
-    "preco": 800,
-    "precoRaw": "R$ 800",
+    "id": "1504180430",
+    "titulo": "Switch Lite",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "switch",
     "publicado": "",
     "detectado": "16:39",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "tempoOlx": "Na OLX desde agosto de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/nintendo-switch-1506104689",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/switch-lite-1504180430",
+    "fotoUrl": "https://img.olx.com.br/images/96/963646046835168.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/963646046835168.jpg",
+      "https://img.olx.com.br/images/98/988690288070584.jpg",
+      "https://img.olx.com.br/images/99/993628282575064.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779997157
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "16:39",
     "fotoUrl": "https://img.olx.com.br/images/95/953694164389750.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/953694164389750.jpg",
       "https://img.olx.com.br/images/97/975602523300305.jpg",
       "https://img.olx.com.br/images/99/997625885919568.jpg"
     ],
-    "defeito": false,
+    "id": "1506104689",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/nintendo-switch-1506104689",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "titulo": "Nintendo switch ",
     "ts": 1779997150
   },
   {
@@ -10372,25 +10393,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "Resident Evil 2 Remake PS4",
     "ts": 1779923626
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:13",
-    "fotoUrl": "https://img.olx.com.br/images/27/270686529848137.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/270686529848137.jpg",
-      "https://img.olx.com.br/images/28/284669162313460.jpg"
-    ],
-    "id": "1505886883",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-gta-v-ps4-1505886883",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2024",
-    "titulo": "Jogo GTA V PS4 ",
-    "ts": 1779923615
   }
 ]
