@@ -1,16 +1,32 @@
 [
   {
-    "id": "1505929019",
-    "titulo": "Nintendo 3ds old",
-    "preco": 650,
-    "precoRaw": "R$ 650",
-    "categoria": "switch",
+    "id": "1505929759",
+    "titulo": "PS4 Novinho ",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:37",
-    "tempoOlx": "Na OLX desde abril de 2025",
+    "detectado": "23:39",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/ps4-novinho-1505929759",
+    "fotoUrl": "https://img.olx.com.br/images/35/358647403864196.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/35/358647403864196.jpg",
+      "https://img.olx.com.br/images/36/365619529672517.jpg",
+      "https://img.olx.com.br/images/37/373646284640082.jpg",
+      "https://img.olx.com.br/images/39/392615523160271.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779935977
+  },
+  {
+    "categoria": "switch",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-3ds-old-1505929019",
+    "defeito": false,
+    "detectado": "23:37",
     "fotoUrl": "https://img.olx.com.br/images/25/251667408081834.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/25/251667408081834.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/29/290679280945895.jpg",
       "https://img.olx.com.br/images/31/315693167102856.jpg"
     ],
-    "defeito": false,
+    "id": "1505929019",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-3ds-old-1505929019",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2025",
+    "titulo": "Nintendo 3ds old",
     "ts": 1779935856
   },
   {
@@ -10374,26 +10396,5 @@
     "tempoOlx": "Na OLX desde agosto de 2016",
     "titulo": "Xbox Series S",
     "ts": 1779898957
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:20",
-    "fotoUrl": "https://img.olx.com.br/images/87/877653525752200.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/877653525752200.jpg",
-      "https://img.olx.com.br/images/88/889659523316021.jpg",
-      "https://img.olx.com.br/images/90/902632404950816.jpg"
-    ],
-    "id": "1505777037",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-playstation-4-1505777037",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
-    "titulo": "Jogos ps4 PlayStation 4",
-    "ts": 1779898836
   }
 ]
