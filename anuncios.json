@@ -1,23 +1,45 @@
 [
   {
-    "id": "1506155444",
-    "titulo": "Dance Dance revolution",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "outros",
+    "id": "1506156118",
+    "titulo": "Nintendo DSi",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "20:00",
-    "tempoOlx": "",
+    "detectado": "20:05",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dance-dance-revolution-1506155444",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/nintendo-dsi-1506156118",
+    "fotoUrl": "https://img.olx.com.br/images/58/589688409017043.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/589688409017043.jpg",
+      "https://img.olx.com.br/images/59/595678280082269.jpg",
+      "https://img.olx.com.br/images/61/619676760304096.jpg",
+      "https://img.olx.com.br/images/62/623673409143902.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780009507
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:00",
     "fotoUrl": "https://img.olx.com.br/images/31/318640526171655.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/318640526171655.jpg",
       "https://img.olx.com.br/images/33/337629766464950.jpg",
       "https://img.olx.com.br/images/35/355623764140466.jpg"
     ],
-    "defeito": false,
+    "id": "1506155444",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dance-dance-revolution-1506155444",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Dance Dance revolution",
     "ts": 1780009232
   },
   {
@@ -10383,26 +10405,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Crash bandicoot 4 Ps4",
     "ts": 1779934203
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "23:09",
-    "fotoUrl": "https://img.olx.com.br/images/69/694659285389292.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/694659285389292.jpg",
-      "https://img.olx.com.br/images/70/708605163195316.jpg",
-      "https://img.olx.com.br/images/71/715668761286398.jpg"
-    ],
-    "id": "1505925405",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/crash-bandicoot-trilogy-ps4-1505925405",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Crash bandicoot Trilogy Ps4",
-    "ts": 1779934193
   }
 ]
