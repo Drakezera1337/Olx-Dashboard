@@ -1,22 +1,42 @@
 [
   {
-    "id": "1506056281",
-    "titulo": "UFC 2 PS4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1506056025",
+    "titulo": "Scarlet Nexus",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "13:20",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ufc-2-ps4-1506056281",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/scarlet-nexus-1506056025",
+    "fotoUrl": "https://img.olx.com.br/images/93/932606168067977.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/932606168067977.jpg",
+      "https://img.olx.com.br/images/98/986661640364804.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779985225
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:20",
     "fotoUrl": "https://img.olx.com.br/images/99/996690164707753.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/99/996690164707753.jpg",
       "https://img.olx.com.br/images/10/103605288498950.jpg"
     ],
-    "defeito": false,
+    "id": "1506056281",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ufc-2-ps4-1506056281",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "UFC 2 PS4",
     "ts": 1779985216
   },
   {
@@ -10415,25 +10435,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Ghost of tsushima Versão do Diretor LACRADO - PS4",
     "ts": 1779917974
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "18:35",
-    "fotoUrl": "https://img.olx.com.br/images/28/280615642408183.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/280615642408183.jpg",
-      "https://img.olx.com.br/images/30/305672169682975.jpg"
-    ],
-    "id": "1505864115",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1505864115",
-    "preco": 3000,
-    "precoRaw": "R$ 3.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "iPhone 14",
-    "ts": 1779917736
   }
 ]
