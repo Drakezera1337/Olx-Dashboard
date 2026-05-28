@@ -1,16 +1,31 @@
 [
   {
-    "id": "1505985032",
-    "titulo": "Vendo ps3 ",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps3",
+    "id": "1389188238",
+    "titulo": "Controle pro Nintendo Switch ",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "11:44",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vendo-ps3-1505985032",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/controle-pro-nintendo-switch-1389188238",
+    "fotoUrl": "https://img.olx.com.br/images/90/908523620712846.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/908523620712846.jpg",
+      "https://img.olx.com.br/images/90/907532260966055.jpg",
+      "https://img.olx.com.br/images/91/915524621556082.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779979473
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:44",
     "fotoUrl": "https://img.olx.com.br/images/88/882673407884638.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/88/882673407884638.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/93/939607169067929.jpg",
       "https://img.olx.com.br/images/94/945624407076078.jpg"
     ],
-    "defeito": false,
+    "id": "1505985032",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vendo-ps3-1505985032",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "titulo": "Vendo ps3 ",
     "ts": 1779979466
   },
   {
@@ -10436,24 +10457,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Controle Xbox séries S",
     "ts": 1779914532
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:42",
-    "fotoUrl": "https://img.olx.com.br/images/19/190677640381434.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/190677640381434.jpg"
-    ],
-    "id": "1505840052",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/controle-xbox-phantom-black-1505840052",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Controle xbox Phantom black ",
-    "ts": 1779914525
   }
 ]
