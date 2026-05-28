@@ -1,21 +1,40 @@
 [
   {
-    "id": "1505910860",
-    "titulo": "Controle Arcade 8bitdo para Xbox ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "xbox",
+    "id": "1505911972",
+    "titulo": "Unchartd 4 ps4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:55",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "21:57",
+    "tempoOlx": "Na OLX desde setembro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-arcade-8bitdo-para-xbox-1505910860",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/unchartd-4-ps4-1505911972",
+    "fotoUrl": "https://img.olx.com.br/images/67/672673283987166.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/672673283987166.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779929828
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:55",
     "fotoUrl": "https://img.olx.com.br/images/50/504648160224007.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/504648160224007.jpg"
     ],
-    "defeito": false,
+    "id": "1505910860",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-arcade-8bitdo-para-xbox-1505910860",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Controle Arcade 8bitdo para Xbox ",
     "ts": 1779929708
   },
   {
@@ -10357,27 +10376,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2018",
     "titulo": "PlayStation 3 ",
     "ts": 1779895517
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:25",
-    "fotoUrl": "https://img.olx.com.br/images/32/327616286550636.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/327616286550636.jpg",
-      "https://img.olx.com.br/images/33/337686169011465.jpg",
-      "https://img.olx.com.br/images/34/340619288952558.jpg",
-      "https://img.olx.com.br/images/36/369698529085205.jpg"
-    ],
-    "id": "1505762948",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps5-novo-1505762948",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Ps5 Novo",
-    "ts": 1779895509
   }
 ]
