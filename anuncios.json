@@ -1,23 +1,44 @@
 [
   {
-    "id": "1455895555",
-    "titulo": "Grand Theft Auto 5 / GTA V",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "jogos",
+    "id": "1506096788",
+    "titulo": "Jogos Playstation 4 a partir de R$50",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:40",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "16:41",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/grand-theft-auto-5-gta-v-1455895555",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-playstation-4-a-partir-de-r-50-1506096788",
+    "fotoUrl": "https://img.olx.com.br/images/13/138685409369156.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/138685409369156.jpg",
+      "https://img.olx.com.br/images/15/159647400382033.jpg",
+      "https://img.olx.com.br/images/17/173665287110502.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779997262
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "16:40",
     "fotoUrl": "https://img.olx.com.br/images/47/476574226707112.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/47/476574226707112.jpg",
       "https://img.olx.com.br/images/49/495527828298406.jpg",
       "https://img.olx.com.br/images/52/526537824077141.jpg"
     ],
-    "defeito": false,
+    "id": "1455895555",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/grand-theft-auto-5-gta-v-1455895555",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "Grand Theft Auto 5 / GTA V",
     "ts": 1779997255
   },
   {
@@ -10360,29 +10381,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Playstation 4 Slim com Defeito na fonte ",
     "ts": 1779924215
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:21",
-    "fotoUrl": "https://img.olx.com.br/images/14/141656764929174.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/141656764929174.jpg",
-      "https://img.olx.com.br/images/16/160663882760934.jpg",
-      "https://img.olx.com.br/images/17/178630404330349.jpg",
-      "https://img.olx.com.br/images/18/181662520437729.jpg",
-      "https://img.olx.com.br/images/20/209664281185261.jpg",
-      "https://img.olx.com.br/images/21/217640524340279.jpg"
-    ],
-    "id": "1505888548",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/playstation-3-slim-120gb-cech-2501a-c-defeito-1505888548",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "PlayStation 3 Slim - 120GB (CECH-2501A c/ Defeito)",
-    "ts": 1779924095
   }
 ]
