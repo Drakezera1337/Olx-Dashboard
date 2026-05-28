@@ -1,21 +1,43 @@
 [
   {
-    "id": "1505979666",
-    "titulo": "PS4 (Playstation 4)",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "ps4",
+    "id": "1505982324",
+    "titulo": "PLAYSTATION 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "09:02",
-    "tempoOlx": "Na OLX desde março de 2023",
+    "detectado": "09:03",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-playstation-4-1505979666",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-5-1505982324",
+    "fotoUrl": "https://img.olx.com.br/images/49/492641401441060.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/492641401441060.jpg",
+      "https://img.olx.com.br/images/52/529615649590054.jpg",
+      "https://img.olx.com.br/images/53/531655647595956.jpg",
+      "https://img.olx.com.br/images/55/559672528138535.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779969817
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "09:02",
     "fotoUrl": "https://img.olx.com.br/images/57/572668521677732.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/572668521677732.jpg"
     ],
-    "defeito": false,
+    "id": "1505979666",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/ps4-playstation-4-1505979666",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "titulo": "PS4 (Playstation 4)",
     "ts": 1779969754
   },
   {
@@ -10416,25 +10438,5 @@
     "tempoOlx": "Na OLX desde junho de 2022",
     "titulo": "Ps4 com defeito (para peças)",
     "ts": 1779914301
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:38",
-    "fotoUrl": "https://img.olx.com.br/images/61/615582660936324.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/61/615582660936324.jpg",
-      "https://img.olx.com.br/images/65/650501300873091.jpg"
-    ],
-    "id": "1422923884",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/call-of-duty-black-ops-4-ps4-1422923884",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Call of Duty Black Ops 4 - PS4",
-    "ts": 1779914294
   }
 ]
