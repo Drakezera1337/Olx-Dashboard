@@ -1,22 +1,42 @@
 [
   {
-    "id": "1506060033",
-    "titulo": "Horizon Zero Dawn ",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1455802286",
+    "titulo": "Resident Evil 8 Village PS4/PS5",
+    "preco": 130,
+    "precoRaw": "R$ 130",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "13:36",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-1506060033",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/resident-evil-8-village-ps4-ps5-1455802286",
+    "fotoUrl": "https://img.olx.com.br/images/76/763641391911841.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/763641391911841.jpg",
+      "https://img.olx.com.br/images/79/791692759323609.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779986201
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:36",
     "fotoUrl": "https://img.olx.com.br/images/16/166633640212890.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/166633640212890.jpg",
       "https://img.olx.com.br/images/17/170608400114133.jpg"
     ],
-    "defeito": false,
+    "id": "1506060033",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-1506060033",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Horizon Zero Dawn ",
     "ts": 1779986192
   },
   {
@@ -10413,25 +10433,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Infamous Second Son LACRADO - PS4",
     "ts": 1779918337
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:45",
-    "fotoUrl": "https://img.olx.com.br/images/20/201606758836066.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/201606758836066.jpg",
-      "https://img.olx.com.br/images/21/217672398900300.jpg"
-    ],
-    "id": "1479186800",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/jogos-de-video-game/titanfall-2-ps4-1479186800",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "TITANFALL 2 - PS4",
-    "ts": 1779918327
   }
 ]
