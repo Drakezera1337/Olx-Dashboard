@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505982324",
-    "titulo": "PLAYSTATION 5",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1505982217",
+    "titulo": "Video game PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "09:03",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "09:09",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-5-1505982324",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/video-game-ps4-1505982217",
+    "fotoUrl": "https://img.olx.com.br/images/67/670692520804844.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/670692520804844.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779970148
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "09:03",
     "fotoUrl": "https://img.olx.com.br/images/49/492641401441060.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/492641401441060.jpg",
@@ -18,7 +31,13 @@
       "https://img.olx.com.br/images/53/531655647595956.jpg",
       "https://img.olx.com.br/images/55/559672528138535.jpg"
     ],
-    "defeito": false,
+    "id": "1505982324",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/playstation-5-1505982324",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "PLAYSTATION 5",
     "ts": 1779969817
   },
   {
@@ -10419,24 +10438,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Ps4 Branco zero",
     "ts": 1779914310
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:38",
-    "fotoUrl": "https://img.olx.com.br/images/20/203610162024175.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/20/203610162024175.jpg"
-    ],
-    "id": "1505848933",
-    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/consoles-de-video-game/ps4-com-defeito-para-pecas-1505848933",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2022",
-    "titulo": "Ps4 com defeito (para peças)",
-    "ts": 1779914301
   }
 ]
