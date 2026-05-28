@@ -1,23 +1,47 @@
 [
   {
-    "id": "1505915556",
-    "titulo": "Playstation 4 500GB ",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "ps4",
+    "id": "1505917568",
+    "titulo": "Play 3 usado",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "22:22",
-    "tempoOlx": "Na OLX desde junho de 2023",
+    "detectado": "22:27",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-500gb-1505915556",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/play-3-usado-1505917568",
+    "fotoUrl": "https://img.olx.com.br/images/75/758642160092047.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/75/758642160092047.jpg",
+      "https://img.olx.com.br/images/75/753694168628572.jpg",
+      "https://img.olx.com.br/images/75/755630164010411.jpg",
+      "https://img.olx.com.br/images/75/751687646841925.jpg",
+      "https://img.olx.com.br/images/75/753674643269729.jpg",
+      "https://img.olx.com.br/images/75/755674403908995.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779931658
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:22",
     "fotoUrl": "https://img.olx.com.br/images/10/100665167181231.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/100665167181231.jpg",
       "https://img.olx.com.br/images/12/125691403635911.jpg",
       "https://img.olx.com.br/images/15/152677285137104.jpg"
     ],
-    "defeito": false,
+    "id": "1505915556",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-500gb-1505915556",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2023",
+    "titulo": "Playstation 4 500GB ",
     "ts": 1779931328
   },
   {
@@ -10363,26 +10387,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2014",
     "titulo": "Controle XBOX",
     "ts": 1779896207
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:36",
-    "fotoUrl": "https://img.olx.com.br/images/73/733658169807454.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/73/733658169807454.jpg",
-      "https://img.olx.com.br/images/75/751695049310680.jpg",
-      "https://img.olx.com.br/images/76/760663526571581.jpg"
-    ],
-    "id": "1505766498",
-    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/xbox-series-s-1505766498",
-    "preco": 1499,
-    "precoRaw": "R$ 1.499",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "Xbox Séries S",
-    "ts": 1779896199
   }
 ]
