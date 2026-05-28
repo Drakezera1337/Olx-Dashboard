@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506143018",
-    "titulo": "Controle Nintendo 64 Switch Online",
-    "preco": 770,
-    "precoRaw": "R$ 770",
-    "categoria": "switch",
+    "id": "1506144769",
+    "titulo": "Cyberpunk 2077 - PlayStation 4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:03",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "19:09",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-nintendo-64-switch-online-1506143018",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/cyberpunk-2077-playstation-4-1506144769",
+    "fotoUrl": "https://img.olx.com.br/images/60/609657644790337.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/60/609657644790337.jpg",
+      "https://img.olx.com.br/images/61/611674889863477.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780006146
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:03",
     "fotoUrl": "https://img.olx.com.br/images/85/856649401489667.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/856649401489667.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/85/857683169196826.jpg",
       "https://img.olx.com.br/images/85/859613404499660.jpg"
     ],
-    "defeito": false,
+    "id": "1506143018",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-nintendo-64-switch-online-1506143018",
+    "preco": 770,
+    "precoRaw": "R$ 770",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Controle Nintendo 64 Switch Online",
     "ts": 1780005826
   },
   {
@@ -10375,29 +10395,5 @@
     "tempoOlx": "Na OLX desde agosto de 2016",
     "titulo": "Xbox one séries s",
     "ts": 1779930817
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:04",
-    "fotoUrl": "https://img.olx.com.br/images/76/767694889065230.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/767694889065230.jpg",
-      "https://img.olx.com.br/images/79/790643163473336.jpg",
-      "https://img.olx.com.br/images/82/822651769565506.jpg",
-      "https://img.olx.com.br/images/84/847613286509293.jpg",
-      "https://img.olx.com.br/images/86/861651641346658.jpg",
-      "https://img.olx.com.br/images/88/881672407380930.jpg"
-    ],
-    "id": "1505912205",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-de-ps4-1505912205",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2025",
-    "titulo": "controle de ps4",
-    "ts": 1779930249
   }
 ]
