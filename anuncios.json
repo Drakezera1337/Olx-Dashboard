@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506058511",
-    "titulo": "Ps4 slim de 1tb",
-    "preco": 1389,
-    "precoRaw": "R$ 1.389",
-    "categoria": "ps4",
+    "id": "1506060350",
+    "titulo": "Ghost Recon Breakpoint",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "13:31",
-    "tempoOlx": "Na OLX desde agosto de 2023",
+    "detectado": "13:36",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ghost-recon-breakpoint-1506060350",
+    "fotoUrl": "https://img.olx.com.br/images/22/223642166218009.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/223642166218009.jpg",
+      "https://img.olx.com.br/images/24/248688524842192.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779986167
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-de-1tb-1506058511",
+    "defeito": false,
+    "detectado": "13:31",
     "fotoUrl": "https://img.olx.com.br/images/64/642606407528834.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/642606407528834.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/70/701610289910043.jpg",
       "https://img.olx.com.br/images/72/725697281398003.jpg"
     ],
-    "defeito": false,
+    "id": "1506058511",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-de-1tb-1506058511",
+    "preco": 1389,
+    "precoRaw": "R$ 1.389",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2023",
+    "titulo": "Ps4 slim de 1tb",
     "ts": 1779985896
   },
   {
@@ -10419,24 +10439,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2018",
     "titulo": "Controle de ps4 acompanha capinha ",
     "ts": 1779918066
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:40",
-    "fotoUrl": "https://img.olx.com.br/images/26/268663889045020.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/268663889045020.jpg"
-    ],
-    "id": "1505865100",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-edicao-colecionador-glacier-white-1505865100",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Ps4 edição colecionador glacier white ",
-    "ts": 1779918026
   }
 ]
