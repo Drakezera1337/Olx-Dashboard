@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506077914",
-    "titulo": "VIDEO GAME XBOX SERIE S ",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1506079061",
+    "titulo": "Resident Evil VII - PS4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:48",
-    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "detectado": "14:51",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/video-game-xbox-serie-s-1506077914",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/resident-evil-vii-ps4-1506079061",
+    "fotoUrl": "https://img.olx.com.br/images/74/748666527337579.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/748666527337579.jpg",
+      "https://img.olx.com.br/images/77/771688044834264.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779990695
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:48",
     "fotoUrl": "https://img.olx.com.br/images/75/756688286503671.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/756688286503671.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/74/740634280255845.jpg",
       "https://img.olx.com.br/images/74/749624880644252.jpg"
     ],
-    "defeito": false,
+    "id": "1506077914",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/video-game-xbox-serie-s-1506077914",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2016",
+    "titulo": "VIDEO GAME XBOX SERIE S ",
     "ts": 1779990486
   },
   {
@@ -10391,25 +10411,5 @@
     "tempoOlx": "Na OLX desde novembro de 2025",
     "titulo": "21 jogos de ps4, lote incrível ",
     "ts": 1779922266
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:49",
-    "fotoUrl": "https://img.olx.com.br/images/89/894607643262238.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/894607643262238.jpg",
-      "https://img.olx.com.br/images/90/909605286472643.jpg"
-    ],
-    "id": "1505882226",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-sem-controle-1505882226",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2023",
-    "titulo": "Xbox Séries S sem controle",
-    "ts": 1779922146
   }
 ]
