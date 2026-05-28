@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506042207",
-    "titulo": "PlayStation 4",
-    "preco": 1120,
-    "precoRaw": "R$ 1.120",
+    "id": "1506043166",
+    "titulo": "Ps4 ",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:40",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "detectado": "12:41",
+    "tempoOlx": "Na OLX desde junho de 2019",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1506043166",
+    "fotoUrl": "https://img.olx.com.br/images/68/686631284347703.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/686631284347703.jpg",
+      "https://img.olx.com.br/images/70/700661285643887.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779982897
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1506042207",
+    "defeito": false,
+    "detectado": "12:40",
     "fotoUrl": "https://img.olx.com.br/images/29/295693047946164.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/295693047946164.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/34/342626283838262.jpg",
       "https://img.olx.com.br/images/35/358698645435871.jpg"
     ],
-    "defeito": false,
+    "id": "1506042207",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-1506042207",
+    "preco": 1120,
+    "precoRaw": "R$ 1.120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "PlayStation 4",
     "ts": 1779982836
   },
   {
@@ -10430,27 +10450,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "ps3 fat ( não funciona ) ",
     "ts": 1779915166
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:52",
-    "fotoUrl": "https://img.olx.com.br/images/45/456665520872186.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/45/456665520872186.jpg",
-      "https://img.olx.com.br/images/45/451687043474400.jpg",
-      "https://img.olx.com.br/images/45/457614166387286.jpg",
-      "https://img.olx.com.br/images/46/464622768474683.jpg"
-    ],
-    "id": "1505836672",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/video-game-1505836672",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2020",
-    "titulo": "Video game ",
-    "ts": 1779915158
   }
 ]
