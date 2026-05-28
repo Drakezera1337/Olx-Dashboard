@@ -1,21 +1,42 @@
 [
   {
-    "id": "1506021892",
-    "titulo": "XBOX S ",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "categoria": "xbox",
+    "id": "1506012926",
+    "titulo": "Ps3 com defeito ",
+    "preco": 299,
+    "precoRaw": "R$ 299",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "11:43",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-s-1506021892",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-com-defeito-1506012926",
+    "fotoUrl": "https://img.olx.com.br/images/43/437674406286374.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/437674406286374.jpg",
+      "https://img.olx.com.br/images/44/446673286584599.jpg",
+      "https://img.olx.com.br/images/46/461688889288738.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779979434
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:43",
     "fotoUrl": "https://img.olx.com.br/images/87/872656525084187.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/872656525084187.jpg"
     ],
-    "defeito": false,
+    "id": "1506021892",
+    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-s-1506021892",
+    "preco": 600,
+    "precoRaw": "R$ 600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "XBOX S ",
     "ts": 1779979425
   },
   {
@@ -10429,27 +10450,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Xbox com defeito na ventoinha ",
     "ts": 1779914493
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:41",
-    "fotoUrl": "https://img.olx.com.br/images/91/910685760995066.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/910685760995066.jpg",
-      "https://img.olx.com.br/images/98/988621402886739.jpg",
-      "https://img.olx.com.br/images/15/158641527788582.jpg",
-      "https://img.olx.com.br/images/26/267625283593665.jpg"
-    ],
-    "id": "1505166442",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-1505166442",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2020",
-    "titulo": "Playstation 4 Slim 500GB",
-    "ts": 1779914485
   }
 ]
