@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505971005",
-    "titulo": "Xbox série s ",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "xbox",
+    "id": "1505973178",
+    "titulo": "Vender coisas boas com preço bom e de qualidade ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "08:37",
-    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/xbox-serie-s-1505971005",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vender-coisas-boas-com-preco-bom-e-de-qualidade-1505973178",
+    "fotoUrl": "https://img.olx.com.br/images/24/245683402249674.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/245683402249674.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779968253
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "08:37",
     "fotoUrl": "https://img.olx.com.br/images/45/458687280215182.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/458687280215182.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/48/486696043736712.jpg",
       "https://img.olx.com.br/images/49/491632285974961.jpg"
     ],
-    "defeito": false,
+    "id": "1505971005",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/xbox-serie-s-1505971005",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2026",
+    "titulo": "Xbox série s ",
     "ts": 1779968246
   },
   {
@@ -10396,24 +10415,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "Play Station 4",
     "ts": 1779901187
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:59",
-    "fotoUrl": "https://img.olx.com.br/images/80/806612648784039.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/806612648784039.jpg"
-    ],
-    "id": "1505788929",
-    "link": "https://ba.olx.com.br/grande-salvador/games/consoles-de-video-game/sony-playstation-4-ps4-slim-500gb-1-controles-1505788929",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2022",
-    "titulo": "Sony Playstation 4 Ps4 Slim 500gb +1 Controles",
-    "ts": 1779901177
   }
 ]
