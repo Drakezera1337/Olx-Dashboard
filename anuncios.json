@@ -1,16 +1,29 @@
 [
   {
-    "id": "1505936510",
-    "titulo": "PlayStation 4 Slim 500GB + Jogos",
-    "preco": 1160,
-    "precoRaw": "R$ 1.160",
-    "categoria": "ps4",
+    "id": "1505936995",
+    "titulo": "Uncharted Lost legacy + Uncharted 4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "00:34",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "detectado": "00:39",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-4-slim-500gb-jogos-1505936510",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/uncharted-lost-legacy-uncharted-4-1505936995",
+    "fotoUrl": "https://img.olx.com.br/images/96/968607046872406.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/968607046872406.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779939574
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:34",
     "fotoUrl": "https://img.olx.com.br/images/13/138672645778566.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/138672645778566.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/19/195623283282120.jpg",
       "https://img.olx.com.br/images/20/202601404431159.jpg"
     ],
-    "defeito": false,
+    "id": "1505936510",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/playstation-4-slim-500gb-jogos-1505936510",
+    "preco": 1160,
+    "precoRaw": "R$ 1.160",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "PlayStation 4 Slim 500GB + Jogos",
     "ts": 1779939287
   },
   {
@@ -10376,25 +10395,5 @@
     "tempoOlx": "Na OLX desde maio de 2019",
     "titulo": "Jogos PS4 Originais - COD WWII + PES 2018 + Mortal Kombat XL",
     "ts": 1779899927
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:38",
-    "fotoUrl": "https://img.olx.com.br/images/71/717666405581859.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/717666405581859.jpg",
-      "https://img.olx.com.br/images/72/725642769737054.jpg"
-    ],
-    "id": "1505783321",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/mortal-kombat-xl-ps4-e-ps5-1505783321",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Mortal Kombat XL PS4 e PS5",
-    "ts": 1779899917
   }
 ]
