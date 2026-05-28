@@ -1,22 +1,42 @@
 [
   {
-    "id": "1506051284",
-    "titulo": "XBOX SERIES S",
+    "id": "1506052011",
+    "titulo": "PS4 ",
     "preco": 1400,
     "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:59",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "13:01",
+    "tempoOlx": "Na OLX desde julho de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/xbox-series-s-1506051284",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-1506052011",
+    "fotoUrl": "https://img.olx.com.br/images/67/672679640167637.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/672679640167637.jpg",
+      "https://img.olx.com.br/images/68/686631640925182.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779984096
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:59",
     "fotoUrl": "https://img.olx.com.br/images/27/270608525976068.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/270608525976068.jpg",
       "https://img.olx.com.br/images/27/270676763103895.jpg"
     ],
-    "defeito": false,
+    "id": "1506051284",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/consoles-de-video-game/xbox-series-s-1506051284",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "XBOX SERIES S",
     "ts": 1779983976
   },
   {
@@ -10427,26 +10447,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2014",
     "titulo": "Jogos PS4 ",
     "ts": 1779915839
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:03",
-    "fotoUrl": "https://img.olx.com.br/images/26/266636287386777.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/266636287386777.jpg",
-      "https://img.olx.com.br/images/35/355652164567460.jpg",
-      "https://img.olx.com.br/images/41/416680284635534.jpg"
-    ],
-    "id": "1505857677",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/3-jogos-de-playstation-4-1505857677",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2015",
-    "titulo": "3 Jogos de Playstation 4",
-    "ts": 1779915832
   }
 ]
