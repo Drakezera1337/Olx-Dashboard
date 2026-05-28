@@ -1,21 +1,40 @@
 [
   {
-    "id": "1505936995",
-    "titulo": "Uncharted Lost legacy + Uncharted 4",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "jogos",
+    "id": "1410566009",
+    "titulo": "THE WITCHER 3",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "00:39",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "detectado": "00:45",
+    "tempoOlx": "Na OLX desde julho de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/uncharted-lost-legacy-uncharted-4-1505936995",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-witcher-3-1410566009",
+    "fotoUrl": "https://img.olx.com.br/images/10/104502775539812.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/104502775539812.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779939935
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:39",
     "fotoUrl": "https://img.olx.com.br/images/96/968607046872406.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/968607046872406.jpg"
     ],
-    "defeito": false,
+    "id": "1505936995",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/uncharted-lost-legacy-uncharted-4-1505936995",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
+    "titulo": "Uncharted Lost legacy + Uncharted 4",
     "ts": 1779939574
   },
   {
@@ -10371,29 +10390,5 @@
     "tempoOlx": "Na OLX desde outubro de 2016",
     "titulo": "6 jogos para ps4 ",
     "ts": 1779899939
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:38",
-    "fotoUrl": "https://img.olx.com.br/images/82/820611409608980.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/820611409608980.jpg",
-      "https://img.olx.com.br/images/84/848664288467582.jpg",
-      "https://img.olx.com.br/images/85/857645400486999.jpg",
-      "https://img.olx.com.br/images/89/897660768811444.jpg",
-      "https://img.olx.com.br/images/92/922682285384369.jpg",
-      "https://img.olx.com.br/images/94/943689408892852.jpg"
-    ],
-    "id": "1505783065",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-originais-cod-wwii-pes-2018-mortal-kombat-xl-1505783065",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2019",
-    "titulo": "Jogos PS4 Originais - COD WWII + PES 2018 + Mortal Kombat XL",
-    "ts": 1779899927
   }
 ]
