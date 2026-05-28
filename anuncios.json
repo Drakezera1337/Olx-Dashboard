@@ -1,16 +1,32 @@
 [
   {
-    "id": "1506017203",
-    "titulo": "Iphone 7 plus 128 GB ",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "categoria": "iphone",
+    "id": "1506024038",
+    "titulo": "PS4 1 TERÁ.",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:41",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-1-tera-1506024038",
+    "fotoUrl": "https://img.olx.com.br/images/93/937688165803562.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/937688165803562.jpg",
+      "https://img.olx.com.br/images/94/947635761224146.jpg",
+      "https://img.olx.com.br/images/95/953686882446811.jpg",
+      "https://img.olx.com.br/images/96/968695400063638.jpg"
+    ],
+    "defeito": false,
+    "ts": 1779979312
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-plus-128-gb-1506017203",
+    "defeito": false,
+    "detectado": "11:41",
     "fotoUrl": "https://img.olx.com.br/images/17/171641164197620.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/171641164197620.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/23/234676769189601.jpg",
       "https://img.olx.com.br/images/26/265628524231425.jpg"
     ],
-    "defeito": false,
+    "id": "1506017203",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-7-plus-128-gb-1506017203",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "titulo": "Iphone 7 plus 128 GB ",
     "ts": 1779979307
   },
   {
@@ -10419,27 +10441,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2021",
     "titulo": "PS4 FAT 500GB",
     "ts": 1779914355
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:39",
-    "fotoUrl": "https://img.olx.com.br/images/11/116631522734138.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/116631522734138.jpg",
-      "https://img.olx.com.br/images/13/136616288239226.jpg",
-      "https://img.olx.com.br/images/14/147692047975953.jpg",
-      "https://img.olx.com.br/images/15/150687887409340.jpg"
-    ],
-    "id": "1505838631",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/consoles-de-video-game/venda-tres-playstation-ambos-com-defeito-1505838631",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2025",
-    "titulo": "À venda Três PlayStation ambos com defeito ",
-    "ts": 1779914346
   }
 ]
