@@ -1,22 +1,41 @@
 [
   {
-    "id": "1506145358",
-    "titulo": "Ps4 Pro, td informações na descrição ",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "ps4",
+    "id": "1506145919",
+    "titulo": "Nintendo Switch Lite",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "19:15",
-    "tempoOlx": "Na OLX desde novembro de 2013",
+    "detectado": "19:16",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-pro-td-informacoes-na-descricao-1506145358",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/nintendo-switch-lite-1506145919",
+    "fotoUrl": "https://img.olx.com.br/images/74/748626523638945.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/748626523638945.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780006594
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:15",
     "fotoUrl": "https://img.olx.com.br/images/36/368680520432107.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/368680520432107.jpg",
       "https://img.olx.com.br/images/38/380642161815787.jpg"
     ],
-    "defeito": false,
+    "id": "1506145358",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ps4-pro-td-informacoes-na-descricao-1506145358",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "Ps4 Pro, td informações na descrição ",
     "ts": 1780006506
   },
   {
@@ -10380,25 +10399,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "3 jogos de ps4",
     "ts": 1779931298
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "22:18",
-    "fotoUrl": "https://img.olx.com.br/images/80/807697160430945.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/807697160430945.jpg",
-      "https://img.olx.com.br/images/82/826620404677437.jpg"
-    ],
-    "id": "1505915563",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-bateria-100-1505915563",
-    "preco": 5000,
-    "precoRaw": "R$ 5.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2021",
-    "titulo": "iPhone 16 bateria 100%",
-    "ts": 1779931089
   }
 ]
