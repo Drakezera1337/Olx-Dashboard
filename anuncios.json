@@ -1,21 +1,40 @@
 [
   {
-    "id": "1497440623",
-    "titulo": "Cyberpunk 2077",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1506398402",
+    "titulo": "Jogo Star Wars BattleFront PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:45",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "tempoOlx": "Na OLX desde novembro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/cyberpunk-2077-1497440623",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/jogo-star-wars-battlefront-ps4-1506398402",
+    "fotoUrl": "https://img.olx.com.br/images/99/994649522434845.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/994649522434845.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780083912
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "16:45",
     "fotoUrl": "https://img.olx.com.br/images/85/856639871826570.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/856639871826570.jpg"
     ],
-    "defeito": false,
+    "id": "1497440623",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/cyberpunk-2077-1497440623",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Cyberpunk 2077",
     "ts": 1780083904
   },
   {
@@ -10303,26 +10322,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "The Last of Us Remasterizado - PS4",
     "ts": 1780016531
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:02",
-    "fotoUrl": "https://img.olx.com.br/images/46/467675520164493.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/467675520164493.jpg",
-      "https://img.olx.com.br/images/46/464618283761558.jpg",
-      "https://img.olx.com.br/images/46/460639404154164.jpg"
-    ],
-    "id": "1506196470",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/gta-5-playstation-4e5-1506196470",
-    "preco": 95,
-    "precoRaw": "R$ 95",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2017",
-    "titulo": "Gta 5 PlayStation 4e5",
-    "ts": 1780016521
   }
 ]
