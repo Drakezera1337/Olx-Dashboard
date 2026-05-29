@@ -1,16 +1,30 @@
 [
   {
-    "id": "1494743018",
-    "titulo": "X box one serie S purple",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "outros",
+    "id": "1506371557",
+    "titulo": "PlayStation 3 com controles e jogos",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:02",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "detectado": "15:03",
+    "tempoOlx": "Na OLX desde novembro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/x-box-one-serie-s-purple-1494743018",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-com-controles-e-jogos-1506371557",
+    "fotoUrl": "https://img.olx.com.br/images/93/939688763886845.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/93/939688763886845.jpg",
+      "https://img.olx.com.br/images/94/949668522747525.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780077814
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:02",
     "fotoUrl": "https://img.olx.com.br/images/13/137629631350456.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/137629631350456.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/18/185607513890545.jpg",
       "https://img.olx.com.br/images/19/192647753861826.jpg"
     ],
-    "defeito": false,
+    "id": "1494743018",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/x-box-one-serie-s-purple-1494743018",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "X box one serie S purple",
     "ts": 1780077723
   },
   {
@@ -10270,25 +10290,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": "Gran Turismo - PS4 / PSVR",
     "ts": 1780009567
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:05",
-    "fotoUrl": "https://img.olx.com.br/images/93/934677642082706.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/934677642082706.jpg",
-      "https://img.olx.com.br/images/94/946662649721478.jpg"
-    ],
-    "id": "1506156897",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fifa-16-ps4-1506156897",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2021",
-    "titulo": "Fifa 16 PS4",
-    "ts": 1780009557
   }
 ]
