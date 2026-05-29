@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506439985",
-    "titulo": "PLAYSTATION 3",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "categoria": "ps3",
+    "id": "1506440292",
+    "titulo": "Days Gone PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:30",
-    "tempoOlx": "Na OLX desde março de 2026",
+    "detectado": "19:32",
+    "tempoOlx": "Na OLX desde setembro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/consoles-de-video-game/playstation-3-1506439985",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/days-gone-ps4-1506440292",
+    "fotoUrl": "https://img.olx.com.br/images/99/996634764806523.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/99/996634764806523.jpg",
+      "https://img.olx.com.br/images/10/105677888054590.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780093926
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:30",
     "fotoUrl": "https://img.olx.com.br/images/63/635628288414972.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/635628288414972.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/69/693667887880811.jpg",
       "https://img.olx.com.br/images/71/714656522721495.jpg"
     ],
-    "defeito": false,
+    "id": "1506439985",
+    "link": "https://ma.olx.com.br/regiao-de-imperatriz-e-caxias/games/consoles-de-video-game/playstation-3-1506439985",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "PLAYSTATION 3",
     "ts": 1780093807
   },
   {
@@ -10330,24 +10350,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Controle gamer PS3 /pc",
     "ts": 1780060051
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:07",
-    "fotoUrl": "https://img.olx.com.br/images/67/670659529575416.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/670659529575416.jpg"
-    ],
-    "id": "1504256022",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/consoles-de-video-game/xbox-series-s-1504256022",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2018",
-    "titulo": "Xbox series s ",
-    "ts": 1780060043
   }
 ]
