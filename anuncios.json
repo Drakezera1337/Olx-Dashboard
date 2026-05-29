@@ -1,21 +1,43 @@
 [
   {
-    "id": "1506231123",
-    "titulo": "The Last of us II",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1506232327",
+    "titulo": "Driveclub VR (PS VR)",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "01:43",
-    "tempoOlx": "Na OLX desde março de 2016",
+    "detectado": "01:49",
+    "tempoOlx": "Na OLX desde dezembro de 2013",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-ii-1506231123",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/driveclub-vr-ps-vr-1506232327",
+    "fotoUrl": "https://img.olx.com.br/images/87/877612643608142.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/877612643608142.jpg",
+      "https://img.olx.com.br/images/88/883653646500514.jpg",
+      "https://img.olx.com.br/images/90/900696521683144.jpg",
+      "https://img.olx.com.br/images/92/927611527490818.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780030148
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "01:43",
     "fotoUrl": "https://img.olx.com.br/images/58/584680406745919.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/584680406745919.jpg"
     ],
-    "defeito": false,
+    "id": "1506231123",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-ii-1506231123",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2016",
+    "titulo": "The Last of us II",
     "ts": 1780029785
   },
   {
@@ -10334,26 +10356,5 @@
     "tempoOlx": "Na OLX desde outubro de 2024",
     "titulo": "PS4 500 GIGAS.",
     "ts": 1779979391
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/92/923632525462220.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/923632525462220.jpg",
-      "https://img.olx.com.br/images/54/540691643374527.jpg",
-      "https://img.olx.com.br/images/64/641660645672293.jpg"
-    ],
-    "id": "1506025593",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/consoles-de-video-game/playstation-4-slim-1506025593",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2018",
-    "titulo": "PlayStation 4 Slim",
-    "ts": 1779979383
   }
 ]
