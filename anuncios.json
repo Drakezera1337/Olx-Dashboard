@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506378906",
-    "titulo": "Vende-se ps5 ",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1506378843",
+    "titulo": "Play 4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "15:34",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "detectado": "15:35",
+    "tempoOlx": "Na OLX desde outubro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vende-se-ps5-1506378906",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/play-4-1506378843",
+    "fotoUrl": "https://img.olx.com.br/images/81/813664889528733.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/813664889528733.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780079703
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:34",
     "fotoUrl": "https://img.olx.com.br/images/34/344646763142470.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/344646763142470.jpg",
       "https://img.olx.com.br/images/35/354649400839614.jpg",
       "https://img.olx.com.br/images/37/377662406124452.jpg"
     ],
-    "defeito": false,
+    "id": "1506378906",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vende-se-ps5-1506378906",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "titulo": "Vende-se ps5 ",
     "ts": 1780079655
   },
   {
@@ -10283,28 +10302,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "Pes 21 ps4",
     "ts": 1780012235
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "20:46",
-    "fotoUrl": "https://img.olx.com.br/images/41/418661283159984.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/41/418661283159984.jpg",
-      "https://img.olx.com.br/images/44/449617164424851.jpg",
-      "https://img.olx.com.br/images/47/478658285302854.jpg",
-      "https://img.olx.com.br/images/49/494634045517900.jpg",
-      "https://img.olx.com.br/images/51/518631281066480.jpg"
-    ],
-    "id": "1506167046",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-novo-1506167046",
-    "preco": 4100,
-    "precoRaw": "R$ 4.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "iPhone 14 Pro - Novo",
-    "ts": 1780011968
   }
 ]
