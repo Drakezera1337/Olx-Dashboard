@@ -1,22 +1,41 @@
 [
   {
-    "id": "1506110336",
-    "titulo": "PS 4",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1506124807",
+    "titulo": "Game",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
     "categoria": "outros",
     "publicado": "",
     "detectado": "10:26",
-    "tempoOlx": "Na OLX desde março de 2020",
+    "tempoOlx": "Na OLX desde abril de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps-4-1506110336",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/game-1506124807",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1780061192
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:26",
     "fotoUrl": "https://img.olx.com.br/images/86/865691406356203.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/865691406356203.jpg",
       "https://img.olx.com.br/images/86/862640402437696.jpg"
     ],
-    "defeito": false,
+    "id": "1506110336",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/ps-4-1506110336",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2020",
+    "titulo": "PS 4",
     "ts": 1780061165
   },
   {
@@ -10305,27 +10324,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2022",
     "titulo": "XBOX SÉRIES S ",
     "ts": 1779984347
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:05",
-    "fotoUrl": "https://img.olx.com.br/images/36/362627167982987.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/362627167982987.jpg",
-      "https://img.olx.com.br/images/36/368636761504020.jpg",
-      "https://img.olx.com.br/images/36/363601280404549.jpg",
-      "https://img.olx.com.br/images/36/366656404170297.jpg"
-    ],
-    "id": "1506052509",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/cabo-para-carregar-controle-de-ps3-ps4-smartphone-e-outros-aparelhos-produto-novo-1506052509",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Cabo para carregar controle de PS3, PS4, Smartphone e outros aparelhos - Produto Novo",
-    "ts": 1779984337
   }
 ]
