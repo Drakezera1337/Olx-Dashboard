@@ -1,16 +1,50 @@
 [
   {
-    "id": "1506277441",
-    "titulo": "Playstation Portal PS5 ",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "ps5",
+    "id": "1506260557",
+    "titulo": "Playstation Portal",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "10:05",
-    "tempoOlx": "Na OLX desde outubro de 2015",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/consoles-de-video-game/playstation-portal-ps5-1506277441",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-portal-1506260557",
+    "fotoUrl": "https://img.olx.com.br/images/39/396691046687529.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/396691046687529.jpg",
+      "https://img.olx.com.br/images/39/392664283658438.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780059926
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "defeito": false,
+    "detectado": "10:05",
+    "fotoUrl": "https://img.olx.com.br/images/91/910667165292521.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/910667165292521.jpg",
+      "https://img.olx.com.br/images/92/927645288813422.jpg"
+    ],
+    "id": "1506265719",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-128gb-1506265719",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2013",
+    "titulo": "iPhone 14 128GB",
+    "ts": 1780059920
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:05",
     "fotoUrl": "https://img.olx.com.br/images/79/797684766641587.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/797684766641587.jpg",
@@ -20,7 +54,13 @@
       "https://img.olx.com.br/images/84/841615762197332.jpg",
       "https://img.olx.com.br/images/85/850636761304196.jpg"
     ],
-    "defeito": false,
+    "id": "1506277441",
+    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/consoles-de-video-game/playstation-portal-ps5-1506277441",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2015",
+    "titulo": "Playstation Portal PS5 ",
     "ts": 1780059918
   },
   {
@@ -10303,47 +10343,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "Jogo just dance + câmera ps4",
     "ts": 1779979600
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:46",
-    "fotoUrl": "https://img.olx.com.br/images/59/597664605689115.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/597664605689115.jpg",
-      "https://img.olx.com.br/images/60/608632360040746.jpg",
-      "https://img.olx.com.br/images/62/626673244517564.jpg"
-    ],
-    "id": "1470048124",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/just-dance-2020-ps4-1470048124",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2014",
-    "titulo": "Just Dance 2020 PS4 ",
-    "ts": 1779979591
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:46",
-    "fotoUrl": "https://img.olx.com.br/images/10/109629602007364.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/109629602007364.jpg",
-      "https://img.olx.com.br/images/12/125691603039972.jpg",
-      "https://img.olx.com.br/images/13/131642482243097.jpg"
-    ],
-    "id": "1470047204",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/until-dawn-ps4-1470047204",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2014",
-    "titulo": "Until Dawn PS4 ",
-    "ts": 1779979583
   }
 ]
