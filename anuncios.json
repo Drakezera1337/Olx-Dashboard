@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506360181",
-    "titulo": "Ps3",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps3",
+    "id": "1506359733",
+    "titulo": "PlayStation 5 fat 825gb Semi-Novo",
+    "preco": 2100,
+    "precoRaw": "R$ 2.100",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "14:26",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "detectado": "14:28",
+    "tempoOlx": "Na OLX desde maio de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-1506360181",
+    "link": "https://mg.olx.com.br/regiao-de-pocos-de-caldas-e-varginha/games/consoles-de-video-game/playstation-5-fat-825gb-semi-novo-1506359733",
+    "fotoUrl": "https://img.olx.com.br/images/32/325602643457674.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/325602643457674.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780075684
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:26",
     "fotoUrl": "https://img.olx.com.br/images/10/109644527965912.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/109644527965912.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/14/146698403203428.jpg",
       "https://img.olx.com.br/images/15/155623520584700.jpg"
     ],
-    "defeito": false,
+    "id": "1506360181",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-1506360181",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "Ps3",
     "ts": 1780075596
   },
   {
@@ -10278,25 +10297,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2023",
     "titulo": "PS4 FAT 500GB + 5 JOGOS ",
     "ts": 1780007166
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:20",
-    "fotoUrl": "https://img.olx.com.br/images/98/981683644491692.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/98/981683644491692.jpg",
-      "https://img.olx.com.br/images/99/998630409680003.jpg"
-    ],
-    "id": "1506147605",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-1506147605",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2022",
-    "titulo": "Ps4 ",
-    "ts": 1780006837
   }
 ]
