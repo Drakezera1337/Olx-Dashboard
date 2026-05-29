@@ -1,21 +1,40 @@
 [
   {
-    "id": "1506223753",
-    "titulo": "Jogos de PS4 - A partir de R$ 60,00 ou todos por R$ 1999,00",
-    "preco": 60,
-    "precoRaw": "R$ 60",
+    "id": "1506223561",
+    "titulo": "Jogos de PS4 - R$ 50,00 ou todos por R$ 999,00",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "00:31",
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-de-ps4-a-partir-de-r-60-00-ou-todos-por-r-1999-00-1506223753",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-de-ps4-r-50-00-ou-todos-por-r-999-00-1506223561",
+    "fotoUrl": "https://img.olx.com.br/images/43/431622281654499.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/431622281654499.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780025497
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:31",
     "fotoUrl": "https://img.olx.com.br/images/85/852698407639003.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/852698407639003.jpg"
     ],
-    "defeito": false,
+    "id": "1506223753",
+    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-de-ps4-a-partir-de-r-60-00-ou-todos-por-r-1999-00-1506223753",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2025",
+    "titulo": "Jogos de PS4 - A partir de R$ 60,00 ou todos por R$ 1999,00",
     "ts": 1780025484
   },
   {
@@ -10342,25 +10361,5 @@
     "tempoOlx": "Na OLX desde maio de 2024",
     "titulo": "Ps4 FAT 500gb",
     "ts": 1779979328
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "11:42",
-    "fotoUrl": "https://img.olx.com.br/images/10/104685647368969.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/10/104685647368969.jpg",
-      "https://img.olx.com.br/images/12/128676765287740.jpg"
-    ],
-    "id": "1505995386",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-64gb-1505995386",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2023",
-    "titulo": "iPhone 11 64GB ",
-    "ts": 1779979324
   }
 ]
