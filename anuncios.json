@@ -1,22 +1,42 @@
 [
   {
-    "id": "1506234662",
+    "id": "1506235523",
     "titulo": "JOGOS - PS4/PS5",
-    "preco": 55,
-    "precoRaw": "R$ 55",
+    "preco": 61,
+    "precoRaw": "R$ 61",
     "categoria": "ps5",
     "publicado": "",
-    "detectado": "02:09",
+    "detectado": "02:15",
     "tempoOlx": "Na OLX desde junho de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1506234662",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1506235523",
+    "fotoUrl": "https://img.olx.com.br/images/74/740651525199034.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/74/740651525199034.jpg",
+      "https://img.olx.com.br/images/75/752686761015353.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780031707
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "02:09",
     "fotoUrl": "https://img.olx.com.br/images/55/552647169980915.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/552647169980915.jpg",
       "https://img.olx.com.br/images/56/566658407551049.jpg"
     ],
-    "defeito": false,
+    "id": "1506234662",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1506234662",
+    "preco": 55,
+    "precoRaw": "R$ 55",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1780031345
   },
   {
@@ -10336,25 +10356,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "XBOX S ",
     "ts": 1779979425
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/80/806657647564013.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/80/806657647564013.jpg",
-      "https://img.olx.com.br/images/81/811679161921310.jpg"
-    ],
-    "id": "1505985225",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-slim-500gb-1505985225",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "ps4 slim 500gb ",
-    "ts": 1779979416
   }
 ]
