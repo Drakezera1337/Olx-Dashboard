@@ -1,21 +1,41 @@
 [
   {
-    "id": "1506367522",
-    "titulo": "SPIDER-MAN PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1506367542",
+    "titulo": "Pes 2017",
+    "preco": 49,
+    "precoRaw": "R$ 49",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "14:47",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/spider-man-ps4-1506367522",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/pes-2017-1506367542",
+    "fotoUrl": "https://img.olx.com.br/images/81/813647883760611.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/81/813647883760611.jpg",
+      "https://img.olx.com.br/images/82/823654648929838.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780076864
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:47",
     "fotoUrl": "https://img.olx.com.br/images/83/830610881358016.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/830610881358016.jpg"
     ],
-    "defeito": false,
+    "id": "1506367522",
+    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/spider-man-ps4-1506367522",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "SPIDER-MAN PS4",
     "ts": 1780076855
   },
   {
@@ -10269,30 +10289,6 @@
     "publicado": "",
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "iPhone XR",
-    "ts": 1780009086
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:58",
-    "fotoUrl": "https://img.olx.com.br/images/17/179614046289966.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/179614046289966.jpg",
-      "https://img.olx.com.br/images/19/198639769621453.jpg",
-      "https://img.olx.com.br/images/21/219644642547290.jpg",
-      "https://img.olx.com.br/images/23/230655285082461.jpg",
-      "https://img.olx.com.br/images/24/242677049161045.jpg",
-      "https://img.olx.com.br/images/26/264676888214706.jpg"
-    ],
-    "id": "1506155329",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/portal-ps5-1506155329",
-    "preco": 1700,
-    "precoRaw": "R$ 1.700",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Portal Ps5",
     "ts": 1780009086
   }
 ]
