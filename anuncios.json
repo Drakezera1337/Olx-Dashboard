@@ -1,22 +1,43 @@
 [
   {
-    "id": "1506360223",
-    "titulo": "PS4 Slim",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "categoria": "ps4",
+    "id": "1506361057",
+    "titulo": "Playstation 3 Fat - PS3 - DEFEITO - 220V",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "14:30",
-    "tempoOlx": "Na OLX desde maio de 2018",
+    "detectado": "14:32",
+    "tempoOlx": "Na OLX desde julho de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/ps4-slim-1506360223",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-3-fat-ps3-defeito-220v-1506361057",
+    "fotoUrl": "https://img.olx.com.br/images/66/666659283876627.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/666659283876627.jpg",
+      "https://img.olx.com.br/images/67/670655647909732.jpg",
+      "https://img.olx.com.br/images/69/691608049687854.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780075958
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:30",
     "fotoUrl": "https://img.olx.com.br/images/30/306677642358042.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/30/306677642358042.jpg",
       "https://img.olx.com.br/images/36/369665642271311.jpg"
     ],
-    "defeito": false,
+    "id": "1506360223",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/jogos-de-video-game/ps4-slim-1506360223",
+    "preco": 1450,
+    "precoRaw": "R$ 1.450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2018",
+    "titulo": "PS4 Slim",
     "ts": 1780075851
   },
   {
@@ -10272,24 +10293,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2022",
     "titulo": "Nioh - PS4",
     "ts": 1780007502
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:31",
-    "fotoUrl": "https://img.olx.com.br/images/35/352597352065383.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/352597352065383.jpg"
-    ],
-    "id": "1459862122",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/dmc-devil-may-cry-1459862122",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
-    "titulo": "DMC (Devil May Cry)",
-    "ts": 1780007495
   }
 ]
