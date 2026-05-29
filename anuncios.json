@@ -1,22 +1,42 @@
 [
   {
-    "id": "1506235523",
+    "id": "1506235234",
     "titulo": "JOGOS - PS4/PS5",
-    "preco": 61,
-    "precoRaw": "R$ 61",
+    "preco": 58,
+    "precoRaw": "R$ 58",
     "categoria": "ps5",
     "publicado": "",
     "detectado": "02:15",
     "tempoOlx": "Na OLX desde junho de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1506235523",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1506235234",
+    "fotoUrl": "https://img.olx.com.br/images/76/769641643801684.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/76/769641643801684.jpg",
+      "https://img.olx.com.br/images/78/780643040476616.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780031716
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "02:15",
     "fotoUrl": "https://img.olx.com.br/images/74/740651525199034.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/74/740651525199034.jpg",
       "https://img.olx.com.br/images/75/752686761015353.jpg"
     ],
-    "defeito": false,
+    "id": "1506235523",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-ps4-ps5-1506235523",
+    "preco": 61,
+    "precoRaw": "R$ 61",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2018",
+    "titulo": "JOGOS - PS4/PS5",
     "ts": 1780031707
   },
   {
@@ -10337,24 +10357,5 @@
     "tempoOlx": "Na OLX desde agosto de 2022",
     "titulo": "Ps3 com defeito ",
     "ts": 1779979434
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/87/872656525084187.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/872656525084187.jpg"
-    ],
-    "id": "1506021892",
-    "link": "https://se.olx.com.br/sergipe/games/consoles-de-video-game/xbox-s-1506021892",
-    "preco": 600,
-    "precoRaw": "R$ 600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "XBOX S ",
-    "ts": 1779979425
   }
 ]
