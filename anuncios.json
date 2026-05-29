@@ -1,22 +1,41 @@
 [
   {
-    "id": "1506179658",
-    "titulo": "IPHONE 14 PRO MAX 128GB",
-    "preco": 3900,
-    "precoRaw": "R$ 3.900",
-    "categoria": "iphone",
+    "id": "1506188626",
+    "titulo": "JOGOS de PS4 , VALORES A PARTIR DE 50$",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:09",
-    "tempoOlx": "Na OLX desde novembro de 2014",
+    "detectado": "21:14",
+    "tempoOlx": "Na OLX desde abril de 2019",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-de-ps4-valores-a-partir-de-50-1506188626",
+    "fotoUrl": "https://img.olx.com.br/images/39/399680401656524.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/39/399680401656524.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780013674
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-128gb-1506179658",
+    "defeito": false,
+    "detectado": "21:09",
     "fotoUrl": "https://img.olx.com.br/images/46/466624646128694.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/46/466624646128694.jpg",
       "https://img.olx.com.br/images/47/472676405527039.jpg"
     ],
-    "defeito": false,
+    "id": "1506179658",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-128gb-1506179658",
+    "preco": 3900,
+    "precoRaw": "R$ 3.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2014",
+    "titulo": "IPHONE 14 PRO MAX 128GB",
     "ts": 1780013375
   },
   {
@@ -10368,29 +10387,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Nino kuni 2 Edição de Colecionador ",
     "ts": 1779968207
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "08:36",
-    "fotoUrl": "https://img.olx.com.br/images/60/609686049786415.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/60/609686049786415.jpg",
-      "https://img.olx.com.br/images/61/613633281175156.jpg",
-      "https://img.olx.com.br/images/40/407674166529205.jpg",
-      "https://img.olx.com.br/images/41/418617524148914.jpg",
-      "https://img.olx.com.br/images/42/427686048605400.jpg",
-      "https://img.olx.com.br/images/44/448645643465679.jpg"
-    ],
-    "id": "1505968795",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/play-4-vendo-1505968795",
-    "preco": 999,
-    "precoRaw": "R$ 999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2014",
-    "titulo": "Play 4 vendo ",
-    "ts": 1779968200
   }
 ]
