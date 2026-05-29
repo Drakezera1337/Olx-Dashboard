@@ -1,21 +1,40 @@
 [
   {
-    "id": "1506287597",
-    "titulo": "Controle Xbox séries  x|s - Xbox one ",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "xbox",
+    "id": "1506289560",
+    "titulo": "Jogos PS4 e PS5",
+    "preco": 11111,
+    "precoRaw": "R$ 11.111",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "10:20",
-    "tempoOlx": "Na OLX desde março de 2019",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-xbox-series-x-s-xbox-one-1506287597",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogos-ps4-e-ps5-1506289560",
+    "fotoUrl": "https://img.olx.com.br/images/37/370659404511849.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/370659404511849.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780060811
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:20",
     "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
     "fotosUrls": [
       "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
     ],
-    "defeito": false,
+    "id": "1506287597",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/controle-xbox-series-x-s-xbox-one-1506287597",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2019",
+    "titulo": "Controle Xbox séries  x|s - Xbox one ",
     "ts": 1780060804
   },
   {
@@ -10307,25 +10326,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "BATTLEFIELD 4 PS4",
     "ts": 1779984104
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:01",
-    "fotoUrl": "https://img.olx.com.br/images/67/672679640167637.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/672679640167637.jpg",
-      "https://img.olx.com.br/images/68/686631640925182.jpg"
-    ],
-    "id": "1506052011",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/ps4-1506052011",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "PS4 ",
-    "ts": 1779984096
   }
 ]
