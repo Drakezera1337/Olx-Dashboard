@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506201184",
-    "titulo": "PlayStation VR2",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "outros",
+    "id": "1506202019",
+    "titulo": "Playstation 4 Slim",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:30",
-    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "detectado": "22:31",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-vr2-1506201184",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/playstation-4-slim-1506202019",
+    "fotoUrl": "https://img.olx.com.br/images/67/671610645574174.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/671610645574174.jpg",
+      "https://img.olx.com.br/images/67/672631403336874.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780018298
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:30",
     "fotoUrl": "https://img.olx.com.br/images/77/777644164360185.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/77/777644164360185.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/81/817637163697028.jpg",
       "https://img.olx.com.br/images/83/837606767328571.jpg"
     ],
-    "defeito": false,
+    "id": "1506201184",
+    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/playstation-vr2-1506201184",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2022",
+    "titulo": "PlayStation VR2",
     "ts": 1780018205
   },
   {
@@ -10357,25 +10377,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2025",
     "titulo": "GTA V de ps4, usado. ",
     "ts": 1779968541
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "08:42",
-    "fotoUrl": "https://img.olx.com.br/images/14/142570290424580.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/14/142570290424580.jpg",
-      "https://img.olx.com.br/images/14/142547539482325.jpg"
-    ],
-    "id": "1410832025",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-arcadegeddon-ps4-lacrado-1410832025",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
-    "titulo": "Jogo Arcadegeddon - PS4 Lacrado",
-    "ts": 1779968532
   }
 ]
