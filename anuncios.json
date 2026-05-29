@@ -1,23 +1,43 @@
 [
   {
-    "id": "1506327449",
-    "titulo": "Iphone 16 PRO",
-    "preco": 5500,
-    "precoRaw": "R$ 5.500",
-    "categoria": "iphone",
+    "id": "1506327213",
+    "titulo": "6 Pokémon EX/GX - Pokémon TCG",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "12:59",
-    "tempoOlx": "Na OLX desde julho de 2014",
+    "detectado": "13:00",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-1506327449",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/6-pokemon-ex-gx-pokemon-tcg-1506327213",
+    "fotoUrl": "https://img.olx.com.br/images/29/293647766164730.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/29/293647766164730.jpg",
+      "https://img.olx.com.br/images/30/300690767434103.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780070404
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "defeito": false,
+    "detectado": "12:59",
     "fotoUrl": "https://img.olx.com.br/images/16/166672402554599.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/166672402554599.jpg",
       "https://img.olx.com.br/images/19/199686769805174.jpg",
       "https://img.olx.com.br/images/21/210635641130725.jpg"
     ],
-    "defeito": false,
+    "id": "1506327449",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-1506327449",
+    "preco": 5500,
+    "precoRaw": "R$ 5.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2014",
+    "titulo": "Iphone 16 PRO",
     "ts": 1780070345
   },
   {
@@ -10319,25 +10339,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Venda ps5 urgente ",
     "ts": 1779998985
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:09",
-    "fotoUrl": "https://img.olx.com.br/images/19/199613889405857.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/19/199613889405857.jpg",
-      "https://img.olx.com.br/images/25/256647887967402.jpg"
-    ],
-    "id": "1506116523",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/ps5-fat-ler-o-anuncio-1506116523",
-    "preco": 2250,
-    "precoRaw": "R$ 2.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2018",
-    "titulo": "Ps5 fat (ler o anúncio)",
-    "ts": 1779998976
   }
 ]
