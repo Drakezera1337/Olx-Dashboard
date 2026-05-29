@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506289392",
-    "titulo": "Play Station 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1506277603",
+    "titulo": "Bound By Flame - PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:43",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "detectado": "10:44",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/play-station-4-1506289392",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/bound-by-flame-ps4-1506277603",
+    "fotoUrl": "https://img.olx.com.br/images/62/627661281697432.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/627661281697432.jpg",
+      "https://img.olx.com.br/images/64/644613048227834.jpg",
+      "https://img.olx.com.br/images/66/660647164882096.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780062246
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:43",
     "fotoUrl": "https://img.olx.com.br/images/44/449649288790449.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/449649288790449.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/49/496668525510596.jpg",
       "https://img.olx.com.br/images/50/505668641374662.jpg"
     ],
-    "defeito": false,
+    "id": "1506289392",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/play-station-4-1506289392",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "Play Station 4",
     "ts": 1780062193
   },
   {
@@ -10323,25 +10344,5 @@
     "tempoOlx": "Na OLX desde agosto de 2023",
     "titulo": "Ps4 slim de 1tb",
     "ts": 1779985896
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:31",
-    "fotoUrl": "https://img.olx.com.br/images/27/276647648164926.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/276647648164926.jpg",
-      "https://img.olx.com.br/images/28/287662162381273.jpg"
-    ],
-    "id": "1506058491",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/fifa-19-ps4-1506058491",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "FiFa 19 PS4 ",
-    "ts": 1779985877
   }
 ]
