@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506379384",
-    "titulo": "iPhone 12 ",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "categoria": "iphone",
+    "id": "1506379729",
+    "titulo": "PS5",
+    "preco": 2000,
+    "precoRaw": "R$ 2.000",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:33",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "detectado": "15:34",
+    "tempoOlx": "Na OLX desde maio de 2025",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps5-1506379729",
+    "fotoUrl": "https://img.olx.com.br/images/61/615692166194178.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/61/615692166194178.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780079646
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1506379384",
+    "defeito": false,
+    "detectado": "15:33",
     "fotoUrl": "https://img.olx.com.br/images/56/563685168997010.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/56/563685168997010.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/60/602647167249281.jpg",
       "https://img.olx.com.br/images/61/615647043696622.jpg"
     ],
-    "defeito": false,
+    "id": "1506379384",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1506379384",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "titulo": "iPhone 12 ",
     "ts": 1780079614
   },
   {
@@ -10286,25 +10305,5 @@
     "tempoOlx": "Na OLX desde outubro de 2024",
     "titulo": "NBA 2K18 - PS4 [EXCELENTE ESTADO]",
     "ts": 1780011915
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:45",
-    "fotoUrl": "https://img.olx.com.br/images/59/599691375427170.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/599691375427170.jpg",
-      "https://img.olx.com.br/images/61/616660252687183.jpg"
-    ],
-    "id": "1479382225",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-playstation-3-e-4-1479382225",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Jogos de Playstation 3 e 4",
-    "ts": 1780011906
   }
 ]
