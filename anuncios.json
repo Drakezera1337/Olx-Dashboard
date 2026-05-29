@@ -1,23 +1,67 @@
 [
   {
-    "id": "1506284071",
-    "titulo": "Playstation 5 + 1 manete (Perfeito Estado)",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "categoria": "ps5",
+    "id": "1506276732",
+    "titulo": "Lote jogos ps4",
+    "preco": 370,
+    "precoRaw": "R$ 370",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "10:33",
-    "tempoOlx": "Na OLX desde setembro de 2020",
+    "detectado": "10:38",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-5-1-manete-perfeito-estado-1506284071",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/lote-jogos-ps4-1506276732",
+    "fotoUrl": "https://img.olx.com.br/images/53/536690641858331.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/536690641858331.jpg",
+      "https://img.olx.com.br/images/54/542676641843177.jpg",
+      "https://img.olx.com.br/images/55/556678764396113.jpg",
+      "https://img.olx.com.br/images/57/579641646919478.jpg",
+      "https://img.olx.com.br/images/58/581681769551640.jpg",
+      "https://img.olx.com.br/images/59/593650283227284.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780061885
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "defeito": false,
+    "detectado": "10:33",
+    "fotoUrl": "https://img.olx.com.br/images/59/596622160110744.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/596622160110744.jpg",
+      "https://img.olx.com.br/images/61/610603408860284.jpg"
+    ],
+    "id": "1506275801",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-xr-1506275801",
+    "preco": 700,
+    "precoRaw": "R$ 700",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "iPhone XR ",
+    "ts": 1780061587
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:33",
     "fotoUrl": "https://img.olx.com.br/images/28/286673885924624.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/286673885924624.jpg",
       "https://img.olx.com.br/images/29/295602403001058.jpg",
       "https://img.olx.com.br/images/30/302633288944141.jpg"
     ],
-    "defeito": false,
+    "id": "1506284071",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-5-1-manete-perfeito-estado-1506284071",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2020",
+    "titulo": "Playstation 5 + 1 manete (Perfeito Estado)",
     "ts": 1780061585
   },
   {
@@ -10293,45 +10337,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2026",
     "titulo": "Vende se volante g29 zero pouco tempo de uso",
     "ts": 1779985386
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:20",
-    "fotoUrl": "https://img.olx.com.br/images/93/932606168067977.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/932606168067977.jpg",
-      "https://img.olx.com.br/images/98/986661640364804.jpg"
-    ],
-    "id": "1506056025",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/scarlet-nexus-1506056025",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "Scarlet Nexus",
-    "ts": 1779985225
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:20",
-    "fotoUrl": "https://img.olx.com.br/images/99/996690164707753.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/996690164707753.jpg",
-      "https://img.olx.com.br/images/10/103605288498950.jpg"
-    ],
-    "id": "1506056281",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ufc-2-ps4-1506056281",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "UFC 2 PS4",
-    "ts": 1779985216
   }
 ]
