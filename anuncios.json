@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506270849",
-    "titulo": "PS4 1T",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
+    "id": "1506298429",
+    "titulo": "Fallout 4 PS4",
+    "preco": 38,
+    "precoRaw": "R$ 38",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "11:37",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde outubro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-1t-1506270849",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/fallout-4-ps4-1506298429",
+    "fotoUrl": "https://img.olx.com.br/images/67/670614280746313.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/670614280746313.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780065432
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:37",
     "fotoUrl": "https://img.olx.com.br/images/38/382616649864521.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/382616649864521.jpg",
       "https://img.olx.com.br/images/40/406672281589424.jpg",
       "https://img.olx.com.br/images/42/427697163766951.jpg"
     ],
-    "defeito": false,
+    "id": "1506270849",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-1t-1506270849",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "PS4 1T",
     "ts": 1780065425
   },
   {
@@ -10298,26 +10317,5 @@
     "tempoOlx": "Na OLX desde novembro de 2021",
     "titulo": "NieR Automata PS4",
     "ts": 1779990334
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:44",
-    "fotoUrl": "https://img.olx.com.br/images/44/440679641414968.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/440679641414968.jpg",
-      "https://img.olx.com.br/images/47/478606288605953.jpg",
-      "https://img.olx.com.br/images/48/483621642970704.jpg"
-    ],
-    "id": "1506077090",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/playstation-4-1506077090",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PlayStation 4 ",
-    "ts": 1779990256
   }
 ]
