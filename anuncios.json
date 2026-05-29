@@ -1,16 +1,32 @@
 [
   {
-    "id": "1506326080",
-    "titulo": "Xbox séries S Seminovo",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1506326147",
+    "titulo": "Cyberpunk 2077 ps4",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "12:57",
-    "tempoOlx": "Na OLX desde novembro de 2021",
+    "tempoOlx": "Na OLX desde abril de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/xbox-series-s-seminovo-1506326080",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/cyberpunk-2077-ps4-1506326147",
+    "fotoUrl": "https://img.olx.com.br/images/86/864661648016630.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/86/864661648016630.jpg",
+      "https://img.olx.com.br/images/89/898697166590362.jpg",
+      "https://img.olx.com.br/images/91/912638042599312.jpg",
+      "https://img.olx.com.br/images/92/928643400183826.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780070232
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:57",
     "fotoUrl": "https://img.olx.com.br/images/75/753639402482180.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/753639402482180.jpg",
@@ -18,7 +34,13 @@
       "https://img.olx.com.br/images/79/794676640650816.jpg",
       "https://img.olx.com.br/images/80/806684162308737.jpg"
     ],
-    "defeito": false,
+    "id": "1506326080",
+    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/xbox-series-s-seminovo-1506326080",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2021",
+    "titulo": "Xbox séries S Seminovo",
     "ts": 1780070224
   },
   {
@@ -10316,26 +10338,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2014",
     "titulo": "Jogo ps4 / ps5 Spider Man ",
     "ts": 1779998855
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:02",
-    "fotoUrl": "https://img.olx.com.br/images/36/365606647584357.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/365606647584357.jpg",
-      "https://img.olx.com.br/images/43/439665401068955.jpg",
-      "https://img.olx.com.br/images/49/494654041905443.jpg"
-    ],
-    "id": "1506114602",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/jogos-de-ps4-farcry-4-e-dying-light-1506114602",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2013",
-    "titulo": "Jogos de PS4 Farcry 4 e Dying Light",
-    "ts": 1779998565
   }
 ]
