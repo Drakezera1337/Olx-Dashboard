@@ -1,22 +1,46 @@
 [
   {
-    "id": "1506303221",
-    "titulo": "Fifa 15",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "jogos",
+    "id": "1506280193",
+    "titulo": "playstation ",
+    "preco": 1850,
+    "precoRaw": "R$ 1.850",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "11:57",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/fifa-15-1506303221",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-1506280193",
+    "fotoUrl": "https://img.olx.com.br/images/24/249671284270871.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/249671284270871.jpg",
+      "https://img.olx.com.br/images/58/583698888917461.jpg",
+      "https://img.olx.com.br/images/77/773604529145258.jpg",
+      "https://img.olx.com.br/images/89/896617046979525.jpg",
+      "https://img.olx.com.br/images/94/941673888332172.jpg",
+      "https://img.olx.com.br/images/98/981671768830675.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780066669
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:57",
     "fotoUrl": "https://img.olx.com.br/images/75/757664409462915.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/757664409462915.jpg",
       "https://img.olx.com.br/images/76/760614401930550.jpg"
     ],
-    "defeito": false,
+    "id": "1506303221",
+    "link": "https://mt.olx.com.br/regiao-de-cuiaba/games/jogos-de-video-game/fifa-15-1506303221",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Fifa 15",
     "ts": 1780066662
   },
   {
@@ -10304,26 +10328,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "PS4 Fat 500gb 1 controle original",
     "ts": 1779997050
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "16:37",
-    "fotoUrl": "https://img.olx.com.br/images/97/977614640473228.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/977614640473228.jpg",
-      "https://img.olx.com.br/images/99/997617521512453.jpg",
-      "https://img.olx.com.br/images/10/106687527417427.jpg"
-    ],
-    "id": "1506101629",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/consoles-de-video-game/vendo-ps4-1-controle-e-3-jogos-fisicos-1506101629",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2018",
-    "titulo": "Vendo PS4 1 controle e 3 jogos físicos. ",
-    "ts": 1779997042
   }
 ]
