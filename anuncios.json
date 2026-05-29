@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506411460",
-    "titulo": "Ps4 Com Caixa",
-    "preco": 1080,
-    "precoRaw": "R$ 1.080",
-    "categoria": "ps4",
+    "id": "1506411126",
+    "titulo": "Ps3 com defeito ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "17:34",
-    "tempoOlx": "Na OLX desde abril de 2023",
+    "tempoOlx": "Na OLX desde outubro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-com-caixa-1506411460",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-com-defeito-1506411126",
+    "fotoUrl": "https://img.olx.com.br/images/28/288628289046250.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/28/288628289046250.jpg",
+      "https://img.olx.com.br/images/29/295607169266046.jpg",
+      "https://img.olx.com.br/images/31/314666286972598.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780086861
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:34",
     "fotoUrl": "https://img.olx.com.br/images/50/500654767965697.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/50/500654767965697.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/54/541624889811691.jpg",
       "https://img.olx.com.br/images/55/552617285836629.jpg"
     ],
-    "defeito": false,
+    "id": "1506411460",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps4-com-caixa-1506411460",
+    "preco": 1080,
+    "precoRaw": "R$ 1.080",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2023",
+    "titulo": "Ps4 Com Caixa",
     "ts": 1780086853
   },
   {
@@ -44,22 +65,22 @@
     "ts": 1780086844
   },
   {
-    "id": "1506412063",
-    "titulo": "Vendo ps4 semi novo, 2 controles 1 jogo físico, e 4 jogos na memória, ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
     "categoria": "ps4",
-    "publicado": "",
-    "detectado": "17:34",
-    "tempoOlx": "Na OLX desde julho de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vendo-ps4-semi-novo-2-controles-1-jogo-fisico-e-4-jogos-na-memoria-1506412063",
+    "defeito": false,
+    "detectado": "17:34",
     "fotoUrl": "https://img.olx.com.br/images/36/363696288247563.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/363696288247563.jpg"
     ],
-    "defeito": false,
+    "id": "1506412063",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/vendo-ps4-semi-novo-2-controles-1-jogo-fisico-e-4-jogos-na-memoria-1506412063",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2025",
+    "titulo": "Vendo ps4 semi novo, 2 controles 1 jogo físico, e 4 jogos na memória, ",
     "ts": 1780086844
   },
   {
@@ -10285,25 +10306,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Jogos d PS4 ",
     "ts": 1780019752
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:55",
-    "fotoUrl": "https://img.olx.com.br/images/21/213683250963893.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/213683250963893.jpg",
-      "https://img.olx.com.br/images/56/565676255969538.jpg"
-    ],
-    "id": "1478327448",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/wolfenstein-youngblood-edicao-deluxe-jogo-ps4-novo-lacrado-1478327448",
-    "preco": 180,
-    "precoRaw": "R$ 180",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2019",
-    "titulo": "Wolfenstein Youngblood Edição Deluxe Jogo Ps4 Novo Lacrado",
-    "ts": 1780019743
   }
 ]
