@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506402203",
-    "titulo": "jogos de ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "categoria": "ps4",
+    "id": "1497296610",
+    "titulo": "PS2 MUITO NOVO",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "17:02",
-    "tempoOlx": "Na OLX desde outubro de 2024",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/ps2-muito-novo-1497296610",
+    "fotoUrl": "https://img.olx.com.br/images/56/562622514953387.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/562622514953387.jpg",
+      "https://img.olx.com.br/images/59/590662391909507.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780084954
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1506402203",
+    "defeito": false,
+    "detectado": "17:02",
     "fotoUrl": "https://img.olx.com.br/images/92/923653281211618.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/92/923653281211618.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/12/121697886705774.jpg",
       "https://img.olx.com.br/images/14/144603764988823.jpg"
     ],
-    "defeito": false,
+    "id": "1506402203",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/jogos-de-ps4-1506402203",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2024",
+    "titulo": "jogos de ps4",
     "ts": 1780084933
   },
   {
@@ -10290,24 +10310,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2022",
     "titulo": "PlayStation VR2",
     "ts": 1780018205
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:25",
-    "fotoUrl": "https://img.olx.com.br/images/71/719612409134813.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/719612409134813.jpg"
-    ],
-    "id": "1506200203",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/vendo-ps4-slim-com-4-jogos-e-2-controles-1506200203",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Vendo Ps4 slim com 4 jogos e 2 controles.",
-    "ts": 1780017934
   }
 ]
