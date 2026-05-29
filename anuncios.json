@@ -1,21 +1,40 @@
 [
   {
-    "id": "1506172929",
-    "titulo": "Final fantasy 15 Playstation 4",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "ps4",
+    "id": "1506171914",
+    "titulo": "Horizon forbiden west",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "21:02",
+    "detectado": "21:03",
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/final-fantasy-15-playstation-4-1506172929",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/horizon-forbiden-west-1506171914",
+    "fotoUrl": "https://img.olx.com.br/images/47/479665768532224.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/479665768532224.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780012982
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:02",
     "fotoUrl": "https://img.olx.com.br/images/42/420647282405263.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/420647282405263.jpg"
     ],
-    "defeito": false,
+    "id": "1506172929",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/final-fantasy-15-playstation-4-1506172929",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2019",
+    "titulo": "Final fantasy 15 Playstation 4",
     "ts": 1780012974
   },
   {
@@ -10386,24 +10405,5 @@
     "tempoOlx": "Na OLX desde novembro de 2024",
     "titulo": "Ps5 825gb Digital",
     "ts": 1779968159
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "02:33",
-    "fotoUrl": "https://img.olx.com.br/images/83/839623409278592.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/83/839623409278592.jpg"
-    ],
-    "id": "1505946651",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogos-ps4-1505946651",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Jogos ps4",
-    "ts": 1779946388
   }
 ]
