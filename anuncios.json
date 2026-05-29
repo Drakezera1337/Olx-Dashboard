@@ -1,7 +1,7 @@
 [
   {
-    "id": "1506379659",
-    "titulo": "Jogos",
+    "id": "1506379220",
+    "titulo": "Jogos ",
     "preco": 250,
     "precoRaw": "R$ 250",
     "categoria": "outros",
@@ -10,12 +10,31 @@
     "tempoOlx": "Na OLX desde setembro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-1506379659",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-1506379220",
+    "fotoUrl": "https://img.olx.com.br/images/95/951670760990446.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/951670760990446.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780079561
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:32",
     "fotoUrl": "https://img.olx.com.br/images/66/666677648595717.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/666677648595717.jpg"
     ],
-    "defeito": false,
+    "id": "1506379659",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-1506379659",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Jogos",
     "ts": 1780079554
   },
   {
@@ -10288,29 +10307,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "PS4 Slim 500GB + 3 jogos originais ",
     "ts": 1780011556
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:39",
-    "fotoUrl": "https://img.olx.com.br/images/89/892698520985482.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/892698520985482.jpg",
-      "https://img.olx.com.br/images/90/904671524111228.jpg",
-      "https://img.olx.com.br/images/92/925630647133960.jpg",
-      "https://img.olx.com.br/images/94/946665281679188.jpg",
-      "https://img.olx.com.br/images/96/962637642807652.jpg",
-      "https://img.olx.com.br/images/98/988692282358284.jpg"
-    ],
-    "id": "1506165651",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/batman-arkham-knight-limited-edition-ps4-1506165651",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Batman: Arkham Knight -- Limited Edition PS4",
-    "ts": 1780011547
   }
 ]
