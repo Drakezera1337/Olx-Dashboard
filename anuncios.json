@@ -1,21 +1,45 @@
 [
   {
-    "id": "1506310743",
-    "titulo": "Playstation 5",
-    "preco": 2900,
-    "precoRaw": "R$ 2.900",
-    "categoria": "ps5",
+    "id": "1506311439",
+    "titulo": "iPhone 13 ",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "12:12",
-    "tempoOlx": "Na OLX desde setembro de 2017",
+    "detectado": "12:16",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1506311439",
+    "fotoUrl": "https://img.olx.com.br/images/32/324687402287688.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/324687402287688.jpg",
+      "https://img.olx.com.br/images/47/477619286875824.jpg",
+      "https://img.olx.com.br/images/52/526616168877799.jpg",
+      "https://img.olx.com.br/images/64/645608163102028.jpg",
+      "https://img.olx.com.br/images/69/699617166986106.jpg",
+      "https://img.olx.com.br/images/73/738644042045103.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780067795
+  },
+  {
+    "categoria": "ps5",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1506310743",
+    "defeito": false,
+    "detectado": "12:12",
     "fotoUrl": "https://img.olx.com.br/images/13/135637760191660.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/135637760191660.jpg"
     ],
-    "defeito": false,
+    "id": "1506310743",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-1506310743",
+    "preco": 2900,
+    "precoRaw": "R$ 2.900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2017",
+    "titulo": "Playstation 5",
     "ts": 1780067530
   },
   {
@@ -10309,26 +10333,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Fórmula 1 2018 - Jogo para PS4",
     "ts": 1779997231
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "16:40",
-    "fotoUrl": "https://img.olx.com.br/images/43/438648406794853.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/438648406794853.jpg",
-      "https://img.olx.com.br/images/45/454652887918228.jpg",
-      "https://img.olx.com.br/images/47/470649405539874.jpg"
-    ],
-    "id": "1506099164",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/formula-1-2022-jogo-para-ps4-1506099164",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Fórmula 1 - 2022 - Jogo para PS4 ",
-    "ts": 1779997223
   }
 ]
