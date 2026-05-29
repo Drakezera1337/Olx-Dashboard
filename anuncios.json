@@ -1,23 +1,43 @@
 [
   {
-    "id": "1506427927",
-    "titulo": "PlayStation 5 Portal ",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "categoria": "ps5",
+    "id": "1506427965",
+    "titulo": "Playstation 4",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:33",
-    "tempoOlx": "Na OLX desde setembro de 2014",
+    "tempoOlx": "Na OLX desde março de 2023",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-4-1506427965",
+    "fotoUrl": "https://img.olx.com.br/images/71/718610766864099.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/718610766864099.jpg",
+      "https://img.olx.com.br/images/72/721650169078169.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780090392
+  },
+  {
+    "categoria": "ps5",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-portal-1506427927",
+    "defeito": false,
+    "detectado": "18:33",
     "fotoUrl": "https://img.olx.com.br/images/83/835660648131495.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/83/835660648131495.jpg",
       "https://img.olx.com.br/images/85/851624524650657.jpg",
       "https://img.olx.com.br/images/86/863604406205410.jpg"
     ],
-    "defeito": false,
+    "id": "1506427927",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-5-portal-1506427927",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "PlayStation 5 Portal ",
     "ts": 1780090384
   },
   {
@@ -10310,24 +10330,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Jogos de PS4 - A partir de R$ 60,00 ou todos por R$ 1999,00",
     "ts": 1780025484
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:31",
-    "fotoUrl": "https://img.olx.com.br/images/75/754653649057294.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/754653649057294.jpg"
-    ],
-    "id": "1506223888",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-de-ps4-54-por-r-2999-00-1506223888",
-    "preco": 2999,
-    "precoRaw": "R$ 2.999",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Jogos de PS4 - 54 por R$ 2999,00",
-    "ts": 1780025475
   }
 ]
