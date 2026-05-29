@@ -1,16 +1,33 @@
 [
   {
-    "id": "1506413191",
-    "titulo": "PS4 Fat Com Defeito - Bom Estado - Leia Descrição",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps4",
+    "id": "1506413408",
+    "titulo": "iPhone 15 128gb Verde ",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "17:40",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "detectado": "17:41",
+    "tempoOlx": "Na OLX desde março de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-15-128gb-verde-1506413408",
+    "fotoUrl": "https://img.olx.com.br/images/96/962627163562166.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/962627163562166.jpg",
+      "https://img.olx.com.br/images/13/130645642558568.jpg",
+      "https://img.olx.com.br/images/13/138679289870715.jpg",
+      "https://img.olx.com.br/images/13/135644765288488.jpg",
+      "https://img.olx.com.br/images/13/132619401010927.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780087294
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-bom-estado-leia-descricao-1506413191",
+    "defeito": false,
+    "detectado": "17:40",
     "fotoUrl": "https://img.olx.com.br/images/35/353614281140256.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/35/353614281140256.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/38/387668767174489.jpg",
       "https://img.olx.com.br/images/39/398647881889020.jpg"
     ],
-    "defeito": false,
+    "id": "1506413191",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ps4-fat-com-defeito-bom-estado-leia-descricao-1506413191",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "PS4 Fat Com Defeito - Bom Estado - Leia Descrição",
     "ts": 1780087205
   },
   {
@@ -10293,24 +10316,5 @@
     "tempoOlx": "Na OLX desde abril de 2015",
     "titulo": "NHL 16",
     "ts": 1780019803
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:56",
-    "fotoUrl": "https://img.olx.com.br/images/21/211511499723650.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/211511499723650.jpg"
-    ],
-    "id": "1382242913",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/payday-2-crimewave-edition-1382242913",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2015",
-    "titulo": "Payday 2 - Crimewave edition",
-    "ts": 1780019794
   }
 ]
