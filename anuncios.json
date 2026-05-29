@@ -1,22 +1,43 @@
 [
   {
-    "id": "1506269367",
-    "titulo": "PlayStation",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "outros",
+    "id": "1506253116",
+    "titulo": "PS4 PRA SAIR HOJE",
+    "preco": 1099,
+    "precoRaw": "R$ 1.099",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "10:05",
-    "tempoOlx": "Na OLX desde outubro de 2022",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-1506269367",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps4-pra-sair-hoje-1506253116",
+    "fotoUrl": "https://img.olx.com.br/images/77/774671168411374.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/77/774671168411374.jpg",
+      "https://img.olx.com.br/images/80/803686164392804.jpg",
+      "https://img.olx.com.br/images/82/823668163419013.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780059956
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:05",
     "fotoUrl": "https://img.olx.com.br/images/72/727683523157100.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/727683523157100.jpg",
       "https://img.olx.com.br/images/73/735601405733139.jpg"
     ],
-    "defeito": false,
+    "id": "1506269367",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-1506269367",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "PlayStation",
     "ts": 1780059949
   },
   {
@@ -10319,28 +10340,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Watch Dogs para PlayStation 4",
     "ts": 1779979639
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:47",
-    "fotoUrl": "https://img.olx.com.br/images/32/323664760016696.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/323664760016696.jpg",
-      "https://img.olx.com.br/images/35/357644166030118.jpg",
-      "https://img.olx.com.br/images/37/374670646780357.jpg",
-      "https://img.olx.com.br/images/39/397626769434598.jpg",
-      "https://img.olx.com.br/images/41/419606406587026.jpg"
-    ],
-    "id": "1506021674",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-ps4-1506021674",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
-    "titulo": "Jogos PS4",
-    "ts": 1779979632
   }
 ]
