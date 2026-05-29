@@ -1,21 +1,44 @@
 [
   {
-    "id": "1506379220",
-    "titulo": "Jogos ",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "categoria": "outros",
+    "id": "1506379384",
+    "titulo": "iPhone 12 ",
+    "preco": 1250,
+    "precoRaw": "R$ 1.250",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "15:32",
-    "tempoOlx": "Na OLX desde setembro de 2023",
+    "detectado": "15:33",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1506379384",
+    "fotoUrl": "https://img.olx.com.br/images/56/563685168997010.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/56/563685168997010.jpg",
+      "https://img.olx.com.br/images/57/579601163629745.jpg",
+      "https://img.olx.com.br/images/58/580658520442225.jpg",
+      "https://img.olx.com.br/images/60/602647167249281.jpg",
+      "https://img.olx.com.br/images/61/615647043696622.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780079614
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-1506379220",
+    "defeito": false,
+    "detectado": "15:32",
     "fotoUrl": "https://img.olx.com.br/images/95/951670760990446.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/951670760990446.jpg"
     ],
-    "defeito": false,
+    "id": "1506379220",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-1506379220",
+    "preco": 250,
+    "precoRaw": "R$ 250",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Jogos ",
     "ts": 1780079561
   },
   {
@@ -10283,29 +10306,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "Jogos de Playstation 3 e 4",
     "ts": 1780011906
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:39",
-    "fotoUrl": "https://img.olx.com.br/images/43/436611640460609.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/436611640460609.jpg",
-      "https://img.olx.com.br/images/46/462648161072978.jpg",
-      "https://img.olx.com.br/images/49/496659765737553.jpg",
-      "https://img.olx.com.br/images/51/516646528656071.jpg",
-      "https://img.olx.com.br/images/52/521698283460862.jpg",
-      "https://img.olx.com.br/images/55/550619160889743.jpg"
-    ],
-    "id": "1506162485",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/ps4-slim-500gb-3-jogos-originais-1506162485",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "PS4 Slim 500GB + 3 jogos originais ",
-    "ts": 1780011556
   }
 ]
