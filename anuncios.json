@@ -1,21 +1,40 @@
 [
   {
-    "id": "1382238001",
-    "titulo": "NHL 16",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1382242282",
+    "titulo": "PES 2017",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "outros",
     "publicado": "",
     "detectado": "22:56",
     "tempoOlx": "Na OLX desde abril de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/nhl-16-1382238001",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/pes-2017-1382242282",
+    "fotoUrl": "https://img.olx.com.br/images/49/495502130819946.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/495502130819946.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780019811
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:56",
     "fotoUrl": "https://img.olx.com.br/images/97/976535739808355.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/976535739808355.jpg"
     ],
-    "defeito": false,
+    "id": "1382238001",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/nhl-16-1382238001",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2015",
+    "titulo": "NHL 16",
     "ts": 1780019803
   },
   {
@@ -10349,28 +10368,5 @@
     "tempoOlx": "Na OLX desde abril de 2024",
     "titulo": "Ps4 usado ",
     "ts": 1779968751
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "08:45",
-    "fotoUrl": "https://img.olx.com.br/images/94/949593837076468.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/949593837076468.jpg",
-      "https://img.olx.com.br/images/96/961560115008376.jpg",
-      "https://img.olx.com.br/images/97/971573356756275.jpg",
-      "https://img.olx.com.br/images/98/988550356524381.jpg",
-      "https://img.olx.com.br/images/99/991592955895026.jpg"
-    ],
-    "id": "1463810253",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-fat-glacier-white-500gb-1463810253",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2025",
-    "titulo": "Playstation 4 FAT - Glacier White - 500gb",
-    "ts": 1779968743
   }
 ]
