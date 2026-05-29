@@ -1,21 +1,40 @@
 [
   {
-    "id": "1506358835",
-    "titulo": "Jogos ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1506358686",
+    "titulo": "Jogos Ps4",
+    "preco": 200,
+    "precoRaw": "R$ 200",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "14:25",
-    "tempoOlx": "Na OLX desde maio de 2014",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1506358835",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/jogos-ps4-1506358686",
+    "fotoUrl": "https://img.olx.com.br/images/49/490678888880782.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/49/490678888880782.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780075536
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:25",
     "fotoUrl": "https://img.olx.com.br/images/14/141661769891129.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/141661769891129.jpg"
     ],
-    "defeito": false,
+    "id": "1506358835",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-ps4-1506358835",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "titulo": "Jogos ps4",
     "ts": 1780075528
   },
   {
@@ -10275,25 +10294,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "PS4 slim 500 gb",
     "ts": 1780006205
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:09",
-    "fotoUrl": "https://img.olx.com.br/images/40/406647523817004.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/406647523817004.jpg",
-      "https://img.olx.com.br/images/42/428630528981689.jpg"
-    ],
-    "id": "1506143771",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/jogos-ps4-midia-fisica-1506143771",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2022",
-    "titulo": "Jogos PS4 midia fisica ",
-    "ts": 1780006163
   }
 ]
