@@ -1,21 +1,41 @@
 [
   {
-    "id": "1506344749",
-    "titulo": "Jogo ps4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1506348072",
+    "titulo": "iPhone 14 Pro Max 128gb",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "14:07",
-    "tempoOlx": "Na OLX desde maio de 2024",
+    "detectado": "14:10",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-pro-max-128gb-1506348072",
+    "fotoUrl": "https://img.olx.com.br/images/23/234636169800877.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/23/234636169800877.jpg",
+      "https://img.olx.com.br/images/26/269626160803523.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780074605
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogo-ps4-1506344749",
+    "defeito": false,
+    "detectado": "14:07",
     "fotoUrl": "https://img.olx.com.br/images/84/842626647583271.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/84/842626647583271.jpg"
     ],
-    "defeito": false,
+    "id": "1506344749",
+    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogo-ps4-1506344749",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2024",
+    "titulo": "Jogo ps4",
     "ts": 1780074443
   },
   {
@@ -10315,24 +10335,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Cavaleiros do zodiaco ",
     "ts": 1780004645
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "18:39",
-    "fotoUrl": "https://img.olx.com.br/images/71/711631284745501.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/711631284745501.jpg"
-    ],
-    "id": "1506137667",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-1506137667",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2021",
-    "titulo": "IPHONE 13 pro max ",
-    "ts": 1780004376
   }
 ]
