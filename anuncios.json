@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506428858",
-    "titulo": "iPhone 13 pro 128gb ",
-    "preco": 2800,
-    "precoRaw": "R$ 2.800",
-    "categoria": "iphone",
+    "id": "1506429809",
+    "titulo": "Crash Bandicoot PS4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:37",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "18:38",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/crash-bandicoot-ps4-1506429809",
+    "fotoUrl": "https://img.olx.com.br/images/67/671680405646845.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/67/671680405646845.jpg",
+      "https://img.olx.com.br/images/69/690660640802294.jpg",
+      "https://img.olx.com.br/images/71/711667282638853.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780090687
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1506428858",
+    "defeito": false,
+    "detectado": "18:37",
     "fotoUrl": "https://img.olx.com.br/images/79/797623049077787.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/797623049077787.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/84/846645289204033.jpg",
       "https://img.olx.com.br/images/87/877680888842279.jpg"
     ],
-    "defeito": false,
+    "id": "1506428858",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1506428858",
+    "preco": 2800,
+    "precoRaw": "R$ 2.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "iPhone 13 pro 128gb ",
     "ts": 1780090656
   },
   {
@@ -10314,24 +10335,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2023",
     "titulo": "PS4 Fat + 2 Controles + Câmera + 8 Jogos",
     "ts": 1780025826
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:31",
-    "fotoUrl": "https://img.olx.com.br/images/43/431622281654499.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/43/431622281654499.jpg"
-    ],
-    "id": "1506223561",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/jogos-de-ps4-r-50-00-ou-todos-por-r-999-00-1506223561",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2025",
-    "titulo": "Jogos de PS4 - R$ 50,00 ou todos por R$ 999,00",
-    "ts": 1780025497
   }
 ]
