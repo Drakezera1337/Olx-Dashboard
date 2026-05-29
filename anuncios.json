@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506230712",
-    "titulo": "Especificações Técnicas: Xbox Series S 1TB",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1506231123",
+    "titulo": "The Last of us II",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "01:39",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "detectado": "01:43",
+    "tempoOlx": "Na OLX desde março de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/especificacoes-tecnicas-xbox-series-s-1tb-1506230712",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/the-last-of-us-ii-1506231123",
+    "fotoUrl": "https://img.olx.com.br/images/58/584680406745919.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/584680406745919.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780029785
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "01:39",
     "fotoUrl": "https://img.olx.com.br/images/62/622692526935069.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/62/622692526935069.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/67/670625522959613.jpg",
       "https://img.olx.com.br/images/68/689654888959793.jpg"
     ],
-    "defeito": false,
+    "id": "1506230712",
+    "link": "https://mg.olx.com.br/regiao-de-uberlandia-e-uberaba/games/consoles-de-video-game/especificacoes-tecnicas-xbox-series-s-1tb-1506230712",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "titulo": "Especificações Técnicas: Xbox Series S 1TB",
     "ts": 1780029577
   },
   {
@@ -10336,29 +10355,5 @@
     "tempoOlx": "Na OLX desde junho de 2018",
     "titulo": "PlayStation 4 Slim",
     "ts": 1779979383
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:42",
-    "fotoUrl": "https://img.olx.com.br/images/49/498695402878594.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/498695402878594.jpg",
-      "https://img.olx.com.br/images/73/735667402684008.jpg",
-      "https://img.olx.com.br/images/86/860608641064038.jpg",
-      "https://img.olx.com.br/images/96/966646766731731.jpg",
-      "https://img.olx.com.br/images/14/147680163546180.jpg",
-      "https://img.olx.com.br/images/30/300698882361884.jpg"
-    ],
-    "id": "1504765749",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-completo-1504765749",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2020",
-    "titulo": "PlayStation 4 completo ",
-    "ts": 1779979375
   }
 ]
