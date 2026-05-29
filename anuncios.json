@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506412210",
-    "titulo": "PS5 mídia física com nota fiscal ",
-    "preco": 2599,
-    "precoRaw": "R$ 2.599",
-    "categoria": "ps5",
+    "id": "1506413213",
+    "titulo": "PlayStation 4 Usado ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:38",
-    "tempoOlx": "Na OLX desde maio de 2021",
+    "tempoOlx": "Na OLX desde outubro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/ps5-midia-fisica-com-nota-fiscal-1506412210",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-4-usado-1506413213",
+    "fotoUrl": "https://img.olx.com.br/images/65/656676768858039.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/656676768858039.jpg",
+      "https://img.olx.com.br/images/68/687679043800262.jpg",
+      "https://img.olx.com.br/images/70/706643285597212.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780087096
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:38",
     "fotoUrl": "https://img.olx.com.br/images/60/604644644257115.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/604644644257115.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/72/725657167084856.jpg",
       "https://img.olx.com.br/images/75/758674040629929.jpg"
     ],
-    "defeito": false,
+    "id": "1506412210",
+    "link": "https://ac.olx.com.br/acre/games/consoles-de-video-game/ps5-midia-fisica-com-nota-fiscal-1506412210",
+    "preco": 2599,
+    "precoRaw": "R$ 2.599",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2021",
+    "titulo": "PS5 mídia física com nota fiscal ",
     "ts": 1780087086
   },
   {
@@ -10287,25 +10308,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2019",
     "titulo": "Jogo ps4 FIFA 18",
     "ts": 1780019768
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:56",
-    "fotoUrl": "https://img.olx.com.br/images/95/952641150326739.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/952641150326739.jpg",
-      "https://img.olx.com.br/images/97/977609635609939.jpg"
-    ],
-    "id": "1496203621",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/call-of-duty-jogo-ps4-1496203621",
-    "preco": 95,
-    "precoRaw": "R$ 95",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
-    "titulo": "Call of Duty jogo ps4",
-    "ts": 1780019760
   }
 ]
