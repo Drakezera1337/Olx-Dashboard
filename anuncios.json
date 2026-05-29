@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506196542",
-    "titulo": "iphone 14",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "iphone",
+    "id": "1448503673",
+    "titulo": "Jogo PS4 Residente Evil 7",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:58",
-    "tempoOlx": "Na OLX desde novembro de 2023",
+    "detectado": "22:01",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-residente-evil-7-1448503673",
+    "fotoUrl": "https://img.olx.com.br/images/91/917522939469892.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/91/917522939469892.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780016497
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1506196542",
+    "defeito": false,
+    "detectado": "21:58",
     "fotoUrl": "https://img.olx.com.br/images/60/600640521129354.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/60/600640521129354.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/65/658624169405808.jpg",
       "https://img.olx.com.br/images/66/660603040409735.jpg"
     ],
-    "defeito": false,
+    "id": "1506196542",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-1506196542",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2023",
+    "titulo": "iphone 14",
     "ts": 1780016318
   },
   {
@@ -10353,26 +10372,5 @@
     "tempoOlx": "Na OLX desde agosto de 2015",
     "titulo": "Titanfall 2 - PS4",
     "ts": 1779968421
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "08:40",
-    "fotoUrl": "https://img.olx.com.br/images/38/388531334291004.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/388531334291004.jpg",
-      "https://img.olx.com.br/images/40/402589213497073.jpg",
-      "https://img.olx.com.br/images/41/412541213425916.jpg"
-    ],
-    "id": "1445041069",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/everybody-golf-ps4-1445041069",
-    "preco": 49,
-    "precoRaw": "R$ 49",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2015",
-    "titulo": "Everybody Golf - PS4",
-    "ts": 1779968412
   }
 ]
