@@ -1,22 +1,41 @@
 [
   {
-    "id": "1506322490",
-    "titulo": "Ps4 slim ( com defeito no leitor de disco)",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "categoria": "ps4",
+    "id": "1506323485",
+    "titulo": "PlayStation 5",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "12:48",
-    "tempoOlx": "Na OLX desde outubro de 2023",
+    "detectado": "12:51",
+    "tempoOlx": "Na OLX desde outubro de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/consoles-de-video-game/ps4-slim-com-defeito-no-leitor-de-disco-1506322490",
+    "link": "https://mg.olx.com.br/regiao-de-montes-claros-e-diamantina/games/consoles-de-video-game/playstation-5-1506323485",
+    "fotoUrl": "https://img.olx.com.br/images/53/534645407749148.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/534645407749148.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780069895
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:48",
     "fotoUrl": "https://img.olx.com.br/images/96/969671169454810.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/969671169454810.jpg",
       "https://img.olx.com.br/images/97/971689289000982.jpg"
     ],
-    "defeito": false,
+    "id": "1506322490",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/consoles-de-video-game/ps4-slim-com-defeito-no-leitor-de-disco-1506322490",
+    "preco": 550,
+    "precoRaw": "R$ 550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2023",
+    "titulo": "Ps4 slim ( com defeito no leitor de disco)",
     "ts": 1780069714
   },
   {
@@ -10319,24 +10338,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "Ps4 FAT 500",
     "ts": 1779998194
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "16:51",
-    "fotoUrl": "https://img.olx.com.br/images/75/752690765232435.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/752690765232435.jpg"
-    ],
-    "id": "1506112606",
-    "link": "https://sc.olx.com.br/oeste-de-santa-catarina/games/consoles-de-video-game/troco-xbox-series-s-por-pecas-de-pc-1506112606",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2026",
-    "titulo": "Troco xbox series s por peças de pc",
-    "ts": 1779997902
   }
 ]
