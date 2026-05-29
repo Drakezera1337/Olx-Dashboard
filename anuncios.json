@@ -1,22 +1,41 @@
 [
   {
-    "id": "1506380940",
-    "titulo": "Vende-se ps5 para retirar ",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "categoria": "ps5",
+    "id": "1506380364",
+    "titulo": "PlayStation 4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "15:40",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vende-se-ps5-para-retirar-1506380940",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-1506380364",
+    "fotoUrl": "https://img.olx.com.br/images/78/780643520202722.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/780643520202722.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780080043
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:40",
     "fotoUrl": "https://img.olx.com.br/images/85/855628286347222.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/85/855628286347222.jpg",
       "https://img.olx.com.br/images/86/864630645292272.jpg"
     ],
-    "defeito": false,
+    "id": "1506380940",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vende-se-ps5-para-retirar-1506380940",
+    "preco": 2550,
+    "precoRaw": "R$ 2.550",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2015",
+    "titulo": "Vende-se ps5 para retirar ",
     "ts": 1780080035
   },
   {
@@ -10275,26 +10294,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "PlayStation PS4 Fat 500gb",
     "ts": 1780012872
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:01",
-    "fotoUrl": "https://img.olx.com.br/images/71/715636749493286.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/715636749493286.jpg",
-      "https://img.olx.com.br/images/72/726644508733826.jpg",
-      "https://img.olx.com.br/images/72/728643746498760.jpg"
-    ],
-    "id": "1487289385",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/ps4-vr-sony-camera-1487289385",
-    "preco": 950,
-    "precoRaw": "R$ 950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2021",
-    "titulo": "PS4 VR + sony camera ",
-    "ts": 1780012864
   }
 ]
