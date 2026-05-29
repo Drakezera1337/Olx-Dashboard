@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506301077",
-    "titulo": "Ps4 ",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1506288950",
+    "titulo": "iPhone 13 pro Max ",
+    "preco": 2999,
+    "precoRaw": "R$ 2.999",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "11:46",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-1506288950",
+    "fotoUrl": "https://img.olx.com.br/images/27/275692402221942.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/275692402221942.jpg",
+      "https://img.olx.com.br/images/28/283696647636486.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780065994
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://to.olx.com.br/tocantins/games/consoles-de-video-game/ps4-1506301077",
+    "defeito": false,
+    "detectado": "11:46",
     "fotoUrl": "https://img.olx.com.br/images/93/930644162126827.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/93/930644162126827.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/97/975655642634021.jpg",
       "https://img.olx.com.br/images/98/988619528653511.jpg"
     ],
-    "defeito": false,
+    "id": "1506301077",
+    "link": "https://to.olx.com.br/tocantins/games/consoles-de-video-game/ps4-1506301077",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Ps4 ",
     "ts": 1780065964
   },
   {
@@ -10299,24 +10319,5 @@
     "tempoOlx": "Na OLX desde novembro de 2020",
     "titulo": "PS5 Slim ",
     "ts": 1779990875
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:52",
-    "fotoUrl": "https://img.olx.com.br/images/54/548686647472300.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/54/548686647472300.jpg"
-    ],
-    "id": "1506078661",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/ps-3-slim-completo-1506078661",
-    "preco": 450,
-    "precoRaw": "R$ 450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PS 3 Slim Completo ",
-    "ts": 1779990755
   }
 ]
