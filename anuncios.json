@@ -1,23 +1,43 @@
 [
   {
-    "id": "1506369988",
-    "titulo": "Phone 13mini",
-    "preco": 2050,
-    "precoRaw": "R$ 2.050",
-    "categoria": "outros",
+    "id": "1506370222",
+    "titulo": "Ps4 com defeito ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:58",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "detectado": "15:00",
+    "tempoOlx": "Na OLX desde junho de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://mt.olx.com.br/regiao-de-rondonopolis-e-sinop/games/consoles-de-video-game/ps4-com-defeito-1506370222",
+    "fotoUrl": "https://img.olx.com.br/images/55/553602166065927.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/553602166065927.jpg",
+      "https://img.olx.com.br/images/35/354639525038190.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780077604
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/phone-13mini-1506369988",
+    "defeito": false,
+    "detectado": "14:58",
     "fotoUrl": "https://img.olx.com.br/images/10/104616408000860.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/10/104616408000860.jpg",
       "https://img.olx.com.br/images/14/149683641089850.jpg",
       "https://img.olx.com.br/images/15/150643521480756.jpg"
     ],
-    "defeito": false,
+    "id": "1506369988",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/phone-13mini-1506369988",
+    "preco": 2050,
+    "precoRaw": "R$ 2.050",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2016",
+    "titulo": "Phone 13mini",
     "ts": 1780077515
   },
   {
@@ -10269,26 +10289,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Nintendo DSi",
     "ts": 1780009507
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:00",
-    "fotoUrl": "https://img.olx.com.br/images/31/318640526171655.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/31/318640526171655.jpg",
-      "https://img.olx.com.br/images/33/337629766464950.jpg",
-      "https://img.olx.com.br/images/35/355623764140466.jpg"
-    ],
-    "id": "1506155444",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/dance-dance-revolution-1506155444",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Dance Dance revolution",
-    "ts": 1780009232
   }
 ]
