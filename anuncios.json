@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506417752",
-    "titulo": "Mad Max",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "categoria": "outros",
+    "id": "1506404521",
+    "titulo": "Assassins Creed Black Flag PS4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:56",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "tempoOlx": "Na OLX desde junho de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/mad-max-1506417752",
+    "link": "https://pb.olx.com.br/paraiba/games/jogos-de-video-game/assassins-creed-black-flag-ps4-1506404521",
+    "fotoUrl": "https://img.olx.com.br/images/31/316666285243099.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/31/316666285243099.jpg",
+      "https://img.olx.com.br/images/34/346694527686221.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780088173
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:56",
     "fotoUrl": "https://img.olx.com.br/images/38/384625883984087.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/384625883984087.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/44/444694884270412.jpg",
       "https://img.olx.com.br/images/45/456624280719976.jpg"
     ],
-    "defeito": false,
+    "id": "1506417752",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/mad-max-1506417752",
+    "preco": 70,
+    "precoRaw": "R$ 70",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "Mad Max",
     "ts": 1780088165
   },
   {
@@ -10304,26 +10324,5 @@
     "tempoOlx": "Na OLX desde julho de 2014",
     "titulo": "Godofwar Remaster ps4 ",
     "ts": 1780020394
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "23:00",
-    "fotoUrl": "https://img.olx.com.br/images/85/859523826870749.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/859523826870749.jpg",
-      "https://img.olx.com.br/images/86/860505584048414.jpg",
-      "https://img.olx.com.br/images/87/879552108093514.jpg"
-    ],
-    "id": "1456074131",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-horizon-zero-dawn-1456074131",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2017",
-    "titulo": "Jogo Ps4 Horizon Zero Dawn",
-    "ts": 1780020045
   }
 ]
