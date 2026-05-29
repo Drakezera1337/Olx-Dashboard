@@ -1,23 +1,44 @@
 [
   {
-    "id": "1506430182",
-    "titulo": "Spiderman PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1506430603",
+    "titulo": "Shadow of Mordor PS4",
+    "preco": 70,
+    "precoRaw": "R$ 70",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "18:44",
     "tempoOlx": "Na OLX desde janeiro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/spiderman-ps4-1506430182",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/shadow-of-mordor-ps4-1506430603",
+    "fotoUrl": "https://img.olx.com.br/images/57/574656642657823.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/57/574656642657823.jpg",
+      "https://img.olx.com.br/images/59/591662406770838.jpg",
+      "https://img.olx.com.br/images/61/616610766366792.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780091065
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:44",
     "fotoUrl": "https://img.olx.com.br/images/49/499635643835936.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/49/499635643835936.jpg",
       "https://img.olx.com.br/images/51/510674169678764.jpg",
       "https://img.olx.com.br/images/53/534699280242183.jpg"
     ],
-    "defeito": false,
+    "id": "1506430182",
+    "link": "https://sp.olx.com.br/regiao-de-sorocaba/games/jogos-de-video-game/spiderman-ps4-1506430182",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "titulo": "Spiderman PS4",
     "ts": 1780091056
   },
   {
@@ -10313,27 +10334,5 @@
     "tempoOlx": "Na OLX desde junho de 2022",
     "titulo": "Ps4",
     "ts": 1780030156
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "01:49",
-    "fotoUrl": "https://img.olx.com.br/images/87/877612643608142.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/877612643608142.jpg",
-      "https://img.olx.com.br/images/88/883653646500514.jpg",
-      "https://img.olx.com.br/images/90/900696521683144.jpg",
-      "https://img.olx.com.br/images/92/927611527490818.jpg"
-    ],
-    "id": "1506232327",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/driveclub-vr-ps-vr-1506232327",
-    "preco": 320,
-    "precoRaw": "R$ 320",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2013",
-    "titulo": "Driveclub VR (PS VR)",
-    "ts": 1780030148
   }
 ]
