@@ -1,23 +1,44 @@
 [
   {
-    "id": "1470805827",
-    "titulo": "Jogo top PlayStation 4",
-    "preco": 280,
-    "precoRaw": "R$ 280",
+    "id": "1470803849",
+    "titulo": "Jogo PlayStation 4 Hot Wheels ",
+    "preco": 240,
+    "precoRaw": "R$ 240",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:02",
+    "detectado": "18:03",
     "tempoOlx": "Na OLX desde março de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-top-playstation-4-1470805827",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-playstation-4-hot-wheels-1470803849",
+    "fotoUrl": "https://img.olx.com.br/images/72/721626364490327.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/721626364490327.jpg",
+      "https://img.olx.com.br/images/74/747632723510950.jpg",
+      "https://img.olx.com.br/images/76/762654122074089.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780088584
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:02",
     "fotoUrl": "https://img.olx.com.br/images/79/790637845510628.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/79/790637845510628.jpg",
       "https://img.olx.com.br/images/80/809632244572297.jpg",
       "https://img.olx.com.br/images/82/825677240828399.jpg"
     ],
-    "defeito": false,
+    "id": "1470805827",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/jogo-top-playstation-4-1470805827",
+    "preco": 280,
+    "precoRaw": "R$ 280",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "Jogo top PlayStation 4",
     "ts": 1780088575
   },
   {
@@ -10307,25 +10328,5 @@
     "tempoOlx": "Na OLX desde setembro de 2014",
     "titulo": "Final Fantasy VII Remake PS4",
     "ts": 1780021493
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "23:24",
-    "fotoUrl": "https://img.olx.com.br/images/27/279651405431441.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/279651405431441.jpg",
-      "https://img.olx.com.br/images/28/289698768397691.jpg"
-    ],
-    "id": "1506212369",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/playstation-4-1506212369",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "Playstation 4",
-    "ts": 1780021482
   }
 ]
