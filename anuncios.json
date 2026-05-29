@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506324480",
-    "titulo": "Vendo PS4 Completo + Controle + Jogos + Entrega",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "categoria": "ps4",
+    "id": "1506327449",
+    "titulo": "Iphone 16 PRO",
+    "preco": 5500,
+    "precoRaw": "R$ 5.500",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "12:57",
-    "tempoOlx": "Na OLX desde setembro de 2014",
+    "detectado": "12:59",
+    "tempoOlx": "Na OLX desde julho de 2014",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-16-pro-1506327449",
+    "fotoUrl": "https://img.olx.com.br/images/16/166672402554599.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/16/166672402554599.jpg",
+      "https://img.olx.com.br/images/19/199686769805174.jpg",
+      "https://img.olx.com.br/images/21/210635641130725.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780070345
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/vendo-ps4-completo-controle-jogos-entrega-1506324480",
+    "defeito": false,
+    "detectado": "12:57",
     "fotoUrl": "https://img.olx.com.br/images/75/757628528954966.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/757628528954966.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/75/757698644913350.jpg",
       "https://img.olx.com.br/images/75/752632769273535.jpg"
     ],
-    "defeito": false,
+    "id": "1506324480",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/vendo-ps4-completo-controle-jogos-entrega-1506324480",
+    "preco": 1199,
+    "precoRaw": "R$ 1.199",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2014",
+    "titulo": "Vendo PS4 Completo + Controle + Jogos + Entrega",
     "ts": 1780070262
   },
   {
@@ -10318,26 +10339,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2018",
     "titulo": "Ps5 fat (ler o anúncio)",
     "ts": 1779998976
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "17:09",
-    "fotoUrl": "https://img.olx.com.br/images/79/790616529954663.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/79/790616529954663.jpg",
-      "https://img.olx.com.br/images/84/848686762366229.jpg",
-      "https://img.olx.com.br/images/85/853662526633183.jpg"
-    ],
-    "id": "1506115690",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/consoles-de-video-game/ps4-slim-com-um-controle-1506115690",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "",
-    "titulo": "Ps4 slim com um controle.",
-    "ts": 1779998944
   }
 ]
