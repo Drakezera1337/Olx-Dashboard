@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506197437",
-    "titulo": "Nintendo Switch V2",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "categoria": "switch",
+    "id": "1503053170",
+    "titulo": "Ps4 A venda",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:10",
-    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "detectado": "22:13",
+    "tempoOlx": "Na OLX desde junho de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-v2-1506197437",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-a-venda-1503053170",
+    "fotoUrl": "https://img.olx.com.br/images/92/927617640527248.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/927617640527248.jpg",
+      "https://img.olx.com.br/images/94/945646524640734.jpg",
+      "https://img.olx.com.br/images/96/968656409980381.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780017215
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:10",
     "fotoUrl": "https://img.olx.com.br/images/70/704684400210114.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/704684400210114.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/76/768644162466297.jpg",
       "https://img.olx.com.br/images/77/775631644554819.jpg"
     ],
-    "defeito": false,
+    "id": "1506197437",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/nintendo-switch-v2-1506197437",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2024",
+    "titulo": "Nintendo Switch V2",
     "ts": 1780017006
   },
   {
@@ -10354,24 +10375,5 @@
     "tempoOlx": "Na OLX desde junho de 2021",
     "titulo": "Call Of Duty Infinite Warfare PS4 Midia Física Aceitamos OLX PAY ",
     "ts": 1779968493
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "08:41",
-    "fotoUrl": "https://img.olx.com.br/images/49/497670407041547.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/49/497670407041547.jpg"
-    ],
-    "id": "1505938815",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/jogos-de-video-game/nioh-ps4-1505938815",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2023",
-    "titulo": "Nioh - PS4",
-    "ts": 1779968484
   }
 ]
