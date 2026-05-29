@@ -1,21 +1,40 @@
 [
   {
-    "id": "1506276803",
-    "titulo": "Ps4 Slim ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1506254847",
+    "titulo": "Ps4 1tb",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:07",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "tempoOlx": "Na OLX desde junho de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps4-slim-1506276803",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-1tb-1506254847",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1780060030
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:07",
     "fotoUrl": "https://img.olx.com.br/images/34/346679644001784.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/346679644001784.jpg"
     ],
-    "defeito": false,
+    "id": "1506276803",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/ps4-slim-1506276803",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "Ps4 Slim ",
     "ts": 1780060023
   },
   {
@@ -10329,24 +10348,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Ps4 Slim 1T + 3 controles + 6 jogos",
     "ts": 1779979718
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:48",
-    "fotoUrl": "https://img.olx.com.br/images/12/120679163064339.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/120679163064339.jpg"
-    ],
-    "id": "1505062010",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/cberpunk-ps4-1505062010",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2018",
-    "titulo": "Cberpunk ps4",
-    "ts": 1779979709
   }
 ]
