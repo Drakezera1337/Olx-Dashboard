@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506437376",
-    "titulo": "Psp 3001",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "outros",
+    "id": "1497816133",
+    "titulo": "Caixa do Playstation 5 FAT mídia física ",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "19:15",
-    "tempoOlx": "Na OLX desde setembro de 2018",
+    "tempoOlx": "Na OLX desde maio de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/psp-3001-1506437376",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/consoles-de-video-game/caixa-do-playstation-5-fat-midia-fisica-1497816133",
+    "fotoUrl": "https://img.olx.com.br/images/96/966653396113738.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/966653396113738.jpg",
+      "https://img.olx.com.br/images/98/986603636201828.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780092935
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:15",
     "fotoUrl": "https://img.olx.com.br/images/26/263606401264229.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/26/263606401264229.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/33/335624168991203.jpg",
       "https://img.olx.com.br/images/35/357661404133084.jpg"
     ],
-    "defeito": false,
+    "id": "1506437376",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/consoles-de-video-game/psp-3001-1506437376",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2018",
+    "titulo": "Psp 3001",
     "ts": 1780092909
   },
   {
@@ -10323,25 +10343,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2015",
     "titulo": "Playstation Portal",
     "ts": 1780059926
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "10:05",
-    "fotoUrl": "https://img.olx.com.br/images/91/910667165292521.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/910667165292521.jpg",
-      "https://img.olx.com.br/images/92/927645288813422.jpg"
-    ],
-    "id": "1506265719",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-14-128gb-1506265719",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2013",
-    "titulo": "iPhone 14 128GB",
-    "ts": 1780059920
   }
 ]
