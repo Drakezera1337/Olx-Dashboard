@@ -1,21 +1,40 @@
 [
   {
-    "id": "1506349383",
-    "titulo": "Vende-se Xbox one S",
-    "preco": 800,
-    "precoRaw": "R$ 800",
-    "categoria": "xbox",
+    "id": "1506359784",
+    "titulo": "Death Stranding e Days Gone",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "14:23",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "detectado": "14:25",
+    "tempoOlx": "Na OLX desde abril de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vende-se-xbox-one-s-1506349383",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/death-stranding-e-days-gone-1506359784",
+    "fotoUrl": "https://img.olx.com.br/images/68/688609520365188.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/688609520365188.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780075504
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:23",
     "fotoUrl": "https://img.olx.com.br/images/21/216649762997176.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/216649762997176.jpg"
     ],
-    "defeito": false,
+    "id": "1506349383",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/vende-se-xbox-one-s-1506349383",
+    "preco": 800,
+    "precoRaw": "R$ 800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
+    "titulo": "Vende-se Xbox one S",
     "ts": 1780075391
   },
   {
@@ -10286,29 +10305,5 @@
     "tempoOlx": "Na OLX desde março de 2015",
     "titulo": "Controle Nintendo 64 Switch Online",
     "ts": 1780005826
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:03",
-    "fotoUrl": "https://img.olx.com.br/images/75/750623881697104.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/750623881697104.jpg",
-      "https://img.olx.com.br/images/75/753689280475827.jpg",
-      "https://img.olx.com.br/images/75/754698884226811.jpg",
-      "https://img.olx.com.br/images/75/751606642041012.jpg",
-      "https://img.olx.com.br/images/75/758614280729434.jpg",
-      "https://img.olx.com.br/images/75/759617282781248.jpg"
-    ],
-    "id": "1506143353",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/kit-controle-nyxi-wizard-case-nyxi-nintendo-switch-1506143353",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2015",
-    "titulo": "Kit controle Nyxi Wizard + Case Nyxi Nintendo Switch",
-    "ts": 1780005816
   }
 ]
