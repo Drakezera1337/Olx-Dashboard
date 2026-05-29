@@ -1,16 +1,33 @@
 [
   {
-    "id": "1506380120",
-    "titulo": "Vendo IPhone 13 128 tb",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "iphone",
+    "id": "1506061632",
+    "titulo": "Ps4 slim com controle e cabo de energia ",
+    "preco": 1149,
+    "precoRaw": "R$ 1.149",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:43",
-    "tempoOlx": "Na OLX desde junho de 2014",
+    "detectado": "15:46",
+    "tempoOlx": "Na OLX desde março de 2025",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-slim-com-controle-e-cabo-de-energia-1506061632",
+    "fotoUrl": "https://img.olx.com.br/images/83/839620762317497.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/839620762317497.jpg",
+      "https://img.olx.com.br/images/85/855667045600767.jpg",
+      "https://img.olx.com.br/images/86/862660520151517.jpg",
+      "https://img.olx.com.br/images/88/889649527104877.jpg",
+      "https://img.olx.com.br/images/90/909607883204531.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780080395
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-13-128-tb-1506380120",
+    "defeito": false,
+    "detectado": "15:43",
     "fotoUrl": "https://img.olx.com.br/images/81/818666406709138.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/81/818666406709138.jpg",
@@ -20,7 +37,13 @@
       "https://img.olx.com.br/images/94/940684280197443.jpg",
       "https://img.olx.com.br/images/97/970656165763544.jpg"
     ],
-    "defeito": false,
+    "id": "1506380120",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-13-128-tb-1506380120",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2014",
+    "titulo": "Vendo IPhone 13 128 tb",
     "ts": 1780080216
   },
   {
@@ -10287,24 +10310,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Vendo jogos PS4",
     "ts": 1780012965
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:02",
-    "fotoUrl": "https://img.olx.com.br/images/36/361628764006641.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/361628764006641.jpg"
-    ],
-    "id": "1506174075",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-evil-withen-2-playstation-4-1506174075",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
-    "titulo": "The evil withen 2 , Playstation 4",
-    "ts": 1780012955
   }
 ]
