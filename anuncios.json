@@ -1,21 +1,43 @@
 [
   {
-    "id": "1506264652",
-    "titulo": "Ps4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1487967371",
+    "titulo": "Playstation 4 1 Tb + 4 jogos físicos ",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "10:32",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "tempoOlx": "Na OLX desde novembro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-1506264652",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/playstation-4-1-tb-4-jogos-fisicos-1487967371",
+    "fotoUrl": "https://img.olx.com.br/images/11/110645262517821.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/110645262517821.jpg",
+      "https://img.olx.com.br/images/13/131641262090648.jpg",
+      "https://img.olx.com.br/images/16/166641740470716.jpg",
+      "https://img.olx.com.br/images/27/274671512825836.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780061560
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "10:32",
     "fotoUrl": "https://img.olx.com.br/images/61/619691527787837.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/61/619691527787837.jpg"
     ],
-    "defeito": false,
+    "id": "1506264652",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-1506264652",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "Ps4",
     "ts": 1780061551
   },
   {
@@ -10310,27 +10332,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Mad Max PS4",
     "ts": 1779985207
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "13:19",
-    "fotoUrl": "https://img.olx.com.br/images/48/480645880201295.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/48/480645880201295.jpg",
-      "https://img.olx.com.br/images/49/497651403883498.jpg",
-      "https://img.olx.com.br/images/51/513631044013421.jpg",
-      "https://img.olx.com.br/images/53/537686522147843.jpg"
-    ],
-    "id": "1506056110",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506056110",
-    "preco": 1089,
-    "precoRaw": "R$ 1.089",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2023",
-    "titulo": "Xbox one s",
-    "ts": 1779985147
   }
 ]
