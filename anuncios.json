@@ -1,22 +1,43 @@
 [
   {
-    "id": "1506288950",
-    "titulo": "iPhone 13 pro Max ",
-    "preco": 2999,
-    "precoRaw": "R$ 2.999",
-    "categoria": "iphone",
+    "id": "1506302056",
+    "titulo": "Jogo Call Of Duty WWII Ps4 Seminovo - Mídia Física - Português BR ",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "11:46",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "11:51",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/jogo-call-of-duty-wwii-ps4-seminovo-midia-fisica-portugues-br-1506302056",
+    "fotoUrl": "https://img.olx.com.br/images/18/185677041784015.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/185677041784015.jpg",
+      "https://img.olx.com.br/images/18/189675281624860.jpg",
+      "https://img.olx.com.br/images/18/186607767694819.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780066264
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-1506288950",
+    "defeito": false,
+    "detectado": "11:46",
     "fotoUrl": "https://img.olx.com.br/images/27/275692402221942.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/27/275692402221942.jpg",
       "https://img.olx.com.br/images/28/283696647636486.jpg"
     ],
-    "defeito": false,
+    "id": "1506288950",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-max-1506288950",
+    "preco": 2999,
+    "precoRaw": "R$ 2.999",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "iPhone 13 pro Max ",
     "ts": 1780065994
   },
   {
@@ -10299,25 +10320,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "The Witcher 3 - Wild Hunt (PS4)",
     "ts": 1779991085
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:54",
-    "fotoUrl": "https://img.olx.com.br/images/56/564634404351393.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/56/564634404351393.jpg",
-      "https://img.olx.com.br/images/58/584680283528546.jpg"
-    ],
-    "id": "1506079754",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-slim-1506079754",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "PS5 Slim ",
-    "ts": 1779990875
   }
 ]
