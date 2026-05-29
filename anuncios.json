@@ -1,23 +1,45 @@
 [
   {
-    "id": "1468382229",
-    "titulo": "Jogo ps4 ",
-    "preco": 100,
-    "precoRaw": "R$ 100",
+    "id": "1468382492",
+    "titulo": "Batman ps4 ",
+    "preco": 110,
+    "precoRaw": "R$ 110",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "19:44",
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-1468382229",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/batman-ps4-1468382492",
+    "fotoUrl": "https://img.olx.com.br/images/47/470672004115145.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/470672004115145.jpg",
+      "https://img.olx.com.br/images/49/496667008971336.jpg",
+      "https://img.olx.com.br/images/51/511623726325038.jpg",
+      "https://img.olx.com.br/images/28/289666360824250.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780094655
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:44",
     "fotoUrl": "https://img.olx.com.br/images/38/387686366159132.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/387686366159132.jpg",
       "https://img.olx.com.br/images/40/409648247594153.jpg",
       "https://img.olx.com.br/images/99/999624480117394.jpg"
     ],
-    "defeito": false,
+    "id": "1468382229",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-1468382229",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "titulo": "Jogo ps4 ",
     "ts": 1780094646
   },
   {
@@ -10335,24 +10357,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "Controle Xbox 360 Sem Fio - ",
     "ts": 1780060107
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "10:08",
-    "fotoUrl": "https://img.olx.com.br/images/21/216569410601572.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/21/216569410601572.jpg"
-    ],
-    "id": "1413613072",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/kit-bateria-de-controle-xbox-360-1413613072",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2017",
-    "titulo": "Kit bateria de controle Xbox 360",
-    "ts": 1780060100
   }
 ]
