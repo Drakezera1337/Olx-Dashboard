@@ -1,22 +1,45 @@
 [
   {
-    "id": "1506358164",
-    "titulo": "Coleção Jogos Ps4",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "categoria": "ps4",
+    "id": "1506360181",
+    "titulo": "Ps3",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "14:25",
-    "tempoOlx": "Na OLX desde abril de 2016",
+    "detectado": "14:26",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/colecao-jogos-ps4-1506358164",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/ps3-1506360181",
+    "fotoUrl": "https://img.olx.com.br/images/10/109644527965912.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/109644527965912.jpg",
+      "https://img.olx.com.br/images/11/115610529707247.jpg",
+      "https://img.olx.com.br/images/12/126638642391798.jpg",
+      "https://img.olx.com.br/images/14/146698403203428.jpg",
+      "https://img.olx.com.br/images/15/155623520584700.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780075596
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:25",
     "fotoUrl": "https://img.olx.com.br/images/18/184680645366975.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/184680645366975.jpg",
       "https://img.olx.com.br/images/19/199613769318371.jpg"
     ],
-    "defeito": false,
+    "id": "1506358164",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/colecao-jogos-ps4-1506358164",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2016",
+    "titulo": "Coleção Jogos Ps4",
     "ts": 1780075552
   },
   {
@@ -10275,24 +10298,5 @@
     "tempoOlx": "Na OLX desde julho de 2022",
     "titulo": "Ps4 ",
     "ts": 1780006837
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:16",
-    "fotoUrl": "https://img.olx.com.br/images/74/748626523638945.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/748626523638945.jpg"
-    ],
-    "id": "1506145919",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/nintendo-switch-lite-1506145919",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Nintendo Switch Lite",
-    "ts": 1780006594
   }
 ]
