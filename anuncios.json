@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506298255",
-    "titulo": "Apple iPhone 15 Pro Max 1 Terá azul Titânio ",
-    "preco": 6950,
-    "precoRaw": "R$ 6.950",
-    "categoria": "iphone",
+    "id": "1506300197",
+    "titulo": "Controle de videogame Xbox One e 360.",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "11:40",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "detectado": "11:43",
+    "tempoOlx": "Na OLX desde março de 2024",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-15-pro-max-1-tera-azul-titanio-1506298255",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-de-videogame-xbox-one-e-360-1506300197",
+    "fotoUrl": "https://img.olx.com.br/images/78/780679529682231.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/780679529682231.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780065784
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "defeito": false,
+    "detectado": "11:40",
     "fotoUrl": "https://img.olx.com.br/images/24/245654405736245.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/24/245654405736245.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/29/290688643297766.jpg",
       "https://img.olx.com.br/images/30/306687643710594.jpg"
     ],
-    "defeito": false,
+    "id": "1506298255",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-15-pro-max-1-tera-azul-titanio-1506298255",
+    "preco": 6950,
+    "precoRaw": "R$ 6.950",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
+    "titulo": "Apple iPhone 15 Pro Max 1 Terá azul Titânio ",
     "ts": 1780065606
   },
   {
@@ -10299,25 +10318,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2016",
     "titulo": "VIDEO GAME XBOX SERIE S ",
     "ts": 1779990486
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:45",
-    "fotoUrl": "https://img.olx.com.br/images/11/111638281886983.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/111638281886983.jpg",
-      "https://img.olx.com.br/images/12/126643167877586.jpg"
-    ],
-    "id": "1506076303",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/final-fantasy-vii-remake-ps4-1506076303",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2021",
-    "titulo": "Final Fantasy VII Remake PS4",
-    "ts": 1779990358
   }
 ]
