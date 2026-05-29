@@ -1,23 +1,43 @@
 [
   {
-    "id": "1506306094",
-    "titulo": "PlayStation portal",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "categoria": "outros",
+    "id": "1506305952",
+    "titulo": "PlayStation 3 fat",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "12:04",
-    "tempoOlx": "Na OLX desde outubro de 2015",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-portal-1506306094",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-3-fat-1506305952",
+    "fotoUrl": "https://img.olx.com.br/images/53/535629043374240.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/535629043374240.jpg",
+      "https://img.olx.com.br/images/54/549607643118572.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780067083
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:04",
     "fotoUrl": "https://img.olx.com.br/images/17/178623763008634.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/17/178623763008634.jpg",
       "https://img.olx.com.br/images/18/189621049209726.jpg",
       "https://img.olx.com.br/images/19/198665160633350.jpg"
     ],
-    "defeito": false,
+    "id": "1506306094",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-portal-1506306094",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2015",
+    "titulo": "PlayStation portal",
     "ts": 1780067075
   },
   {
@@ -10311,27 +10331,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2018",
     "titulo": "Call of Duty Black Ops 4",
     "ts": 1779997175
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "16:39",
-    "fotoUrl": "https://img.olx.com.br/images/22/227646048504137.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/22/227646048504137.jpg",
-      "https://img.olx.com.br/images/24/241685400993266.jpg",
-      "https://img.olx.com.br/images/25/251664760054713.jpg",
-      "https://img.olx.com.br/images/28/285693169345292.jpg"
-    ],
-    "id": "1506105050",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-slim-sem-defeitos-ou-avarias-1506105050",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2020",
-    "titulo": "PS4 Slim Sem defeitos ou avarias",
-    "ts": 1779997167
   }
 ]
