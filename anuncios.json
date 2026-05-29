@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506441434",
-    "titulo": "XBOX SERIES S",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1468382229",
+    "titulo": "Jogo ps4 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "19:39",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "detectado": "19:44",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/xbox-series-s-1506441434",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-ps4-1468382229",
+    "fotoUrl": "https://img.olx.com.br/images/38/387686366159132.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/38/387686366159132.jpg",
+      "https://img.olx.com.br/images/40/409648247594153.jpg",
+      "https://img.olx.com.br/images/99/999624480117394.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780094646
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "19:39",
     "fotoUrl": "https://img.olx.com.br/images/87/879618160880489.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/87/879618160880489.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/91/910634646649267.jpg",
       "https://img.olx.com.br/images/92/929676643121045.jpg"
     ],
-    "defeito": false,
+    "id": "1506441434",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/xbox-series-s-1506441434",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "XBOX SERIES S",
     "ts": 1780094397
   },
   {
@@ -10333,24 +10354,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2017",
     "titulo": "Kit bateria de controle Xbox 360",
     "ts": 1780060100
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "10:08",
-    "fotoUrl": "https://img.olx.com.br/images/69/693665033333301.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/693665033333301.jpg"
-    ],
-    "id": "1497639242",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/manual-do-proprietario-ford-escort-ghia-xr3-1990-1991-1497639242",
-    "preco": 750,
-    "precoRaw": "R$ 750",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2026",
-    "titulo": "Manual do proprietário Ford Escort Ghia/XR3 1990/1991",
-    "ts": 1780060094
   }
 ]
