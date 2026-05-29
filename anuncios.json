@@ -1,16 +1,33 @@
 [
   {
-    "id": "1506386413",
-    "titulo": "Ps3, console com defeito, 2 controles e 10 jogos",
-    "preco": 300,
-    "precoRaw": "R$ 300",
+    "id": "1506388476",
+    "titulo": "Caixa Playstation 3 160gb Original",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:58",
-    "tempoOlx": "Na OLX desde maio de 2016",
+    "detectado": "16:04",
+    "tempoOlx": "Na OLX desde dezembro de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-console-com-defeito-2-controles-e-10-jogos-1506386413",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/caixa-playstation-3-160gb-original-1506388476",
+    "fotoUrl": "https://img.olx.com.br/images/36/365666286722534.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/365666286722534.jpg",
+      "https://img.olx.com.br/images/37/375696522851416.jpg",
+      "https://img.olx.com.br/images/38/383601280825830.jpg",
+      "https://img.olx.com.br/images/39/394669162453516.jpg",
+      "https://img.olx.com.br/images/41/413628407051971.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780081475
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:58",
     "fotoUrl": "https://img.olx.com.br/images/54/540613644835334.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/54/540613644835334.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/55/551639403612212.jpg",
       "https://img.olx.com.br/images/56/566649523517295.jpg"
     ],
-    "defeito": false,
+    "id": "1506386413",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/ps3-console-com-defeito-2-controles-e-10-jogos-1506386413",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "titulo": "Ps3, console com defeito, 2 controles e 10 jogos",
     "ts": 1780081116
   },
   {
@@ -10294,24 +10317,5 @@
     "tempoOlx": "Na OLX desde abril de 2021",
     "titulo": "LOTE JOGOS DE PS4",
     "ts": 1780013326
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "21:08",
-    "fotoUrl": "https://img.olx.com.br/images/40/402615644858542.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/402615644858542.jpg"
-    ],
-    "id": "1506175837",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/diablo-3-ultimate-edition-playstation-4-1506175837",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2019",
-    "titulo": "Diablo 3 ultimate edition , Playstation 4",
-    "ts": 1780013317
   }
 ]
