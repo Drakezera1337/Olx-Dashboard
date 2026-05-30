@@ -1,16 +1,34 @@
 [
   {
-    "id": "1506493174",
-    "titulo": "Xbox series s",
-    "preco": 2200,
-    "precoRaw": "R$ 2.200",
-    "categoria": "xbox",
+    "id": "1506494518",
+    "titulo": "VENDE-SE PS4 ",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "23:51",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "00:00",
+    "tempoOlx": "Na OLX desde março de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/vende-se-ps4-1506494518",
+    "fotoUrl": "https://img.olx.com.br/images/78/780664287913025.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/78/780664287913025.jpg",
+      "https://img.olx.com.br/images/79/793605161183092.jpg",
+      "https://img.olx.com.br/images/81/810644163938853.jpg",
+      "https://img.olx.com.br/images/83/838694649483616.jpg",
+      "https://img.olx.com.br/images/85/859628285696896.jpg",
+      "https://img.olx.com.br/images/86/867697406219791.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780110036
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1506493174",
+    "defeito": false,
+    "detectado": "23:51",
     "fotoUrl": "https://img.olx.com.br/images/42/422612524093127.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/422612524093127.jpg",
@@ -18,7 +36,13 @@
       "https://img.olx.com.br/images/44/442684165207027.jpg",
       "https://img.olx.com.br/images/44/448690647364209.jpg"
     ],
-    "defeito": false,
+    "id": "1506493174",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1506493174",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "Xbox series s",
     "ts": 1780109496
   },
   {
@@ -10390,24 +10414,5 @@
     "tempoOlx": "Na OLX desde maio de 2023",
     "titulo": "Vendo ou troco ",
     "ts": 1780065844
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "11:43",
-    "fotoUrl": "https://img.olx.com.br/images/78/780679529682231.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/780679529682231.jpg"
-    ],
-    "id": "1506300197",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/acessorios-de-video-game/controle-de-videogame-xbox-one-e-360-1506300197",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Controle de videogame Xbox One e 360.",
-    "ts": 1780065784
   }
 ]
