@@ -1,7 +1,7 @@
 [
   {
-    "id": "1506511093",
-    "titulo": "Xbox one S",
+    "id": "1506510871",
+    "titulo": "Xbox one S ",
     "preco": 1000,
     "precoRaw": "R$ 1.000",
     "categoria": "xbox",
@@ -10,13 +10,33 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506511093",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506510871",
+    "fotoUrl": "https://img.olx.com.br/images/24/240656522062245.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/240656522062245.jpg",
+      "https://img.olx.com.br/images/23/239675284708821.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780153212
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "defeito": false,
+    "detectado": "12:00",
     "fotoUrl": "https://img.olx.com.br/images/64/641649763523114.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/641649763523114.jpg",
       "https://img.olx.com.br/images/64/649681404129082.jpg"
     ],
-    "defeito": false,
+    "id": "1506511093",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506511093",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Xbox one S",
     "ts": 1780153204
   },
   {
@@ -10379,24 +10399,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "Jogos PS4",
     "ts": 1780074435
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:07",
-    "fotoUrl": "https://img.olx.com.br/images/67/674643169584678.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/67/674643169584678.jpg"
-    ],
-    "id": "1506346277",
-    "link": "https://mg.olx.com.br/regiao-de-juiz-de-fora/games/jogos-de-video-game/jogo-ps4-1506346277",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2024",
-    "titulo": "Jogo ps4 ",
-    "ts": 1780074427
   }
 ]
