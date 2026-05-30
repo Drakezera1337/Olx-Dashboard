@@ -1,21 +1,41 @@
 [
   {
-    "id": "1506632439",
-    "titulo": "Ps4",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1506633272",
+    "titulo": "Jogo The Sims 4 - PS4",
+    "preco": 78,
+    "precoRaw": "R$ 78",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "16:06",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "16:08",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1506632439",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-the-sims-4-ps4-1506633272",
+    "fotoUrl": "https://img.olx.com.br/images/98/984628524992412.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/98/984628524992412.jpg",
+      "https://img.olx.com.br/images/12/121660402722583.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780168087
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "16:06",
     "fotoUrl": "https://img.olx.com.br/images/65/652619881267917.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/65/652619881267917.jpg"
     ],
-    "defeito": false,
+    "id": "1506632439",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1506632439",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Ps4",
     "ts": 1780167995
   },
   {
@@ -10339,27 +10359,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Control jogo ps4",
     "ts": 1780092131
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "18:57",
-    "fotoUrl": "https://img.olx.com.br/images/78/786611168803245.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/786611168803245.jpg",
-      "https://img.olx.com.br/images/80/809680160337005.jpg",
-      "https://img.olx.com.br/images/81/813668168587300.jpg",
-      "https://img.olx.com.br/images/83/838637281689676.jpg"
-    ],
-    "id": "1506433552",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/spider-man-2-ps5-1506433552",
-    "preco": 179,
-    "precoRaw": "R$ 179",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2013",
-    "titulo": "Spider Man 2 PS5",
-    "ts": 1780091857
   }
 ]
