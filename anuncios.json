@@ -1,7 +1,7 @@
 [
   {
-    "id": "1491309207",
-    "titulo": "Jogo PS4 Until Dawn",
+    "id": "1491309496",
+    "titulo": "Jogo PS4 Bloodborne",
     "preco": 100,
     "precoRaw": "R$ 100",
     "categoria": "ps4",
@@ -10,13 +10,33 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-ps4-until-dawn-1491309207",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-ps4-bloodborne-1491309496",
+    "fotoUrl": "https://img.olx.com.br/images/13/131633155622691.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/131633155622691.jpg",
+      "https://img.olx.com.br/images/15/152622638732337.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780153291
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:01",
     "fotoUrl": "https://img.olx.com.br/images/96/967640519897516.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/967640519897516.jpg",
       "https://img.olx.com.br/images/97/972617636563857.jpg"
     ],
-    "defeito": false,
+    "id": "1491309207",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-ps4-until-dawn-1491309207",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2013",
+    "titulo": "Jogo PS4 Until Dawn",
     "ts": 1780153283
   },
   {
@@ -10382,25 +10402,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Coleção God of War Ps4",
     "ts": 1780075147
-  },
-  {
-    "categoria": "switch",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:15",
-    "fotoUrl": "https://img.olx.com.br/images/71/718645046511625.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/71/718645046511625.jpg",
-      "https://img.olx.com.br/images/73/730684882263824.jpg"
-    ],
-    "id": "1506349313",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/consoles-de-video-game/nintendo-switch-oled-1506349313",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Nintendo Switch OLED",
-    "ts": 1780074935
   }
 ]
