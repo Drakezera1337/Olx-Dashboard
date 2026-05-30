@@ -1,21 +1,42 @@
 [
   {
-    "id": "1506463455",
-    "titulo": "PS4 ",
-    "preco": 900,
-    "precoRaw": "R$ 900",
+    "id": "1506591962",
+    "titulo": "Ps4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "12:34",
-    "tempoOlx": "Na OLX desde maio de 2017",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1506463455",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/ps4-1506591962",
+    "fotoUrl": "https://img.olx.com.br/images/90/903656882831424.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/90/903656882831424.jpg",
+      "https://img.olx.com.br/images/92/929603883767777.jpg",
+      "https://img.olx.com.br/images/93/939610525125870.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780155281
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:34",
     "fotoUrl": "https://img.olx.com.br/images/70/701608763645066.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/70/701608763645066.jpg"
     ],
-    "defeito": false,
+    "id": "1506463455",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1506463455",
+    "preco": 900,
+    "precoRaw": "R$ 900",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2017",
+    "titulo": "PS4 ",
     "ts": 1780155273
   },
   {
@@ -10368,25 +10389,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "Phone 13mini",
     "ts": 1780077515
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "14:58",
-    "fotoUrl": "https://img.olx.com.br/images/97/979616889012067.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/979616889012067.jpg",
-      "https://img.olx.com.br/images/98/988605642432306.jpg"
-    ],
-    "id": "1506370420",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-slim-1t-gold-edition-1506370420",
-    "preco": 1450,
-    "precoRaw": "R$ 1.450",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2022",
-    "titulo": "PS4 SLIM - 1T - GOLD EDITION",
-    "ts": 1780077484
   }
 ]
