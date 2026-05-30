@@ -1,22 +1,41 @@
 [
   {
-    "id": "1506568606",
-    "titulo": "Vídeo game ",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "outros",
+    "id": "1506568471",
+    "titulo": "Ps4 ",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "11:57",
-    "tempoOlx": "Na OLX desde junho de 2017",
+    "tempoOlx": "Na OLX desde outubro de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/video-game-1506568606",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1506568471",
+    "fotoUrl": "https://img.olx.com.br/images/59/595641528480665.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/595641528480665.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780153044
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:57",
     "fotoUrl": "https://img.olx.com.br/images/53/537638649132928.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/537638649132928.jpg",
       "https://img.olx.com.br/images/54/542618281521155.jpg"
     ],
-    "defeito": false,
+    "id": "1506568606",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/video-game-1506568606",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2017",
+    "titulo": "Vídeo game ",
     "ts": 1780153037
   },
   {
@@ -10404,25 +10423,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2021",
     "titulo": " Xbox séries s defeito na fonte",
     "ts": 1780070660
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:04",
-    "fotoUrl": "https://img.olx.com.br/images/76/762645648209532.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/762645648209532.jpg",
-      "https://img.olx.com.br/images/78/783659164846270.jpg"
-    ],
-    "id": "1506329708",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/vendo-ps4-1506329708",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "Vendo ps4",
-    "ts": 1780070645
   }
 ]
