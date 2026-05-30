@@ -1,21 +1,42 @@
 [
   {
-    "id": "1506593031",
-    "titulo": "PLAYSTATION 3 SLIM 500GB À VENDA",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "categoria": "ps3",
+    "id": "1506592837",
+    "titulo": "iPhone 11 128gb ",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "12:42",
-    "tempoOlx": "Na OLX desde março de 2016",
+    "detectado": "12:43",
+    "tempoOlx": "Na OLX desde maio de 2016",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-128gb-1506592837",
+    "fotoUrl": "https://img.olx.com.br/images/48/483692403147354.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/48/483692403147354.jpg",
+      "https://img.olx.com.br/images/49/490614167768020.jpg",
+      "https://img.olx.com.br/images/50/503624287587927.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780155813
+  },
+  {
+    "categoria": "ps3",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-3-slim-500gb-venda-1506593031",
+    "defeito": false,
+    "detectado": "12:42",
     "fotoUrl": "https://img.olx.com.br/images/36/362617769697959.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/362617769697959.jpg"
     ],
-    "defeito": false,
+    "id": "1506593031",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-3-slim-500gb-venda-1506593031",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2016",
+    "titulo": "PLAYSTATION 3 SLIM 500GB À VENDA",
     "ts": 1780155731
   },
   {
@@ -10367,25 +10388,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "FIFA 20 ps4",
     "ts": 1780078081
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:07",
-    "fotoUrl": "https://img.olx.com.br/images/36/364639039232906.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/36/364639039232906.jpg",
-      "https://img.olx.com.br/images/38/384659875742131.jpg"
-    ],
-    "id": "1497490690",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/god-of-war-ps4-1497490690",
-    "preco": 85,
-    "precoRaw": "R$ 85",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "God of war ps4",
-    "ts": 1780078073
   }
 ]
