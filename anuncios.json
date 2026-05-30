@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506593273",
-    "titulo": "Playstation 4 Bom",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "ps4",
+    "id": "1506592859",
+    "titulo": "PS3 com defeito, pra arrumar ou retirada de peças ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "12:41",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "detectado": "12:42",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-bom-1506593273",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-com-defeito-pra-arrumar-ou-retirada-de-pecas-1506592859",
+    "fotoUrl": "https://img.olx.com.br/images/58/583699524203913.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/583699524203913.jpg",
+      "https://img.olx.com.br/images/60/608689768025204.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780155724
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "12:41",
     "fotoUrl": "https://img.olx.com.br/images/32/329651162308472.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/32/329651162308472.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/37/379649289640187.jpg",
       "https://img.olx.com.br/images/38/380689642978060.jpg"
     ],
-    "defeito": false,
+    "id": "1506593273",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-bom-1506593273",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "titulo": "Playstation 4 Bom",
     "ts": 1780155694
   },
   {
@@ -10372,25 +10392,5 @@
     "tempoOlx": "Na OLX desde maio de 2019",
     "titulo": "The last Of Us Remaster + The Last part 2 - R$ 160,00",
     "ts": 1780078064
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:07",
-    "fotoUrl": "https://img.olx.com.br/images/17/176683279808960.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/17/176683279808960.jpg",
-      "https://img.olx.com.br/images/19/191611633068207.jpg"
-    ],
-    "id": "1497490947",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/god-of-war-remasterizado-ps4-1497490947",
-    "preco": 75,
-    "precoRaw": "R$ 75",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "God of war remasterizado ps4",
-    "ts": 1780078055
   }
 ]
