@@ -1,22 +1,43 @@
 [
   {
-    "id": "1506653223",
-    "titulo": "Playstation 5 FAT Fisico",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "ps5",
+    "id": "1506652567",
+    "titulo": "Vídeo game ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "18:08",
-    "tempoOlx": "Na OLX desde abril de 2022",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-5-fat-fisico-1506653223",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/video-game-1506652567",
+    "fotoUrl": "https://img.olx.com.br/images/85/859610400495516.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/85/859610400495516.jpg",
+      "https://img.olx.com.br/images/86/868635160990450.jpg",
+      "https://img.olx.com.br/images/10/108685886377654.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780175296
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:08",
     "fotoUrl": "https://img.olx.com.br/images/11/110663289230628.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/110663289230628.jpg",
       "https://img.olx.com.br/images/12/123633047408729.jpg"
     ],
-    "defeito": false,
+    "id": "1506653223",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-5-fat-fisico-1506653223",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2022",
+    "titulo": "Playstation 5 FAT Fisico",
     "ts": 1780175287
   },
   {
@@ -10359,25 +10380,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "eFootball PES 2020 - PS4",
     "ts": 1780095825
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:03",
-    "fotoUrl": "https://img.olx.com.br/images/62/621628642809491.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/621628642809491.jpg",
-      "https://img.olx.com.br/images/65/656687763928759.jpg"
-    ],
-    "id": "1506446449",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-fat-1506446449",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2019",
-    "titulo": "PS4 FAT ",
-    "ts": 1780095815
   }
 ]
