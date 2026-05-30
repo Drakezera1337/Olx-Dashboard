@@ -1,21 +1,41 @@
 [
   {
-    "id": "1506495645",
-    "titulo": "Detroit",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "categoria": "jogos",
+    "id": "1506494912",
+    "titulo": "Hellblade Jogo Ps4",
+    "preco": 195,
+    "precoRaw": "R$ 195",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "00:02",
     "tempoOlx": "Na OLX desde março de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/detroit-1506495645",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/hellblade-jogo-ps4-1506494912",
+    "fotoUrl": "https://img.olx.com.br/images/42/426637766926538.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/426637766926538.jpg",
+      "https://img.olx.com.br/images/43/439652522147411.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780110164
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:02",
     "fotoUrl": "https://img.olx.com.br/images/44/441634645369857.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/441634645369857.jpg"
     ],
-    "defeito": false,
+    "id": "1506495645",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/detroit-1506495645",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Detroit",
     "ts": 1780110155
   },
   {
@@ -10391,26 +10411,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Troll and i PS4 LACRADO",
     "ts": 1780065867
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:44",
-    "fotoUrl": "https://img.olx.com.br/images/78/782507451460772.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/78/782507451460772.jpg",
-      "https://img.olx.com.br/images/78/783507331301459.jpg",
-      "https://img.olx.com.br/images/78/789530690972065.jpg"
-    ],
-    "id": "1443853518",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/left-alive-ps4-lacrado-1443853518",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "Left Alive PS4 LACRADO",
-    "ts": 1780065860
   }
 ]
