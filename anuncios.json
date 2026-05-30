@@ -1,22 +1,45 @@
 [
   {
-    "id": "1506569359",
-    "titulo": "Xbox Séries S",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "categoria": "xbox",
+    "id": "1506574479",
+    "titulo": "Ps3 LEIA O DESCRIÇÃO ",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "11:51",
-    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "detectado": "11:52",
+    "tempoOlx": "Na OLX desde agosto de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1506569359",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/consoles-de-video-game/ps3-leia-o-descricao-1506574479",
+    "fotoUrl": "https://img.olx.com.br/images/27/279654041426737.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/27/279654041426737.jpg",
+      "https://img.olx.com.br/images/28/288678164859320.jpg",
+      "https://img.olx.com.br/images/29/291647287715128.jpg",
+      "https://img.olx.com.br/images/30/301684405417006.jpg",
+      "https://img.olx.com.br/images/32/324687407659340.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780152721
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:51",
     "fotoUrl": "https://img.olx.com.br/images/96/963639045113892.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/963639045113892.jpg",
       "https://img.olx.com.br/images/22/222661167627979.jpg"
     ],
-    "defeito": false,
+    "id": "1506569359",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1506569359",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2022",
+    "titulo": "Xbox Séries S",
     "ts": 1780152714
   },
   {
@@ -10383,25 +10406,5 @@
     "tempoOlx": "Na OLX desde agosto de 2024",
     "titulo": "Red Dead Redemption 2 - PS4",
     "ts": 1780068493
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:28",
-    "fotoUrl": "https://img.olx.com.br/images/95/958639524093342.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/95/958639524093342.jpg",
-      "https://img.olx.com.br/images/97/977608408616264.jpg"
-    ],
-    "id": "1506316121",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-1tb-1506316121",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Ps4 slim 1TB ",
-    "ts": 1780068485
   }
 ]
