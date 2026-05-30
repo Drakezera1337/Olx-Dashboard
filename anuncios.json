@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506631906",
-    "titulo": "Ps4 ",
-    "preco": 1800,
-    "precoRaw": "R$ 1.800",
-    "categoria": "ps4",
+    "id": "1506632479",
+    "titulo": "Ps5 ",
+    "preco": 2350,
+    "precoRaw": "R$ 2.350",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "16:02",
-    "tempoOlx": "Na OLX desde novembro de 2019",
+    "detectado": "16:06",
+    "tempoOlx": "Na OLX desde setembro de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-1506631906",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps5-1506632479",
+    "fotoUrl": "https://img.olx.com.br/images/13/137643523031204.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/13/137643523031204.jpg",
+      "https://img.olx.com.br/images/14/144619040835089.jpg",
+      "https://img.olx.com.br/images/15/154653885732194.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780167967
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "16:02",
     "fotoUrl": "https://img.olx.com.br/images/13/130685406874953.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/130685406874953.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/18/186605649592922.jpg",
       "https://img.olx.com.br/images/20/209666520621151.jpg"
     ],
-    "defeito": false,
+    "id": "1506631906",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-1506631906",
+    "preco": 1800,
+    "precoRaw": "R$ 1.800",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2019",
+    "titulo": "Ps4 ",
     "ts": 1780167738
   },
   {
@@ -10341,24 +10362,5 @@
     "tempoOlx": "Na OLX desde novembro de 2014",
     "titulo": "Jogo Darksiders III - PlayStation 4 em perfeito estado",
     "ts": 1780091782
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:56",
-    "fotoUrl": "https://img.olx.com.br/images/57/576663522169650.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/57/576663522169650.jpg"
-    ],
-    "id": "1506433482",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ghost-of-tsushima-midia-fisica-ps4-ps5-1506433482",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
-    "titulo": "Ghost of tsushima mídia física ps4 / ps5 ",
-    "ts": 1780091774
   }
 ]
