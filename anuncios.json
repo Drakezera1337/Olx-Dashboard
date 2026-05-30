@@ -1,21 +1,42 @@
 [
   {
-    "id": "1506480853",
-    "titulo": "Jogos de PS4",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "ps4",
+    "id": "1506480694",
+    "titulo": "Ps5 sim",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "22:55",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "tempoOlx": "Na OLX desde setembro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-de-ps4-1506480853",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps5-sim-1506480694",
+    "fotoUrl": "https://img.olx.com.br/images/14/142610889903469.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/142610889903469.jpg",
+      "https://img.olx.com.br/images/17/177683400610716.jpg",
+      "https://img.olx.com.br/images/18/180650885128553.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780106137
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:55",
     "fotoUrl": "https://img.olx.com.br/images/59/597695641962993.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/59/597695641962993.jpg"
     ],
-    "defeito": false,
+    "id": "1506480853",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogos-de-ps4-1506480853",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
+    "titulo": "Jogos de PS4",
     "ts": 1780106115
   },
   {
@@ -10347,24 +10368,5 @@
     "tempoOlx": "",
     "titulo": "Jogos mais controle ",
     "ts": 1780064475
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:20",
-    "fotoUrl": "https://img.olx.com.br/images/16/164569905322593.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/16/164569905322593.jpg"
-    ],
-    "id": "1423032889",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogo-gris-para-playstation-4-1423032889",
-    "preco": 550,
-    "precoRaw": "R$ 550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "Jogo Gris para Playstation 4",
-    "ts": 1780064456
   }
 ]
