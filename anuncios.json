@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506623928",
-    "titulo": "Vídeo gamer ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "outros",
+    "id": "1506623958",
+    "titulo": "Ps3 desbloqueado ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:15",
-    "tempoOlx": "Na OLX desde junho de 2021",
+    "detectado": "15:17",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/video-gamer-1506623928",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/ps3-desbloqueado-1506623958",
+    "fotoUrl": "https://img.olx.com.br/images/33/331644649660061.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/331644649660061.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780165055
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:15",
     "fotoUrl": "https://img.olx.com.br/images/40/409692766177540.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/40/409692766177540.jpg",
       "https://img.olx.com.br/images/42/426677767399465.jpg",
       "https://img.olx.com.br/images/43/433695643241690.jpg"
     ],
-    "defeito": false,
+    "id": "1506623928",
+    "link": "https://sc.olx.com.br/norte-de-santa-catarina/games/jogos-de-video-game/video-gamer-1506623928",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2021",
+    "titulo": "Vídeo gamer ",
     "ts": 1780164937
   },
   {
@@ -10342,26 +10361,5 @@
     "tempoOlx": "Na OLX desde outubro de 2014",
     "titulo": "World of Final Fantasy",
     "ts": 1780090352
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:32",
-    "fotoUrl": "https://img.olx.com.br/images/77/776693408315879.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/77/776693408315879.jpg",
-      "https://img.olx.com.br/images/78/788697647978606.jpg",
-      "https://img.olx.com.br/images/80/804684287054799.jpg"
-    ],
-    "id": "1506427542",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/god-of-war-ragnarok-ps4-1506427542",
-    "preco": 140,
-    "precoRaw": "R$ 140",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2014",
-    "titulo": "God of war - Ragnarok (Ps4)",
-    "ts": 1780090343
   }
 ]
