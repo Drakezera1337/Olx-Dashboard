@@ -1,21 +1,43 @@
 [
   {
-    "id": "1506492204",
-    "titulo": "Xbox one séries S",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1506493174",
+    "titulo": "Xbox series s",
+    "preco": 2200,
+    "precoRaw": "R$ 2.200",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "23:45",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "23:51",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-series-s-1506493174",
+    "fotoUrl": "https://img.olx.com.br/images/42/422612524093127.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/422612524093127.jpg",
+      "https://img.olx.com.br/images/42/422655167446012.jpg",
+      "https://img.olx.com.br/images/44/442684165207027.jpg",
+      "https://img.olx.com.br/images/44/448690647364209.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780109496
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/xbox-one-series-s-1506492204",
+    "defeito": false,
+    "detectado": "23:45",
     "fotoUrl": "https://img.olx.com.br/images/57/576682405449913.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/576682405449913.jpg"
     ],
-    "defeito": false,
+    "id": "1506492204",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/consoles-de-video-game/xbox-one-series-s-1506492204",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Xbox one séries S",
     "ts": 1780109105
   },
   {
@@ -10387,29 +10409,5 @@
     "tempoOlx": "Na OLX desde março de 2024",
     "titulo": "Controle de videogame Xbox One e 360.",
     "ts": 1780065784
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "11:40",
-    "fotoUrl": "https://img.olx.com.br/images/24/245654405736245.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/245654405736245.jpg",
-      "https://img.olx.com.br/images/26/263687166250538.jpg",
-      "https://img.olx.com.br/images/27/274605164815335.jpg",
-      "https://img.olx.com.br/images/28/283645763864110.jpg",
-      "https://img.olx.com.br/images/29/290688643297766.jpg",
-      "https://img.olx.com.br/images/30/306687643710594.jpg"
-    ],
-    "id": "1506298255",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/apple-iphone-15-pro-max-1-tera-azul-titanio-1506298255",
-    "preco": 6950,
-    "precoRaw": "R$ 6.950",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2021",
-    "titulo": "Apple iPhone 15 Pro Max 1 Terá azul Titânio ",
-    "ts": 1780065606
   }
 ]
