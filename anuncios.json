@@ -1,23 +1,43 @@
 [
   {
-    "id": "1506643397",
-    "titulo": "IPhone 13 Pro 128gb ",
-    "preco": 2400,
-    "precoRaw": "R$ 2.400",
-    "categoria": "iphone",
+    "id": "1506643803",
+    "titulo": "PS4 com defeito ",
+    "preco": 375,
+    "precoRaw": "R$ 375",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:06",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "17:09",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-com-defeito-1506643803",
+    "fotoUrl": "https://img.olx.com.br/images/11/114689769366312.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/11/114689769366312.jpg",
+      "https://img.olx.com.br/images/13/132675647677946.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780171778
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1506643397",
+    "defeito": false,
+    "detectado": "17:06",
     "fotoUrl": "https://img.olx.com.br/images/11/119678523826206.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/11/119678523826206.jpg",
       "https://img.olx.com.br/images/13/139629524727499.jpg",
       "https://img.olx.com.br/images/14/148669287009394.jpg"
     ],
-    "defeito": false,
+    "id": "1506643397",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-128gb-1506643397",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "IPhone 13 Pro 128gb ",
     "ts": 1780171598
   },
   {
@@ -10347,28 +10367,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "Jogo ps4 ",
     "ts": 1780094646
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:39",
-    "fotoUrl": "https://img.olx.com.br/images/87/879618160880489.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/87/879618160880489.jpg",
-      "https://img.olx.com.br/images/88/889691161738959.jpg",
-      "https://img.olx.com.br/images/90/906654168419535.jpg",
-      "https://img.olx.com.br/images/91/910634646649267.jpg",
-      "https://img.olx.com.br/images/92/929676643121045.jpg"
-    ],
-    "id": "1506441434",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/xbox-series-s-1506441434",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "XBOX SERIES S",
-    "ts": 1780094397
   }
 ]
