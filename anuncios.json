@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506618198",
-    "titulo": "PlayStation 4",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1506618715",
+    "titulo": "Jogos ps4",
+    "preco": 120,
+    "precoRaw": "R$ 120",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:42",
-    "tempoOlx": "Na OLX desde maio de 2015",
+    "detectado": "14:44",
+    "tempoOlx": "Na OLX desde maio de 2014",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-4-1506618198",
+    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/jogos-ps4-1506618715",
+    "fotoUrl": "https://img.olx.com.br/images/20/200627526229975.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/20/200627526229975.jpg",
+      "https://img.olx.com.br/images/21/217671408593422.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780163046
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:42",
     "fotoUrl": "https://img.olx.com.br/images/21/218615762656166.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/218615762656166.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/24/249698647465533.jpg",
       "https://img.olx.com.br/images/26/261645281927331.jpg"
     ],
-    "defeito": false,
+    "id": "1506618198",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-4-1506618198",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2015",
+    "titulo": "PlayStation 4",
     "ts": 1780162936
   },
   {
@@ -10342,25 +10362,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "The last of us part II",
     "ts": 1780088542
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:02",
-    "fotoUrl": "https://img.olx.com.br/images/11/110433707903036.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/110433707903036.jpg",
-      "https://img.olx.com.br/images/12/122471461196097.jpg"
-    ],
-    "id": "1356925070",
-    "link": "https://es.olx.com.br/norte-do-espirito-santo/games/jogos-de-video-game/jogos-ps4-playstation-4-1356925070",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2014",
-    "titulo": "Jogos PS4 - Playstation 4",
-    "ts": 1780088533
   }
 ]
