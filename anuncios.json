@@ -1,22 +1,41 @@
 [
   {
-    "id": "1506501499",
-    "titulo": "Game",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "outros",
+    "id": "1506502314",
+    "titulo": "Jogos ps4",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:32",
-    "tempoOlx": "Na OLX desde outubro de 2021",
+    "detectado": "00:44",
+    "tempoOlx": "Na OLX desde dezembro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/game-1506501499",
+    "link": "https://pr.olx.com.br/regiao-de-foz-do-iguacu-e-cascavel/games/jogos-de-video-game/jogos-ps4-1506502314",
+    "fotoUrl": "https://img.olx.com.br/images/95/951649882364105.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/951649882364105.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780112646
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:32",
     "fotoUrl": "https://img.olx.com.br/images/28/287685769648868.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/287685769648868.jpg",
       "https://img.olx.com.br/images/29/290663640484906.jpg"
     ],
-    "defeito": false,
+    "id": "1506501499",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/game-1506501499",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2021",
+    "titulo": "Game",
     "ts": 1780111942
   },
   {
@@ -10366,26 +10385,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "Playstation 5 Slim digital ótimo estado, sem controle e sem HDMI. ACEITO SOMENTE PIX",
     "ts": 1780066963
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:02",
-    "fotoUrl": "https://img.olx.com.br/images/27/274668641856094.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/27/274668641856094.jpg",
-      "https://img.olx.com.br/images/28/282691169255534.jpg",
-      "https://img.olx.com.br/images/29/296682407812273.jpg"
-    ],
-    "id": "1506289323",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/playstation-portal-para-console-ps5-cor-branco-1506289323",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PlayStation Portal para console PS5 cor Branco ",
-    "ts": 1780066954
   }
 ]
