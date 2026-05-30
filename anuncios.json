@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506600248",
-    "titulo": "Xbox one s 500 GB",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1506600458",
+    "titulo": "PlayStation 3",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "13:13",
-    "tempoOlx": "Na OLX desde setembro de 2024",
+    "tempoOlx": "Na OLX desde dezembro de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-one-s-500-gb-1506600248",
+    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/consoles-de-video-game/playstation-3-1506600458",
+    "fotoUrl": "https://img.olx.com.br/images/37/377640283489044.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/377640283489044.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780157623
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:13",
     "fotoUrl": "https://img.olx.com.br/images/43/439663763819027.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/43/439663763819027.jpg",
       "https://img.olx.com.br/images/45/455632884822980.jpg",
       "https://img.olx.com.br/images/47/479686281555827.jpg"
     ],
-    "defeito": false,
+    "id": "1506600248",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-one-s-500-gb-1506600248",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2024",
+    "titulo": "Xbox one s 500 GB",
     "ts": 1780157615
   },
   {
@@ -10343,29 +10362,5 @@
     "tempoOlx": "Na OLX desde março de 2025",
     "titulo": "Ps4 slim com controle e cabo de energia ",
     "ts": 1780080395
-  },
-  {
-    "categoria": "iphone",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "15:43",
-    "fotoUrl": "https://img.olx.com.br/images/81/818666406709138.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/81/818666406709138.jpg",
-      "https://img.olx.com.br/images/83/831686762572582.jpg",
-      "https://img.olx.com.br/images/86/865698162689362.jpg",
-      "https://img.olx.com.br/images/89/898685043313884.jpg",
-      "https://img.olx.com.br/images/94/940684280197443.jpg",
-      "https://img.olx.com.br/images/97/970656165763544.jpg"
-    ],
-    "id": "1506380120",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/vendo-iphone-13-128-tb-1506380120",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2014",
-    "titulo": "Vendo IPhone 13 128 tb",
-    "ts": 1780080216
   }
 ]
