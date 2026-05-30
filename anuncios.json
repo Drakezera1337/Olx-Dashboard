@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506632479",
-    "titulo": "Ps5 ",
-    "preco": 2350,
-    "precoRaw": "R$ 2.350",
-    "categoria": "ps5",
+    "id": "1506632439",
+    "titulo": "Ps4",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:06",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps5-1506632479",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps4-1506632439",
+    "fotoUrl": "https://img.olx.com.br/images/65/652619881267917.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/652619881267917.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780167995
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "16:06",
     "fotoUrl": "https://img.olx.com.br/images/13/137643523031204.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/137643523031204.jpg",
       "https://img.olx.com.br/images/14/144619040835089.jpg",
       "https://img.olx.com.br/images/15/154653885732194.jpg"
     ],
-    "defeito": false,
+    "id": "1506632479",
+    "link": "https://ba.olx.com.br/regiao-de-feira-de-santana-e-alagoinhas/games/consoles-de-video-game/ps5-1506632479",
+    "preco": 2350,
+    "precoRaw": "R$ 2.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Ps5 ",
     "ts": 1780167967
   },
   {
@@ -10342,25 +10361,5 @@
     "tempoOlx": "Na OLX desde outubro de 2013",
     "titulo": "Spider Man 2 PS5",
     "ts": 1780091857
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "18:56",
-    "fotoUrl": "https://img.olx.com.br/images/18/181474651458655.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/18/181474651458655.jpg",
-      "https://img.olx.com.br/images/18/184432535807569.jpg"
-    ],
-    "id": "1313658963",
-    "link": "https://pr.olx.com.br/regiao-de-maringa/games/jogos-de-video-game/jogo-darksiders-iii-playstation-4-em-perfeito-estado-1313658963",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2014",
-    "titulo": "Jogo Darksiders III - PlayStation 4 em perfeito estado",
-    "ts": 1780091782
   }
 ]
