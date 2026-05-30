@@ -1,22 +1,43 @@
 [
   {
-    "id": "1506633272",
-    "titulo": "Jogo The Sims 4 - PS4",
-    "preco": 78,
-    "precoRaw": "R$ 78",
-    "categoria": "ps4",
+    "id": "1506633676",
+    "titulo": "Jogo 007 First Light PS5",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "16:08",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "detectado": "16:12",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-007-first-light-ps5-1506633676",
+    "fotoUrl": "https://img.olx.com.br/images/18/181626647688413.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/181626647688413.jpg",
+      "https://img.olx.com.br/images/18/181603404618998.jpg",
+      "https://img.olx.com.br/images/19/196609763917118.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780168358
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-the-sims-4-ps4-1506633272",
+    "defeito": false,
+    "detectado": "16:08",
     "fotoUrl": "https://img.olx.com.br/images/98/984628524992412.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/984628524992412.jpg",
       "https://img.olx.com.br/images/12/121660402722583.jpg"
     ],
-    "defeito": false,
+    "id": "1506633272",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-the-sims-4-ps4-1506633272",
+    "preco": 78,
+    "precoRaw": "R$ 78",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Jogo The Sims 4 - PS4",
     "ts": 1780168087
   },
   {
@@ -10339,25 +10360,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Super elite 4 (PS4)",
     "ts": 1780092487
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:02",
-    "fotoUrl": "https://img.olx.com.br/images/28/280687527863458.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/28/280687527863458.jpg",
-      "https://img.olx.com.br/images/29/298636289752092.jpg"
-    ],
-    "id": "1506434570",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/control-jogo-ps4-1506434570",
-    "preco": 35,
-    "precoRaw": "R$ 35",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "Control jogo ps4",
-    "ts": 1780092131
   }
 ]
