@@ -1,21 +1,40 @@
 [
   {
-    "id": "1506496196",
-    "titulo": "Watch Dogs 2",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "outros",
+    "id": "1506496989",
+    "titulo": "God Of War",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "categoria": "jogos",
     "publicado": "",
     "detectado": "00:09",
     "tempoOlx": "Na OLX desde março de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/watch-dogs-2-1506496196",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/god-of-war-1506496989",
+    "fotoUrl": "https://img.olx.com.br/images/12/128623285982561.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/128623285982561.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780110576
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:09",
     "fotoUrl": "https://img.olx.com.br/images/95/951670881428448.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/951670881428448.jpg"
     ],
-    "defeito": false,
+    "id": "1506496196",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/watch-dogs-2-1506496196",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "Watch Dogs 2",
     "ts": 1780110568
   },
   {
@@ -10377,25 +10396,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Jogo Tom Clancy's The Division 2 Ps4 Seminovo - Mídia Física Original - Português BR ",
     "ts": 1780066654
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "11:55",
-    "fotoUrl": "https://img.olx.com.br/images/42/420689888490292.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/42/420689888490292.jpg",
-      "https://img.olx.com.br/images/44/440623162202177.jpg"
-    ],
-    "id": "1506302656",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/hoverboard-1506302656",
-    "preco": 399,
-    "precoRaw": "R$ 399",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2020",
-    "titulo": "Hoverboard",
-    "ts": 1780066543
   }
 ]
