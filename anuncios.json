@@ -1,21 +1,45 @@
 [
   {
-    "id": "1506592770",
-    "titulo": "Nintendo Switch Versão Zelda",
-    "preco": 2300,
-    "precoRaw": "R$ 2.300",
-    "categoria": "switch",
+    "id": "1506593273",
+    "titulo": "Playstation 4 Bom",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "12:40",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "detectado": "12:41",
+    "tempoOlx": "Na OLX desde dezembro de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-bom-1506593273",
+    "fotoUrl": "https://img.olx.com.br/images/32/329651162308472.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/32/329651162308472.jpg",
+      "https://img.olx.com.br/images/34/346690767525299.jpg",
+      "https://img.olx.com.br/images/35/357674044365333.jpg",
+      "https://img.olx.com.br/images/36/366695043423962.jpg",
+      "https://img.olx.com.br/images/37/379649289640187.jpg",
+      "https://img.olx.com.br/images/38/380689642978060.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780155694
+  },
+  {
+    "categoria": "switch",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-versao-zelda-1506592770",
+    "defeito": false,
+    "detectado": "12:40",
     "fotoUrl": "https://img.olx.com.br/images/98/985696280685870.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/98/985696280685870.jpg"
     ],
-    "defeito": false,
+    "id": "1506592770",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/nintendo-switch-versao-zelda-1506592770",
+    "preco": 2300,
+    "precoRaw": "R$ 2.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "Nintendo Switch Versão Zelda",
     "ts": 1780155634
   },
   {
@@ -10368,25 +10392,5 @@
     "tempoOlx": "Na OLX desde março de 2026",
     "titulo": "God of war remasterizado ps4",
     "ts": 1780078055
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:03",
-    "fotoUrl": "https://img.olx.com.br/images/93/939688763886845.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/939688763886845.jpg",
-      "https://img.olx.com.br/images/94/949668522747525.jpg"
-    ],
-    "id": "1506371557",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-com-controles-e-jogos-1506371557",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2020",
-    "titulo": "PlayStation 3 com controles e jogos",
-    "ts": 1780077814
   }
 ]
