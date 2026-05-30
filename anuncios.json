@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506491528",
-    "titulo": "Xbox Series S ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
+    "id": "1506491270",
+    "titulo": "7 jogos de xbox one",
+    "preco": 350,
+    "precoRaw": "R$ 350",
     "categoria": "xbox",
     "publicado": "",
-    "detectado": "23:38",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "detectado": "23:41",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/7-jogos-de-xbox-one-1506491270",
+    "fotoUrl": "https://img.olx.com.br/images/44/448694529241215.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/448694529241215.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780108865
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1506491528",
+    "defeito": false,
+    "detectado": "23:38",
     "fotoUrl": "https://img.olx.com.br/images/45/458662644186710.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/458662644186710.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/49/491642286074092.jpg",
       "https://img.olx.com.br/images/51/515666646866300.jpg"
     ],
-    "defeito": false,
+    "id": "1506491528",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/xbox-series-s-1506491528",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde dezembro de 2019",
+    "titulo": "Xbox Series S ",
     "ts": 1780108715
   },
   {
@@ -10393,26 +10412,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "PS4 1T",
     "ts": 1780065425
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:31",
-    "fotoUrl": "https://img.olx.com.br/images/53/531577594121211.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/53/531577594121211.jpg",
-      "https://img.olx.com.br/images/55/556506951191954.jpg",
-      "https://img.olx.com.br/images/58/588549470829990.jpg"
-    ],
-    "id": "1464272720",
-    "link": "https://pa.olx.com.br/regiao-de-belem/games/jogos-de-video-game/jogo-syberia-3-ps4-1464272720",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2019",
-    "titulo": "Jogo Syberia 3 PS4",
-    "ts": 1780065074
   }
 ]
