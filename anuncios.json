@@ -1,21 +1,40 @@
 [
   {
-    "id": "1506597297",
-    "titulo": "Gran Turismo 7",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "categoria": "jogos",
+    "id": "1481111980",
+    "titulo": "Jogos de Ps4 (valor individual)",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "13:00",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "tempoOlx": "Na OLX desde setembro de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/gran-turismo-7-1506597297",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogos-de-ps4-valor-individual-1481111980",
+    "fotoUrl": "https://img.olx.com.br/images/89/894651611133516.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/894651611133516.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780156849
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:00",
     "fotoUrl": "https://img.olx.com.br/images/86/860627045734800.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/86/860627045734800.jpg"
     ],
-    "defeito": false,
+    "id": "1506597297",
+    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/gran-turismo-7-1506597297",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "Gran Turismo 7",
     "ts": 1780156843
   },
   {
@@ -10348,27 +10367,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Far Cry 6 - PS4 ",
     "ts": 1780079235
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:27",
-    "fotoUrl": "https://img.olx.com.br/images/85/854572668730448.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/854572668730448.jpg",
-      "https://img.olx.com.br/images/88/888533429396684.jpg",
-      "https://img.olx.com.br/images/90/908542184586438.jpg",
-      "https://img.olx.com.br/images/92/923538662867848.jpg"
-    ],
-    "id": "1420782597",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/final-fantasy-i-vi-collection-ps4-1420782597",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Final Fantasy I-VI Collection - PS4",
-    "ts": 1780079227
   }
 ]
