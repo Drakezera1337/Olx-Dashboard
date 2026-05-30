@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506449790",
-    "titulo": "Playstation 4 500gb",
-    "preco": 1150,
-    "precoRaw": "R$ 1.150",
-    "categoria": "ps4",
+    "id": "1506495645",
+    "titulo": "Detroit",
+    "preco": 120,
+    "precoRaw": "R$ 120",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "00:00",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "00:02",
+    "tempoOlx": "Na OLX desde março de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-500gb-1506449790",
+    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/detroit-1506495645",
+    "fotoUrl": "https://img.olx.com.br/images/44/441634645369857.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/44/441634645369857.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780110155
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:00",
     "fotoUrl": "https://img.olx.com.br/images/66/664691528731483.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/664691528731483.jpg",
       "https://img.olx.com.br/images/68/681636760229275.jpg",
       "https://img.olx.com.br/images/69/691688164912179.jpg"
     ],
-    "defeito": false,
+    "id": "1506449790",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/playstation-4-500gb-1506449790",
+    "preco": 1150,
+    "precoRaw": "R$ 1.150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Playstation 4 500gb",
     "ts": 1780110046
   },
   {
@@ -10393,26 +10412,5 @@
     "tempoOlx": "Na OLX desde maio de 2017",
     "titulo": "Left Alive PS4 LACRADO",
     "ts": 1780065860
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:44",
-    "fotoUrl": "https://img.olx.com.br/images/46/464548335709402.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/46/464548335709402.jpg",
-      "https://img.olx.com.br/images/46/463547931231701.jpg",
-      "https://img.olx.com.br/images/45/452563093136882.jpg"
-    ],
-    "id": "1443854715",
-    "link": "https://ba.olx.com.br/grande-salvador/games/jogos-de-video-game/hello-neighbor-esconde-esconde-lacrado-ps4-1443854715",
-    "preco": 110,
-    "precoRaw": "R$ 110",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "Hello Neighbor Esconde Esconde LACRADO ps4",
-    "ts": 1780065852
   }
 ]
