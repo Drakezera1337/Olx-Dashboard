@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506568867",
-    "titulo": "Play 4 ",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
+    "id": "1506568606",
+    "titulo": "Vídeo game ",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "outros",
     "publicado": "",
     "detectado": "11:57",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "tempoOlx": "Na OLX desde junho de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/play-4-1506568867",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/video-game-1506568606",
+    "fotoUrl": "https://img.olx.com.br/images/53/537638649132928.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/537638649132928.jpg",
+      "https://img.olx.com.br/images/54/542618281521155.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780153037
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "11:57",
     "fotoUrl": "https://img.olx.com.br/images/42/424621161359032.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/424621161359032.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/46/464636642675010.jpg",
       "https://img.olx.com.br/images/47/477693406451249.jpg"
     ],
-    "defeito": false,
+    "id": "1506568867",
+    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/play-4-1506568867",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "Play 4 ",
     "ts": 1780153029
   },
   {
@@ -10404,25 +10424,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "Vendo ps4",
     "ts": 1780070645
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:03",
-    "fotoUrl": "https://img.olx.com.br/images/23/236600528936772.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/23/236600528936772.jpg",
-      "https://img.olx.com.br/images/25/250650889542246.jpg"
-    ],
-    "id": "1506328430",
-    "link": "https://ro.olx.com.br/rondonia/games/jogos-de-video-game/the-last-of-us-ii-jogo-ps4-1506328430",
-    "preco": 120,
-    "precoRaw": "R$ 120",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2017",
-    "titulo": "The last of us II jogo PS4",
-    "ts": 1780070622
   }
 ]
