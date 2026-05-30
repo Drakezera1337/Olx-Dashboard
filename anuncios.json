@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506611520",
-    "titulo": "Ps4 slim",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
+    "id": "1428531805",
+    "titulo": "PS4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "14:04",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "detectado": "14:06",
+    "tempoOlx": "Na OLX desde agosto de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps4-slim-1506611520",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/ps4-1428531805",
+    "fotoUrl": "https://img.olx.com.br/images/94/948503319237205.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/94/948503319237205.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780160794
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "14:04",
     "fotoUrl": "https://img.olx.com.br/images/96/967607648989253.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/96/967607648989253.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/10/108628162799832.jpg",
       "https://img.olx.com.br/images/11/115635762803995.jpg"
     ],
-    "defeito": false,
+    "id": "1506611520",
+    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/ps4-slim-1506611520",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Ps4 slim",
     "ts": 1780160677
   },
   {
@@ -10351,27 +10370,5 @@
     "tempoOlx": "Na OLX desde agosto de 2018",
     "titulo": "THE EVIL WITHIN 2 - PS4 ",
     "ts": 1780083172
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "16:32",
-    "fotoUrl": "https://img.olx.com.br/images/25/255666764676472.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/255666764676472.jpg",
-      "https://img.olx.com.br/images/27/277610768506473.jpg",
-      "https://img.olx.com.br/images/29/298638283284056.jpg",
-      "https://img.olx.com.br/images/32/321646529891663.jpg"
-    ],
-    "id": "1506395377",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/jogos-de-video-game/ps4-fat-500gb-com-jogos-1506395377",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Ps4 FAT 500GB com jogos",
-    "ts": 1780083165
   }
 ]
