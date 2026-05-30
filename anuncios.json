@@ -1,23 +1,44 @@
 [
   {
-    "id": "1506653802",
-    "titulo": "iphone 11",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "iphone",
+    "id": "1506653957",
+    "titulo": "Jogos de ps4 - funcionando perfeitamente ",
+    "preco": 10,
+    "precoRaw": "R$ 10",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "18:10",
-    "tempoOlx": "Na OLX desde maio de 2019",
+    "detectado": "18:14",
+    "tempoOlx": "Na OLX desde janeiro de 2025",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://pi.olx.com.br/regiao-de-teresina-e-parnaiba/games/jogos-de-video-game/jogos-de-ps4-funcionando-perfeitamente-1506653957",
+    "fotoUrl": "https://img.olx.com.br/images/24/243667641504718.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/24/243667641504718.jpg",
+      "https://img.olx.com.br/images/25/250674288230669.jpg",
+      "https://img.olx.com.br/images/26/265660167122868.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780175647
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1506653802",
+    "defeito": false,
+    "detectado": "18:10",
     "fotoUrl": "https://img.olx.com.br/images/18/181655405911801.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/181655405911801.jpg",
       "https://img.olx.com.br/images/19/193653529219487.jpg",
       "https://img.olx.com.br/images/21/216632644658987.jpg"
     ],
-    "defeito": false,
+    "id": "1506653802",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1506653802",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2019",
+    "titulo": "iphone 11",
     "ts": 1780175408
   },
   {
@@ -10359,26 +10380,5 @@
     "tempoOlx": "Na OLX desde julho de 2023",
     "titulo": "Everybody's Golf - PS4",
     "ts": 1780096447
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:08",
-    "fotoUrl": "https://img.olx.com.br/images/86/866629404533088.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/866629404533088.jpg",
-      "https://img.olx.com.br/images/88/883697649315505.jpg",
-      "https://img.olx.com.br/images/90/907620280161934.jpg"
-    ],
-    "id": "1506447036",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/ratchet-clank-ps4-1506447036",
-    "preco": 70,
-    "precoRaw": "R$ 70",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2023",
-    "titulo": "Ratchet & Clank - PS4",
-    "ts": 1780096116
   }
 ]
