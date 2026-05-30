@@ -1,16 +1,33 @@
 [
   {
-    "id": "1506473539",
-    "titulo": "Playstation 4 Slim 500GB ",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "categoria": "ps4",
+    "id": "1506473501",
+    "titulo": "Jogo de ps2 god of war 1 e 2 original p ps2",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "22:07",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "detectado": "22:11",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogo-de-ps2-god-of-war-1-e-2-original-p-ps2-1506473501",
+    "fotoUrl": "https://img.olx.com.br/images/68/685673648273962.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/68/685673648273962.jpg",
+      "https://img.olx.com.br/images/69/699688403043427.jpg",
+      "https://img.olx.com.br/images/71/713627164505266.jpg",
+      "https://img.olx.com.br/images/72/724601161086740.jpg",
+      "https://img.olx.com.br/images/73/732623520865094.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780103483
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-1506473539",
+    "defeito": false,
+    "detectado": "22:07",
     "fotoUrl": "https://img.olx.com.br/images/42/420622163391283.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/42/420622163391283.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/62/624693282800080.jpg",
       "https://img.olx.com.br/images/65/659678400559383.jpg"
     ],
-    "defeito": false,
+    "id": "1506473539",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/consoles-de-video-game/playstation-4-slim-500gb-1506473539",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "Playstation 4 Slim 500GB ",
     "ts": 1780103226
   },
   {
@@ -10343,26 +10366,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2017",
     "titulo": "Playstation 4 fat 500gb console mais controle funciona com Problema no usb",
     "ts": 1780062543
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "10:44",
-    "fotoUrl": "https://img.olx.com.br/images/74/744657878388338.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/74/744657878388338.jpg",
-      "https://img.olx.com.br/images/76/769669633143403.jpg",
-      "https://img.olx.com.br/images/12/123642765593282.jpg"
-    ],
-    "id": "1497405672",
-    "link": "https://rn.olx.com.br/rio-grande-do-norte/games/jogos-de-video-game/vende-se-rachet-e-clank-para-ps4-comprado-ha-duas-semanas-sem-nenhum-arranhao-1497405672",
-    "preco": 65,
-    "precoRaw": "R$ 65",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2025",
-    "titulo": "Vende-se Rachet e clank para PS4 , comprado há duas semanas,sem nenhum arranhão ",
-    "ts": 1780062279
   }
 ]
