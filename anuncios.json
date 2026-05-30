@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506599973",
-    "titulo": "Playstation 3 super slim com 320 GB mais controle um jogo original",
-    "preco": 470,
-    "precoRaw": "R$ 470",
-    "categoria": "ps3",
+    "id": "1506600140",
+    "titulo": "Gran turismo sport",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "13:11",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "detectado": "13:12",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-super-slim-com-320-gb-mais-controle-um-jogo-original-1506599973",
+    "link": "https://sp.olx.com.br/vale-do-paraiba-e-litoral-norte/games/jogos-de-video-game/gran-turismo-sport-1506600140",
+    "fotoUrl": "https://img.olx.com.br/images/26/264607040729712.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/26/264607040729712.jpg",
+      "https://img.olx.com.br/images/27/276684761298755.jpg",
+      "https://img.olx.com.br/images/28/281633284388405.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780157555
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "13:11",
     "fotoUrl": "https://img.olx.com.br/images/45/453694289733287.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/45/453694289733287.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/48/485698163527366.jpg",
       "https://img.olx.com.br/images/49/490635406987470.jpg"
     ],
-    "defeito": false,
+    "id": "1506599973",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/playstation-3-super-slim-com-320-gb-mais-controle-um-jogo-original-1506599973",
+    "preco": 470,
+    "precoRaw": "R$ 470",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2023",
+    "titulo": "Playstation 3 super slim com 320 GB mais controle um jogo original",
     "ts": 1780157466
   },
   {
@@ -10351,25 +10372,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2016",
     "titulo": "PlayStation 4",
     "ts": 1780080043
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:40",
-    "fotoUrl": "https://img.olx.com.br/images/85/855628286347222.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/85/855628286347222.jpg",
-      "https://img.olx.com.br/images/86/864630645292272.jpg"
-    ],
-    "id": "1506380940",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/vende-se-ps5-para-retirar-1506380940",
-    "preco": 2550,
-    "precoRaw": "R$ 2.550",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Vende-se ps5 para retirar ",
-    "ts": 1780080035
   }
 ]
