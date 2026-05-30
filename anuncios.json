@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506650151",
-    "titulo": "Vendo jogos de ps4",
-    "preco": 50,
-    "precoRaw": "R$ 50",
+    "id": "1506649938",
+    "titulo": "PlayStation 4",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "17:44",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "tempoOlx": "Na OLX desde março de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/vendo-jogos-de-ps4-1506650151",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/playstation-4-1506649938",
+    "fotoUrl": "https://img.olx.com.br/images/17/178672163012161.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/17/178672163012161.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780173857
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:44",
     "fotoUrl": "https://img.olx.com.br/images/57/573629289827936.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/573629289827936.jpg",
       "https://img.olx.com.br/images/59/592692646997548.jpg",
       "https://img.olx.com.br/images/61/617638401581444.jpg"
     ],
-    "defeito": false,
+    "id": "1506650151",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/vendo-jogos-de-ps4-1506650151",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "Vendo jogos de ps4",
     "ts": 1780173848
   },
   {
@@ -10356,25 +10375,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "God Of War Ragnarok ",
     "ts": 1780095365
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:51",
-    "fotoUrl": "https://img.olx.com.br/images/94/940649889139068.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/94/940649889139068.jpg",
-      "https://img.olx.com.br/images/95/955696886563763.jpg"
-    ],
-    "id": "1506213884",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/xbox-series-s-1506213884",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2019",
-    "titulo": "Xbox séries s",
-    "ts": 1780095119
   }
 ]
