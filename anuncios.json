@@ -1,21 +1,40 @@
 [
   {
-    "id": "1506501505",
-    "titulo": "PS4 PRO",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1506501776",
+    "titulo": "PlayStation 4 1 TERÁ",
+    "preco": 3600,
+    "precoRaw": "R$ 3.600",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "00:29",
-    "tempoOlx": "Na OLX desde outubro de 2019",
+    "detectado": "00:32",
+    "tempoOlx": "Na OLX desde julho de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-pro-1506501505",
+    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/playstation-4-1-tera-1506501776",
+    "fotoUrl": "https://img.olx.com.br/images/55/558602769415953.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/558602769415953.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780111925
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:29",
     "fotoUrl": "https://img.olx.com.br/images/97/972649409045969.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/972649409045969.jpg"
     ],
-    "defeito": false,
+    "id": "1506501505",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-pro-1506501505",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2019",
+    "titulo": "PS4 PRO",
     "ts": 1780111745
   },
   {
@@ -10373,28 +10392,5 @@
     "tempoOlx": "Na OLX desde setembro de 2019",
     "titulo": "IPHONE 14 128 87% bateria",
     "ts": 1780066716
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:58",
-    "fotoUrl": "https://img.olx.com.br/images/12/122601526170504.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/122601526170504.jpg",
-      "https://img.olx.com.br/images/13/132633646924331.jpg",
-      "https://img.olx.com.br/images/14/147630768304321.jpg",
-      "https://img.olx.com.br/images/15/157697529176149.jpg",
-      "https://img.olx.com.br/images/16/166663526569779.jpg"
-    ],
-    "id": "1506304348",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/hd-sata-baratos-demais-1506304348",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2021",
-    "titulo": "HD Sata - BARATOS DEMAIS!",
-    "ts": 1780066714
   }
 ]
