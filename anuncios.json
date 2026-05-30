@@ -1,22 +1,46 @@
 [
   {
-    "id": "1506645232",
-    "titulo": "Xbox S",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
-    "categoria": "xbox",
+    "id": "1489056874",
+    "titulo": "HORIZON ZERO DAWN - PS4",
+    "preco": 117,
+    "precoRaw": "R$ 117",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "17:20",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "tempoOlx": "Na OLX desde dezembro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/consoles-de-video-game/xbox-s-1506645232",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/horizon-zero-dawn-ps4-1489056874",
+    "fotoUrl": "https://img.olx.com.br/images/41/414680268041000.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/41/414680268041000.jpg",
+      "https://img.olx.com.br/images/42/420603504151480.jpg",
+      "https://img.olx.com.br/images/43/438666262188741.jpg",
+      "https://img.olx.com.br/images/45/457650503793230.jpg",
+      "https://img.olx.com.br/images/47/473684140853922.jpg",
+      "https://img.olx.com.br/images/48/484611865844597.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780172423
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "17:20",
     "fotoUrl": "https://img.olx.com.br/images/89/891619402695363.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/89/891619402695363.jpg",
       "https://img.olx.com.br/images/91/911637284547827.jpg"
     ],
-    "defeito": false,
+    "id": "1506645232",
+    "link": "https://rs.olx.com.br/regioes-de-santa-maria-uruguaiana-e-cruz-alta/games/consoles-de-video-game/xbox-s-1506645232",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Xbox S",
     "ts": 1780172415
   },
   {
@@ -10349,24 +10373,5 @@
     "tempoOlx": "Na OLX desde agosto de 2022",
     "titulo": "Horizon zero dawn",
     "ts": 1780095004
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:47",
-    "fotoUrl": "https://img.olx.com.br/images/32/324646523889815.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/32/324646523889815.jpg"
-    ],
-    "id": "1506442571",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-4-slim-1-terabyte-de-memoria-1-controle-1506442571",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2017",
-    "titulo": "PlayStation 4 slim 1 terabyte de memória 1 controle ",
-    "ts": 1780094855
   }
 ]
