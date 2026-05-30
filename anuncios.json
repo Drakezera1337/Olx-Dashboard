@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506344950",
-    "titulo": "Ps4",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
+    "id": "1506479668",
+    "titulo": "Jogos originais ps4",
+    "preco": 90,
+    "precoRaw": "R$ 90",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:47",
-    "tempoOlx": "",
+    "detectado": "22:48",
+    "tempoOlx": "Na OLX desde novembro de 2024",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/consoles-de-video-game/ps4-1506344950",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/jogos-originais-ps4-1506479668",
+    "fotoUrl": "https://img.olx.com.br/images/89/898620289412704.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/898620289412704.jpg",
+      "https://img.olx.com.br/images/89/897632280012776.jpg",
+      "https://img.olx.com.br/images/90/900689763469721.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780105687
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:47",
     "fotoUrl": "https://img.olx.com.br/images/63/631600282119195.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/63/631600282119195.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/70/709687163044884.jpg",
       "https://img.olx.com.br/images/72/726686405409385.jpg"
     ],
-    "defeito": false,
+    "id": "1506344950",
+    "link": "https://pe.olx.com.br/regiao-de-petrolina-e-garanhuns/games/consoles-de-video-game/ps4-1506344950",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "publicado": "",
+    "tempoOlx": "",
+    "titulo": "Ps4",
     "ts": 1780105660
   },
   {
@@ -10351,24 +10372,5 @@
     "tempoOlx": "Na OLX desde maio de 2014",
     "titulo": "Jogo Fifa 22 Ps4 Seminovo - Mídia Física Original (Perfeito Estado)",
     "ts": 1780064081
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:14",
-    "fotoUrl": "https://img.olx.com.br/images/82/825430821253560.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/82/825430821253560.jpg"
-    ],
-    "id": "1352403845",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-star-wars-jedi-fallen-order-ps4-1352403845",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2021",
-    "titulo": "Jogo Star Wars Jedi Fallen Order PS4",
-    "ts": 1780064074
   }
 ]
