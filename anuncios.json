@@ -1,21 +1,42 @@
 [
   {
-    "id": "1506491270",
-    "titulo": "7 jogos de xbox one",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "xbox",
+    "id": "1506491603",
+    "titulo": "The King of Fight ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "23:41",
-    "tempoOlx": "Na OLX desde agosto de 2020",
+    "detectado": "23:44",
+    "tempoOlx": "Na OLX desde maio de 2014",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/the-king-of-fight-1506491603",
+    "fotoUrl": "https://img.olx.com.br/images/42/424607769667694.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/42/424607769667694.jpg",
+      "https://img.olx.com.br/images/43/438638403698562.jpg",
+      "https://img.olx.com.br/images/45/453672402029278.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780109047
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/7-jogos-de-xbox-one-1506491270",
+    "defeito": false,
+    "detectado": "23:41",
     "fotoUrl": "https://img.olx.com.br/images/44/448694529241215.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/44/448694529241215.jpg"
     ],
-    "defeito": false,
+    "id": "1506491270",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/7-jogos-de-xbox-one-1506491270",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2020",
+    "titulo": "7 jogos de xbox one",
     "ts": 1780108865
   },
   {
@@ -10391,26 +10412,5 @@
     "tempoOlx": "Na OLX desde outubro de 2016",
     "titulo": "Fallout 4 PS4",
     "ts": 1780065432
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:37",
-    "fotoUrl": "https://img.olx.com.br/images/38/382616649864521.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/38/382616649864521.jpg",
-      "https://img.olx.com.br/images/40/406672281589424.jpg",
-      "https://img.olx.com.br/images/42/427697163766951.jpg"
-    ],
-    "id": "1506270849",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/ps4-1t-1506270849",
-    "preco": 1199,
-    "precoRaw": "R$ 1.199",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "PS4 1T",
-    "ts": 1780065425
   }
 ]
