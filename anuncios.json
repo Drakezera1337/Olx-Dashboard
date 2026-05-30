@@ -1,21 +1,42 @@
 [
   {
-    "id": "1506644201",
-    "titulo": "PS3 com defeito ",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "ps3",
+    "id": "1506644849",
+    "titulo": "PlayStation 4 500gb e 2 controles ",
+    "preco": 1100,
+    "precoRaw": "R$ 1.100",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "17:15",
-    "tempoOlx": "Na OLX desde julho de 2024",
+    "detectado": "17:19",
+    "tempoOlx": "Na OLX desde junho de 2016",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/playstation-4-500gb-e-2-controles-1506644849",
+    "fotoUrl": "https://img.olx.com.br/images/83/831614643691704.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/83/831614643691704.jpg",
+      "https://img.olx.com.br/images/84/847628401296331.jpg",
+      "https://img.olx.com.br/images/84/840637168020032.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780172376
+  },
+  {
+    "categoria": "ps3",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps3-com-defeito-1506644201",
+    "defeito": false,
+    "detectado": "17:15",
     "fotoUrl": "https://img.olx.com.br/images/90/902640164918162.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/902640164918162.jpg"
     ],
-    "defeito": false,
+    "id": "1506644201",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps3-com-defeito-1506644201",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2024",
+    "titulo": "PS3 com defeito ",
     "ts": 1780172109
   },
   {
@@ -10347,24 +10368,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Jogo Snoopy's Grand Adventure PS4 Midia Física Original Excelente Estado Usado",
     "ts": 1780094687
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "19:44",
-    "fotoUrl": "https://img.olx.com.br/images/70/707591291266589.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/707591291266589.jpg"
-    ],
-    "id": "1413782277",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-spider-man-god-of-war-gta-v-e-horizon-zero-dawn-1413782277",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2023",
-    "titulo": "Jogos de PS4 - Spider-Man, God of War, GTA V e Horizon Zero Dawn",
-    "ts": 1780094679
   }
 ]
