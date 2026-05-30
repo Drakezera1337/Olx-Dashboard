@@ -1,21 +1,45 @@
 [
   {
-    "id": "1506658999",
-    "titulo": "Game",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "outros",
+    "id": "1506657949",
+    "titulo": "PS4 Slim 1T + 2 Controles + 7 Jogos + Caixa",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "18:38",
-    "tempoOlx": "Na OLX desde novembro de 2020",
+    "tempoOlx": "Na OLX desde outubro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/game-1506658999",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1t-2-controles-7-jogos-caixa-1506657949",
+    "fotoUrl": "https://img.olx.com.br/images/65/653600523678611.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/653600523678611.jpg",
+      "https://img.olx.com.br/images/66/660660528267334.jpg",
+      "https://img.olx.com.br/images/67/676679765885590.jpg",
+      "https://img.olx.com.br/images/69/695696520374230.jpg",
+      "https://img.olx.com.br/images/70/702621049254407.jpg",
+      "https://img.olx.com.br/images/71/712618646520635.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780177097
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "18:38",
     "fotoUrl": "https://img.olx.com.br/images/75/758663040135944.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/758663040135944.jpg"
     ],
-    "defeito": false,
+    "id": "1506658999",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/game-1506658999",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2020",
+    "titulo": "Game",
     "ts": 1780177088
   },
   {
@@ -10373,26 +10397,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2025",
     "titulo": "Jogos de PS4",
     "ts": 1780097966
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:39",
-    "fotoUrl": "https://img.olx.com.br/images/88/880640123808062.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/880640123808062.jpg",
-      "https://img.olx.com.br/images/90/906686481366578.jpg",
-      "https://img.olx.com.br/images/92/925686007035507.jpg"
-    ],
-    "id": "1466328573",
-    "link": "https://go.olx.com.br/regiao-de-rio-verde-e-caldas-novas/games/jogos-de-video-game/cavaleiros-do-zodiaco-alma-dos-soldados-ps4-ps5-1466328573",
-    "preco": 500,
-    "precoRaw": "R$ 500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
-    "titulo": "Cavaleiros do Zodíaco Alma dos Soldados PS4/PS5",
-    "ts": 1780097958
   }
 ]
