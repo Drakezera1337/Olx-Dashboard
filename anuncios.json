@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506843450",
-    "titulo": "Plataforma de dança pump it up",
-    "preco": 650,
-    "precoRaw": "R$ 650",
+    "id": "1506844154",
+    "titulo": "Controle DualShock 4",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "16:27",
-    "tempoOlx": "Na OLX desde agosto de 2018",
+    "detectado": "16:32",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/controle-dualshock-4-1506844154",
+    "fotoUrl": "https://img.olx.com.br/images/58/581675163881554.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/58/581675163881554.jpg",
+      "https://img.olx.com.br/images/61/617674160439651.jpg",
+      "https://img.olx.com.br/images/62/624663166646821.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780255956
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/plataforma-de-danca-pump-it-up-1506843450",
+    "defeito": false,
+    "detectado": "16:27",
     "fotoUrl": "https://img.olx.com.br/images/97/971679162291521.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/971679162291521.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/10/107652883573600.jpg",
       "https://img.olx.com.br/images/13/134668284075567.jpg"
     ],
-    "defeito": false,
+    "id": "1506843450",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/plataforma-de-danca-pump-it-up-1506843450",
+    "preco": 650,
+    "precoRaw": "R$ 650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2018",
+    "titulo": "Plataforma de dança pump it up",
     "ts": 1780255666
   },
   {
@@ -10474,26 +10495,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "FarCry 6 PS4 (Lacrado)",
     "ts": 1780170982
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "16:56",
-    "fotoUrl": "https://img.olx.com.br/images/12/128628883619483.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/128628883619483.jpg",
-      "https://img.olx.com.br/images/29/295662164951651.jpg",
-      "https://img.olx.com.br/images/30/309647165698776.jpg"
-    ],
-    "id": "1506641727",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/gohan-beast-sh-figuarts-bandai-shf-dragon-ball-super-hero-shfiguarts-1506641727",
-    "preco": 699,
-    "precoRaw": "R$ 699",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2019",
-    "titulo": "Gohan beast sh figuarts Bandai SHF dragon ball super hero shfiguarts ",
-    "ts": 1780170973
   }
 ]
