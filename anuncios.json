@@ -1,21 +1,45 @@
 [
   {
-    "id": "1506829917",
-    "titulo": "Elden ring",
-    "preco": 150,
-    "precoRaw": "R$ 150",
-    "categoria": "jogos",
+    "id": "1506829775",
+    "titulo": "Jogo físico para PS4 ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "15:29",
-    "tempoOlx": "Na OLX desde julho de 2023",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/elden-ring-1506829917",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogo-fisico-para-ps4-1506829775",
+    "fotoUrl": "https://img.olx.com.br/images/63/639651645696682.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/63/639651645696682.jpg",
+      "https://img.olx.com.br/images/63/636620282703798.jpg",
+      "https://img.olx.com.br/images/63/638675045088993.jpg",
+      "https://img.olx.com.br/images/63/632674529526049.jpg",
+      "https://img.olx.com.br/images/63/634638404710710.jpg",
+      "https://img.olx.com.br/images/63/635686280943994.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780252166
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:29",
     "fotoUrl": "https://img.olx.com.br/images/78/785647765111721.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/78/785647765111721.jpg"
     ],
-    "defeito": false,
+    "id": "1506829917",
+    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/elden-ring-1506829917",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2023",
+    "titulo": "Elden ring",
     "ts": 1780252153
   },
   {
@@ -10469,25 +10493,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Detroit ps4",
     "ts": 1780166685
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:44",
-    "fotoUrl": "https://img.olx.com.br/images/40/407643048449167.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/40/407643048449167.jpg",
-      "https://img.olx.com.br/images/43/438629528153601.jpg"
-    ],
-    "id": "1506629201",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/playstation-4-slim-500gb-1506629201",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2024",
-    "titulo": "Playstation  4 Slim 500GB",
-    "ts": 1780166676
   }
 ]
