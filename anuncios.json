@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506881547",
-    "titulo": "PS3 FAT não está ligando ",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "categoria": "ps3",
+    "id": "1506881347",
+    "titulo": "PS4",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "20:13",
-    "tempoOlx": "Na OLX desde março de 2014",
+    "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-fat-nao-esta-ligando-1506881547",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ps4-1506881347",
+    "fotoUrl": "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png",
+    "fotosUrls": [
+      "https://static.olx.com.br/cd/vi/images/ic_no-photo-placeholder.png"
+    ],
+    "defeito": false,
+    "ts": 1780269223
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "20:13",
     "fotoUrl": "https://img.olx.com.br/images/23/233665763429143.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/23/233665763429143.jpg",
       "https://img.olx.com.br/images/24/245616642466516.jpg",
       "https://img.olx.com.br/images/25/252679162431286.jpg"
     ],
-    "defeito": false,
+    "id": "1506881547",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-fat-nao-esta-ligando-1506881547",
+    "preco": 230,
+    "precoRaw": "R$ 230",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2014",
+    "titulo": "PS3 FAT não está ligando ",
     "ts": 1780269195
   },
   {
@@ -10476,24 +10495,5 @@
     "tempoOlx": "Na OLX desde agosto de 2017",
     "titulo": "Mad Max - PS4",
     "ts": 1780191553
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "22:39",
-    "fotoUrl": "https://img.olx.com.br/images/12/129646649744343.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/129646649744343.jpg"
-    ],
-    "id": "1506700913",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/lego-harry-potter-collection-ps4-1506700913",
-    "preco": 39,
-    "precoRaw": "R$ 39",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde agosto de 2017",
-    "titulo": "Lego Harry Potter Collection - PS4",
-    "ts": 1780191545
   }
 ]
