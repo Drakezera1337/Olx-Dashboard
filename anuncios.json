@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506777818",
-    "titulo": "PlayStation 3 fat - leia",
-    "preco": 220,
-    "precoRaw": "R$ 220",
+    "id": "1422319012",
+    "titulo": "Ninja Gaiden 3 - Ps3",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "15:15",
-    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "tempoOlx": "Na OLX desde setembro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-fat-leia-1506777818",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/ninja-gaiden-3-ps3-1422319012",
+    "fotoUrl": "https://img.olx.com.br/images/69/691565445633074.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/69/691565445633074.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780251314
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:15",
     "fotoUrl": "https://img.olx.com.br/images/13/132664644221761.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/13/132664644221761.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/18/183670760812460.jpg",
       "https://img.olx.com.br/images/19/199658046382076.jpg"
     ],
-    "defeito": false,
+    "id": "1506777818",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-fat-leia-1506777818",
+    "preco": 220,
+    "precoRaw": "R$ 220",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2023",
+    "titulo": "PlayStation 3 fat - leia",
     "ts": 1780251307
   },
   {
@@ -10479,25 +10498,5 @@
     "tempoOlx": "Na OLX desde maio de 2016",
     "titulo": "PLAYSTATION 4 + 3 JOGOS",
     "ts": 1780160194
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:49",
-    "fotoUrl": "https://img.olx.com.br/images/86/862674522819447.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/86/862674522819447.jpg",
-      "https://img.olx.com.br/images/89/898665641491711.jpg"
-    ],
-    "id": "1506608222",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/vendo-ps4-slim-1tb-1506608222",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "Vendo PS4 slim 1TB",
-    "ts": 1780159761
   }
 ]
