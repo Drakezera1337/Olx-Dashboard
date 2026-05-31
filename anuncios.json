@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506689630",
-    "titulo": "Jogos de PS4 usados ",
-    "preco": 350,
-    "precoRaw": "R$ 350",
-    "categoria": "ps4",
+    "id": "1506690216",
+    "titulo": "Iphone 13",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "categoria": "iphone",
     "publicado": "",
-    "detectado": "21:24",
-    "tempoOlx": "Na OLX desde abril de 2020",
+    "detectado": "21:27",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1506690216",
+    "fotoUrl": "https://img.olx.com.br/images/33/332618041495339.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/33/332618041495339.jpg",
+      "https://img.olx.com.br/images/36/367613167167078.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780187229
+  },
+  {
+    "categoria": "ps4",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-usados-1506689630",
+    "defeito": false,
+    "detectado": "21:24",
     "fotoUrl": "https://img.olx.com.br/images/71/714674408419948.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/714674408419948.jpg",
@@ -20,7 +34,13 @@
       "https://img.olx.com.br/images/76/763650285327079.jpg",
       "https://img.olx.com.br/images/77/773644528043534.jpg"
     ],
-    "defeito": false,
+    "id": "1506689630",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/jogos-de-ps4-usados-1506689630",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2020",
+    "titulo": "Jogos de PS4 usados ",
     "ts": 1780187099
   },
   {
@@ -10387,24 +10407,5 @@
     "tempoOlx": "Na OLX desde junho de 2016",
     "titulo": "God of war 3 ps4",
     "ts": 1780110584
-  },
-  {
-    "categoria": "jogos",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:09",
-    "fotoUrl": "https://img.olx.com.br/images/12/128623285982561.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/12/128623285982561.jpg"
-    ],
-    "id": "1506496989",
-    "link": "https://ce.olx.com.br/regiao-de-juazeiro-do-norte-e-sobral/games/jogos-de-video-game/god-of-war-1506496989",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2026",
-    "titulo": "God Of War",
-    "ts": 1780110576
   }
 ]
