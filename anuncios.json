@@ -1,16 +1,32 @@
 [
   {
-    "id": "1506715979",
-    "titulo": "The Orange Box = R$: 200",
-    "preco": 200,
-    "precoRaw": "R$ 200",
-    "categoria": "outros",
+    "id": "1506716647",
+    "titulo": "The Amazing SpiderMan 2 = R$: 150",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "jogos",
     "publicado": "",
-    "detectado": "01:00",
+    "detectado": "01:06",
     "tempoOlx": "Na OLX desde março de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/the-orange-box-r-200-1506715979",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/the-amazing-spiderman-2-r-150-1506716647",
+    "fotoUrl": "https://img.olx.com.br/images/22/222692763169366.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/22/222692763169366.jpg",
+      "https://img.olx.com.br/images/23/236650400681746.jpg",
+      "https://img.olx.com.br/images/24/240696762463319.jpg",
+      "https://img.olx.com.br/images/25/256665765053656.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780200397
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "01:00",
     "fotoUrl": "https://img.olx.com.br/images/75/752608523565257.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/75/752608523565257.jpg",
@@ -19,7 +35,13 @@
       "https://img.olx.com.br/images/78/787632760825433.jpg",
       "https://img.olx.com.br/images/80/807626169232215.jpg"
     ],
-    "defeito": false,
+    "id": "1506715979",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/the-orange-box-r-200-1506715979",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "The Orange Box = R$: 200",
     "ts": 1780200035
   },
   {
@@ -10369,24 +10391,5 @@
     "tempoOlx": "Na OLX desde abril de 2026",
     "titulo": "JOGOS PS4/PS5 ÚLTIMA CHANCE!",
     "ts": 1780153122
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:58",
-    "fotoUrl": "https://img.olx.com.br/images/66/660682159593344.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/66/660682159593344.jpg"
-    ],
-    "id": "1497338300",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/world-final-fantasy-lacrado-1497338300",
-    "preco": 230,
-    "precoRaw": "R$ 230",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "World Final Fantasy (Lacrado)",
-    "ts": 1780153115
   }
 ]
