@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506718538",
-    "titulo": "Spider-Man Shattered Dimension = R$: 400",
-    "preco": 400,
-    "precoRaw": "R$ 400",
-    "categoria": "jogos",
+    "id": "1506718862",
+    "titulo": "PlayStation 4",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "01:29",
-    "tempoOlx": "Na OLX desde março de 2022",
+    "detectado": "01:34",
+    "tempoOlx": "Na OLX desde fevereiro de 2026",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/spider-man-shattered-dimension-r-400-1506718538",
+    "link": "https://pe.olx.com.br/grande-recife/games/consoles-de-video-game/playstation-4-1506718862",
+    "fotoUrl": "https://img.olx.com.br/images/80/800683405109034.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/80/800683405109034.jpg",
+      "https://img.olx.com.br/images/81/818621161402345.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780202076
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "01:29",
     "fotoUrl": "https://img.olx.com.br/images/28/289680285077201.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/28/289680285077201.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/32/322671764388347.jpg",
       "https://img.olx.com.br/images/33/332694523662731.jpg"
     ],
-    "defeito": false,
+    "id": "1506718538",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/spider-man-shattered-dimension-r-400-1506718538",
+    "preco": 400,
+    "precoRaw": "R$ 400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2022",
+    "titulo": "Spider-Man Shattered Dimension = R$: 400",
     "ts": 1780201746
   },
   {
@@ -10380,26 +10400,5 @@
     "tempoOlx": "Na OLX desde janeiro de 2024",
     "titulo": "Jogo PS4, For Honor",
     "ts": 1780153172
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:59",
-    "fotoUrl": "https://img.olx.com.br/images/76/762613750553919.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/76/762613750553919.jpg",
-      "https://img.olx.com.br/images/78/784690756016206.jpg",
-      "https://img.olx.com.br/images/79/795662272802048.jpg"
-    ],
-    "id": "1495799641",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/ps4-slim-1tb-2-controles-7-jogos-incluindo-the-last-of-us-e-days-gone-1495799641",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde janeiro de 2016",
-    "titulo": "PS4 Slim 1TB + 2 Controles + 7 Jogos incluindo,The Last of Us e Days Gone",
-    "ts": 1780153163
   }
 ]
