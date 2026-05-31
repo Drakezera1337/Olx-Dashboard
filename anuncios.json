@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506789426",
-    "titulo": "iPhone 11",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "categoria": "iphone",
+    "id": "1358671125",
+    "titulo": "Returnal Ps5",
+    "preco": 88,
+    "precoRaw": "R$ 88",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "14:58",
-    "tempoOlx": "Na OLX desde julho de 2021",
+    "tempoOlx": "Na OLX desde janeiro de 2022",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/returnal-ps5-1358671125",
+    "fotoUrl": "https://img.olx.com.br/images/14/140445103822863.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/14/140445103822863.jpg",
+      "https://img.olx.com.br/images/15/158439949477134.jpg",
+      "https://img.olx.com.br/images/15/153431226795723.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780250296
+  },
+  {
+    "categoria": "iphone",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1506789426",
+    "defeito": false,
+    "detectado": "14:58",
     "fotoUrl": "https://img.olx.com.br/images/29/294650521254079.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/29/294650521254079.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/34/347610047397155.jpg",
       "https://img.olx.com.br/images/35/359677406706703.jpg"
     ],
-    "defeito": false,
+    "id": "1506789426",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1506789426",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2021",
+    "titulo": "iPhone 11",
     "ts": 1780250293
   },
   {
@@ -10430,24 +10451,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Jogos ps4 precinho",
     "ts": 1780153572
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:06",
-    "fotoUrl": "https://img.olx.com.br/images/51/518698280288944.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/51/518698280288944.jpg"
-    ],
-    "id": "1506583135",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/messi-lilas-1506583135",
-    "preco": 99,
-    "precoRaw": "R$ 99",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2020",
-    "titulo": "Messi Lilás ",
-    "ts": 1780153564
   }
 ]
