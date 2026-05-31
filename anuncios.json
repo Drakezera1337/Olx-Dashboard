@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506809715",
-    "titulo": "Carcaça Ps3 Slin 2511b (sem placa)",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "categoria": "ps3",
+    "id": "1506826504",
+    "titulo": "Nintendo Switch Jogos e Controles",
+    "preco": 210,
+    "precoRaw": "R$ 210",
+    "categoria": "switch",
     "publicado": "",
     "detectado": "15:15",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "tempoOlx": "Na OLX desde fevereiro de 2016",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/carcaca-ps3-slin-2511b-sem-placa-1506809715",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/nintendo-switch-jogos-e-controles-1506826504",
+    "fotoUrl": "https://img.olx.com.br/images/65/653690166038534.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/65/653690166038534.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780251358
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:15",
     "fotoUrl": "https://img.olx.com.br/images/36/361682763614441.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/36/361682763614441.jpg",
       "https://img.olx.com.br/images/39/399696640014521.jpg",
       "https://img.olx.com.br/images/41/415635762411335.jpg"
     ],
-    "defeito": false,
+    "id": "1506809715",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/carcaca-ps3-slin-2511b-sem-placa-1506809715",
+    "preco": 90,
+    "precoRaw": "R$ 90",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Carcaça Ps3 Slin 2511b (sem placa)",
     "ts": 1780251352
   },
   {
@@ -10482,28 +10501,5 @@
     "tempoOlx": "Na OLX desde setembro de 2022",
     "titulo": "Ps4 slim",
     "ts": 1780160677
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:03",
-    "fotoUrl": "https://img.olx.com.br/images/93/939633642030400.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/93/939633642030400.jpg",
-      "https://img.olx.com.br/images/95/952684160945863.jpg",
-      "https://img.olx.com.br/images/97/971608403739205.jpg",
-      "https://img.olx.com.br/images/98/983663524116133.jpg",
-      "https://img.olx.com.br/images/99/999662400388052.jpg"
-    ],
-    "id": "1506611073",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/playstation-4-controle-original-na-caixa-god-of-war-ragnar-k-fifa-20-1506611073",
-    "preco": 1499,
-    "precoRaw": "R$ 1.499",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2023",
-    "titulo": "Playstation 4 + Controle Original na Caixa + God of War Ragnarök + FIFA 20",
-    "ts": 1780160629
   }
 ]
