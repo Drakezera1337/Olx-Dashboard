@@ -1,22 +1,44 @@
 [
   {
-    "id": "1506724617",
-    "titulo": "The last of us",
-    "preco": 170,
-    "precoRaw": "R$ 170",
-    "categoria": "jogos",
+    "id": "1506725042",
+    "titulo": "7 Jogos PS4 Originais ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "03:13",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "03:20",
+    "tempoOlx": "",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-last-of-us-1506724617",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/7-jogos-ps4-originais-1506725042",
+    "fotoUrl": "https://img.olx.com.br/images/66/662685160919643.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/66/662685160919643.jpg",
+      "https://img.olx.com.br/images/67/675628525338479.jpg",
+      "https://img.olx.com.br/images/68/681600642157084.jpg",
+      "https://img.olx.com.br/images/69/699678407292075.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780208445
+  },
+  {
+    "categoria": "jogos",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "03:13",
     "fotoUrl": "https://img.olx.com.br/images/22/224643765132380.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/22/224643765132380.jpg",
       "https://img.olx.com.br/images/25/251668041667132.jpg"
     ],
-    "defeito": false,
+    "id": "1506724617",
+    "link": "https://pe.olx.com.br/grande-recife/games/jogos-de-video-game/the-last-of-us-1506724617",
+    "preco": 170,
+    "precoRaw": "R$ 170",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "The last of us",
     "ts": 1780208018
   },
   {
@@ -10389,25 +10411,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "Jogo PS4 Plants vs Zombies",
     "ts": 1780153260
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:00",
-    "fotoUrl": "https://img.olx.com.br/images/64/648639155847356.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/648639155847356.jpg",
-      "https://img.olx.com.br/images/66/662697630139043.jpg"
-    ],
-    "id": "1491294394",
-    "link": "https://sp.olx.com.br/grande-campinas/games/jogos-de-video-game/jogo-ps4-drive-club-1491294394",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2013",
-    "titulo": "Jogo PS4 Drive Club",
-    "ts": 1780153253
   }
 ]
