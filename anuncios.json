@@ -1,23 +1,45 @@
 [
   {
-    "id": "1506828847",
-    "titulo": "Game ?",
-    "preco": 1600,
-    "precoRaw": "R$ 1.600",
-    "categoria": "outros",
+    "id": "1506829939",
+    "titulo": "xbox one s",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "categoria": "xbox",
     "publicado": "",
     "detectado": "15:29",
-    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506829939",
+    "fotoUrl": "https://img.olx.com.br/images/55/554606289426254.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/554606289426254.jpg",
+      "https://img.olx.com.br/images/56/567632280981669.jpg",
+      "https://img.olx.com.br/images/57/574649523742290.jpg",
+      "https://img.olx.com.br/images/58/584602162142081.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780252185
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/game-1506828847",
+    "defeito": false,
+    "detectado": "15:29",
     "fotoUrl": "https://img.olx.com.br/images/66/668606163217347.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/66/668606163217347.jpg",
       "https://img.olx.com.br/images/68/680610766311937.jpg",
       "https://img.olx.com.br/images/70/708677163149031.jpg"
     ],
-    "defeito": false,
+    "id": "1506828847",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/game-1506828847",
+    "preco": 1600,
+    "precoRaw": "R$ 1.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
+    "titulo": "Game ?",
     "ts": 1780252175
   },
   {
@@ -10476,24 +10498,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "Fatal Fury - PS4 / PS5 - Lacrado",
     "ts": 1780166701
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:44",
-    "fotoUrl": "https://img.olx.com.br/images/99/996660870747695.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/99/996660870747695.jpg"
-    ],
-    "id": "1497776076",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/nioh-2-ps4-ps5-leia-o-anuncio-1497776076",
-    "preco": 79,
-    "precoRaw": "R$ 79",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Nioh 2 - PS4 / PS5 - Leia o anúncio",
-    "ts": 1780166692
   }
 ]
