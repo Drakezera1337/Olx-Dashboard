@@ -1,23 +1,42 @@
 [
   {
-    "id": "1506844154",
-    "titulo": "Controle DualShock 4",
-    "preco": 60,
-    "precoRaw": "R$ 60",
-    "categoria": "outros",
+    "id": "1506843787",
+    "titulo": "Controle de ps4",
+    "preco": 150,
+    "precoRaw": "R$ 150",
+    "categoria": "ps4",
     "publicado": "",
     "detectado": "16:32",
-    "tempoOlx": "Na OLX desde março de 2021",
+    "tempoOlx": "Na OLX desde outubro de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/controle-dualshock-4-1506844154",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/controle-de-ps4-1506843787",
+    "fotoUrl": "https://img.olx.com.br/images/87/877678166689900.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/87/877678166689900.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780255964
+  },
+  {
+    "categoria": "outros",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "16:32",
     "fotoUrl": "https://img.olx.com.br/images/58/581675163881554.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/58/581675163881554.jpg",
       "https://img.olx.com.br/images/61/617674160439651.jpg",
       "https://img.olx.com.br/images/62/624663166646821.jpg"
     ],
-    "defeito": false,
+    "id": "1506844154",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/controle-dualshock-4-1506844154",
+    "preco": 60,
+    "precoRaw": "R$ 60",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2021",
+    "titulo": "Controle DualShock 4",
     "ts": 1780255956
   },
   {
@@ -10475,25 +10494,5 @@
     "tempoOlx": "Na OLX desde setembro de 2024",
     "titulo": "PS4 1 TB + controle (NOVO)",
     "ts": 1780171296
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "16:56",
-    "fotoUrl": "https://img.olx.com.br/images/62/629696168563980.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/62/629696168563980.jpg",
-      "https://img.olx.com.br/images/64/644607763546234.jpg"
-    ],
-    "id": "1506641142",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/farcry-6-ps4-lacrado-1506641142",
-    "preco": 145,
-    "precoRaw": "R$ 145",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "FarCry 6 PS4 (Lacrado)",
-    "ts": 1780170982
   }
 ]
