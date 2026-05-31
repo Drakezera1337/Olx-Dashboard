@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506796687",
-    "titulo": "iPhone 11",
-    "preco": 850,
-    "precoRaw": "R$ 850",
-    "categoria": "iphone",
+    "id": "1506816316",
+    "titulo": "Ghost of Yotei PS5 - Mídia Física ",
+    "preco": 220,
+    "precoRaw": "R$ 220",
+    "categoria": "ps5",
     "publicado": "",
     "detectado": "14:58",
     "tempoOlx": "Na OLX desde março de 2026",
     "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://sc.olx.com.br/florianopolis-e-regiao/games/consoles-de-video-game/ghost-of-yotei-ps5-midia-fisica-1506816316",
+    "fotoUrl": "https://img.olx.com.br/images/62/627671767838101.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/627671767838101.jpg",
+      "https://img.olx.com.br/images/63/638688523759089.jpg",
+      "https://img.olx.com.br/images/65/657634163848538.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780250289
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1506796687",
+    "defeito": false,
+    "detectado": "14:58",
     "fotoUrl": "https://img.olx.com.br/images/31/316694640957066.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/31/316694640957066.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/81/818632283170549.jpg",
       "https://img.olx.com.br/images/82/829630285852065.jpg"
     ],
-    "defeito": false,
+    "id": "1506796687",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-11-1506796687",
+    "preco": 850,
+    "precoRaw": "R$ 850",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2026",
+    "titulo": "iPhone 11",
     "ts": 1780250284
   },
   {
@@ -10424,26 +10445,5 @@
     "tempoOlx": "Na OLX desde outubro de 2025",
     "titulo": "2 controles originais + 3 jogos de ps4",
     "ts": 1780153412
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:03",
-    "fotoUrl": "https://img.olx.com.br/images/11/118528210791928.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/11/118528210791928.jpg",
-      "https://img.olx.com.br/images/11/117505810925787.jpg",
-      "https://img.olx.com.br/images/11/118572338268227.jpg"
-    ],
-    "id": "1444728086",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/jogos-de-video-game/jogo-futebol-ps4-pes-2016-1444728086",
-    "preco": 179,
-    "precoRaw": "R$ 179",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2017",
-    "titulo": "Jogo Futebol Ps4 Pes 2016",
-    "ts": 1780153404
   }
 ]
