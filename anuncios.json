@@ -1,23 +1,44 @@
 [
   {
-    "id": "1506788715",
-    "titulo": "playstation 3",
-    "preco": 280,
-    "precoRaw": "R$ 280",
+    "id": "1506787563",
+    "titulo": "Ps3 defeito leia a legenda",
+    "preco": 300,
+    "precoRaw": "R$ 300",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "15:14",
-    "tempoOlx": "Na OLX desde julho de 2016",
+    "tempoOlx": "Na OLX desde agosto de 2025",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-1506788715",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/ps3-defeito-leia-a-legenda-1506787563",
+    "fotoUrl": "https://img.olx.com.br/images/62/623610883268966.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/62/623610883268966.jpg",
+      "https://img.olx.com.br/images/64/647611042405177.jpg",
+      "https://img.olx.com.br/images/66/667627401143853.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780251291
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:14",
     "fotoUrl": "https://img.olx.com.br/images/72/722650524516801.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/72/722650524516801.jpg",
       "https://img.olx.com.br/images/75/751678526925609.jpg",
       "https://img.olx.com.br/images/78/787633527435233.jpg"
     ],
-    "defeito": false,
+    "id": "1506788715",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/playstation-3-1506788715",
+    "preco": 280,
+    "precoRaw": "R$ 280",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2016",
+    "titulo": "playstation 3",
     "ts": 1780251282
   },
   {
@@ -10472,28 +10493,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "PlayStation 4",
     "ts": 1780159746
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:44",
-    "fotoUrl": "https://img.olx.com.br/images/72/723657887298210.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/72/723657887298210.jpg",
-      "https://img.olx.com.br/images/75/758680523746484.jpg",
-      "https://img.olx.com.br/images/77/775641280028858.jpg",
-      "https://img.olx.com.br/images/78/780606165960378.jpg",
-      "https://img.olx.com.br/images/80/807619764779596.jpg"
-    ],
-    "id": "1506604985",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/ps4-controle-original-na-caixa-god-of-war-ragnar-k-fifa-20-1506604985",
-    "preco": 1499,
-    "precoRaw": "R$ 1.499",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde novembro de 2023",
-    "titulo": "PS4 + Controle Original na Caixa + God of War Ragnarök + FIFA 20",
-    "ts": 1780159454
   }
 ]
