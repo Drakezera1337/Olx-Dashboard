@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506829939",
-    "titulo": "xbox one s",
-    "preco": 1350,
-    "precoRaw": "R$ 1.350",
-    "categoria": "xbox",
+    "id": "1506833524",
+    "titulo": "Controle Ps5 ",
+    "preco": 350,
+    "precoRaw": "R$ 350",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:29",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "15:33",
+    "tempoOlx": "Na OLX desde setembro de 2025",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/controle-ps5-1506833524",
+    "fotoUrl": "https://img.olx.com.br/images/55/555690524899167.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/55/555690524899167.jpg",
+      "https://img.olx.com.br/images/57/571649762225347.jpg",
+      "https://img.olx.com.br/images/58/587632289943569.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780252388
+  },
+  {
+    "categoria": "xbox",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506829939",
+    "defeito": false,
+    "detectado": "15:29",
     "fotoUrl": "https://img.olx.com.br/images/55/554606289426254.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/55/554606289426254.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/57/574649523742290.jpg",
       "https://img.olx.com.br/images/58/584602162142081.jpg"
     ],
-    "defeito": false,
+    "id": "1506829939",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506829939",
+    "preco": 1350,
+    "precoRaw": "R$ 1.350",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "xbox one s",
     "ts": 1780252185
   },
   {
@@ -10479,24 +10500,5 @@
     "tempoOlx": "Na OLX desde dezembro de 2019",
     "titulo": "R$230 - Hades chase funko pop",
     "ts": 1780166709
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:45",
-    "fotoUrl": "https://img.olx.com.br/images/44/440589829501081.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/440589829501081.jpg"
-    ],
-    "id": "1455108577",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/jogos-de-video-game/fatal-fury-ps4-ps5-lacrado-1455108577",
-    "preco": 275,
-    "precoRaw": "R$ 275",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2015",
-    "titulo": "Fatal Fury - PS4 / PS5 - Lacrado",
-    "ts": 1780166701
   }
 ]
