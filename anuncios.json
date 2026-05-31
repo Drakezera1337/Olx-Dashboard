@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506830970",
-    "titulo": "Ps5 padrão ",
-    "preco": 1650,
-    "precoRaw": "R$ 1.650",
-    "categoria": "ps5",
+    "id": "1506829101",
+    "titulo": "G29",
+    "preco": 599,
+    "precoRaw": "R$ 599",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "15:27",
-    "tempoOlx": "Na OLX desde setembro de 2022",
+    "tempoOlx": "Na OLX desde janeiro de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/consoles-de-video-game/ps5-padrao-1506830970",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/g29-1506829101",
+    "fotoUrl": "https://img.olx.com.br/images/89/896638169074054.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/89/896638169074054.jpg",
+      "https://img.olx.com.br/images/90/904612645424438.jpg",
+      "https://img.olx.com.br/images/90/909665889095056.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780252036
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:27",
     "fotoUrl": "https://img.olx.com.br/images/53/537650049579375.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/53/537650049579375.jpg",
@@ -18,7 +33,13 @@
       "https://img.olx.com.br/images/58/587602766273385.jpg",
       "https://img.olx.com.br/images/62/622683408443917.jpg"
     ],
-    "defeito": false,
+    "id": "1506830970",
+    "link": "https://pa.olx.com.br/regiao-de-santarem/games/consoles-de-video-game/ps5-padrao-1506830970",
+    "preco": 1650,
+    "precoRaw": "R$ 1.650",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2022",
+    "titulo": "Ps5 padrão ",
     "ts": 1780252027
   },
   {
@@ -10459,24 +10480,5 @@
     "tempoOlx": "Na OLX desde junho de 2021",
     "titulo": "Vídeo gamer ",
     "ts": 1780164937
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "campos",
-    "defeito": false,
-    "detectado": "15:12",
-    "fotoUrl": "https://img.olx.com.br/images/25/253689525013289.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/25/253689525013289.jpg"
-    ],
-    "id": "1506623227",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/jogos-de-video-game/jogos-de-ps4-midia-fisica-1506623227",
-    "preco": 30,
-    "precoRaw": "R$ 30",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde julho de 2016",
-    "titulo": "Jogos de PS4 mídia física ",
-    "ts": 1780164726
   }
 ]
