@@ -1,22 +1,41 @@
 [
   {
-    "id": "1506690216",
-    "titulo": "Iphone 13",
-    "preco": 2600,
-    "precoRaw": "R$ 2.600",
+    "id": "1506690516",
+    "titulo": "Iphone 12",
+    "preco": 2400,
+    "precoRaw": "R$ 2.400",
     "categoria": "iphone",
     "publicado": "",
-    "detectado": "21:27",
+    "detectado": "21:33",
     "tempoOlx": "Na OLX desde maio de 2026",
     "cidade": "—",
     "cidadeCategoria": "macae",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1506690216",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-12-1506690516",
+    "fotoUrl": "https://img.olx.com.br/images/36/369678169159689.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/36/369678169159689.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780187585
+  },
+  {
+    "categoria": "iphone",
+    "cidade": "—",
+    "cidadeCategoria": "macae",
+    "defeito": false,
+    "detectado": "21:27",
     "fotoUrl": "https://img.olx.com.br/images/33/332618041495339.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/33/332618041495339.jpg",
       "https://img.olx.com.br/images/36/367613167167078.jpg"
     ],
-    "defeito": false,
+    "id": "1506690216",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-1506690216",
+    "preco": 2600,
+    "precoRaw": "R$ 2.600",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Iphone 13",
     "ts": 1780187229
   },
   {
@@ -10387,25 +10406,5 @@
     "tempoOlx": "Na OLX desde junho de 2016",
     "titulo": "Fifa 17 ps4",
     "ts": 1780110845
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:09",
-    "fotoUrl": "https://img.olx.com.br/images/26/263605523437776.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/263605523437776.jpg",
-      "https://img.olx.com.br/images/28/285620045760870.jpg"
-    ],
-    "id": "1506496695",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/god-of-war-3-ps4-1506496695",
-    "preco": 50,
-    "precoRaw": "R$ 50",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde junho de 2016",
-    "titulo": "God of war 3 ps4",
-    "ts": 1780110584
   }
 ]
