@@ -1,22 +1,45 @@
 [
   {
-    "id": "1506720888",
-    "titulo": "Ps4",
-    "preco": 1300,
-    "precoRaw": "R$ 1.300",
+    "id": "1506721248",
+    "titulo": "Vendo jogos de ps3 e ps4 ",
+    "preco": 100,
+    "precoRaw": "R$ 100",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "02:09",
-    "tempoOlx": "Na OLX desde novembro de 2015",
+    "detectado": "02:15",
+    "tempoOlx": "Na OLX desde janeiro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/ps4-1506720888",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/jogos-de-video-game/vendo-jogos-de-ps3-e-ps4-1506721248",
+    "fotoUrl": "https://img.olx.com.br/images/59/596657287737045.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/59/596657287737045.jpg",
+      "https://img.olx.com.br/images/61/616604166591641.jpg",
+      "https://img.olx.com.br/images/62/627694764620822.jpg",
+      "https://img.olx.com.br/images/63/633641409981633.jpg",
+      "https://img.olx.com.br/images/64/646604528346437.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780204510
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "02:09",
     "fotoUrl": "https://img.olx.com.br/images/19/193663282716716.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/193663282716716.jpg",
       "https://img.olx.com.br/images/21/215687404023485.jpg"
     ],
-    "defeito": false,
+    "id": "1506720888",
+    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/ps4-1506720888",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde novembro de 2015",
+    "titulo": "Ps4",
     "ts": 1780204147
   },
   {
@@ -10386,25 +10409,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "Jogo PS4 Wolfestein",
     "ts": 1780153234
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "12:00",
-    "fotoUrl": "https://img.olx.com.br/images/24/240656522062245.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/24/240656522062245.jpg",
-      "https://img.olx.com.br/images/23/239675284708821.jpg"
-    ],
-    "id": "1506510871",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506510871",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Xbox one S ",
-    "ts": 1780153212
   }
 ]
