@@ -1,16 +1,33 @@
 [
   {
-    "id": "1506824071",
-    "titulo": "Controle ps5",
-    "preco": 380,
-    "precoRaw": "R$ 380",
-    "categoria": "ps5",
+    "id": "1506789713",
+    "titulo": "iPhone 13 Pro 256gb",
+    "preco": 3200,
+    "precoRaw": "R$ 3.200",
+    "categoria": "iphone",
     "publicado": "",
     "detectado": "14:57",
-    "tempoOlx": "Na OLX desde outubro de 2020",
+    "tempoOlx": "Na OLX desde agosto de 2024",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/iphone-13-pro-256gb-1506789713",
+    "fotoUrl": "https://img.olx.com.br/images/30/303638640188318.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/30/303638640188318.jpg",
+      "https://img.olx.com.br/images/32/320672049272585.jpg",
+      "https://img.olx.com.br/images/33/335634766214257.jpg",
+      "https://img.olx.com.br/images/34/340675162927376.jpg",
+      "https://img.olx.com.br/images/36/362666763219392.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780250228
+  },
+  {
+    "categoria": "ps5",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-ps5-1506824071",
+    "defeito": false,
+    "detectado": "14:57",
     "fotoUrl": "https://img.olx.com.br/images/57/579683641812723.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/57/579683641812723.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/60/607659766768289.jpg",
       "https://img.olx.com.br/images/60/606667288317967.jpg"
     ],
-    "defeito": false,
+    "id": "1506824071",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-ps5-1506824071",
+    "preco": 380,
+    "precoRaw": "R$ 380",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2020",
+    "titulo": "Controle ps5",
     "ts": 1780250225
   },
   {
@@ -10395,25 +10418,5 @@
     "tempoOlx": "Na OLX desde novembro de 2013",
     "titulo": "Jogo PS4 PES 2015",
     "ts": 1780153307
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:01",
-    "fotoUrl": "https://img.olx.com.br/images/44/440675766009448.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/44/440675766009448.jpg",
-      "https://img.olx.com.br/images/44/441636646101172.jpg"
-    ],
-    "id": "1506579322",
-    "link": "https://rs.olx.com.br/regioes-de-porto-alegre-torres-e-santa-cruz-do-sul/games/jogos-de-video-game/jogo-playstation-4-ps4-shaq-fu-a-legend-reborn-lacrado-1506579322",
-    "preco": 282,
-    "precoRaw": "R$ 282",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde março de 2014",
-    "titulo": "JOGO PLAYSTATION 4 PS4 SHAQ FU A LEGEND REBORN LACRADO ",
-    "ts": 1780153300
   }
 ]
