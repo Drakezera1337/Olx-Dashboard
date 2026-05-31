@@ -1,23 +1,46 @@
 [
   {
-    "id": "1506702510",
-    "titulo": "Ps4",
-    "preco": 1500,
-    "precoRaw": "R$ 1.500",
+    "id": "1506703229",
+    "titulo": "Ps4 Slim 1TT ",
+    "preco": 1780,
+    "precoRaw": "R$ 1.780",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "22:56",
-    "tempoOlx": "Na OLX desde abril de 2026",
+    "detectado": "23:02",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1506702510",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1tt-1506703229",
+    "fotoUrl": "https://img.olx.com.br/images/71/717617287746493.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/71/717617287746493.jpg",
+      "https://img.olx.com.br/images/72/724605283946239.jpg",
+      "https://img.olx.com.br/images/74/743614281307197.jpg",
+      "https://img.olx.com.br/images/76/765647401898926.jpg",
+      "https://img.olx.com.br/images/77/772631048844655.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780192926
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "22:56",
     "fotoUrl": "https://img.olx.com.br/images/90/907606525309865.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/90/907606525309865.jpg",
       "https://img.olx.com.br/images/93/932685167260859.jpg",
       "https://img.olx.com.br/images/97/977668048006933.jpg"
     ],
-    "defeito": false,
+    "id": "1506702510",
+    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/jogos-de-video-game/ps4-1506702510",
+    "preco": 1500,
+    "precoRaw": "R$ 1.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde abril de 2026",
+    "titulo": "Ps4",
     "ts": 1780192566
   },
   {
@@ -10367,26 +10390,5 @@
     "tempoOlx": "Na OLX desde setembro de 2016",
     "titulo": "Bioshock - Ps3",
     "ts": 1780152746
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:52",
-    "fotoUrl": "https://img.olx.com.br/images/88/883654402320202.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/88/883654402320202.jpg",
-      "https://img.olx.com.br/images/89/897629768764441.jpg",
-      "https://img.olx.com.br/images/91/918649767600760.jpg"
-    ],
-    "id": "1506550323",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/ps3-fat-400gb-com-jogos-1506550323",
-    "preco": 300,
-    "precoRaw": "R$ 300",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2026",
-    "titulo": "PS3 FAT (400GB) com jogos",
-    "ts": 1780152738
   }
 ]
