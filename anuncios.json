@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506835323",
-    "titulo": "Ps4 Slim ",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
+    "id": "1506835255",
+    "titulo": "Jogos de PS4 (a partir de 50$)",
+    "preco": 50,
+    "precoRaw": "R$ 50",
     "categoria": "ps4",
     "publicado": "",
     "detectado": "15:43",
-    "tempoOlx": "Na OLX desde outubro de 2022",
+    "tempoOlx": "Na OLX desde abril de 2019",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-1506835323",
+    "link": "https://al.olx.com.br/alagoas/games/jogos-de-video-game/jogos-de-ps4-a-partir-de-50-1506835255",
+    "fotoUrl": "https://img.olx.com.br/images/96/962609408357630.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/96/962609408357630.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780253004
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:43",
     "fotoUrl": "https://img.olx.com.br/images/19/199679284226559.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/19/199679284226559.jpg",
@@ -19,7 +32,13 @@
       "https://img.olx.com.br/images/92/925620406241336.jpg",
       "https://img.olx.com.br/images/95/952655407283925.jpg"
     ],
-    "defeito": false,
+    "id": "1506835323",
+    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/ps4-slim-1506835323",
+    "preco": 1000,
+    "precoRaw": "R$ 1.000",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde outubro de 2022",
+    "titulo": "Ps4 Slim ",
     "ts": 1780252996
   },
   {
@@ -10475,28 +10494,5 @@
     "tempoOlx": "Na OLX desde maio de 2026",
     "titulo": "Ps4 semi novo e 4 jogos originais",
     "ts": 1780167636
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:59",
-    "fotoUrl": "https://img.olx.com.br/images/26/269606042969455.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/269606042969455.jpg",
-      "https://img.olx.com.br/images/32/320658409518440.jpg",
-      "https://img.olx.com.br/images/37/378699287678416.jpg",
-      "https://img.olx.com.br/images/44/443605163682026.jpg",
-      "https://img.olx.com.br/images/62/621600287885091.jpg"
-    ],
-    "id": "1506631851",
-    "link": "https://go.olx.com.br/grande-goiania-e-anapolis/games/consoles-de-video-game/playstation-4-slim-1tb-seminovo-1tb-completo-fc24-digital-controle-original-jogos-1506631851",
-    "preco": 1050,
-    "precoRaw": "R$ 1.050",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2020",
-    "titulo": "PlayStation 4 Slim 1TB Seminovo 1TB Completo + FC24 Digital + Controle Original + Jogos",
-    "ts": 1780167547
   }
 ]
