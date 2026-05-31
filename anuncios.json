@@ -1,16 +1,33 @@
 [
   {
-    "id": "1461055285",
-    "titulo": "Jogo FarCry 3 e FarCry4 - PS3",
-    "preco": 75,
-    "precoRaw": "R$ 75",
+    "id": "1461053343",
+    "titulo": "Jogo Need for Speed Rivals - PS3",
+    "preco": 60,
+    "precoRaw": "R$ 60",
     "categoria": "ps3",
     "publicado": "",
     "detectado": "00:13",
     "tempoOlx": "Na OLX desde setembro de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/jogo-farcry-3-e-farcry4-ps3-1461055285",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/jogo-need-for-speed-rivals-ps3-1461053343",
+    "fotoUrl": "https://img.olx.com.br/images/12/121592596294595.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/12/121592596294595.jpg",
+      "https://img.olx.com.br/images/15/156509476521557.jpg",
+      "https://img.olx.com.br/images/17/172521233887955.jpg",
+      "https://img.olx.com.br/images/20/200573111285973.jpg",
+      "https://img.olx.com.br/images/23/237562477709590.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780197192
+  },
+  {
+    "categoria": "ps3",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "00:13",
     "fotoUrl": "https://img.olx.com.br/images/95/950588719975273.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/950588719975273.jpg",
@@ -19,7 +36,13 @@
       "https://img.olx.com.br/images/14/145532833055128.jpg",
       "https://img.olx.com.br/images/16/167566831190728.jpg"
     ],
-    "defeito": false,
+    "id": "1461055285",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/jogo-farcry-3-e-farcry4-ps3-1461055285",
+    "preco": 75,
+    "precoRaw": "R$ 75",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2023",
+    "titulo": "Jogo FarCry 3 e FarCry4 - PS3",
     "ts": 1780197184
   },
   {
@@ -10360,25 +10383,5 @@
     "tempoOlx": "Na OLX desde março de 2014",
     "titulo": "JOGO PLAYSTATION 4 PS4 NEVERSONG LACRADO",
     "ts": 1780152964
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:55",
-    "fotoUrl": "https://img.olx.com.br/images/75/753672881159290.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/75/753672881159290.jpg",
-      "https://img.olx.com.br/images/77/773612408718769.jpg"
-    ],
-    "id": "1506571337",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/jogos-de-video-game/hogwarts-legacy-ps4-semi-novo-1506571337",
-    "preco": 90,
-    "precoRaw": "R$ 90",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2023",
-    "titulo": "Hogwarts Legacy PS4 Semi Novo",
-    "ts": 1780152956
   }
 ]
