@@ -1,16 +1,29 @@
 [
   {
-    "id": "1506808485",
-    "titulo": "Playstation 4 Slim 500gb",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1506806445",
+    "titulo": "Ps2 slim com leitor bom",
+    "preco": 320,
+    "precoRaw": "R$ 320",
+    "categoria": "outros",
     "publicado": "",
     "detectado": "15:10",
-    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "tempoOlx": "Na OLX desde fevereiro de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/playstation-4-slim-500gb-1506808485",
+    "link": "https://sp.olx.com.br/grande-campinas/games/consoles-de-video-game/ps2-slim-com-leitor-bom-1506806445",
+    "fotoUrl": "https://img.olx.com.br/images/72/722676648720609.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/72/722676648720609.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780251051
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:10",
     "fotoUrl": "https://img.olx.com.br/images/38/382631641726573.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/38/382631641726573.jpg",
@@ -20,7 +33,13 @@
       "https://img.olx.com.br/images/44/447694644176419.jpg",
       "https://img.olx.com.br/images/46/466696767906261.jpg"
     ],
-    "defeito": false,
+    "id": "1506808485",
+    "link": "https://sp.olx.com.br/regiao-de-bauru-e-marilia/games/consoles-de-video-game/playstation-4-slim-500gb-1506808485",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
+    "titulo": "Playstation 4 Slim 500gb",
     "ts": 1780251042
   },
   {
@@ -10479,27 +10498,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "Playstation 3 super slim com 320 GB mais controle um jogo original",
     "ts": 1780157466
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:07",
-    "fotoUrl": "https://img.olx.com.br/images/89/895580049333622.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/89/895580049333622.jpg",
-      "https://img.olx.com.br/images/90/900580403447671.jpg",
-      "https://img.olx.com.br/images/92/920561049385069.jpg",
-      "https://img.olx.com.br/images/93/930528640222464.jpg"
-    ],
-    "id": "1405461506",
-    "link": "https://sp.olx.com.br/sao-paulo-e-regiao/games/consoles-de-video-game/sbk-09-superbike-world-championship-playstation-3-1405461506",
-    "preco": 95,
-    "precoRaw": "R$ 95",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2020",
-    "titulo": "SBK 09 Superbike World Championship - Playstation 3",
-    "ts": 1780157253
   }
 ]
