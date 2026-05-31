@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506829971",
-    "titulo": "Controle Nintendo 64 Switch Online",
-    "preco": 770,
-    "precoRaw": "R$ 770",
-    "categoria": "switch",
+    "id": "1506829871",
+    "titulo": "Mario odyssey ",
+    "preco": 200,
+    "precoRaw": "R$ 200",
+    "categoria": "outros",
     "publicado": "",
-    "detectado": "15:27",
-    "tempoOlx": "Na OLX desde março de 2015",
+    "detectado": "15:28",
+    "tempoOlx": "Na OLX desde agosto de 2020",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-nintendo-64-switch-online-1506829971",
+    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/mario-odyssey-1506829871",
+    "fotoUrl": "https://img.olx.com.br/images/40/401634288892865.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/40/401634288892865.jpg",
+      "https://img.olx.com.br/images/41/418646646709813.jpg",
+      "https://img.olx.com.br/images/42/429642644632591.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780252082
+  },
+  {
+    "categoria": "switch",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:27",
     "fotoUrl": "https://img.olx.com.br/images/14/149628400613884.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/14/149628400613884.jpg",
@@ -19,7 +34,13 @@
       "https://img.olx.com.br/images/14/146629523285981.jpg",
       "https://img.olx.com.br/images/14/143684406010872.jpg"
     ],
-    "defeito": false,
+    "id": "1506829971",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/consoles-de-video-game/controle-nintendo-64-switch-online-1506829971",
+    "preco": 770,
+    "precoRaw": "R$ 770",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde março de 2015",
+    "titulo": "Controle Nintendo 64 Switch Online",
     "ts": 1780252070
   },
   {
@@ -10470,24 +10491,5 @@
     "tempoOlx": "Na OLX desde junho de 2020",
     "titulo": "PlayStation 4 ",
     "ts": 1780165636
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "15:27",
-    "fotoUrl": "https://img.olx.com.br/images/59/595656641864292.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/59/595656641864292.jpg"
-    ],
-    "id": "1506626206",
-    "link": "https://mg.olx.com.br/belo-horizonte-e-regiao/games/jogos-de-video-game/vendo-ps4-1506626206",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2016",
-    "titulo": "Vendo ps4",
-    "ts": 1780165626
   }
 ]
