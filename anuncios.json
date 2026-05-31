@@ -1,23 +1,43 @@
 [
   {
-    "id": "1506720852",
-    "titulo": "Xbox séries S ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1506720888",
+    "titulo": "Ps4",
+    "preco": 1300,
+    "precoRaw": "R$ 1.300",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "02:06",
-    "tempoOlx": "Na OLX desde setembro de 2019",
+    "detectado": "02:09",
+    "tempoOlx": "Na OLX desde novembro de 2015",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/xbox-series-s-1506720852",
+    "link": "https://pa.olx.com.br/regiao-de-santarem/games/jogos-de-video-game/ps4-1506720888",
+    "fotoUrl": "https://img.olx.com.br/images/19/193663282716716.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/19/193663282716716.jpg",
+      "https://img.olx.com.br/images/21/215687404023485.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780204147
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "02:06",
     "fotoUrl": "https://img.olx.com.br/images/95/959636647572083.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/95/959636647572083.jpg",
       "https://img.olx.com.br/images/97/970625649401331.jpg",
       "https://img.olx.com.br/images/98/984677640022529.jpg"
     ],
-    "defeito": false,
+    "id": "1506720852",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/xbox-series-s-1506720852",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde setembro de 2019",
+    "titulo": "Xbox séries S ",
     "ts": 1780203997
   },
   {
@@ -10386,25 +10406,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2016",
     "titulo": "Xbox one S ",
     "ts": 1780153212
-  },
-  {
-    "categoria": "xbox",
-    "cidade": "—",
-    "cidadeCategoria": "macae",
-    "defeito": false,
-    "detectado": "12:00",
-    "fotoUrl": "https://img.olx.com.br/images/64/641649763523114.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/64/641649763523114.jpg",
-      "https://img.olx.com.br/images/64/649681404129082.jpg"
-    ],
-    "id": "1506511093",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1506511093",
-    "preco": 1000,
-    "precoRaw": "R$ 1.000",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde fevereiro de 2016",
-    "titulo": "Xbox one S",
-    "ts": 1780153204
   }
 ]
