@@ -1,16 +1,33 @@
 [
   {
-    "id": "1506817137",
-    "titulo": "Ps4 fat com defeito",
-    "preco": 300,
-    "precoRaw": "R$ 300",
+    "id": "1506808643",
+    "titulo": "Controle PS4/PC",
+    "preco": 95,
+    "precoRaw": "R$ 95",
     "categoria": "ps4",
     "publicado": "",
-    "detectado": "15:00",
-    "tempoOlx": "Na OLX desde agosto de 2017",
+    "detectado": "15:01",
+    "tempoOlx": "Na OLX desde janeiro de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-fat-com-defeito-1506817137",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/consoles-de-video-game/controle-ps4-pc-1506808643",
+    "fotoUrl": "https://img.olx.com.br/images/92/923698282853180.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/92/923698282853180.jpg",
+      "https://img.olx.com.br/images/93/931638165120797.jpg",
+      "https://img.olx.com.br/images/94/944653403992574.jpg",
+      "https://img.olx.com.br/images/95/957623282517487.jpg",
+      "https://img.olx.com.br/images/96/961664881611106.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780250461
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:00",
     "fotoUrl": "https://img.olx.com.br/images/34/346692404704835.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/34/346692404704835.jpg",
@@ -18,7 +35,13 @@
       "https://img.olx.com.br/images/36/362606640813683.jpg",
       "https://img.olx.com.br/images/37/379652401113013.jpg"
     ],
-    "defeito": false,
+    "id": "1506817137",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/ps4-fat-com-defeito-1506817137",
+    "preco": 300,
+    "precoRaw": "R$ 300",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2017",
+    "titulo": "Ps4 fat com defeito",
     "ts": 1780250448
   },
   {
@@ -10447,24 +10470,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2023",
     "titulo": "Ps4",
     "ts": 1780155281
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "12:34",
-    "fotoUrl": "https://img.olx.com.br/images/70/701608763645066.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/701608763645066.jpg"
-    ],
-    "id": "1506463455",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps4-1506463455",
-    "preco": 900,
-    "precoRaw": "R$ 900",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde maio de 2017",
-    "titulo": "PS4 ",
-    "ts": 1780155273
   }
 ]
