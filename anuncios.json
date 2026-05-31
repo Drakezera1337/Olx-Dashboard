@@ -1,23 +1,43 @@
 [
   {
-    "id": "1498046220",
-    "titulo": "Jogos PS4",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "categoria": "ps4",
+    "id": "1506691727",
+    "titulo": "Jogo PS3 ",
+    "preco": 50,
+    "precoRaw": "R$ 50",
+    "categoria": "ps3",
     "publicado": "",
     "detectado": "21:41",
-    "tempoOlx": "Na OLX desde julho de 2017",
+    "tempoOlx": "Na OLX desde junho de 2023",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/jogos-ps4-1498046220",
+    "link": "https://df.olx.com.br/distrito-federal-e-regiao/games/jogos-de-video-game/jogo-ps3-1506691727",
+    "fotoUrl": "https://img.olx.com.br/images/53/538609048189614.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/53/538609048189614.jpg",
+      "https://img.olx.com.br/images/54/540612405827617.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780188073
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:41",
     "fotoUrl": "https://img.olx.com.br/images/18/189671277146256.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/18/189671277146256.jpg",
       "https://img.olx.com.br/images/20/208669153127301.jpg",
       "https://img.olx.com.br/images/21/219686276476163.jpg"
     ],
-    "defeito": false,
+    "id": "1498046220",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/jogos-ps4-1498046220",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde julho de 2017",
+    "titulo": "Jogos PS4",
     "ts": 1780188065
   },
   {
@@ -10389,24 +10409,5 @@
     "tempoOlx": "Na OLX desde julho de 2022",
     "titulo": "PlayStation 4 1 TERÁ",
     "ts": 1780111925
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:29",
-    "fotoUrl": "https://img.olx.com.br/images/97/972649409045969.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/97/972649409045969.jpg"
-    ],
-    "id": "1506501505",
-    "link": "https://pr.olx.com.br/regiao-de-curitiba-e-paranagua/games/consoles-de-video-game/ps4-pro-1506501505",
-    "preco": 1100,
-    "precoRaw": "R$ 1.100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2019",
-    "titulo": "PS4 PRO",
-    "ts": 1780111745
   }
 ]
