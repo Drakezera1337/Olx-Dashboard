@@ -1,22 +1,42 @@
 [
   {
-    "id": "1504518023",
-    "titulo": "Xbox Séries S ",
-    "preco": 1460,
-    "precoRaw": "R$ 1.460",
-    "categoria": "xbox",
+    "id": "1506817527",
+    "titulo": "Ps3 com defeito ",
+    "preco": 220,
+    "precoRaw": "R$ 220",
+    "categoria": "ps3",
     "publicado": "",
-    "detectado": "15:13",
-    "tempoOlx": "Na OLX desde maio de 2023",
+    "detectado": "15:14",
+    "tempoOlx": "Na OLX desde novembro de 2021",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-1504518023",
+    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/ps3-com-defeito-1506817527",
+    "fotoUrl": "https://img.olx.com.br/images/95/959621646009399.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/95/959621646009399.jpg",
+      "https://img.olx.com.br/images/97/976609640705436.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780251241
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:13",
     "fotoUrl": "https://img.olx.com.br/images/21/217637647979440.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/21/217637647979440.jpg",
       "https://img.olx.com.br/images/22/221667405407937.jpg"
     ],
-    "defeito": false,
+    "id": "1504518023",
+    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/consoles-de-video-game/xbox-series-s-1504518023",
+    "preco": 1460,
+    "precoRaw": "R$ 1.460",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2023",
+    "titulo": "Xbox Séries S ",
     "ts": 1780251233
   },
   {
@@ -10480,27 +10500,5 @@
     "tempoOlx": "Na OLX desde abril de 2016",
     "titulo": "Ps4 500gb controle original ",
     "ts": 1780159162
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:39",
-    "fotoUrl": "https://img.olx.com.br/images/69/697664769296695.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/69/697664769296695.jpg",
-      "https://img.olx.com.br/images/71/710634400808468.jpg",
-      "https://img.olx.com.br/images/72/720688648681087.jpg",
-      "https://img.olx.com.br/images/73/732624161056700.jpg"
-    ],
-    "id": "1506606873",
-    "link": "https://rj.olx.com.br/serra-angra-dos-reis-e-regiao/games/jogos-de-video-game/ps4-fat-500-8-jogos-fisico-e-digital-1506606873",
-    "preco": 1250,
-    "precoRaw": "R$ 1.250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2024",
-    "titulo": "PS4 FAT 500 + 8 JOGOS ( FÍSICO E DIGITAL).",
-    "ts": 1780159153
   }
 ]
