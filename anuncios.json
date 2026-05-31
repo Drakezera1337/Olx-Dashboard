@@ -1,16 +1,34 @@
 [
   {
-    "id": "1506212507",
-    "titulo": "PS4 slim 500Gb",
-    "preco": 1200,
-    "precoRaw": "R$ 1.200",
-    "categoria": "ps4",
+    "id": "1506828343",
+    "titulo": "Xbox S impecável",
+    "preco": 1299,
+    "precoRaw": "R$ 1.299",
+    "categoria": "xbox",
     "publicado": "",
-    "detectado": "15:12",
-    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "detectado": "15:13",
+    "tempoOlx": "Na OLX desde dezembro de 2018",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/ps4-slim-500gb-1506212507",
+    "link": "https://pb.olx.com.br/paraiba/games/consoles-de-video-game/xbox-s-impecavel-1506828343",
+    "fotoUrl": "https://img.olx.com.br/images/47/470652165314112.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/47/470652165314112.jpg",
+      "https://img.olx.com.br/images/48/480617286143050.jpg",
+      "https://img.olx.com.br/images/50/507675883206978.jpg",
+      "https://img.olx.com.br/images/52/524689521908431.jpg",
+      "https://img.olx.com.br/images/54/545600164887483.jpg",
+      "https://img.olx.com.br/images/56/568614043035100.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780251183
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "15:12",
     "fotoUrl": "https://img.olx.com.br/images/39/396621408030035.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/39/396621408030035.jpg",
@@ -20,7 +38,13 @@
       "https://img.olx.com.br/images/46/469694289729951.jpg",
       "https://img.olx.com.br/images/48/486695521538626.jpg"
     ],
-    "defeito": false,
+    "id": "1506212507",
+    "link": "https://pr.olx.com.br/regiao-de-londrina/games/consoles-de-video-game/ps4-slim-500gb-1506212507",
+    "preco": 1200,
+    "precoRaw": "R$ 1.200",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2024",
+    "titulo": "PS4 slim 500Gb",
     "ts": 1780251174
   },
   {
@@ -10478,25 +10502,5 @@
     "tempoOlx": "Na OLX desde fevereiro de 2014",
     "titulo": "Vendo PS4 com 2 controles e 3 jogos e cabo ",
     "ts": 1780158726
-  },
-  {
-    "categoria": "ps5",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "13:26",
-    "fotoUrl": "https://img.olx.com.br/images/91/915640285778883.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/91/915640285778883.jpg",
-      "https://img.olx.com.br/images/92/920672403793978.jpg"
-    ],
-    "id": "1506423259",
-    "link": "https://am.olx.com.br/regiao-de-manaus/games/consoles-de-video-game/playstation-5-1506423259",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde abril de 2022",
-    "titulo": "PLAYSTATION 5",
-    "ts": 1780158394
   }
 ]
