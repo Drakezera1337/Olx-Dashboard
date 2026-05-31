@@ -1,16 +1,30 @@
 [
   {
-    "id": "1506703229",
-    "titulo": "Ps4 Slim 1TT ",
-    "preco": 1780,
-    "precoRaw": "R$ 1.780",
-    "categoria": "ps4",
+    "id": "1506703884",
+    "titulo": "Vídeo Game Nintendo Switch ",
+    "preco": 500,
+    "precoRaw": "R$ 500",
+    "categoria": "switch",
     "publicado": "",
-    "detectado": "23:02",
-    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "detectado": "23:10",
+    "tempoOlx": "Na OLX desde novembro de 2022",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1tt-1506703229",
+    "link": "https://sp.olx.com.br/regiao-de-ribeirao-preto/games/consoles-de-video-game/video-game-nintendo-switch-1506703884",
+    "fotoUrl": "https://img.olx.com.br/images/37/377616288155668.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/37/377616288155668.jpg",
+      "https://img.olx.com.br/images/40/405678885067504.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780193435
+  },
+  {
+    "categoria": "ps4",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "23:02",
     "fotoUrl": "https://img.olx.com.br/images/71/717617287746493.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/71/717617287746493.jpg",
@@ -19,7 +33,13 @@
       "https://img.olx.com.br/images/76/765647401898926.jpg",
       "https://img.olx.com.br/images/77/772631048844655.jpg"
     ],
-    "defeito": false,
+    "id": "1506703229",
+    "link": "https://ce.olx.com.br/fortaleza-e-regiao/games/jogos-de-video-game/ps4-slim-1tt-1506703229",
+    "preco": 1780,
+    "precoRaw": "R$ 1.780",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde janeiro de 2018",
+    "titulo": "Ps4 Slim 1TT ",
     "ts": 1780192926
   },
   {
@@ -10370,25 +10390,5 @@
     "tempoOlx": "Na OLX desde maio de 2015",
     "titulo": "PS3 SLIM SÓ CONSOLE ACENDE A LUZ VERDE E EM SEGUIDA A LUZ VERMELHA PARA RESTAURAÇÃO ",
     "ts": 1780152752
-  },
-  {
-    "categoria": "ps3",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "11:52",
-    "fotoUrl": "https://img.olx.com.br/images/26/264697523446986.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/26/264697523446986.jpg",
-      "https://img.olx.com.br/images/27/278641289062575.jpg"
-    ],
-    "id": "1422312288",
-    "link": "https://rj.olx.com.br/rio-de-janeiro-e-regiao/games/consoles-de-video-game/bioshock-ps3-1422312288",
-    "preco": 40,
-    "precoRaw": "R$ 40",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2016",
-    "titulo": "Bioshock - Ps3",
-    "ts": 1780152746
   }
 ]
