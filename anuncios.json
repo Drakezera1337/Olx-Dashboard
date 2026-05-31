@@ -1,16 +1,31 @@
 [
   {
-    "id": "1506691688",
-    "titulo": "Vendo Playstation 5 Mídia Física",
-    "preco": 2500,
-    "precoRaw": "R$ 2.500",
-    "categoria": "ps5",
+    "id": "1498046220",
+    "titulo": "Jogos PS4",
+    "preco": 80,
+    "precoRaw": "R$ 80",
+    "categoria": "ps4",
     "publicado": "",
-    "detectado": "21:39",
-    "tempoOlx": "Na OLX desde agosto de 2019",
+    "detectado": "21:41",
+    "tempoOlx": "Na OLX desde julho de 2017",
     "cidade": "—",
     "cidadeCategoria": "",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/vendo-playstation-5-midia-fisica-1506691688",
+    "link": "https://sp.olx.com.br/regiao-de-sao-jose-do-rio-preto/games/jogos-de-video-game/jogos-ps4-1498046220",
+    "fotoUrl": "https://img.olx.com.br/images/18/189671277146256.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/18/189671277146256.jpg",
+      "https://img.olx.com.br/images/20/208669153127301.jpg",
+      "https://img.olx.com.br/images/21/219686276476163.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780188065
+  },
+  {
+    "categoria": "ps5",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "defeito": false,
+    "detectado": "21:39",
     "fotoUrl": "https://img.olx.com.br/images/97/975646523399099.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/97/975646523399099.jpg",
@@ -20,7 +35,13 @@
       "https://img.olx.com.br/images/13/131695040066796.jpg",
       "https://img.olx.com.br/images/14/140696522921361.jpg"
     ],
-    "defeito": false,
+    "id": "1506691688",
+    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/consoles-de-video-game/vendo-playstation-5-midia-fisica-1506691688",
+    "preco": 2500,
+    "precoRaw": "R$ 2.500",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde agosto de 2019",
+    "titulo": "Vendo Playstation 5 Mídia Física",
     "ts": 1780187945
   },
   {
@@ -10387,24 +10408,5 @@
     "tempoOlx": "Na OLX desde outubro de 2019",
     "titulo": "PS4 PRO",
     "ts": 1780111745
-  },
-  {
-    "categoria": "outros",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "00:26",
-    "fotoUrl": "https://img.olx.com.br/images/92/920593910628217.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/92/920593910628217.jpg"
-    ],
-    "id": "1427825942",
-    "link": "https://ms.olx.com.br/mato-grosso-do-sul/games/jogos-de-video-game/mafia-3-com-mapa-1427825942",
-    "preco": 80,
-    "precoRaw": "R$ 80",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde dezembro de 2015",
-    "titulo": "Máfia 3 com mapa",
-    "ts": 1780111566
   }
 ]
