@@ -1,16 +1,30 @@
 [
   {
-    "id": "1488671109",
-    "titulo": "Xbox one S ",
-    "preco": 1400,
-    "precoRaw": "R$ 1.400",
-    "categoria": "xbox",
+    "id": "1506757150",
+    "titulo": "Playstation 5 Slim ",
+    "preco": 3000,
+    "precoRaw": "R$ 3.000",
+    "categoria": "ps5",
     "publicado": "",
-    "detectado": "15:17",
-    "tempoOlx": "Na OLX desde junho de 2020",
+    "detectado": "15:18",
+    "tempoOlx": "Na OLX desde fevereiro de 2015",
     "cidade": "—",
     "cidadeCategoria": "campos",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1488671109",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/playstation-5-slim-1506757150",
+    "fotoUrl": "https://img.olx.com.br/images/43/436696764021540.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/43/436696764021540.jpg",
+      "https://img.olx.com.br/images/44/444604766359878.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780251483
+  },
+  {
+    "categoria": "xbox",
+    "cidade": "—",
+    "cidadeCategoria": "campos",
+    "defeito": false,
+    "detectado": "15:17",
     "fotoUrl": "https://img.olx.com.br/images/64/644621623425087.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/64/644621623425087.jpg",
@@ -18,7 +32,13 @@
       "https://img.olx.com.br/images/67/678628267968917.jpg",
       "https://img.olx.com.br/images/68/682691624430238.jpg"
     ],
-    "defeito": false,
+    "id": "1488671109",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/games/consoles-de-video-game/xbox-one-s-1488671109",
+    "preco": 1400,
+    "precoRaw": "R$ 1.400",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde junho de 2020",
+    "titulo": "Xbox one S ",
     "ts": 1780251475
   },
   {
@@ -10481,24 +10501,5 @@
     "tempoOlx": "Na OLX desde julho de 2020",
     "titulo": "Uncharted - Collection - Ps4 ",
     "ts": 1780162013
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "14:26",
-    "fotoUrl": "https://img.olx.com.br/images/35/359631768508682.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/35/359631768508682.jpg"
-    ],
-    "id": "1506615724",
-    "link": "https://sp.olx.com.br/baixada-santista-e-litoral-sul/games/jogos-de-video-game/vende-se-ou-troca-se-jogos-de-ps4-1506615724",
-    "preco": 250,
-    "precoRaw": "R$ 250",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde outubro de 2015",
-    "titulo": "Vende-se ou troca-se jogos de ps4 ",
-    "ts": 1780162004
   }
 ]
