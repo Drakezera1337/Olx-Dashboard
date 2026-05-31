@@ -1,21 +1,44 @@
 [
   {
-    "id": "1506865759",
-    "titulo": "Celular ",
-    "preco": 450,
-    "precoRaw": "R$ 450",
+    "id": "1506867024",
+    "titulo": "PLAYSTATION PORTAL NOVO",
+    "preco": 900,
+    "precoRaw": "R$ 900",
     "categoria": "outros",
     "publicado": "",
-    "detectado": "18:42",
-    "tempoOlx": "Na OLX desde maio de 2026",
+    "detectado": "18:49",
+    "tempoOlx": "Na OLX desde agosto de 2015",
+    "cidade": "—",
+    "cidadeCategoria": "",
+    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/consoles-de-video-game/playstation-portal-novo-1506867024",
+    "fotoUrl": "https://img.olx.com.br/images/10/106620649068916.jpg",
+    "fotosUrls": [
+      "https://img.olx.com.br/images/10/106620649068916.jpg",
+      "https://img.olx.com.br/images/11/116654404101559.jpg",
+      "https://img.olx.com.br/images/11/113644885675873.jpg",
+      "https://img.olx.com.br/images/12/121682767680489.jpg",
+      "https://img.olx.com.br/images/14/148696763970515.jpg"
+    ],
+    "defeito": false,
+    "ts": 1780264185
+  },
+  {
+    "categoria": "outros",
     "cidade": "—",
     "cidadeCategoria": "sjb",
-    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-1506865759",
+    "defeito": false,
+    "detectado": "18:42",
     "fotoUrl": "https://img.olx.com.br/images/16/160675407746349.jpg",
     "fotosUrls": [
       "https://img.olx.com.br/images/16/160675407746349.jpg"
     ],
-    "defeito": false,
+    "id": "1506865759",
+    "link": "https://rj.olx.com.br/norte-do-estado-do-rio/celulares/celular-1506865759",
+    "preco": 450,
+    "precoRaw": "R$ 450",
+    "publicado": "",
+    "tempoOlx": "Na OLX desde maio de 2026",
+    "titulo": "Celular ",
     "ts": 1780263730
   },
   {
@@ -10465,25 +10488,5 @@
     "tempoOlx": "Na OLX desde junho de 2015",
     "titulo": "PS4 Seminovo em Excelente Estado + 2 Controles Originais",
     "ts": 1780185394
-  },
-  {
-    "categoria": "ps4",
-    "cidade": "—",
-    "cidadeCategoria": "",
-    "defeito": false,
-    "detectado": "20:56",
-    "fotoUrl": "https://img.olx.com.br/images/70/703619401961311.jpg",
-    "fotosUrls": [
-      "https://img.olx.com.br/images/70/703619401961311.jpg",
-      "https://img.olx.com.br/images/71/718671409441502.jpg"
-    ],
-    "id": "1506686084",
-    "link": "https://ma.olx.com.br/regiao-de-sao-luis/games/jogos-de-video-game/jogo-ps4-1506686084",
-    "preco": 100,
-    "precoRaw": "R$ 100",
-    "publicado": "",
-    "tempoOlx": "Na OLX desde setembro de 2019",
-    "titulo": "Jogo ps4",
-    "ts": 1780185386
   }
 ]
